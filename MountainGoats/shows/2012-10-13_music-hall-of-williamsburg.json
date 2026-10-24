@@ -3,6 +3,7 @@
  "collection": "MountainGoats",
  "coverage": "Brooklyn NY",
  "date": "2012-10-13",
+ "has_binaural": false,
  "notes": {
   "facts": {
    "body_md": "",
@@ -428,6 +429,78 @@
    "signature": "se9qnGl3PWbbUgwkAqm0MqbdlitVIjBZDvrTKpTFDqKDBBYrWmLk22Sfk8kkSyfudVPGJ2-LYZjuQGrSLZcXCw",
    "subject_key": "live:mountain-goats:2012-10-13:music-hall-of-williamsburg",
    "updated_at": "2026-10-23T22:48:28.255332"
+  },
+  "liner": {
+   "body_md": "",
+   "citations": [
+    {
+     "accessed_at": "2026-10-23",
+     "author": "nyctaper",
+     "author_url": "https://archive.org/search?query=taper%3A%22nyctaper%22",
+     "credits": [
+      {
+       "name": "nyctaper",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22nyctaper%22"
+      },
+      {
+       "name": "nyctaper",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22nyctaper%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2013-11-29",
+     "quote_or_claim": "The setlist includes 21 songs, totaling 1:47:05, with specific tracks like 'Amy aka Spent Gladiator 1' and 'Cry for Judas' noted as first in the archive, and the recording was posted by nyctaper.",
+     "site": "Internet Archive",
+     "title": "Mountain Goats Live at Music Hall of Williamsburg on 2012-10-13",
+     "url": "https://archive.org/details/MountainGoats2012-10-13.nyctaper",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-23",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "The show is the 176th of 467 in the archive, the previous show was on 2012-09-19, and the recording is recommended because it is the only one with a documented lineage.",
+     "site": "Internet Archive",
+     "title": "MountainGoats collection, Live Music Archive",
+     "url": "https://archive.org/details/MountainGoats",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "show": "live:mountain-goats:2012-10-13:music-hall-of-williamsburg"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 2,
+    "backend": "adhoc",
+    "facts_hash": "a5a6d66af69a284d7a3aecd8a418aff01af6d8c8e566f2edd73e263f443eb6f6",
+    "generated_at": "2026-10-24T14:19:38.258783+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "ea8e747942f2ce1280e80575d8c6c34a40f65a3b835f4653a5ddeeba718b86ba",
+    "prompt_version": "liner-2",
+    "rejected": [
+     "names not in the facts or sources (do not guess): york"
+    ],
+    "seconds": 102.3
+   },
+   "revision": 1,
+   "signature": "nlbIOgocVJEnzm11-rk-iwao0_VO80Tr_Z3a4ibmemq4bJiElWKa0_H1vsX9SAE4UvligGw4JsA2jLJB5ehxAQ",
+   "subject_key": "live:mountain-goats:2012-10-13:music-hall-of-williamsburg",
+   "summary_hidden": true,
+   "updated_at": "2026-10-24T14:19:38.265919"
   }
  },
  "recommended": {

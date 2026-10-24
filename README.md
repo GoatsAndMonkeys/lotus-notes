@@ -6,7 +6,9 @@ A client needs only the base URL and the server's public key.
 
 Server key `8S5sc7cJpSpOBVnivFR9tA`: `WJqEYf19eeDyBbiEyvlsQTUnMwm8MRDTZ0JwvaxzUTY`
 
-- `MountainGoats/` MountainGoats
+- `KingGizzardAndTheLizardWizard/` King Gizzard & The Lizard Wizard: 2011–2026, 249 shows, 5 liner notes, notes in progress
+- `MountainGoats/` The Mountain Goats: 1992–2026, 467 shows, 434 liner notes, notes in progress
+- `TheWarOnDrugsMusic/` The War on Drugs: 2009–2026, 75 shows, 0 liner notes, notes in progress
 
 - `index.json` lists the packs and the key; `index.json.sig` signs it.
 - `<collection>/manifest.json` lists every file of a pack with its sha256;
