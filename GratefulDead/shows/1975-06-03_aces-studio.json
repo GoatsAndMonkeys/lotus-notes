@@ -189,6 +189,95 @@
    "signature": "5nPRPAF_clhn1TAomci6QcW-djH6gQ1CdXsogpsrhSZO8KsprJrDfuemm4gKbjRsyPbSQilvUeHB7gUMA6OTCQ",
    "subject_key": "live:grateful-dead:1975-06-03:aces-studio",
    "updated_at": "2026-10-25T17:35:14.434373"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Crazy Fingers** (1 other source): The source labels this Crazy Fingers take as instrumental only, with a note that it is still coming together [1]\n\n## Setlist highlights\n\n- **Spoonful jam**: rare: 5 archived performances [2]\n\n## The recordings\n\n- **gd1975-06-03.145776.sbd.pcm.dalton.miller.noel.flac16** (recommended): soundboard; 4 songs; 34 min [1]\n\n## Tapers and lineage\n\n- **gd1975-06-03.145776.sbd.pcm.dalton.miller.noel.flac16**: taped by Tim Dalton; transferred by Joe Noel and Charlie Miller; source: Soundboard -> ? -> PCM [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Tim Dalton",
+     "author_url": "https://archive.org/search?query=taper%3A%22Tim%20Dalton%22",
+     "credits": [
+      {
+       "name": "Tim Dalton",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Tim%20Dalton%22"
+      },
+      {
+       "name": "Joe Noel and Charlie Miller",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Joe%20Noel%20and%20Charlie%20Miller%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-03-23",
+     "quote_or_claim": "4-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Ace's Studio on 1975-06-03",
+     "url": "https://archive.org/details/gd1975-06-03.145776.sbd.pcm.dalton.miller.noel.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Crazy Fingers",
+      "song_key": "song:grateful-dead:crazy-fingers",
+      "src": 1,
+      "text": "The source labels this Crazy Fingers take as instrumental only, with a note that it is still coming together",
+      "type": "song"
+     },
+     {
+      "recording": "gd1975-06-03.145776.sbd.pcm.dalton.miller.noel.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The PCM soundboard source came from Tim Dalton and was edited and mastered by Joe Noel",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1975-06-03:aces-studio"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "63d074c5bd5bae314c62c07daa289f892d9ee6a00b474bf9e0bc3fde0aa585b6",
+    "generated_at": "2026-10-25T22:16:50.109906+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "9e277354972a993262beed0da5f4e7fe43df985d4b369f8d0d56a4885033fe29",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.0
+   },
+   "revision": 1,
+   "signature": "zgxur83Wkq_qEJGOzu5h_NXb0M9GLjxTD-qDqnAiY_veGOR2o31A8bOKIe7HwxlVrFMm2KZB60UF0jY1aYrLDg",
+   "subject_key": "live:grateful-dead:1975-06-03:aces-studio",
+   "updated_at": "2026-10-25T22:16:50.112433"
   }
  },
  "recommended": {

@@ -466,6 +466,106 @@
    "signature": "fuLY20e-iZtS6zAX9ltzPSeH1H2-pluur-93hW_H4GFVzwiaRk6OEj9oZmizxTLsbp5NkNLwrSM5HrmUy_lZBQ",
    "subject_key": "live:grateful-dead:1980-06-27:west-high-auditorium",
    "updated_at": "2026-10-25T17:35:16.640296"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **gd1980-06-20.141724.aud.flac24** (recommended): soundboard; 22 songs; 161 min [1]\n\n## Tapers and lineage\n\n- **gd1980-06-20.141724.aud.flac24**: source: Nakamichi CM700 > Sony TC D5 > Front Row Loge (Next to Healy & soundboard) [1]. Also: Reviewer says the soundboard file's date code is wrong and should be 1980-06-27 [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-04-28",
+     "quote_or_claim": "22-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at West High Auditorium on 1980-06-27",
+     "url": "https://archive.org/details/gd1980-06-20.141724.aud.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Pig Street !",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Pig%20Street%20%21%22",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2021-04-29",
+     "quote_or_claim": "Is this not 6/20?",
+     "site": "Internet Archive",
+     "title": "Review: Huh? (gd1980-06-20.141724.aud.flac24)",
+     "url": "https://archive.org/details/gd1980-06-20.141724.aud.flac24#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Crazy Fingers Skullafux",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Crazy%20Fingers%20Skullafux%22",
+     "claim": "Reviewer says the soundboard file's date code is wrong and should be 1980-06-27",
+     "id": 3,
+     "kind": "archive_review",
+     "published_at": "2022-08-15",
+     "quote_or_claim": "Date code should read 1980-06-27, the band was on break and en route back to Cali for the UCLA show on 6-29",
+     "site": "Internet Archive",
+     "title": "Review: Wrong Date (gd1980-06-20.141724.aud.flac24)",
+     "url": "https://archive.org/details/gd1980-06-20.141724.aud.flac24#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 4,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "gd1980-06-20.141724.aud.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Reviewer says the soundboard file's date code is wrong and should be 1980-06-27",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1980-06-27:west-high-auditorium"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "331acc7c61282d847757888fac74ae350cb629788ef90650c076cd87926586b1",
+    "generated_at": "2026-10-25T22:19:11.972441+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "169fa77a5f80337599eae01ca5a2239e260095ff231b108a9f376adb4bc9f5c8",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.3
+   },
+   "revision": 1,
+   "signature": "drwwWf9Ht-kIQWolx2-jD_MJq-z09OsN_sKs6iaNt-_GKrEzmu3pxaEOV3lmS85vostPttZgRd_XGE2s8EnVAQ",
+   "subject_key": "live:grateful-dead:1980-06-27:west-high-auditorium",
+   "updated_at": "2026-10-25T22:19:11.974081"
   }
  },
  "recommended": {

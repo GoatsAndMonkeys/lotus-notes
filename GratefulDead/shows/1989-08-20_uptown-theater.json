@@ -451,6 +451,133 @@
    "signature": "0tHxqSeE4FUkshied493c6amNeJJOACc9xpR1y_xbthfGi6w0q_BKozSfn0iCsMns2VXELydH-F4CTgpC9eEAg",
    "subject_key": "live:grateful-dead:1989-08-20:uptown-theater",
    "updated_at": "2026-10-25T17:35:24.682794"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **gd1989-08-20.149293.aud.flac2448** (recommended): audience recording; 21 songs; 149 min; rated 1.5/5 by 2 [1]. Said about its sound: A microphone or cable problem affected the recording during this song, according to the uploader; Left-channel audio was copied over the right channel in stretches of Althea and at the very start of U.S. Blues [1]\n\n## Tapers and lineage\n\n- **gd1989-08-20.149293.aud.flac2448**: taped by Unknown; transferred by Andrew F.; source: AUD of unknown lineage > ? > lo-gen cassette via Richie & Rip. [1]. Also: Patches from another source, ID-8740, cover Jack Straw entirely, the start of Loser, and a short stretch of Drums [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Unknown",
+     "author_url": "https://archive.org/search?query=taper%3A%22Unknown%22",
+     "credits": [
+      {
+       "name": "Unknown",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Unknown%22"
+      },
+      {
+       "name": "Andrew F.",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Andrew%20F.%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-03-26",
+     "quote_or_claim": "21-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Uptown Theater on 1989-08-20",
+     "url": "https://archive.org/details/gd1989-08-20.149293.aud.flac2448",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "jonnyb73",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22jonnyb73%22",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2020-03-27",
+     "quote_or_claim": "wrong year",
+     "site": "Internet Archive",
+     "title": "Review: 89? (gd1989-08-20.149293.aud.flac2448)",
+     "url": "https://archive.org/details/gd1989-08-20.149293.aud.flac2448#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "workingfromhome",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22workingfromhome%22",
+     "id": 3,
+     "kind": "archive_review",
+     "published_at": "2020-04-12",
+     "quote_or_claim": "Another misfile",
+     "site": "Internet Archive",
+     "title": "Review: Should be 1980-08-20 (gd1989-08-20.149293.aud.flac2448)",
+     "url": "https://archive.org/details/gd1989-08-20.149293.aud.flac2448#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 4,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "gd1989-08-20.149293.aud.flac2448",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "A microphone or cable problem affected the recording during this song, according to the uploader",
+      "type": "sound"
+     },
+     {
+      "recording": "gd1989-08-20.149293.aud.flac2448",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Left-channel audio was copied over the right channel in stretches of Althea and at the very start of U.S. Blues",
+      "type": "sound"
+     },
+     {
+      "recording": "gd1989-08-20.149293.aud.flac2448",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Patches from another source, ID-8740, cover Jack Straw entirely, the start of Loser, and a short stretch of Drums",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1989-08-20:uptown-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "150b5eeaefbc9a888844d8892640a63d4466f33a4f7ef29eeed912ca5a61bb1e",
+    "generated_at": "2026-10-25T22:14:56.732411+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "326ec906e4289c55bd21e02d16404873f411bbb2db4d51072206020036f28097",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 6.5
+   },
+   "revision": 1,
+   "signature": "gqvG722dEMXE1E2C9zie68EoGNsCQ-v0wxGi7MXmy3Mbc1oo8V5flV18G0iQplWyYxF3yDtEef3AA2OXXm4lCQ",
+   "subject_key": "live:grateful-dead:1989-08-20:uptown-theater",
+   "updated_at": "2026-10-25T22:14:56.735643"
   }
  },
  "recommended": {

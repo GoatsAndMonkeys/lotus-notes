@@ -226,6 +226,122 @@
    "signature": "BfCpAf51Vqw5fnKfPlBufSgG2-S27eOa6eaiuN-nBWY8Hz2SYbLpupuvC5fUX0N9AH5Dx0X4dR8k2GNd4506Cw",
    "subject_key": "live:grateful-dead:1979-07-11:studio-rehersal-club-front",
    "updated_at": "2026-10-25T17:35:16.025327"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **What'll You Raise**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- Earliest performances in the archive: Althea, Lost Sailor, Easy To Love You [3]\n\n## The recordings\n\n- **gd1979-07-11.153602.gth-outtakes.flyingM.flac2496** (recommended): source not stated; 4 songs; 21 min [1]\n- **gd1979-07-11.153601.gth-outtakes.flyingM.flac1644**: source not stated; 4 songs; 21 min [2]\n\n## Tapers and lineage\n\n- **gd1979-07-11.153602.gth-outtakes.flyingM.flac2496**: taped by From the collection of John Musgrave; transferred by Flying M; source: Studio > ? > Akai GX650DB @ 3 3/4 ips using Dolby B (most likely?) [1]. Also: Speed and pitch were corrected using Adobe Audition, with the corrections credited to Professor Goody [1]\n- **gd1979-07-11.153601.gth-outtakes.flyingM.flac1644**: taped by From the collection of John Musgrave; transferred by Flying M; source: Studio > ? > Akai GX650DB @ 3 3/4 ips using Dolby B (most likely?) [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "From the collection of John Musgrave",
+     "author_url": "https://archive.org/search?query=taper%3A%22From%20the%20collection%20of%20John%20Musgrave%22",
+     "credits": [
+      {
+       "name": "From the collection of John Musgrave",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22From%20the%20collection%20of%20John%20Musgrave%22"
+      },
+      {
+       "name": "Flying M",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Flying%20M%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-10-01",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Studio Rehersal, Club Front on 1979-07-11",
+     "url": "https://archive.org/details/gd1979-07-11.153602.gth-outtakes.flyingM.flac2496",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "From the collection of John Musgrave",
+     "author_url": "https://archive.org/search?query=taper%3A%22From%20the%20collection%20of%20John%20Musgrave%22",
+     "credits": [
+      {
+       "name": "From the collection of John Musgrave",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22From%20the%20collection%20of%20John%20Musgrave%22"
+      },
+      {
+       "name": "Flying M",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Flying%20M%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2021-10-01",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Studio Rehersal, Club Front on 1979-07-11",
+     "url": "https://archive.org/details/gd1979-07-11.153601.gth-outtakes.flyingM.flac1644",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "gd1979-07-11.153602.gth-outtakes.flyingM.flac2496",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Speed and pitch were corrected using Adobe Audition, with the corrections credited to Professor Goody",
+      "type": "lineage"
+     },
+     {
+      "recording": "gd1979-07-11.153602.gth-outtakes.flyingM.flac2496",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The source tapes came from John Musgrave's tape collection, which he loaned to the uploader",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1979-07-11:studio-rehersal-club-front"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "3c7a6707b3dd2a3fa229fbc40cca8542a39806268ccf0a83291bbc02aa325195",
+    "generated_at": "2026-10-25T22:16:15.743894+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "d8e7ca0827014bf09a99c58f16e1a46a24fec7c5a7655cddd8a62adde7c02a6f",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.9
+   },
+   "revision": 1,
+   "signature": "TJRtBx80ClrqrCzq9WcQWTlUxJM4WqrSU-I1UHDvk5Fdn3eO-fkA1ROajBbW0wlkzjJg0cfQaD_rSVln28wfBw",
+   "subject_key": "live:grateful-dead:1979-07-11:studio-rehersal-club-front",
+   "updated_at": "2026-10-25T22:16:15.746734"
   }
  },
  "recommended": {
