@@ -441,6 +441,103 @@
    "signature": "sS81W_DQc6HKoEe8oKWB72yth_hwKkFtQpsfdWbhcl-40d0T7aVGXwIukrYofWmVhfRFEDu03psxMNEEuDGQBw",
    "subject_key": "live:my-morning-jacket:2023-11-10:chicago-theatre",
    "updated_at": "2026-10-25T08:14:17.918905"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **November 2023 (Friday)**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Into the Woods**: back after 65 archived shows (2078 days); rare: 12 archived performances [2]\n- **Aluminum Park**: back after 64 archived shows (2076 days) [2]\n- **I Needed It Most**: rare: 9 archived performances [2]\n- **Nashville To Kentucky**: back after 27 archived shows (443 days) [2]\n\n## The recordings\n\n- **mmj2023-11-10.vwmule** (recommended): source not stated; 22 songs; 138 min [1]\n\n## Around the show\n\n- This was the second night of a three-night run at the Chicago Theatre; Devon Gilfillian opened and played guitar and vocals [1]\n\n## Tapers and lineage\n\n- **mmj2023-11-10.vwmule**: taped by Alex Leary; transferred by Alex Leary; source: Microtech Gefell M21 > nBob actives > Sound Devices MixPre-6 (24/48) [1]. Also: Transferred from the MixPre-6 to an iMac, tracked in Sound Studio, and converted to FLAC with xACT [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Alex Leary",
+     "author_url": "https://archive.org/search?query=taper%3A%22Alex%20Leary%22",
+     "credits": [
+      {
+       "name": "Alex Leary",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Alex%20Leary%22"
+      },
+      {
+       "name": "Alex Leary",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Alex%20Leary%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-11-13",
+     "quote_or_claim": "22-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Chicago Theatre on 2023-11-10",
+     "url": "https://archive.org/details/mmj2023-11-10.vwmule",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2023-11-10.vwmule",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Microtech Gefell M21 microphones through nBob actives into a Sound Devices MixPre-6 at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2023-11-10.vwmule",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred from the MixPre-6 to an iMac, tracked in Sound Studio, and converted to FLAC with xACT",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "This was the second night of a three-night run at the Chicago Theatre; Devon Gilfillian opened and played guitar and vocals",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2023-11-10:chicago-theatre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "aae6ea313b5a74e2a3e21a5a7f45746d603713fda9d64a3de5e56946e1751ccc",
+    "generated_at": "2026-10-25T18:05:20.416974+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "6a81a85a9ddea8f5487697a739a07cecc428f7f965a1a265dee3225657ac51c7",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.9
+   },
+   "revision": 1,
+   "signature": "8cG1RdjHtUSEBmQNezU0ZZlhwPI-h6VH4NrDn7qp5e8pYk3dF8L9LfZs571rVKyJyOaowb51wYCI6KUrTtNFCg",
+   "subject_key": "live:my-morning-jacket:2023-11-10:chicago-theatre",
+   "updated_at": "2026-10-25T18:05:20.421428"
   }
  },
  "recommended": {

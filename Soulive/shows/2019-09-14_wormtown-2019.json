@@ -172,6 +172,95 @@
    "signature": "O1p4Chibup9ESwTUK0G6U-GBP_5PiW3I0UlUav42DCmSOYTbMbbhtR1VmVCRjfLC7AHokT6NftE_avWphQNMCQ",
    "subject_key": "live:soulive:2019-09-14:wormtown-2019",
    "updated_at": "2026-10-24T21:25:41.130762"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **In Memory of Elizabeth Reed**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **soulive2019-09-14.gerryjdvideo** (recommended): source not stated; 3 songs; 92 min [1]\n\n## Around the show\n\n- Danny Mayer joined the band on guitar for this set at the 21st annual Wormtown festival [1]\n\n## Tapers and lineage\n\n- **soulive2019-09-14.gerryjdvideo**: taped by gerryjdvideo; transferred by gerryjdvideo; source: AKG 391 > Sdb > Sound Devices Mix Pre6 > WAV (24/48k) [1]. Also: Transfer went from WAV through Audacity, staying 24/48k, then xACT to FLAC level 8 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "gerryjdvideo",
+     "author_url": "https://archive.org/search?query=taper%3A%22gerryjdvideo%22",
+     "credits": [
+      {
+       "name": "gerryjdvideo",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22gerryjdvideo%22"
+      },
+      {
+       "name": "gerryjdvideo",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22gerryjdvideo%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-09-29",
+     "quote_or_claim": "3-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Wormtown 2019 on 2019-09-14",
+     "url": "https://archive.org/details/soulive2019-09-14.gerryjdvideo",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2019-09-14.gerryjdvideo",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer went from WAV through Audacity, staying 24/48k, then xACT to FLAC level 8",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Danny Mayer joined the band on guitar for this set at the 21st annual Wormtown festival",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2019-09-14:wormtown-2019"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "26b065719aeb29ef954d2097eb3badf26096d1f9c792f0faf1178d79a49595ee",
+    "generated_at": "2026-10-25T18:05:14.551840+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "95234db9d2d749d8b8e9f210438fddebf98639358cb8e9d3cbf5b62db6fd9484",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 6.7
+   },
+   "revision": 1,
+   "signature": "b6mPZBDtm-YT4mp_kT75g5-cTp05zZE0pQWcDM3r89M75XkzVs-cn8CrtsMOconsw2AOhDJARt2ms01nLuBBAg",
+   "subject_key": "live:soulive:2019-09-14:wormtown-2019",
+   "updated_at": "2026-10-25T18:05:14.556304"
   }
  },
  "recommended": {

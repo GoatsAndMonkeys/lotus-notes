@@ -696,6 +696,125 @@
    "signature": "NwTx1l27J0xYzUOmIshLXu15SHhGpS68PBlylkXbt0zCDqYIqItweQXOjg5UjOUao1SeyraUkRR5XM_LO1L1Aw",
    "subject_key": "live:ween:2023-03-16:brooklyn-bowl",
    "updated_at": "2026-10-24T19:12:19.293367"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **The Stallion (Pt 3)**: back after 45 archived shows (530 days) [3]\n- **Mango Woman**: rare: 8 archived performances [3]\n- **Suckin the Blood From the Devil's Dick**: rare: 8 archived performances [3]\n- **encore cheers**: back after 44 archived shows (529 days); rare: 10 archived performances [3]\n- **If You Love Me**: back after 156 archived shows (4489 days); rare: 10 archived performances [3]\n\n## The recordings\n\n- **ween2023-03-16.ck63.flacf** (recommended): source not stated; 32 songs; 153 min [1]\n- **ween2023-03-16**: source not stated; 31 songs; 153 min [2]\n\n## Around the show\n\n- Microphones sat on a nine-foot stand in the rear left corner of the floor [1]\n\n## Tapers and lineage\n\n- **ween2023-03-16.ck63.flacf**: taped by CPS; source: AKG CK63 > NBob PFA > Sound Devices 744T [1]. Also: Transfer chain: 24-bit/44.1 WAV master, converted to 16-bit/44.1 WAV, then encoded to FLAC [1]\n- **ween2023-03-16**: taped by Rich Cuiffo; transferred by Rich Cuiffo; source: Schoeps MK41s and Schoeps MK22's> Nbob actives > Sound Devices MixPre 6 II [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "CPS",
+     "author_url": "https://archive.org/search?query=taper%3A%22CPS%22",
+     "credits": [
+      {
+       "name": "CPS",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22CPS%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-03-17",
+     "quote_or_claim": "32-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Brooklyn Bowl on 2023-03-16",
+     "url": "https://archive.org/details/ween2023-03-16.ck63.flacf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Rich Cuiffo",
+     "author_url": "https://archive.org/search?query=taper%3A%22Rich%20Cuiffo%22",
+     "credits": [
+      {
+       "name": "Rich Cuiffo",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Rich%20Cuiffo%22"
+      },
+      {
+       "name": "Rich Cuiffo",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Rich%20Cuiffo%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2023-03-17",
+     "quote_or_claim": "31-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Brooklyn Bowl on 2023-03-16",
+     "url": "https://archive.org/details/ween2023-03-16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2023-03-16.ck63.flacf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG CK63 microphones through an NBob PFA into a Sound Devices 744T recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Microphones sat on a nine-foot stand in the rear left corner of the floor",
+      "type": "scene"
+     },
+     {
+      "recording": "ween2023-03-16.ck63.flacf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer chain: 24-bit/44.1 WAV master, converted to 16-bit/44.1 WAV, then encoded to FLAC",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2023-03-16:brooklyn-bowl"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "33b0356266d8406c076959c053baa2170c069530e00108062c0a6562925750a5",
+    "generated_at": "2026-10-25T18:04:39.725723+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "ffe5bb457ddadb6baadf12d1bfabdf3cac61ecd48f407894634a11970a0ede73",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.2
+   },
+   "revision": 1,
+   "signature": "nJUfCZpuy6nd4YA576qqoFoGdoSAO0mGAMwsFqKt4mEkJ1pc6aTALm_L_KF0yIr-NwDOOL37yb5BVXAEMqa-BA",
+   "subject_key": "live:ween:2023-03-16:brooklyn-bowl",
+   "updated_at": "2026-10-25T18:04:39.729185"
   }
  },
  "recommended": {

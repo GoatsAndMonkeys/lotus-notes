@@ -716,6 +716,122 @@
    "signature": "reIX0XkaMnE_JkxsXWDxVb8WtiWw6iOUPhOnKGoMa82vOXd9nxJIUatqYQBl2DyToGUBgwItzIvbdTggHRR1Cg",
    "subject_key": "live:ween:2023-04-25:southside-ballroom",
    "updated_at": "2026-10-24T19:12:19.299938"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **I Wuz Nothin'**: rare: 10 archived performances [3]\n- **ce Castles**: earliest performance in the archive; legendary: the only archived performance [3]\n- **It's Gonna Be (Alright)**: rare: 11 archived performances [3]\n- **Dirty Money**: rare: 6 archived performances [3]\n\n## The recordings\n\n- **ween2023-04-25.elam260.sxr4.flac** (recommended): source not stated; 37 songs; 182 min [1]\n- **ween2023-04-25.InsideOut_AKG.ck61**: source not stated; 37 songs; 179 min [2]\n\n## Tapers and lineage\n\n- **ween2023-04-25.elam260.sxr4.flac**: taped by Ted Gakidis; transferred by Ted Gakidis; source: Telefunken ela m260/tk60(DIN,ROC) > Sonosax SX-R4+(24/96) [1]\n- **ween2023-04-25.InsideOut_AKG.ck61**: taped by HealthCov Chris; transferred by InsideOut Recording; source: AKG ck61 (NOS) > Nbob actives > Naiant pfa > SD MixPre-6 [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Ted Gakidis",
+     "author_url": "https://archive.org/search?query=taper%3A%22Ted%20Gakidis%22",
+     "credits": [
+      {
+       "name": "Ted Gakidis",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Ted%20Gakidis%22"
+      },
+      {
+       "name": "Ted Gakidis",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Ted%20Gakidis%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-04-26",
+     "quote_or_claim": "37-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Southside Ballroom on 2023-04-25",
+     "url": "https://archive.org/details/ween2023-04-25.elam260.sxr4.flac",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "HealthCov Chris",
+     "author_url": "https://archive.org/search?query=taper%3A%22HealthCov%20Chris%22",
+     "credits": [
+      {
+       "name": "HealthCov Chris",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22HealthCov%20Chris%22"
+      },
+      {
+       "name": "InsideOut Recording",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22InsideOut%20Recording%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2023-05-10",
+     "quote_or_claim": "37-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Southside Ballroom on 2023-04-25",
+     "url": "https://archive.org/details/ween2023-04-25.InsideOut_AKG.ck61",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2023-04-25.InsideOut_AKG.ck61",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded with AKG ck61 mics (NOS), through Nbob actives and Naiant pfa preamp, into an SD MixPre-6 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2023-04-25.InsideOut_AKG.ck61",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Pulled and processed by HealthCov Chris of InsideOut Recording",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2023-04-25:southside-ballroom"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "5822c2cb7753e2f270675b6dc3b289bd008117d53506a2c35192afee68f0b1de",
+    "generated_at": "2026-10-25T18:04:30.241053+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a3168fa35e5a8d209746dadd4d96d5b730505031d290048f29da3d203aa94224",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.0
+   },
+   "revision": 1,
+   "signature": "pHI0ktZYrbvrb_CJf2KHlZ4N-k6Vhpnf8Ljm3VQexd2U2nsf5A7GesvTsIehjwFIgZMLqcqLn2zAOOXFl2CaBA",
+   "subject_key": "live:ween:2023-04-25:southside-ballroom",
+   "updated_at": "2026-10-25T18:04:30.249122"
   }
  },
  "recommended": {
