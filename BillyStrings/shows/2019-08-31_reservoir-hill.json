@@ -464,6 +464,125 @@
    "signature": "7YDEyxcB9Bw0Bea2foL_WCA8f8ePXzEo53KjlENh3c1gpApOPODOXWjZVJlCkt6LHjnwBTRH4bmTWsmtTtpaBQ",
    "subject_key": "live:billy-strings:2019-08-31:reservoir-hill",
    "updated_at": "2026-10-24T19:13:53.249532"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Doin' That Right**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Tall, Tall Grass**: rare: 6 archived performances [3]\n- **Ernest**: back after 119 archived shows (463 days); rare: 3 archived performances [3]\n\n## The recordings\n\n- **billystrings2019-08-31.flac16schoepsmk41** (recommended): source not stated; 19 songs; 104 min [1]\n- **billystrings2019-08-31**: source not stated; 19 songs; 104 min [2]\n\n## Around the show\n\n- Christian Sedelmyer joined on fiddle, and the recording covers the whole show [1]\n\n## Tapers and lineage\n\n- **billystrings2019-08-31.flac16schoepsmk41**: taped by Richard Skaggs; transferred by Richard Skaggs; source: Schoeps MK41(dina)>KC5>CMC6>Oade Warm Mod Marantz PMD 661 [1]. Also: Files were transferred from SDHC card to PC, edited in Cool Edit Pro and CD Editor for tracking, then encoded to FLAC 8 [1]\n- **billystrings2019-08-31**: taped by Matt Nida; source: AT853s (w/4.7k mod)>CA9100>TascamDR-2d [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Richard Skaggs",
+     "author_url": "https://archive.org/search?query=taper%3A%22Richard%20Skaggs%22",
+     "credits": [
+      {
+       "name": "Richard Skaggs",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Richard%20Skaggs%22"
+      },
+      {
+       "name": "Richard Skaggs",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Richard%20Skaggs%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-09-02",
+     "quote_or_claim": "19-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Reservoir Hill on 2019-08-31",
+     "url": "https://archive.org/details/billystrings2019-08-31.flac16schoepsmk41",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Matt Nida",
+     "author_url": "https://archive.org/search?query=taper%3A%22Matt%20Nida%22",
+     "credits": [
+      {
+       "name": "Matt Nida",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Matt%20Nida%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2019-09-08",
+     "quote_or_claim": "19-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Reservoir Hill on 2019-08-31",
+     "url": "https://archive.org/details/billystrings2019-08-31",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2019-08-31.flac16schoepsmk41",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded and processed by Richard Skaggs using Schoeps MK41 mics through KC5 and CMC6 into a modified Marantz PMD 661 at 24/48",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2019-08-31.flac16schoepsmk41",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Files were transferred from SDHC card to PC, edited in Cool Edit Pro and CD Editor for tracking, then encoded to FLAC 8",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Christian Sedelmyer joined on fiddle, and the recording covers the whole show",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2019-08-31:reservoir-hill"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "e2db4aafe0f3d59df878db0d152b33ce62dfb1bf3262daa0373ea8f7dc6bb3f2",
+    "generated_at": "2026-10-25T22:36:26.568830+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a4e17a3fb5a540e1d1b6a021bc05887d0085c073d776f593d5a103fd5a41b93f",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.0
+   },
+   "revision": 1,
+   "signature": "LVi94CFMtBXEC26Y2CeNUu-uvU5caw-IZRNdHiEnNVpfG4o0RiLq6poBRGGHPJmUYUsccnB3hUpzhaMYN7h9DA",
+   "subject_key": "live:billy-strings:2019-08-31:reservoir-hill",
+   "updated_at": "2026-10-25T22:36:26.571394"
   }
  },
  "recommended": {

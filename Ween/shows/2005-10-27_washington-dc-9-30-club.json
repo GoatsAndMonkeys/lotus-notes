@@ -739,6 +739,118 @@
    "signature": "QeWLmk_djAs42GcSLVedVkeh3By4ZNP7g4TDpL9buYlngaYr5CFZrPq8FZjtg0cV3KKbqouJotG_JeDNx3vcDg",
    "subject_key": "live:ween:2005-10-27:washington-dc-9-30-club",
    "updated_at": "2026-10-24T19:12:18.807331"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **ween2005-10-27.nak300** (recommended): source not stated; 36 songs; 169 min [1]\n- **Ween2005-10-27**: source not stated; 37 songs; 170 min [2]\n\n## Tapers and lineage\n\n- **ween2005-10-27.nak300**: taped by Cousinit; transferred by Cousinit; source: NAK300's>Denon DTR80P>DAT [1]\n- **Ween2005-10-27**: Schoeps mk4v mics on a ten-foot stand, thirty-five feet from stage; Signal path included VMS02IB, Edirol R4, and Sound Forge 8.0 processing; Final output is FLAC, derived from CDR via EAC extraction [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Cousinit",
+     "author_url": "https://archive.org/search?query=taper%3A%22Cousinit%22",
+     "credits": [
+      {
+       "name": "Cousinit",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Cousinit%22"
+      },
+      {
+       "name": "Cousinit",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Cousinit%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2025-10-27",
+     "quote_or_claim": "36-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at 9:30 Club on 2005-10-27",
+     "url": "https://archive.org/details/ween2005-10-27.nak300",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2010-12-05",
+     "quote_or_claim": "37-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Washington DC @ 9:30 Club on 2005-10-27",
+     "url": "https://archive.org/details/Ween2005-10-27",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "Ween2005-10-27",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Schoeps mk4v mics on a ten-foot stand, thirty-five feet from stage",
+      "type": "lineage"
+     },
+     {
+      "recording": "Ween2005-10-27",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Signal path included VMS02IB, Edirol R4, and Sound Forge 8.0 processing",
+      "type": "lineage"
+     },
+     {
+      "recording": "Ween2005-10-27",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Final output is FLAC, derived from CDR via EAC extraction",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2005-10-27:washington-dc-9-30-club"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "d7b08dc9d3d29e38282696bc9d998582ad3749ab5aebafbc0215d55d8435890c",
+    "generated_at": "2026-10-25T22:31:13.157551+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "e93a74ae55d1471d4aea691ed907b7ed0074f1fb6873b447b12d61e90e837b48",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 15.5
+   },
+   "revision": 1,
+   "signature": "wF1aarsF1iq0_f3AuBgwJJjFo57QFpt-5HHtUXnI46cJEWv2i8Uqj_yKur2pRfY3CPfzbbiOR-TxgkEAxEisAA",
+   "subject_key": "live:ween:2005-10-27:washington-dc-9-30-club",
+   "updated_at": "2026-10-25T22:31:13.158982"
   }
  },
  "recommended": {

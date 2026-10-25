@@ -485,6 +485,130 @@
    "signature": "QLVFWZBOH5mpVqmpEbHdrpXUhfpgffqZ1A6QjsL7r6OaQEd9xAAE3C4bognKfrBJXl6J0iNxNoTnyDCA36YrBw",
    "subject_key": "live:billy-strings:2021-07-22:floydfest",
    "updated_at": "2026-10-24T19:13:53.383448"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Shenendoah Waltz**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Blue Virginia Blue**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Angel Band**: back after 134 archived shows (963 days); rare: 7 archived performances [3]\n\n## The recordings\n\n- **billystrings2021-07-22.flac** (recommended): source not stated; 20 songs; 124 min [1]\n- **billystrings2021-07-22**: source not stated; 18 songs; 122 min [2]\n\n## Tapers and lineage\n\n- **billystrings2021-07-22.flac**: taped by Steve Baker; transferred by Zappafan2; source: Nakamichi CM300's>MarantzPMD661MKII [1]\n- **billystrings2021-07-22**: taped by Chris Cantwell; transferred by Chris Cantwell; source: eyerdynamic MC930 (card) FOB ORTF [2]. Also: Taped from the audience with Beyerdynamic MC930 cardioid mics, placed front of board in ORTF configuration; Recorded to a Tascam DR680II at 24-bit/48kHz, then edited in Samplitude Pro X5 and Sound Forge 13; Chris Cantwell recorded and mastered it, applying EQ116 and Ozone Pro EQ and compression plug-ins [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Steve Baker",
+     "author_url": "https://archive.org/search?query=taper%3A%22Steve%20Baker%22",
+     "credits": [
+      {
+       "name": "Steve Baker",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Steve%20Baker%22"
+      },
+      {
+       "name": "Zappafan2",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Zappafan2%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2025-01-14",
+     "quote_or_claim": "20-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Floydfest 21 Odyssey on 2021-07-22",
+     "url": "https://archive.org/details/billystrings2021-07-22.flac",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Chris Cantwell",
+     "author_url": "https://archive.org/search?query=taper%3A%22Chris%20Cantwell%22",
+     "credits": [
+      {
+       "name": "Chris Cantwell",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Chris%20Cantwell%22"
+      },
+      {
+       "name": "Chris Cantwell",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Chris%20Cantwell%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2022-06-08",
+     "quote_or_claim": "18-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Floydfest on 2021-07-22",
+     "url": "https://archive.org/details/billystrings2021-07-22",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2021-07-22",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Taped from the audience with Beyerdynamic MC930 cardioid mics, placed front of board in ORTF configuration",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2021-07-22",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded to a Tascam DR680II at 24-bit/48kHz, then edited in Samplitude Pro X5 and Sound Forge 13",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2021-07-22",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Chris Cantwell recorded and mastered it, applying EQ116 and Ozone Pro EQ and compression plug-ins",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2021-07-22:floydfest"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "924087206f3389c88606d8365afec8772f4c508c480432e73482c3a8fb8c50ae",
+    "generated_at": "2026-10-25T22:34:29.308850+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "7d0ebb3e4cb74afebfad7c69eb71002258c4680bcc8b8f89c4598bbd13335971",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.6
+   },
+   "revision": 1,
+   "signature": "iiZXJYf1MpZGP9Mg5WmV6xj8_bKmPhoginVvjt3rwsveEcy-F0V1b4kp1tXrQosoz_Rtw3MdplUU6smHuAvcBA",
+   "subject_key": "live:billy-strings:2021-07-22:floydfest",
+   "updated_at": "2026-10-25T22:34:29.318849"
   }
  },
  "recommended": {

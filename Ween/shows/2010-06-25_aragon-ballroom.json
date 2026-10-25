@@ -631,6 +631,130 @@
    "signature": "BWYdfsHy3WGZjta9hY0mgamiChG5bNRvtk-EL4i2DXgfoT0HfdU-rBgKeKL4DGsEI0vEIxdU5yH24AISz46oCw",
    "subject_key": "live:ween:2010-06-25:aragon-ballroom",
    "updated_at": "2026-10-24T19:12:19.022126"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Push th' 'lil Daisies**: back after 116 archived shows (1539 days); rare: 8 archived performances [3]\n- **Callback**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **ween2010-06-25.neumann.flacf** (recommended): audience recording; 30 songs; 144 min [1]\n- **ween2010-06-25.mk41.flac**: source not stated; 29 songs; 143 min [2]. Said about its sound: Uploader says the Aragon's sound wasn't the best, and the sound engineer needed a few songs to settle in [2]\n\n## Around the show\n\n- Taper recorded from a stand ten feet high, at the front-of-board position in the right corner [2]\n\n## Tapers and lineage\n\n- **ween2010-06-25.neumann.flacf**: taped by John Fairbairn; transferred by John Fairbairn; source: Audience [1]\n- **ween2010-06-25.mk41.flac**: taped by darktrain; transferred by darktrain; source: Schoeps MK41's/CMR Actives> Naiant Tinybox> Sony PCM-M10 [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "John Fairbairn",
+     "author_url": "https://archive.org/search?query=taper%3A%22John%20Fairbairn%22",
+     "credits": [
+      {
+       "name": "John Fairbairn",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22John%20Fairbairn%22"
+      },
+      {
+       "name": "John Fairbairn",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22John%20Fairbairn%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2010-07-13",
+     "quote_or_claim": "30-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Aragon Ballroom on 2010-06-25",
+     "url": "https://archive.org/details/ween2010-06-25.neumann.flacf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "darktrain",
+     "author_url": "https://archive.org/search?query=taper%3A%22darktrain%22",
+     "credits": [
+      {
+       "name": "darktrain",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22darktrain%22"
+      },
+      {
+       "name": "darktrain",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22darktrain%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2010-06-27",
+     "quote_or_claim": "29-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Aragon Ballroom on 2010-06-25",
+     "url": "https://archive.org/details/ween2010-06-25.mk41.flac",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2010-06-25.mk41.flac",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded with Schoeps MK41 mics and CMR actives into a Naiant Tinybox, then a Sony PCM-M10 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Taper recorded from a stand ten feet high, at the front-of-board position in the right corner",
+      "type": "scene"
+     },
+     {
+      "recording": "ween2010-06-25.mk41.flac",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Uploader says the Aragon's sound wasn't the best, and the sound engineer needed a few songs to settle in",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2010-06-25:aragon-ballroom"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "63cc487d8ac95c5a3e150e9ca12e164cd056c5c0dc7b4121fd43f14d6ddd4442",
+    "generated_at": "2026-10-25T22:25:59.969562+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "21cc032bf8447c380e577ee11ac59ca48181f1d5c9eae8fe019da9b66f3092de",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.7
+   },
+   "revision": 1,
+   "signature": "AROjAzocEJfv06BSZumICsKcu-YpqO5WwqYvl_Ae4TF4zkFuEvvUm3GYeScLl5jbAFnOWDOkvdZLN2QxjiYoBw",
+   "subject_key": "live:ween:2010-06-25:aragon-ballroom",
+   "updated_at": "2026-10-25T22:25:59.978806"
   }
  },
  "recommended": {

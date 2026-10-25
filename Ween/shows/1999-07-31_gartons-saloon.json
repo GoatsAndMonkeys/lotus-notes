@@ -863,6 +863,125 @@
    "signature": "c9qTIjKHHp8gBlzCPIywEbrvbDMh6xJAqbsjNx71oLhYsgocdeDhvJ0d-_KPUyH5zm8jdYbFEqCbmMKdLnYGDQ",
    "subject_key": "live:ween:1999-07-31:gartons-saloon",
    "updated_at": "2026-10-24T22:08:04.937823"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Never Squeal**: back after 103 archived shows (2122 days) [3]\n\n## The recordings\n\n- **ween1999-07-31** (recommended): source not stated; 33 songs; 182 min [1]\n- **ween1999-07-31.prodigital**: source not stated; 27 songs; 135 min [2]\n\n## Around the show\n\n- Uploader and friend Chapper (Tom), bonded over Ween, taped this Vail show; it was the first show the uploader taped for real [1]\n\n## Tapers and lineage\n\n- **ween1999-07-31**: taped by JKeats/Chapper; transferred by JKeats (2020-03-25); source: AKG480 > Lunatec V2 > M1 [1]. Also: Recorded with AKG480 microphones through Lunatec V2 preamp into an M1; transferred via Tascam DA-20 MKII, USB phono preamp, Audacity to FLAC in March 2020 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "JKeats/Chapper",
+     "author_url": "https://archive.org/search?query=taper%3A%22JKeats/Chapper%22",
+     "credits": [
+      {
+       "name": "JKeats/Chapper",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22JKeats/Chapper%22"
+      },
+      {
+       "name": "JKeats (2020-03-25)",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22JKeats%20%282020-03-25%29%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-03-28",
+     "quote_or_claim": "33-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Garton's Saloon on 1999-07-31",
+     "url": "https://archive.org/details/ween1999-07-31",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2020-08-28",
+     "quote_or_claim": "27-song unlabelled recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Garton's on 1999-07-31",
+     "url": "https://archive.org/details/ween1999-07-31.prodigital",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://www.brownbase.org/",
+     "id": 4,
+     "kind": "blog",
+     "published_at": null,
+     "quote_or_claim": "Brownbase is a database of Ween setlists and statistics, documenting their tour history via facts about Ween shows, songs and concert venues.",
+     "site": "www.brownbase.org",
+     "title": "Brownbase | Ween Setlists and Statistics | 7/31/1999 Vail",
+     "url": "https://www.brownbase.org/setlist.php?band=Ween&show_id=419&sort=7&ascDesc=ASC&sort_a=4&ascDesc_a=DESC",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween1999-07-31",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG480 microphones through Lunatec V2 preamp into an M1; transferred via Tascam DA-20 MKII, USB phono preamp, Audacity to FLAC in March 2020",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Uploader and friend Chapper (Tom), bonded over Ween, taped this Vail show; it was the first show the uploader taped for real",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:1999-07-31:gartons-saloon"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "99889fd98c06f20e3e802f96b1248a90a119ae34335d0e4e5cc0f43a5e853b68",
+    "generated_at": "2026-10-25T22:36:50.384420+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "248f6dba4212f3371b0d4862d855e1047976e6ad2b49cdc852efaf6feefc8b98",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.1
+   },
+   "revision": 1,
+   "signature": "mjzd5ZgNXdci0UieFW4_KRLU_rdZqjshOL2tgjJwq7QDKgtoZ2PDWZ9mI_3Y4sY7Md6OfC0iXWIpyGpb-4FFAQ",
+   "subject_key": "live:ween:1999-07-31:gartons-saloon",
+   "updated_at": "2026-10-25T22:36:50.386088"
   }
  },
  "recommended": {

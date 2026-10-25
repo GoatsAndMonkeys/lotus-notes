@@ -345,6 +345,103 @@
    "signature": "6Gk3PMSOtTKT7GUNwyHjSgoNeZnRDaHOgyQuigsjKB0ye-WtnxZn_0jh_MDEwQSZmTwhQ4XzejPh9QoV5-qSAA",
    "subject_key": "live:soulive:2000-02-24:downtown-cafe",
    "updated_at": "2026-10-24T21:25:40.292479"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Track One**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Chicken**: rare: 6 archived performances [2]\n- **Banter/Technical Difficulties**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Tobasco**: rare: 3 archived performances [2]\n- **Let The Music Take Your Mind**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Jam**: rare: 12 archived performances [2]\n- **Cissy Strut**: rare: 6 archived performances [2]\n- **Venue Owner**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **soulive2000-02-24.schoeps.ccm4** (recommended): source not stated; 16 songs; 105 min [1]\n\n## Around the show\n\n- Microphones sat on a 4-foot stand onstage, slightly right of center; Paul deLima recorded and transferred it; Neal Evans played Hammond B3 organ [1]\n\n## Tapers and lineage\n\n- **soulive2000-02-24.schoeps.ccm4**: taped by Paul deLima; transferred by Paul deLima; source: Schoeps CCM4 > Grace Design Lunatec V2 > Tascam DA-P1 @ 16bit 44.1kHz [1]. Also: Recorded with Schoeps CCM4 mics in ORTF through a Grace Design Lunatec V2 preamp to a Tascam DA-P1 DAT at 16-bit/44.1; Transfer ran from DAT through a Sony PCM-R500 and HHb CDR-850 to CD-R, then edited in Sound Forge Pro 15 (clipped peak restoration, fades) and encoded to FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Paul deLima",
+     "author_url": "https://archive.org/search?query=taper%3A%22Paul%20deLima%22",
+     "credits": [
+      {
+       "name": "Paul deLima",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Paul%20deLima%22"
+      },
+      {
+       "name": "Paul deLima",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Paul%20deLima%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-06-26",
+     "quote_or_claim": "16-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Downtown Cafe on 2000-02-24",
+     "url": "https://archive.org/details/soulive2000-02-24.schoeps.ccm4",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2000-02-24.schoeps.ccm4",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Schoeps CCM4 mics in ORTF through a Grace Design Lunatec V2 preamp to a Tascam DA-P1 DAT at 16-bit/44.1",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2000-02-24.schoeps.ccm4",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer ran from DAT through a Sony PCM-R500 and HHb CDR-850 to CD-R, then edited in Sound Forge Pro 15 (clipped peak restoration, fades) and encoded to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Microphones sat on a 4-foot stand onstage, slightly right of center; Paul deLima recorded and transferred it; Neal Evans played Hammond B3 organ",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2000-02-24:downtown-cafe"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "58d355f320e042f0d78949d289360094454217c55592994e461975e54b2f6517",
+    "generated_at": "2026-10-25T22:42:32.953012+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "8bfd85cdad523e63ce694dfdec6c93554f9ff238ae073c9bad7a4f05d8041238",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.8
+   },
+   "revision": 1,
+   "signature": "Uu5hGS-jw_pbqU4NuNiWHjJZFSK6WevmBSsNkZ4YYEyvfxADeFc8HEuW04aokoLRYVLK8TAU3VJzWOGWD9vpCA",
+   "subject_key": "live:soulive:2000-02-24:downtown-cafe",
+   "updated_at": "2026-10-25T22:42:32.956487"
   }
  },
  "recommended": {

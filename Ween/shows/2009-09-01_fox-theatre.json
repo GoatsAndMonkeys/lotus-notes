@@ -554,6 +554,119 @@
    "signature": "RFRFiepsXc0N2xPjS6b2Qlgdl9OFXLtsXhZUZ6HCLR0NivMvanwvYhltmuoWEXTfD40fl0VC--qe5pBkPRwBCQ",
    "subject_key": "live:ween:2009-09-01:fox-theatre",
    "updated_at": "2026-10-24T19:12:18.986265"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **ween2009-09-01d1t01**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t02**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t03**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t04**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t05**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t06**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t07**: earliest performance in the archive; legendary: the only archived performance [3]\n- **ween2009-09-01d1t08**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **ween2009-09-01.TaperSteveProductions** (recommended): audience recording; 41 songs; 186 min; rated 5/5 by 1 [1]. Said about its sound: Reviewer calls the audience recording's set, playing and recording excellent, taped under the TaperSteveProductions label [2]\n\n## Around the show\n\n- Reviewer says the band played a very long set with many songs, and that they have seen people collapse after such shows [2]\n- Soundcheck included Roses Are Free, and the crowd is noted as dancing during the show [2]\n\n## Tapers and lineage\n\n- **ween2009-09-01.TaperSteveProductions**: taped by TaperSteve; transferred by TaperSteve Productions; source: High Quality Audience Recording [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "TaperSteve",
+     "author_url": "https://archive.org/search?query=taper%3A%22TaperSteve%22",
+     "credits": [
+      {
+       "name": "TaperSteve",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22TaperSteve%22"
+      },
+      {
+       "name": "TaperSteve Productions",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22TaperSteve%20Productions%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2011-06-10",
+     "quote_or_claim": "41-song AUD recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Fox Theatre on 2009-09-01",
+     "url": "https://archive.org/details/ween2009-09-01.TaperSteveProductions",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "skibbity bee bop do waaah",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22skibbity%20bee%20bop%20do%20waaah%22",
+     "claim": "Reviewer calls the audience recording's set, playing and recording excellent, taped under the TaperSteveProductions label",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2011-06-10",
+     "quote_or_claim": "I love these shows where the guys do so many songs. Ive seen people collapse at the end of performances like this. Excellent set, playing, and recording.…",
+     "site": "Internet Archive",
+     "title": "Review: Nice (ween2009-09-01.TaperSteveProductions)",
+     "url": "https://archive.org/details/ween2009-09-01.TaperSteveProductions#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2009-09-01.TaperSteveProductions",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer calls the audience recording's set, playing and recording excellent, taped under the TaperSteveProductions label",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer says the band played a very long set with many songs, and that they have seen people collapse after such shows",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Soundcheck included Roses Are Free, and the crowd is noted as dancing during the show",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2009-09-01:fox-theatre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "0fa5866ebd43ab5ce591a5d5ee50b085a871a1d366ff0b289c655f6eb9600c12",
+    "generated_at": "2026-10-25T22:26:46.334416+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "b5ea0d3597e5d4813d08a87a74d3b5ebdd1741aa82a7bee3ee75719c2f86b3a5",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.7
+   },
+   "revision": 1,
+   "signature": "r3S7tOPGCiXgrnSnwfm-3pCoV9w6f3qUhb1SeRe_A3e7cZXYPrpZAWHvE4ojnnxfYdjmD1WPLbju1TNYPtiRDg",
+   "subject_key": "live:ween:2009-09-01:fox-theatre",
+   "updated_at": "2026-10-25T22:26:46.337331"
   }
  },
  "recommended": {

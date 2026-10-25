@@ -199,6 +199,103 @@
    "signature": "b-Fddec4mvAFcIpEBM8ntUJyMta7b4HzdZUOdr-vUQ3_TG3hBFOcm-SbJwJf_DQSqTnFcq3n6J_6xFWcgKIpDw",
    "subject_key": "live:soulive:2001-02-12:wetlands",
    "updated_at": "2026-10-24T21:25:40.408969"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **soulive2001-02-12.mk21** (recommended): source not stated; 5 songs; 52 min [1]\n\n## Tapers and lineage\n\n- **soulive2001-02-12.mk21**: taped by Peter Costello; transferred by John Clingan; source: Schoeps MK21/CMC6 -> V2 -> AD1K -> D8 [1]. Also: Signal chain ran from the mics through a V2, then an AD1K converter, to a D8 recorder; An archive.org user handled the transfer of the recording [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Peter Costello",
+     "author_url": "https://archive.org/search?query=taper%3A%22Peter%20Costello%22",
+     "credits": [
+      {
+       "name": "Peter Costello",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Peter%20Costello%22"
+      },
+      {
+       "name": "John Clingan",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22John%20Clingan%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2010-03-14",
+     "quote_or_claim": "5-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Wetlands on 2001-02-12",
+     "url": "https://archive.org/details/soulive2001-02-12.mk21",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2001-02-12.mk21",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded by Pete Costello using Schoeps MK21 microphones with CMC6 preamps",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2001-02-12.mk21",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Signal chain ran from the mics through a V2, then an AD1K converter, to a D8 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2001-02-12.mk21",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "An archive.org user handled the transfer of the recording",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2001-02-12:wetlands"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "298257e134b3bce3fa3f2e9c88245dfabfca10072c6ed4f9f62ea5fcdc4d895d",
+    "generated_at": "2026-10-25T22:42:15.882554+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "0f45c9b1c12b070374f1ebc3a7024a1ffab66375f37ef29a32436f4154daeb85",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.4
+   },
+   "revision": 1,
+   "signature": "IuXWm_xHw3miltrcXhxOzy-FWS74x-xodChjbtVqLW2iXK4L5a5CYNW01XrjmvBhlCCJFFve65EMr-Ct9c39AQ",
+   "subject_key": "live:soulive:2001-02-12:wetlands",
+   "updated_at": "2026-10-25T22:42:15.884975"
   }
  },
  "recommended": {

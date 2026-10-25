@@ -438,6 +438,119 @@
    "signature": "SqpTSS0loaIRAnKGtP1Z4hg0cZwjppICepJCDZ6lvKGz_6IlYWOai_fnRvUT6GeYChEcfE97WoCXzunHdxh0Dw",
    "subject_key": "live:my-morning-jacket:2017-07-11:thompsons-point",
    "updated_at": "2026-10-25T08:14:17.816574"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2017-07-11.ck61.ck62.flac** (recommended): source not stated; 21 songs; 149 min [1]\n\n## Tapers and lineage\n\n- **mmj2017-07-11.ck61.ck62.flac**: taped by Ted Gakidis; transferred by Ted Gakidis; source: AKG c61 + AKG ck62 [1]. Also: First source chain: AKG ck61 microphones, DIN configuration, through nBob Actives and nBox Platinum preamps into a Sound Devices MixPre-6 recording at 24-bit/48kHz; Second source chain: AKG ck62 microphones in AB placement with a 3-foot split, via Naiant Couplers and PFA, into a MixPre-6 at 24/48; The FLAC release combines two separate recordings, labeled ck61 and ck62, both captured on Sound Devices MixPre-6 recorders [1]\n\n## Art and photos\n\n- Fan art by admin: [My Morning Jacket & Gary Clark Jr. Perform Thompson's Point Photos](https://liveforlivemusic.com/features/mmj-gary-clark-portland-2017/) [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Ted Gakidis",
+     "author_url": "https://archive.org/search?query=taper%3A%22Ted%20Gakidis%22",
+     "credits": [
+      {
+       "name": "Ted Gakidis",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Ted%20Gakidis%22"
+      },
+      {
+       "name": "Ted Gakidis",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Ted%20Gakidis%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2017-07-14",
+     "quote_or_claim": "21-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Thompson's Point on 2017-07-11",
+     "url": "https://archive.org/details/mmj2017-07-11.ck61.ck62.flac",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "admin",
+     "author_url": "https://liveforlivemusic.com/author/admin/",
+     "id": 3,
+     "image_url": "https://static.liveforlivemusic.com/files/2017/07/MyMorningJacketThompsonsPointPortland71117Brazen2-1.jpg",
+     "kind": "fanart",
+     "published_at": "2017-07-12T20:34:30+00:00",
+     "quote_or_claim": "My Morning Jacket is currently on tour with Gary Clark Jr., with their most recent stop in Portland, Maine's Thompson's Point.",
+     "site": "L4LM",
+     "title": "My Morning Jacket & Gary Clark Jr. Perform Thompson's Point [Photos]",
+     "url": "https://liveforlivemusic.com/features/mmj-gary-clark-portland-2017/",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2017-07-11.ck61.ck62.flac",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "First source chain: AKG ck61 microphones, DIN configuration, through nBob Actives and nBox Platinum preamps into a Sound Devices MixPre-6 recording at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2017-07-11.ck61.ck62.flac",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Second source chain: AKG ck62 microphones in AB placement with a 3-foot split, via Naiant Couplers and PFA, into a MixPre-6 at 24/48",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2017-07-11.ck61.ck62.flac",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The FLAC release combines two separate recordings, labeled ck61 and ck62, both captured on Sound Devices MixPre-6 recorders",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2017-07-11:thompsons-point"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "f80e6b66944124494523cda520010433a9d260e79ba349f74448d97bb2569519",
+    "generated_at": "2026-10-25T22:23:10.713257+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "5c2687d52174d36b44bc69b1bcc07820dc4ef8bb0e18adc2ae7d0d7a24ae8174",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 9.8
+   },
+   "revision": 1,
+   "signature": "iO3YxtnxidwCN1CKoN6zMA4U3_3nZtp9ZI-Hx6r0ljMAt7LeVcv6xyOSy3r9k3aPhw93492I2I3rjtoyYLdXBQ",
+   "subject_key": "live:my-morning-jacket:2017-07-11:thompsons-point",
+   "updated_at": "2026-10-25T22:23:10.747367"
   }
  },
  "recommended": {

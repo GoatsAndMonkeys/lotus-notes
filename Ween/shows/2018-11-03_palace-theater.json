@@ -508,6 +508,119 @@
    "signature": "wRL62S_VCc8CmUyE-tKxHVzdZ3cLiE-UsqJCfQZbXWz3zToMPwjWmnM31dfmIzAUu9f3JBoQu6AnWS5NtjKlDQ",
    "subject_key": "live:ween:2018-11-03:palace-theater",
    "updated_at": "2026-10-24T22:08:06.218185"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Chocalate Town**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Kim Smoltz**: rare: 14 archived performances [2]\n- **Joppa Road**: back after 36 archived shows (517 days) [2]\n- **I Got A Weasel**: rare: 4 archived performances [2]\n- **Funky Stroker Ace**: rare: 3 archived performances [2]\n\n## The recordings\n\n- **ween2018-11-03.nak701** (recommended): audience recording; 26 songs; 133 min [1]\n\n## Tapers and lineage\n\n- **ween2018-11-03.nak701**: taped by Mike Rhoades; transferred by Mike Rhoades; source: AUD>NakCM700/CP701's>Edirol R4pro [1]. Also: Mike Rhoades taped and transferred the show, using Nakamichi CM700 microphones with CP701 capsules into an Edirol R4pro; The R4pro was Oade ambient modded, recording at 24-bit/88.2 kHz; Transfer went through SoundForge15 with normalizing, fades, and downsampling to 44.1 kHz, then tracking in CDWav and FLAC level 8 encoding [1]\n\n## Art and photos\n\n- Fan art by First Avenue: [Ween â Palace Theatre - First Avenue](https://first-avenue.com/event/an-evening-with-ween-2/) [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Mike Rhoades",
+     "author_url": "https://archive.org/search?query=taper%3A%22Mike%20Rhoades%22",
+     "credits": [
+      {
+       "name": "Mike Rhoades",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Mike%20Rhoades%22"
+      },
+      {
+       "name": "Mike Rhoades",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Mike%20Rhoades%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-08-30",
+     "quote_or_claim": "26-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Palace Theater on 2018-11-03",
+     "url": "https://archive.org/details/ween2018-11-03.nak701",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://first-avenue.com/",
+     "id": 3,
+     "image_url": "https://first-avenue.com/wp-content/uploads/2020/01/Ween-Palace2018-388x600web.jpg",
+     "kind": "fanart",
+     "published_at": "2018-07-30T05:00:00+00:00",
+     "quote_or_claim": "On November 3, 2018 at Palace Theatre in Saint Paul, Ween.",
+     "site": "First Avenue",
+     "title": "Ween â Palace Theatre - First Avenue",
+     "url": "https://first-avenue.com/event/an-evening-with-ween-2/",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2018-11-03.nak701",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mike Rhoades taped and transferred the show, using Nakamichi CM700 microphones with CP701 capsules into an Edirol R4pro",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2018-11-03.nak701",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The R4pro was Oade ambient modded, recording at 24-bit/88.2 kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2018-11-03.nak701",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer went through SoundForge15 with normalizing, fades, and downsampling to 44.1 kHz, then tracking in CDWav and FLAC level 8 encoding",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2018-11-03:palace-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "6c13cacc08b5a6c128b5a53319c55070691d69b74794332c04521eed7bf79107",
+    "generated_at": "2026-10-25T22:22:05.918360+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "09f152b9fa558d3d52ce98027277605ef83774e0ead0f4f62a2b237bd18f74bc",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.4
+   },
+   "revision": 1,
+   "signature": "k5jj22bFSoKasggO0dlrmDOy2DZe-BRzWpBauaMVakTZ1azDKOfi0pRXZvH6UFDt7gYU-IT1qbNFMbkma8lOCA",
+   "subject_key": "live:ween:2018-11-03:palace-theater",
+   "updated_at": "2026-10-25T22:22:05.920747"
   }
  },
  "recommended": {

@@ -601,6 +601,122 @@
    "signature": "wSlvht7NNPJxTHTzqBJRVa9zbwjMbM-iB0CNymRp4AOWttHeh4Niw-Abm3PAEguHFZ1TylRycTPBWmMufyCJBA",
    "subject_key": "live:billy-strings:2019-11-13:the-sinclair",
    "updated_at": "2026-10-24T19:13:53.289351"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **EFG**: rare: 7 archived performances [3]\n- **Love Like Mine**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Ain’t Nuthin’ To Me**: earliest performance in the archive; legendary: the only archived performance [3]\n- **It’s Hurts Me Too**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Funk #49 @ # &**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Paranoid @ # &**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **billystrings2019-11-13.four61ob.flac24** (recommended): audience recording; 23 songs; 125 min [1]\n- **billystrings2019-11-13**: source not stated; 22 songs; 124 min [2]\n\n## Around the show\n\n- Microphones were placed about 15 feet high, duct taped to the rail, at the board-optimal/DFC position [1]\n\n## Tapers and lineage\n\n- **billystrings2019-11-13.four61ob.flac24**: taped by four61ob; transferred by four61ob; source: AUD > Rode M5(ORTF) > Zoom H5 (24bit/96kHz) > SDHC card [1]. Also: Audience recording made with Rode M5 microphones in ORTF configuration, feeding a Zoom H5 recorder at 24-bit/96kHz onto an SDHC card [1]\n- **billystrings2019-11-13**: taped by Wes Poole; transferred by 603Brett; source: Rode M5>Zoom H6 [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "four61ob",
+     "author_url": "https://archive.org/search?query=taper%3A%22four61ob%22",
+     "credits": [
+      {
+       "name": "four61ob",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22four61ob%22"
+      },
+      {
+       "name": "four61ob",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22four61ob%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-11-17",
+     "quote_or_claim": "23-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at The Sinclair on 2019-11-13",
+     "url": "https://archive.org/details/billystrings2019-11-13.four61ob.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Wes Poole",
+     "author_url": "https://archive.org/search?query=taper%3A%22Wes%20Poole%22",
+     "credits": [
+      {
+       "name": "Wes Poole",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Wes%20Poole%22"
+      },
+      {
+       "name": "603Brett",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22603Brett%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2019-11-15",
+     "quote_or_claim": "22-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at The Sinclair on 2019-11-13",
+     "url": "https://archive.org/details/billystrings2019-11-13",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2019-11-13.four61ob.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Audience recording made with Rode M5 microphones in ORTF configuration, feeding a Zoom H5 recorder at 24-bit/96kHz onto an SDHC card",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Microphones were placed about 15 feet high, duct taped to the rail, at the board-optimal/DFC position",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2019-11-13:the-sinclair"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "567744aabfc9814d2a9515815388c27e7c7c06df62339769fc4f2049520081c5",
+    "generated_at": "2026-10-25T22:36:00.832261+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a5a5c0e345dc5627a1370bf857d4faed5941d06a0808596acfcab40922b792fb",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.1
+   },
+   "revision": 1,
+   "signature": "2B9G0GCQJ_EiN--Qv1rPLFgSJg8aJ7ySzW4L0OQRqt1bXhTGgHCdhvabQoLcLDzLpygmmsGnNAiW9MrMM7LOAQ",
+   "subject_key": "live:billy-strings:2019-11-13:the-sinclair",
+   "updated_at": "2026-10-25T22:36:00.837307"
   }
  },
  "recommended": {

@@ -198,6 +198,103 @@
    "signature": "kkLwMwT3LWvePiHCyIyTDkWCJoQntmgzM0r7y_PhCJNzSBkETQgixPaoiSNnaov497SfuDJptCH2TWQHyguhDg",
    "subject_key": "live:dead-and-company:2021-08-28:diy-unmixed-tracks-hersheypark",
    "updated_at": "2026-10-24T18:56:54.943809"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Hypercardioid center - This should be kept in the center of the mix. Used with Figure-8 for mid/side mix**: mythic rare: 2 archived performances [2]\n- **Figure-8 L/R stereo track - This must be kept at hard left and hard right. Bringing them towards the center will cause cancellation. Used with hypercardioid center for mid/side mix**: mythic rare: 2 archived performances [2]\n- **Cardioid left - can be anywhere in the left side of the mix, probably inside the omnis**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Cardioid right - can be anywhere in the right side of the mix, probably inside the omnis**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Omni left - can be anywhere in the left side, probably between the figure-8 and cardioids**: earliest performance in the archive; rare: 4 archived performances [2]\n- **Omni right - can be anywhere in the right side, probably between the figure-8 and cardioids**: earliest performance in the archive; rare: 4 archived performances [2]\n\n## The recordings\n\n- **dac2021-08-28.AKGmultitrack.toaste.flac16** (recommended): source not stated; 6 songs; 1114 min [1]. Said about its sound: Release is separate unmixed single-microphone tracks that must be mixed before listening; the uploader suggests two omnis plus the hypercardioid as a good combination [1]\n\n## Around the show\n\n- The uploader also made their own mix, available in the regular download, which differs from this raw multitrack collection [1]\n\n## Tapers and lineage\n\n- **dac2021-08-28.AKGmultitrack.toaste.flac16**: taped by Toaste; transferred by Toaste; source: 1x AKG393 Hypercardioid (C); 1x AKG394 Figure-8 (L,R); 2x AKG391 cardioids DIN (L,R); 2x AKG392 omnis 20-inch spread (L,R) > Zoom F8 @ 44.1/16 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Toaste",
+     "author_url": "https://archive.org/search?query=taper%3A%22Toaste%22",
+     "credits": [
+      {
+       "name": "Toaste",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Toaste%22"
+      },
+      {
+       "name": "Toaste",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Toaste%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-09-06",
+     "quote_or_claim": "6-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at DIY unmixed tracks - Hersheypark on 2021-08-28",
+     "url": "https://archive.org/details/dac2021-08-28.AKGmultitrack.toaste.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 330 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "DeadAndCompany collection, Live Music Archive",
+     "url": "https://archive.org/details/DeadAndCompany",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "dac2021-08-28.AKGmultitrack.toaste.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG microphones: one hypercardioid center, a figure-8, two cardioids in DIN, and two omnis spread 20 inches, into a Zoom F8 at 44.1/16",
+      "type": "lineage"
+     },
+     {
+      "recording": "dac2021-08-28.AKGmultitrack.toaste.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Release is separate unmixed single-microphone tracks that must be mixed before listening; the uploader suggests two omnis plus the hypercardioid as a good combination",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The uploader also made their own mix, available in the regular download, which differs from this raw multitrack collection",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:dead-and-company:2021-08-28:diy-unmixed-tracks-hersheypark"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a50ffd3621b1d2eac208f2b61437569ef6e51583c07afcf26edf1c010cdb189e",
+    "generated_at": "2026-10-25T22:45:09.937358+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "01bc39325c24314dbaeae0004988fed119571875f91856a1f9cc8337c9c8e9d3",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.0
+   },
+   "revision": 1,
+   "signature": "gKJOXWYZD1Af1EYxivrRrze9cXG1_cJG2srZH3pvZuV5YWa18rx_7nKHU-S4kvHipFi29oZX4ntHIrmEyjdwAA",
+   "subject_key": "live:dead-and-company:2021-08-28:diy-unmixed-tracks-hersheypark",
+   "updated_at": "2026-10-25T22:45:09.939274"
   }
  },
  "recommended": {

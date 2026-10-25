@@ -297,6 +297,103 @@
    "signature": "NL8nulZu6vVZze316wMzuQoybW116ap-7KLjJBUUEp4I52xzc9izY4wT9VLtNsj3Kn4XB8Zhud7_UeGD9WloBw",
    "subject_key": "live:my-morning-jacket:2002-03-15:rubber-gloves",
    "updated_at": "2026-10-25T08:14:17.426148"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2002-03-15.aud.flac16** (recommended): audience recording; 12 songs; 71 min [1]. Said about its sound: An extra fade was added at the start of the recording using CoolEditPro [1]\n\n## Tapers and lineage\n\n- **mmj2002-03-15.aud.flac16**: taped by George \"Low Dog\" S.; transferred by Magnix; source: AUD MD > CD-R [1]. Also: Transferred from CD-R via EAC to FLAC level 8, using Traders Little Helper; part of the Magnix MMJ archive, volume 25; Recording came from Low Dog, who passed it along directly from the source; he taped many early MMJ shows [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "George \"Low Dog\" S.",
+     "author_url": "https://archive.org/search?query=taper%3A%22George%20%22Low%20Dog%22%20S.%22",
+     "credits": [
+      {
+       "name": "George \"Low Dog\" S.",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22George%20%22Low%20Dog%22%20S.%22"
+      },
+      {
+       "name": "Magnix",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Magnix%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-09-02",
+     "quote_or_claim": "12-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Rubber Gloves on 2002-03-15",
+     "url": "https://archive.org/details/mmj2002-03-15.aud.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2002-03-15.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred from CD-R via EAC to FLAC level 8, using Traders Little Helper; part of the Magnix MMJ archive, volume 25",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-03-15.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recording came from Low Dog, who passed it along directly from the source; he taped many early MMJ shows",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-03-15.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "An extra fade was added at the start of the recording using CoolEditPro",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2002-03-15:rubber-gloves"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a413147496f7f0945355586f431ef0e4f93fe9dcaf68ef087cb16fdab82505cc",
+    "generated_at": "2026-10-25T22:34:07.537504+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "70e3a0b7c7cf1c341983fbb1366a59c407b2659dfb01e9d4d3eab0b4efcb1220",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.4
+   },
+   "revision": 1,
+   "signature": "GNH82G0WY5bqMJ1R5TBipxh63yQ2zCkz_nxXSw-JC3_AMamyNm4Iz-nySJsUIfC_VYl8OfHxM7fz3J-tdjX4DA",
+   "subject_key": "live:my-morning-jacket:2002-03-15:rubber-gloves",
+   "updated_at": "2026-10-25T22:34:07.540620"
   }
  },
  "recommended": {

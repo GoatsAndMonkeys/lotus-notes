@@ -804,6 +804,130 @@
    "signature": "V_3ySLw3uMjpsWCTr9FJ1GDQXlhE7jh_c3XXzlbbLvSuoelFtgiMsC3mRt8Bstskf6zzm-tbxVAqUw0SxMvJAg",
    "subject_key": "live:ween:2007-11-05:house-of-blues",
    "updated_at": "2026-10-24T19:12:18.898341"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **The Stallion Part 5**: back after 59 archived shows (740 days); rare: 9 archived performances [3]\n- **Don't Sweat It**: back after 53 archived shows (707 days) [3]\n- **Mister Richard Smoker**: back after 41 archived shows (528 days) [3]\n- **Don't Shit Where You Eat**: back after 46 archived shows (575 days) [3]\n\n## The recordings\n\n- **ween2007-11-05.flacf** (recommended): audience recording; 33 songs; 141 min [1]\n- **ween2007-11-05**: source not stated; 34 songs; 139 min [2]. Said about its sound: Recording level was turned down because of high sound pressure, but overcompensated, so the audio was normalized afterward [2]\n\n## Tapers and lineage\n\n- **ween2007-11-05.flacf**: taped by Melon; transferred by Unknown; source: Audience [1]\n- **ween2007-11-05**: taped by hhh_dingo; transferred by hhh_dingo; source: ZOOM H2 internal mics> F.O.B. center hand held recording> 44.1 KHZ 24BIT stereo WAV> NO compression> i had to adjust record volume due to high sound… [2]. Also: Recorded with internal microphones set in a 90-degree X/Y pattern, then transferred by USB into Audacity 1.2.6; Edited for tracking and fades, normalized to -3 dB with DC offset correction applied [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Melon",
+     "author_url": "https://archive.org/search?query=taper%3A%22Melon%22",
+     "credits": [
+      {
+       "name": "Melon",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Melon%22"
+      },
+      {
+       "name": "Unknown",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Unknown%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2010-04-29",
+     "quote_or_claim": "33-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at House of Blues on 2007-11-05",
+     "url": "https://archive.org/details/ween2007-11-05.flacf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "hhh_dingo",
+     "author_url": "https://archive.org/search?query=taper%3A%22hhh_dingo%22",
+     "credits": [
+      {
+       "name": "hhh_dingo",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22hhh_dingo%22"
+      },
+      {
+       "name": "hhh_dingo",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22hhh_dingo%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2025-11-06",
+     "quote_or_claim": "34-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at House of Blues on 2007-11-05",
+     "url": "https://archive.org/details/ween2007-11-05",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2007-11-05",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded with internal microphones set in a 90-degree X/Y pattern, then transferred by USB into Audacity 1.2.6",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2007-11-05",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recording level was turned down because of high sound pressure, but overcompensated, so the audio was normalized afterward",
+      "type": "sound"
+     },
+     {
+      "recording": "ween2007-11-05",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Edited for tracking and fades, normalized to -3 dB with DC offset correction applied",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2007-11-05:house-of-blues"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "0081235f6f35c9e3dbc53d7086c692baab3a1eb5a3d955b4e07bc2655c1ab790",
+    "generated_at": "2026-10-25T22:28:36.380938+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "2749caab732c7441c2f905813e952f68f5fc12b0ba6991c028b1aac6a49e069b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.5
+   },
+   "revision": 1,
+   "signature": "R-vc5RP1YB9TmqhoUOcSOYniJ-2bPFbC5QWi0Z3sNrPFMxG63bwHsa3hjUFTkhOWjnt2-NSN2f16j2HjK_ssAQ",
+   "subject_key": "live:ween:2007-11-05:house-of-blues",
+   "updated_at": "2026-10-25T22:28:36.384571"
   }
  },
  "recommended": {

@@ -465,6 +465,118 @@
    "signature": "_KZXQ922rkmS5I1duXbVQ3zK3GQcqnV1b3yKNHB7CpdgyRaa4UlN4LTqUuSio0RxpiRqJMH5lzLqetsnneecDQ",
    "subject_key": "live:dead-and-company:2018-08-26:lockn",
    "updated_at": "2026-10-24T20:49:29.791797"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **dc2018-08-26** (recommended): source not stated; 19 songs; 187 min [1]\n- **dac2018-08-26.AKGmix.flac16**: matrix (soundboard mixed with audience mics); 17 songs; 184 min [2]\n\n## Around the show\n\n- Branford Marsalis guested on saxophone during the second set [1]\n\n## Tapers and lineage\n\n- **dc2018-08-26**: Recorded with Milab VM-44 Link microphones using S-Cards into a Sonosax SX-R4 at 24-bit/48kHz; Transfer went from the Sonosax to Audacity at 16/44, then CD Wave, then FLAC [1]\n- **dac2018-08-26.AKGmix.flac16**: taped by Toaste; transferred by Toaste; source: OTS - back left corner of board, stand at about 10 feet > 2x AKG 391 cardioids ORTF and 2x AKG 393 hypercardioids pointed at stacks > Zoom F8 @44.1kHz/16-bit… [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2018-08-27",
+     "quote_or_claim": "19-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at Lockn' on 2018-08-26",
+     "url": "https://archive.org/details/dc2018-08-26",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Toaste",
+     "author_url": "https://archive.org/search?query=taper%3A%22Toaste%22",
+     "credits": [
+      {
+       "name": "Toaste",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Toaste%22"
+      },
+      {
+       "name": "Toaste",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Toaste%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2018-10-14",
+     "quote_or_claim": "17-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at Lockn' on 2018-08-26",
+     "url": "https://archive.org/details/dac2018-08-26.AKGmix.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 330 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "DeadAndCompany collection, Live Music Archive",
+     "url": "https://archive.org/details/DeadAndCompany",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "dc2018-08-26",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Milab VM-44 Link microphones using S-Cards into a Sonosax SX-R4 at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "dc2018-08-26",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer went from the Sonosax to Audacity at 16/44, then CD Wave, then FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Branford Marsalis guested on saxophone during the second set",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:dead-and-company:2018-08-26:lockn"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "02d3f89bc6d2636d6a2239863341d3ba13a9046dfbac759487be8bcdeb8c1fb4",
+    "generated_at": "2026-10-25T22:45:55.563312+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "3c88c94b3fee94931552d88373b68ee0cea3a2e5a7c0ce3da0ade82b04227634",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.8
+   },
+   "revision": 1,
+   "signature": "bTlhUgcdV9sMBrOVmSldIRQ0WBffQ8OeVCGavySoCYbvtDsklnXU7h1Hun1sVvpYv6Ro9nHaeTjCnQ2rIyw2BQ",
+   "subject_key": "live:dead-and-company:2018-08-26:lockn",
+   "updated_at": "2026-10-25T22:45:55.565771"
   }
  },
  "recommended": {

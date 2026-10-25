@@ -549,6 +549,135 @@
    "signature": "VhFY1FB9NCi_f_CfFA5Nwa6ptNRURlX5t4SnBf6ZYBbgGHbNoKACxvnn0SrFrRi86aOvVDh_nuiy0KPeKO8fDQ",
    "subject_key": "live:ween:1995-02-05:club-detroit",
    "updated_at": "2026-10-24T19:12:18.362626"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Marble Tulip Juicy Tree** (1 other source): A tape flip occurs in the middle of this song [1]\n\n## Setlist highlights\n\n- **Strap On That Jammypac (lounge version)**: rare: 14 archived performances [3]\n- **Lovin' You Through it All**: mythic rare: 2 archived performances [3]\n\n## The recordings\n\n- **ween1995-02-05.fixed** (recommended): audience recording; 29 songs; 136 min; rated 4/5 by 1 [1]. Said about its sound: Tape flips interrupt the recording mid-song; the uploader's attempt to make them seamless was imperfect [1]\n\n## Around the show\n\n- Reviewer attended, was on their feet throughout, then drove about two hours south of St. Petersburg afterward [2]\n- Reviewer's earlier Ween shows ran only about an hour and a half, unlike this longer one [2]\n\n## Tapers and lineage\n\n- **ween1995-02-05.fixed**: taped by Unknown; transferred by Josh Keats; source: Unk Aud [1]. Also: Recorded by an attendee on a Sony D-3 cassette deck using a Sony 909 microphone and Maxell Metal tape [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Unknown",
+     "author_url": "https://archive.org/search?query=taper%3A%22Unknown%22",
+     "credits": [
+      {
+       "name": "Unknown",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Unknown%22"
+      },
+      {
+       "name": "Josh Keats",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Josh%20Keats%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2006-02-04",
+     "quote_or_claim": "29-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Club Detroit on 1995-02-05",
+     "url": "https://archive.org/details/ween1995-02-05.fixed",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "eddie dingle",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22eddie%20dingle%22",
+     "claim": "Recorded by an attendee on a Sony D-3 cassette deck using a Sony 909 microphone and Maxell Metal tape",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2006-09-09",
+     "quote_or_claim": "I was at this show and recorded it on a Sony D-3 cassette. I used a Sony 909 mic and a Maxell Metal tape to record the show. I remember this being the first…",
+     "site": "Internet Archive",
+     "title": "Review: That taper could have been me (ween1995-02-05.fixed)",
+     "url": "https://archive.org/details/ween1995-02-05.fixed#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween1995-02-05.fixed",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded by an attendee on a Sony D-3 cassette deck using a Sony 909 microphone and Maxell Metal tape",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer's earlier Ween shows ran only about an hour and a half, unlike this longer one",
+      "type": "compare"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer attended, was on their feet throughout, then drove about two hours south of St. Petersburg afterward",
+      "type": "scene"
+     },
+     {
+      "recording": "ween1995-02-05.fixed",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Tape flips interrupt the recording mid-song; the uploader's attempt to make them seamless was imperfect",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": "Marble Tulip Juicy Tree",
+      "song_key": "song:ween:marble-tulip-juicy-tree",
+      "src": 1,
+      "text": "A tape flip occurs in the middle of this song",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:1995-02-05:club-detroit"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 5,
+    "facts_hash": "ce1f4ec2e0ff882d33d77920587839b7ab09c633c04349a3cda7107edfff15f6",
+    "generated_at": "2026-10-25T22:38:42.798373+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "80f0e2e5344f12a593d051ea7cb4811e3c62345aacaded7c674266c1588fbbd3",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.7
+   },
+   "revision": 1,
+   "signature": "IM3A3kyJiApDKhmg0RNE3tmjxf70bn8wQ4O71r0AFS2Tlmq3bDzfWQZaad-ufWX6hz6vpbL-xDprqNERdppLBQ",
+   "subject_key": "live:ween:1995-02-05:club-detroit",
+   "updated_at": "2026-10-25T22:38:42.801235"
   }
  },
  "recommended": {

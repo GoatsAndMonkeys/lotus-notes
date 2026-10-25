@@ -464,6 +464,103 @@
    "signature": "yO6N80cMtlVc5P4IulO84DmpaiSCWs8hoEIqofAMS_6hkBO36rw9mmFqIfET33F301mt1cEDNkuXjNCftG0NBw",
    "subject_key": "live:billy-strings:2021-12-03:moody-theater",
    "updated_at": "2026-10-24T19:13:53.446592"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Beaumont Rag**: back after 56 archived shows (642 days) [2]\n- **A Letter to Seymour**: back after 71 archived shows (679 days); rare: 9 archived performances [2]\n- **A Good Woman's Love**: rare: 13 archived performances [2]\n- **If You Ever Change Your Mind**: mythic rare: 2 archived performances [2]\n- **She Makes My Love**: back after 74 archived shows (685 days); rare: 3 archived performances [2]\n\n## The recordings\n\n- **billystrings2021-12-03.akg483.flac16** (recommended): source not stated; 23 songs; 143 min [1]\n\n## Around the show\n\n- Microphones were clamped on the balcony about 15 feet above the floor, near the center-front position (DFC) [1]\n\n## Tapers and lineage\n\n- **billystrings2021-12-03.akg483.flac16**: taped by Larry Pillman; transferred by Larry Pillman; source: AKG 483 > Tascam DR-680 MKII 24/48 [1]. Also: Transfer chain: Tascam to Wavelab 6.0 for resampling and dither, CDWave for tracking, then FLAC level 6. Taped and transferred by Larry Pillman [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Larry Pillman",
+     "author_url": "https://archive.org/search?query=taper%3A%22Larry%20Pillman%22",
+     "credits": [
+      {
+       "name": "Larry Pillman",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Larry%20Pillman%22"
+      },
+      {
+       "name": "Larry Pillman",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Larry%20Pillman%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-12-05",
+     "quote_or_claim": "23-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Moody Theater on 2021-12-03",
+     "url": "https://archive.org/details/billystrings2021-12-03.akg483.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2021-12-03.akg483.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG 483 microphones into a Tascam DR-680 MKII at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2021-12-03.akg483.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer chain: Tascam to Wavelab 6.0 for resampling and dither, CDWave for tracking, then FLAC level 6. Taped and transferred by Larry Pillman",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Microphones were clamped on the balcony about 15 feet above the floor, near the center-front position (DFC)",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2021-12-03:moody-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "aeff35b06d9462861daaaedac6a086ea69a0c5dd8b36bb8317e44225a6a72b35",
+    "generated_at": "2026-10-25T22:32:40.399504+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "e8d127e020f6198437d5fd74078b28403dc01b82a38ef876425d7782e5152144",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.9
+   },
+   "revision": 1,
+   "signature": "UALB0sB83fTKfflMv_inVXrHGQJYk7F7xC6EZhiM5DLQJs_cr2BequVC45E_5CUIJ4l0HBlzvF7wFE8K8u9lBw",
+   "subject_key": "live:billy-strings:2021-12-03:moody-theater",
+   "updated_at": "2026-10-25T22:32:40.402042"
   }
  },
  "recommended": {

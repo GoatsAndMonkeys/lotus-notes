@@ -392,6 +392,130 @@
    "signature": "fr0PdTz6y0HSMap9uQLqb0zoVaybkOsu5i5l47bhO46R2tOilsrjdi4pf1pVksuTWLr1Zxsc7qp4v4xBWZotDA",
    "subject_key": "live:billy-strings:2022-09-18:saratoga-performing-arts-center",
    "updated_at": "2026-10-24T19:13:53.545223"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **If Your Hair's Too Long (There's Sin in Your Heart)**: rare: 14 archived performances [3]\n\n## The recordings\n\n- **billystrings2022-09-18.ca14.flac16** (recommended): source not stated; 14 songs; 74 min [1]\n- **billystrings2022-09-18.TapirJon**: source not stated; 14 songs; 74 min [2]\n\n## Around the show\n\n- The show was part of the Outlaw Music Festival [2]\n\n## Tapers and lineage\n\n- **billystrings2022-09-18.ca14.flac16**: taped by jp; transferred by jp; source: CA-14o -> CA-9200 -> Edirol R-09HR [1]\n- **billystrings2022-09-18.TapirJon**: taped by TapirJon; transferred by TapirJon; source: Source: Slint Lavalier Mics (in hat) > iPhone > Apogee MetaRecorder [2]. Also: Transfer chain: WAV files processed in Audacity, then encoded with xAct [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "jp",
+     "author_url": "https://archive.org/search?query=taper%3A%22jp%22",
+     "credits": [
+      {
+       "name": "jp",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22jp%22"
+      },
+      {
+       "name": "jp",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22jp%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-09-26",
+     "quote_or_claim": "14-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Saratoga Performing Arts Center on 2022-09-18",
+     "url": "https://archive.org/details/billystrings2022-09-18.ca14.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "TapirJon",
+     "author_url": "https://archive.org/search?query=taper%3A%22TapirJon%22",
+     "credits": [
+      {
+       "name": "TapirJon",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22TapirJon%22"
+      },
+      {
+       "name": "TapirJon",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22TapirJon%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2022-09-19",
+     "quote_or_claim": "14-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Saratoga Performing Arts Center on 2022-09-18",
+     "url": "https://archive.org/details/billystrings2022-09-18.TapirJon",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2022-09-18.TapirJon",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded and transferred by Tapir Jon, using Slint lavalier microphones worn in a hat, feeding an iPhone with Apogee MetaRecorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2022-09-18.TapirJon",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Transfer chain: WAV files processed in Audacity, then encoded with xAct",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The show was part of the Outlaw Music Festival",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2022-09-18:saratoga-performing-arts-center"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "d5c7f4ac2ce6e8291f0be89364f6402bd908f08365cadaa76e9ce0acc49f9070",
+    "generated_at": "2026-10-25T22:30:14.518920+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "8433d6cfeacbe19c6a72ec21ac81c238ff2cc48b2a0e7cec64c40e6ae21cd52b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.0
+   },
+   "revision": 1,
+   "signature": "1IZx1Of4FOkxIaES6jXAeYbpofssUNSmpaNkY7AU9knJkYddZsQvkUtzQe9GRRZc6fm5QmhncX87ioWaFTqZCA",
+   "subject_key": "live:billy-strings:2022-09-18:saratoga-performing-arts-center",
+   "updated_at": "2026-10-25T22:30:14.522281"
   }
  },
  "recommended": {

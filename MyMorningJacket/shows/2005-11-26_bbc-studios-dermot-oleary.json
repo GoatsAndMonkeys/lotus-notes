@@ -195,6 +195,135 @@
    "signature": "9pDtpGBfigzxIJ_eqPow0uPKhcZwiIvTu_Dns8nR23ArjwjsAIPCIvjHv7qjfM6X_IxX_yLnAv0pBqxR6RlJDg",
    "subject_key": "live:my-morning-jacket:2005-11-26:bbc-studios-dermot-oleary",
    "updated_at": "2026-10-25T08:14:17.535412"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Off The Record** (1 review, 1 other source): Jim James plays it solo and acoustic; Reviewer singles out Jim James's acoustic version as especially worth hearing [1][2]\n- **Make It With You** (1 other source): Jim James solo covers this song by Bread [1]\n\n## Setlist highlights\n\n- **Interview (Part 1)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Interview (Part 2)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Make It With You**: rare: 3 archived performances [3]\n\n## The recordings\n\n- **mmj2005-11-26.shnf** (recommended): source not stated; 4 songs; 17 min; rated 5/5 by 1 [1]. Said about its sound: Reviewer says the sound quality is excellent [2]\n\n## Tapers and lineage\n\n- **mmj2005-11-26.shnf**: taped by Steven Bladt; transferred by nectardan; source: BBC Radio 2 Satellite Broadcast [1]. Also: Uploader got the recording as one large file from Steven, then normalized levels (left channel was slightly louder) and tracked it [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Steven Bladt",
+     "author_url": "https://archive.org/search?query=taper%3A%22Steven%20Bladt%22",
+     "credits": [
+      {
+       "name": "Steven Bladt",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Steven%20Bladt%22"
+      },
+      {
+       "name": "nectardan",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22nectardan%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2006-01-08",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at BBC Studios (Dermot O'Leary) on 2005-11-26",
+     "url": "https://archive.org/details/mmj2005-11-26.shnf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "chalco",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22chalco%22",
+     "claim": "Reviewer singles out Jim James's acoustic version as especially worth hearing",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2006-03-14",
+     "quote_or_claim": "Worth the download. Jim James does an awesome acoustic version of 'Off The Record' truly worth a listen. Sound quality is excellent too.",
+     "site": "Internet Archive",
+     "title": "Review: Just Jim and his guitar (mmj2005-11-26.shnf)",
+     "url": "https://archive.org/details/mmj2005-11-26.shnf#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Off The Record",
+      "song_key": "song:my-morning-jacket:off-the-record",
+      "src": 1,
+      "text": "Jim James plays it solo and acoustic",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Make It With You",
+      "song_key": "song:my-morning-jacket:make-it-with-you",
+      "src": 1,
+      "text": "Jim James solo covers this song by Bread",
+      "type": "song"
+     },
+     {
+      "recording": "mmj2005-11-26.shnf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Uploader got the recording as one large file from Steven, then normalized levels (left channel was slightly louder) and tracked it",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Off The Record",
+      "song_key": "song:my-morning-jacket:off-the-record",
+      "src": 2,
+      "text": "Reviewer singles out Jim James's acoustic version as especially worth hearing",
+      "type": "song"
+     },
+     {
+      "recording": "mmj2005-11-26.shnf",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer says the sound quality is excellent",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2005-11-26:bbc-studios-dermot-oleary"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 5,
+    "facts_hash": "461644f823a896e4b5a77073c1e3422424b07b252f2da85933aa8b5c9ee4f558",
+    "generated_at": "2026-10-25T22:31:53.060736+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "5323152a23611320e22e61a042679d7b1696cf4a497bc6ec4c777b7ba0931e59",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.8
+   },
+   "revision": 1,
+   "signature": "A335HoJu6d_XJD1Hgx8YWe75Hv7x9SSuSOVdS5PE_28BwigGY2p--8LYocj1UcZRbCxrhxUKi5MxvnYeW7RkBg",
+   "subject_key": "live:my-morning-jacket:2005-11-26:bbc-studios-dermot-oleary",
+   "updated_at": "2026-10-25T22:31:53.063916"
   }
  },
  "recommended": {

@@ -268,6 +268,105 @@
    "signature": "f71UHY3dtPIHWW0aS5W1IlKBdPmrE5xRT71fov6HULUjz9lZ0t1c1LbQJYp5qrGPgQsP3mHuQKI2I77AR98GBw",
    "subject_key": "live:billy-strings:2016-04-08:albino-skunk-music-festival",
    "updated_at": "2026-10-24T19:13:52.975743"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Meet Me At The Creek** (1 other source): The last two tunes include many teases of Shakedown Street [1]\n\n## Setlist highlights\n\n- **soundcheck jam**: earliest performance in the archive; legendary: the only archived performance [2]\n- **As Blue As I Can Be**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Sitting On Top Of The World**: rare: 10 archived performances [2]\n- **crowd encore call**: earliest performance in the archive; legendary: the only archived performance [2]\n- Earliest performances in the archive: Proud Mary [2]\n\n## The recordings\n\n- **billystrings2016-04-08.mrsoul16** (recommended): soundboard; 11 songs; 64 min [1]\n\n## Around the show\n\n- Jon Stickley Trio sat in with the band for a few tunes [1]\n\n## Tapers and lineage\n\n- **billystrings2016-04-08.mrsoul16**: taped by mrsoul; transferred by mrsoul; source: SBD > Sony M10 (16/44.1) [1]. Also: Transferred from CD using CD Wave to FLAC, then EQ and normalization in Sound Forge Audio Studio 15, tagged in foobar2000 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "mrsoul",
+     "author_url": "https://archive.org/search?query=taper%3A%22mrsoul%22",
+     "credits": [
+      {
+       "name": "mrsoul",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22mrsoul%22"
+      },
+      {
+       "name": "mrsoul",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22mrsoul%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2026-02-27",
+     "quote_or_claim": "11-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Albino Skunk Music Festival on 2016-04-08",
+     "url": "https://archive.org/details/billystrings2016-04-08.mrsoul16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2016-04-08.mrsoul16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred from CD using CD Wave to FLAC, then EQ and normalization in Sound Forge Audio Studio 15, tagged in foobar2000",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Jon Stickley Trio sat in with the band for a few tunes",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Meet Me At The Creek",
+      "song_key": "song:billy-strings:meet-me-at-the-creek",
+      "src": 1,
+      "text": "The last two tunes include many teases of Shakedown Street",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2016-04-08:albino-skunk-music-festival"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 2,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "9bb7e74846658322f88c27355c752cd53de26572bdcc8f2b218352721f06fb0d",
+    "generated_at": "2026-10-25T22:41:25.954127+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "0828f9c8cd92f8439c03a30931b1632428634a8296b88f88b8b5f3622de6077f",
+    "prompt_version": "liner-3",
+    "rejected": [
+     "$.claims is required"
+    ],
+    "seconds": 8.2
+   },
+   "revision": 1,
+   "signature": "xbOW0jJftG8v8_ZEbynkYFp76riNpA70AaCg36zjbXSu6ApKQ1JnBj1Nt904SiP9t9tuh_jTt4b4XpPRXZyMBw",
+   "subject_key": "live:billy-strings:2016-04-08:albino-skunk-music-festival",
+   "updated_at": "2026-10-25T22:41:25.956238"
   }
  },
  "recommended": {

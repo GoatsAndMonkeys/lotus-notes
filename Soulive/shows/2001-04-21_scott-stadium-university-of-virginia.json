@@ -241,6 +241,122 @@
    "signature": "CKJIy6oblh2nWnLlyQiRy2hpwV_De_UzqDAbCnRB0D6MlvNP8TP6vC01C5tApC4tpvWdxQKgbGzNRuw4IbljBg",
    "subject_key": "live:soulive:2001-04-21:scott-stadium-university-of-virginia",
    "updated_at": "2026-10-24T21:25:40.419054"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **soulive2001-04-21.shnf** (recommended): source not stated; 4 songs; 34 min [1]\n- **soulive2001-04-21.flac16**: source not stated; 4 songs; 32 min [2]\n\n## Around the show\n\n- Soulive played first on the bill, followed by Neil Young, then Dave Matthews Band; this recording is incomplete, missing roughly the first fifteen minutes [2]\n\n## Tapers and lineage\n\n- **soulive2001-04-21.shnf**: taped by Tim Cochrane; transferred by Louie Rendek; source: AKG c3000->Stewart BPS-1->SBM-1->D8 [1]\n- **soulive2001-04-21.flac16**: taped by Steve Baker; transferred by Zappafan2; source: Nakamichi CM700's>Sony tc-d5m preamp>Sony pcm-m1 DAT [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Tim Cochrane",
+     "author_url": "https://archive.org/search?query=taper%3A%22Tim%20Cochrane%22",
+     "credits": [
+      {
+       "name": "Tim Cochrane",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Tim%20Cochrane%22"
+      },
+      {
+       "name": "Louie Rendek",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Louie%20Rendek%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2003-11-28",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Scott Stadium, University of Virginia on 2001-04-21",
+     "url": "https://archive.org/details/soulive2001-04-21.shnf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Steve Baker",
+     "author_url": "https://archive.org/search?query=taper%3A%22Steve%20Baker%22",
+     "credits": [
+      {
+       "name": "Steve Baker",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Steve%20Baker%22"
+      },
+      {
+       "name": "Zappafan2",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Zappafan2%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2026-05-07",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Scott stadium on 2001-04-21",
+     "url": "https://archive.org/details/soulive2001-04-21.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2001-04-21.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded by Steve Baker using Nakamichi CM700 microphones, Sony TC-D5M preamp, and Sony PCM-M1 DAT recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Soulive played first on the bill, followed by Neil Young, then Dave Matthews Band; this recording is incomplete, missing roughly the first fifteen minutes",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2001-04-21:scott-stadium-university-of-virginia"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "39064244ebf79d6b081edda4a998e0cc0ce8349d51c94e58f07599beef00075e",
+    "generated_at": "2026-10-25T22:42:08.811220+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a8eaf3b18ff63afcd3f20c2564439e91d965b372eea470426143d55336f25707",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.8
+   },
+   "revision": 1,
+   "signature": "D7x_gIVKWSo792WsYH0Ns5w3dyq2ta3E6d-_ze_bG8xBmD7I00XEi-kAiOjYMCzysU-wzY4Pi1Zl0Xj8zLJUCA",
+   "subject_key": "live:soulive:2001-04-21:scott-stadium-university-of-virginia",
+   "updated_at": "2026-10-25T22:42:08.813023"
   }
  },
  "recommended": {

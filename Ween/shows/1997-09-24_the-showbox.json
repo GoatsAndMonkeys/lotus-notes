@@ -674,6 +674,130 @@
    "signature": "eJCEqZW56nQY1vZ1eC3B2VONq56wOb7pt1sPLCDmNR8ZFD1wxNtjv2VCGWDNqMhAHHlT1keGuqW8wuF7NdVyAg",
    "subject_key": "live:ween:1997-09-24:the-showbox",
    "updated_at": "2026-10-24T19:12:18.415096"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- Earliest performances in the archive: The Stallion, Part 3 [3]\n\n## The recordings\n\n- **ween1997-09-24.mk4.flac16** (recommended): source not stated; 30 songs; 174 min [1]\n- **ween1997-09-24**: source not stated; 30 songs; 176 min [2]\n\n## Tapers and lineage\n\n- **ween1997-09-24.mk4.flac16**: taped by Teddy Ballgame; transferred by Teddy Ballgame; source: Schoeps MK4’s > Rmod > Sony TCD-D7 [1]\n- **ween1997-09-24**: taped by gilde; transferred by gilde; source: Schoeps MK-4 > DAT [2]. Also: Signal chain used a custom pre-amp and power supply feeding into a digital conversion stage; Resampled to 44.1kHz using iZotope 64-bit sample rate converter; Mastered with Waves L3 Ultramaximizer for limiting, dither and noise shaping [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Teddy Ballgame",
+     "author_url": "https://archive.org/search?query=taper%3A%22Teddy%20Ballgame%22",
+     "credits": [
+      {
+       "name": "Teddy Ballgame",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Teddy%20Ballgame%22"
+      },
+      {
+       "name": "Teddy Ballgame",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Teddy%20Ballgame%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2018-06-20",
+     "quote_or_claim": "30-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Showbox on 1997-09-24",
+     "url": "https://archive.org/details/ween1997-09-24.mk4.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "gilde",
+     "author_url": "https://archive.org/search?query=taper%3A%22gilde%22",
+     "credits": [
+      {
+       "name": "gilde",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22gilde%22"
+      },
+      {
+       "name": "gilde",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22gilde%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2017-10-28",
+     "quote_or_claim": "30-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at The Showbox on 1997-09-24",
+     "url": "https://archive.org/details/ween1997-09-24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween1997-09-24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Signal chain used a custom pre-amp and power supply feeding into a digital conversion stage",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween1997-09-24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Resampled to 44.1kHz using iZotope 64-bit sample rate converter",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween1997-09-24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Mastered with Waves L3 Ultramaximizer for limiting, dither and noise shaping",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:1997-09-24:the-showbox"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "2486c976b10c771750b7c2b307e055de9786e7d553b19959cf7b02e867e6fdb4",
+    "generated_at": "2026-10-25T22:37:45.835765+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "efb1280252df518059eefd7658e45e3b4458de126f04680a7f51fcc6e5344c6b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.5
+   },
+   "revision": 1,
+   "signature": "ioSFUHLBiLvCN8dU_60NJumtlNxZ2fuFO3PLbkAf8Sei4VhL3SxODwPwGG5iZA0-mF9YIi4B_sBpbKXDb3t4Cw",
+   "subject_key": "live:ween:1997-09-24:the-showbox",
+   "updated_at": "2026-10-25T22:37:45.837922"
   }
  },
  "recommended": {

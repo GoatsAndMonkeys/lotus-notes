@@ -623,6 +623,103 @@
    "signature": "kHhep5TH2CU5ciZpWt8UQbkxm6DZ2gVYFcgS8fyYbKpVyGMSlfA5TAoDW1zUoU3Sr1BKoaktMcwV0GuFYwJSCg",
    "subject_key": "live:ween:2018-10-13:the-fillmore",
    "updated_at": "2026-10-24T19:12:19.174475"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Papa Was a Rolling Stone (tease)** (1 other source): The notes list a tease of this song as part of the show [1]\n\n## Setlist highlights\n\n- **Secords**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Pink Eye (on my leg)**: rare: 6 archived performances [2]\n- **Tic**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **oys Club**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Papa Was a Rolling Stone (tease)**: back after 356 archived shows (6314 days); mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **Ween2018-10-13.MK012** (recommended): source not stated; 35 songs; 147 min [1]\n\n## Tapers and lineage\n\n- **Ween2018-10-13.MK012**: taped by Zachariah Boes; transferred by Zachariah Boes; source: Oktava MK-012-01 (cards) > Fostex FR-2LE (24/48) [1]. Also: Recorded with Octava MK-012-01 microphones with cards, going into a Fostex FR2LE recorder at 24-bit/48kHz; Transfer path went from the FR2LE through Audacity and was then encoded to FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Zachariah Boes",
+     "author_url": "https://archive.org/search?query=taper%3A%22Zachariah%20Boes%22",
+     "credits": [
+      {
+       "name": "Zachariah Boes",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Zachariah%20Boes%22"
+      },
+      {
+       "name": "Zachariah Boes",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Zachariah%20Boes%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2018-10-16",
+     "quote_or_claim": "35-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at The Fillmore on 2018-10-13",
+     "url": "https://archive.org/details/Ween2018-10-13.MK012",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "Ween2018-10-13.MK012",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Octava MK-012-01 microphones with cards, going into a Fostex FR2LE recorder at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "Ween2018-10-13.MK012",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer path went from the FR2LE through Audacity and was then encoded to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Papa Was a Rolling Stone (tease)",
+      "song_key": "song:ween:papa-was-a-rolling-stone",
+      "src": 1,
+      "text": "The notes list a tease of this song as part of the show",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2018-10-13:the-fillmore"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "c2e2e585ea2ddc1e5101d99674b13bdbdd14ebfd4e25896c06a719660090d795",
+    "generated_at": "2026-10-25T22:22:24.596668+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "91579226e564b0ce950d57dcd9a343f6d4104f839c6ab013cfb2189a508d1019",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.2
+   },
+   "revision": 1,
+   "signature": "9aDapicbn1L-9glGE3wFIol1hXByQ4I7kQAMJLosGbkHR_vJQ2YvGwijeCiswzb8VsQL6zE6qx4pLSHonDMXAw",
+   "subject_key": "live:ween:2018-10-13:the-fillmore",
+   "updated_at": "2026-10-25T22:22:24.599412"
   }
  },
  "recommended": {

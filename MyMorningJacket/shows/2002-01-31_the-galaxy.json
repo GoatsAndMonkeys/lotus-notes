@@ -230,6 +230,119 @@
    "signature": "nYQ_kjvsDUVFPza_YkBH28hV7IE2a3nkk6ucZI183SwFyzQul_vrOdWI5XQpdOLlKckYrPYPthj2TsMdfyjmDA",
    "subject_key": "live:my-morning-jacket:2002-01-31:the-galaxy",
    "updated_at": "2026-10-25T08:14:17.423188"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2002-01-31.aud.flac16** (recommended): audience recording; 6 songs; 29 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- The set was almost completely different from the previous night's show, which also circulates as a recording [1]\n\n## Tapers and lineage\n\n- **mmj2002-01-31.aud.flac16**: taped by unknown; transferred by Magnix; source: ? > CD-R [1]. Also: The taper filmed the show with a Sony Digital 8 camcorder; the audio comes from that video; Lineage: CD-R, ripped with EAC, encoded to FLAC level 8; an audience recording received from another trader [1][2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "unknown",
+     "author_url": "https://archive.org/search?query=taper%3A%22unknown%22",
+     "credits": [
+      {
+       "name": "unknown",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22unknown%22"
+      },
+      {
+       "name": "Magnix",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Magnix%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-08-10",
+     "quote_or_claim": "6-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at The Galaxy on 2002-01-31",
+     "url": "https://archive.org/details/mmj2002-01-31.aud.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "ManaTribe",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22ManaTribe%22",
+     "claim": "The taper filmed the show with a Sony Digital 8 camcorder; the audio comes from that video",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2016-04-21",
+     "quote_or_claim": "This show was videotaped. I taped it. The audio archived here is from that video. Sony DCR-TRV230 Digital 8 Core Sound Binaural Mics w/ Bass Roll Off -20dB…",
+     "site": "Internet Archive",
+     "title": "Review: I'm the taper... (mmj2002-01-31.aud.flac16)",
+     "url": "https://archive.org/details/mmj2002-01-31.aud.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2002-01-31.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The taper filmed the show with a Sony Digital 8 camcorder; the audio comes from that video",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-01-31.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Lineage: CD-R, ripped with EAC, encoded to FLAC level 8; an audience recording received from another trader",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The set was almost completely different from the previous night's show, which also circulates as a recording",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2002-01-31:the-galaxy"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "ca98a2f6492cd1d261fe6d2699b1a83d0a399b71165c9f9cf3f674893abe0bd7",
+    "generated_at": "2026-10-25T22:34:21.374317+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a4e60debe3c699a5dc1d0ab9b138ca9c7fa54c1fc07bbd4ce19a4bfa8f04bfac",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.0
+   },
+   "revision": 1,
+   "signature": "mTlcG5_q2cLea4Pip_guCZKWN4mlgehZHb-bJUzcvT_P0dvIwS_fBDbD0-lO42_Fn_tCoSU9M7-K1qbEBtG3Bw",
+   "subject_key": "live:my-morning-jacket:2002-01-31:the-galaxy",
+   "updated_at": "2026-10-25T22:34:21.376860"
   }
  },
  "recommended": {

@@ -185,6 +185,103 @@
    "signature": "fj0WYlS-MItRZSHo-lAF74UbcPUiyQH451FafV-mLv2phtNWqEZNsU7JnD68mVFN0vZUc9ryNs4RpFHAXuXRAg",
    "subject_key": "live:soulive:2002-08-16:central-park-summerstage",
    "updated_at": "2026-10-24T21:25:40.561860"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **soulive2002-08-16.km140.duro.flac24** (recommended): source not stated; 4 songs; 39 min [1]\n\n## Around the show\n\n- Sam Kininger guested on saxophone at this show [1]\n\n## Tapers and lineage\n\n- **soulive2002-08-16.km140.duro.flac24**: taped by Rick Duro; transferred by Dave Mallick; source: Neumann SKM 140’s > Lunatec V2 > Sony SBM-1 > Tascam DA-P1 > CD [1]. Also: Rick Duro mastered the CD and transferred it to tape; later transfer went via Nakamichi BX-100, Lunatec V3, Tascam DR-100 mkIII, to FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Rick Duro",
+     "author_url": "https://archive.org/search?query=taper%3A%22Rick%20Duro%22",
+     "credits": [
+      {
+       "name": "Rick Duro",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Rick%20Duro%22"
+      },
+      {
+       "name": "Dave Mallick",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Dave%20Mallick%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2025-10-09",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Central Park Summerstage on 2002-08-16",
+     "url": "https://archive.org/details/soulive2002-08-16.km140.duro.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2002-08-16.km140.duro.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Neumann SKM 140 microphones through Lunatec V2, Sony SBM-1 and Tascam DA-P1 onto CD",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2002-08-16.km140.duro.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Rick Duro mastered the CD and transferred it to tape; later transfer went via Nakamichi BX-100, Lunatec V3, Tascam DR-100 mkIII, to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Sam Kininger guested on saxophone at this show",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2002-08-16:central-park-summerstage"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "5beec4499ceb45ed2e20056a0924787e5f7a7e2b55fdc873f4897ce27ee6fd46",
+    "generated_at": "2026-10-25T22:41:42.325678+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "47c73e0b5dd222747d491b2f90f5de78ce894f0c488d172769910b1bf87c6336",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.0
+   },
+   "revision": 1,
+   "signature": "jEHOMJXgZFPu2p1bMAPfThqFddv72y4WlnOW6SfsLZfRFEmiLii6syFxci9qa9rsju858tAMJFCpjj8bE1Z4Bw",
+   "subject_key": "live:soulive:2002-08-16:central-park-summerstage",
+   "updated_at": "2026-10-25T22:41:42.332375"
   }
  },
  "recommended": {

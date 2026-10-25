@@ -261,6 +261,98 @@
    "signature": "wY7EFld0DEQWd7D804fKHb9niNOlWiYQ-huBylcA6mwj_IU6BNGyYseZ73QHQJFsEadauf_5SXJUQdue_OaaAQ",
    "subject_key": "live:soulive:2016-01-08:pantheon-theater",
    "updated_at": "2026-10-24T21:25:41.094276"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Ohio**: rare: 4 archived performances [2]\n- **Taxman**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Povo**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **soulive2016-01-08.bazley** (recommended): source not stated; 10 songs; 100 min [1]\n\n## Around the show\n\n- Guests: Oteil Burbridge, Ivan Neville, Tony Hall, Karl Denson, Roosevelt Collier, Vernon Reid, Snarky Puppy members [1]\n\n## Tapers and lineage\n\n- **soulive2016-01-08.bazley**: taped by Steve Bazley; source: Schoeps mk21 / kc5 > Sound Devices 788 [1]. Also: Transfer ran from the 788 through Wavelab7, with normalization to -1db, resampling and dither, then cdwave [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Steve Bazley",
+     "author_url": "https://archive.org/search?query=taper%3A%22Steve%20Bazley%22",
+     "credits": [
+      {
+       "name": "Steve Bazley",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Steve%20Bazley%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-11-18",
+     "quote_or_claim": "10-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at Pantheon Theater on 2016-01-08",
+     "url": "https://archive.org/details/soulive2016-01-08.bazley",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2016-01-08.bazley",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Steve Bazley taped and transferred it, using Schoeps mk21/kc5 microphones into a Sound Devices 788 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2016-01-08.bazley",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer ran from the 788 through Wavelab7, with normalization to -1db, resampling and dither, then cdwave",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Guests: Oteil Burbridge, Ivan Neville, Tony Hall, Karl Denson, Roosevelt Collier, Vernon Reid, Snarky Puppy members",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2016-01-08:pantheon-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "e293e8335f6fce443c49b77fc58dd5debaccd6720fa5b08bfa354ed98f59e01a",
+    "generated_at": "2026-10-25T22:22:32.515516+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "53bd74bf90d6d4791f71297f1e960299b87cc332aff08217ac9f19744525bde0",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 7.1
+   },
+   "revision": 1,
+   "signature": "xaX-hJzYUK_Vt6NYug2uw6AHtG1ZiQ6CcxG9AxIPpZyF1_M5WDW0YaA0oBWxh0kTItn2gKIRYpEt70hoha9yBg",
+   "subject_key": "live:soulive:2016-01-08:pantheon-theater",
+   "updated_at": "2026-10-25T22:22:32.518968"
   }
  },
  "recommended": {

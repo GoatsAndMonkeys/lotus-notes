@@ -300,6 +300,117 @@
    "signature": "DW6cRNm9oj0I-ZKUG-354P33IqyHaA7HV3ZS944mpGH9em1-QlJaNgNkn_nWMNa9TxaMFEtQmsXdW2hT7UOMBQ",
    "subject_key": "live:my-morning-jacket:2018-12-08:asheville-civic-center",
    "updated_at": "2026-10-25T08:14:17.842431"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Just A Fool**: rare: 11 archived performances [3]\n- **Throwback**: rare: 14 archived performances [3]\n- **All Over The World**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Over And Over**: rare: 11 archived performances [3]\n- **Better Get Together While Still Got Time**: earliest performance in the archive; legendary: the only archived performance [3]\n- **No Secrets**: rare: 10 archived performances [3]\n\n## The recordings\n\n- **mmj2018-12-08._FLAC** (recommended): source not stated; 9 songs; 42 min [1]\n- **jimjames2018-12-08.ccm4v.flac16**: source not stated; 9 songs; 42 min [2]\n\n## Tapers and lineage\n\n- **mmj2018-12-08._FLAC**: taped by Z-Man; transferred by Z-Man; source: Schoeps CCM4V's>Lunatec V2>Sound Devices 722 (24/44) FOB/DFC/KFC/ZFC/AARP 45' From Stage, 6' High [1]\n- **jimjames2018-12-08.ccm4v.flac16**: taped by Z-Man; source: Schoeps CCM4V's>Lunatec V2>Sound Devices 722 (24/44) [2]. Also: Recorded with Schoeps CCM4V microphones through a Lunatec V2 preamp into a Sound Devices 722 at 24-bit/44.1kHz; Mics were placed 45 feet from the stage and 6 feet high; the transfer went through Sound Forge 10.0 and CD Wave to 16-bit FLAC [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Z-Man",
+     "author_url": "https://archive.org/search?query=taper%3A%22Z-Man%22",
+     "credits": [
+      {
+       "name": "Z-Man",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Z-Man%22"
+      },
+      {
+       "name": "Z-Man",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Z-Man%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2018-12-17",
+     "quote_or_claim": "9-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Asheville Civic Center on 2018-12-08",
+     "url": "https://archive.org/details/mmj2018-12-08._FLAC",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Z-Man",
+     "author_url": "https://archive.org/search?query=taper%3A%22Z-Man%22",
+     "credits": [
+      {
+       "name": "Z-Man",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Z-Man%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2018-12-15",
+     "quote_or_claim": "9-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Asheville Civic Center on 2018-12-08",
+     "url": "https://archive.org/details/jimjames2018-12-08.ccm4v.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "jimjames2018-12-08.ccm4v.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded with Schoeps CCM4V microphones through a Lunatec V2 preamp into a Sound Devices 722 at 24-bit/44.1kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "jimjames2018-12-08.ccm4v.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Mics were placed 45 feet from the stage and 6 feet high; the transfer went through Sound Forge 10.0 and CD Wave to 16-bit FLAC",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2018-12-08:asheville-civic-center"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "68e33645e40177be7854c16c17136f9af0603a41adad5da8359be0f2a154b20d",
+    "generated_at": "2026-10-25T22:22:36.787222+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "4265f5a3a62c504582613ba76481c1fca4caf4050094a4e7ae8f5dbcbab05f19",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.6
+   },
+   "revision": 1,
+   "signature": "zBpWfv-yNXGnCGhys-2KrO4DGweUlEYzJYVy7YkobyX9_zsOILO3fzqa36VsB-RzRg2gi0KlmTp_kUqtaiLUDQ",
+   "subject_key": "live:my-morning-jacket:2018-12-08:asheville-civic-center",
+   "updated_at": "2026-10-25T22:22:36.790001"
   }
  },
  "recommended": {

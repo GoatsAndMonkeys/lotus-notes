@@ -423,6 +423,103 @@
    "signature": "EFG07cOy1psbjpAotzKhn0rEh3a9PaB5d08E1fVoR0_VTp5ZwTGRInBluSrF7qsI-p3hN083EzG84NyPS67vAw",
    "subject_key": "live:my-morning-jacket:2011-11-02:o2-abc",
    "updated_at": "2026-10-25T08:14:17.677842"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2011-11-02.CMC-8s** (recommended): audience recording; 21 songs; 131 min [1]. Said about its sound: Uploader says it was recorded somewhat hot, yet still sounds really nice to him [1]\n\n## Tapers and lineage\n\n- **mmj2011-11-02.CMC-8s**: taped by Evangeline; transferred by Humbug; source: Aud->SP CMC-8s+AT-P12106 hyper-cardioid caps->SPSB-6S(r/o:0)->Edirol R09(16bit 44.1Khz, gain +18) [1]. Also: Recorded by Evangeline from the audience using CMC-8s with hyper-cardioid caps into an Edirol R09 at 16-bit 44.1kHz; Humbug transferred it via Audacity and CD Wave to FLAC, only trimming and tracking it; Evangeline had given him her old R-09 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Evangeline",
+     "author_url": "https://archive.org/search?query=taper%3A%22Evangeline%22",
+     "credits": [
+      {
+       "name": "Evangeline",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Evangeline%22"
+      },
+      {
+       "name": "Humbug",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Humbug%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-11-11",
+     "quote_or_claim": "21-song AUD recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at O2 ABC on 2011-11-02",
+     "url": "https://archive.org/details/mmj2011-11-02.CMC-8s",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2011-11-02.CMC-8s",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded by Evangeline from the audience using CMC-8s with hyper-cardioid caps into an Edirol R09 at 16-bit 44.1kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2011-11-02.CMC-8s",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Humbug transferred it via Audacity and CD Wave to FLAC, only trimming and tracking it; Evangeline had given him her old R-09",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2011-11-02.CMC-8s",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Uploader says it was recorded somewhat hot, yet still sounds really nice to him",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2011-11-02:o2-abc"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "eb8bc9a56f4031d43b54bd0808970fd92043a1d521f3922b35a22dd7c3bab356",
+    "generated_at": "2026-10-25T22:28:30.179894+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "91b37bf90325ef663cff87969326b25bc04c5786ba86512abbd739408e5eceab",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.3
+   },
+   "revision": 1,
+   "signature": "05DIac_eqZH3yr_d-LbnIE8c7_GH0EVvNOZniqtYSupI8j8UgBJ2J7-RSwYQ1QLYncAYcJMj19cGbC4lyv5zDQ",
+   "subject_key": "live:my-morning-jacket:2011-11-02:o2-abc",
+   "updated_at": "2026-10-25T22:28:30.182513"
   }
  },
  "recommended": {

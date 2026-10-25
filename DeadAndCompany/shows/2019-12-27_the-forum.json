@@ -387,6 +387,95 @@
    "signature": "0_6z1Gi1qdOC8fqH8AlhTbcfadWAnmeYTxhnuMOPOZldObEKGSkMF3r4QYUDV12atkPNKiJY2VRtxO-QLNKuBw",
    "subject_key": "live:dead-and-company:2019-12-27:the-forum",
    "updated_at": "2026-10-24T20:49:29.855356"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **deadco2019-12-27.DeadCo2019-12-27TheForum** (recommended): audience recording; 18 songs; 168 min [1]\n\n## Tapers and lineage\n\n- **deadco2019-12-27.DeadCo2019-12-27TheForum**: taped by JT/NY / Bill Zimmerman; transferred by JT/NY; source: Aud > DPA 4011 > GAKable's > MixPre 6 [1]. Also: Recorded to SD card at 16-bit/48kHz, then tracked and edited in Sound Forge Pro 10; Converted to FLAC using Traders Little Helper [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "JT/NY / Bill Zimmerman",
+     "author_url": "https://archive.org/search?query=taper%3A%22JT/NY%20/%20Bill%20Zimmerman%22",
+     "credits": [
+      {
+       "name": "JT/NY / Bill Zimmerman",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22JT/NY%20/%20Bill%20Zimmerman%22"
+      },
+      {
+       "name": "JT/NY",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22JT/NY%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-01-28",
+     "quote_or_claim": "18-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at The Forum on 2019-12-27",
+     "url": "https://archive.org/details/deadco2019-12-27.DeadCo2019-12-27TheForum",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 330 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "DeadAndCompany collection, Live Music Archive",
+     "url": "https://archive.org/details/DeadAndCompany",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "deadco2019-12-27.DeadCo2019-12-27TheForum",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded to SD card at 16-bit/48kHz, then tracked and edited in Sound Forge Pro 10",
+      "type": "lineage"
+     },
+     {
+      "recording": "deadco2019-12-27.DeadCo2019-12-27TheForum",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Converted to FLAC using Traders Little Helper",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:dead-and-company:2019-12-27:the-forum"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "f830c234e80bf1cdb3fcb9e97d6ff5304ea7c22b50b16b6c0f2dbd6b43873753",
+    "generated_at": "2026-10-25T22:45:22.790635+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "78395567a6754805489a989deaa4de8cc3cf89ef30aec630c04cce805cfcf454",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.1
+   },
+   "revision": 1,
+   "signature": "MWSuS4INetUrWaSmwCWI9i1DmilYH8XoJ6RLlddY8cDT0CaBLbq_if-rWoNg0L5C6k5P8M8oIThTZ112TN8PBg",
+   "subject_key": "live:dead-and-company:2019-12-27:the-forum",
+   "updated_at": "2026-10-25T22:45:22.792655"
   }
  },
  "recommended": {

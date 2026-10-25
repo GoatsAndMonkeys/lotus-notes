@@ -1081,6 +1081,128 @@
    "signature": "Sy9vt2zV6WtRv7t90YyfrNFfx6c34aW0T9Funwnk2LPmKx1nX2tHFgsIGf34XZfSavooVGsDKEAKN2OSZ7VUAw",
    "subject_key": "live:ween:1999-08-06:the-warfield-theatre",
    "updated_at": "2026-10-24T22:08:04.959440"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Track**: rare: 10 archived performances [3]\n- **Track**: rare: 10 archived performances [3]\n- **Track**: rare: 10 archived performances [3]\n- **Track**: rare: 10 archived performances [3]\n- **Track**: rare: 10 archived performances [3]\n- **Track**: rare: 10 archived performances [3]\n\n## The recordings\n\n- **ween1999-08-06** (recommended): source not stated; 32 songs; 203 min [1]\n- **ween1999-08-06.ccm4.flacf**: source not stated; 30 songs; 205 min [2]. Said about its sound: Fade out and fade in between the two discs were restored in editing [2]\n\n## Tapers and lineage\n\n- **ween1999-08-06.ccm4.flacf**: taped by Sneaky Bastard Audio; source: Schoeps CCM-4 > Aerco MP-2 > Sony TCD-D100 [2]. Also: Recorded with Schoeps CCM-4 microphones through an Aerco MP-2 preamp onto a Sony TCD-D100 DAT recorder; Mics were placed on a stand at the drink rail in ORTF configuration with DFC; transfer went DAT to CDR to FLAC [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-08-28",
+     "quote_or_claim": "32-song unlabelled recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at The Warfield Theatre on 1999-08-06",
+     "url": "https://archive.org/details/ween1999-08-06",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Sneaky Bastard Audio",
+     "author_url": "https://archive.org/search?query=taper%3A%22Sneaky%20Bastard%20Audio%22",
+     "credits": [
+      {
+       "name": "Sneaky Bastard Audio",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Sneaky%20Bastard%20Audio%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2021-08-08",
+     "quote_or_claim": "30-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Warfield Theatre on 1999-08-06",
+     "url": "https://archive.org/details/ween1999-08-06.ccm4.flacf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 4,
+     "kind": "reddit",
+     "published_at": null,
+     "quote_or_claim": "San Francisco, Warfield Theater, Aug 6 1999 ...",
+     "site": "Reddit · r/ween",
+     "title": "What was your first Ween show? - Reddit",
+     "url": "https://www.reddit.com/r/ween/comments/1vur81s/what_was_your_first_ween_show/",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween1999-08-06.ccm4.flacf",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recorded with Schoeps CCM-4 microphones through an Aerco MP-2 preamp onto a Sony TCD-D100 DAT recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween1999-08-06.ccm4.flacf",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Mics were placed on a stand at the drink rail in ORTF configuration with DFC; transfer went DAT to CDR to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween1999-08-06.ccm4.flacf",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Fade out and fade in between the two discs were restored in editing",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:1999-08-06:the-warfield-theatre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "56a4132e5d01576e5b7b5c0f64fd84d4537abf36072230f3a4684e2f8bf15ddb",
+    "generated_at": "2026-10-25T22:36:47.256657+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "7372ebbe47bad07e2808c9ecfde4b1960c556ac274dd966a4269430ef7c726f2",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.1
+   },
+   "revision": 1,
+   "signature": "yH9vUAOfSpuL9CKVjb2nzHJLI5nmYtgxumyv83JDF6LmJPsXpTYumSwXEOkSqjp1GdAKoyT4uI2ATEquanLLCw",
+   "subject_key": "live:ween:1999-08-06:the-warfield-theatre",
+   "updated_at": "2026-10-25T22:36:47.258965"
   }
  },
  "recommended": {

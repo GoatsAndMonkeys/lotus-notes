@@ -449,6 +449,127 @@
    "signature": "w6A0dgfNl_imSXzjtlMx6DBDhCSLvckVx6LhyZDbf9ZVtjXuyzmfqazrfFuClFsdAZqzSJl2Jb90-smlpxD1DQ",
    "subject_key": "live:dead-and-company:2023-06-18:spac",
    "updated_at": "2026-10-24T20:49:29.968154"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Werewolves of London**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **deadco2023-06-18.SPACSaratogaSpringsNY** (recommended): audience recording; 21 songs; 184 min; rated 5/5 by 1 [1]. Said about its sound: The audience recording clearly captures a audible shout of \"yippee\" from the crowd [2]\n\n## Around the show\n\n- Taped in section 8, right of the board, with microphones nine feet high; lineup listed as Weir, Mayer, Burbridge, Hart [1]\n\n## Tapers and lineage\n\n- **deadco2023-06-18.SPACSaratogaSpringsNY**: taped by JT/NY; transferred by JT/NY; source: Aud > Nak 700's w 701 Caps > Gakcables > Lunatec V3 > Sound Devices 722 @ 24/96 [1]. Also: Audience recording made with Nak 700 mics with 701 capsules, through Lunatec V3 preamp into a Sound Devices 722 at 24/96; Transferred as 24/96, tracked and edited in Sound Forge Pro 16, then converted to FLAC with Traders Little Helper [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "JT/NY",
+     "author_url": "https://archive.org/search?query=taper%3A%22JT/NY%22",
+     "credits": [
+      {
+       "name": "JT/NY",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22JT/NY%22"
+      },
+      {
+       "name": "JT/NY",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22JT/NY%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-06-19",
+     "quote_or_claim": "21-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at SPAC on 2023-06-18",
+     "url": "https://archive.org/details/deadco2023-06-18.SPACSaratogaSpringsNY",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Bradford Rose",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Bradford%20Rose%22",
+     "claim": "The audience recording clearly captures a audible shout of \"yippee\" from the crowd",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2024-06-10",
+     "quote_or_claim": "You can hear a great \"yippee!\". Bout sums it up.",
+     "site": "Internet Archive",
+     "title": "Review: 9:35 mark in Sugaree (deadco2023-06-18.SPACSaratogaSpringsNY)",
+     "url": "https://archive.org/details/deadco2023-06-18.SPACSaratogaSpringsNY#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 330 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "DeadAndCompany collection, Live Music Archive",
+     "url": "https://archive.org/details/DeadAndCompany",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "deadco2023-06-18.SPACSaratogaSpringsNY",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The audience recording clearly captures a audible shout of \"yippee\" from the crowd",
+      "type": "sound"
+     },
+     {
+      "recording": "deadco2023-06-18.SPACSaratogaSpringsNY",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Audience recording made with Nak 700 mics with 701 capsules, through Lunatec V3 preamp into a Sound Devices 722 at 24/96",
+      "type": "lineage"
+     },
+     {
+      "recording": "deadco2023-06-18.SPACSaratogaSpringsNY",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred as 24/96, tracked and edited in Sound Forge Pro 16, then converted to FLAC with Traders Little Helper",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped in section 8, right of the board, with microphones nine feet high; lineup listed as Weir, Mayer, Burbridge, Hart",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:dead-and-company:2023-06-18:spac"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "8484cb4da7da061f33660e8ecc29506bd301a1ac3dfaed366aa52c5c22758d5b",
+    "generated_at": "2026-10-25T22:44:06.330014+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "844c91fa50b9168e44aa871cc8447049432149c8f208d8275cb17b42b848b2f2",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.4
+   },
+   "revision": 1,
+   "signature": "GPGDLNRq-CxoSQCsnhFS6o6nQQPTfc3w1CVcrpOMxP_E40EoRcF1UR3Y7QjcqfKbaDblsJuGx4MQckLi-TeZAQ",
+   "subject_key": "live:dead-and-company:2023-06-18:spac",
+   "updated_at": "2026-10-25T22:44:06.331420"
   }
  },
  "recommended": {

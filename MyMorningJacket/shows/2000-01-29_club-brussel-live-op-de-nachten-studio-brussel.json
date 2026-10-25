@@ -157,6 +157,103 @@
    "signature": "ShQQrGVQty6yM8ch4cVsAhj28SfA05N-6hUrTjGBQIIGIjPnBlQUR0J0U50p5sR93CTRYu75rtZ7aB0BKONKBA",
    "subject_key": "live:my-morning-jacket:2000-01-29:club-brussel-live-op-de-nachten-studio-brussel",
    "updated_at": "2026-10-25T08:14:17.399876"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2000-01-29.fm** (recommended): FM broadcast; 2 songs; 10 min [1]\n\n## Around the show\n\n- Studio Brussel aired a session, possibly with an interview, around 19:00 CET on the evening of the festival date [1]\n- The January 29 session is reported as acoustic, while an electric session's two tracks aired on Studio Brussel the next day [1]\n\n## Tapers and lineage\n\n- **mmj2000-01-29.fm**: taped by Danny Van T.; transferred by Magnix; source: FM broadcast > Cassette? > PC WAV > CD-R [1]. Also: Chain runs from FM broadcast, possibly via cassette, to PC WAV, then CD-R, extracted with EAC and encoded as level 8 FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Danny Van T.",
+     "author_url": "https://archive.org/search?query=taper%3A%22Danny%20Van%20T.%22",
+     "credits": [
+      {
+       "name": "Danny Van T.",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Danny%20Van%20T.%22"
+      },
+      {
+       "name": "Magnix",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Magnix%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-02-05",
+     "quote_or_claim": "2-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at \"Club Brussel live op De Nachten\", Studio Brussel on 2000-01-29",
+     "url": "https://archive.org/details/mmj2000-01-29.fm",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2000-01-29.fm",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Chain runs from FM broadcast, possibly via cassette, to PC WAV, then CD-R, extracted with EAC and encoded as level 8 FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Studio Brussel aired a session, possibly with an interview, around 19:00 CET on the evening of the festival date",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The January 29 session is reported as acoustic, while an electric session's two tracks aired on Studio Brussel the next day",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2000-01-29:club-brussel-live-op-de-nachten-studio-brussel"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "1eb2c4372e4e0a365d401fdc40e46cc5ebfb7e1595c4f6541a284c4e5c02c3a1",
+    "generated_at": "2026-10-25T22:35:09.499627+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "def949f3ccd9f9da6cd5902eefbe0b0b83139db23dc036c8b699107dce2f2abd",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.8
+   },
+   "revision": 1,
+   "signature": "arSMlsno0oBiijB7mjCSHYl4nVT4GdxlhqlDCTiTtD8qniUTQchfLZ9b1R1DkyKC_CfVa43oQ-VKSXPG5yyfBQ",
+   "subject_key": "live:my-morning-jacket:2000-01-29:club-brussel-live-op-de-nachten-studio-brussel",
+   "updated_at": "2026-10-25T22:35:09.503563"
   }
  },
  "recommended": {

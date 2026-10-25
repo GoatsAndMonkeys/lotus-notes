@@ -437,6 +437,130 @@
    "signature": "-ZDDbSUbaP3h05A_kI1XsXoGoHm_OFeYlhljLGTapzaGB1PIONBYiEtKnk5A_4H5jtbA40S-Pc4d1aI9OvEbBw",
    "subject_key": "live:my-morning-jacket:2007-01-11:the-depot",
    "updated_at": "2026-10-25T08:14:17.575182"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Bermuda Highway** (1 other source): The notes mark the encore as starting with this song, followed by four more songs [1]\n- **Anytime** (1 other source): The notes list this song last, closing the encore after Mahgeetah [1]\n\n## Setlist highlights\n\n- **The Way That He Signs**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Run Through**: back after 53 archived shows (458 days); rare: 3 archived performances [3]\n\n## The recordings\n\n- **mmj2007-01-11.m1290.flac24** (recommended): source not stated; 18 songs; 108 min [1]\n- **mmj2007-01-11.m1290.flac16**: source not stated; 18 songs; 108 min [2]\n\n## Tapers and lineage\n\n- **mmj2007-01-11.m1290.flac24**: taped by Alex Widner; transferred by Alex Widner; source: Audix M1290 > MP-2 > Edirol R-09 ** 24 Bit ** [1]. Also: This transfer is a 24-bit FLAC; a separate 16-bit version is also posted for CD burning and lossy formats [1]\n- **mmj2007-01-11.m1290.flac16**: taped by Alex Widner; transferred by Alex Widner; source: Audix M1290 > MP-2 > Edirol R-09 ** 16 Bit ** [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Alex Widner",
+     "author_url": "https://archive.org/search?query=taper%3A%22Alex%20Widner%22",
+     "credits": [
+      {
+       "name": "Alex Widner",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Alex%20Widner%22"
+      },
+      {
+       "name": "Alex Widner",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Alex%20Widner%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-04-08",
+     "quote_or_claim": "18-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at The Depot on 2007-01-11",
+     "url": "https://archive.org/details/mmj2007-01-11.m1290.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Alex Widner",
+     "author_url": "https://archive.org/search?query=taper%3A%22Alex%20Widner%22",
+     "credits": [
+      {
+       "name": "Alex Widner",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Alex%20Widner%22"
+      },
+      {
+       "name": "Alex Widner",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Alex%20Widner%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2007-04-07",
+     "quote_or_claim": "18-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at The Depot on 2007-01-11",
+     "url": "https://archive.org/details/mmj2007-01-11.m1290.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2007-01-11.m1290.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "This transfer is a 24-bit FLAC; a separate 16-bit version is also posted for CD burning and lossy formats",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Bermuda Highway",
+      "song_key": "song:my-morning-jacket:bermuda-highway",
+      "src": 1,
+      "text": "The notes mark the encore as starting with this song, followed by four more songs",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Anytime",
+      "song_key": "song:my-morning-jacket:anytime",
+      "src": 1,
+      "text": "The notes list this song last, closing the encore after Mahgeetah",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2007-01-11:the-depot"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "ca82deb7e15c22adbf383ba64fdf26066c97e24a6e8045463efeaea09fc28899",
+    "generated_at": "2026-10-25T22:31:11.714012+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "85589b30986a1ce075f29f2b6bf2fe18abb9dc03651558c5f7f1506ea94fdb80",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 6.5
+   },
+   "revision": 1,
+   "signature": "PPQMTtGdHO4r94TT7Yx_5tGNTuIsugmbCJW-1El8CsJDW5UaBzxxngFpWFhFQeYZYmY9yXvNqqKpeWKeuYxwAg",
+   "subject_key": "live:my-morning-jacket:2007-01-11:the-depot",
+   "updated_at": "2026-10-25T22:31:11.722032"
   }
  },
  "recommended": {

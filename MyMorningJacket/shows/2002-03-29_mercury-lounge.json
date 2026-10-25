@@ -269,6 +269,103 @@
    "signature": "AeIDuURDBNaD0JsVKniD-aWhCicjfmhvZnZKEiEKfH7oCaphgDvDZd3xwpxHUe2Qri8yHRhRL8G7ih9R4p1gCg",
    "subject_key": "live:my-morning-jacket:2002-03-29:mercury-lounge",
    "updated_at": "2026-10-25T08:14:17.431420"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2002-03-29.aud.flac16** (recommended): audience recording; 10 songs; 53 min [1]. Said about its sound: Uploader considers it a good audience recording; only a fade-in at the start and fade-out at the end were added [1]\n\n## Tapers and lineage\n\n- **mmj2002-03-29.aud.flac16**: taped by Jason C.; transferred by Magnix; source: AUD DAT > CD-R > CD-R [1]. Also: Source is an audience DAT recording, copied to CD-R twice, then ripped with EAC and encoded to FLAC level 8; Uploader did not get it directly from the taper; it came via a contact in Denmark [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Jason C.",
+     "author_url": "https://archive.org/search?query=taper%3A%22Jason%20C.%22",
+     "credits": [
+      {
+       "name": "Jason C.",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Jason%20C.%22"
+      },
+      {
+       "name": "Magnix",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Magnix%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-12-15",
+     "quote_or_claim": "10-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Mercury Lounge on 2002-03-29",
+     "url": "https://archive.org/details/mmj2002-03-29.aud.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2002-03-29.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Source is an audience DAT recording, copied to CD-R twice, then ripped with EAC and encoded to FLAC level 8",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-03-29.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Uploader did not get it directly from the taper; it came via a contact in Denmark",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-03-29.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Uploader considers it a good audience recording; only a fade-in at the start and fade-out at the end were added",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2002-03-29:mercury-lounge"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "5cdd444dc70538d8ca07996f07aedb2b2206f8d2d1dc92d7e9a8b312be9a9050",
+    "generated_at": "2026-10-25T22:33:40.434448+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "8139794c87f945efc408acdd14e5d14468d41ebc273ee3004b1cbfb3ba884165",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.7
+   },
+   "revision": 1,
+   "signature": "LXXPVhwvWcFZoXFlAUizAVUq9fn9ik3yaR3u8eyUV15wCbU3iw7de3ljIYXhAB5--7nJSVDpqGh_GTswSjMkDA",
+   "subject_key": "live:my-morning-jacket:2002-03-29:mercury-lounge",
+   "updated_at": "2026-10-25T22:33:40.436733"
   }
  },
  "recommended": {

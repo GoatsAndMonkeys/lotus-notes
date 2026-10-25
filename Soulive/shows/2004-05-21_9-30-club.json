@@ -283,6 +283,118 @@
    "signature": "76ZA72fjC0cHNQx7pJwb0uK1WBvung47j5VqsgdPAae_l2sx5Gc-ZH8NdoHu-oRxv6OBCELhzPuBf1g5IYtuBQ",
    "subject_key": "live:soulive:2004-05-21:9-30-club",
    "updated_at": "2026-10-24T21:25:40.606410"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Stop Messin**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Hold On**: earliest performance in the archive; rare: 5 archived performances [3]\n- Earliest performances in the archive: What Can You Do, Break Out [3]\n\n## The recordings\n\n- **soulive2004-05-21.shnf** (recommended): source not stated; 11 songs; 109 min; rated 4/5 by 1 [1]\n\n## Tapers and lineage\n\n- **soulive2004-05-21.shnf**: taped by Justin Trinkes; transferred by D8 (master) ) Waveterminal 2496 ) SF 4.5 ) CDWav 1.52 ) mkw .97 (shn)(br); source: AKG 480/ck61 (XY) > DMIC-20 > D8@48kHz [1]. Also: Recorded with AKG 480 mics with ck61 capsules in XY configuration, through a DMIC-20 preamp into a D8 recorder at 48kHz; Transfer went from the D8 master through Waveterminal 2496 into Sound Forge 4.5, then CDWav and mkwACT to shn; Sound Forge was used for fades in and out and to resample from 48 to 44.1 kHz with anti-aliasing [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Justin Trinkes",
+     "author_url": "https://archive.org/search?query=taper%3A%22Justin%20Trinkes%22",
+     "credits": [
+      {
+       "name": "Justin Trinkes",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Justin%20Trinkes%22"
+      },
+      {
+       "name": "D8 (master) ) Waveterminal 2496 ) SF 4.5 ) CDWav 1.52 ) mkw .97 (shn)(br)",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22D8%20%28master%29%20%29%20Waveterminal%202496%20%29%20SF%204.5%20%29%20CDWav%201.52%20%29%20mkw%20.97%20%28shn%29%28br%29%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2004-07-09",
+     "quote_or_claim": "11-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Soulive Live at 9:30 Club on 2004-05-21",
+     "url": "https://archive.org/details/soulive2004-05-21.shnf",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "ahpagesing",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22ahpagesing%22",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2005-01-06",
+     "quote_or_claim": "untitled = \"Azucar\"",
+     "site": "Internet Archive",
+     "title": "Review: setlist update (soulive2004-05-21.shnf)",
+     "url": "https://archive.org/details/soulive2004-05-21.shnf#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 414 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Soulive collection, Live Music Archive",
+     "url": "https://archive.org/details/Soulive",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "soulive2004-05-21.shnf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG 480 mics with ck61 capsules in XY configuration, through a DMIC-20 preamp into a D8 recorder at 48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2004-05-21.shnf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer went from the D8 master through Waveterminal 2496 into Sound Forge 4.5, then CDWav and mkwACT to shn",
+      "type": "lineage"
+     },
+     {
+      "recording": "soulive2004-05-21.shnf",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Sound Forge was used for fades in and out and to resample from 48 to 44.1 kHz with anti-aliasing",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:soulive:2004-05-21:9-30-club"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "47e4257de729cc0e5e6ed246950336f6d47cc97ea4a49f1d37f6850627beee4b",
+    "generated_at": "2026-10-25T22:40:47.473784+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "cfc8eec3a341596cb4cc8312d48f384fb3b92e1e753113840d7ac7df448b49a8",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.1
+   },
+   "revision": 1,
+   "signature": "u2-FinoD5agOWfg-A9un60BKgmrHzCW4SM65r6tCqbVkQlD7ZK991C5c3mrBD0aL7VPVMjXP1y2Ks5dsRHrYDA",
+   "subject_key": "live:soulive:2004-05-21:9-30-club",
+   "updated_at": "2026-10-25T22:40:47.475837"
   }
  },
  "recommended": {

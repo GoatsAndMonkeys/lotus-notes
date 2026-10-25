@@ -428,6 +428,98 @@
    "signature": "Qjc4PkPukuShESElsgw6VA-xiIfZzzLgGcxU2JyANHNHdJO6XtqAEYzDhmuh_IoevZnVJ6ieKY5OaESNHr2VDw",
    "subject_key": "live:billy-strings:2022-03-04:the-sylvee",
    "updated_at": "2026-10-24T19:13:53.481023"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Degrees & Getting Colder**: back after 139 archived shows (993 days); rare: 7 archived performances [2]\n- **Love Like Mine**: back after 99 archived shows (842 days); mythic rare: 2 archived performances [2]\n- **Tangled Up In Blue**: rare: 7 archived performances [2]\n- **Jeff Sturgeon**: earliest performance in the archive; rare: 7 archived performances [2]\n\n## The recordings\n\n- **billystrings2022-03-04.sibert.matrix.flac16** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 146 min [1]\n\n## Around the show\n\n- Taper positioned over the soundboard, about 50 feet from the stage, with the mic stand extended to roughly 7 feet and mics about 10 feet up [1]\n\n## Tapers and lineage\n\n- **billystrings2022-03-04.sibert.matrix.flac16**: taped by Ryan Sibert; source: Behringer C-2 {DIN} + Church CA-14 (omni) {A-B; ~12\"} > Ugly Box >> Tascam DR-70 > wav (24/48) [1]. Also: Transfer chain: SD card to PC, Reaper for fades and EQ, CDWavEditor for splits and FLAC, TLH for fingerprints, foobar2000 for tags [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Ryan Sibert",
+     "author_url": "https://archive.org/search?query=taper%3A%22Ryan%20Sibert%22",
+     "credits": [
+      {
+       "name": "Ryan Sibert",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Ryan%20Sibert%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-03-05",
+     "quote_or_claim": "21-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at The Sylvee on 2022-03-04",
+     "url": "https://archive.org/details/billystrings2022-03-04.sibert.matrix.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2022-03-04.sibert.matrix.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with a Behringer C-2 via DIN plus a Church CA-14 omni, spaced about 12 inches apart in A-B, through an Ugly Box into a Tascam DR-70 at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2022-03-04.sibert.matrix.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer chain: SD card to PC, Reaper for fades and EQ, CDWavEditor for splits and FLAC, TLH for fingerprints, foobar2000 for tags",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taper positioned over the soundboard, about 50 feet from the stage, with the mic stand extended to roughly 7 feet and mics about 10 feet up",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2022-03-04:the-sylvee"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "fe6fe8d286da681c15e1a35500d0b656e36b5155e2898d824f64c840f5593042",
+    "generated_at": "2026-10-25T22:31:55.580704+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "9b77f2ebeaaf96d46aa2def641a54127d043b5bfdecaea8a5d9bcfc8b7d9dd9f",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.7
+   },
+   "revision": 1,
+   "signature": "2SGWSO2ufM4U7t8dydRwGq4J_kwO8DtVxUuXA6d1Ho2GkttqvSOudp6XmRtUAiS8Qy4IptnrrwaSolPYR4y2Bw",
+   "subject_key": "live:billy-strings:2022-03-04:the-sylvee",
+   "updated_at": "2026-10-25T22:31:55.583420"
   }
  },
  "recommended": {

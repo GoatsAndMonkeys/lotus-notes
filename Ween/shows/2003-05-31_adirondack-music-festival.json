@@ -465,6 +465,103 @@
    "signature": "9Pd-AV2M7lAy83cyTfWYWqeJgDebTWjhkV9JN-63IKFHMtjWNjlYTKdCuIAH6vwAXd6XqseHWb_y9UPdQYUPDQ",
    "subject_key": "live:ween:2003-05-31:adirondack-music-festival",
    "updated_at": "2026-10-24T19:12:18.712069"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **If You Could Save Yourself, You'd Save Us All**: rare: 8 archived performances [2]\n\n## The recordings\n\n- **ween2003-05-31.aud.flac16** (recommended): audience recording; 24 songs; 128 min [1]\n\n## Tapers and lineage\n\n- **ween2003-05-31.aud.flac16**: taped by Mike Bogigian; transferred by Mike Bogigian; source: Shure SM94's > Balanced Stereo XLR (1/8\" Output) > Sony Minidisc R700 [1]. Also: Transfer chain: MiniDisc to Audacity, then CDWave, then FLAC at level 8 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Mike Bogigian",
+     "author_url": "https://archive.org/search?query=taper%3A%22Mike%20Bogigian%22",
+     "credits": [
+      {
+       "name": "Mike Bogigian",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Mike%20Bogigian%22"
+      },
+      {
+       "name": "Mike Bogigian",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Mike%20Bogigian%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-11-20",
+     "quote_or_claim": "24-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Adirondack Music Festival on 2003-05-31",
+     "url": "https://archive.org/details/ween2003-05-31.aud.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2003-05-31.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped and transferred by Mike Bogigian, who recorded this audience source",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2003-05-31.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Shure SM94 microphones through balanced stereo XLR into a Sony Minidisc R700",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2003-05-31.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer chain: MiniDisc to Audacity, then CDWave, then FLAC at level 8",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2003-05-31:adirondack-music-festival"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "292e52f832ce4d92e0370077e0ccd158210f6c8a5ea532274118eefb0161454d",
+    "generated_at": "2026-10-25T22:32:47.951197+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "3fb45bcead3b2417e3dd21b46fa2c0bd4c3b41c1dc09b46dba6cc0f49ff3f89c",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.1
+   },
+   "revision": 1,
+   "signature": "-Dedwr0AXxSpN8e_sxwSxa7v8GqRzDlQmEHTNcO7xfKXMCEiy84rRLZQS8451WXwCP1r0VIpCPmPr6slejiGCg",
+   "subject_key": "live:ween:2003-05-31:adirondack-music-festival",
+   "updated_at": "2026-10-25T22:32:47.953891"
   }
  },
  "recommended": {

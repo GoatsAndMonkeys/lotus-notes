@@ -483,6 +483,135 @@
    "signature": "DvAo6xxC-_fuDbWtmWVE2wNCt-wq68j37IPnP0Xng26obnJyTQqJs0JlN45prdCWS5nMgWksfsR5iT6BM6gEBw",
    "subject_key": "live:ween:2011-07-03:hsmf-main-stage",
    "updated_at": "2026-10-24T19:12:19.049492"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **ween2011-07-03.flac16** (recommended): source not stated; 23 songs; 126 min; rated 2.5/5 by 2 [1]\n\n## Around the show\n\n- Ween closed the High Sierra Music Festival with energetic, quirky original songs [2]\n- The band performed on the High Sierra Music Festival main stage [1]\n\n## Tapers and lineage\n\n- **ween2011-07-03.flac16**: taped by Lobster patched out of Trent T.; transferred by Lobster; source: Busman BA-L2 (omni, A-B) > Aerco MP-2 > Sony M-10 > NJB3 [1]. Also: The recording's taping credit information was corrected by a user named taper.tsquare [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Lobster patched out of Trent T.",
+     "author_url": "https://archive.org/search?query=taper%3A%22Lobster%20patched%20out%20of%20Trent%20T.%22",
+     "credits": [
+      {
+       "name": "Lobster patched out of Trent T.",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Lobster%20patched%20out%20of%20Trent%20T.%22"
+      },
+      {
+       "name": "Lobster",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Lobster%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2011-07-15",
+     "quote_or_claim": "23-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at HSMF - Main Stage on 2011-07-03",
+     "url": "https://archive.org/details/ween2011-07-03.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Jonesin'",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Jonesin%27%22",
+     "claim": "Ween closed the High Sierra Music Festival with energetic, quirky original songs",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2011-07-21",
+     "quote_or_claim": "My first time seeing/hearing the band live. I'm really impressed, these guys rock with original songs and deserved to close out HSMF with their energy and…",
+     "site": "Internet Archive",
+     "title": "Review: Fun Show - Great Sound (ween2011-07-03.flac16)",
+     "url": "https://archive.org/details/ween2011-07-03.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "cashandkerouac",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22cashandkerouac%22",
+     "claim": "The recording's taping credit information was corrected by a user named taper.tsquare",
+     "id": 3,
+     "kind": "archive_review",
+     "published_at": "2011-07-28",
+     "quote_or_claim": "\"taped by\" info has been amended and is now correct. thank you to the person who made the change! ~taper.tsquare",
+     "site": "Internet Archive",
+     "title": "Review: Thank You for Correcting the \"taped by\" Info (ween2011-07-03.flac16)",
+     "url": "https://archive.org/details/ween2011-07-03.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 4,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Ween closed the High Sierra Music Festival with energetic, quirky original songs",
+      "type": "scene"
+     },
+     {
+      "recording": "ween2011-07-03.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The recording's taping credit information was corrected by a user named taper.tsquare",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The band performed on the High Sierra Music Festival main stage",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2011-07-03:hsmf-main-stage"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "640590e1b8788bd933fe3e8aac27e3841fc8bfb87f14331843552a3a39996097",
+    "generated_at": "2026-10-25T22:25:19.404551+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a7fc904870bb3e5377b1e5518a30ee41a6ac77b1b375119fcfc3f6fd34103e6b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 12.9
+   },
+   "revision": 1,
+   "signature": "P2WBIFc8JSHdvGil-xcr2IjpbW1GYHgwinfpHLwDBC5A0E7LCfgICYiyhIcc-5kgtoNyNwqUGzY_FjijVEE7Cw",
+   "subject_key": "live:ween:2011-07-03:hsmf-main-stage",
+   "updated_at": "2026-10-25T22:25:19.407380"
   }
  },
  "recommended": {

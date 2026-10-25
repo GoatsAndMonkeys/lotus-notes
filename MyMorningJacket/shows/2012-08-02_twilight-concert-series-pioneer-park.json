@@ -370,6 +370,103 @@
    "signature": "hugvFAW9a_LDvvZ0wE9erCF3owmk6no02BBYmGbXTvcsILooTAFU26C1c_XFXp86TQiQ8Iq2Qs9ngHdxOFV8CQ",
    "subject_key": "live:my-morning-jacket:2012-08-02:twilight-concert-series-pioneer-park",
    "updated_at": "2026-10-25T08:14:17.695377"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Evelyn Is Not Real**: back after 38 archived shows (643 days) [2]\n\n## The recordings\n\n- **mmj2012-08-02.adktl.flac16** (recommended): source not stated; 17 songs; 110 min [1]\n\n## Around the show\n\n- The recorder's battery died during a song, so one song is incomplete on the recording [1]\n\n## Tapers and lineage\n\n- **mmj2012-08-02.adktl.flac16**: taped by Dave Marshall; transferred by Alex Widner [1]. Also: Recorded with ADK TL hyper-cardioid microphones in XY configuration, into a Sound Devices 722 recorder, then saved as master WAV; Transfer chain: master WAV edited in Sound Studio 4 (fades, tracks, normalizing, resampling), then xACT to FLAC16 level 8; compiled by Alex Widner [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Dave Marshall",
+     "author_url": "https://archive.org/search?query=taper%3A%22Dave%20Marshall%22",
+     "credits": [
+      {
+       "name": "Dave Marshall",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Dave%20Marshall%22"
+      },
+      {
+       "name": "Alex Widner",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Alex%20Widner%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2013-07-21",
+     "quote_or_claim": "17-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at Twilight Concert Series, Pioneer Park on 2012-08-02",
+     "url": "https://archive.org/details/mmj2012-08-02.adktl.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2012-08-02.adktl.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with ADK TL hyper-cardioid microphones in XY configuration, into a Sound Devices 722 recorder, then saved as master WAV",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2012-08-02.adktl.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer chain: master WAV edited in Sound Studio 4 (fades, tracks, normalizing, resampling), then xACT to FLAC16 level 8; compiled by Alex Widner",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The recorder's battery died during a song, so one song is incomplete on the recording",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2012-08-02:twilight-concert-series-pioneer-park"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "b5cfdc2ea11ec9d5919a4ea9700611d7bea4dff015879ee24ac6b3deb31732e0",
+    "generated_at": "2026-10-25T22:27:43.215831+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "c0d546ed8c36d71d0f2bbd6ed00579689f1a292f8232922268ab7567a60045bb",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.9
+   },
+   "revision": 1,
+   "signature": "NC63PgDUOlRbLRtzcJnqIAzqqv8aY7zgz7hbdSwxUEEmo5RN3xuceJF2I1CD_EhmtDD7SniDGWSN4BZK9F0wAA",
+   "subject_key": "live:my-morning-jacket:2012-08-02:twilight-concert-series-pioneer-park",
+   "updated_at": "2026-10-25T22:27:43.227578"
   }
  },
  "recommended": {

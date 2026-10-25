@@ -606,6 +606,118 @@
    "signature": "3dJJY__vhGK4a2eBPvIJB4cP0Q1xOK3H5xUXKGJdvaKSR0EK_9Mt74uBPhHcVkI56itx4aCXKu-Uk3KigNxvAw",
    "subject_key": "live:ween:2003-09-23:marquee-theater",
    "updated_at": "2026-10-24T19:12:18.736350"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Dancin' In The Show**: rare: 10 archived performances [3]\n- **Fans Try To Win More Ween Time**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **ween2003-09-23.km140.flac16** (recommended): source not stated; 30 songs; 138 min [1]\n- **01-track-01_20200827_1735**: source not stated; 2 songs; 138 min [2]\n\n## Around the show\n\n- PA problems occurred during the transition from Voodoo Lady into Happy Colored Marbles [1]\n\n## Tapers and lineage\n\n- **ween2003-09-23.km140.flac16**: taped by The Chapper; transferred by The Chapper; source: Neumann AK40 > LC3 > KM100 > V2 > ADC20 > Sony PCM-M1 [1]. Also: Taped and transferred by The Chapper; transfer went R300 > Dio2448 > Wavelab 4.0, re-encoded to FLAC in 2013 after md5 check [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "The Chapper",
+     "author_url": "https://archive.org/search?query=taper%3A%22The%20Chapper%22",
+     "credits": [
+      {
+       "name": "The Chapper",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22The%20Chapper%22"
+      },
+      {
+       "name": "The Chapper",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22The%20Chapper%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2013-03-31",
+     "quote_or_claim": "30-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Marquee Theater on 2003-09-23",
+     "url": "https://archive.org/details/ween2003-09-23.km140.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2020-08-27",
+     "quote_or_claim": "2-song unlabelled recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Marquee on 2003-09-23",
+     "url": "https://archive.org/details/01-track-01_20200827_1735",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2003-09-23.km140.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Neumann AK40 microphones through LC3, KM100, V2 and ADC20 into a Sony PCM-M1 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "ween2003-09-23.km140.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped and transferred by The Chapper; transfer went R300 > Dio2448 > Wavelab 4.0, re-encoded to FLAC in 2013 after md5 check",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "PA problems occurred during the transition from Voodoo Lady into Happy Colored Marbles",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2003-09-23:marquee-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "071928d7124ea7f6026995ae735ab479174d667dbd6a5fa8e899307ff53c431f",
+    "generated_at": "2026-10-25T22:32:24.280472+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "19fa74eec6cc5f9d14ccc8becc55e1666aa0bbfe83fb42ff5756f4c5802d24ab",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.8
+   },
+   "revision": 1,
+   "signature": "arSxb34qJ3KUM92zxp7H3FUhQi8LwKTuTC0PS0tdtWqP4A1lxml0XWNDMt8x9jW1VIIx-sA-nDJcx0W4sDdaCQ",
+   "subject_key": "live:ween:2003-09-23:marquee-theater",
+   "updated_at": "2026-10-25T22:32:24.284789"
   }
  },
  "recommended": {

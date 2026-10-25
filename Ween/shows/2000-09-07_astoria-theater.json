@@ -646,6 +646,118 @@
    "signature": "oZwwfLVoqIdztgUvulfF9IWn9dUCp1Gt8NE5f3AFaBZQHFvwPVsbUmqa4k0Eg4zni1FK9qR5xTV6KeiCa0BoBA",
    "subject_key": "live:ween:2000-09-07:astoria-theater",
    "updated_at": "2026-10-24T19:12:18.588647"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Tick Stroker Ace**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **ween2000-09-07** (recommended): source not stated; 34 songs; 174 min [1]\n- **ween-2000-09-07-astoria-theater-london-englan**: source not stated; 0 songs; 176 min [2]\n\n## Around the show\n\n- Sold-out crowd of 2,250 fans gave full support, throwing ice and beer cans at the band [1]\n- The performer was struck in the face by ice during the first song of the set [1]\n\n## Tapers and lineage\n\n- **ween2000-09-07**: taped by Pepper using Peter Wroblewski's taping gear; transferred by JKeats; source: Schoeps MK4 > Sony SBM1 > DAP1 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Pepper using Peter Wroblewski's taping gear",
+     "author_url": "https://archive.org/search?query=taper%3A%22Pepper%20using%20Peter%20Wroblewski%27s%20taping%20gear%22",
+     "credits": [
+      {
+       "name": "Pepper using Peter Wroblewski's taping gear",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Pepper%20using%20Peter%20Wroblewski%27s%20taping%20gear%22"
+      },
+      {
+       "name": "JKeats",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22JKeats%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-02-11",
+     "quote_or_claim": "34-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Astoria Theater on 2000-09-07",
+     "url": "https://archive.org/details/ween2000-09-07",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2020-08-25",
+     "quote_or_claim": "0-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Ween Live at Astoria on 2000-09-07",
+     "url": "https://archive.org/details/ween-2000-09-07-astoria-theater-london-englan",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 717 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "Ween collection, Live Music Archive",
+     "url": "https://archive.org/details/Ween",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "ween2000-09-07",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Pepper recorded using Peter Wroblewski's gear, including Schoeps MK4 mics and a Sony DAP1",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Sold-out crowd of 2,250 fans gave full support, throwing ice and beer cans at the band",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The performer was struck in the face by ice during the first song of the set",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:ween:2000-09-07:astoria-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "62b1d8d9e27f65dac8367f37dfa017ea4c34f9bda995720ee69683e6cb7d6f08",
+    "generated_at": "2026-10-25T22:35:01.302413+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "ea05f1f1749fdc0ad9601f332ee8445af5969d50efc61f816457c040371f45a2",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 16.5
+   },
+   "revision": 1,
+   "signature": "oboKlKw78CapkzD2yEowozOi44P5eiAhWhX17wjmJDscGz8tL-zW3uB2cOJIYtvdhcVEHLIHfFwZg-mMSXiFBw",
+   "subject_key": "live:ween:2000-09-07:astoria-theater",
+   "updated_at": "2026-10-25T22:35:01.308861"
   }
  },
  "recommended": {

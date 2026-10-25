@@ -241,6 +241,103 @@
    "signature": "Hxt0mvDmZskNMXBRjxGRbqjh-6WcrDATqCZxyhu2XKAAIVoyBjkF7knwzITqFaY4DUY5vRgb1HMV2Hq09YMkCA",
    "subject_key": "live:my-morning-jacket:2002-03-23:new-brookland-tavern",
    "updated_at": "2026-10-25T08:14:17.429985"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **mmj2002-03-23.aud.flac16** (recommended): audience recording; 8 songs; 47 min [1]. Said about its sound: Track 2 had two or three short dropouts and track 7 had one; these were mixed over and are now hard to detect [1]\n\n## Around the show\n\n- Low Dog was effectively 'on tour' with the band, which is why many recordings from this period exist [1]\n\n## Tapers and lineage\n\n- **mmj2002-03-23.aud.flac16**: taped by George \"Low Dog\" S.; transferred by Magnix; source: AUD MD > CD-R [1]. Also: Transfer path was CD-R to EAC to FLAC level 8, from a recording made by Low Dog, received directly from him [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "George \"Low Dog\" S.",
+     "author_url": "https://archive.org/search?query=taper%3A%22George%20%22Low%20Dog%22%20S.%22",
+     "credits": [
+      {
+       "name": "George \"Low Dog\" S.",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22George%20%22Low%20Dog%22%20S.%22"
+      },
+      {
+       "name": "Magnix",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Magnix%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2007-10-22",
+     "quote_or_claim": "8-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at New Brookland Tavern on 2002-03-23",
+     "url": "https://archive.org/details/mmj2002-03-23.aud.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2002-03-23.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer path was CD-R to EAC to FLAC level 8, from a recording made by Low Dog, received directly from him",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2002-03-23.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Track 2 had two or three short dropouts and track 7 had one; these were mixed over and are now hard to detect",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Low Dog was effectively 'on tour' with the band, which is why many recordings from this period exist",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2002-03-23:new-brookland-tavern"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "2b7950c9cc88e87f4dea3f70dac3ed330f06d1a9376bcec50ffdd8867184f8c1",
+    "generated_at": "2026-10-25T22:33:47.825025+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "3bda55a606c97c301d8f7130540a7e3155a15ef6b91e918296b85ed4ea631e35",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.7
+   },
+   "revision": 1,
+   "signature": "ej9RCRPhovuOyTlsYiDhwhW0O-lCAHMpYbXDfOnUqELpZ28Bbdm-r4rWqOO4KtQXe5tjLTKM6AhgKDHbD5DfAQ",
+   "subject_key": "live:my-morning-jacket:2002-03-23:new-brookland-tavern",
+   "updated_at": "2026-10-25T22:33:47.829934"
   }
  },
  "recommended": {

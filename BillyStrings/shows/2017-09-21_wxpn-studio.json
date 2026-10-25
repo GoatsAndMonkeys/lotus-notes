@@ -171,6 +171,103 @@
    "signature": "en_qCNN1p89E2VDlb8jboq_vQGV2IKPWTA__6dz_5klEUOtaFKZCreVEam6zAAf2fCVipv1o6f1Y1a_5UJ6uDg",
    "subject_key": "live:billy-strings:2017-09-21:wxpn-studio",
    "updated_at": "2026-10-24T19:13:53.037829"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **billystrings2017-09-21.fm.flac16** (recommended): FM broadcast; 3 songs; 32 min [1]. Said about its sound: The FM signal is imperfect, with some broadcast static; the uploader hopes a better source surfaces [1]\n\n## Around the show\n\n- Billy and the band were in Philadelphia that evening for their appearance at Boot & Saddle [1]\n\n## Tapers and lineage\n\n- **billystrings2017-09-21.fm.flac16**: taped by tom; transferred by tom; source: FM > Hafler DH330 > Tascam DR-40 (low cut filter @ 40 Hz) > wav (16/44.1) [1]. Also: Taped from the WXPN translator at 104.9 FM broadcast on October 1, 2017, giving an FM source [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "tom",
+     "author_url": "https://archive.org/search?query=taper%3A%22tom%22",
+     "credits": [
+      {
+       "name": "tom",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22tom%22"
+      },
+      {
+       "name": "tom",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22tom%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2017-10-02",
+     "quote_or_claim": "3-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at WXPN Studio on 2017-09-21",
+     "url": "https://archive.org/details/billystrings2017-09-21.fm.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2017-09-21.fm.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped from the WXPN translator at 104.9 FM broadcast on October 1, 2017, giving an FM source",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2017-09-21.fm.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The FM signal is imperfect, with some broadcast static; the uploader hopes a better source surfaces",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Billy and the band were in Philadelphia that evening for their appearance at Boot & Saddle",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2017-09-21:wxpn-studio"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "7d2414d35e3b137dd8a06eee5303c7416c44d4b84bd5b381379a7b51cfe4b41f",
+    "generated_at": "2026-10-25T22:40:19.562846+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "a83ee07fbff2276a829360b7cc841ca5506687c729b1e5ff69284090a2abf8ea",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.6
+   },
+   "revision": 1,
+   "signature": "Kl9gXC2MoBCRvLscf2PE7WHHTkwAoAxoOE4VRXuOOm5T8vD2bvriM21u0-7mHM0VLkIAZfRDBRTi3OdX0_jZCQ",
+   "subject_key": "live:billy-strings:2017-09-21:wxpn-studio",
+   "updated_at": "2026-10-25T22:40:19.564310"
   }
  },
  "recommended": {

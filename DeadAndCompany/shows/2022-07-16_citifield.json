@@ -442,6 +442,111 @@
    "signature": "L99dVVvNEPLxB4aUyZRfcWl9iaZWaHfkNGDRetDSuhfcuLTR9fpz8FYXyJkiPyR2PRwocppn7OaEqAEtCO8gAw",
    "subject_key": "live:dead-and-company:2022-07-16:citifield",
    "updated_at": "2026-10-24T21:28:50.463633"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Hey Jude Reprise**: rare: 3 archived performances [2]\n- **Wang Dang Doodle**: back after 169 archived shows (1865 days); rare: 6 archived performances [2]\n- **William Tell Bridge**: rare: 14 archived performances [2]\n- **Playing in the Band Reprise**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **DeadCo2022-07-16.pasternak.neumannKMR82i.flac24** (recommended): source not stated; 20 songs; 191 min [1]\n\n## Tapers and lineage\n\n- **DeadCo2022-07-16.pasternak.neumannKMR82i.flac24**: taped by Jon Pasternak; transferred by Keith Litzenberger; source: Neumann KMR82i's>Oade M248>Sound Devices 722 [1]. Also: Recorded with Neumann KMR82i microphones into an Oade M248 preamp, then a Sound Devices 722 recorder at 24-bit/48kHz; Taper credit goes to Pasternak; post-processing used Sound Forge Pro 16 for fades, CDWAV for tracking, Trader's Little Helper for FLAC, Foobar2000 for tagging [1]\n\n## Art and photos\n\n- Poster by Worthpoint: [Dead and Company Poster Citi Field New York July 15 2022 AJ Masthay | #4622325590](https://www.worthpoint.com/worthopedia/dead-company-poster-citi-field-york-4622325590) [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Jon Pasternak",
+     "author_url": "https://archive.org/search?query=taper%3A%22Jon%20Pasternak%22",
+     "credits": [
+      {
+       "name": "Jon Pasternak",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Jon%20Pasternak%22"
+      },
+      {
+       "name": "Keith Litzenberger",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Keith%20Litzenberger%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-07-17",
+     "quote_or_claim": "20-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Dead & Company Live at Citifield on 2022-07-16",
+     "url": "https://archive.org/details/DeadCo2022-07-16.pasternak.neumannKMR82i.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 330 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "DeadAndCompany collection, Live Music Archive",
+     "url": "https://archive.org/details/DeadAndCompany",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://www.worthpoint.com/",
+     "id": 3,
+     "image_url": "https://thumbs.worthpoint.com/zoom/images1/1/0323/15/dead-company-poster-citi-field-york_1_b0758410ca0cdfab14d88491dcb22ac2.jpg",
+     "kind": "poster",
+     "published_at": null,
+     "quote_or_claim": "- SUMMER TOUR 2022 By AJ Masthay - Special PRESALE/CONFIRMED Dead And Company New York Citi Field July 16, 2022 AJ Masthay Poster More Items…",
+     "site": "Worthpoint",
+     "title": "Dead and Company Poster Citi Field New York July 15 2022 AJ Masthay | #4622325590",
+     "url": "https://www.worthpoint.com/worthopedia/dead-company-poster-citi-field-york-4622325590",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "DeadCo2022-07-16.pasternak.neumannKMR82i.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Neumann KMR82i microphones into an Oade M248 preamp, then a Sound Devices 722 recorder at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "DeadCo2022-07-16.pasternak.neumannKMR82i.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taper credit goes to Pasternak; post-processing used Sound Forge Pro 16 for fades, CDWAV for tracking, Trader's Little Helper for FLAC, Foobar2000 for tagging",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:dead-and-company:2022-07-16:citifield"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "41916f9fa2f56ff167bcc003012cb1952c10e28620889d5a897cc3d7bef7434c",
+    "generated_at": "2026-10-25T22:44:22.196878+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "fba7b0f846a384ea1adf56aa048f24e6c10f5f39045176c9b9ccfd7a30d5985b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.1
+   },
+   "revision": 1,
+   "signature": "5fHW5vyrDpcblV3WUy8wHN3aKj7UJMeYSmLyozE6nLxf7USnaDPr4hXNhNk0vTsA0PxwQp2Z7KFwfRT_U1wfDQ",
+   "subject_key": "live:dead-and-company:2022-07-16:citifield",
+   "updated_at": "2026-10-25T22:44:22.198729"
   }
  },
  "recommended": {

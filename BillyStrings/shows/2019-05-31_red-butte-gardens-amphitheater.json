@@ -259,6 +259,103 @@
    "signature": "JiUHhQiHyXxCBiJZ5tmxR2Ldn5IP2nHBXeCXnPdrj0GOVq6i0XKrz4PdYpCf-dbAss-2y79l8ICUx1zwfq5QCA",
    "subject_key": "live:billy-strings:2019-05-31:red-butte-gardens-amphitheater",
    "updated_at": "2026-10-24T19:13:53.222331"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **billystrings2019-05-31.akg.ck61** (recommended): source not stated; 9 songs; 46 min [1]\n\n## Around the show\n\n- Billy Strings played this set as the opening act for Bela Fleck & The Flecktones [1]\n\n## Tapers and lineage\n\n- **billystrings2019-05-31.akg.ck61**: taped by DavidPuddy; transferred by DavidPuddy; source: AKG ck61 DIN > nbob actives > Shure FP-24 > Sony M-10 @ 24/48 [1]. Also: Transfer path: MicroSD to Audacity (limiter, fades), then CD Wave Editor for tracking and FLAC, Foobar2000 for tagging, then LMA [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "DavidPuddy",
+     "author_url": "https://archive.org/search?query=taper%3A%22DavidPuddy%22",
+     "credits": [
+      {
+       "name": "DavidPuddy",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22DavidPuddy%22"
+      },
+      {
+       "name": "DavidPuddy",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22DavidPuddy%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-06-03",
+     "quote_or_claim": "9-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Red Butte Gardens Amphitheater on 2019-05-31",
+     "url": "https://archive.org/details/billystrings2019-05-31.akg.ck61",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Billy Strings played this set as the opening act for Bela Fleck & The Flecktones",
+      "type": "scene"
+     },
+     {
+      "recording": "billystrings2019-05-31.akg.ck61",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with AKG ck61 microphones in DIN configuration, through nbob actives and a Shure FP-24 into a Sony M-10 at 24/48",
+      "type": "lineage"
+     },
+     {
+      "recording": "billystrings2019-05-31.akg.ck61",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer path: MicroSD to Audacity (limiter, fades), then CD Wave Editor for tracking and FLAC, Foobar2000 for tagging, then LMA",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2019-05-31:red-butte-gardens-amphitheater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a6df2567ef87b047000125dd603b5f2964846a55602779520ea91500c242f064",
+    "generated_at": "2026-10-25T22:36:56.060536+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "2c4676a0256d9c510a59cc3e9a7ae932efb67accd23e1c0e4ef243353f0d1b10",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 2.9
+   },
+   "revision": 1,
+   "signature": "lhPSEl7sJXlEexp0hxjnjfMuJ50EQas9fAwbxA0TQXCFbhFH8vka6lT7w6BIMCRPPgOe4IdRXfZhm5PZVfPQBw",
+   "subject_key": "live:billy-strings:2019-05-31:red-butte-gardens-amphitheater",
+   "updated_at": "2026-10-25T22:36:56.063246"
   }
  },
  "recommended": {

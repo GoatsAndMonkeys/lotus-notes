@@ -224,6 +224,95 @@
    "signature": "RxuMD-JBk_eOh1czcK1TJFkB02T5k3lYoz-QUisEsIBk54pkvVaVLc5EkGg3y5whTY1F1iDuHfYa7wECR4pUBQ",
    "subject_key": "live:billy-strings:2018-02-01:the-fillmore",
    "updated_at": "2026-10-24T19:13:53.061042"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Philly Jam**: earliest performance in the archive; legendary: the only archived performance [2]\n- Earliest performances in the archive: Slipstream [2]\n\n## The recordings\n\n- **BillyStrings2018-02-01.RodeM5.Flac16** (recommended): source not stated; 7 songs; 43 min [1]\n\n## Tapers and lineage\n\n- **BillyStrings2018-02-01.RodeM5.Flac16**: taped by Rich Stoler; transferred by Rich Stoler; source: Rode M5 Mics -> TASCAM DR-100MKII @ 24-Bit/48 [1]. Also: Transfer: SD card, dithered to 16-bit in Audacity, tracked with CDWAV, encoded to FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Rich Stoler",
+     "author_url": "https://archive.org/search?query=taper%3A%22Rich%20Stoler%22",
+     "credits": [
+      {
+       "name": "Rich Stoler",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Rich%20Stoler%22"
+      },
+      {
+       "name": "Rich Stoler",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Rich%20Stoler%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2018-02-02",
+     "quote_or_claim": "7-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at The Fillmore on 2018-02-01",
+     "url": "https://archive.org/details/BillyStrings2018-02-01.RodeM5.Flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "BillyStrings2018-02-01.RodeM5.Flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Rode M5 mics into a TASCAM DR-100mkII at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "BillyStrings2018-02-01.RodeM5.Flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transfer: SD card, dithered to 16-bit in Audacity, tracked with CDWAV, encoded to FLAC",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2018-02-01:the-fillmore"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "8ff81582c45526d0857be11833a1ca1b78758ae6c6095149dfda86071dea0751",
+    "generated_at": "2026-10-25T22:39:44.846462+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "38511b4cb6f85d85c6525273646243f7359eb5c684d2e2663ff00403e47cf728",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.4
+   },
+   "revision": 1,
+   "signature": "kWC_kz11le2rxniLuYigHne8NlUtL27pdWW-H3Grcrb9lSkH6nMoXehP0yE2FlE0wVtf6sdheRm1_6NR4yJoAA",
+   "subject_key": "live:billy-strings:2018-02-01:the-fillmore",
+   "updated_at": "2026-10-25T22:39:44.849013"
   }
  },
  "recommended": {

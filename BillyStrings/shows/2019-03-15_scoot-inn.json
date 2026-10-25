@@ -222,6 +222,90 @@
    "signature": "N9tkVpNRJFmLU1M2jiKE_mN4m9g3MSI_hGRZpaURinMjfHN5u0Ntzk3Uz5a8uBWDp5FDE7ULi--WYLXntSnGBw",
    "subject_key": "live:billy-strings:2019-03-15:scoot-inn",
    "updated_at": "2026-10-24T19:13:53.189028"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **billystrings2019-03-15.mk4.flac16** (recommended): audience recording; 7 songs; 36 min [1]\n\n## Around the show\n\n- Taper recorded from roughly ten people back, in the middle of the crowd [1]\n\n## Tapers and lineage\n\n- **billystrings2019-03-15.mk4.flac16**: taped by seedy; source: Audience->Schoeps MK4-Naiant Tinybox-Sony PCM-M10-cdwav->mp3tag for tagging->Traders Little Helper [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "seedy",
+     "author_url": "https://archive.org/search?query=taper%3A%22seedy%22",
+     "credits": [
+      {
+       "name": "seedy",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22seedy%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-10-15",
+     "quote_or_claim": "7-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Billy Strings Live at Scoot Inn on 2019-03-15",
+     "url": "https://archive.org/details/billystrings2019-03-15.mk4.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 620 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "BillyStrings collection, Live Music Archive",
+     "url": "https://archive.org/details/BillyStrings",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "billystrings2019-03-15.mk4.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped with Schoeps MK4 microphones through a Naiant Tinybox into a Sony PCM-M10, then tagged and processed with Traders Little Helper; recorded by seedy",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taper recorded from roughly ten people back, in the middle of the crowd",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:billy-strings:2019-03-15:scoot-inn"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "be2537bf4c0617ec15f4f53318d54726738cdf838e38076db72092388c5f19e1",
+    "generated_at": "2026-10-25T22:37:28.845964+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "8a20df1b342b4defea33fd90855065584222e6f64e6c69afc4402ee2c1c478c2",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.6
+   },
+   "revision": 1,
+   "signature": "Ob-HbkXQXthuR0LnfjK8f9A2Up9EdUFnQ-5MA4cik5gwT8alp9CryhbkT1YClpdIkoyZ8fBEuN953udgG3z6CQ",
+   "subject_key": "live:billy-strings:2019-03-15:scoot-inn",
+   "updated_at": "2026-10-25T22:37:28.848662"
   }
  },
  "recommended": {

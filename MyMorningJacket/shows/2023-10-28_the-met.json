@@ -446,6 +446,119 @@
    "signature": "vQ0JHOdnih2ldMHUANpT1sVz_WBTtCsQ3YILMacG8-S9WUjF0GJvHe6R9y8sUbcrGH932LiYf4RkQIlEDZm4CQ",
    "subject_key": "live:my-morning-jacket:2023-10-28:the-met",
    "updated_at": "2026-10-25T08:14:17.914913"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **October 2023 (Saturday)**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Like A River**: back after 62 archived shows (2063 days) [2]\n- **Friends Again**: rare: 5 archived performances [2]\n\n## The recordings\n\n- **mmj2023-10-28.vwmule** (recommended): source not stated; 21 songs; 130 min [1]\n\n## Around the show\n\n- This was the second night of a two-night run at The Met, with Madi Diaz as opener [1]\n\n## Tapers and lineage\n\n- **mmj2023-10-28.vwmule**: taped by Alex Leary; transferred by Alex Leary; source: Microtech Gefell M21 > nBob actives > Sound Devices MixPre-6 (24/48) [1]. Also: Transferred from the MixPre-6 to an iMac, tracked in Sound Studio, and encoded to FLAC with xACT [1]\n\n## Art and photos\n\n- Poster by Status Serigraph: [2023 My Morning Jacket - Philadelphia II Silkscreen Concert Poster by Guy Burwell](https://www.jojosposters.com/products/2023-my-morning-jacket-philadelphia-ii-silkscreen-concert-poster-by-guy-burwell) [3]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Alex Leary",
+     "author_url": "https://archive.org/search?query=taper%3A%22Alex%20Leary%22",
+     "credits": [
+      {
+       "name": "Alex Leary",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Alex%20Leary%22"
+      },
+      {
+       "name": "Alex Leary",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Alex%20Leary%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2023-10-30",
+     "quote_or_claim": "21-song unlabelled recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "My Morning Jacket Live at The Met on 2023-10-28",
+     "url": "https://archive.org/details/mmj2023-10-28.vwmule",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 426 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MyMorningJacket collection, Live Music Archive",
+     "url": "https://archive.org/details/MyMorningJacket",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Status Serigraph",
+     "author_url": "https://www.jojosposters.com/",
+     "id": 3,
+     "image_url": "https://www.jojosposters.com/cdn/shop/files/MMJ2023_philly2_web.jpg?v=1700147727",
+     "kind": "poster",
+     "published_at": null,
+     "quote_or_claim": "2023 My Morning Jacket - Philadelphia II Silkscree….",
+     "site": "JoJo's Posters",
+     "title": "2023 My Morning Jacket - Philadelphia II Silkscreen Concert Poster by Guy Burwell",
+     "url": "https://www.jojosposters.com/products/2023-my-morning-jacket-philadelphia-ii-silkscreen-concert-poster-by-guy-burwell",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "mmj2023-10-28.vwmule",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Microtech Gefell M21 microphones through nBob actives into a Sound Devices MixPre-6 at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "mmj2023-10-28.vwmule",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred from the MixPre-6 to an iMac, tracked in Sound Studio, and encoded to FLAC with xACT",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "This was the second night of a two-night run at The Met, with Madi Diaz as opener",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:my-morning-jacket:2023-10-28:the-met"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "5cfca4f63471ffee3d8ff3f2bdca11dc30a714c3adfab586a4eb1b6568f7dd8e",
+    "generated_at": "2026-10-25T22:21:00.545120+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "61c8ebafc17fef068987ee0be0e41bece93588fac9b67e9246196e93cb2f33f8",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.5
+   },
+   "revision": 1,
+   "signature": "pa-NiKwgAijQmbHrpbTgdipUi1Jaxj7ZYdzx-O90DWLPfu6uyRBuypIn0fmSkPbYVbchnEjvEUR7Xe4IpfV7Dw",
+   "subject_key": "live:my-morning-jacket:2023-10-28:the-met",
+   "updated_at": "2026-10-25T22:21:00.551037"
   }
  },
  "recommended": {
