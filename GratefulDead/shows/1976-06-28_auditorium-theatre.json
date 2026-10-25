@@ -298,7 +298,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -482,105 +482,271 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 149,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-06-22",
+        "show": "live:grateful-dead:1976-06-22:tower-theatre"
+       },
+       "plays_before": 56,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 18,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 154,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 74,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 39,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 20,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 14,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-06-23",
+        "show": "live:grateful-dead:1976-06-23:tower-theatre"
+       },
+       "plays_before": 63,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 20,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-06-22",
+        "show": "live:grateful-dead:1976-06-22:tower-theatre"
+       },
+       "plays_before": 80,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-24",
+        "show": "live:grateful-dead:1976-06-24:tower-theatre"
+       },
+       "plays_before": 152,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:happiness-is-drumming",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Happiness Is Drumming"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 85,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 263,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-24",
+        "show": "live:grateful-dead:1976-06-24:tower-theatre"
+       },
+       "plays_before": 58,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 88,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-06-23",
+        "show": "live:grateful-dead:1976-06-23:tower-theatre"
+       },
+       "plays_before": 169,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -588,34 +754,40 @@
      {
       "from": "gd1976-06-28.aud.unknown.vernon.9776.shnf",
       "key": "song:grateful-dead:phil-and-drummers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil & Drummers"
      }
     ],
     "subject_key": "live:grateful-dead:1976-06-28:auditorium-theatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 563,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Happiness Is Drumming"
+     ],
+     "show_number": 651,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Auditorium Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.148806+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.652679+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ZmFbhK_TcRMsvxsK2dCxknRN7-WLUXB3kD3Jpk7iNA9bDv-lnlK6e9xcT4kZrwgNIXBuQX-3sVdQN81Dtz8xCA",
+   "revision": 41,
+   "signature": "W9P0K9B-mcRLWdk4mRfeQXKo0y4eIpaO8nX4txos6yRNPj-dzFKThuWrNM0-7liH2AQfEJ1txAl5F3gi4FhkBA",
    "subject_key": "live:grateful-dead:1976-06-28:auditorium-theatre",
-   "updated_at": "2026-10-25T16:41:49.154671"
+   "updated_at": "2026-10-25T17:35:14.653587"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Happiness Is Drumming** (3 reviews): The jam sounds like Fire on the Mountain without vocals, about a year before that song appeared; Reviewer hears this jam as resembling Fire on the Mountain and finds it sweet [8][14][16]\n- **Eyes Of The World** (2 reviews): Reviewer calls this possibly the best Eyes heard; the opening jam's energy is unmatched and holds throughout; Eyes opens with a strong six-minute jam and keeps its energy throughout the song [6][14]\n- **Scarlet Begonias** (1 review): Reviewer calls the Scarlet Begonias great and hot [8]\n- **Lazy Lightnin'** (1 review): Reviewer especially likes the Lazy Lightnin' into Supplication pairing [17]\n- **High Time** (1 review): Donna's singing adds to High Time, which is rare, and Jerry's vocals are strong [14]\n- **Dancing In The Street** (1 review): Reviewer likes the typical mid-70s treatment, with a jazzy, downward-spiraling jam [11]\n\n## The recordings\n\n- **gd76-06-28.shure.minches.18388.sbeok.shnf** (recommended): audience recording; 19 songs; 161 min; rated 3.58/5 by 12 [1]. Said about its sound: Audience tape has no hiss and is fairly low generation, but crowd banter editing is weaker than on other shows; Reviewer feels the mix and sound quality of this audience tape could be better; Reviewer admits the recording is weak [8][11][16]\n- **gd1976-06-28.aud.unknown.vernon.9776.shnf**: audience recording; 19 songs; 149 min; rated 4/5 by 2 [2]. Said about its sound: Reviewer enjoys the room ambience of this audience recording [13]\n- **gd1976-06-28.sbd.digitalrbb.miller.112296.flac16**: soundboard; 18 songs; 156 min; rated 4.33/5 by 15 [3]\n- **gd1976-06-28.mtx.seamons.112676.flac16**: matrix (soundboard mixed with audience mics); 18 songs; 157 min; rated 5/5 by 1 [4]\n\n## Around the show\n\n- Reviewer says they sat about six rows from the stage and doesn't recall Fire being played [7]\n- Reviewer argues Phil played a fretted bass in this era, and the standout slides were not fretless [10]\n\n## Tapers and lineage\n\n- **gd76-06-28.shure.minches.18388.sbeok.shnf**: taped by Bob Wagner; transferred by David Minches; source: Audience Recording: Shure 545s [1]. Also: Transfer chain: audience master cassette to reel to WAV to SHN, converted by David Minches [1]\n- **gd1976-06-28.aud.unknown.vernon.9776.shnf**: taped by Unknown; transferred by Dale Shepherd and Matt Vernon; source: AUDMR > ? > DAT > SHN [2]\n- **gd1976-06-28.sbd.digitalrbb.miller.112296.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette -> Apogee Ensemble -> Peak -> AIFF [3]. Also: Patch source was recorded with microphones placed at the soundboard; tapes supplied and digitized by Digitalrbb; Joe B. Jones helped with pitch correction on this release [3]\n- **gd1976-06-28.mtx.seamons.112676.flac16**: transferred by Hunter Seamons; source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut w/EQ > AIFF CD tracking via Audacity > FLAC16 via xACT) [4]",

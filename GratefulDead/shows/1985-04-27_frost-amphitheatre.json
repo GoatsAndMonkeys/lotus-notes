@@ -857,7 +857,7 @@
      "id": 42,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1815,135 +1815,347 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bill-graham-intro-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bill Graham intro - tuning"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 118,
+       "total_plays": 128
+      },
       "title": "Dancing in the Street"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 303,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 133,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-21",
+        "show": "live:grateful-dead:1985-04-21:marin-veterans-memorial-auditorium"
+       },
+       "plays_before": 271,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 66,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 204,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-04-01",
+        "show": "live:grateful-dead:1985-04-01:cumberland-county-civic-center"
+       },
+       "plays_before": 3,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb's Blues"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-03-29",
+        "show": "live:grateful-dead:1985-03-29:nassau-coliseum"
+       },
+       "plays_before": 169,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 145,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 210,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 240,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 221,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:man-smart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 75,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman are Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-21",
+        "show": "live:grateful-dead:1985-04-21:marin-veterans-memorial-auditorium"
+       },
+       "plays_before": 871,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 534,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 113,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 382,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 410,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 244,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 309,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 249,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 42,
+       "total_plays": 57
+      },
       "title": "Keep You're Day Job"
      },
      {
       "key": "song:grateful-dead:bill-graham-announcement",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5004,
+       "gap_shows": 955,
+       "last_played": {
+        "date": "1971-08-15",
+        "show": "live:grateful-dead:1971-08-15:berkeley-community-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Bill Graham announcement"
      }
     ],
@@ -1951,60 +2163,127 @@
      {
       "from": "gd1985-04-27.mtx.haugh.78504.flac16",
       "key": "song:grateful-dead:let-phil-sing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Let Phil Sing"
      },
      {
       "from": "gd1985-04-27.mtx.haugh.78504.flac16",
       "key": "song:grateful-dead:tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-04-01",
+        "show": "live:grateful-dead:1985-04-01:cumberland-county-civic-center"
+       },
+       "plays_before": 2,
+       "total_plays": 47
+      },
       "title": "Tom Thumb's Blues"
      },
      {
       "from": "gd1985-04-27.mtx.haugh.78504.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 63,
+       "total_plays": 182
+      },
       "title": "Man Smart, Women Smarter"
      },
      {
       "from": "gd1985-04-27.senn421.mccue.ford.32648.sbeok.flac",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 17,
+       "total_plays": 25
+      },
       "title": "Dancin In The Streets"
      },
      {
       "from": "gd1985-04-27.senn421.mccue.ford.32648.sbeok.flac",
       "key": "song:grateful-dead:crowd-let-phil-sing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd/ Let Phil Sing"
      },
      {
       "from": "gd85-04-27.sbd.jerugim.359.sbeok.shnf",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 74,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd85-04-27.sbd.jerugim.359.sbeok.shnf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 40,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1985-04-27.nak700.anon.lmpp.99835.flac16",
       "key": "song:grateful-dead:round-and-round",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1335,
+       "gap_shows": 263,
+       "last_played": {
+        "date": "1981-08-31",
+        "show": "live:grateful-dead:1981-08-31:aladdin-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 8
+      },
       "title": "Round and Round"
      }
     ],
     "subject_key": "live:grateful-dead:1985-04-27:frost-amphitheatre",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1214,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Bill Graham announcement"
+     ],
+     "first_in_archive": [
+      "Bill Graham intro - tuning"
+     ],
+     "show_number": 1317,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "taper"
@@ -2013,16 +2292,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 25,
+   "parent_revision": 37,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.137492+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.516686+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 26,
-   "signature": "rQsDayaLTwXR4LXcroSRR6wQLA0LY0jt0Hbms5n1WHZ2h9rYRHAURTFarQ_nR9z-oeorBWgL7sbM_Uf5aM9VBw",
+   "revision": 38,
+   "signature": "brh1MF-b26xKjfZpltNZHnKr6Htslu3Wgn31P1vJAKXwNHFsfn3oo6qZrJ6p2b9UgePpQr4_QgvmGfOutRPGAQ",
    "subject_key": "live:grateful-dead:1985-04-27:frost-amphitheatre",
-   "updated_at": "2026-10-25T16:42:00.139753"
+   "updated_at": "2026-10-25T17:35:20.518289"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (3 reviews): Highlights include sick Tom Thumbs, Wheel, and the Scarlet>Eyes transition; The flawless transition into Eyes of the World is a kindest thing heard [31][33][41]\n- **Bertha** (1 review): The first set features a great Bertha, Brown-Eyed, Cold Rain, and Music [33]\n- **Little Red Rooster** (1 review): Highlights include Rooster, Tom Thumb, GDTRFB, and Wheel>Truckin' [30]\n- **My Brother Esau** (1 review): The reviewer asks why Bob stopped playing Brother Esau, calling it one of his better songs [38]\n- **The Other One** (1 review): The Other One just screams, and the Tom Thumb/Cold Rain/Music run is finest [37]\n\n## The recordings\n\n- **gd1985-04-27.151970.Mouth.AKG.Rogers.Noel.fixed.151703.t-flac2496** (recommended): source not stated; 24 songs; 170 min [1]\n- **gd1985-04-27.151703.Mouth.AKG.Master.Cassette.Rogers.Noel.t-flac2496**: source not stated; 24 songs; 170 min [3]\n- **gd1985-04-27.mtx.haugh.78504.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 154 min; rated 5/5 by 4 [4]\n- **gd1985-04-27.172444.nak300.terry.miller.clugston.flac2496**: audience recording; 23 songs; 153 min; rated 5/5 by 1 [6]\n- **gd85-04-27.sbd.jerugim.359.sbeok.shnf**: soundboard; 22 songs; 147 min; rated 4.45/5 by 31 [12]. Said about its sound: Sound is superb, though Jerry's voice is frog-like and second set transitions are sloppy; The soundboard is crisp and punchy, with flawless playing throughout the show [30][31]\n- **gd85-04-27.sbd.unknown.17265.sbeok.shnf**: soundboard; 22 songs; 147 min; rated 4.25/5 by 8 [13]. Said about its sound: The show is described as great sounding and well played [38]\n\n## Around the show\n\n- Stage talk about: taper [1]\n- It was a bright sun-shiny day at the listener's first Frost show [37]\n- A taper bust occurred during GDTRFB, but the tapers kept rolling [1]\n- A taper bust occurred during GDTRFB, but the tapers kept rolling [3]\n- Volume 49 features two complete shows at Stanford University’s Frost Amphitheatre in Palo Alto [46]\n- The second set surprised the listener, changing their opinions of the 1985 band [32]\n- 1985 was known as a down year, but this show is a solid gem [41]\n\n## Tapers and lineage\n\n- **gd1985-04-27.151970.Mouth.AKG.Rogers.Noel.fixed.151703.t-flac2496**: taped by Recording by Craig Rogers; transferred by Transfer by Craig Rogers Edited & Mastered (Adobe Audition) by Joe Noel January 20, 2021; source: Source: AKG CE1s (ORTF) > Uher CR240 > Master Cassettes Location: Mouth, ten heads back from stage lip, Phil's side, Set I & Set II through GDTRFB; OTS, MSWS… [1]. Also: Craig Rogers taped and shared the source, with pitch correction and crossfaded pauses [1]\n- **gd1985-04-27.151703.Mouth.AKG.Master.Cassette.Rogers.Noel.t-flac2496**: taped by Craig Rogers; transferred by Transfer by Craig Rogers Edited & Mastered (Adobe Audition) by Joe Noel January 20, 2021; source: Source: AKG CE1s (ORTF) > Uher CR240 > Master Cassettes [3]. Also: Craig Rogers taped and shared the source, with pitch correction and crossfaded pauses [3]\n- **gd1985-04-27.mtx.haugh.78504.flac16**: taped by See info file; transferred by Dan Haugh; source: SBD + AUD Matrix 3 Source Mix [4]. Also: SBD transferred via Sony R500 and SEK'D; MAC recorded by B.Koucky on Nak700; MAC mics were Senn 421 on a T-bar knee high pointed at stacks [4]\n- **gd1985-04-27.172444.nak300.terry.miller.clugston.flac2496**: taped by Mark Terry; transferred by Scott Clugston, Charlie Miller; source: Mark Terry's Master Audience Cassettes; Nakamichi 300 mics > Sony WM-D6C (Maxell XLII-S90) [6]. Also: Bob Wagner's Nakamichi 700 source supplies patches for Eyes>GDTRFB and Truckin'>Other One [6]\n- **gd85-04-27.sbd.jerugim.359.sbeok.shnf**: source: SBDMC> DAT> CDR [12]\n- **gd85-04-27.sbd.unknown.17265.sbeok.shnf**: source: SBD > MC > DAT > CDR > EAC > mkwACT [13]",

@@ -382,7 +382,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -717,123 +717,339 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 121,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-01",
+        "show": "live:grateful-dead:1973-12-01:boston-music-hall"
+       },
+       "plays_before": 136,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 123,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 88,
+       "total_plays": 162
+      },
       "title": "Black-Throated Wind"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-01",
+        "show": "live:grateful-dead:1973-12-01:boston-music-hall"
+       },
+       "plays_before": 39,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 184,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 108,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 166,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 56,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 56,
+       "total_plays": 278
+      },
       "title": "Row Jimmy (cont.)"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-01",
+        "show": "live:grateful-dead:1973-12-01:boston-music-hall"
+       },
+       "plays_before": 90,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 240,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 243,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 52,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 84,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 278,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 29,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 29,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine (cont.)"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 84,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1973-11-11",
+        "show": "live:grateful-dead:1973-11-11:winterland-arena"
+       },
+       "plays_before": 172,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1973-11-11",
+        "show": "live:grateful-dead:1973-11-11:winterland-arena"
+       },
+       "plays_before": 172,
+       "total_plays": 223
+      },
       "title": "Dark Star (cont.)"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 48,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 51,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-12-04",
+        "show": "live:grateful-dead:1973-12-04:cincinnati-gardens"
+       },
+       "plays_before": 208,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -841,7 +1057,16 @@
      {
       "from": "gd1973-12-06.sbd.remaster.102750.flac16",
       "key": "song:grateful-dead:row-jimmy-row",
-      "stats": {},
+      "stats": {
+       "days_since": 89,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1973-09-08",
+        "show": "live:grateful-dead:1973-09-08:nassau-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 21
+      },
       "title": "Row, Jimmy Row"
      }
     ],
@@ -849,26 +1074,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 475,
-     "shows_in_archive": 1855,
+     "show_number": 557,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Public Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 24,
+   "parent_revision": 36,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.392603+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.907704+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 25,
-   "signature": "Gp6GDTlEz6r97g6INJxjYhxjwXl_BSYR9kHSV1RPp3fseBIN_vLlDQgG6EcX4x_5HQ3K0qsfHiNqtMlWKR0wBQ",
+   "revision": 37,
+   "signature": "TNbbH3-h1zmDyh_Nbtpgzm6HFIlyYf8vG0fdUmfziV7ggPalDiDwkdXCRB86Y5usD3W4zssgbJ75mLPdqYMZBg",
    "subject_key": "live:grateful-dead:1973-12-06:public-hall",
-   "updated_at": "2026-10-25T16:41:47.395477"
+   "updated_at": "2026-10-25T17:35:13.909279"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (5 reviews, 1 other source): Reviewer calls this performance their favorite from the 1973-74 period; Clarifies the song is the third longest known, lasting 43 minutes 28 seconds [3][13][14][18][21][22]\n- **Here Comes Sunshine** (2 reviews, 1 other source): Describes the song as spacy, with Keith moving from piano to keyboards; Identified as the longest and best version in the reviewer's opinion [3][15][16]\n- **Eyes of the World** (1 review): The jam into Stella Blue is called unreal, finishing with Sugar Magnolia [16]\n\n## Setlist highlights\n\n- **I Know You Rider**: cut on the recording [1]\n\n## The recordings\n\n- **gd1973-12-06.166462.aud.cubbedge.flac16** (recommended): audience recording; 24 songs; 186 min [1]\n- **gd1973-12-06.147505.sbd.pc.miller.flac1644**: soundboard; 21 songs; 204 min; rated 5/5 by 4 [2]\n- **gd73-12-06.sbd.kaplan-fink-hamilton.4452.sbeok.shnf**: matrix (soundboard mixed with audience mics); 21 songs; 184 min; rated 4.45/5 by 58 [5]. Said about its sound: Describes the recording as having great sound quality; Notes Jerry's distortion during Loser, though overall sound quality is rated A+ [19][20]\n- **gd1973-12-06.132361.sbd.miller.flac16**: soundboard; 21 songs; 201 min; rated 4.25/5 by 12 [3]\n\n## Around the show\n\n- Donna Jean Godchaux was missing due to maternity leave, but the band performed well [21]\n- Donna Jean Godchaux was absent due to maternity leave that night [1]\n- Suggests this show should have been released instead of the December 19th show [17]\n\n## Tapers and lineage\n\n- **gd1973-12-06.166462.aud.cubbedge.flac16**: taped by Dave Cubbedge; source: Recorded by Dave Cubbedge on a Sony portable stereo recorder with a stereo mic. [1]. Also: First-generation copy made in the 1980s from lost 120-minute cassettes [1]\n- **gd1973-12-06.147505.sbd.pc.miller.flac1644**: transferred by Charlie Miller; source: SBD > Master Reel > Dat [2]. Also: Pitch-corrected version of shnid=132361, with input from Rob Bertrando and Joe B. Jones [2]\n- **gd73-12-06.sbd.kaplan-fink-hamilton.4452.sbeok.shnf**: source: Soundboard with Audience Patches [5]\n- **gd1973-12-06.132361.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat [3]",

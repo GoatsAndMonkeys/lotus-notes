@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -59,8 +59,8 @@
     "guests": [],
     "next": {
      "date": "1976-05-28",
-     "show": "live:grateful-dead:1976-05-28:unknown-venue",
-     "venue": "Unknown Venue"
+     "show": "live:grateful-dead:1976-05-28:le-club-front-studios",
+     "venue": "Le Club Front Studios"
     },
     "previous": {
      "date": "1976-04-20",
@@ -107,13 +107,21 @@
     "setlist": [
      {
       "key": "song:grateful-dead:peanut-butter-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Peanut Butter Song"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      }
     ],
@@ -121,27 +129,30 @@
     "subject_key": "live:grateful-dead:1976-05-18:studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 544,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Peanut Butter Song",
+      "Might As Well"
+     ],
+     "show_number": 631,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.714394+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.486965+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "fKb2fNNNyFEwIpcwrb__7OW_Jhzll5izkcQVz6y6jPSDXV94im-QmVn_j6cFAbHCtjID42-HzyR_yFtNo-uTDg",
+   "revision": 40,
+   "signature": "02-tLfy-m2zlK9Dahv6gaXcQdtEW-G_Ayz5X2Pa6Q42PVLlb25We3PIYdwSYgLnmbnFWU9SLpBXBWr-nTKEnCA",
    "subject_key": "live:grateful-dead:1976-05-18:studio",
-   "updated_at": "2026-10-25T16:41:48.715476"
+   "updated_at": "2026-10-25T17:35:14.487341"
   }
  },
  "recommended": {

@@ -284,7 +284,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -335,6 +335,20 @@
      "url": "https://www.dead.net/show/september-27-1972",
      "wayback_timestamp": null,
      "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://www.dead.net/",
+     "id": 22,
+     "kind": "blog",
+     "published_at": null,
+     "quote_or_claim": "- We thank you kindly for joining the Grateful Dead's mailing list!",
+     "site": "Grateful Dead",
+     "title": "Grateful Dead Stanley Theatre - September 27, 1972",
+     "url": "https://www.dead.net/show/september-27-1972",
+     "wayback_timestamp": null,
+     "wayback_url": null
     }
    ],
    "facts": {
@@ -350,8 +364,8 @@
     },
     "previous": {
      "date": "1972-09-24",
-     "show": "live:grateful-dead:1972-09-24:palace-theatre",
-     "venue": "Palace Theatre"
+     "show": "live:grateful-dead:1972-09-24:palace-theater",
+     "venue": "Palace Theater"
     },
     "recommended": {
      "identifier": "gd72-09-26.sbd.unknown.156.sbeok.shnf",
@@ -513,129 +527,349 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1972-09-03",
+        "show": "live:grateful-dead:1972-09-03:folsom-field-u-of-colorado"
+       },
+       "plays_before": 102,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 217,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-09-21",
+        "show": "live:grateful-dead:1972-09-21:the-spectrum"
+       },
+       "plays_before": 30,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 122,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 54,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 38,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 70,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-09-19",
+        "show": "live:grateful-dead:1972-09-19:roosevelt-stadium"
+       },
+       "plays_before": 213,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-09-16",
+        "show": "live:grateful-dead:1972-09-16:boston-music-hall"
+       },
+       "plays_before": 24,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 83,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-09-21",
+        "show": "live:grateful-dead:1972-09-21:the-spectrum"
+       },
+       "plays_before": 10,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 47,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:tomorrow-is-forever",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 10
+      },
       "title": "Tomorrow is Forever"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-09-21",
+        "show": "live:grateful-dead:1972-09-21:the-spectrum"
+       },
+       "plays_before": 135,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 146,
+       "gap_shows": 36,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 18,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-09-24",
+        "show": "live:grateful-dead:1972-09-24:palace-theater"
+       },
+       "plays_before": 139,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:miles-tuning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Miles Tuning"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-09-19",
+        "show": "live:grateful-dead:1972-09-19:roosevelt-stadium"
+       },
+       "plays_before": 51,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -643,46 +877,70 @@
      {
       "from": "gd1972-09-26.sbd.unknown.sbexx.16755.shnf",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-09-21",
+        "show": "live:grateful-dead:1972-09-21:the-spectrum"
+       },
+       "plays_before": 8,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1972-09-26.sbd.unknown.sbexx.16755.shnf",
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 189,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "from": "gd1972-09-26.sbd.unknown.sbexx.16755.shnf",
       "key": "song:grateful-dead:miles",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Miles"
      }
     ],
     "subject_key": "live:grateful-dead:1972-09-26:stanley-theatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 383,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Miles Tuning"
+     ],
+     "show_number": 456,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Stanley Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.140738+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.974313+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "B58UGxG0MKk9z-uGyU3GXLosl3tI1X2zbtcXpjT4Bb08tpOruSXoM5ntsS9E2ma1vYEG93hzITTtqeuyWJGBAQ",
+   "revision": 42,
+   "signature": "781CY0U2IUQ45KFc7NwW2OumEmHvhZvEm6HJdp13UuuCJLaY0Zr2Ys9bxwxC6h6Mxn35zOfp_KJtWy5HN2WlAQ",
    "subject_key": "live:grateful-dead:1972-09-26:stanley-theatre",
-   "updated_at": "2026-10-25T16:41:45.142314"
+   "updated_at": "2026-10-25T17:35:12.975506"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **It's All Over Now Baby Blue** (2 reviews, 1 other source): Jerry's voice and guitar sound crisp and clear throughout this Baby Blue; Calls this Baby Blue unrivaled, technically perfect, and the best recording of the song; regrets it was never released commercially [5][6][8]\n- **He's Gone** (2 reviews): Singled out He's Gone, Playin' in the Band, and a tight, well-played Greatest Story as standouts; Calls this the best He's Gone ever, self-contained, with an impromptu Jerry blues solo after the doo-wop chorus [7][11]\n- **Truckin'** (2 reviews): Jams run from Truckin' through The Other One into a brief spacey passage before Jerry eases into Baby Blue; Praises the Truckin' > The Other One > Baby Blue run, plus Weir's almost flawless Truckin' vocal [6][9]\n- **Cold Rain and Snow** (1 review): Reviewer came for Cold Rain and Snow and enjoyed the solos [13]\n- **Cumberland Blues** (1 review): Cumberland Blues has a cut in the soundboard; otherwise it might be the reviewer's favorite version [17]\n- **Bird Song** (1 review): Notes a pleasing variation in Bird Song, and strong versions of Greatest Story and Black Throated Wind [9]\n\n## The recordings\n\n- **gd72-09-26.sbd.unknown.156.sbeok.shnf** (recommended): soundboard; 25 songs; 185 min; rated 4.67/5 by 18 [1]. Said about its sound: Recording is very nice; the mix is praised; Soundboard is deep and clean, with clear high guitars and slow vocals [9][13]\n- **gd72-09-26.sbd.wier.19198.sbeok.shnf**: soundboard; 25 songs; 183 min; rated 4.62/5 by 8 [2]. Said about its sound: Sound is clear and good [7]\n- **gd1972-09-26.partial-sbd-patched.powell-ladner.25281.shnf**: soundboard; 3 songs; 41 min [5]\n- **gd1972-09-26.sbd.unknown.sbexx.16755.shnf**: soundboard; 25 songs; 183 min; rated 4.25/5 by 4 [3]\n\n## Around the show\n\n- Reviewer attended all three Stanley Theatre nights and rated Thursday best, with Tuesday having superlative moments [8]\n- Attended the three-night Stanley run; recalls this as the middle night [15]\n- Would choose the 9/27 show last for a Dick's Pick release among the three Stanley nights [8]\n- Recommended for fans of the Dick's Picks Stanley Theater release from the following night [11]\n- Mentions the band's spring Academy of Music run, Roosevelt Stadium, and Dillon Stadium in Hartford that year [15]\n\n## Tapers and lineage\n\n- **gd72-09-26.sbd.unknown.156.sbeok.shnf**: source: Soundboard [1]. Also: A version exists with an audience patch covering the Cumberland cut; Soundboard reel to unknown DAT generations, then digital noise reduction, three DAT generations, then a 48-41 conversion [1][17]\n- **gd72-09-26.sbd.wier.19198.sbeok.shnf**: source: Soundboard [2]\n- **gd1972-09-26.partial-sbd-patched.powell-ladner.25281.shnf**: transferred by Jim Powell and Chris Ladner; source: Splice upgrade - see info file for details [5]. Also: Partial soundboard patched with audience source; cassette to DAT transfer by J. Powell, DAT to SHN by C. Ladner [5]\n- **gd1972-09-26.sbd.unknown.sbexx.16755.shnf**: taped by Unknown; transferred by Unknown; source: SBD > Master Reel [3]\n\n## Art and photos\n\n- Fan art by johnsdeadart.blogspot.com: [John's Custom Grateful Dead Album Cover Art](https://johnsdeadart.blogspot.com/2017/05/blog-post_90.html) [19]\n- Poster by rocktourdatabase.com: [Grateful Dead | rocktourdatabase.com](https://rocktourdatabase.com/concerts/grateful-dead-996) [20]\n- Poster by Grateful Dead: [Grateful Dead Stanley Theatre - September 27, 1972](https://www.dead.net/show/september-27-1972) [21]",

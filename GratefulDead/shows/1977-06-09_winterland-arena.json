@@ -389,7 +389,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -753,125 +753,332 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 78,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 189,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 78,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 46,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 11,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 158,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 103,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 153,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 53,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 67,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:funiculi-funicula",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 26
+      },
       "title": "Funiculi Funicula"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-05-22",
+        "show": "live:grateful-dead:1977-05-22:the-sportatorium"
+       },
+       "plays_before": 31,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-05-22",
+        "show": "live:grateful-dead:1977-05-22:the-sportatorium"
+       },
+       "plays_before": 30,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-04",
+        "show": "live:grateful-dead:1977-06-04:the-forum"
+       },
+       "plays_before": 33,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 36,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 150,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 194,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 308,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 150,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 22,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-05-22",
+        "show": "live:grateful-dead:1977-05-22:the-sportatorium"
+       },
+       "plays_before": 259,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 66,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-04",
+        "show": "live:grateful-dead:1977-06-04:the-forum"
+       },
+       "plays_before": 141,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -879,19 +1086,36 @@
      {
       "from": "gd1977-06-09.sbd.fishman.3869.sbeok.shnf",
       "key": "song:grateful-dead:aiko-to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Aiko ; To Lay Me Down (3/27/88)"
      },
      {
       "from": "gd77-06-09.sbd.murphy.5597.sbefail.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 83,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd1977-06-09.141360.akg-d224.troy.miller.smith.sirmick.flac2496",
       "key": "song:grateful-dead:just-exactly-right",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Just exactly right"
      }
     ],
@@ -899,26 +1123,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 622,
-     "shows_in_archive": 1855,
+     "show_number": 714,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.799106+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.086412+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "GgsgvfMVgNqMzzy1EtlHNweK24_VYQNhOh9HuWM12IuSoT6F4bWo7l0nFZ48Rt5lU8Jp8jvXnOHpgL9W-KFwAg",
+   "revision": 42,
+   "signature": "ABOoQeqcDc_I7_KeTYj8MPB8aD_Yj1VZfJWvZFVf47sD7xBBtIFbjBdGi1GzOi-7L-jGrUG1AaD1cnW9AypyDg",
    "subject_key": "live:grateful-dead:1977-06-09:winterland-arena",
-   "updated_at": "2026-10-25T16:41:50.802670"
+   "updated_at": "2026-10-25T17:35:15.087385"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cassidy** (1 review): The Cassidy performance is highlighted as a standout moment [16]\n- **The Music Never Stopped** (1 review): One of the best Music Never Stopped performances the listener has ever heard [21]\n- **Help On The Way** (1 review): One of the best Help to Slipknot jams of 1977 [11]\n\n## The recordings\n\n- **gd1977-06-09.28614.sbeok.flac16** (recommended): soundboard; 23 songs; 167 min; rated 4.79/5 by 86 [1]\n- **gd1977-06-09.sbd.fishman.3869.sbeok.shnf**: soundboard; 23 songs; 175 min; rated 5/5 by 5 [2]\n- **gd1977-06-09.mtx.seamons.98801.sbeok.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 169 min; rated 4.17/5 by 6 [4]\n- **gd77-06-09.sbd.murphy.5597.sbefail.shnf**: soundboard; 23 songs; 163 min; rated 4.85/5 by 27 [5]. Said about its sound: The recording has awesome quality and a challenging, excellent segue between songs; The Sunrise patch comes from a degraded SBD source [20][21]\n- **gd1977-06-09.sbd.john-dauria.1409.shnf**: soundboard; 23 songs; 165 min [6]. Said about its sound: Slight dropouts occur in Saint Stephen, Sugar Magnolia, and One More Saturday Night [6]\n- **gd77-06-09.akg-bertrando.winters.26450.sbeok.shnf**: audience recording; 21 songs; 158 min; rated 4.84/5 by 25 [10]. Said about its sound: The audience recording is full of psychedelic fun and the hiss is acceptable [22]\n\n## Around the show\n\n- Steve Marcus of the Dead's staff considers this his all-time favorite show [12]\n- An audience member on acid shouted requests throughout the first set until Funiculi Funicula [15]\n- The St. Stephen to Not Fade Away sequence rivals the Cornell May 8, 1977 performance [11]\n- Second set combines the best songs normally played in 1977 second sets [14]\n- The Help to Slipknot to Franklin's jam outperforms the October 11, 1977 version [16]\n- The October 11, 1977 Help to Slipknot to Franklin's jam is superior to this one [19]\n\n## Tapers and lineage\n\n- **gd1977-06-09.28614.sbeok.flac16**: transferred by Charlie Miller; source: Soundboard [1]. Also: Transferred and edited by Charlie Miller from a 7-inch master reel to FLAC [1]\n- **gd1977-06-09.sbd.fishman.3869.sbeok.shnf**: source: Reel SBD>Reel>PCM>DAT>DAT>CD [2]. Also: Transferred from a first-generation reel to PCM, then DAT, and finally to CD [2]\n- **gd1977-06-09.mtx.seamons.98801.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [4]. Also: Recorded by Dr. Rob Bertrando using AKG D220s and a Tandberg 10XD [4]\n- **gd77-06-09.sbd.murphy.5597.sbefail.shnf**: source: SBD hybrid source, including encore: retracking of previous shn set with encore patched in from another previous shn set [5]. Also: A copy of the cassette was donated from the vault by Steven Marcus [18]\n- **gd1977-06-09.sbd.john-dauria.1409.shnf**: transferred by John D'Auria; source: Master Reels>PCM>DAT>Delta DiO 2496>Sound Forge 4.5>CDWAV>SH [6]\n- **gd77-06-09.akg-bertrando.winters.26450.sbeok.shnf**: taped by Rob Bertrando; source: Audience Recording: AKG D220s [10]\n\n## Art and photos\n\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - 6/9/77 Winterland Arena, San F…](https://www.flickr.com/photos/104729480@N03/27364901035/) [24]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/27364901035/) [25]",

@@ -357,7 +357,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -661,127 +661,334 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 158,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 70,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 30,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 162,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 87,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 63,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 22,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 48,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-09-30",
+        "show": "live:grateful-dead:1976-09-30:mershon-auditorium-osu"
+       },
+       "plays_before": 29,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-09-30",
+        "show": "live:grateful-dead:1976-09-30:mershon-auditorium-osu"
+       },
+       "plays_before": 24,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 160,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-09-30",
+        "show": "live:grateful-dead:1976-09-30:mershon-auditorium-osu"
+       },
+       "plays_before": 141,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 178,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-09-30",
+        "show": "live:grateful-dead:1976-09-30:mershon-auditorium-osu"
+       },
+       "plays_before": 141,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 282,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 282,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 131,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 57,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -789,19 +996,41 @@
      {
       "from": "gd1976-10-09.aud.fix-10179.tetzeli.sbeok.83819.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 69,
+       "total_plays": 220
+      },
       "title": "Mississippi Half Step Toodleoo"
      },
      {
       "from": "gd1976-10-09.aud.fix-10179.tetzeli.sbeok.83819.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 28,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd76-10-09.set2-sbd.miller.12519.sbeok.shnf",
       "key": "song:grateful-dead:hitchcock-theme-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hitchcock Theme Tuning"
      }
     ],
@@ -809,26 +1038,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 583,
-     "shows_in_archive": 1855,
+     "show_number": 671,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland-Alameda County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.523370+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.785323+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "meFrtMDSbpHM6zCJDHfQzPyjFvWhaFS2Qk2pZB7Z4TjNQ7j8GQtTQcscnCYaqJ0ZeK8ApQ6PGAQsftMXdRhtCA",
+   "revision": 43,
+   "signature": "8ae-sk8j1u1wLMrTpxuctDjNS_Ag5gnPM-cIgAoVZx26ybot75jkV-ZXfL7RCxtu-3dEhIwHdY74jCnUIWvpAQ",
    "subject_key": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum",
-   "updated_at": "2026-10-25T16:41:49.525038"
+   "updated_at": "2026-10-25T17:35:14.786174"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Not Fade Away** (2 reviews): The performance of Not Fade Away is described as ripping [16][17]\n- **Help On The Way** (2 reviews): Phil pounds the signature opening bass lines with authority in this song [16][17]\n- **Scarlet Begonias** (1 review): The first set's Scarlet is highlighted as one of the great jams [13]\n- **Saint Stephen** (1 review): The transition from Saint Stephen to Help On The Way is called beautiful [15]\n- **Franklin's Tower** (1 review): The second half of this song is described as rippin' and essential [9]\n\n## The recordings\n\n- **gd1976-10-09.aud.falanga.berger.99002.flac24** (recommended): audience recording; 23 songs; 154 min; rated 5/5 by 4 [1]\n- **gd1976-10-09.aud.fix-10179.tetzeli.sbeok.83819.flac16**: audience recording; 22 songs; 148 min; rated 3.5/5 by 10 [3]\n- **gd76-10-09.aud.vernon.10179.sbeok.shnf**: audience recording; 22 songs; 143 min; rated 4.8/5 by 5 [4]\n- **gd76-10-09.set2-sbd.miller.12519.sbeok.shnf**: soundboard; 12 songs; 70 min; rated 4.55/5 by 20 [6]. Said about its sound: Jerry plays focused, bluesy leads that are intense and potentially loud [11]\n- **gd1976-10-09.set-2.mtx.dts.dan.86437.flac16**: matrix (soundboard mixed with audience mics); 12 songs; 70 min [8]\n\n## Around the show\n\n- Jerry appeared shirtless, a rare occurrence, while the weather was sunny and sweet [12]\n- The Who played after the Dead, using a huge wall of sound system [14]\n- The reviewer calls this the best show from 1976 despite band disappointment [16]\n- The reviewer calls this the best show from 1976 despite band disappointment [17]\n\n## Tapers and lineage\n\n- **gd1976-10-09.aud.falanga.berger.99002.flac24**: taped by Louis Falanga; transferred by Rob Berger; source: master taped on a sony tc-152sd [1]\n- **gd1976-10-09.aud.fix-10179.tetzeli.sbeok.83819.flac16**: transferred by Pitch correction and other fixes by Bill Tetzeli; source: Unknown aud > ? > DAT [3]. Also: The source had an inverted left channel and was 3% too fast; The uploader reinverted the left channel and time-stretched tracks to correct speed [3]\n- **gd76-10-09.aud.vernon.10179.sbeok.shnf**: transferred by Marc Pujol; source: Audience Recording [4]. Also: The tape lineage is unknown aud to DAT via Dave Minor, transferred by Marc Pujol [4]\n- **gd76-10-09.set2-sbd.miller.12519.sbeok.shnf**: source: Soundboard [6]. Also: The reviewer identifies this as their first tape ever, which they wore out [10]\n- **gd1976-10-09.set-2.mtx.dts.dan.86437.flac16**: taped by See info file; transferred by Matrixing by Dan Haugh; source: Matrix mix of Set 2 SBD by Dan Haugh [8]. Also: The source was encoded to DTS using Surcode CD Pro DTS after EQ and alignment [8]\n\n## Art and photos\n\n- Fan art by Snooky Flowers Grateful Dead: [1976-10-09 Oakland-Alameda County Stadium, Oakland, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1976-10-09-oakland-alameda-county-stadium-oakland-ca-usa/) [22]\n- Poster by Grateful Dead: [Grateful Dead Oakland Coliseum Stadium - October 9, 1976](https://www.dead.net/show/october-9-1976) [23]",

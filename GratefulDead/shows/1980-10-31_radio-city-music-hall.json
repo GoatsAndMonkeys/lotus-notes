@@ -557,7 +557,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1087,311 +1087,701 @@
     "setlist": [
      {
       "key": "song:grateful-dead:frankin-and-davis-preshow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Frankin & Davis preshow"
      },
      {
       "key": "song:grateful-dead:brent-intros-frank-and-david",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brent Intros \"Frank & David"
      },
      {
       "key": "song:grateful-dead:heaven-help-the-fool",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 17,
+       "total_plays": 18
+      },
       "title": "Heaven Help The Fool"
      },
      {
       "key": "song:grateful-dead:sage-and-spirit",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1906,
+       "gap_shows": 359,
+       "last_played": {
+        "date": "1975-08-13",
+        "show": "live:grateful-dead:1975-08-13:great-american-music-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Sage And Spirit"
      },
      {
       "key": "song:grateful-dead:little-sadie",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3898,
+       "gap_shows": 746,
+       "last_played": {
+        "date": "1970-02-28",
+        "show": "live:grateful-dead:1970-02-28:family-dog-at-the-great-highway"
+       },
+       "plays_before": 6,
+       "total_plays": 7
+      },
       "title": "Little Sadie"
      },
      {
       "key": "song:grateful-dead:monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 33,
+       "total_plays": 44
+      },
       "title": "The Monkey And The Engineer"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 89,
+       "total_plays": 168
+      },
       "title": "It Mustve Been The Roses"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 117,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:bird-song",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 86,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:ripple",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 39,
+       "total_plays": 48
+      },
       "title": "Ripple"
      },
      {
       "key": "song:grateful-dead:ambiance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "ambiance"
      },
      {
       "key": "song:grateful-dead:jerrys-kids-telethon",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry’s Kids Telethon"
      },
      {
       "key": "song:grateful-dead:jerry-garcia-interview",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5143,
+       "gap_shows": 955,
+       "last_played": {
+        "date": "1966-10-02",
+        "show": "live:grateful-dead:1966-10-02:san-francisco-state-university"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Jerry Garcia Interview"
      },
      {
       "key": "song:grateful-dead:steve-parrish-interview-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Steve Parrish Interview #1"
      },
      {
       "key": "song:grateful-dead:are-you-too-high",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Are You Too High"
      },
      {
       "key": "song:grateful-dead:hassles-in-hempstead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hassles In Hempstead"
      },
      {
       "key": "song:grateful-dead:drummers-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drummers Interview"
      },
      {
       "key": "song:grateful-dead:bathroom-navigation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bathroom Navigation"
      },
      {
       "key": "song:grateful-dead:drug-warning-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drug Warning #1"
      },
      {
       "key": "song:grateful-dead:jerrys-kids-update",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry's Kids Update"
      },
      {
       "key": "song:grateful-dead:deadheads",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Deadheads"
      },
      {
       "key": "song:grateful-dead:dr-henry-kissinger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dr. Henry Kissinger"
      },
      {
       "key": "song:grateful-dead:jerrys-kids-update",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry's Kids Update"
      },
      {
       "key": "song:grateful-dead:sharon-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sharon Interview"
      },
      {
       "key": "song:grateful-dead:bob-weir-interview",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 50,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bob Weir Interview"
      },
      {
       "key": "song:grateful-dead:brunswick-check-presentation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brunswick Check Presentation"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 289,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-25",
+        "show": "live:grateful-dead:1980-10-25:radio-city-music-hall"
+       },
+       "plays_before": 132,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 412,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 265,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-25",
+        "show": "live:grateful-dead:1980-10-25:radio-city-music-hall"
+       },
+       "plays_before": 151,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 17,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 215,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 212,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 257,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:jerrys-kids-update-missing-finger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry's Kids Update/Missing Finger"
      },
      {
       "key": "song:grateful-dead:trivia-question",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Trivia Question"
      },
      {
       "key": "song:grateful-dead:steve-parrish-interview-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Steve Parrish Interview #2"
      },
      {
       "key": "song:grateful-dead:phil-lesh-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Lesh Interview"
      },
      {
       "key": "song:grateful-dead:trivia-question",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Trivia Question"
      },
      {
       "key": "song:grateful-dead:brent-mydland-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brent Mydland Interview"
      },
      {
       "key": "song:grateful-dead:trivia-question",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Trivia Question"
      },
      {
       "key": "song:grateful-dead:jerrys-kids-update",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry's Kids Update"
      },
      {
       "key": "song:grateful-dead:drug-warning-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drug Warning #2"
      },
      {
       "key": "song:grateful-dead:more-brunswick-and-tripping-tom",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "More Brunswick & Tripping Tom"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 105,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 74,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 73,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 81,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 556,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 226,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 88,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 286,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 121,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1980-10-22",
+        "show": "live:grateful-dead:1980-10-22:radio-city-music-hall"
+       },
+       "plays_before": 173,
+       "total_plays": 302
+      },
       "title": "Going Down The Road Felling Bad"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 273,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:uncle-johns-band",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-25",
+        "show": "live:grateful-dead:1980-10-25:radio-city-music-hall"
+       },
+       "plays_before": 169,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:frankin-and-davis-outro-and-crowd",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Frankin & Davis outro & crowd"
      }
     ],
@@ -1399,234 +1789,430 @@
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t01-heaven-help-the-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t01 Heaven Help The Fools"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t02-sage-and-spirit",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t02 Sage & Spirit"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t03-little-sadie",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t03 Little Sadie"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t04-monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t04 Monkey & The Engineer"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t05-it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t05 It Must Have Been The Roses"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t06-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t06 Cassidy"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t07-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t07 Bird Song"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t08-ripple",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t08 Ripple"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t09-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t09 Tuning"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t10-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t10 Jack Straw"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t11-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t11 Cold Rain & Snow"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t12-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t12 Me & My Uncle"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t13-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t13 Mexicali Blues"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t14-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t14 Ramble On Rose"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t15-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t15 Little Red Rooster"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t16-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t16 Brown Eyed Women"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t17-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t17 Looks Like Rain"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t18-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t18 Deal"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t19-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t19 Tuning"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t20-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t20 Don't Ease Me In"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t21-lost-sailor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t21 Lost Sailor"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t22-saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t22 Saint Of Circumstance"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t23-franklins-tower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t23 Franklins' Tower"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t24-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t24 Drums"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t25-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t25 Space"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t26-fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t26 Fire On The Mountain"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t27-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t27 Not Fade Away"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t28-stella-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t28 Stella Blue"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t29-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t29 Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t30-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t30 Good Lovin'"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t31-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t31 Encore Break"
      },
      {
       "from": "gd1980-10-31.141354.sbd.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd80-10-31-t32-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-10-31 t32 Uncle John's Band"
      },
      {
       "from": "gd1980-10-31.132278.aud.sony.ecm-280.flac24",
       "key": "song:grateful-dead:set-up",
-      "stats": {},
+      "stats": {
+       "days_since": 174,
+       "gap_shows": 62,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 4,
+       "total_plays": 16
+      },
       "title": "Set Up"
      },
      {
       "from": "gd80-10-31.sbd-preFM.cousinit.20377.sbeok.shnf",
       "key": "song:grateful-dead:rambling-rose",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3058,
+       "gap_shows": 553,
+       "last_played": {
+        "date": "1972-06-17",
+        "show": "live:grateful-dead:1972-06-17:hollywood-bowl"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Ramblin' Rose"
      },
      {
       "from": "gd80-10-31.wise.larson.1955.sbeok.shnf",
       "key": "song:grateful-dead:sadie",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sadie"
      },
      {
       "from": "gd1980-10-31.131907.stankiewicz.flac2496",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1980-10-22",
+        "show": "live:grateful-dead:1980-10-22:radio-city-music-hall"
+       },
+       "plays_before": 37,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1980-10-31.137449.sbd.happyjack.flac16",
       "key": "song:grateful-dead:franklins-tower-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Franklins Tower Drums"
      }
     ],
     "subject_key": "live:grateful-dead:1980-10-31:radio-city-music-hall",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 890,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Sage And Spirit",
+      "Little Sadie",
+      "Jerry Garcia Interview"
+     ],
+     "first_in_archive": [
+      "Frankin & Davis preshow",
+      "Brent Intros \"Frank & David",
+      "ambiance",
+      "Jerry’s Kids Telethon",
+      "Steve Parrish Interview #1",
+      "Are You Too High",
+      "Hassles In Hempstead",
+      "Drummers Interview",
+      "Bathroom Navigation",
+      "Drug Warning #1",
+      "Jerry's Kids Update",
+      "Deadheads",
+      "Dr. Henry Kissinger",
+      "Jerry's Kids Update",
+      "Sharon Interview",
+      "Brunswick Check Presentation",
+      "Jerry's Kids Update/Missing Finger",
+      "Trivia Question",
+      "Steve Parrish Interview #2",
+      "Phil Lesh Interview",
+      "Trivia Question",
+      "Brent Mydland Interview",
+      "Trivia Question",
+      "Jerry's Kids Update",
+      "Drug Warning #2",
+      "More Brunswick & Tripping Tom",
+      "Frankin & Davis outro & crowd"
+     ],
+     "show_number": 986,
+     "shows_in_archive": 2097,
      "songs": 58,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Frankin & Davis"
@@ -1635,16 +2221,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.780330+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.005486+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "hHQDSUJ_6GulCMwbnpm2kX_gKk4PsW89PdH9PkPCuVxMwgMb4uA6_fS4e0pSvGYKsneTxzDIDnzvid9jwYTeBA",
+   "revision": 43,
+   "signature": "pN3xWP55zArSBpqr9IMWswDhUB5W_DGZWM575WkSOXbb83IqWHgKP3QnV7v6QgL6-Y_StANHnM2c1HtmLEvYCA",
    "subject_key": "live:grateful-dead:1980-10-31:radio-city-music-hall",
-   "updated_at": "2026-10-25T16:41:53.781688"
+   "updated_at": "2026-10-25T17:35:17.007357"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cassidy** (1 review): Hypnotic version of Cassidy and Birdsong performed in the acoustic set [20]\n- **Fire On The Mountain** (1 review): Fire On The Mountain through the end is nearly perfect; aquatic feeling to transition [20]\n\n## The recordings\n\n- **gd1980-10-31.140416.sbd.bershaw.flac16** (recommended): soundboard; 58 songs; 283 min; rated 4/5 by 1 [1]\n- **gd1980-10-31.prefm.cousinit-edited.patched.83158.sbeok.flac16**: pre-FM broadcast master; 30 songs; 199 min; rated 4/5 by 6 [6]\n- **gd80-10-31.sbd-preFM.cousinit.20377.sbeok.shnf**: pre-FM broadcast master; 29 songs; 187 min; rated 3.7/5 by 23 [7]. Said about its sound: Recording contains lots of hiss, indicating multiple cassette generations were used; Both sets sound clear as a bell, with no significant hiss on electric [18][21]\n- **gd80-10-31.wise.larson.1955.sbeok.shnf**: audience recording; 30 songs; 196 min; rated 4.64/5 by 11 [8]. Said about its sound: Audience recording presents the show better than the circulating soundboard version; Post-drums segment stands out, with perfect lead from space into fire; Drums file has a lot of drop-outs, even after downloading twice [17][26]\n- **gd1980-10-31.nak700.rolfe.miller.94270.sbeok.flac16**: source not stated; 29 songs; 200 min [10]\n- **gd1980-10-31.137840.partial.sbd.happyjack.sirmick.sbeok.flac24**: soundboard; 14 songs; 100 min [13]\n\n## Around the show\n\n- Stage talk about: Frankin & Davis [1]\n- Listener waited until Halloween night to try Acid for the first time [27]\n- Final electric set is brilliant, unlike the chopped version on Dead Set [25]\n\n## Tapers and lineage\n\n- **gd1980-10-31.140416.sbd.bershaw.flac16**: taped by Alan Bershaw; transferred by Alan Bershaw; source: Source: 10” 1/4 track SBD Feed Master Reels @ 7.5ips; [1]. Also: Previously uncirculated soundboard direct recording of the FM Broadcast and Close Circuit TV [1]\n- **gd1980-10-31.prefm.cousinit-edited.patched.83158.sbeok.flac16**: transferred by Bill Tetzeli; source: Acoustic: PreFM>MSR>R>C>DAT>WAV>SHN; Electric: MSR>R>C>DAT>WAV>SHN [6]. Also: Master AUD Sony ECM-280/D-5 transferred via cassette, PCM, ZA2, CD, EAC to SHN; Drums patched with circulating DVD audio source; multiple dropouts and splices repaired [6]\n- **gd80-10-31.sbd-preFM.cousinit.20377.sbeok.shnf**: transferred by Cousinit; source: Soundboard [7]\n- **gd80-10-31.wise.larson.1955.sbeok.shnf**: taped by Jim Wise; source: Audience Recording: Sony ECM-280/D-5 [8]\n- **gd1980-10-31.nak700.rolfe.miller.94270.sbeok.flac16**: taped by Steve Rolfe; transferred by Charlie Miller; source: Nakamichi 700 -> Master Cassette (Sony D5/Maxell UDXL-I & UDXL-II/Dolby B) [10]. Also: Sony ECM-280 master cassette transferred to PCM and CD, with seamless disc changes [10]\n- **gd1980-10-31.137840.partial.sbd.happyjack.sirmick.sbeok.flac24**: taped by HappyJack; transferred by SIRMick; source: Source: Soundboard (monitor mix) > Sony TC-D5 > cassette (2nd gen); Taped by Happy Jack and friend; [13]. Also: Master was stolen years ago; pops from loose jack plug removed; All tracks pitch corrected, with level adjustments and noise reduction applied [13]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Radio City Music Hall - October 31, 1980](https://www.dead.net/show/october-31-1980) [30]",

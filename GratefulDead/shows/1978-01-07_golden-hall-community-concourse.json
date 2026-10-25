@@ -281,7 +281,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -297,8 +297,8 @@
     "guests": [],
     "next": {
      "date": "1978-01-08",
-     "show": "live:grateful-dead:1978-01-08:golden-hall-san-diego-community-concourse",
-     "venue": "Golden Hall - San Diego Community Concourse"
+     "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse",
+     "venue": "Golden Hall, Community Concourse"
     },
     "previous": {
      "date": "1978-01-06",
@@ -465,109 +465,279 @@
     "setlist": [
      {
       "key": "song:grateful-dead:absolutely-perfect-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "absolutely perfect\"/tuning"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 64,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 54,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-12-29",
+        "show": "live:grateful-dead:1977-12-29:winterland-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-11-06",
+        "show": "live:grateful-dead:1977-11-06:broome-county-arena"
+       },
+       "plays_before": 179,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 326,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:bobby-chatter-jerrys-problem",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby chatter: \"Jerry's problem"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 117,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:el-paso",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 233,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 75,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 185,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 201,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1977-10-11",
+        "show": "live:grateful-dead:1977-10-11:lloyd-noble-center-u-of-oklahoma"
+       },
+       "plays_before": 87,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 82,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 256,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 330,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 206,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 122,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 147,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -575,40 +745,61 @@
      {
       "from": "gd1978-01-07.sbd.clugston.7204.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-11-06",
+        "show": "live:grateful-dead:1977-11-06:broome-county-arena"
+       },
+       "plays_before": 53,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1978-01-07.152609.sbd.miller.flac1644",
       "key": "song:grateful-dead:new-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-11-04",
+        "show": "live:grateful-dead:1977-11-04:cotterrell-gym-colgate-u"
+       },
+       "plays_before": 4,
+       "total_plays": 13
+      },
       "title": "New New Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1978-01-07:golden-hall-community-concourse",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 650,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "absolutely perfect\"/tuning",
+      "Bobby chatter: \"Jerry's problem"
+     ],
+     "show_number": 742,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Golden Hall, Community Concourse"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 12,
+   "parent_revision": 24,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.291701+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.261850+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 13,
-   "signature": "jFSbVD69joPXKT0pTGN2eH_yHM5sppBCzLLjT-jhSOTwHP03KAgf-sQCmv2cUt9aRgL78U15pf8MpaDTIPQPAg",
+   "revision": 25,
+   "signature": "sVi7bRgn5YsZiJxvPnGGWQGmv_mGf60m5kz_pTA3x_4iT4iIn1tdq_OCL5j46cKrddc25YcnANF3o9nvxqtGAQ",
    "subject_key": "live:grateful-dead:1978-01-07:golden-hall-community-concourse",
-   "updated_at": "2026-10-25T16:41:51.293476"
+   "updated_at": "2026-10-25T17:35:15.262621"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Not Fade Away** (2 reviews): Uses an unusually wide range of sounds and effects compared with other versions the reviewer has heard; Described as an epic version that lifts the show's quality [6][11]\n- **Cassidy** (1 review): Garcia plays with intense energy before the band returns to the seabird-flight ending [8]\n- **Passenger** (1 review): Garcia plays hot slide guitar [8]\n- **Looks Like Rain** (1 review): A gentle reading, with sparse instrumentation during the jam [7]\n- **Let It Grow** (1 review): Garcia's guitar playing makes up for his lack of vocals [17]\n- **Jack Straw** (1 review): Singled out as a hot performance [17]\n\n## The recordings\n\n- **gd1978-01-07.aud.unknown.89474.sbeok.flac16** (recommended): audience recording; 20 songs; 159 min; rated 3.67/5 by 15 [1]. Said about its sound: The audience recording sounds good, apart from Garcia's missing voice; The taper's deck was turned off between many songs, causing abrupt track transitions [1][15]\n- **gd1978-01-07.127345.mtx.dusborne.flac16**: matrix (soundboard mixed with audience mics); 18 songs; 168 min; rated 4.33/5 by 3 [3]\n- **gd78-01-07.sbd.cotsman.17806.sbeok.shnf**: matrix (soundboard mixed with audience mics); 18 songs; 164 min; rated 4.15/5 by 13 [4]. Said about its sound: The mix on this matrix is lacking [7]\n- **gd1978-01-07.sbd.clugston.7204.sbeok.shnf**: soundboard; 18 songs; 162 min; rated 4.5/5 by 2 [2]\n\n## Around the show\n\n- Garcia had laryngitis, so his guitar playing stood in for his singing all night [6]\n- Garcia's guitar wails, but his vocals are absent [11]\n- The show is essentially an all-Bobby vocal evening, possibly because Garcia lost his voice [13]\n- Garcia had laryngitis [15]\n- A former Golden Hall worker says the events manager, last to leave that night, saw a man in a black suit and bowler hat on the top riser [16]\n- No Garcia vocals because of laryngitis [3]\n- Recommends the 8th over this night if you download only one show from the run; its recording is better [7]\n\n## Tapers and lineage\n\n- **gd1978-01-07.aud.unknown.89474.sbeok.flac16**: transferred by Pantagruel; source: audience recording on a Marantz pro cassette deck, don't recall the model) & Sennheiser MKH404 mics [1]. Also: Quiet passages suggest a couple of analog generations in the lineage [1]\n- **gd1978-01-07.127345.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by dusborne; Soundboard (shnid:17806) SBD>MC>R>D>CD>EAC>SHN patched with: AUD>?>CD>EAC>SHN final edits/encoding by JCotsman and Audience… [3]. Also: This is a matrix FLAC release with show information embedded in each file's header [3]\n- **gd78-01-07.sbd.cotsman.17806.sbeok.shnf**: source: Soundboard with audience patches [4]\n- **gd1978-01-07.sbd.clugston.7204.sbeok.shnf**: transferred by Scott Clugston; source: Master Soundboard Cassette > Reel to Reel > DAT> CDR [2]",

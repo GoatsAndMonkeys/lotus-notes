@@ -258,7 +258,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -440,122 +440,338 @@
     "setlist": [
      {
       "key": "song:grateful-dead:masons-children",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-01-01",
+        "show": "live:grateful-dead:1970-01-01:studio-workingmans-dead-outtakes"
+       },
+       "plays_before": 7,
+       "total_plays": 19
+      },
       "title": "Mason's Children"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 31,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 14,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-01",
+        "show": "live:grateful-dead:1970-01-01:unknown"
+       },
+       "plays_before": 30,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 36,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 14,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 73,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 74,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 78,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 73,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:aoxomoxoa-outtakes"
+       },
+       "plays_before": 23,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-01-01",
+        "show": "live:grateful-dead:1970-01-01:studio-workingmans-dead-outtakes"
+       },
+       "plays_before": 8,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 36,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-01",
+        "show": "live:grateful-dead:1970-01-01:unknown"
+       },
+       "plays_before": 22,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:easy-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 18,
+       "total_plays": 43
+      },
       "title": "Easy Wind"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:aoxomoxoa-outtakes"
+       },
+       "plays_before": 40,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 37,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 22,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 43,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1969-12-26",
+        "show": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u"
+       },
+       "plays_before": 2,
+       "total_plays": 44
+      },
       "title": "Monkey & The Engineer"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 90,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:aoxomoxoa-outtakes"
+       },
+       "plays_before": 84,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:aoxomoxoa-outtakes"
+       },
+       "plays_before": 86,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-28",
+        "show": "live:grateful-dead:1969-12-28:international-speedway"
+       },
+       "plays_before": 99,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -563,19 +779,31 @@
      {
       "from": "gd1970-01-02.137375.sbd.wise.sirmick.sbeok.flac16",
       "key": "song:grateful-dead:broken-string",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "broken string"
      },
      {
       "from": "gd70-01-02.late.sbd.hanno.12624.sbefail.shnf",
       "key": "song:grateful-dead:zarathustra",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Zarathustra"
      },
      {
       "from": "gd70-01-02.late.sbd.hanno.12624.sbefail.shnf",
       "key": "song:grateful-dead:masons",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Mason's"
      }
     ],
@@ -583,10 +811,10 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 177,
-     "shows_in_archive": 1855,
+     "show_number": 217,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Zarathustra"
@@ -595,16 +823,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 23,
+   "parent_revision": 35,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.641000+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.344605+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 24,
-   "signature": "MRRTHfATVVesdXL4PvX58XD2IkKYZX8NEkA0oDVD-sm-LpxAY8ETTgNbKDDF_G5L4GRF-gx7RoHypwCyGuwbDQ",
+   "revision": 36,
+   "signature": "Y_VZNkcbirFOCIvT6CZ1H1kx3eDGQpEeFR8gz_xtlJQFBYBNsK0Wv1WDRuH16dEhNkQg2I71gXd_-WVqBe9EDw",
    "subject_key": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows",
-   "updated_at": "2026-10-25T16:41:39.642164"
+   "updated_at": "2026-10-25T17:35:10.345626"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (4 reviews): The late show features one of the last Dark Stars with Tom Constanten, sounding like Seastones; The jam begins with ten minutes of alien silence before emerging into one of their hottest performances [8][13][14][15]\n- **Turn On Your Lovelight** (2 reviews): Lovelight especially rages, providing a strong finish despite a cut in St. Stephen; Pigpen and Bobby are on, working together to close the show with a bang [15][16]\n- **Mason's Children** (1 review): This performance matches the brilliant version found on the Fallout from the Phil zone release [5]\n- **High Time** (1 review): High Time is very well executed, likely the reviewer's favorite version of the song [14]\n- **St. Stephen** (1 review): The transition into St. Stephen is described as the funkiest version they ever played [13]\n- **The Eleven** (1 review): The Eleven is described as a powerhouse performance, while Lovelight provides a perfect rave-up ending [6]\n\n## The recordings\n\n- **gd70-01-02.early-late.sbd.cotsman.18120.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 182 min; rated 4.21/5 by 46 [1]\n- **gd1970-01-02.137375.sbd.wise.sirmick.sbeok.flac16**: soundboard; 25 songs; 180 min; rated 3.33/5 by 9 [2]\n- **gd70-01-02.late.sbd.hanno.12624.sbefail.shnf**: soundboard; 13 songs; 71 min; rated 2.67/5 by 6 [3]\n- **gd70-01-02.partial-early.sbd.86.sbefail.shnf**: soundboard; 4 songs; 35 min; rated 4.5/5 by 22 [4]. Said about its sound: The recording quality is superb, with Dark Star featuring unique layering from the 19-minute mark; Cymbals, maracas, and snare drum are right up front in this astounding recording quality; Hiss from the original tape is present, making it a sick recording to listen to with lights out [6][7][12]\n\n## Around the show\n\n- Stage talk about: Zarathustra [1]\n- Reviewer questions if Tom Constanten and Micky Hart were with the band, comparing organ styles [7]\n- Band walked on stage to 2001 theme, purple screen background, and white block letters [18]\n- The file labeled late is actually the Early show, according to deadlists.com evidence [8]\n\n## Tapers and lineage\n\n- **gd70-01-02.early-late.sbd.cotsman.18120.sbeok.shnf**: source: Soundboard [1]. Also: Thanks to A. Lemiex, Uli, and Hanno for the early and late show matrix [1]\n- **gd1970-01-02.137375.sbd.wise.sirmick.sbeok.flac16**: taped by Jim Wise; transferred by SIRMick; source: Soundboard > 7 1/2' Reel Master @ 7.5 ips (Recorded By Bear on a Sony 770 Reel Deck) > 1st gen (TDK SAX-100 cassette) from Dick Latvala (Master Reel Playback… [2]. Also: Setlist relabeled Early in 2001 based on witness account, but later evidence supports Late show [2]\n- **gd70-01-02.late.sbd.hanno.12624.sbefail.shnf**: source: Soundboard [3]. Also: SBD plus AUD patches, sourced via Hanno Bunjes and Uli Teute for the late show [3]\n- **gd70-01-02.partial-early.sbd.86.sbefail.shnf**: transferred by Stephen Windsor; source: Soundboard [4]. Also: SBD to MR to DAT to CDR to EAC, via S. Windsor and D. Sacks [4]",

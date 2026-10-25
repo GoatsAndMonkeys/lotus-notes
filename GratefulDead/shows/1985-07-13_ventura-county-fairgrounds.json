@@ -535,7 +535,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -616,8 +616,8 @@
     },
     "previous": {
      "date": "1985-07-02",
-     "show": "live:grateful-dead:1985-07-02:pittsburgh-civic-arena",
-     "venue": "Pittsburgh Civic Arena"
+     "show": "live:grateful-dead:1985-07-02:civic-arena",
+     "venue": "Civic Arena"
     },
     "recommended": {
      "identifier": "gd85-07-13.sbd.georges.372.sbefail.shnf",
@@ -1049,111 +1049,291 @@
     "setlist": [
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-06-22",
+        "show": "live:grateful-dead:1985-06-22:alpine-valley-music-theater"
+       },
+       "plays_before": 251,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 160,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 7,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 61,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 256,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 309,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-28",
+        "show": "live:grateful-dead:1985-06-28:hershey-park-stadium"
+       },
+       "plays_before": 178,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-28",
+        "show": "live:grateful-dead:1985-06-28:hershey-park-stadium"
+       },
+       "plays_before": 147,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 58,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 79,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 156,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 885,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 548,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 116,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 129,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 415,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-28",
+        "show": "live:grateful-dead:1985-06-28:hershey-park-stadium"
+       },
+       "plays_before": 48,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 313,
+       "total_plays": 425
+      },
       "title": "Around and Arond"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 448,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 230,
+       "total_plays": 329
+      },
       "title": "U.S Blues"
      }
     ],
@@ -1161,37 +1341,91 @@
      {
       "from": "gd1985-07-13.nak300.tonys.77489.sbeok.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 67,
+       "total_plays": 182
+      },
       "title": "Man Smart, Women Smarter"
      },
      {
       "from": "gd1985-07-13.senn441.mccue.ford.89032.sbeok.flac16",
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 69,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "from": "gd1985-07-13.152826.beyerm88-pinney-holbrook.flac2448",
       "key": "song:grateful-dead:encore-u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 15,
+       "total_plays": 21
+      },
       "title": "Encore U.S. Blues"
      },
      {
       "from": "gd1985-07-13.sbd.walker-scotton.miller.106193.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 66,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "from": "gd1985-07-13.133534.aud.Holtz.NakCM104.flac2496",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 79,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1985-07-13.133534.aud.Holtz.NakCM104.flac2496",
       "key": "song:grateful-dead:round-and-round",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 4,
+       "total_plays": 8
+      },
       "title": "Round & Round"
      }
     ],
@@ -1199,26 +1433,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1228,
-     "shows_in_archive": 1855,
+     "show_number": 1331,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ventura County Fairgrounds"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.517320+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.723880+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "GvBiS46rMChHtbrljJhqOS1LmE__65P3XZG-BvmcXK6gUT9h1b8qQxiQae8GW6TY5I-46SPhMiMyi6-lN4voAg",
+   "revision": 42,
+   "signature": "r2vNHWkosLzMA5wjd5zWD94XXlzcB0gNStyidff8PYfWnY3UzBSWgXSzBxeVNIrby140ONBErKl-CSSHnhz5Dg",
    "subject_key": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds",
-   "updated_at": "2026-10-25T16:42:00.519041"
+   "updated_at": "2026-10-25T17:35:20.724959"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Fire On The Mountain** (3 reviews): Reviewer was spellbound by Fire On The Mountain right through to its final notes; Reviewer defends Fire On The Mountain as a terrific song, citing its lyrics and ancient-sounding beat [18][20][24]\n- **One More Saturday Night** (1 review): Reviewer found the One More Saturday Night into Fire opening sequence wild [21]\n- **Bird Song** (1 review): Reviewer says Bird Song is good here, as in every version heard [24]\n- **Cryptical Envelopment** (1 review): Reviewer says the band played Cryptical Envelopment for the first time in years [25]\n- **Comes A Time** (1 review): Reviewer was won over especially by Comes A Time [24]\n\n## The recordings\n\n- **gd85-07-13.sbd.georges.372.sbefail.shnf** (recommended): soundboard; 20 songs; 145 min; rated 4.29/5 by 42 [1]. Said about its sound: Reviewer praises the soundboard as clear; Reviewer finds the soundboard very clear and a surprise in quality; Reviewer calls the soundboard crystal clear [1][15][16][18][19][26]\n- **gd1985-07-13.nak300.tonys.77489.sbeok.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 148 min; rated 4.33/5 by 3 [2]. Said about its sound: Taper describes strong bass and Ventura's Pacific wind rumble; Taper applied a small high-pass filter and adjusted azimuth to reduce wind rumble and high-end wind push [2]\n- **gd1985-07-13.senn441.mccue.ford.89032.sbeok.flac16**: source not stated; 21 songs; 148 min; rated 4/5 by 2 [3]. Said about its sound: Distortion, mostly in set two, comes from a blown amp of Phil's [3]\n- **gd1985-07-13.BeyerM160.connor.76913.sbeok.flac16**: source not stated; 20 songs; 146 min; rated 3/5 by 3 [4]. Said about its sound: Static, mostly in set two, is from Phil's bass and was common on this summer tour [4]\n\n## Around the show\n\n- Reviewer recalls photos showing gusty winds at the show [21]\n- Reviewer says wind howled that day and whipped around the stage [26]\n- Taper's niece Edris met Bear at this show and he got her backstage [4]\n- Reviewer says the setlist avoids the usual song choices and feels special [19]\n- Reviewer says the band played cleaner and rocked harder in 1985, their 20th anniversary, than in other 1980s years [20]\n\n## Tapers and lineage\n\n- **gd85-07-13.sbd.georges.372.sbefail.shnf**: source: SBDmc> DAT> CD> eac> cool edit> shn [1]. Also: Soundboard master cassette to DAT to CD, then EAC, Cool Edit and shn, via N. Georges [1]\n- **gd1985-07-13.nak300.tonys.77489.sbeok.flac16**: taped by Tony Suraci; transferred by Tony Suraci; source: Nakamichi CM301's(split)>Sony D5M Directly behind SBD, one stand at each corner at 10 ft. [2]. Also: Nak 300 audience recording with split mics because the soundboard was high and directly in front of the taper [2]\n- **gd1985-07-13.senn441.mccue.ford.89032.sbeok.flac16**: taped by Adam; transferred by Alex Ford; source: 2 x Sennheiser 441 > Sony D5 > Sony D5 > 2 x Maxell MX 90 [3]. Also: Master audience cassettes from Mark McCue; 24-bit transfer and editing by Alex Ford in December 2007 [3]\n- **gd1985-07-13.BeyerM160.connor.76913.sbeok.flac16**: taped by Jim Vita and Charlie Connor; transferred by Charlie Connor; source: FOB>(Jim Vita's)Beyer Dynamic M160's>Sony TCD5M >Sony TCD5M (Charlie Connor's CM - TDK MA90's) [4]. Also: Front-of-board audience recording with Beyer M160 mics, dedicated to Jim Vita, who let the taper patch from his position [4]\n\n## Art and photos\n\n- Poster by John Richards Grateful Dead: [1985-07-13 Ventura County Fairgrounds, Ventura, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-07-13-ventura-county-fairgrounds-ventura-ca-usa/) [28]\n- Poster by Worthpoint: [GratefuL Dead Ventura FairgroundS 1985 FLYer | #4620409115](https://www.worthpoint.com/worthopedia/grateful-dead-ventura-fairgrounds-4620409115) [29]\n- Poster by Brian Baumwoll Grateful Dead: [1985-07-14 Ventura County Fairgrounds, Ventura, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-07-14-ventura-county-fairgrounds-ventura-ca-usa/) [30]\n- Poster by John Richards Grateful Dead: [1985-07-13 Ventura County Fairgrounds, Ventura, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-07-13-ventura-county-fairgrounds-ventura-ca-usa/) [31]",

@@ -411,7 +411,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -427,13 +427,13 @@
     "guests": [],
     "next": {
      "date": "1976-06-21",
-     "show": "live:grateful-dead:1976-06-21:tower-theater",
-     "venue": "Tower Theater"
+     "show": "live:grateful-dead:1976-06-21:tower-theatre",
+     "venue": "Tower Theatre"
     },
     "previous": {
      "date": "1976-06-18",
-     "show": "live:grateful-dead:1976-06-18:capitol-theatre",
-     "venue": "Capitol Theatre"
+     "show": "live:grateful-dead:1976-06-18:capitol-theater",
+     "venue": "Capitol Theater"
     },
     "recommended": {
      "identifier": "gd76-06-19.prefm.unknown.12077.sbeok.shnf",
@@ -746,147 +746,399 @@
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 120
+      },
       "title": "Help on the Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 13,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 15,
+       "total_plays": 246
+      },
       "title": "Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 115,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 54,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 67,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 150,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-06-14",
+        "show": "live:grateful-dead:1976-06-14:beacon-theatre"
+       },
+       "plays_before": 226,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-15",
+        "show": "live:grateful-dead:1976-06-15:beacon-theatre"
+       },
+       "plays_before": 7,
+       "total_plays": 114
+      },
       "title": "Might as Well"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-06-14",
+        "show": "live:grateful-dead:1976-06-14:beacon-theatre"
+       },
+       "plays_before": 61,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 58,
+       "total_plays": 294
+      },
       "title": "Let it Grow"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 259,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 58,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 53,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Streets"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-06-14",
+        "show": "live:grateful-dead:1976-06-14:beacon-theatre"
+       },
+       "plays_before": 43,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 84,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 265,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 142,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1976-06-03",
+        "show": "live:grateful-dead:1976-06-03:paramount-theatre"
+       },
+       "plays_before": 125,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 351
+      },
       "title": "Cassidy (6/12/76)"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 150,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed (6/12/76)"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 58,
+       "total_plays": 294
+      },
       "title": "Let It Grow (6/12/76)"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 81,
+       "total_plays": 417
+      },
       "title": "Wharf Rat (6/12/76)"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 81,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-06-12",
+        "show": "live:grateful-dead:1976-06-12:boston-music-hall"
+       },
+       "plays_before": 24,
+       "total_plays": 72
+      },
       "title": "Comes A Time (6/12/76)"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-17",
+        "show": "live:grateful-dead:1976-06-17:capitol-theater"
+       },
+       "plays_before": 53,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Streets (6/12/76)"
      }
     ],
@@ -894,43 +1146,91 @@
      {
       "from": "gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf",
       "key": "song:grateful-dead:slipnot",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Slipnot!"
      },
      {
       "from": "gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 701,
+       "gap_shows": 60,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 8,
+       "total_plays": 36
+      },
       "title": "Playin"
      },
      {
       "from": "gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf",
       "key": "song:grateful-dead:dancin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dancin"
      },
      {
       "from": "gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "days_since": 311,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1975-08-13",
+        "show": "live:grateful-dead:1975-08-13:great-american-music-hall"
+       },
+       "plays_before": 8,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 265,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 4,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      },
      {
       "from": "gd1976-06-19.143275.fm.glassberg.warburton.smith.sirmick.flac2496",
       "key": "song:grateful-dead:richard-neer-and-john-scher",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Richard Neer (radio presenter) and John Scher (promoter)"
      },
      {
       "from": "gd1976-06-19.143275.fm.glassberg.warburton.smith.sirmick.flac2496",
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 167,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -938,26 +1238,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 556,
-     "shows_in_archive": 1855,
+     "show_number": 644,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.017814+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.587650+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "mijT5-dyvuhvtL1rYCoCwmyyU57SiLv62uJEG0MS2pkG26oUsLpwUGafJI_ttzc6EadKh3t4AcDs7Tuf_v5PAA",
+   "revision": 33,
+   "signature": "6tirjQyuSSXOajHFT-Ryz-WY_Qm1suvU1PFp1Ded0W1602tsnqmvFE91U624UM9YMShhxRGDs6a7-TDtGH3RCw",
    "subject_key": "live:grateful-dead:1976-06-19:capitol-theater",
-   "updated_at": "2026-10-25T16:41:49.023627"
+   "updated_at": "2026-10-25T17:35:14.588736"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Brown Eyed Women** (1 review): Described as probably the coolest version, with best transitions from Franklin's [21]\n- **Cassidy** (1 review): Described as picture perfect and likely the reviewer's favorite performance [11]\n- **High Time** (1 review): Extremely emotional performance with Jerry's voice pouring from the heart [13]\n\n## The recordings\n\n- **gd76-06-19.prefm.unknown.12077.sbeok.shnf** (recommended): pre-FM broadcast master; 28 songs; 196 min; rated 4.17/5 by 18 [1]. Said about its sound: Fantastic quality highlights the band's enjoyment and tight playing that night; Sound rated B- due to missing bass from the subwoofer channel; Decent sound but lacks bass; Phil sounds distant and mix feels far away [11][12][14][18][20]\n- **gd1976-06-19.prefm.nickspicks.10186.shnf**: pre-FM broadcast master; 21 songs; 176 min; rated 4.8/5 by 5 [3]\n- **gd1976-06-19.143275.fm.glassberg.warburton.smith.sirmick.flac2496**: FM broadcast; 21 songs; 181 min; rated 5/5 by 1 [4]. Said about its sound: Small bursts of static during Set II were in the broadcast, not the tape [4]\n- **gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf**: soundboard; 21 songs; 169 min [2]\n\n## Around the show\n\n- Something happens during the Let It Grow jam leading into another song [13]\n- Onstage member shouts 'woo hoo' in response to Jerry's solo during Franklin's [14]\n- The concert was the listener's wife's first show with the band [15]\n- Listener recalls watching Jerry and Bob communicate from various seating positions [17]\n- Live broadcast from Capitol Theatre, Passaic, NJ, missing the encore [3]\n- Less energetic than the June 9th, 1976 show earlier in the tour [12]\n- Part of a string of shows spanning almost four years of near-daily performances [21]\n\n## Tapers and lineage\n\n- **gd76-06-19.prefm.unknown.12077.sbeok.shnf**: source: Soundboard [1]. Also: Superb FM source recorded on a 100-minute metal tape, covering Let It Grow onwards; Seeder is unknown for this specific pre-FM broadcast master file [1][18]\n- **gd1976-06-19.prefm.nickspicks.10186.shnf**: transferred by Nick Georges; source: SBD master reel > DAT > CD (x2) > EAC (secure) > SHN (non seekable) [3]. Also: Discs acquired in a trade with Mike French for hard-to-find pre-1977 material [3]\n- **gd1976-06-19.143275.fm.glassberg.warburton.smith.sirmick.flac2496**: taped by Barry Glassberg; transferred by Jimmy Warburton and Matt Smith and Sirmick; source: WNEW FM > Teac A3300 7.5 ips Dolby > Master Reel (Scotch Classic 3600 10,5) > Teac A3300 > Reel 1 @3.75 ips (Maxell UD35-90) - Recorded by Barry Glassberg,… [4]. Also: FM broadcast from WOUR Utica and WNEW New York, with static removed [4]\n- **gd1976-06-19.fm-sbd.seff.1859.sbeok.shnf**: taped by Unknown; transferred by Jon Seff; source: FM > ? > DAT [2]",

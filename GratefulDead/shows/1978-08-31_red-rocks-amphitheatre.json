@@ -338,7 +338,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -598,104 +598,265 @@
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 92,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 248,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 67,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 65,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 96,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 221,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-08-18",
+        "show": "live:grateful-dead:1978-08-18:studio"
+       },
+       "plays_before": 3,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-08-18",
+        "show": "live:grateful-dead:1978-08-18:studio"
+       },
+       "plays_before": 192,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 64,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 109,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 47,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 269,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 374,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:ollin-arrageed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 14
+      },
       "title": "Ollin Arageed"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 224,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 101,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 286,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 131,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -703,52 +864,91 @@
      {
       "from": "gd1978-08-31.145138.nak301.severson.miller.clugston.flac2496",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 83,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1978-08-31.158061.aud.hicks-fong.flac2448",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 109,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 96,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd1978-08-31.158061.aud.hicks-fong.flac2448",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 11,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd78-08-31.aud-sbd.miller.20726.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 66,
+       "total_plays": 1290
+      },
       "title": "Space"
      }
     ],
     "subject_key": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 699,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "From The Heart Of Me",
+      "Ollin Arageed"
+     ],
+     "show_number": 793,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.187348+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.593995+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "1Blwh6uISBCQlYiWAD_X9TjF9TGqFUTQweQU6vf1Q_ZCwnqxyIyiZchqrHxE8IxSkGb-E7wuNiOH95GXl4A9DQ",
+   "revision": 41,
+   "signature": "ujY9Seq2CpaBToZz-SicWAeJrU27wDDdTxvUhY3BXQEorEraXUVE4Hzf8aZLVAVOh7OYCH5IBAzFvkEnKXeeDw",
    "subject_key": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:41:52.188924"
+   "updated_at": "2026-10-25T17:35:15.594749"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (3 reviews): Jerry delivers a funky, raw first rendition with great vocals, easy to picture the awed Red Rocks crowd; Per DeadBase 7, this show has the first Shakedown Street [9][13][18]\n- **Not Fade Away** (1 review, 2 other sources): The Not Fade Away into Black Peter stretch is the reviewer's favorite part of the show; Not Fade Away contains a Nobody's Fault But Mine jam [1][2][12]\n- **Good Lovin'** (2 reviews): Bobby talks the band and audience through the transition from Shakedown Street into Good Lovin'; Less precise than the Shakedown Street before it [9][10]\n- **Terrapin Station** (2 reviews): The cut in this version spoils the arrival, so the reviewer never hears the whistle scream; Garcia snarls out parts of the lyrics in this version [8][10]\n- **Mississippi Half-Step Uptown Toodeloo** (1 review): Opens with strong harmonies on the 'grand-eo' line, followed by a nice long jam [12]\n- **Minglewood Blues** (1 review): Bob throws fuel on the fire in a great version [12]\n- **From The Heart Of Me** (1 review): Per DeadBase 7, this show also has the first From The Heart Of Me [13]\n- **Ollin Arageed** (1 review): The space became known as Ollin Arageed, a groove apparently worked up for the Egypt shows weeks later [19]\n\n## The recordings\n\n- **gd1978-08-31.sbd.miller.125882.flac16** (recommended): soundboard; 19 songs; 171 min; rated 3.4/5 by 5 [1]\n- **gd1978-08-31.145138.nak301.severson.miller.clugston.flac2496**: audience recording; 19 songs; 177 min [2]\n- **gd1978-08-31.158061.aud.hicks-fong.flac2448**: audience recording; 19 songs; 158 min [4]. Said about its sound: Half Step through Candyman is unlistenable; sound improves once the tapers moved closer; Some tracks clip in abruptly because the deck was turned on late [4]\n- **gd78-08-31.aud-sbd.miller.20726.sbeok.shnf**: matrix (soundboard mixed with audience mics); 17 songs; 155 min; rated 3.92/5 by 12 [5]. Said about its sound: The matrix has good sound, making this the first Shakedown in such quality [13]\n- **gd78-08-31.aud.wiley.11480.sbeok.shnf**: audience recording; 17 songs; 151 min; rated 3.14/5 by 7 [6]. Said about its sound: Audience recording has a nasty cut in Terrapin just as the train pulls into the station, hiding the whistle; The audience recording is judged a nice one [8][9]\n- **gd1978-08-31.sbd-set2.wiley.11477.sbeok.shnf**: soundboard; 7 songs; 72 min; rated 4/5 by 1 [7]. Said about its sound: Ship of Fools has moderate hiss that fades as the track goes on; Terrapin has a dropout at 7:39, with about 30 seconds removed [7]\n\n## Around the show\n\n- Reviewer recalls the previous night, 8/30/78, and a big puddle the crowd made that night [15]\n- Reviewer's carload from Yellowstone reached the venue at 3 pm on showday; four of six were at their first Dead show [17]\n- Kids from the previous night's show said Stagger Lee had first appeared then [17]\n- Reviewer calls Shakedown Street the Dead's first and perhaps only truly disco song, a year after Saturday Night Fever [18]\n\n## Tapers and lineage\n\n- **gd1978-08-31.sbd.miller.125882.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Maxell UDXLI-C90) [1]. Also: Soundboard transfer was pitch-corrected with help from Joe B. Jones; Encore comes from extra analog generations, supplied by Matt Smith [1]\n- **gd1978-08-31.145138.nak301.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Nakamichi 301 mics (row 20, seats 77-80)(patched out of Barry Glassberg) > Sony TC-158SD (Maxell UDXLII) [2]. Also: T. Wiley's audience source patches Ship Of Fools, Samson, early Terrapin Station, and short bits of Drums and Ollin Arageed [2]\n- **gd1978-08-31.158061.aud.hicks-fong.flac2448**: taped by concert recording by John Hicks & Dennis Fong; transferred by Transferred by Andrew F. 09/2022; source: Handheld deck (mono) > Maxell-XLII [4]. Also: Possibly taped on a Panasonic portable, held up at head level by John [4]\n- **gd78-08-31.aud-sbd.miller.20726.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard and Audience composite [5]\n- **gd78-08-31.aud.wiley.11480.sbeok.shnf**: source: Audience Recording [6]\n- **gd1978-08-31.sbd-set2.wiley.11477.sbeok.shnf**: transferred by Tim Wiley; source: SBD>MR>DAT>CDR (?) [7]. Also: Set two soundboard, Ship of Fools through Not Fade Away, converted and seeded to Etree by T. Wiley in 2002 [7]\n\n## Art and photos\n\n- Poster by Worthpoint: [Grateful Dead Red Rocks Amphitheater Morrison CO 7/8/78 3 CD CD's | #4595269627](https://www.worthpoint.com/worthopedia/grateful-dead-red-rocks-amphitheater-4595269627) [21]",

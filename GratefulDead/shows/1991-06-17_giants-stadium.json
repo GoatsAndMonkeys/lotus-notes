@@ -679,7 +679,7 @@
      "id": 35,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -830,8 +830,8 @@
     "guests": [],
     "next": {
      "date": "1991-06-19",
-     "show": "live:grateful-dead:1991-06-19:pine-knob-music-theatre",
-     "venue": "Pine Knob Music Theatre"
+     "show": "live:grateful-dead:1991-06-19:pine-knob-music-theater",
+     "venue": "Pine Knob Music Theater"
     },
     "previous": {
      "date": "1991-06-16",
@@ -1508,112 +1508,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-06-11",
+        "show": "live:grateful-dead:1991-06-11:charlotte-coliseum"
+       },
+       "plays_before": 333,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-06-11",
+        "show": "live:grateful-dead:1991-06-11:charlotte-coliseum"
+       },
+       "plays_before": 97,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1991-05-05",
+        "show": "live:grateful-dead:1991-05-05:cal-expo"
+       },
+       "plays_before": 319,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-06-14",
+        "show": "live:grateful-dead:1991-06-14:robert-f-kennedy-stadium"
+       },
+       "plays_before": 200,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1991-06-09",
+        "show": "live:grateful-dead:1991-06-09:rich-stadium"
+       },
+       "plays_before": 87,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-06-12",
+        "show": "live:grateful-dead:1991-06-12:charlotte-coliseum"
+       },
+       "plays_before": 49,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-06-06",
+        "show": "live:grateful-dead:1991-06-06:deer-creek-music-center"
+       },
+       "plays_before": 309,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-06-06",
+        "show": "live:grateful-dead:1991-06-06:deer-creek-music-center"
+       },
+       "plays_before": 112,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-06-14",
+        "show": "live:grateful-dead:1991-06-14:robert-f-kennedy-stadium"
+       },
+       "plays_before": 200,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-06-12",
+        "show": "live:grateful-dead:1991-06-12:charlotte-coliseum"
+       },
+       "plays_before": 182,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-06-12",
+        "show": "live:grateful-dead:1991-06-12:charlotte-coliseum"
+       },
+       "plays_before": 212,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-06-14",
+        "show": "live:grateful-dead:1991-06-14:robert-f-kennedy-stadium"
+       },
+       "plays_before": 200,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-06-07",
+        "show": "live:grateful-dead:1991-06-07:deer-creek-music-center"
+       },
+       "plays_before": 488,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-06-07",
+        "show": "live:grateful-dead:1991-06-07:deer-creek-music-center"
+       },
+       "plays_before": 27,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-06-06",
+        "show": "live:grateful-dead:1991-06-06:deer-creek-music-center"
+       },
+       "plays_before": 280,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-06-14",
+        "show": "live:grateful-dead:1991-06-14:robert-f-kennedy-stadium"
+       },
+       "plays_before": 200,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-06-16",
+        "show": "live:grateful-dead:1991-06-16:giants-stadium"
+       },
+       "plays_before": 1321,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-06-16",
+        "show": "live:grateful-dead:1991-06-16:giants-stadium"
+       },
+       "plays_before": 981,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:china-doll",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1991-03-28",
+        "show": "live:grateful-dead:1991-03-28:nassau-veterans-memorial-coliseum"
+       },
+       "plays_before": 105,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-06-11",
+        "show": "live:grateful-dead:1991-06-11:charlotte-coliseum"
+       },
+       "plays_before": 561,
+       "total_plays": 634
+      },
       "title": "Playing in the Band"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-06-07",
+        "show": "live:grateful-dead:1991-06-07:deer-creek-music-center"
+       },
+       "plays_before": 547,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-06-07",
+        "show": "live:grateful-dead:1991-06-07:deer-creek-music-center"
+       },
+       "plays_before": 30,
+       "total_plays": 54
+      },
       "title": "The Weight"
      }
     ],
@@ -1621,91 +1819,196 @@
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:dark-star-jam-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star Jam #1"
      },
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-06-16",
+        "show": "live:grateful-dead:1991-06-16:giants-stadium"
+       },
+       "plays_before": 520,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:dark-star-jam-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star Jam #2"
      },
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:dark-star-jam-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star Jam #3"
      },
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:sounds-from-the-swamp",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sounds from the Swamp"
      },
      {
       "from": "gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-06-11",
+        "show": "live:grateful-dead:1991-06-11:charlotte-coliseum"
+       },
+       "plays_before": 109,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      },
      {
       "from": "gd1991-06-17.137545.sbd.miller.flac24",
       "key": "song:grateful-dead:dark-star-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 445,
+       "gap_shows": 101,
+       "last_played": {
+        "date": "1990-03-29",
+        "show": "live:grateful-dead:1990-03-29:nassau-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 21
+      },
       "title": "Dark Star Jam"
      },
      {
       "from": "gd1991-06-17.aud.andrewf.86660.sbeok.flac16",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-06-11",
+        "show": "live:grateful-dead:1991-06-11:charlotte-coliseum"
+       },
+       "plays_before": 67,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "from": "gd1991-06-17.AKG451.Currier.Keo.122791.Flac1644",
       "key": "song:grateful-dead:dark-star-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Dark Star Tease"
      },
      {
       "from": "gd1991-06-17.AKG451.Currier.Keo.122791.Flac1644",
       "key": "song:grateful-dead:might-as-well-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-06-06",
+        "show": "live:grateful-dead:1991-06-06:deer-creek-music-center"
+       },
+       "plays_before": 22,
+       "total_plays": 23
+      },
       "title": "Might As Well, Set Break"
      },
      {
       "from": "gd1991-06-17.AKG451.Currier.Keo.122791.Flac1644",
       "key": "song:grateful-dead:dark-star-spacey-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star Spacey Jam"
      },
      {
       "from": "gd1991-06-17.AKG451.Currier.Keo.122791.Flac1644",
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 74,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1991-04-04",
+        "show": "live:grateful-dead:1991-04-04:the-omni"
+       },
+       "plays_before": 61,
+       "total_plays": 67
+      },
       "title": "(Drums/Space Added From First Set Tape)"
      },
      {
       "from": "gd1991-06-17.mtx.dan.31606.sbeok.flac16",
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1991-06-09",
+        "show": "live:grateful-dead:1991-06-09:buckeye-lake-music-center"
+       },
+       "plays_before": 32,
+       "total_plays": 71
+      },
       "title": "Masterpiece"
      },
      {
       "from": "gd1991-06-17.mtx.dan.31606.sbeok.flac16",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 270,
+       "gap_shows": 63,
+       "last_played": {
+        "date": "1990-09-20",
+        "show": "live:grateful-dead:1990-09-20:madison-square-garden"
+       },
+       "plays_before": 28,
+       "total_plays": 36
+      },
       "title": "Playin' (Reprise)"
      },
      {
       "from": "gd1991-06-17.170673.me88.mc.rogosa.flac2496",
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-06-07",
+        "show": "live:grateful-dead:1991-06-07:deer-creek-music-center"
+       },
+       "plays_before": 114,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      }
     ],
@@ -1713,26 +2016,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1676,
-     "shows_in_archive": 1855,
+     "show_number": 1781,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Giants Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:16.840406+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.549209+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "1Cjy_wU-8P0E2m3PeDTMc6iOaj5-Ntv3qslOd0i-IQnVnlUY55-zx1-Uvm72k9UabusNfDzlnq48o1IedmB6Dw",
+   "revision": 43,
+   "signature": "4f1bGC2OfT9Zx3si0aIipOsiNs3L6QXseTbocsHTLJvJeGr34XAapgRe1JCkPsyzsDlyj22UPrUlyXV4ZJuSCg",
    "subject_key": "live:grateful-dead:1991-06-17:giants-stadium",
-   "updated_at": "2026-10-25T16:42:16.842775"
+   "updated_at": "2026-10-25T17:35:26.551084"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Eyes Of The World** (1 review): First set opener not played since mid-70s, marking a rare return for the song [24]\n- **New Speedway Boogie** (1 review): Standout performance includes Saint of Circumstance and the Speedway to Uncle John's transition [31]\n- **Uncle John's Band** (1 review): Vince plays wild drums while Bruce responds with nice keyboard runs in the jam [25]\n\n## The recordings\n\n- **gd1991-06-17.128692.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 165 min; rated 4.5/5 by 6 [1]\n- **gd91-06-17.sbd.gardner.3591.sbeok.shnf**: soundboard; 22 songs; 156 min; rated 4.65/5 by 60 [2]. Said about its sound: Audio quality is good, though the first few seconds of the opener are missing; Digital noise is present in a couple spots during the beginning of the drums; Jerry's voice has a relaxed, confident bluesy rasp, with tight leads and transitions [24][25][32]\n- **gd1991-06-17.mtx.dan.31606.sbeok.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 164 min; rated 4.9/5 by 10 [3]\n- **gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648**: matrix (soundboard mixed with audience mics); 23 songs; 164 min; rated 4/5 by 1 [5]. Said about its sound: Several untracked Dark Star hints appear throughout the concert recording [5]\n- **gd1991-06-17.aud.andrewf.86660.sbeok.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 164 min; rated 2.67/5 by 3 [7]. Said about its sound: Seamless break exists between Discs Two and Three in the recording [7]\n\n## Around the show\n\n- Band noodled on stage for seven to eight minutes before the first song started [26]\n- Little Feat provided the opening act for the concert [28]\n- Massive thunderstorms poured rain before the show, making the blue tarp floor slippery [30]\n- Show was featured on ABC's In Concert Series, with high-quality video footage existing [31]\n- Crowd dropped over the wall to the field as the first notes of Eyes rang out [33]\n- Cameras taping for ABC's concert series were visible from the reviewer's vantage point [34]\n- Most Dark Star-influenced show heard, yet the song itself is never fully played [29]\n\n## Tapers and lineage\n\n- **gd1991-06-17.128692.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 3 Source Matrix by Dusborne; Soundboard (shnid:025608) Recording Info: SBD -> Master Dat (44.1k) -> Dat Clone; Audience (shnid:095644) Recording Equipment: B&K… [1]. Also: Show information is embedded in the header of each flac file for display [1]\n- **gd91-06-17.sbd.gardner.3591.sbeok.shnf**: source: sbd> ?> cdr> eac> shn [2]\n- **gd1991-06-17.mtx.dan.31606.sbeok.flac16**: transferred by Dan Haugh; source: SBD + AUD Matrix Mix (60%-SBD/40%-AUD) [3]. Also: Mixed 60% SBD and 40% AUD using Sony R500 DAT and SEK'D Prodif Plus [3]\n- **gd1991-06-17.nak300.andrewf.86659.sbeok.flac1648**: taped by Andrew F; transferred by Andrew F; source: Nakamichi CM-300's w/CP-4 shotgun capsules > Casio DA-7 > Maxell R-DM Dat tape. Mics on stand aprx 8-feet high, set up to the left of the soundboard (stage… [5]\n- **gd1991-06-17.aud.andrewf.86660.sbeok.flac16**: taped by Andrew F; transferred by Andrew F; source: Nakamichi CM-300's w/CP-4 shotgun capsules > Casio DA-7 > Maxell R-DM Dat tape. Mics on stand aprx 8-feet high, set up to the left of the soundboard (stage… [7]\n\n## Art and photos\n\n- Poster by Rotten Tomatoes: [Grateful Dead - Live at Giants Stadium 6/17/91 | Rotten Tomatoes](https://www.rottentomatoes.com/m/grateful_dead_live_at_giants_stadium_6_17_91) [36]\n- Poster by letterboxd.com: [Grateful Dead: Giants Stadium 1991 (2019)](https://letterboxd.com/film/grateful-dead-giants-stadium-1991/) [37]\n- Fan art by gratefuldeadshirt.org: [Grateful Dead Shirt T Shirt Vintage 1991 New York Giants Stadium NFL Football XL | Grateful Dead Shirt](https://gratefuldeadshirt.org/grateful-dead-shirt-t-shirt-vintage-1991-new-york-giants-stadium-nfl-football-xl-2/) [38]\n- Poster by Newbury Comics: [Saint Of Circumstance: Giants Stadium, East Rutherford, NJ 6/17/91 5LP Box Set](https://www.newburycomics.com/products/grateful_dead-saint_of_circumstance_giants_stadium_east_rutherford_nj_6-17-91_5lp_box_set) [39]\n- Fan art by gripsweat.com: [Gripsweat - GRATEFUL DEAD Giants Stadium 1987, 1989, 1991 Boxed Set - BRAND NEW Blu ray](https://gripsweat.com/item/174054755144/grateful-dead-giants-stadium-1987-1989-1991-boxed-set-brand-newblu-ray) [40]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - Giants Stadium 1991-06-17 …](https://www.flickr.com/photos/104729480@N03/48766735116/) [41]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - Giants Stadium 1991-06-17 Video | Caine Schneider | Flickr](https://www.flickr.com/photos/104729480@N03/48766930712/) [42]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/48766735116/) [43]",

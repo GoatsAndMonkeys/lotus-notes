@@ -336,7 +336,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -367,8 +367,8 @@
     "guests": [],
     "next": {
      "date": "1990-02-27",
-     "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum-arena",
-     "venue": "Oakland-Alameda County Coliseum Arena"
+     "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "previous": {
      "date": "1990-02-25",
@@ -595,188 +595,494 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 163,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 131,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-10-18",
+        "show": "live:grateful-dead:1989-10-18:the-spectrum"
+       },
+       "plays_before": 212,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 69,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 251,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 16,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb's Blues"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 191,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-12-06",
+        "show": "live:grateful-dead:1989-12-06:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 261,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-12-06",
+        "show": "live:grateful-dead:1989-12-06:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 269,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1989-10-20",
+        "show": "live:grateful-dead:1989-10-20:the-spectrum"
+       },
+       "plays_before": 206,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 523,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 234,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1210,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 870,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 178,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 259,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 259,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 125,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 163,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 131,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-10-18",
+        "show": "live:grateful-dead:1989-10-18:the-spectrum"
+       },
+       "plays_before": 212,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 69,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 251,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 16,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb's Blues"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 191,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-12-06",
+        "show": "live:grateful-dead:1989-12-06:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 261,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-12-06",
+        "show": "live:grateful-dead:1989-12-06:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 269,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1989-10-20",
+        "show": "live:grateful-dead:1989-10-20:the-spectrum"
+       },
+       "plays_before": 206,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 523,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 234,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1210,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 870,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 178,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 259,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 259,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 125,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -784,37 +1090,91 @@
      {
       "from": "gd90-02-26.sbd.shakedown.451.sbeok.shnf",
       "key": "song:grateful-dead:tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 47
+      },
       "title": "(Just Like) Tom Thumb's Blues"
      },
      {
       "from": "gd90-02-26.sbd.shakedown.451.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 107,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd90-02-26.sbd.shakedown.451.sbeok.shnf",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 34,
+       "total_plays": 47
+      },
       "title": "(It's All Over Now) Baby Blue"
      },
      {
       "from": "gd1990-02-26.137905.mtx.photoleon.t-flac16",
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 191,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 10,
+       "total_plays": 16
+      },
       "title": "We Want Phil'"
      },
      {
       "from": "gd1990-02-26.fob.senn421.alabamabob.andrewf.93841.sbeok.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 81,
+       "total_plays": 103
+      },
       "title": "Terra//pin"
      },
      {
       "from": "gd1990-02-26.131004.cmc44.fob.mattes.katzeff.flac16",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 80,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      }
     ],
@@ -822,26 +1182,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1561,
-     "shows_in_archive": 1855,
+     "show_number": 1666,
+     "shows_in_archive": 2097,
      "songs": 34,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland-Alameda County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.543749+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.106535+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "_k0dchniP8SPsvs5gp6xpiO59H9ABTntYBfE11hV8dqEh05QBluQ2VLsHWKfhua-4q0pgMx_WRaj6bLQ-3MACg",
+   "revision": 17,
+   "signature": "bkecuTtWmft7KlxZMo42bozaCrJPwkeHzFCr46CyoUfN79zXxfHmY26H9yYpGWDznXYg452Agnq_sumQl3-eAw",
    "subject_key": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum",
-   "updated_at": "2026-10-25T16:42:11.545011"
+   "updated_at": "2026-10-25T17:35:25.108179"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (6 reviews): The transition from Scarlet into Fire is very spacey, with the percussion locked in; The Scarlet into Fire has a laid-back, west coast psychedelic feel [8][9][13][14][16][18]\n- **Hell In A Bucket** (3 reviews): Bobby forgets more lyrics than usual, which draws laughs; Bobby stumbles in Bucket, the only loose spot in an otherwise tight first set [11][16][17]\n- **Ramble On Rose** (2 reviews): The first-set Ramble On Rose is especially hot; Reviewer calls the Ramble nearly the most perfect tune they ever saw live [11][16]\n- **Terrapin Station** (1 other source): A tape flip at 6:34 in Terrapin leaves about two minutes missing [5]\n- **Turn On Your Love Light** (1 review): Phil and the drummers start Lovelight while Jerry keeps jamming on Stella Blue, building higher [13]\n- **It's All Over Now Baby Blue** (1 review): The encore Baby Blue was sweet and capped off the night [10]\n\n## The recordings\n\n- **gd1990-02-26.137963.dbx.hale.flac16** (recommended): source not stated; 34 songs; 311 min [1]\n- **gd90-02-26.sbd.shakedown.451.sbeok.shnf**: soundboard; 17 songs; 153 min; rated 4.4/5 by 30 [2]. Said about its sound: The recording sounds great [15]\n- **gd1990-02-26.fob.senn421.alabamabob.andrewf.93841.sbeok.flac16**: audience recording; 17 songs; 141 min; rated 3/5 by 1 [5]\n- **gd1990-02-26.137905.mtx.photoleon.t-flac16**: matrix (soundboard mixed with audience mics); 18 songs; 168 min; rated 4.67/5 by 3 [3]\n\n## Around the show\n\n- First-set stage banter included Bobby asking whether the crowd was ready for star time [8]\n- Crowd chants for Phil and Bobby's star time banter come before Tom Thumb's Blues [11]\n- Reviewer rates this show better than the previous night's, February 25th [10]\n- The show foreshadows the strong music of Spring Tour 1990 [14]\n- Reviewer ranks this Scarlet into Fire among the top five or ten ever [18]\n\n## Tapers and lineage\n\n- **gd1990-02-26.137963.dbx.hale.flac16**: taped by Gris; transferred by Hale; source: Source: (2)Nak CP-100s w/CP-4 shotgun capsules > Tascam PortaOne 4-track cassette w/dbx type II on > Maxell XLII-S; Maxell XLII-S > Onkyo TA-2027 > dbx-224X… [1]. Also: Taped by Gris, a touring and taping partner of the uploader, using the uploader's gear [1]\n- **gd90-02-26.sbd.shakedown.451.sbeok.shnf**: source: SBD > DAT > CDR > WAV > SHN [2]\n- **gd1990-02-26.fob.senn421.alabamabob.andrewf.93841.sbeok.flac16**: taped by Alabama Bob; transferred by Andrew F.; source: FOB AUD: Sennheiser MD-421's > Sony TC-D5M > TDK MA 90's with no Dolby. Mics on six-foot stand, at 90-degree spread, thirty feet from the stage, in the center. [5]. Also: Drums were not recorded on the MAC source, and a tape flip in Space was mended [5]\n- **gd1990-02-26.137905.mtx.photoleon.t-flac16**: transferred by Matrix by photoleon; source: flac16/48kHz ; 2 source matrix by PhotoLeon using Audacity 2.0.6; Source 1: [shnid: 451] SBD > DAT; Conversion: D100 > Montego II > CD > HD via EAC > SHN; and… [3]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1990-02-26 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1990-02-26-grateful-dead-backstage-pass/) [21]",

@@ -407,7 +407,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -512,13 +512,13 @@
     "date": "1995-06-15",
     "guests": [],
     "next": {
-     "date": "1995-06-21",
-     "show": "live:grateful-dead:1995-06-21:knickerbocker-arena",
-     "venue": "Knickerbocker Arena"
+     "date": "1995-06-18",
+     "show": "live:grateful-dead:1995-06-18:giants-stadium",
+     "venue": "Giants Stadium"
     },
     "previous": {
-     "date": "1995-06-02",
-     "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre",
+     "date": "1995-06-04",
+     "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre",
      "venue": "Shoreline Amphitheatre"
     },
     "recommended": {
@@ -801,112 +801,287 @@
     "setlist": [
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 219,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 98,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 270,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 395,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 323,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 160,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 97,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 434,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 63,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:samba-in-the-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 31,
+       "total_plays": 38
+      },
       "title": "Samba In The Rain"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 536,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:rolling-and-tumbling",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Rollin' & Tumblin'"
      },
      {
       "key": "song:grateful-dead:that-would-be-something",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 15,
+       "total_plays": 17
+      },
       "title": "That Would Be Something"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 335,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 1615,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 1275,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 161,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 80,
+       "total_plays": 83
+      },
       "title": "Standing On the Moon"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 611,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:liberty",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 57,
+       "total_plays": 60
+      },
       "title": "Liberty"
      }
     ],
@@ -914,40 +1089,55 @@
      {
       "from": "gd1995-06-15.145838.sony.ecm909a.sterry.beckwith.miller.sirmick.flac16",
       "key": "song:grateful-dead:black-throated-wind-patched",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Black Throated Wind PATCHED"
      },
      {
       "from": "gd1995-06-15.sbd.unknown.shibata.35212.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 257,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1995-06-15:franklin-county-airport",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1848,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Rollin' & Tumblin'"
+     ],
+     "show_number": 2083,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Franklin County Airport"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 14,
+   "parent_revision": 26,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.692216+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.910750+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 15,
-   "signature": "n97XUfDLDQeNDzGECVGNUib37QUTYb3nXu1fgZC2ENy_Q72RRid9dRMNmdvloQlXevYDR8d4x7ZhHAyWD1SmDg",
+   "revision": 27,
+   "signature": "KiPbhEYnecCFgQtOQ2t-CJalpZhp9ctbgZCSlXrMbIVIINI4fkOqwH4aT0aziANYs_11iCDHe8wkm6YC0AdzBg",
    "subject_key": "live:grateful-dead:1995-06-15:franklin-county-airport",
-   "updated_at": "2026-10-25T16:42:19.693399"
+   "updated_at": "2026-10-25T17:35:28.911959"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Rollin' & Tumblin'** (2 other sources): Notes mark this as the first time the band played it [1][6]\n- **Touch Of Grey** (1 review): Someone flew over the stage during this song, with perfect timing [16]\n- **Ramble On Rose** (1 review): Reviewer found this one not too bad, among a few musical bright spots [18]\n- **He's Gone** (1 review): Reviewer singles this out as one of the good performances of the night [19]\n\n## The recordings\n\n- **gd1995-06-15.135288.aud.fob.lamarre-berger.flac1648** (recommended): soundboard; 20 songs; 156 min [1]\n- **gd95-06-15.schoeps.7745.sbeok.shnf**: audience recording; 20 songs; 163 min; rated 2.77/5 by 60 [2]. Said about its sound: Reviewer finds the audience recording's sound quality pretty sweet; Reviewer says the sound is great for an audience-mic recording [15][19]\n- **gd1995-06-15.145838.sony.ecm909a.sterry.beckwith.miller.sirmick.flac16**: source not stated; 20 songs; 157 min [5]. Said about its sound: A left channel dropout was fixed by copying the right channel, leaving this song mono; First two Set II tracks may come from another source; static noises were removed and the Set II levels corrected [5]\n- **gd1995-06-15.143132.SonyECM-909A.sterry.beckwith.sirmick.miller.flac2496**: source not stated; 20 songs; 157 min [6]. Said about its sound: A left channel dropout was fixed by copying the right channel, leaving this song mono [6]\n\n## Around the show\n\n- Reviewer lived near the venue, so it was a hometown show; they hung a sign inviting friends to camp [10]\n- Reviewer says Garcia missed lyrics even with a teleprompter in use [12]\n- Camping and partying around the show were enjoyable, according to the reviewer [12]\n- Reviewer drove nonstop from St. George, Utah, partied all night and got in free [13]\n- Residents of the small, hot Vermont town were kind, and the reviewer paid for a ticket rather than crashing the gate [15]\n- Reviewer walked about three miles to the stage, which was extremely crowded and claustrophobic [16]\n- Reviewer says Garcia stumbled through the whole show, so it felt like the end for him [17]\n- Dylan's opening set was pretty good, and bands played from trucks in the parking lot [17]\n- Reviewer felt the band was nearing the end, calling this the start of a cursed summer tour [16]\n- Reviewer rates it as not awesome, but better than many other 1995 shows [19]\n- Oxford Plains shows in '88 were never repeated at that site, so the band moved to Highgate for summer northeast dates [21]\n\n## Tapers and lineage\n\n- **gd1995-06-15.135288.aud.fob.lamarre-berger.flac1648**: taped by Doug Lamarre; transferred by Rob Berger; source: flac16/48kHz ; source: FOB daud master taped by Doug Lamarre; Sanken COS-11BP lavalier mics (Dan Liff’s r.i.p.) > Denon DTR-80P 30’ in front of soundboard;… [1]\n- **gd95-06-15.schoeps.7745.sbeok.shnf**: transferred by Matt Bertollo and Tim Wiley; source: Audience: Schoeps MK4V's [2]\n- **gd1995-06-15.145838.sony.ecm909a.sterry.beckwith.miller.sirmick.flac16**: taped by George Sterry; transferred by Charlie Miller and SIRMick and David Beckwith; source: Source: Sony ECM-909A > Sony WM-D3 > Cassette Master (Maxell XL-II90) - Recorded by George Sterry * [5]\n- **gd1995-06-15.143132.SonyECM-909A.sterry.beckwith.sirmick.miller.flac2496**: taped by George Sterry; transferred by Charlie Miller and SIRMick and David Beckwith; source: Sony ECM-909A > Sony WM-D3 > Cassette Master (Maxell XL-II90) - Recorded by George Sterry [6]\n\n## Art and photos\n\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-06-15 Thu Franklin County Field, Highgate, VT](https://www.livegrateful.net/post/1273160135608/grateful-dead-1995-06-15-thu-franklin) [23]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-06-15 Thu Franklin County Field, Highgate, VT](https://www.livegrateful.net/post/1273160135608/grateful-dead-1995-06-15-thu-franklin) [24]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-06-15 Thu Franklin County Field, Highgate, VT](https://www.livegrateful.net/post/1273160135608/grateful-dead-1995-06-15-thu-franklin) [25]\n- Fan art by Grateful Dead: [Grateful Dead Franklin County Field - June 15, 1995](https://www.dead.net/show/june-15-1995) [26]\n- Poster by Robbi Cohn: [1995-06-15 Franklin County Airport, Highgate, VT, USA - Jerry Garcia](https://jerrygarcia.com/show/1995-06-15-franklin-county-airport-highgate-vt-usa/) [27]\n- Poster by Grateful Dead: [Grateful Dead Franklin County Field - June 15, 1995](https://www.dead.net/show/june-15-1995) [28]",

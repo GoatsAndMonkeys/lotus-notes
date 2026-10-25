@@ -416,7 +416,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -750,132 +750,348 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-28",
+        "show": "live:grateful-dead:1980-11-28:lakeland-civic-center"
+       },
+       "plays_before": 40,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 214,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 118,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 152,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-28",
+        "show": "live:grateful-dead:1980-11-28:lakeland-civic-center"
+       },
+       "plays_before": 19,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 87,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 413,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 243,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 91,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-29",
+        "show": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida"
+       },
+       "plays_before": 77,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-29",
+        "show": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida"
+       },
+       "plays_before": 76,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-28",
+        "show": "live:grateful-dead:1980-11-28:lakeland-civic-center"
+       },
+       "plays_before": 260,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 136,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 89,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 165,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1980-10-23",
+        "show": "live:grateful-dead:1980-10-23:radio-city-music-hall"
+       },
+       "plays_before": 102,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-10-25",
+        "show": "live:grateful-dead:1980-10-25:radio-city-music-hall"
+       },
+       "plays_before": 325,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-29",
+        "show": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida"
+       },
+       "plays_before": 560,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-29",
+        "show": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida"
+       },
+       "plays_before": 230,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 41,
+       "total_plays": 267
+      },
       "title": "Wheel"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 44,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 215,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 189,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 170,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -883,7 +1099,16 @@
      {
       "from": "gd1980-11-30.175075.set1.set2p.remaster.miller.flac1644",
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 221,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      }
     ],
@@ -891,26 +1116,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 894,
-     "shows_in_archive": 1855,
+     "show_number": 990,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fox Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.824384+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.054710+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "TBYkdu54w_hbaShb1oKeium0QgUXqvbZsZeY0kLpH5XOcrmqQaDm06raGLR2J17-yJSTAB_RLf2NAR7AR12sCA",
+   "revision": 39,
+   "signature": "ewIxSApxXk1RKpcQfixDmuOlP_RPCGGM9Rk4bm8aIPo7DdNFE48rO8-OXjL2S7H3I65Bz0TqX9LJuV1c-oxfAw",
    "subject_key": "live:grateful-dead:1980-11-30:fox-theater",
-   "updated_at": "2026-10-25T16:41:53.825233"
+   "updated_at": "2026-10-25T17:35:17.055747"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (4 reviews): The transition into Fire is described as spectacular and mysterious; The transition to Fire is a personal favorite and gets the reviewer every time [12][16][17][20]\n- **Loser** (1 review): Loser struggled a bit during the first set [18]\n- **Little Red Rooster** (1 review): Bobby's slide and solo lead into a tearing performance [18]\n- **Lost Sailor** (1 review): Lost Sailor flows into an epic Saint of Circumstance and Deal [19]\n\n## The recordings\n\n- **gd1980-11-30.110936.mtx.chappell.sb31.flac16** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 197 min; rated 4.25/5 by 12 [1]\n- **gd1980-11-30.128440.naks.mason.flac16**: source not stated; 23 songs; 189 min; rated 4/5 by 1 [3]\n- **gd80-11-30.sbd-aud.sacks.2416.sbeok.shnf**: matrix (soundboard mixed with audience mics); 24 songs; 182 min; rated 4.43/5 by 58 [4]. Said about its sound: The recording is intelligently edited, well-blended, and smooth; The SBD recording sounds amazing for its era; The performance is clean and Jerry is smoking from the start [11][13][15]\n- **gd1980-11-30.part.127319.aud.oade.stankiewicz.wise.minches.flac24**: matrix (soundboard mixed with audience mics); 18 songs; 159 min; rated 5/5 by 1 [5]\n\n## Around the show\n\n- The band seemed to make magic happen at the Fox venue [16]\n- There is dissent among fans regarding the quality of Scarlet Fire [22]\n- Tapers were busted at the start of Ramble On Rose [2]\n- Security was a nuisance, causing mic stand issues and chatter [5]\n- The first set sounds like a night off compared to the second [17]\n- Playin' In The Band sounds like Warren Haynes twenty years early [19]\n- The 10-10-80 show is recommended for a better Scarlet Fire [20]\n\n## Tapers and lineage\n\n- **gd1980-11-30.110936.mtx.chappell.sb31.flac16**: transferred by Matrix by Chris Chappell; source: Matrix (SBD/AUD mix) Ratio ~ Phi [1]. Also: Taped by Dr. Bob Wagner using Nakamichi 700s with Bass EQ; Transferred and mastered by Chris Chappell using Apogee Ensemble and Peak Pro [1]\n- **gd1980-11-30.128440.naks.mason.flac16**: taped by Mason B. Taylor; source: Recorded By Mason Taylor on a Nakamichi 550 Cassette Deck, on chrome tapes, with Nakamichi microphones [3]\n- **gd80-11-30.sbd-aud.sacks.2416.sbeok.shnf**: source: Soundboard and Audience composite [4]\n- **gd1980-11-30.part.127319.aud.oade.stankiewicz.wise.minches.flac24**: taped by Jim Oade; Richie Stankiewicz; Jim Wise; transferred by David Minches; source: Set 1 - Master Audience Cassette: 2 Teac ME-120s> Sony D-5 location SBD; Set 2 - Master Audience Cassette: 2 Beyer M160s> Sony D-5 location SBD [5]. Also: Jim Oade used a JVC KD2 recorder and Teac ME-120s [5]",

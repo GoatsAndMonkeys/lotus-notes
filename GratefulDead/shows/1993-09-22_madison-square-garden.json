@@ -572,7 +572,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -587,14 +587,14 @@
     "date": "1993-09-22",
     "guests": [],
     "next": {
-     "date": "1994-03-21",
-     "show": "live:grateful-dead:1994-03-21:richfield-coliseum",
-     "venue": "Richfield Coliseum"
+     "date": "1993-09-24",
+     "show": "live:grateful-dead:1993-09-24:boston-garden",
+     "venue": "Boston Garden"
     },
     "previous": {
-     "date": "1993-09-13",
-     "show": "live:grateful-dead:1993-09-13:the-spectrum",
-     "venue": "The Spectrum"
+     "date": "1993-09-21",
+     "show": "live:grateful-dead:1993-09-21:madison-square-garden",
+     "venue": "Madison Square Garden"
     },
     "recommended": {
      "identifier": "gd1993-09-22.fob.GEMS.91805.flac16",
@@ -1146,105 +1146,272 @@
     "setlist": [
      {
       "key": "song:grateful-dead:load-check",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Load Check"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 105,
+       "total_plays": 120
+      },
       "title": "Help on the Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 102,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 218,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1993-08-27",
+        "show": "live:grateful-dead:1993-08-27:shoreline-amphitheatre"
+       },
+       "plays_before": 360,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1993-09-17",
+        "show": "live:grateful-dead:1993-09-17:madison-square-garden"
+       },
+       "plays_before": 297,
+       "total_plays": 326
+      },
       "title": "Ramble on Rose"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1993-09-18",
+        "show": "live:grateful-dead:1993-09-18:madison-square-garden"
+       },
+       "plays_before": 121,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 295,
+       "total_plays": 314
+      },
       "title": "Birdsong"
      },
      {
       "key": "song:grateful-dead:taper-comments",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 879,
+       "gap_shows": 183,
+       "last_played": {
+        "date": "1991-04-27",
+        "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Tapers Comments"
      },
      {
       "key": "song:grateful-dead:easy-answers",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1993-09-17",
+        "show": "live:grateful-dead:1993-09-17:madison-square-garden"
+       },
+       "plays_before": 8,
+       "total_plays": 46
+      },
       "title": "Easy Answers"
      },
      {
       "key": "song:grateful-dead:lazy-river-road",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1993-09-20",
+        "show": "live:grateful-dead:1993-09-20:madison-square-garden"
+       },
+       "plays_before": 27,
+       "total_plays": 70
+      },
       "title": "Lazy River Road"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1993-09-16",
+        "show": "live:grateful-dead:1993-09-16:madison-square-garden"
+       },
+       "plays_before": 376,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1993-09-13",
+        "show": "live:grateful-dead:1993-09-13:the-spectrum"
+       },
+       "plays_before": 220,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-09-21",
+        "show": "live:grateful-dead:1993-09-21:madison-square-garden"
+       },
+       "plays_before": 1483,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-09-21",
+        "show": "live:grateful-dead:1993-09-21:madison-square-garden"
+       },
+       "plays_before": 1143,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 398,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1993-09-16",
+        "show": "live:grateful-dead:1993-09-16:madison-square-garden"
+       },
+       "plays_before": 247,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1993-09-17",
+        "show": "live:grateful-dead:1993-09-17:madison-square-garden"
+       },
+       "plays_before": 313,
+       "total_plays": 333
+      },
       "title": "Turn on your Lovelight"
      },
      {
       "key": "song:grateful-dead:i-fought-the-law",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1993-09-17",
+        "show": "live:grateful-dead:1993-09-17:madison-square-garden"
+       },
+       "plays_before": 18,
+       "total_plays": 38
+      },
       "title": "I Fought The Law"
      }
     ],
@@ -1252,58 +1419,103 @@
      {
       "from": "gd1993-09-22.schoeps.andrewf.131736.flac1644",
       "key": "song:grateful-dead:help-on-the-way-slipknot",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 728,
+       "gap_shows": 137,
+       "last_played": {
+        "date": "1991-09-25",
+        "show": "live:grateful-dead:1991-09-25:boston-garden"
+       },
+       "plays_before": 7,
+       "total_plays": 8
+      },
       "title": "Help on the Way / Slipknot"
      },
      {
       "from": "gd1993-09-22.schoeps.andrewf.131736.flac1644",
       "key": "song:grateful-dead:electronic-percussion",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1993-09-20",
+        "show": "live:grateful-dead:1993-09-20:madison-square-garden"
+       },
+       "plays_before": 8,
+       "total_plays": 12
+      },
       "title": "Electronic Percussion"
      },
      {
       "from": "gd1993-09-22.137337.sbd.miller.flac1648",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-09-14",
+        "show": "live:grateful-dead:1993-09-14:the-spectrum"
+       },
+       "plays_before": 414,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1993-09-22.125353.mtx.eichorn.sbeok.flac16",
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1993-09-18",
+        "show": "live:grateful-dead:1993-09-18:madison-square-garden"
+       },
+       "plays_before": 53,
+       "total_plays": 71
+      },
       "title": "Masterpiece"
      },
      {
       "from": "gd1993-09-22.sbd.murray-yubah.77070.shnf",
       "key": "song:grateful-dead:34-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "34] Drums"
      }
     ],
     "subject_key": "live:grateful-dead:1993-09-22:madison-square-garden",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1834,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Tapers Comments"
+     ],
+     "first_in_archive": [
+      "Load Check"
+     ],
+     "show_number": 1948,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.546612+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:27.964980+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "4scyOffvnvRlWbXX88bjC2q5kng16IvYyssQSiJWgu_a-QLHO2DYxoIFg0tNmFCa3skKz0KZyU6qYljL2OKqDw",
+   "revision": 26,
+   "signature": "7iE0pB9x7mHW1hZM1zIYZ5f46gMU3qJi1YvVo_YrhOoBO45JtXoqkCeulnh0sykd4r-rtOitpvSedSsDVP-vCw",
    "subject_key": "live:grateful-dead:1993-09-22:madison-square-garden",
-   "updated_at": "2026-10-25T16:42:19.548283"
+   "updated_at": "2026-10-25T17:35:27.966112"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Help on the Way** (2 reviews): Garcia seems to play part of Help on the Way on an acoustic-sounding guitar; The Help on the Way, Slipknot, Franklin's Tower opening has striking energy that gives the reviewer chills [22][26]\n- **Estimated Prophet** (2 reviews): A killer Estimated Prophet melts into a Dark Star with just one verse; Estimated Prophet going into Dark Star is singled out as a standout pairing [21][22]\n- **Birdsong** (1 review): Birdsong features David Murrey on sax and is called worth the download alone [25]\n- **Wharf Rat** (1 review): Wharf Rat is spectacular, with David Murray standing out [21]\n- **Turn on your Lovelight** (1 other source): James Cotton played harmonica on Lovelight [2]\n- **I Fought The Law** (1 other source): James Cotton also played harmonica on the encore I Fought The Law [2]\n\n## The recordings\n\n- **gd1993-09-22.fob.GEMS.91805.flac16** (recommended): source not stated; 19 songs; 180 min [1]\n- **gd93-09-22.ST250s.brennecke-young.4533.sbeok.shnf**: audience recording; 17 songs; 166 min; rated 3.78/5 by 9 [11]. Said about its sound: The opening track has about seven minutes with no music, mostly silence before the show; Excellent audience recording, though drums are a bit loud on Minglewood and vocals are very forward [28][29]\n- **gd1993-09-22.172437.mtx.eichorn.flac1648**: matrix (soundboard mixed with audience mics); 17 songs; 150 min; rated 4/5 by 1 [15]\n- **gd93-09-22.sbd.yubah.565.sbeok.shnf**: soundboard; 18 songs; 151 min; rated 3.65/5 by 34 [17]. Said about its sound: Reviewer hears a rich recording with deep, saturated guitar tone from Jerry; Crisp soundboard with Phil prominent in the mix; Sound on the soundboard is solid [20][21][26][27][30]\n\n## Around the show\n\n- Dave Murray guested; the reviewer wanted the band to jam with him more [20]\n- Reviewer watched from a skybox; rain or leaking dripped heavily inside the building later on [22]\n- Garcia's acoustic-like tone came from a pedal or processor he used since the late 80s or early 90s [23]\n- This was the final night of a six-night Garden run [25]\n- David Murray played sax on Birdsong and throughout the entire second set [2]\n- David Murray's saxophone runs from track eight to the end, except the encore; James Cotton plays harmonica on disc three [14]\n- The reviewer ranks this night alongside the other excellent recent nights at the Garden [20]\n- Only two later Dark Stars were played: Rosemont on 03-16-94 and the Omni in Atlanta on 03-30-94 [14]\n- Uploader calls it a late-late-era show that is still quite enjoyable [15]\n\n## Tapers and lineage\n\n- **gd1993-09-22.fob.GEMS.91805.flac16**: taped by James Young & Clay Brennecke; transferred by Jamie Waddell; source: Soundfield AMS ST-250 Microphone using Blumlein configuration. Both sets recorded on stand (at 6'3\") > Panasonic SV 255. [1]\n- **gd93-09-22.ST250s.brennecke-young.4533.sbeok.shnf**: taped by James Young and Clay Brennecke; source: Audience: AMS ST-250 [11]. Also: Taped from the 13th row center by two experienced tapers; The first track begins with the tapers betting on the setlist, and all guess partly wrong [25][29]\n- **gd1993-09-22.172437.mtx.eichorn.flac1648**: source: 2-Source Matrix (16/48) by RE Eichorn (July 2025) [15]. Also: A new matrix using newer, better sources, replacing the uploader's earlier 2013 matrixes of this show [15]\n- **gd93-09-22.sbd.yubah.565.sbeok.shnf**: source: DSBD> DAT> CDR> EAC> WAV> SHN [17]. Also: The first track begins with the tapers betting on the setlist, and all guess partly wrong [30]",

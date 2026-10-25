@@ -312,7 +312,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -601,128 +601,324 @@
     "setlist": [
      {
       "key": "song:grateful-dead:stage-announcements-intros-gift-presentations",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stage Announcements, Intros, Gift Presentations"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 28,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 208,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 54,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 43,
+       "total_plays": 162
+      },
       "title": "Black-Throated Wind"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 164,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 166,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 76,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 114,
+       "total_plays": 634
+      },
       "title": "Playin in the Band"
      },
      {
       "key": "song:grateful-dead:playing-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 45
+      },
       "title": "Playin Jam"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 123
+      },
       "title": "Playing In The Band Reprise"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 21,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 65,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 27,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 141,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:jazz-star-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jazz Star\" Jam"
      },
      {
       "key": "song:grateful-dead:el-paso",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-25",
+        "show": "live:grateful-dead:1972-08-25:berkeley-community-theater"
+       },
+       "plays_before": 73,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 28,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 129,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 206,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 58,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -730,52 +926,94 @@
      {
       "from": "gd1972-08-27.sbd.hollister.2199.sbeok.shnf",
       "key": "song:grateful-dead:stage-announcment",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 975,
+       "gap_shows": 236,
+       "last_played": {
+        "date": "1969-12-26",
+        "show": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Stage Anouncements"
      },
      {
       "from": "gd1972-08-27.sbd.latvala-eaton-lutch-dankseed.4682.shnf",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 108,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 3,
+       "total_plays": 36
+      },
       "title": "Playin"
      },
      {
       "from": "gd1972-08-27.sbd.latvala-eaton-lutch-dankseed.4682.shnf",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 486,
+       "gap_shows": 93,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 2,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      },
      {
       "from": "gd1972-08-27.sbd.latvala-eaton-lutch-dankseed.4682.shnf",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 333,
+       "gap_shows": 77,
+       "last_played": {
+        "date": "1971-09-29",
+        "show": "live:grateful-dead:1971-09-29:studio-rehearsals-with-keith-godchaux"
+       },
+       "plays_before": 1,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      }
     ],
     "subject_key": "live:grateful-dead:1972-08-27:old-renaissance-faire-grounds",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 372,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Stage Announcements, Intros, Gift Presentations",
+      "Playin Jam",
+      "Playing In The Band Reprise",
+      "Jazz Star\" Jam"
+     ],
+     "show_number": 445,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Old Renaissance Faire Grounds"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 34,
+   "parent_revision": 46,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.826593+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.695447+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 35,
-   "signature": "_pVBvmSZ0SJljiCIvaFrKiYuD75EYzkasP00dwBQIgfSAzPf0ZxpynMGKpEgzsEpzXg0DggsBLtECHVSjglIAQ",
+   "revision": 47,
+   "signature": "l8Si5wu2HNuH1utTBJu95JfBlv7_LCbawGoJU2KTuQfNHYuldWWcFW94SF0EPDv1S9ToWFNyxu92WdtIiWfOAg",
    "subject_key": "live:grateful-dead:1972-08-27:old-renaissance-faire-grounds",
-   "updated_at": "2026-10-25T16:41:44.829348"
+   "updated_at": "2026-10-25T17:35:12.696720"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Me & My Uncle** (2 reviews): Listener considers this their best live version, praising Jerry's riffs and band harmony; Described as the listener's favorite live version, with perfectly chosen riffs and harmony [8][9]\n- **Deal** (2 reviews): Cited as a favorite live performance, highlighting inspired jamming and perfect ensemble playing; Listed as a top live performance, featuring inspired jamming and great band coordination [8][9]\n- **Black-Throated Wind** (2 reviews): Named among the listener's favorite live performances, noting entertaining banter between tracks; Identified as a favorite live take, with entertaining banter making the listener feel present [8][9]\n- **Playin in the Band** (1 review): Described as the show's significance, with the band orbiting above Earth using Veneta as fuel [12]\n- **Greatest Story Ever Told** (1 review): Jerry's performance is compared to riding out from a quasar, challenging listeners to air guitar [14]\n- **Dark Star** (1 review): Band was stretching out their jazz fusion jams, with the sun setting as the set began [16]\n\n## The recordings\n\n- **gd1972-08-27.sbd.serafin.8045.sbefail.shnf** (recommended): soundboard; 24 songs; 200 min; rated 4/5 by 11 [1]\n- **gd1972-08-27.sbd.hollister.2199.sbeok.shnf**: soundboard; 21 songs; 202 min; rated 5/5 by 6 [2]. Said about its sound: David Hollister cleaned pops during Dark Star, leaving small static spots and clicks in one channel [2]\n- **gd72-08-27.sbd.orf.3328.sbeok.shnf**: soundboard; 21 songs; 188 min; rated 4.83/5 by 80 [3]. Said about its sound: This version is recommended for including all the talking, making it special from start to finish [13]\n- **gd1972-08-27.sbd.kaplan-hamilton.152.shnf**: soundboard; 20 songs; 196 min; rated 4.75/5 by 4 [4]. Said about its sound: Sound system distortion and buzziness noted at the beginning of Promised Land and other spots [4]\n- **gd72-08-27.sbd.braverman.16582.sbefail.shnf**: soundboard; 20 songs; 188 min; rated 4.75/5 by 57 [5]. Said about its sound: Stage banter is included at the end of tracks, with excellent sound quality preferred by listener [17]\n\n## Around the show\n\n- Picture the sun setting and stars appearing as the set began, post-Europe and post-Pigpen [16]\n- Listener broke their Hi E string during China/Rider, calling the sudden explosion the key moment [19]\n- Widely held as the best Dead show of all, with every song played to near perfection [16]\n\n## Tapers and lineage\n\n- **gd1972-08-27.sbd.serafin.8045.sbefail.shnf**: transferred by Jay Serafin; source: (SET I and II) SBD > Re-Mixed Master RTR > DAT > SSSB. (SET III) SBD > Re-Mixed Master RTR > PCM (via analog inputs and outputs) > DAT > SSSB [1]. Also: Difficult transfer due to plastic reels causing static during fast forward/rewind, sourced from Marin County [1]\n- **gd1972-08-27.sbd.hollister.2199.sbeok.shnf**: source: Master Betty reel > PCM > DAT > ZA2 > CD > EAC > SHN [2]\n- **gd72-08-27.sbd.orf.3328.sbeok.shnf**: source: SBD-> two-track MR-> DAT-> Sonic Solutions-> CDR-> EAC-> Sound Forge Edit (analog pop removal using pencil tool)-> Sound Forge Pitch Shift (antialias filter… [3]. Also: Lineage: SBD to two-track MR to DAT to CDR, stemming from David Gans seed via Adam Jerugim [3]\n- **gd1972-08-27.sbd.kaplan-hamilton.152.shnf**: taped by Unknown; transferred by Seth Kaplan, G. Hamilton; source: SBD > Master Reel [4]. Also: Seth Kaplan provided this clean copy, lacking the small clicks and pops in Dark Star found elsewhere [4]\n- **gd72-08-27.sbd.braverman.16582.sbefail.shnf**: source: Soundboard [5]. Also: Listener upgraded from an early hissy tape to this excellent source, awaiting official video release; Notes Jay Ashley released a Bertha upgrade, which the listener anticipates will be very nice; This is the upgrade from the dankseed version, certified as better than the previous copy [11][18]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Old Renaissance Faire Grounds - August 27, 1972](https://www.dead.net/show/august-27-1972) [21]\n- Poster by Grateful Dead: [Grateful Dead Flyer - Sunshine Daydream](https://www.dead.net/archives/1974/artwork/flyer-sunshine-daydream) [22]\n- Poster by Grateful Dead: [Grateful Dead Flyer - Old Renaissance Faire Grounds](https://www.dead.net/archives/1972/artwork/flyer-old-renaissance-faire-grounds) [23]",

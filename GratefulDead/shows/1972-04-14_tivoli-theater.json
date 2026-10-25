@@ -321,7 +321,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -421,8 +421,8 @@
     "guests": [],
     "next": {
      "date": "1972-04-16",
-     "show": "live:grateful-dead:1972-04-16:aarhus-university",
-     "venue": "Aarhus University"
+     "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university",
+     "venue": "Stakladen, Aarhus University"
     },
     "previous": {
      "date": "1972-04-11",
@@ -649,171 +649,455 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 63,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 180,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 29,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 16,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 12,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 10,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-07",
+        "show": "live:grateful-dead:1972-04-07:wembley-empire-pool"
+       },
+       "plays_before": 66,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 70,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 111,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 81,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 41,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-07",
+        "show": "live:grateful-dead:1972-04-07:wembley-empire-pool"
+       },
+       "plays_before": 53,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 58,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 85,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 180,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 102,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 47,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 27,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 9,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 127,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 100,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 121,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:caution",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 50,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Step on Tracks)"
      },
      {
       "key": "song:grateful-dead:who-do-you-love",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 520,
+       "gap_shows": 111,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Who Do You Love?"
      },
      {
       "key": "song:grateful-dead:caution",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-08",
+        "show": "live:grateful-dead:1972-04-08:wembley-empire-pool"
+       },
+       "plays_before": 50,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Step On Tracks)"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 121,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 29,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-07",
+        "show": "live:grateful-dead:1972-04-07:wembley-empire-pool"
+       },
+       "plays_before": 119,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower-tease",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "China Cat SUnflower tease"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-07",
+        "show": "live:grateful-dead:1972-04-07:wembley-empire-pool"
+       },
+       "plays_before": 77,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-07",
+        "show": "live:grateful-dead:1972-04-07:wembley-empire-pool"
+       },
+       "plays_before": 119,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 39,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -821,40 +1105,58 @@
      {
       "from": "gd1972-04-14.136980.mtx.dusborne.flac16",
       "key": "song:grateful-dead:cutler-tv-announcement",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cutler TV announcement"
      },
      {
       "from": "gd1972-04-14.sbd.sacks.140.shnf",
       "key": "song:grateful-dead:china-cat-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 573,
+       "gap_shows": 127,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "China Cat Jam"
      }
     ],
     "subject_key": "live:grateful-dead:1972-04-14:tivoli-theater",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 342,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Who Do You Love?"
+     ],
+     "first_in_archive": [
+      "China Cat SUnflower tease"
+     ],
+     "show_number": 412,
+     "shows_in_archive": 2097,
      "songs": 32,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Tivoli Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 25,
+   "parent_revision": 37,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.034548+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.365903+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 26,
-   "signature": "bYwMkD6renA--gHw2NVgBQ0DzahWk7moiwlgGb9ru9_zO5rNXu6_elguHbjaf0k9CJA_uYOdCQc0C2d1hK9MAQ",
+   "revision": 38,
+   "signature": "wxDhzwcR6C1RN2WLcLv-F6h_YBHMZ40LJRTYjmCBMdniMexAiY6FQs_nVOp3NMFrgZctgpUlr0VFmjVkppciCg",
    "subject_key": "live:grateful-dead:1972-04-14:tivoli-theater",
-   "updated_at": "2026-10-25T16:41:44.038902"
+   "updated_at": "2026-10-25T17:35:12.367340"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (4 reviews): Described as long, spacy, and one of the tour's best; Contains one of the better Feelin' Groovy jams heard [8][9][10][11]\n- **Looks Like Rain** (3 reviews): Rare Jerry pedal steel performance noted by the listener; Listener questions if the steel guitar is Garcia or an NRPS member [8][13][16]\n- **Sugar Magnolia** (1 review): Pigpen delivers a great performance on Sugar Magnolia [15]\n- **Good Lovin'** (1 review): Pigpen delivers great vocals in the Good Lovin' to Caution sequence [9]\n\n## The recordings\n\n- **gd1972-04-14.sbd.ashley-field.34931.sbeok.flac16** (recommended): soundboard; 32 songs; 211 min; rated 4.93/5 by 15 [1]\n- **gd1972-04-14.sbd.miller.34552.sbeok.flac16**: soundboard; 32 songs; 211 min; rated 4.81/5 by 16 [2]\n- **gd72-04-14.sbd.hurwitt.8828.sbeok.shnf**: soundboard; 32 songs; 205 min; rated 4.7/5 by 33 [3]. Said about its sound: Listener rates the soundboard recording quality as good; Listener claims the sound quality is as good as it gets [8][11]\n- **gd1972-04-14.sbd.miller-repitched.76006.flac16**: soundboard; 32 songs; 207 min; rated 5/5 by 7 [4]\n- **gd72-04-14.aud.vernon.23662.sbeok.shnf**: audience recording; 32 songs; 209 min; rated 4.14/5 by 7 [7]. Said about its sound: Audience recording is described as having a wonderful, rich sound [16]\n\n## Around the show\n\n- Pigpen rose to the occasion during his final tour [10]\n- Listener notes Jerry's guitar disappears from the mix during Cumberland Blues [17]\n- Ramble On Rose is noted as being from another show, not this one [19]\n- Show is less trippy and more musical than other tour dates [15]\n\n## Tapers and lineage\n\n- **gd1972-04-14.sbd.ashley-field.34931.sbeok.flac16**: transferred by Jay Ashley; source: Bertha Remaster of the Multi Track Master Reel source (SHN ID 34552) [1]\n- **gd1972-04-14.sbd.miller.34552.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> (16 Track) Master Reel -> Dat (44.1k) D [2]. Also: Lineage includes FM, master reel, cassette, DAT, and CD sources [2]\n- **gd72-04-14.sbd.hurwitt.8828.sbeok.shnf**: source: SBD>mR>C>D>CD [3]. Also: Soundboard transferred to master reel, cassette, DAT, and CD [3]\n- **gd1972-04-14.sbd.miller-repitched.76006.flac16**: transferred by Charlie Miller; source: SBD -> (16 Track) Master Reel -> Dat (44.1k) D [4]. Also: Pitch and speed corrected using Adobe Audition and TraLiHe software [4]\n- **gd72-04-14.aud.vernon.23662.sbeok.shnf**: source: Aud (unknown mics) [7]",

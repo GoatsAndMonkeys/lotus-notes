@@ -565,7 +565,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1152,146 +1152,377 @@
     "setlist": [
      {
       "key": "song:grateful-dead:happy-new-year",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 86,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 6
+      },
       "title": "Happy New Year !"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 297,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 98,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 50,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:uncle-bobo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle BoBo"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 360,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 196,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 120,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-21",
+        "show": "live:grateful-dead:1978-12-21:the-summit"
+       },
+       "plays_before": 32,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 24,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 13,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1978-11-24",
+        "show": "live:grateful-dead:1978-11-24:capitol-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 118,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-12-17",
+        "show": "live:grateful-dead:1978-12-17:fox-theater"
+       },
+       "plays_before": 129,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 17,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 55,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 279,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 404,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 235,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 164,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1535,
+       "gap_shows": 224,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 180,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 278,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:dark-star-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1620,
+       "gap_shows": 240,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 11,
+       "total_plays": 21
+      },
       "title": "Dark Star Jam"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 138,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 159,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 207,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
@@ -1299,21 +1530,49 @@
       "key": "song:grateful-dead:casey-jones",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 284,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 141,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:and-we-bid-you-good-night",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 730,
+       "gap_shows": 150,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 45,
+       "total_plays": 57
+      },
       "title": "//And We Bid You Good Night"
      }
     ],
@@ -1321,88 +1580,140 @@
      {
       "from": "gd1978-12-31.155425.AKG414omni.cm.koda.miller.t.flac16",
       "key": "song:grateful-dead:midnight-madness",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Midnight Madness"
      },
      {
       "from": "gd1978-12-31.155425.AKG414omni.cm.koda.miller.t.flac16",
       "key": "song:grateful-dead:equipment-break",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1924,
+       "gap_shows": 292,
+       "last_played": {
+        "date": "1973-09-24",
+        "show": "live:grateful-dead:1973-09-24:civic-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 34
+      },
       "title": "Equipment Break"
      },
      {
       "from": "gd1978-12-31.151330.Betty.Board.Anon.Noel.t-flac16",
       "key": "song:grateful-dead:midnight-countdown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Midnight Countdown"
      },
      {
       "from": "gd1978-12-31.151330.Betty.Board.Anon.Noel.t-flac16",
       "key": "song:grateful-dead:they-are-the-greatest-rock-and-roll-band-that-ever-was",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "They are the greatest rock & roll band that ever was"
      },
      {
       "from": "gd1978-12-31.151330.Betty.Board.Anon.Noel.t-flac16",
       "key": "song:grateful-dead:perfect-audience",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "the perfect audience"
      },
      {
       "from": "gd1978-12-31.mtx.tobin.motb-0134.106374.flac16",
       "key": "song:grateful-dead:uncle-bobo-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle Bobo Tuning"
      },
      {
       "from": "gd1978-12-31.139554.sbd.gaswirt.miller.sirmick.flac1644",
       "key": "song:grateful-dead:countdown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "countdown (1)"
      },
      {
       "from": "gd1978-12-31.139554.sbd.gaswirt.miller.sirmick.flac1644",
       "key": "song:grateful-dead:bill-graham-namechecking-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bill Graham namechecking the band"
      },
      {
       "from": "gd1978-12-31.139554.sbd.gaswirt.miller.sirmick.flac1644",
       "key": "song:grateful-dead:more-from-bill-graham",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "more from Bill Graham"
      },
      {
       "from": "gd78-12-31.sbd.ashley.1667.sbeok.shnf",
       "key": "song:grateful-dead:stagger-lee-from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stagger Lee// From The Heart Of Me"
      }
     ],
     "subject_key": "live:grateful-dead:1978-12-31:winterland-arena",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 731,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Dark Star",
+      "Dark Star Jam",
+      "//And We Bid You Good Night"
+     ],
+     "first_in_archive": [
+      "Uncle BoBo"
+     ],
+     "show_number": 826,
+     "shows_in_archive": 2097,
      "songs": 29,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.499347+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.810602+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "mgRTyvLYlExoPe_XSchaoJvIxGJRnIwoBqbJO99BsDh7z6S31OKV3oD1kpUMn4rWEvlsS34eFrS4fFTHz4kOBw",
+   "revision": 43,
+   "signature": "rZ4hiJGST3MlzPWHbWdTjXPa6vvWKxaSR26DrnC3zd5iagjeMJpkwSni80skarVbvhPnhCyRZ_hbip_YZ5-0CA",
    "subject_key": "live:grateful-dead:1978-12-31:winterland-arena",
-   "updated_at": "2026-10-25T16:41:52.501169"
+   "updated_at": "2026-10-25T17:35:15.811780"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Samson & Delilah** (1 review): The performance bristles with energy as Jerry finds the groove and runs with it [25]\n- **Ramble On Rose** (1 review): The reviewer considers this the best version of Ramble On Rose ever recorded [28]\n- **Terrapin Station** (1 review): Described as one of the most faithful and tender renderings of the song [25]\n- **Dark Star** (1 review): The Dark Star to Other One transition is powerful, though only first verses are sung [23]\n- **Johnny B. Goode** (1 review): Jerry is dancing wildly on stage during the performance of this song [23]\n\n## The recordings\n\n- **gd1978-12-31.145356.sony.ecm270.severson.miller.clugston.flac2496** (recommended): matrix (soundboard mixed with audience mics); 29 songs; 282 min [1]\n- **gd1978-12-31.155425.AKG414omni.cm.koda.miller.t.flac16**: source not stated; 30 songs; 295 min; rated 2.5/5 by 2 [3]\n- **gd1978-12-31.150571.akg.koda.miller.flac16**: source not stated; 30 songs; 295 min [6]\n- **gd1978-12-31.151330.Betty.Board.Anon.Noel.t-flac16**: soundboard; 30 songs; 255 min; rated 5/5 by 1 [8]\n\n## Around the show\n\n- Attendee recalls the event as one of the best nights of their life [20]\n- Bill Graham's entrance is described as an event that must be seen to be believed [21]\n- Matthew Kelly joins on harmonica for the performance of I Need A Miracle [3]\n- John Cipollina performs with the band on Not Fade Away and Around And Around [6]\n- New Riders Of The Purple Sage opened the show, with Ken Kesey attending [31]\n- The show is compared to Barton Hall, giving it a run for its money [26]\n\n## Tapers and lineage\n\n- **gd1978-12-31.145356.sony.ecm270.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Sony ECM-270 mics (mounted on railing, right balcony, even with the soundboard)> Sony TC-158SD (Maxell UDXLII) [1]. Also: Patches from an AKG D224E source fill gaps in several tracks [1]\n- **gd1978-12-31.155425.AKG414omni.cm.koda.miller.t.flac16**: taped by Dennis Koda; transferred by All Transfers and Mastering by Charlie Miller  December 24, 2021; source: AKG 414 (Omni) > Cassette Master (Nakamichi 550/Maxell UDXLI) [3]. Also: Recorded front row center balcony by Dennis Koda using an AKG 414 omni microphone [3]\n- **gd1978-12-31.150571.akg.koda.miller.flac16**: taped by Recorded front row center balcony by Dennis Koda; transferred by All Transfers and Mastering by Charlie Miller  September 13, 2020; source: AKG 414 (Omni) > Cassette Master (Nakamichi 550/Maxell UDXLI) [6]. Also: Sony ECM-270 cassette master supplies patches for several tracks in the first set [6]\n- **gd1978-12-31.151330.Betty.Board.Anon.Noel.t-flac16**: taped by Recording by Betty Cantor Jackson; transferred by PCM source & transfer by anonymous Edited & Mastered (Adobe Audition) by Joe Noel November 02, 2020; source: Source: SBD Reel Master > Beta tape > Beta VCR > PCM [8]. Also: The recording is a patchwork of SBD, AKG 414, and FMMR sources [8]\n\n## Art and photos\n\n- Poster by gocollect.com: [Grateful Dead & Blues Brothers Winterland Arena 1978 Value - GoCollect](https://gocollect.com/concert-poster/grateful-dead-blues-brothers-at-winterland-1978) [32]\n- Fan art by Grateful Dead: [Grateful Dead Winterland Arena - December 31, 1978](https://www.dead.net/show/december-31-1978) [33]\n- Poster by Stanley Mouse: [Grateful Dead \"Blue Rose\" Mouse/Kelley 1978 AOR 4.38 Final Winterland Poster](https://concertposterauction.com/Listing/Details/906230/Grateful-Dead-Blue-Rose-MouseKelley-1978-AOR-438-Final-Winterland-Poster) [34]",

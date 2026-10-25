@@ -267,7 +267,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -398,7 +398,7 @@
     "next": {
      "date": "1968-01-22",
      "show": "live:grateful-dead:1968-01-22:eagles-auditorium",
-     "venue": "Eagles Auditorium"
+     "venue": "Eagle's Auditorium"
     },
     "previous": {
      "date": "1968-01-17",
@@ -565,37 +565,90 @@
     "setlist": [
      {
       "key": "song:grateful-dead:clementine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Clementine"
      },
      {
       "key": "song:grateful-dead:new-potato-caboose",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 8,
+       "total_plays": 28
+      },
       "title": "New Potato Caboose"
      },
      {
       "key": "song:grateful-dead:born-cross-eyed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 2,
+       "total_plays": 14
+      },
       "title": "Born Cross Eyed"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 1,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1967-11-11",
+        "show": "live:grateful-dead:1967-11-11:shrine-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop On Tracks)"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 2,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      }
     ],
@@ -603,34 +656,41 @@
      {
       "from": "gd1968-01-20.sbd.miller.97340.sbeok.flac16",
       "key": "song:grateful-dead:caution-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 19
+      },
       "title": "Caution Jam"
      }
     ],
     "subject_key": "live:grateful-dead:1968-01-20:the-eureka-municipal-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 49,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Clementine",
+      "Space"
+     ],
+     "show_number": 61,
+     "shows_in_archive": 2097,
      "songs": 7,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Eureka Municipal Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 14,
+   "parent_revision": 26,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.645001+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.405329+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 15,
-   "signature": "AW5Dh0ur8ws1zOzGRxuGltHaGTPL6w4J8NXsW3psh0PdgF-T81O56XBgJ4xmHS7GzyXZ72eUNvSRNQNkONoACw",
+   "revision": 27,
+   "signature": "vuPsrGdpnxrP8MMxvi9JqekJwbhpdKInVglyE8tWjACz5Gm7XDDrTx0FHrlYdf4-J-Mz2_PmVqa_jZAS7VIsAg",
    "subject_key": "live:grateful-dead:1968-01-20:the-eureka-municipal-auditorium",
-   "updated_at": "2026-10-25T16:41:38.645898"
+   "updated_at": "2026-10-25T17:35:09.406067"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Spanish Jam** (3 reviews, 1 other source): Reviewer singles out Spanish Jam as essential listening from this show; Spanish Jam is called wonderful, possibly the best of its era [3][8][10][12]\n- **Clementine** (2 reviews): Reviewer ranks this Clementine among the Dead's best, behind only the 26 January 1969 version, citing its jazzy swing; Clementine is rated as A+, leading into New Potato Caboose and Born Cross Eyed [6][17]\n- **New Potato Caboose** (1 review): Psychedelic New Potato Caboose into Born Cross Eyed is described as vintage and the reviewer's main reason for listening [11]\n- **Born Cross Eyed** (1 review): The band slams into Born Cross Eyed relentlessly [13]\n- **Caution (Do Not Stop On Tracks)** (1 review): Caution is very short and ends explosively, seeming to build toward something more [7]\n- **Dark Star** (1 other source): Dark Star on this tape consists of only its first several notes [3]\n- **Caution Jam** (1 review): Short Caution jam drives along powerfully but fizzles out too early; reviewer wishes it had continued [10]\n\n## The recordings\n\n- **gd68-01-20.sbd.jools.19470.sbe-fixed.shnf** (recommended): soundboard; 7 songs; 33 min; rated 4.72/5 by 43 [1]. Said about its sound: Tape sounds clear for its age, though the recording cuts off during Dark Star; Recording quality is quite good for its age, but vocals are minimal; Described as a crisp soundboard recording, though only a short portion of the show exists [7][12][17]\n- **gd1968-01-20.sbd.miller.97340.sbeok.flac16**: soundboard; 6 songs; 33 min; rated 4.44/5 by 32 [2]\n- **gd1968-01-20.sbd.ward.47.sbeok.shnf**: soundboard; 5 songs; 31 min; rated 4.2/5 by 5 [3]\n- **gd1968-01-20.sbd.abe.4990.sbeok.shnf**: soundboard; 5 songs; 31 min; rated 4.2/5 by 5 [4]\n\n## Around the show\n\n- Show is incomplete, but the band sounds especially deepened and fully like the Grateful Dead that night [13]\n- DeadBase lists a jam before Clementine; the tape reportedly starts on an announcer's remark about cranking it up [1]\n- Only about 35 minutes of this show circulated [23]\n- Reviewer says Phil plays a Clementine part during the long Other One jam on 4/26/72, around 15-20 minutes in [10]\n- Clementine here is judged much better than the 2/2/68 version on the So Many Roads box set [11]\n- Born Cross Eyed, Caboose and Spanish Jam all appear on Anthem of the Sun but were dropped early in 1968 [14]\n- Reviewer understands dropping Born Cross Eyed as too hard to play, but wishes New Potato Caboose had survived [16]\n\n## Tapers and lineage\n\n- **gd68-01-20.sbd.jools.19470.sbe-fixed.shnf**: transferred by Julian (Jools) Elliott; source: Soundboard [1]. Also: Reviewer's older copy lacked the short Dark Star at the end; this version is more complete; Uploader's DAT copy cuts Dark Star early; a cassette copy runs a minute or two longer before cutting off [1][14]\n- **gd1968-01-20.sbd.miller.97340.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> (4 Track) Master Reels -> Dat (44.1k) [2]. Also: Transferred from a DAT from Rob Eaton, with pitch correction help from Joe B. Jones [2]\n- **gd1968-01-20.sbd.ward.47.sbeok.shnf**: source: SBD -> MReel -> DAT -> CD-R [3]. Also: Not an FM recording; broadcast on Grateful Dead Hour 342 [3]\n- **gd1968-01-20.sbd.abe.4990.sbeok.shnf**: source: CD > EAC > SHN [4]\n\n## Art and photos\n\n- Photo by Zoooma (All rights reserved): [Grateful Dead poster for 1/20/68 Municipal Auditorium, Eureka, California](https://www.flickr.com/photos/9692677@N07/2925190826/) [25]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/9692677@N07/2925190826/) [26]",

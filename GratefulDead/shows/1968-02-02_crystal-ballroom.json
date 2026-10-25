@@ -239,7 +239,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -285,13 +285,13 @@
     "guests": [],
     "next": {
      "date": "1968-02-03",
-     "show": "live:grateful-dead:1968-02-03:crystal-ballroom",
-     "venue": "Crystal Ballroom"
+     "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom",
+     "venue": "The Crystal Ballroom"
     },
     "previous": {
      "date": "1968-01-27",
      "show": "live:grateful-dead:1968-01-27:eagles-auditorium",
-     "venue": "Eagles Auditorium"
+     "venue": "Eagle's Auditorium"
     },
     "recommended": {
      "identifier": "gd1968-02-02.sbd.jools.20299.sbeok.shnf",
@@ -394,42 +394,105 @@
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 9,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:clementine",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "Clementine"
      },
      {
       "key": "song:grateful-dead:new-potato-caboose",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 28
+      },
       "title": "New Potato Caboose"
      },
      {
       "key": "song:grateful-dead:born-cross-eyed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 6,
+       "total_plays": 14
+      },
       "title": "Born Cross-Eyed"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-01-27",
+        "show": "live:grateful-dead:1968-01-27:eagles-auditorium"
+       },
+       "plays_before": 6,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      }
     ],
@@ -437,25 +500,56 @@
      {
       "from": "gd68-02-02.sbd.jools.15801.sbeok.shnf",
       "key": "song:grateful-dead:viola-lee-blues-feedback",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Viola Lee Blues Feedback"
      },
      {
       "from": "gd68-02-02.sbd.jools.15801.sbeok.shnf",
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 15,
+       "total_plays": 64
+      },
       "title": "Good Morning, Little Schoolgirl"
      },
      {
       "from": "gd1968-02-02.sbd.miller.97345.sbeok.flac16",
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1967-11-10",
+        "show": "live:grateful-dead:1967-11-10:shrine-auditorium"
+       },
+       "plays_before": 22,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "from": "gd1968-02-02.sbd.miller.97345.sbeok.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 5,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
@@ -463,26 +557,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 53,
-     "shows_in_archive": 1855,
+     "show_number": 66,
+     "shows_in_archive": 2097,
      "songs": 7,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Crystal Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.715787+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.427405+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "DnzEIYZLfh4coyY0j56w3r4xDPHdwhmfEMr0it08pLh099z5oKS5hrtpcta9fiW1Glj8B8py3HpL9wOkKu1BCA",
+   "revision": 40,
+   "signature": "8aidVv9ggJbrO7HiEUAGlMkDrC1JobY28DxxVqA_YZCiakld0oZBQMeuaRpXq85YQvFierKR8ata0otVHhh2Dw",
    "subject_key": "live:grateful-dead:1968-02-02:crystal-ballroom",
-   "updated_at": "2026-10-25T16:41:38.718441"
+   "updated_at": "2026-10-25T17:35:09.428096"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Viola Lee Blues** (3 reviews): Reviewer calls this Viola Lee a very long, ferocious jam, unlike the 1973 and 1977 versions, best played loud; Reviewer judges this the best Viola Lee on tape, though it lacks the special occasion of the Haight Street version [6][11][13]\n- **The Other One** (1 other source): This is the last show featuring one of the early sets of Other One lyrics, about waking with one's head missing [2]\n- **Cryptical Envelopment** (1 review): Reviewer notes Bobby's funky timing on the 'Coming around' section and the lyrics specific to this era [10]\n- **Viola Lee Blues Feedback** (1 review): Reviewer suggests the feedback ending followed because the guitars would be badly out of tune after the meltdown [11]\n\n## The recordings\n\n- **gd1968-02-02.sbd.jools.20299.sbeok.shnf** (recommended): soundboard; 7 songs; 33 min; rated 5/5 by 1 [1]\n- **gd68-02-02.sbd.jools.15801.sbeok.shnf**: soundboard; 6 songs; 46 min; rated 4.62/5 by 37 [2]. Said about its sound: Reviewer found the tape quality rough on two plays, yet still enjoyed how it sounded; Reviewer strummed along with The Other One and found the pitch nearly perfect, with powerful sound levels [5][12]\n- **gd1968-02-02.sbd.miller.97345.sbeok.flac16**: soundboard; 4 songs; 33 min; rated 3.93/5 by 14 [3]\n\n## Around the show\n\n- Reviewer describes the Crystal Ballroom as an old theater with a huge spring-loaded dance floor and a wonderful vibe [4]\n- Joe Jupille searched University of Washington Daily and Seattle Post-Intelligencer papers, finding only ads for Quicksilver and the Dead on 1/26 and 1/27 [1]\n- Reviewer says this music appears in plainer form than the swirling studio collage of Anthem of the Sun [13]\n\n## Tapers and lineage\n\n- **gd1968-02-02.sbd.jools.20299.sbeok.shnf**: This tape circulates mislabeled as 1/23/68 Eagles Auditorium, though no evidence shows any shows there beyond 1/26 and 1/27 [1]\n- **gd68-02-02.sbd.jools.15801.sbeok.shnf**: transferred by Julian (Jools) Elliott; source: Soundboard [2]. Also: David Gans aired both the 2/2/68 and 2/3/68 shows on The Grateful Dead Hour soon after they surfaced; The circulating Schoolgirl is actually from 2/3/68, spliced in by David Gans for Grateful Dead Hour 310 [2][7]\n- **gd1968-02-02.sbd.miller.97345.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> (4 Track) Master Reels -> Dat (44.1k) [3]\n\n## Art and photos\n\n- Poster by George Hunter: [Grateful Dead Quicksilver NOTICE! 1968 Crystal Ballroom AOR 3.103 Concert Poster](https://concertposterauction.com/Listing/Details/374636/Grateful-Dead-Quicksilver-NOTICE-1968-Crystal-Ballroom-AOR-3103-Concert-Poster) [17]\n- Fan art by jeffersonboots.free.fr: [Grateful Dead](http://jeffersonboots.free.fr/dead/dead.htm) [18]",

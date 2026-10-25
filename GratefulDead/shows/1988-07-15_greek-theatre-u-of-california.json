@@ -619,7 +619,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -650,8 +650,8 @@
     "guests": [],
     "next": {
      "date": "1988-07-16",
-     "show": "live:grateful-dead:1988-07-16:greek-theater-university-of-california",
-     "venue": "Greek Theater - University of California"
+     "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "previous": {
      "date": "1988-07-03",
@@ -1269,109 +1269,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 76,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1988-04-30",
+        "show": "live:grateful-dead:1988-04-30:frost-amphitheatre"
+       },
+       "plays_before": 129,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 34,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 42,
+       "last_played": {
+        "date": "1988-02-13",
+        "show": "live:grateful-dead:1988-02-13:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 250,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 20,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1988-04-05",
+        "show": "live:grateful-dead:1988-04-05:hartford-civic-center"
+       },
+       "plays_before": 209,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1988-06-19",
+        "show": "live:grateful-dead:1988-06-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 32,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-06-25",
+        "show": "live:grateful-dead:1988-06-25:buckeye-lake-music-center"
+       },
+       "plays_before": 263,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-06-28",
+        "show": "live:grateful-dead:1988-06-28:saratoga-performing-arts-center"
+       },
+       "plays_before": 332,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:set-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Set Break (KPFA)"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-06-28",
+        "show": "live:grateful-dead:1988-06-28:saratoga-performing-arts-center"
+       },
+       "plays_before": 249,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-06-28",
+        "show": "live:grateful-dead:1988-06-28:saratoga-performing-arts-center"
+       },
+       "plays_before": 191,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-06-23",
+        "show": "live:grateful-dead:1988-06-23:alpine-valley-music-theatre"
+       },
+       "plays_before": 124,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1988-06-20",
+        "show": "live:grateful-dead:1988-06-20:alpine-valley-music-theatre"
+       },
+       "plays_before": 186,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 298,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 1093,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 753,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 147,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 161,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 57,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 197,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:turn-on-your-lovelight",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 228,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -1379,184 +1563,306 @@
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t01-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t01 Shakedown Street"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t02-walking-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t02 Walkin' Blues"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t03-friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t03 Friend Of The Devil"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t04-queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t04 Queen Jane Approximately"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t05-dire-wolf",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t05 Dire Wolf"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t06-good-time-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t06 Good Time Blues"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t07-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t07 Cassidy"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t08-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t08 Bertha"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t09-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t09 Crowd Tuning"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t10-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t10 Scarlet Begonias"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t11-fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t11 Fire On The Mountain"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t12-man-smart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t12 Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t13-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t13 Ship Of Fools"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t14-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t14 Estimated Prophet"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t15-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t15 Drums"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t16-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t16 Space"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t17-i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t17 I Need A Miracle"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t18-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t18 The Wheel"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t19-gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t19 Gimme Some Lovin'"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t20-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t20 Morning Dew"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t21-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t21 Encore Break"
      },
      {
       "from": "gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-15-t22-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-15 t22 Turn On Your Lovelight"
      },
      {
       "from": "gd1988-07-15.137888.dbx.hale.flac16",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1988-04-04",
+        "show": "live:grateful-dead:1988-04-04:hartford-civic-center"
+       },
+       "plays_before": 25,
+       "total_plays": 36
+      },
       "title": "Good Time Blues"
      },
      {
       "from": "gd1988-07-15.137888.dbx.hale.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-06-23",
+        "show": "live:grateful-dead:1988-06-23:alpine-valley-music-theatre"
+       },
+       "plays_before": 109,
+       "total_plays": 182
+      },
       "title": "Man Smart/Woman Smarter"
      },
      {
       "from": "gd1988-07-15.137888.dbx.hale.flac16",
       "key": "song:grateful-dead:estimated-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3139,
+       "gap_shows": 643,
+       "last_played": {
+        "date": "1979-12-11",
+        "show": "live:grateful-dead:1979-12-11:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Estimated Jam"
      },
      {
       "from": "gd1988-07-15.160873.akgck61-beyerm201.hollbrook.flac2448",
       "key": "song:grateful-dead:encore-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Encore.Turn On Your Lovelight"
      }
     ],
     "subject_key": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1441,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Set Break (KPFA)"
+     ],
+     "show_number": 1546,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 9,
+   "parent_revision": 21,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:06.474648+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.667713+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 10,
-   "signature": "n_bNGRQsJnDCtEA4t7gu7YNiOInnXpdqxnqBRQ6TuPxBjpcRtVlCXGEvkfGUi-5bwQlbabXd3W3wJPLh2oplCw",
+   "revision": 22,
+   "signature": "DsitWDwySX7vahjUGAjXrziAkUlgkitiAAHdWLOhd383mPPJUHTxMKRmuEHi-cj97wTyRCm0wzBUpMfZTf-GAA",
    "subject_key": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:42:06.478180"
+   "updated_at": "2026-10-25T17:35:23.669415"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Gimme Some Lovin'** (2 reviews): Phil poured on bass; Brent laid out early, then played Hammond B3 after the second verse, pleasing the crowd; Reviewer calls Gimme Some Lovin' and Morning Dew standout renditions [24][28]\n- **Shakedown Street** (1 review): Reviewer singles out the Shakedown Street as great [25]\n- **Morning Dew** (1 review): Phil shook the Greek during the Dew; Jerry added effects after the quiet intro, during the closing jam [24]\n- **Turn On Your Lovelight** (1 review): Reviewer says the Lovelight rocks, and Bertha does too [29]\n\n## The recordings\n\n- **gd1988-07-15.143091.preFM.beta.miller.flac2496** (recommended): pre-FM broadcast master; 21 songs; 235 min; rated 4/5 by 1 [1]\n- **gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644**: audience recording; 22 songs; 164 min [3]\n- **gd88-07-15.sbd.clugston.10343.sbeok.shnf**: matrix (soundboard mixed with audience mics); 20 songs; 158 min; rated 3.55/5 by 11 [8]. Said about its sound: Says the Clugston matrix has better highs, bass, vocals and drums than the other version, though both lack something [22]\n- **gd1988-07-15.sbd.braverman.10079.sbeok.shnf**: soundboard; 20 songs; 158 min; rated 1.33/5 by 3 [9]. Said about its sound: A few seconds of music are missing around 3:04, possibly from tape flips [9]\n- **gd1988-07-15.sbd.clugston.braverman.tetzeli.fix-10343.34751.flac16**: soundboard; 20 songs; 158 min [10]\n- **gd88-07-15.schoeps-weber-small.gardner.9244.sbefail.shnf**: source not stated; 20 songs; 175 min; rated 4.29/5 by 17 [17]. Said about its sound: Calls the Schoeps audience recording one of the best audience tapes the reviewer has heard, preferable to the soundboard matrix; A brief stretch around 1:09-1:13 in Morning Dew sounds mono, possibly a dropout in one channel, unmentioned in notes [21][28]\n- **gd1988-07-15.160873.akgck61-beyerm201.hollbrook.flac2448**: source not stated; 20 songs; 157 min [18]. Said about its sound: Tape has a quick flip cut about two minutes from the end of a tune [18]\n\n## Around the show\n\n- Opening Shakedown follows about 84 seconds of tuning; reviewer finds it loud and funky, true to form [27]\n- The concert was a Rex benefit, broadcast live on KPFA Berkeley [3]\n- Reviewer considers this show exceptional for 1988 [30]\n- Jerry's Dew effort is very strong, but the show isn't top five of 1988; reviewer prefers 9/18 [32]\n\n## Tapers and lineage\n\n- **gd1988-07-15.143091.preFM.beta.miller.flac2496**: transferred by Charlie Miller; source: Pre-FM (KPFA Air-Check) > Beta HiFi Master (Sony ES-HG) [1]\n- **gd1988-07-15.140749.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644**: taped by Ted Mattes; transferred by Charlie Miller and Scott Clugston; source: Ted Mattes' Master Audience PCM (Nakamichi DMP-100 deck, Sony ESX-HiFi/L750 tape); Schoeps CMC3/MK41 mics, ortf (OTS); Transfer Info: Master PCM (Sony SL-10)>… [3]\n- **gd88-07-15.sbd.clugston.10343.sbeok.shnf**: source: Ultramatrix (SBD/AUD mix)> DAT> ?> CD (\"?\" may not be a generation, or it may be. I dunno.) [8]\n- **gd1988-07-15.sbd.braverman.10079.sbeok.shnf**: transferred by Peter Braverman; source: Ultramatrix > DAT [9]\n- **gd1988-07-15.sbd.clugston.braverman.tetzeli.fix-10343.34751.flac16**: transferred by Bill Tetzeli; source: Fix of shnid 10343 [10]. Also: Gap in Good Time Blues and Estimated patched with the same audience source Clugston used, using crossfades; CD 2/3 transition made seamless [10]\n- **gd88-07-15.schoeps-weber-small.gardner.9244.sbefail.shnf**: source: 2nd Row Behind Healy (see notes): Schoeps CMC42S (Spaced Omni 14' Split --> Oade Power Supply --> Sony PCM-F1 with Apogee modified A/D filters [17]\n- **gd1988-07-15.160873.akgck61-beyerm201.hollbrook.flac2448**: taped by Billy Myrick, Tom Pinney, Phil Schuman, Kyle Holbrook, John Goode; transferred by Kyle Holbrook; source: microphones: Beyer M201's aimedFWD (0')about 2 feet wide mixed with AKG ck61's XY> Tascam 442# mixed to 2 channels on the fly > recorder: Sony TCD5M|Maxell MX… [18]. Also: First generation from the dbx 4-channel master, decoded with a dbx224 [18]\n\n## Art and photos\n\n- Poster by Wolfgang's: [Grateful Dead Laminate from Greek Theatre, Jul 15, 1988 at Wolfgang's](https://www.wolfgangs.com/backstage-passes/grateful-dead/laminate/GRK880715.html) [34]",

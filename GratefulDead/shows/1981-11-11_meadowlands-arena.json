@@ -55,7 +55,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -119,130 +119,306 @@
     "setlist": [
      {
       "key": "song:grateful-dead:walking-the-dog",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4016,
+       "gap_shows": 771,
+       "last_played": {
+        "date": "1970-11-13",
+        "show": "live:grateful-dead:1970-11-13:46th-street-rock-palace"
+       },
+       "plays_before": 3,
+       "total_plays": 9
+      },
       "title": "Walkin' The Dog"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-10-10",
+        "show": "live:grateful-dead:1981-10-10:stadthalle"
+       },
+       "plays_before": 282,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 216,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 122,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 441,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 266,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 117,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 243,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 139,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 160,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 113,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 184,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 191,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 637,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-10-19",
+        "show": "live:grateful-dead:1981-10-19:sports-palace"
+       },
+       "plays_before": 303,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 186,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 158,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1981-10-06",
+        "show": "live:grateful-dead:1981-10-06:rainbow-theater"
+       },
+       "plays_before": 95,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1981-11-11:meadowlands-arena",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 978,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Walkin' The Dog"
+     ],
+     "first_in_archive": [
+      "Dear Mr. Fantasy",
+      "Throwing Stones"
+     ],
+     "show_number": 1074,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Meadowlands Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.573336+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.888492+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ny-Zk54BbC_vAzVpRywBCfF0kidupAhEN9Y9haiMbGUi33-soThSy3AvMuWNsdkidMhtSYW4J4jb5mCZypzuBQ",
+   "revision": 41,
+   "signature": "9hpOGHaCb9f780swoEu8EQPT5sTmR5fvgpK-cBPFzYfO0UNH9wtP2UTZTBQPbStR74Lnoo5TGCn631xoj7TvDQ",
    "subject_key": "live:grateful-dead:1981-11-11:meadowlands-arena",
-   "updated_at": "2026-10-25T16:41:54.573979"
+   "updated_at": "2026-10-25T17:35:17.888986"
   }
  },
  "recommended": {

@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -105,57 +105,101 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hank-harrison-speaks",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks"
      },
      {
       "key": "song:grateful-dead:alabama-getaway-aired-on-radio-show-left-in-for-historical-accuracy-not-complete",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Alabama Getaway - aired on radio show, left in for historical accuracy, not complete"
      },
      {
       "key": "song:grateful-dead:pig-pen-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pig Pen Interview"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-phil-lesh",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Phil Lesh"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-tom-constanten",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Tom Constanten"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-paul-foster-original-merry-prankster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Paul Foster, Original Merry Prankster"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-mike-ferguson-whom-hank-knew-for-20-years",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Mike Ferguson, whom Hank knew for 20 years"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-gary-duncan-of-quicksilver-messenger-service-in-hawaii-with-nicky-hopkins-on-piano-in-the-background",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Gary Duncan of Quicksilver Messenger Service in Hawaii with Nicky Hopkins on piano in the background"
      },
      {
       "key": "song:grateful-dead:hank-harrison-speaks",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrison speaks"
      },
      {
       "key": "song:grateful-dead:hank-harrsion-speaks-and-interviews-jerry-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hank Harrsion speaks and interviews Jerry Garcia"
      },
      {
       "key": "song:grateful-dead:pig-pen-interview-part-1-then-hank-harrsion-speaks-and-interviews-describes-chateau-owned-by-frank-serratoni-that-the-dead-live-in-then-pig-pen-interview-part-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pig Pen Interview Part 1 -then Hank Harrsion speaks and interviews describes chateau owned by Frank Serratoni that the Dead live in, then Pig Pen Interview Part 2"
      }
     ],
@@ -163,27 +207,39 @@
     "subject_key": "live:grateful-dead:1980-01-01:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 813,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Hank Harrsion speaks",
+      "Alabama Getaway - aired on radio show, left in for historical accuracy, not complete",
+      "Pig Pen Interview",
+      "Hank Harrsion speaks and interviews Phil Lesh",
+      "Hank Harrsion speaks and interviews Tom Constanten",
+      "Hank Harrsion speaks and interviews Paul Foster, Original Merry Prankster",
+      "Hank Harrsion speaks and interviews Mike Ferguson, whom Hank knew for 20 years",
+      "Hank Harrsion speaks and interviews Gary Duncan of Quicksilver Messenger Service in Hawaii with Nicky Hopkins on piano in the background",
+      "Hank Harrison speaks",
+      "Hank Harrsion speaks and interviews Jerry Garcia",
+      "Pig Pen Interview Part 1 -then Hank Harrsion speaks and interviews describes chateau owned by Frank Serratoni that the Dead live in, then Pig Pen Interview Part 2"
+     ],
+     "show_number": 909,
+     "shows_in_archive": 2097,
      "songs": 11,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.236062+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.395834+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "80fjrSTZEsw0Vd-WkYwbsHQ-_hi3Tgydol4timDXNcWduufoJdB3r98XKn5nKHTTGTqVGc6LpFnh5LVi4DKWDw",
+   "revision": 40,
+   "signature": "imAHLnT_HMjB_a3TM91ShSAe_CspkrllySEM2jXyl41YzAMfl9rJtkloknIH3w1FhvZG0zMY-IU0defH_8xfCQ",
    "subject_key": "live:grateful-dead:1980-01-01:unknown",
-   "updated_at": "2026-10-25T16:41:53.236611"
+   "updated_at": "2026-10-25T17:35:16.396370"
   }
  },
  "recommended": {

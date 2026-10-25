@@ -350,7 +350,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -366,13 +366,13 @@
     "guests": [],
     "next": {
      "date": "1982-12-28",
-     "show": "live:grateful-dead:1982-12-28:oakland-auditorium",
-     "venue": "Oakland Auditorium"
+     "show": "live:grateful-dead:1982-12-28:oakland-auditorium-arena",
+     "venue": "Oakland Auditorium Arena"
     },
     "previous": {
      "date": "1982-12-26",
-     "show": "live:grateful-dead:1982-12-26:oakland-auditorium",
-     "venue": "Oakland Auditorium"
+     "show": "live:grateful-dead:1982-12-26:oakland-auditorium-arena",
+     "venue": "Oakland Auditorium Arena"
     },
     "recommended": {
      "identifier": "gd1982-12-27.mtx.sb18a.34705.sbeok.flac16",
@@ -596,106 +596,277 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 268,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 168,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 94,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-09-24",
+        "show": "live:grateful-dead:1982-09-24:carrier-dome-syracuse-u"
+       },
+       "plays_before": 135,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 269,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 179,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 467,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 286,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-09-12",
+        "show": "live:grateful-dead:1982-09-12:lakeland-civic-center"
+       },
+       "plays_before": 237,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-11-26",
+        "show": "live:grateful-dead:1982-11-26:bob-marley-performing-arts-center"
+       },
+       "plays_before": 144,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-11-26",
+        "show": "live:grateful-dead:1982-11-26:bob-marley-performing-arts-center"
+       },
+       "plays_before": 177,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-11-26",
+        "show": "live:grateful-dead:1982-11-26:bob-marley-performing-arts-center"
+       },
+       "plays_before": 130,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 366,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-12-26",
+        "show": "live:grateful-dead:1982-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 709,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-12-26",
+        "show": "live:grateful-dead:1982-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 373,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 74,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 366,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-11-26",
+        "show": "live:grateful-dead:1982-11-26:bob-marley-performing-arts-center"
+       },
+       "plays_before": 207,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 393,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 191,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -704,26 +875,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1052,
-     "shows_in_archive": 1855,
+     "show_number": 1149,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland Auditorium Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.537027+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.571511+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "HL5SgoheuU7W71p0JvQQJ7vuSA9runsGhnwfNE1UPc2BQr6hSvFJ-JZoPfdbdyVm2QBK8wFAEOUBRSHN350qDQ",
+   "revision": 41,
+   "signature": "NY3Ew193f2ufwH_hhKyF0t0RumPsHSpL7zRC2gXjzaD_wEytOKTNLV5AVvDZ3SLhbUxeIcpvJkbimYbHP5TxAg",
    "subject_key": "live:grateful-dead:1982-12-27:oakland-auditorium-arena",
-   "updated_at": "2026-10-25T16:41:55.538287"
+   "updated_at": "2026-10-25T17:35:18.572216"
   }
  },
  "recommended": {

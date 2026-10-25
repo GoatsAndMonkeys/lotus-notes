@@ -162,7 +162,7 @@
      "id": 11,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -182,9 +182,9 @@
      "venue": "Fillmore Auditorium"
     },
     "previous": {
-     "date": "1966-10-02",
-     "show": "live:grateful-dead:1966-10-02:san-francisco-state-university",
-     "venue": "San Francisco State University"
+     "date": "1966-10-07",
+     "show": "live:grateful-dead:1966-10-07:winterland-arena",
+     "venue": "Winterland Arena"
     },
     "recommended": {
      "identifier": "gd1966-10-31.sbd.bershaw.5416.shnf",
@@ -226,7 +226,16 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jam-session",
-      "stats": {},
+      "stats": {
+       "days_since": 296,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Jam Session (musicians unknown)"
      }
     ],
@@ -235,26 +244,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 26,
-     "shows_in_archive": 1855,
+     "show_number": 32,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.496288+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.252648+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "gLgDclr0aB8_iOb3-TLGSfjQqdLNxPk1c8A0DSipO7URwxW6eDtJgCdiSk6-wulAEtFKvwMUFL68jJL80V6rBQ",
+   "revision": 40,
+   "signature": "0sY9ns4x4oD7fBU8ZIArdsyl6aXTv1Y44kucmJTvVlEUcZcyulOEXiSjVGIbsoUqqb4VxFVk9hg-dCTNN0ttAA",
    "subject_key": "live:grateful-dead:1966-10-31:winterland-arena",
-   "updated_at": "2026-10-25T16:41:38.497874"
+   "updated_at": "2026-10-25T17:35:09.253092"
   }
  },
  "recommended": {

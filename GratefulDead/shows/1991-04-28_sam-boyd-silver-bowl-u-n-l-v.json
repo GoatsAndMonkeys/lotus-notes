@@ -527,7 +527,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -643,13 +643,13 @@
     "guests": [],
     "next": {
      "date": "1991-05-03",
-     "show": "live:grateful-dead:1991-05-03:cal-expo-amphitheatre",
-     "venue": "Cal Expo Amphitheatre"
+     "show": "live:grateful-dead:1991-05-03:cal-expo",
+     "venue": "Cal Expo"
     },
     "previous": {
      "date": "1991-04-27",
-     "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl",
-     "venue": "Sam Boyd Silver Bowl"
+     "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl-u-n-l-v",
+     "venue": "Sam Boyd Silver Bowl, U.N.L.V."
     },
     "recommended": {
      "identifier": "gd1991-04-28.at853.lech.116859.flac16",
@@ -1111,113 +1111,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-04-07",
+        "show": "live:grateful-dead:1991-04-07:orlando-arena"
+       },
+       "plays_before": 435,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-04-01",
+        "show": "live:grateful-dead:1991-04-01:greensboro-coliseum"
+       },
+       "plays_before": 256,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-04-07",
+        "show": "live:grateful-dead:1991-04-07:orlando-arena"
+       },
+       "plays_before": 30,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1991-03-29",
+        "show": "live:grateful-dead:1991-03-29:nassau-coliseum"
+       },
+       "plays_before": 230,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-04-08",
+        "show": "live:grateful-dead:1991-04-08:orlando-arena"
+       },
+       "plays_before": 594,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1991-03-21",
+        "show": "live:grateful-dead:1991-03-21:capital-centre"
+       },
+       "plays_before": 371,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-04-01",
+        "show": "live:grateful-dead:1991-04-01:greensboro-coliseum"
+       },
+       "plays_before": 267,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-04-09",
+        "show": "live:grateful-dead:1991-04-09:orlando-arena"
+       },
+       "plays_before": 59,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-04-09",
+        "show": "live:grateful-dead:1991-04-09:orlando-arena"
+       },
+       "plays_before": 179,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-04-07",
+        "show": "live:grateful-dead:1991-04-07:orlando-arena"
+       },
+       "plays_before": 98,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-04-08",
+        "show": "live:grateful-dead:1991-04-08:orlando-arena"
+       },
+       "plays_before": 484,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:deal",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1991-04-05",
+        "show": "live:grateful-dead:1991-04-05:the-omni"
+       },
+       "plays_before": 394,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-04-27",
+        "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 1305,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-04-27",
+        "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 965,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1991-03-29",
+        "show": "live:grateful-dead:1991-03-29:nassau-coliseum"
+       },
+       "plays_before": 36,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-04-09",
+        "show": "live:grateful-dead:1991-04-09:orlando-arena"
+       },
+       "plays_before": 536,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-04-09",
+        "show": "live:grateful-dead:1991-04-09:orlando-arena"
+       },
+       "plays_before": 365,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1991-03-31",
+        "show": "live:grateful-dead:1991-03-31:greensboro-coliseum"
+       },
+       "plays_before": 382,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-04-03",
+        "show": "live:grateful-dead:1991-04-03:the-omni"
+       },
+       "plays_before": 112,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-04-07",
+        "show": "live:grateful-dead:1991-04-07:orlando-arena"
+       },
+       "plays_before": 120,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      }
     ],
@@ -1225,19 +1405,41 @@
      {
       "from": "gd1991-04-28.112926.NeumannKMF4.daweez.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-04-27",
+        "show": "live:grateful-dead:1991-04-27:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 63,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1991-04-28.AKG451.Darby.118632.Flac1644",
       "key": "song:grateful-dead:bird-song-set-break-with-carlos-santana",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song/Set Break With Carlos Santana"
      },
      {
       "from": "gd1991-04-28.AKG451.Darby.118632.Flac1644",
       "key": "song:grateful-dead:sunshine-daydream-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 298,
+       "gap_shows": 70,
+       "last_played": {
+        "date": "1990-07-04",
+        "show": "live:grateful-dead:1990-07-04:sandstone-ampitheatre"
+       },
+       "plays_before": 7,
+       "total_plays": 13
+      },
       "title": "Sunshine Daydream/Encore Break"
      }
     ],
@@ -1245,26 +1447,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1660,
-     "shows_in_archive": 1855,
+     "show_number": 1765,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Sam Boyd Silver Bowl, U.N.L.V."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 10,
+   "parent_revision": 22,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:16.179345+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.402256+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 11,
-   "signature": "10lX-tt1ciuayB8eKSK9JnDUwIbY7yXhjcESwwhdu1FOq3X-LJRC0JTIpRCnKHUQm_OfKNgUKN04ZxFvMZbHDQ",
+   "revision": 23,
+   "signature": "bfzzQT_ayqAI3PsIQRZni3PHbc0Ox1N_MfPlczx1k7LLsWRlvwutyGxt5NDTFZRtZ4el9_C24zY2eJK6ERxSBg",
    "subject_key": "live:grateful-dead:1991-04-28:sam-boyd-silver-bowl-u-n-l-v",
-   "updated_at": "2026-10-25T16:42:16.183518"
+   "updated_at": "2026-10-25T17:35:26.403611"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): Bob broke into a huge grin about thirty seconds into the opener, signaling a special show; Jack Straw launches out of the gate at full speed [16][17][19]\n- **Bird Song** (1 review, 2 other sources): Bird Song ran about seventeen minutes with Santana sitting in, setting up the second set; Carlos Santana plays on Bird Song [3][6][22]\n\n## The recordings\n\n- **gd1991-04-28.at853.lech.116859.flac16** (recommended): source not stated; 20 songs; 163 min [1]\n- **gd1991-04-28.sbd.miller.92278.sbeok.flac16**: soundboard; 19 songs; 164 min; rated 4.11/5 by 9 [3]\n- **gd91-04-28.neumann.vernon.8196.sbeok.shnf**: source not stated; 19 songs; 161 min; rated 4.5/5 by 4 [10]. Said about its sound: Audience recording with extraordinary bass response; U89 mics; Garcia's vocals sit low in the mix [18]\n- **gd91-04-28.sbd.vernon.6112.sbeok.shnf**: soundboard; 19 songs; 155 min; rated 4.07/5 by 28 [12]. Said about its sound: Sound at Jack Straw was pristine and very loud, much better than the previous show's poor sound; Recording is full and rich in Phil's bass, with heavy bombs throughout; Sound quality described as rich, thick and solid [16][17][21][23][24][25]\n\n## Around the show\n\n- Phil spent a long while adjusting his system before the show; the band then opened with Jack Straw [16]\n- This late-April Las Vegas run was the first there for the two new members, Welnick and Hornsby [19]\n- Lyrics with multiple meanings stood out, including gambling references fitting for Las Vegas [21]\n- A man ran onstage during Deal and Jerry did not flinch [22]\n- Commenter recalls this being part of a Saturday and Sunday Las Vegas pair with Santana [29]\n- Bass character compared to the Phish Big Cypress recording made with front-of-board U89 mics [18]\n\n## Tapers and lineage\n\n- **gd1991-04-28.at853.lech.116859.flac16**: taped by John Lech; transferred by Jeff Bowen;Brad Foster; source: Source: (FOB) AT853a [cardioids/xy] > Panasonic SV-255; [1]. Also: Audience taping with mics at head height on a custom XY bar atop a blacked-out car antenna; Taped by John, transfer shared by Jeff; discs extracted in secure mode, joined and re-tracked by set [1]\n- **gd1991-04-28.sbd.miller.92278.sbeok.flac16**: taped by Unknown; transferred by Charlie Miller; source: Set 1: SBD -> Dat -> Cassette Master -> Dat -> CD DSet 2: SBD -> Dat (44.1k) [3]. Also: Hybrid source: set one is straight soundboard feed, set two comes from the UltraMatrix mix [3]\n- **gd91-04-28.neumann.vernon.8196.sbeok.shnf**: source: FOB Neumann U87's > ? > CDR [10]\n- **gd91-04-28.sbd.vernon.6112.sbeok.shnf**: source: Purported: SBD> Phil Lesh's cassette master> DAT> CDR [12]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1991-04-27 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV, USA - Jerry Garcia](https://jerrygarcia.com/show/1991-04-27-sam-boyd-silver-bowl-u-n-l-v-las-vegas-nv-usa/) [34]\n- Poster by Philip Andelman Grateful Dead: [1991-04-28 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV, USA - Jerry Garcia](https://jerrygarcia.com/show/1991-04-28-sam-boyd-silver-bowl-u-n-l-v-las-vegas-nv-usa/) [35]",

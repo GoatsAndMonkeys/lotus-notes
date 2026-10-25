@@ -788,7 +788,7 @@
      "id": 39,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -819,8 +819,8 @@
     "guests": [],
     "next": {
      "date": "1984-04-16",
-     "show": "live:grateful-dead:1984-04-16:rochester-war-memorial",
-     "venue": "Rochester War Memorial"
+     "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium",
+     "venue": "Community War Memorial Auditorium"
     },
     "previous": {
      "date": "1984-04-13",
@@ -1617,106 +1617,272 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 83,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-06",
+        "show": "live:grateful-dead:1984-04-06:aladdin-theater"
+       },
+       "plays_before": 194,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 74,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-06",
+        "show": "live:grateful-dead:1984-04-06:aladdin-theater"
+       },
+       "plays_before": 255,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 38,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 316,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-04-08",
+        "show": "live:grateful-dead:1984-04-08:the-centrum"
+       },
+       "plays_before": 158,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 35,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-04-08",
+        "show": "live:grateful-dead:1984-04-08:the-centrum"
+       },
+       "plays_before": 390,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 134,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playing-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 108,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 45
+      },
       "title": "Playin' Jam"
      },
      {
       "key": "song:grateful-dead:dont-need-love",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 16
+      },
       "title": "I Don't Need Love"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 788,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 452,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 156,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night-tease",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "One More Saturday Night Tease"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 50,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 236,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 61,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1724,178 +1890,300 @@
      {
       "from": "gd1984-04-14.senn421.mccue.ford.79652.sbeok.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 43,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1984-04-14.aud.bandrofcheck.34555.sbeok.shnf",
       "key": "song:grateful-dead:crowd-tuning-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd/tuning space"
      },
      {
       "from": "gd1984-04-14.aud.bandrofcheck.34555.sbeok.shnf",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 26,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1984-04-14.aud.bandrofcheck.34555.sbeok.shnf",
       "key": "song:grateful-dead:crowd-drum-solo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd/drum solo"
      },
      {
       "from": "gd1984-04-14.126040.sennheiser_441.scarletdog.flac16",
       "key": "song:grateful-dead:playing-revisit",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playing revisit"
      },
      {
       "from": "gd1984-04-14.148458.fob.senn.441.koucky.miller.clugston.flac2496",
       "key": "song:grateful-dead:ecnore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Emcore Break"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t01-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t01 Feel Like A Stranger"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t02-they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t02 They Love Each Other"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t03-c-c-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t03 C.C. Rider"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t04-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t04 Brown Eyed Women"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t05-my-brother-essau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t05 My Brother Essau"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t06-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t06 Tennessee Jed"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s1t07-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s1t07 Let It Grow"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t01-touch-of-grey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t01 Touch Of Grey"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t02-playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t02 Playin In The Band"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t03-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t03 Terrapin Station"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t04-dont-need-love",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t04 Don't Need Love"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t05 Drums"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t06 Space"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t07-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t07 Morning Dew"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t08-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t08 Throwing Stones"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t09-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t09 Saturday Night"
      },
      {
       "from": "gd1984-04-14.176745.beyer.3ch.strizak.vita.flac2448",
       "key": "song:grateful-dead:gd84-04-14s2t10-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84 04 14s2t10 Baby Blue"
      },
      {
       "from": "gd1984-04-14.157542.aud.carpenter.flac2448",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 221,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 27,
+       "total_plays": 80
+      },
       "title": "Playing Reprise"
      },
      {
       "from": "gd1984-04-14.109331.beyer-senn.daweez.D5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 17,
+       "total_plays": 74
+      },
       "title": "noodling"
      }
     ],
     "subject_key": "live:grateful-dead:1984-04-14:hampton-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1131,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "One More Saturday Night Tease"
+     ],
+     "show_number": 1234,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.150668+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.529494+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "abc9ECVg4nxs5te1kBgcxkwtpAFw7AHTpmHIBwCExESHz0V8lNeqmVql5OsZeQc-mj5fzc6FzE5I8ku4wb8WBw",
+   "revision": 41,
+   "signature": "XInpmAm31HYeAfv9Q6kYkOYQn26pRoehhoguEjZjofXvgV4iuyKFmfIiHDRRX3iXCd6XbkkseyI9qk2zzDbIAg",
    "subject_key": "live:grateful-dead:1984-04-14:hampton-coliseum",
-   "updated_at": "2026-10-25T16:41:58.152922"
+   "updated_at": "2026-10-25T17:35:19.531068"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Feel Like A Stranger** (1 review): Second night opener described as a killer performance [33]\n- **Let It Grow** (1 review): Strong performance ending the first set [33]\n- **Touch of Grey** (1 review): Slower version played in the second set [33]\n- **I Don't Need Love** (1 review): Listener dislikes this specific song despite liking Brent's other material [26]\n- **Morning Dew** (1 review): Transition from Space into Morning Dew described as beautiful [26]\n- **Terrapin** (1 review): Performance considered the standard against which others are measured [35]\n\n## The recordings\n\n- **gd1984-04-14.sbd.walker-smiller.32501.sbeok.flac16** (recommended): soundboard; 19 songs; 140 min; rated 4/5 by 2 [1]. Said about its sound: Discontinuity occurs approximately four seconds into the song [1]\n- **gd1984-04-14.senn421.mccue.ford.79652.sbeok.flac16**: source not stated; 19 songs; 143 min; rated 5/5 by 2 [2]. Said about its sound: Patch applied between 4:58 and 5:00 [2]\n- **gd1984-04-14.aud.bandrofcheck.34555.sbeok.shnf**: audience recording; 19 songs; 152 min [3]. Said about its sound: Very little crowd noise removed from the recording [3]\n- **gd1984-04-14.164499.neumann.u87.eaton.miller.clugston.flac2496**: audience recording; 17 songs; 145 min [4]\n- **gd1984-04-14.neumann-u87.eaton.miller.90595.sbeok.flac16**: source not stated; 17 songs; 144 min; rated 4.2/5 by 10 [18]. Said about its sound: Excellent audience recording with Jerry in good voice; Review favors audience recording over soundboard source; Stunning audience recording with perfect band synchrony [27][28][36]\n\n## Around the show\n\n- Second night of a two night run at Hampton Coliseum [26]\n- Crowd eruptions during the jam made the performance better [30]\n- Jerry played louder and louder in response to crowd energy [30]\n- Hampton venue compared to a big space ship [34]\n- Magical synergy between band and audience audible from start [36]\n- Jim helped the reviewer get close to the patch [37]\n- Hampton 84 second night had the best sound of any year [37]\n\n## Tapers and lineage\n\n- **gd1984-04-14.sbd.walker-smiller.32501.sbeok.flac16**: taped by Transferred/Edited by Charlie Miller; source: SBD -> Cassette Master -> Cassette (Sony TC-WE475) -> Sony R500 (Pass Through) -> SEK'D Prodif Plus -> Samplitude Professional v8.01 -> FLAC [1]. Also: Cassettes provided by Paul Scotton and Joani Walker [1]\n- **gd1984-04-14.senn421.mccue.ford.79652.sbeok.flac16**: taped by Mark McCue & unknown; source: (FOB) Sennheiser 421s (shoulder level) > Sony D5 > Sony D5 > Maxell XLII 90s (MAC); MAC > Nakamichi CD2 [azimuth adjusted] > rca/xlr > Lunatec V3 > coax >… [2]. Also: Tapers positioned about 25 feet from the stage; Patches sourced from shn id 32501 [2][37]\n- **gd1984-04-14.aud.bandrofcheck.34555.sbeok.shnf**: source: unknown shotgun mics > Sony D6 > Maxell MX 90s (MC) > Marantz PRD505 (azimuth adjusted) > Marantz Intergrated Stereo Amp MP-68 > SBLive! > Audacity… [3]. Also: Recorded on two cassettes without tape flips during the show [3]\n- **gd1984-04-14.164499.neumann.u87.eaton.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master (FOB)(DFC) Audience Cassettes; Neumann U87 mics > Sony D5M [4]. Also: Rob Eaton recorded and transferred the file to hard drive; Sennheiser 441 source supplies first notes and crowd; Sennheiser 441 source supplies a 0:27 patch [4]\n- **gd1984-04-14.neumann-u87.eaton.miller.90595.sbeok.flac16**: taped by Rob Eaton; transferred by Charlie Miller; source: (FOB) Neumann U87 -> Cassette Master (Sony D5) -> Dat (48k) D [18]",

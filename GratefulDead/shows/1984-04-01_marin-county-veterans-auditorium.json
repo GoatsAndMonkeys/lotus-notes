@@ -456,7 +456,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -464,14 +464,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steven Rood Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 26,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12151317/t840401.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "1984-04-01 Marin County Veterans Auditorium, San Rafael, CA, USA ....",
+     "quote_or_claim": "1984-04-01 Marin County Veterans Auditorium, San Rafael, CA, US….",
      "site": "Jerry Garcia",
      "title": "1984-04-01 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-04-01-marin-county-veterans-auditorium-san-rafael-ca-usa/",
@@ -479,14 +479,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steve Schneider Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 27,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12151317/t840331.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "1984-03-31 Marin County Veterans Auditorium, San Rafael, CA, USA ....",
+     "quote_or_claim": "1984-03-31 Marin County Veterans Auditorium, San Rafael, CA, US….",
      "site": "Jerry Garcia",
      "title": "1984-03-31 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-03-31-marin-county-veterans-auditorium-san-rafael-ca-usa/",
@@ -494,14 +494,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steve Schneider Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 28,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12151317/t840329.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "1984-03-29 Marin County Veterans Auditorium, San Rafael, CA, USA ....",
+     "quote_or_claim": "1984-03-29 Marin County Veterans Auditorium, San Rafael, CA, US….",
      "site": "Jerry Garcia",
      "title": "1984-03-29 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-03-29-marin-county-veterans-auditorium-san-rafael-ca-usa/",
@@ -552,8 +552,8 @@
     },
     "previous": {
      "date": "1984-03-31",
-     "show": "live:grateful-dead:1984-03-31:marin-county-civic-center",
-     "venue": "Marin County Civic Center"
+     "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium",
+     "venue": "Marin County Veterans Auditorium"
     },
     "recommended": {
      "identifier": "gd1984-04-01.nak304.mikeg-suraci.79458.sbeok.flac16",
@@ -925,123 +925,321 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-01-20",
+        "show": "live:grateful-dead:1984-01-20:carrier-dome-syracuse-u"
+       },
+       "plays_before": 341,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 215,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 487,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 330,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 163,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1983-10-21",
+        "show": "live:grateful-dead:1983-10-21:the-centrum"
+       },
+       "plays_before": 128,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 187,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 315,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 36,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 166,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1983-10-31",
+        "show": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 49,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1983-10-31",
+        "show": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 48,
+       "total_plays": 118
+      },
       "title": "Slipknot"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1983-10-31",
+        "show": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 124,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-01-20",
+        "show": "live:grateful-dead:1984-01-20:carrier-dome-syracuse-u"
+       },
+       "plays_before": 236,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 133,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 783,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 783,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 447,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 203,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1983-09-11",
+        "show": "live:grateful-dead:1983-09-11:santa-fe-downs"
+       },
+       "plays_before": 155,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 163,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1983-10-21",
+        "show": "live:grateful-dead:1983-10-21:the-centrum"
+       },
+       "plays_before": 77,
+       "total_plays": 279
+      },
       "title": "I Need Amiracle"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 167,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1983-10-17",
+        "show": "live:grateful-dead:1983-10-17:olympic-center"
+       },
+       "plays_before": 206,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 341,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 33,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      }
     ],
@@ -1049,121 +1247,296 @@
      {
       "from": "gd1984-04-01.111291.beyer-senn.nubar.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 15,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1984-04-01.111291.beyer-senn.nubar.d5scott.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 167,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1983-10-17",
+        "show": "live:grateful-dead:1983-10-17:olympic-center"
+       },
+       "plays_before": 61,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      },
      {
       "from": "gd1984-04-01.sonyecm.andrewf.30828.sbeok.flac16",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 25,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 285,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-01-20",
+        "show": "live:grateful-dead:1984-01-20:carrier-dome-syracuse-u"
+       },
+       "plays_before": 184,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 28,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 112,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 154,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb's Blues"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 282,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 62,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 381,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 384,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 229,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 222,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 387,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 171,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 287,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 363,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "from": "gd1984-04-01.152073.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-03-31",
+        "show": "live:grateful-dead:1984-03-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 60,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -1171,26 +1544,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1126,
-     "shows_in_archive": 1855,
+     "show_number": 1229,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Marin County Veterans Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:57.958212+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.493444+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "uEeruryE_c2DOVNT19aFPG4Sx9g3Js555OjW9Y2fZ-svxYjIliZQ2iSscnlHKRoLMpv7W_dqoG4ObjTw1QG9Ag",
+   "revision": 33,
+   "signature": "wXvMYNhs4YcIwWwXM3ih5_qkQf3oCHz_pDDGdAprLMoW56vCbgopiijKXTarZQ9wgJ9imCayI--25_9BU1VfBw",
    "subject_key": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium",
-   "updated_at": "2026-10-25T16:41:57.967977"
+   "updated_at": "2026-10-25T17:35:19.494521"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Terrapin Station** (2 reviews): The reviewer highlights this song, noting the unusual second set sequence; Jerry sounds awesome performing this song, according to the listener [13][20]\n- **Help On The Way** (1 review): Brent's keys are described as classic at the beginning of this song [13]\n- **Morning Dew** (1 review): Morning Dew comes out of Space like a benediction, per the listener [23]\n\n## The recordings\n\n- **gd1984-04-01.nak304.mikeg-suraci.79458.sbeok.flac16** (recommended): soundboard; 22 songs; 147 min; rated 5/5 by 2 [1]\n- **gd1984-04-01.sbd.walker-scotton.miller.105822.flac16**: soundboard; 21 songs; 154 min; rated 4/5 by 6 [3]\n- **gd1984-04-01.176251.senn421.bradt.miller.clugston.flac2496**: audience recording; 21 songs; 153 min [4]\n- **gd1984-04-01.fob.sonyECM220t.kirschner.miller.95693.sbeok.flac16**: source not stated; 21 songs; 154 min; rated 4.73/5 by 11 [6]\n- **gd1984-04-01.sonyecm.andrewf.30828.sbeok.flac16**: source not stated; 22 songs; 154 min [8]\n- **gd84-04-01.sbd.serafin.7366.sbeok.shnf**: soundboard; 20 songs; 151 min; rated 4.27/5 by 22 [11]. Said about its sound: The second set is called the best, slipping and sliding right along; The source sounds great, though the download had cuts in the Help transition; The reviewer requests fixing the cut or fade out between Drums and Morning Dew [13][15][16][18]\n\n## Around the show\n\n- A neighbor called every song in the second set, which freaked the 16-year-old reviewer out [19]\n- Smoke allegedly arose from Jerry's guitar, witnessed by two people next to the reviewer [19]\n- The reviewer remembers lying on the living room floor, melting to this hometown gig [23]\n- First set tunes from upcoming In the Dark sound groovy but a bit studio tight [18]\n- This show far exceeds anything else done in 1984, called the Barton Hall of the 80s [24]\n\n## Tapers and lineage\n\n- **gd1984-04-01.nak304.mikeg-suraci.79458.sbeok.flac16**: taped by Mike G. and Tony Suraci; transferred by Tony Suraci; source: Nakamichi CM304's>Sony D5M>Sony D5M Location: At SBD/Stand at 7 Feet [1]\n- **gd1984-04-01.sbd.walker-scotton.miller.105822.flac16**: taped by Paul Scotton and Joani Walker; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D5) -> Cassette (Sony D5/Maxell XLIIS-90) [3]\n- **gd1984-04-01.176251.senn421.bradt.miller.clugston.flac2496**: taped by Bill Bradt; transferred by Scott Clugston, Charlie Miller; source: Bill Bradt's Master Audience Cassettes: Sennheiser 421 mics > Sony D5M (TDK MA90) [4]. Also: Thanks to Bill Bradt and Kathy Weir Bradt for the master cassettes; Sony ECM220t and Nakamichi 304 sources combined to patch an 11:22 gap in Drums [4]\n- **gd1984-04-01.fob.sonyECM220t.kirschner.miller.95693.sbeok.flac16**: taped by Michael Kirschner; transferred by Charlie Miller; source: (FOB) Sony ECM-220T -> Cassette Master (Sony TC-D5M/Fuji Metal Tape/Dolby B) [6]. Also: Nakamichi 300/CP4 cassette master supplies portions of Good Lovin' from the Sony ECM220t [6]\n- **gd1984-04-01.sonyecm.andrewf.30828.sbeok.flac16**: taped by Andrew F.; source: Sony ECM-939LT stereo mics (x2) > Marantz PMD-340 cassette deck (Dolby On) > MAC > Sony TC-D5M > Soundblaster > Soundforge > CD-Wave > TLH > FLAC [8]. Also: Soundforge patched right channel over left-channel drop-outs caused by a faulty mic cord [8]\n- **gd84-04-01.sbd.serafin.7366.sbeok.shnf**: source: Soundboard [11]. Also: The cassette copy is hissy and hi-gen with vinyl-sounding pops, unlike the digital glitches; The reviewer recalls the original cassette filler included Desolation Row and Queen Bee Jane [15][21]\n\n## Art and photos\n\n- Poster by Steven Rood Grateful Dead: [1984-04-01 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-04-01-marin-county-veterans-auditorium-san-rafael-ca-usa/) [26]\n- Poster by Steve Schneider Grateful Dead: [1984-03-31 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-03-31-marin-county-veterans-auditorium-san-rafael-ca-usa/) [27]\n- Poster by Steve Schneider Grateful Dead: [1984-03-29 Marin County Veterans Auditorium, San Rafael, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-03-29-marin-county-veterans-auditorium-san-rafael-ca-usa/) [28]\n- Poster by Grateful Dead: [Grateful Dead GD Laminate, Marin Veterans Auditorium](https://www.dead.net/archives/1984/clippings/gd-laminate-marin-veterans-auditorium) [29]\n- Fan art by Jerry Garcia: [1984-03-28 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1984-03-28-backstage-pass/) [30]",

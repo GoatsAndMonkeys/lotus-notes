@@ -523,7 +523,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1037,129 +1037,341 @@
     "setlist": [
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-05-18",
+        "show": "live:grateful-dead:1976-05-18:studio"
+       },
+       "plays_before": 1,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 2,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 594,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 88,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 898,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 58,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 50,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 7,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:le-club-front-studios"
+       },
+       "plays_before": 1,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 58,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 6,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 550,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1974-12-01",
+        "show": "live:grateful-dead:1974-12-01:studio"
+       },
+       "plays_before": 31,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1616,
+       "gap_shows": 235,
+       "last_played": {
+        "date": "1971-12-31",
+        "show": "live:grateful-dead:1971-12-31:winterland-arena"
+       },
+       "plays_before": 44,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 295,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1975-08-13",
+        "show": "live:grateful-dead:1975-08-13:great-american-music-hall"
+       },
+       "plays_before": 8,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 77,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 594,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 51,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 250,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 594,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 51,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 34,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 295,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1975-08-13",
+        "show": "live:grateful-dead:1975-08-13:great-american-music-hall"
+       },
+       "plays_before": 79,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 9,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 8,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 8,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 249,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 124,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 1,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      }
     ],
@@ -1167,166 +1379,262 @@
      {
       "from": "gd1976-06-03.mtx.seamons.91912.sbeok.shnf",
       "key": "song:grateful-dead:lazy-lightening",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Lazy Lightening"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t01-might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t01 Might As Well"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t02-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t02 Cassidy"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t03-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t03 Row Jimmy"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t04-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t04 Looks Like Rain"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t05-they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t05 They Love Each Other"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t06-lazy-lightning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t06 Lazy Lightning"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t07-supplication",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t07 Supplication"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t08-candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t08 Candyman"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t09-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t09 The Music Never Stopped"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t10-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t10 Scarlet Begonias"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t11-dancing-in-the-streets",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t11 Dancing In The Streets"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t12-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t12 Samson & Delilah"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t13-crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t13 Crazy Fingers"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t14-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t14 Wharf Rat"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t15-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t15 Let It Grow"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t16-it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t16 It Must Have Been The Roses"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t17-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t17 Around & Around"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t18-help-on-the-way",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t18 Help On The Way"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t19-slipknot",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t19 Slipknot!"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t20-franklins-tower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t20 Franklin's Tower"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t21-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t21 One More Saturday Night"
      },
      {
       "from": "gd1976-06-03.139643.sbd.betty.pcm.kreider.miller.clugston.fixed.flac16",
       "key": "song:grateful-dead:gd76-06-03-fixed-t22-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-03 fixed t22 The Wheel"
      }
     ],
     "subject_key": "live:grateful-dead:1976-06-03:paramount-theatre",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 546,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Dancing In The Street"
+     ],
+     "first_in_archive": [
+      "Samson & Delilah"
+     ],
+     "show_number": 634,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Paramount Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.740141+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.496793+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "7XMUwlXJVzs4PKdZipUjwcSOBfA7-7lZzTWn9qPWEASeFihq8QSL12CV7WAjP7-Sc5DbwMqyAzLKoh1AmTs-Bw",
+   "revision": 42,
+   "signature": "uOTBIarrcJD-M1n7XrD9Hp6avZf8blTYBFOY7mYHTYNY0CwSey4jtX4JpfXf-GbdBVdwNGEY1q3dgVy55GvXBA",
    "subject_key": "live:grateful-dead:1976-06-03:paramount-theatre",
-   "updated_at": "2026-10-25T16:41:48.742744"
+   "updated_at": "2026-10-25T17:35:14.498070"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Help On The Way** (2 reviews): Listener calls the Help-Slipknot-Franklin's sequence an absolutely smokin' performance; Listener describes the Help-Slip-Franklin's sequence as taking its sweet old time and being a classic [19][22]\n- **The Wheel** (2 reviews): Source notes this performance includes the first live play of The Wheel; Listener believes this marks the first live performance of The Wheel by the band [17][21]\n- **Cassidy** (1 review): Source notes this performance includes the first live play of Cassidy [17]\n- **Scarlet Begonias** (1 review): Listener questions if Scarlet Begonias is in E or Eb due to pitch issues [20]\n- **Samson & Delilah** (1 review): Source lists Samson & Delilah as a first-time live performance at this show [19]\n\n## The recordings\n\n- **gd1976-06-03.sbd.seamons.fix-20004.86745.sbeok.shnf** (recommended): soundboard; 24 songs; 182 min; rated 4.62/5 by 13 [1]\n- **gd76-06-03.sbd.bertha-ashley.20004.sbeok.shnf**: soundboard; 24 songs; 188 min; rated 4.2/5 by 40 [2]. Said about its sound: Listener describes the band's return sound as fitting for a truly great rock and roll band; Listener notes the tape runs slow, with songs pitched half a step down; Listener confirms the copy is right on the mark, though it sounds a tad slow [18][20][22][24][25]\n- **gd76-06-03.aud.vernon.7825.sbeok.shnf**: audience recording; 24 songs; 181 min; rated 3.25/5 by 4 [3]. Said about its sound: Listener notes the live track lacks the soaring guitar licks of the Garcia album version [21]\n- **gd1976-06-03.mtx.seamons.91912.sbeok.shnf**: matrix (soundboard mixed with audience mics); 22 songs; 201 min; rated 4.47/5 by 19 [4]\n- **gd1976-06-03.148568.fob.sony.ecm18n.lee.smith.clugston.flac2496**: audience recording; 22 songs; 199 min [10]\n- **gd76-06-03.sbd.serafin.7719.sbeok.shnf**: soundboard; 22 songs; 164 min; rated 4.68/5 by 28 [16]. Said about its sound: Listener praises the incredible sound quality of this specific seed [19]\n\n## Around the show\n\n- Band took a nearly 20-month break before this show, their longest gap in 30 years [17]\n- Listener observes Donna rarely sounds this on key during the performance [21]\n- Listener attributes the slow tempo to the band relearning material and having two drummers [23]\n- Setlist includes an encore of The Wheel following One More Saturday Night [2]\n\n## Tapers and lineage\n\n- **gd1976-06-03.sbd.seamons.fix-20004.86745.sbeok.shnf**: transferred by Pitch correction by Hunter Seamons using Final Cut Pro; source: SBD>>MR>>DAT>>WAV>>SHN>>DAW(Bertha)>>CDA/SHN - [1]\n- **gd76-06-03.sbd.bertha-ashley.20004.sbeok.shnf**: source: Soundboard [2]\n- **gd76-06-03.aud.vernon.7825.sbeok.shnf**: transferred by Dale Shepherd; source: Audience Recording [3]\n- **gd1976-06-03.mtx.seamons.91912.sbeok.shnf**: transferred by Matrix by Hunter Seamons; source: MATRIX MIX: SBD/AUD (About 60%/40%) [4]. Also: Source is a Bertha Remaster of the Master Reel, with pitch correction by Hunter Seamons; Audience recording made by Pat Lee using hand-held Sony ECM18N mics onto a 152SD cassette deck [4]\n- **gd1976-06-03.148568.fob.sony.ecm18n.lee.smith.clugston.flac2496**: taped by Pat Lee; transferred by Matt Smith and Scott Clugston; source: Pat Lee's Master (FOB) Audience Cassettes ; Sony ECM18N mics (10-20 rows back from stage, hand-held) > Sony TC-152 (2 x Maxell UD 120) [10]\n- **gd76-06-03.sbd.serafin.7719.sbeok.shnf**: source: Soundboard [16]",

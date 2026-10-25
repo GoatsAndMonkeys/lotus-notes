@@ -538,7 +538,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -574,8 +574,8 @@
     },
     "previous": {
      "date": "1980-09-03",
-     "show": "live:grateful-dead:1980-09-03:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1980-09-03:springfield-civic-center",
+     "venue": "Springfield Civic Center"
     },
     "recommended": {
      "identifier": "gd1980-09-04.sbd.miller.95497.sbeok.flac16",
@@ -1067,121 +1067,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-09-03",
+        "show": "live:grateful-dead:1980-09-03:springfield-civic-center"
+       },
+       "plays_before": 28,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 115,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 105,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-08-19",
+        "show": "live:grateful-dead:1980-08-19:uptown-theater"
+       },
+       "plays_before": 136,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-09-02",
+        "show": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium"
+       },
+       "plays_before": 168,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-09-03",
+        "show": "live:grateful-dead:1980-09-03:springfield-civic-center"
+       },
+       "plays_before": 60,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 202,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 23,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-09-02",
+        "show": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium"
+       },
+       "plays_before": 302,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-09-02",
+        "show": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium"
+       },
+       "plays_before": 305,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 152,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 146,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:supplication-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1438,
+       "gap_shows": 293,
+       "last_played": {
+        "date": "1976-09-27",
+        "show": "live:grateful-dead:1976-09-27:community-war-memorial-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 15
+      },
       "title": "Supplication Jam"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-09-02",
+        "show": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium"
+       },
+       "plays_before": 138,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 166,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-09-03",
+        "show": "live:grateful-dead:1980-09-03:springfield-civic-center"
+       },
+       "plays_before": 530,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-09-03",
+        "show": "live:grateful-dead:1980-09-03:springfield-civic-center"
+       },
+       "plays_before": 200,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 309,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 178,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 169,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 263,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 139,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1189,52 +1388,80 @@
      {
       "from": "gd1980-09-04.nak300.friend.andrewf.104937.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-09-02",
+        "show": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium"
+       },
+       "plays_before": 133,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1980-09-04.nak300.friend.andrewf.104937.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 35,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1980-09-04.aud.morris.106619.flac24",
       "key": "song:grateful-dead:cmon-brent-get-it-together",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "c'mon Brent get it together"
      },
      {
       "from": "gd1980-09-04.126719.fob-sonyECM280.wise-claridge.minches.flac2496",
       "key": "song:grateful-dead:looks-like-rain-5342973738",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Looks Like Rain 5342973738"
      }
     ],
     "subject_key": "live:grateful-dead:1980-09-04:providence-civic-center",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Supplication Jam"
+     ],
      "first_in_archive": [],
-     "show_number": 863,
-     "shows_in_archive": 1855,
+     "show_number": 959,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Providence Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.594487+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.776613+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "cVwvyybTa9SgVaMbqLMX-ctCB4irMmuY3bOTR-Biya6UI8XvRittX85879FRN7muXCLhgq1NxKT_R688dJg-Bw",
+   "revision": 42,
+   "signature": "awViP3NSWWzaDD7N5RDjNRcZDr2aT1hFaB9ZYacPLa9rvNxe814GNY57_XR_cfrC0x18tbNq177DSu5Q9e0WAw",
    "subject_key": "live:grateful-dead:1980-09-04:providence-civic-center",
-   "updated_at": "2026-10-25T16:41:53.595654"
+   "updated_at": "2026-10-25T17:35:16.777770"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Goin' Down the Road** (1 review): The reviewer considers this their favorite version of the song played that night [25]\n\n## The recordings\n\n- **gd1980-09-04.sbd.miller.95497.sbeok.flac16** (recommended): soundboard; 22 songs; 157 min; rated 4.5/5 by 2 [1]\n- **gd1980-09-04.mtx.seamons.95601.sbeok.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 162 min; rated 3/5 by 3 [2]\n- **gd1980-09-04.175071.sbd.miller.phase-repair.flac1644**: soundboard; 22 songs; 157 min [3]\n- **gd1980-09-04.nak300.friend.andrewf.104937.flac16**: audience recording; 22 songs; 165 min; rated 5/5 by 2 [4]\n- **gd80-09-04.aud.munder.12270.sbeok.shnf**: audience recording; 22 songs; 156 min; rated 4.5/5 by 4 [9]. Said about its sound: This audience recording has better quality than the other one containing both sets [17]\n- **gd80-09-04.wise.cribbs.24829.sbeok.shnf**: source not stated; 23 songs; 156 min; rated 4.5/5 by 2 [14]. Said about its sound: The audience recording is close to the stage, rich, warm, and has good range; The band plays a crisp, to-the-point version of this song after the drum solo [20][21]\n- **gd80-09-04.set1-sbd.17432.sbeok.shnf**: soundboard; 10 songs; 64 min; rated 4.33/5 by 3 [16]. Said about its sound: Jerry tears up this song, and the first set soundboard has good sound; This song and Althea sound amazing, very clean, and have no flubs [19][24]\n\n## Around the show\n\n- The band abandons Jerry during the solo, but he revives licks during the fade-out [21]\n- The performance was so intense the listener nearly suffered cardiac arrest while listening [27]\n\n## Tapers and lineage\n\n- **gd1980-09-04.sbd.miller.95497.sbeok.flac16**: transferred by Charlie Miller; source: Set 1: SBD -> Master Cassette -> ? -> Dat -> CD; Set 2: SBD -> Master Cassette -> Dat -> CD [1]. Also: The recording is stellar, attributed to Charlie Miller's work on the soundboard; Nakamichi 700 master cassette supplies Althea and Looks Like Rain for the SBD transfer [1][25]\n- **gd1980-09-04.mtx.seamons.95601.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [2]. Also: Charlie Miller handled all transfers and mastering for the matrix, using Adobe Audition [2]\n- **gd1980-09-04.175071.sbd.miller.phase-repair.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  November 6, 2025; source: Set 1: SBD > Cassette Master > ? > DAT > CD Set 2: SBD > Cassette Master > DAT > CD [3]. Also: The uploader repaired a vocal phase issue found in the previous Miller SBD upload [3]\n- **gd1980-09-04.nak300.friend.andrewf.104937.flac16**: taped by Tim Friend; transferred by Andrew F.; source: FOB AUD: 2x Nakamichi CM300/CP1 cardioids > Nakamichi 550 > Maxell XLII 90's, mics on stand, set up FOB aprx 20th row, center right. Taped by Tim Friend. [4]\n- **gd80-09-04.aud.munder.12270.sbeok.shnf**: source: AUD>MC>DAT>SF>CD [9]\n- **gd80-09-04.wise.cribbs.24829.sbeok.shnf**: source: FOB Sony ECM-280s mounted on a stand > Sony TC-D5 > MAC > playback on Nakamichi Dragon (Dolby B decoded) > Sony PCM R-700 (A>D passthrough) > Zefiro ZA2 > WAV… [14]\n- **gd80-09-04.set1-sbd.17432.sbeok.shnf**: source: Soundboard [16]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Providence Civic Center - September 4, 1980](https://www.dead.net/show/september-4-1980) [30]",

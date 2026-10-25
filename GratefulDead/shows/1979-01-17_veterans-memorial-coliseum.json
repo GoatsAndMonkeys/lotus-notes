@@ -421,7 +421,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -449,7 +449,7 @@
      "id": 25,
      "kind": "blog",
      "published_at": null,
-     "quote_or_claim": "Louis, MO (12/9/79) Soldiers' and Sailors' Memorial Hall, Kansas City, KS (12/10/79) Soldiers' and Sailors' Memorial Hall, Kansas City, KS (12/11/79) Oakland Auditorium Arena, Oakland,…",
+     "quote_or_claim": "",
      "site": "www.cs.cmu.edu",
      "title": "Grateful Dead Setlists: 1979",
      "url": "https://www.cs.cmu.edu/~gdead/79.html",
@@ -797,126 +797,323 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bobby-welcomes-jerry-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby Welcomes Jerry back"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 18,
+       "total_plays": 177
+      },
       "title": "Shakedown St"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 364,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 200,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-12",
+        "show": "live:grateful-dead:1979-01-12:the-spectrum"
+       },
+       "plays_before": 80,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-12",
+        "show": "live:grateful-dead:1979-01-12:the-spectrum"
+       },
+       "plays_before": 235,
+       "total_plays": 334
+      },
       "title": "Beat it on Down the Line"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 30,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 83,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 184,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Heart Of Me"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 23,
+       "total_plays": 279
+      },
       "title": "I need A Miracle"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 100,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 52,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 96,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 137,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 413,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 98,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-12",
+        "show": "live:grateful-dead:1979-01-12:the-spectrum"
+       },
+       "plays_before": 238,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 113,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 169,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 214,
+       "total_plays": 439
+      },
       "title": "Good Lovin"
      },
      {
       "key": "song:grateful-dead:unruliness",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "unruliness"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 287,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -924,52 +1121,86 @@
      {
       "from": "gd79-01-17.rolfe.pujol-vernon.12200.sbeok.shnf",
       "key": "song:grateful-dead:bobby-announces-cancellation-on-11-25-78",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby announces cancellation on 11/25/78"
      },
      {
       "from": "gd79-01-17.rolfe.pujol-vernon.12200.sbeok.shnf",
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 18,
+       "total_plays": 28
+      },
       "title": "From the Heart of Me"
      },
      {
       "from": "gd79-01-17.rolfe.pujol-vernon.12200.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 190,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1979-01-17.nak301.rolfe.miller.99009.sbeok.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-14",
+        "show": "live:grateful-dead:1979-01-14:utica-memorial-coliseum"
+       },
+       "plays_before": 106,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 740,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bobby Welcomes Jerry back",
+      "unruliness"
+     ],
+     "show_number": 835,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Veterans' Memorial Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.578491+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.862859+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "9FA0a5cAvG2u24dyoa-r_3LBfKcf3PJfduvZsYY0nqUAEZmnZkWKsvZnCrOAhqkG6sDj7lt_3BL3X9zOE7yyBA",
+   "revision": 31,
+   "signature": "JS66wwSB_Q02I5HZaJaUyEs4g3oLRmhGXUWk8q-cTvY0jVPRDgbmrQuj8jqXb1Gpf4-KvJlOMzZ2JRgDTwZcDg",
    "subject_key": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum",
-   "updated_at": "2026-10-25T16:41:52.579803"
+   "updated_at": "2026-10-25T17:35:15.863831"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown St** (1 review): Opening Shakedown felt like a reassurance that the band was back, to the reviewer [15]\n- **Beat it on Down the Line** (1 review): Reviewer calls the opening Beat It On Down the Line the best they have heard [11]\n- **Minglewood Blues** (1 review): Reviewer says Jerry shredded his guitar during the first set [11]\n- **Scarlet Begonias** (1 review): Reviewer hoped for a Scarlet-Fire all the way to New Haven and got one [14]\n- **Not Fade Away** (1 review): Strong transition out of drums into a long, jammed, somewhat spacey Not Fade Away [16]\n- **Black Peter** (1 review): Reviewer says this Black Peter is the longest ever, and probably the slowest [16]\n\n## The recordings\n\n- **gd1979-01-17.mtx.mccabe.91783.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 199 min; rated 2.5/5 by 4 [1]. Said about its sound: Matrix sounds decent until I Need A Miracle, where digital breakdown makes it unlistenable [22]\n- **gd79-01-17.rolfe.pujol-vernon.12200.sbeok.shnf**: audience recording; 22 songs; 193 min; rated 3.88/5 by 8 [2]. Said about its sound: Reviewer found the sound and musical quality poor; Reviewer calls the audience recording's sound great, good enough to make soundboards unnecessary; The SHN files of Scarlet and Fire cut out around four and six minutes respectively [2][12][16][17]\n- **gd1979-01-17.nak301.rolfe.miller.99009.sbeok.flac16**: source not stated; 22 songs; 191 min; rated 4.56/5 by 9 [3]. Said about its sound: Reviewer finds the front-of-board-style audience recording rich and full, not tinny or distant, with band energy captured; Missing audio in Brown Eyed Women, Drums and Around and Around was supplied from another source [3][20]\n- **gd1979-01-17.sbd.mhg.77208.flac16**: soundboard; 22 songs; 178 min; rated 4/5 by 1 [5]. Said about its sound: The beginning of Shakedown Street has soundboard glitches [5]\n- **gd1979-01-17.nak300.glassberg.85101.flac24**: audience recording; 21 songs; 196 min; rated 4.67/5 by 3 [7]. Said about its sound: Reviewer praises the sound quality of the Nakamichi 300 audience recording by Barry G [19]\n\n## Around the show\n\n- Show was a rescheduled date originally planned for November 1978; the band seemed to compensate with a long show [11]\n- Jerry's illness cancelled the November 1978 date; reviewer's 18th birthday fell on this make-up show [14]\n- At the cancelled November show, Bobby and Mickey told the dark hall Jerry was on a respirator; crowd stayed supportive [15]\n- Reviewer was on the floor and notes the New Haven Coliseum has since been demolished [18]\n- Vince said the show was great especially for those who traveled on 11.25.78 when Jerry fell ill [1]\n- Show was rescheduled from November 25, 1978; Rolfe recorded from left center, 17th row [3]\n- Vince said a friend patched in on his 18th birthday; the show mattered to those at the cancelled November date [5]\n- Blogger says the show involved an appearance with a unique story and chose it for T.W.I.G.D.H [26]\n\n## Tapers and lineage\n\n- **gd1979-01-17.mtx.mccabe.91783.sbeok.flac16**: taped by Matrix created in Adobe Audition 3.0. Plugins included Nomad Factory and Izotope. Matrix is set at 50/50 blend.; transferred by D. McCabe; source: SBD: new transfer 2008 via Lunatec V2 preamp > Korg MR-1000; AUD Source: gd1979-01-17.fob.glassberg.motb.0023.85101.flac24 [1]. Also: Soundboard came from Vince Perrotti via Peter Hedeman; a friend patched in and gave him the boards on the 18th [1]\n- **gd79-01-17.rolfe.pujol-vernon.12200.sbeok.shnf**: taped by Steve Rolfe; transferred by Marc Pujol; source: Audience Recording: TEAC PC-10 with nak 700 mic's pole-mounted fob [2]. Also: Reviewer has third-generation soundboard copies with a few glitches, received as a gift about two weeks after; DAT to WAV transfer by Marc Pujol, from a DAT clone via Dave Minor [2][14]\n- **gd1979-01-17.nak301.rolfe.miller.99009.sbeok.flac16**: taped by Steve Rolfe; transferred by Charlie Miller; source: (FOB) Nakamichi 300/CP1 -> Cassette Master (Sony TC-158/Maxell UDXL-I90/Dolby B) [3]\n- **gd1979-01-17.sbd.mhg.77208.flac16**: source: SBD: MC > EQ > CDR > EAC > SHN > patched w/ SHN ID # 12200 > FLAC [5]. Also: Soundboard came from Vince Perrotti via Peter Hedeman; uploader does not know what EQ was applied to the master cassette [5]\n- **gd1979-01-17.nak300.glassberg.85101.flac24**: taped by Barry Glassberg; transferred by A. Egert; source: Audience FOB Recording, Sec 9f Seat 4 Orchestra - 9ft pole Media: Maxell UDXL II 90 Lineage: Nakamichi CM300's > Sony 158SD > MAC [7]",

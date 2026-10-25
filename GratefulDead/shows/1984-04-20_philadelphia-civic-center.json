@@ -755,7 +755,7 @@
      "id": 37,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -763,7 +763,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steve Schneider Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 38,
@@ -778,14 +778,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steve Schneider Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 39,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12152040/b840421.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "Grateful Dead at Philadelphia Civic Arena Philadelphia Pennsylvania PA USA Alabama Getaway The Promised Land Friend Of The Devil Me And My Uncle Mexicali Blues…",
+     "quote_or_claim": "1984-04-21 Philadelphia Civic Arena, Philadelphia, PA, USA - Jerry Garcia.",
      "site": "Jerry Garcia",
      "title": "1984-04-21 Philadelphia Civic Arena, Philadelphia, PA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-04-21-philadelphia-civic-arena-philadelphia-pa-usa/",
@@ -1540,102 +1540,282 @@
     "setlist": [
      {
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-19",
+        "show": "live:grateful-dead:1984-04-19:philadelphia-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-14",
+        "show": "live:grateful-dead:1984-04-14:hampton-coliseum"
+       },
+       "plays_before": 84,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 115,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 158,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 276,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 182,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1983-10-21",
+        "show": "live:grateful-dead:1983-10-21:the-centrum"
+       },
+       "plays_before": 167,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-16",
+        "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium"
+       },
+       "plays_before": 115,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-14",
+        "show": "live:grateful-dead:1984-04-14:hampton-coliseum"
+       },
+       "plays_before": 256,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-04-17",
+        "show": "live:grateful-dead:1984-04-17:niagara-falls-convention-center"
+       },
+       "plays_before": 40,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1984-03-29",
+        "show": "live:grateful-dead:1984-03-29:marin-county-veterans-auditorium"
+       },
+       "plays_before": 124,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-14",
+        "show": "live:grateful-dead:1984-04-14:hampton-coliseum"
+       },
+       "plays_before": 159,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 193,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-04-13",
+        "show": "live:grateful-dead:1984-04-13:hampton-coliseum"
+       },
+       "plays_before": 146,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 237,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-19",
+        "show": "live:grateful-dead:1984-04-19:philadelphia-civic-center"
+       },
+       "plays_before": 792,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-19",
+        "show": "live:grateful-dead:1984-04-19:philadelphia-civic-center"
+       },
+       "plays_before": 456,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 78,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-04-14",
+        "show": "live:grateful-dead:1984-04-14:hampton-coliseum"
+       },
+       "plays_before": 157,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-16",
+        "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium"
+       },
+       "plays_before": 290,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-16",
+        "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium"
+       },
+       "plays_before": 230,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-16",
+        "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium"
+       },
+       "plays_before": 19,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -1643,19 +1823,41 @@
      {
       "from": "gd1984-04-20.senn441.wise.ashley.4769.sbeok.shnf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-16",
+        "show": "live:grateful-dead:1984-04-16:community-war-memorial-auditorium"
+       },
+       "plays_before": 17,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1984-04-20.120265.akg.dyche.flac16",
       "key": "song:grateful-dead:droms",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Droms"
      },
      {
       "from": "gd1984-04-20.132942.Nak300CP4.Hill.Keo.Flac2496",
       "key": "song:grateful-dead:let-it-grow-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 194,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1983-10-09",
+        "show": "live:grateful-dead:1983-10-09:greensboro-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 37
+      },
       "title": "Let It Grow, Set Break"
      }
     ],
@@ -1663,26 +1865,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1135,
-     "shows_in_archive": 1855,
+     "show_number": 1238,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Philadelphia Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.303032+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.593973+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "DDZbL9ZLE91jtDwKT6Z7yRYV11hUyqh2uLmTvNab_2uox5lHOOh1wElTCqpfqLh9brTIeEIkf6IAbucx4lOiCQ",
+   "revision": 42,
+   "signature": "q0AHEIp8f750kqmOWdZ9zXELE_lqDaiprFp4U9WYX6m7faJpVQckBBMy8EUT2YkVpXkBop0CdcVaicAMaTcUBQ",
    "subject_key": "live:grateful-dead:1984-04-20:philadelphia-civic-center",
-   "updated_at": "2026-10-25T16:41:58.305531"
+   "updated_at": "2026-10-25T17:35:19.595447"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Let It Grow** (2 reviews): This specific performance of the song clocks in at a lengthy sixteen minutes; A tremendous, house-down version where the band is in no hurry to finish [27][34]\n- **Feel Like A Stranger** (1 review): An explosive opening performance kicks off the concert in a high-energy manner [26]\n- **Fire On The Mountain** (1 review): Garcia wails like a bleeding goat during this clear highlight of the show [25]\n\n## The recordings\n\n- **gd1984-04-20.109353.beyer-senn-daweez.D5scott.flac16** (recommended): source not stated; 20 songs; 159 min; rated 4.5/5 by 2 [1]\n- **gd84-04-20.senn.fishman.7854.sbeok.shnf**: audience recording; 19 songs; 168 min; rated 4.61/5 by 23 [2]. Said about its sound: The recording sounds thick and full, capturing the rumble of Phil's Modulus Bass [27]\n- **gd84-04-20.sbd.miller.27775.sbeok.flacf**: soundboard; 19 songs; 161 min; rated 4.42/5 by 12 [5]. Said about its sound: The reviewer was in the sixth row and was blown away by the jamming [33]\n- **gd1984-04-20.166578.mtx.seamons.ht165.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 156 min; rated 2/5 by 2 [8]\n- **gd1984-04-20.154737.fob.senn441.lamarre.miller.clugston.flac2496**: audience recording; 19 songs; 154 min [9]\n- **gd1984-04-20.149751.mke2002.holbrook.flac2448**: source not stated; 19 songs; 160 min [15]\n\n## Around the show\n\n- The crowd roars during the opening notes of Morning Dew, creating chills [26]\n- The venue hosted three shows; the reviewer got a ticket for the 20th via a friend [29]\n- The reviewer spent most of the show swapping spit with a cute girl met nearby [30]\n- The Civic Center was dirty and old, feeling small, with UPenn hospital across the street [36]\n- The Scarlet to Fire transition is cherished, though a better Morning Dew exists from Hampton [33]\n\n## Tapers and lineage\n\n- **gd1984-04-20.109353.beyer-senn-daweez.D5scott.flac16**: taped by Da Weez; transferred by D5scott; source: source: 2 Beyer M160 and 1 Sennheiser 421 Microphones (14th row-center) > Nak MX100 w/2001 > Sony TCD5M (Dolby on) - analog master cassettes; [1]. Also: The setlist includes an encore of Day Job following the main set [1]\n- **gd84-04-20.senn.fishman.7854.sbeok.shnf**: source: Source Senn 441 > PCM Digital Audience (up-front) > DAT (SV3700) > DAT (Fostex D10) > CDR (Single WAV) >CDR-WAV (wav splits) > SHN (via MKWACT) [2]. Also: The recording uses Sennheiser 441 shotgun microphones, preferred by the reviewer over soundboard [32]\n- **gd84-04-20.sbd.miller.27775.sbeok.flacf**: transferred by Charlie Miller; source: SBD> Cassette Master> Reel> Dat (SV3800/48k) [5]\n- **gd1984-04-20.166578.mtx.seamons.ht165.flac16**: source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut w/EQ > AIFF CD tracking via Audacity > FLAC16 via xACT w/meta-tagging) December 25, 2023 [8]. Also: Jeff Silberman's Sennheiser 441 Dat recording was patched via Charlie Miller and Joe Noel [8]\n- **gd1984-04-20.154737.fob.senn441.lamarre.miller.clugston.flac2496**: taped by Doug Lamarre; transferred by Scott Clugston and Charlie Miller; source: Doug Lamarre's Master (FOB) Audience Cassettes (section 102, row Y, seat 10); Sennheiser 441 mics > Sony D5M [9]\n- **gd1984-04-20.149751.mke2002.holbrook.flac2448**: taped by Executive Crew: Sean Murtha; Tom Pinney; Kyle Holbrook; Gary Steel; transferred by Kyle Holbrook; source: Source: MAUD CA: Sennheiser MKE2002 Binaurals mounted on dummy head 45 feet from stage ROC (13th row) >Sony TCD5M > TDK MA-R90s No Dolby - Master copy from… [15]. Also: Sennheiser MKE2002 binaural microphones were used, designed for human or dummy head wear [15]\n\n## Art and photos\n\n- Poster by Steve Schneider Grateful Dead: [1984-04-20 Philadelphia Civic Arena, Philadelphia, PA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-04-20-philadelphia-civic-arena-philadelphia-pa-usa/) [38]\n- Poster by Steve Schneider Grateful Dead: [1984-04-21 Philadelphia Civic Arena, Philadelphia, PA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-04-21-philadelphia-civic-arena-philadelphia-pa-usa/) [39]",

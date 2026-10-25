@@ -300,7 +300,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -336,8 +336,8 @@
     },
     "previous": {
      "date": "1972-04-16",
-     "show": "live:grateful-dead:1972-04-16:aarhus-university",
-     "venue": "Aarhus University"
+     "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university",
+     "venue": "Stakladen, Aarhus University"
     },
     "recommended": {
      "identifier": "gd1972-04-17.sbd.sirmick.34038.sbeok.flacf",
@@ -529,116 +529,309 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1972-03-26",
+        "show": "live:grateful-dead:1972-03-26:academy-of-music"
+       },
+       "plays_before": 96,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 71,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 12,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 140,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 143,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 41,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 72,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 14,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 181,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 83,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 39,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 30,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 55,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 53,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 104,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 128,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 101,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:caution",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop on Tracks)"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 135,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 46,
+       "total_plays": 290
+      },
       "title": "Johnny B Goode"
      }
     ],
@@ -646,46 +839,66 @@
      {
       "from": "gd1972-04-17.136685.sbd.sirmick.flac1648",
       "key": "song:grateful-dead:mexican-hat-dance-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Mexican Hat Dance tuning"
      },
      {
       "from": "gd72-04-17.sbd.vernon.9390.sbeok.shnf",
       "key": "song:grateful-dead:introduction",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 663,
+       "gap_shows": 144,
+       "last_played": {
+        "date": "1970-06-24",
+        "show": "live:grateful-dead:1970-06-24:capitol-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Introduction (in French)"
      },
      {
       "from": "gd72-04-17.sbd.vernon.9390.sbeok.shnf",
       "key": "song:grateful-dead:my-monitors-not-working",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "My monitor's not working"
      }
     ],
     "subject_key": "live:grateful-dead:1972-04-17:tivoli-gardens",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 344,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "He's Gone"
+     ],
+     "show_number": 414,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Tivoli Gardens"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 17,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.063673+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.383703+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "X9ry36rFuGBppQ71iXF-qsV-VNz_zxfK0zfoc4TRI9k1dBSHM0YXjIyiZXCmqv2M4fQSMReANWHp4DqBH_cBAw",
+   "revision": 18,
+   "signature": "iPOISbTDZzCUc4hEDy6fqGwkraYy-9JOjfK9jw6hJRBzYmUm5HNG1MaSHm5HCq_p5hf2KIdIEqsnLAQ4UD2qBw",
    "subject_key": "live:grateful-dead:1972-04-17:tivoli-gardens",
-   "updated_at": "2026-10-25T16:41:44.066305"
+   "updated_at": "2026-10-25T17:35:12.385406"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Chinatown Shuffle** (1 review): Reviewer says Pigpen's singing is weak and wails out of tune here [11]\n- **Playin' In The Band** (1 other source): The count-in was moved from the end of disc 1 to the start of disc 2 [1]\n- **One More Saturday Night** (1 other source): Bobby says goodbye to the crowd at the end of this song [2]\n- **It Hurts Me Too** (1 review): Reviewer praises Pigpen's performance on this song [11]\n- **Caution (Do Not Stop on Tracks)** (1 review): An older Deadbase book review describes this Caution as smoking hot [8]\n\n## The recordings\n\n- **gd1972-04-17.sbd.sirmick.34038.sbeok.flacf** (recommended): soundboard; 22 songs; 176 min; rated 5/5 by 7 [1]\n- **gd1972-04-17.sbd.ashley-field.34032.sbeok.flac16**: soundboard; 22 songs; 176 min; rated 4.71/5 by 14 [2]\n- **gd1972-04-17.sbd.sirmick.34224.flac16**: soundboard; 22 songs; 176 min; rated 5/5 by 3 [3]\n- **gd1972-04-17.sbd.GEMS.33802.sbeok.flac16**: soundboard; 22 songs; 176 min; rated 4.67/5 by 3 [4]\n- **gd72-04-17.sbd.vernon.9390.sbeok.shnf**: soundboard; 17 songs; 94 min; rated 4.23/5 by 22 [6]. Said about its sound: The reviewer, who has the video, finds the sound quality great [11]\n\n## Around the show\n\n- The show was captured in a French television broadcast, which circulates as a DVD download [9]\n- Reviewer says the show has no long jams, just many short songs [16]\n- The Tapers Compendium has set one ending after Black Throated Wind, with Jerry announcing a very short break [3]\n- Mr. Charlie was probably not played that night, according to the notes [4]\n- Reviewer claims the best Good Lovin' was played at Tivoli in 1972, possibly the next day [17]\n\n## Tapers and lineage\n\n- **gd1972-04-17.sbd.sirmick.34038.sbeok.flacf**: transferred by SirMick; source: This is a clean up of shnid 33802. [1]. Also: Digital errors on disc 3 were repaired and small gaps between tracks on discs 1 and 2 removed [1]\n- **gd1972-04-17.sbd.ashley-field.34032.sbeok.flac16**: transferred by Jay Ashley; source: Bertha Remaster of the Multi-Track Master Reel Source (SHN ID 338020 [2]. Also: Remastered with the Bertha workstation, finished April 14, 2006; over 100 digital glitches were fixed, taking over 16 hours [2]\n- **gd1972-04-17.sbd.sirmick.34224.flac16**: transferred by SirMick; source: sbd > 16 track 2\" MR>DAT4x > Delta Dio 2496 > Soundforge > wav > Cd Wave Editor > flac > wav > flac [3]. Also: Further cleanup of shnid 33802; a stubborn glitch in China Cat was patched with a 36 ms sample from shnid 9390 [3]\n- **gd1972-04-17.sbd.GEMS.33802.sbeok.flac16**: source: SBD>16 track 2\" MR>DAT4x>Delta Dio 2496>Soundforge>WAV>Cd Wave Editor>Flac [4]. Also: A GEMS seed from April 2006 that puts several songs in a different order than previously accepted [4]\n- **gd72-04-17.sbd.vernon.9390.sbeok.shnf**: source: SBD>??>French TV Broadcast>C>DAT>CDR [6]. Also: The version widely circulating on etree is missing tracks, and the complete music apparently survives somewhere; Reviewer heard only a few people hold the complete show and were told not to circulate it [8][12]\n\n## Art and photos\n\n- Poster by Hana Gustafson: ['Grateful Dead Meet-Up at The Movies' to Feature Copenhagen 1972 Tivoli Hall Performance](https://jambands.com/news/2022/09/15/grateful-dead-meet-up-at-the-movies-to-feature-copenhagen-1972-tivoli-hall-performance/) [20]",

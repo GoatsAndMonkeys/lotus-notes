@@ -284,7 +284,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -568,148 +568,390 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 59,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 32,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 20,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 61,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 19,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 71,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 12,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 106,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 66,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 46,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 116,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 171,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 95,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-12-31",
+        "show": "live:grateful-dead:1971-12-31:winterland-arena"
+       },
+       "plays_before": 189,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-12-31",
+        "show": "live:grateful-dead:1971-12-31:winterland-arena"
+       },
+       "plays_before": 159,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 98,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 27,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 92,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 22
+      },
       "title": "The Stranger (Two Souls In Communion)"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-12-31",
+        "show": "live:grateful-dead:1971-12-31:winterland-arena"
+       },
+       "plays_before": 175,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-01-02",
+        "show": "live:grateful-dead:1972-01-02:winterland-arena"
+       },
+       "plays_before": 47,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 114,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 72,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-05",
+        "show": "live:grateful-dead:1972-03-05:winterland-arena"
+       },
+       "plays_before": 32,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -717,40 +959,51 @@
      {
       "from": "gd72-03-21.sbd.vernon.9331.sbeok.shnf",
       "key": "song:grateful-dead:brick-layers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brick layers"
      },
      {
       "from": "gd72-03-21.sbd.vernon.9331.sbeok.shnf",
       "key": "song:grateful-dead:two-souls-in-communion",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 10
+      },
       "title": "Two Souls In Communion"
      }
     ],
     "subject_key": "live:grateful-dead:1972-03-21:academy-of-music",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 332,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Looks Like Rain",
+      "The Stranger (Two Souls In Communion)"
+     ],
+     "show_number": 402,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Academy of Music"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.889382+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.245107+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "GsheEBUq-p-RpUUN_ZGwD-2W4pyEH7ZvNqJkCpH7U-3o38zziOTaLXxDK_zRDT9QYSV5cNRe_YMCGAgldUryBA",
+   "revision": 42,
+   "signature": "4fAI8vmbrAq_ohxjIctZ9AUX_GKv36rboA3pKQvny3FqSAejUiqtNY7BVjMUyBAtG93ieXI90VZDVZSQ_OjVAg",
    "subject_key": "live:grateful-dead:1972-03-21:academy-of-music",
-   "updated_at": "2026-10-25T16:41:43.891913"
+   "updated_at": "2026-10-25T17:35:12.246328"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Greatest Story Ever Told** (1 review): Jerry's wah-wah guitar work is described as a joy [15]\n- **Looks Like Rain** (1 review): Bobby's performance avoids being too cheesy, which the reviewer always loves [10]\n- **Tennessee Jed** (1 review): Tennessee Jed stands out in memory, while Good Lovin' and Casey Jones end the first set [14]\n- **Next Time You See Me** (1 review): Song shares a honky-tonk feel with You Win Again and Cumberland Blues [5]\n\n## The recordings\n\n- **gd1972-03-21.sbd.miller.92395.sbeok.flac16** (recommended): soundboard; 28 songs; 210 min; rated 4.48/5 by 21 [1]. Said about its sound: Blues tunes carry a barroom band feel the band later lost; Initial mix has Bobby prominent while Jerry's guitar is invisible and voice is low; Recording buzzes throughout, mostly in the beginning, but remains bearable [5][13][14]\n- **gd1972-03-21.136670.sbd.sirmick.flac16**: soundboard; 27 songs; 199 min; rated 5/5 by 3 [2]\n- **gd1972-03-21.set2-sbd.Samaritano.32370.sbeok.flac16**: soundboard; 12 songs; 86 min; rated 5/5 by 2 [3]. Said about its sound: Pigpen's vocal performance is described as classic, with the band knowing the changes [7]\n\n## Around the show\n\n- New York City crowds loved Pigpen and brought out the best in the band [7]\n- Stream or printed setlist incorrectly swaps Chinatown Shuffle and Next Time You See Me [9]\n- Bobby mentions new strings during tuning between Bertha and Black Throated Wind [13]\n- Reviewer feels melancholy about the band and lead guitarist after reading Phil's book [15]\n- Performance serves as the dress rehearsal for the upcoming Europe Tour [5]\n- Band was evolving nightly during this period, showing early developmental stages of songs [8]\n- This source has fewer problems than the Miller recording [2]\n\n## Tapers and lineage\n\n- **gd1972-03-21.sbd.miller.92395.sbeok.flac16**: taped by Unknown; transferred by Charlie Miller; source: SBD -> Master Reel [1]. Also: Bad hum from a grounding issue eventually gets fixed in the recording; Audio was cut during the intro to Chinatown Shuffle [1]\n- **gd1972-03-21.136670.sbd.sirmick.flac16**: taped by Anonomous; transferred by SIRMick; source: Source: sbd > cassette master > dat(48k) [2]. Also: This version was provided by an anonymous source with relatively few problems [2]\n- **gd1972-03-21.set2-sbd.Samaritano.32370.sbeok.flac16**: transferred by Joe Samaritano; source: MSR>Dat>Dat>Sonic Solutions>CD [3]",

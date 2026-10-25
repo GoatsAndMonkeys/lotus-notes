@@ -109,7 +109,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -203,110 +203,285 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 188,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 196,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 332,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 168,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 51,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 124,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 103,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 19,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 21,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 70,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 92,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Smokestack Lightning tease"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 51,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 90,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 341,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 44,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 264,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 92,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 273,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 123,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -314,27 +489,29 @@
     "subject_key": "live:grateful-dead:1978-04-04:cassell-coliseum-virginia-polytechnic",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 666,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Smokestack Lightning tease"
+     ],
+     "show_number": 758,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cassell Coliseum, Virginia Polytechnic"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.600184+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.370639+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "M6HmLZFn6bTG4Bc8jQZTFisXn6jjr1ZMZduNOpkTPneQR0wnzDaCi6lCxTVxxy3wiSN1sn_aqIVaA_0cr1CMDQ",
+   "revision": 41,
+   "signature": "walEnEc2NXeyhdmdrR70H3QfSOs7IPCAZgYM_0jIkVM0KJWN_XzW0H6P_vFY1joPOnA02lldFdtsIgWtggOPAg",
    "subject_key": "live:grateful-dead:1978-04-04:cassell-coliseum-virginia-polytechnic",
-   "updated_at": "2026-10-25T16:41:51.601871"
+   "updated_at": "2026-10-25T17:35:15.371647"
   }
  },
  "recommended": {

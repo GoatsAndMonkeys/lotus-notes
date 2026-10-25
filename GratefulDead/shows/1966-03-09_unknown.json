@@ -127,7 +127,7 @@
      "id": 8,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -221,22 +221,38 @@
     "setlist": [
      {
       "key": "song:grateful-dead:who-do-you-love-several-instrumental-takes",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Who Do You Love - several instrumental takes"
      },
      {
       "key": "song:grateful-dead:who-do-you-love",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Who Do You Love"
      },
      {
       "key": "song:grateful-dead:jam-with-short-burst-of-vocal-improvisation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam with short burst of vocal improvisation"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 628
+      },
       "title": "jam"
      }
     ],
@@ -244,27 +260,32 @@
     "subject_key": "live:grateful-dead:1966-03-09:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 11,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Who Do You Love - several instrumental takes",
+      "Who Do You Love",
+      "jam with short burst of vocal improvisation",
+      "jam"
+     ],
+     "show_number": 12,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.418951+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.151696+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "fsHjrttrYhUfvrfvNorUUF_pe43ikRMvUnmd6Vl3QoMgKb4hQX11aO7PdCCi8fbPAlX-nRHQfVFOvyHFjs3eDQ",
+   "revision": 41,
+   "signature": "WLqHhswook_LG8rbf9YCLC3Ejvu8eVFx7tsm9Q0Y8c8WCFU9kr8_jcdZOSOS5pg38GX-6w8KpeK6jwZhdy5cAA",
    "subject_key": "live:grateful-dead:1966-03-09:unknown",
-   "updated_at": "2026-10-25T16:41:38.419794"
+   "updated_at": "2026-10-25T17:35:09.152438"
   }
  },
  "recommended": {

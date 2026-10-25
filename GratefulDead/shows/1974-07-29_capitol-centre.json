@@ -359,7 +359,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -380,8 +380,8 @@
     },
     "previous": {
      "date": "1974-07-27",
-     "show": "live:grateful-dead:1974-07-27:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1974-07-27:roanoke-civic-center",
+     "venue": "Roanoke Civic Center"
     },
     "recommended": {
      "identifier": "gd74-07-29.matrix.chappell.29482.sbeok.flacf",
@@ -633,132 +633,348 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 125,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 137,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 101,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 140,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 17,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 163,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 123,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 190,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1974-06-28",
+        "show": "live:grateful-dead:1974-06-28:boston-garden"
+       },
+       "plays_before": 12,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 37,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-part-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 12,
+       "total_plays": 15
+      },
       "title": "Weather Report Suite Part One"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 43,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 75,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 212,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:nobodys-fault-but-mine",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1974-05-17",
+        "show": "live:grateful-dead:1974-05-17:p-n-e-coliseum"
+       },
+       "plays_before": 12,
+       "total_plays": 25
+      },
       "title": "Nobody's Fault But Mine"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1974-06-26",
+        "show": "live:grateful-dead:1974-06-26:providence-civic-center"
+       },
+       "plays_before": 228,
+       "total_plays": 601
+      },
       "title": "Other One (1st verse only)"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 16,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 68,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 68,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 5,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 23,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 224,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:casey-jones",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-06-23",
+        "show": "live:grateful-dead:1974-06-23:jai-alai-fronton"
+       },
+       "plays_before": 273,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -766,13 +982,31 @@
      {
       "from": "gd1974-07-29.akgd1000e.moore.berger.106066.flac24",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 35,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd74-07-29.sbd.goodbear.2277.sbefail.shnf",
       "key": "song:grateful-dead:weather-report-suite-part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 29
+      },
       "title": "Weather Report Suite Part 1"
      }
     ],
@@ -780,26 +1014,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 504,
-     "shows_in_archive": 1855,
+     "show_number": 587,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Centre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 17,
+   "parent_revision": 29,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.142104+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.212577+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 18,
-   "signature": "utfdEUr8D1Lj6Z3JcUMpCBRXAxqmVR6s62FHLuK8UMitNu4nPCG6upnAyV8yPSJWVByQ8JdWn1eU2cBkJRJXCg",
+   "revision": 30,
+   "signature": "YKsmfl-yn5egwP71ahNy1RY-kiB5gfFsPGMJabw6hfv9jRM0-giFr_ZSwdwLQYbWLMR7Ht8ygAoOFiUPrByoBg",
    "subject_key": "live:grateful-dead:1974-07-29:capitol-centre",
-   "updated_at": "2026-10-25T16:41:48.143974"
+   "updated_at": "2026-10-25T17:35:14.213693"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Let It Grow** (2 reviews): The performance is well jammed, featuring notable keyboard work from Keith; The performance is described as blisteringly hot, causing the reviewer to bang their feet [9][12]\n- **Truckin'** (1 review): Bob forgets the lyrics during the performance of this song [13]\n- **Other One (1st verse only)** (1 review): The keyboard sound in the jam sequence is memorable and tasty [17]\n- **Peggy-O** (1 review): Jerry leaves out some of the verses during the performance [13]\n\n## The recordings\n\n- **gd74-07-29.matrix.chappell.29482.sbeok.flacf** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 187 min; rated 4.25/5 by 4 [1]. Said about its sound: The matrix recording features a good mix of crowd and music [16]\n- **gd74-07-29.moore.weiner.gdADT20.17968.sbeok.shnf**: audience recording; 24 songs; 188 min; rated 3.86/5 by 7 [3]. Said about its sound: The audience recording provides ambience missing from the clinical soundboard version [11]\n- **gd1974-07-29.107990.mtx.seamons.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 188 min; rated 5/5 by 1 [5]\n- **gd1974-07-29.akgd1000e.moore.berger.106066.flac24**: audience recording; 23 songs; 188 min; rated 5/5 by 2 [2]\n\n## Around the show\n\n- Jerry dominates the first set, particularly on Scarlet Begonias and Cumberland Blues [9]\n- This marks the band's first appearance at the Capitol Centre [11]\n- Someone shot off an M-80 firecracker during To Lay Me Down [14]\n- Peggy-O was played near the very end, after Wharf Rat and Around & Around [15]\n- The reviewer considers this show and Louisville the best on the site [12]\n- This recording sounds much better than the muddy June 30, 1974 show [18]\n\n## Tapers and lineage\n\n- **gd74-07-29.matrix.chappell.29482.sbeok.flacf**: taped by Jerry Moore and Teddy Goodbear; transferred by Chris Chappell; source: Matrix [1]. Also: Chris Chappell edited and transferred the matrix from existing soundboard and audience sources [1]\n- **gd74-07-29.moore.weiner.gdADT20.17968.sbeok.shnf**: taped by Jerry Moore; transferred by Mark Cohen and Noah Weiner; source: Audience Recording [3]. Also: Jerry Moore recorded the show using expensive taping equipment in 1974 [18]\n- **gd1974-07-29.107990.mtx.seamons.flac16**: transferred by Hunter Seamons; source: SBD (107756) + AUD (106066) [5]. Also: Charlie Miller transferred the soundboard, while Jerry Moore recorded the audience portion [5]\n- **gd1974-07-29.akgd1000e.moore.berger.106066.flac24**: taped by Jerry Moore; transferred by Rob Berger; source: aud>akg d1000e's>sony tc-152sd (2)tdk c-120sd's**, dolby b cassettes [2]",

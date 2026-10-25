@@ -510,7 +510,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -531,8 +531,8 @@
     },
     "previous": {
      "date": "1991-02-21",
-     "show": "live:grateful-dead:1991-02-21:oakland-alameda-county-coliseum-stadium",
-     "venue": "Oakland-Alameda County Coliseum Stadium"
+     "show": "live:grateful-dead:1991-02-21:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "recommended": {
      "identifier": "gd1991-03-17.135339.mtx.tobin.flac16",
@@ -965,112 +965,287 @@
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-02-20",
+        "show": "live:grateful-dead:1991-02-20:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 180,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-02-20",
+        "show": "live:grateful-dead:1991-02-20:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 336,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-02-20",
+        "show": "live:grateful-dead:1991-02-20:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 88,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 221,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 76,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:rubin-and-cherise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Rubin And Cherise"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 252,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 502,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 505,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 158,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 94,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 479,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 21,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-02-21",
+        "show": "live:grateful-dead:1991-02-21:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1286,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-02-21",
+        "show": "live:grateful-dead:1991-02-21:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 946,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 213,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 70,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 319,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-02-20",
+        "show": "live:grateful-dead:1991-02-20:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 380,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-02-19",
+        "show": "live:grateful-dead:1991-02-19:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 292,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1078,46 +1253,75 @@
      {
       "from": "gd91-03-17.sbd.munder.8745.sbeok.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 145,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1991-03-17.132297.Nak300s-Senn441s.JB.Keo.Flac2496",
       "key": "song:grateful-dead:let-it-grow-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 37
+      },
       "title": "Let It Grow, Set Break"
      },
      {
       "from": "gd1991-03-17.132297.Nak300s-Senn441s.JB.Keo.Flac2496",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 154,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      }
     ],
     "subject_key": "live:grateful-dead:1991-03-17:capitol-centre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1641,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Rubin And Cherise"
+     ],
+     "show_number": 1746,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Centre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 33,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:14.974903+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.083923+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "CQYLUA7PVtgKD_Zd53BupnAkh-feh6wAP7gqO6dJSrS6x_CPB85EVRbUfOFnQPRO6HbMDuF1Hw1rJqiwv1EODw",
+   "revision": 34,
+   "signature": "Ja4jZ0f6dk5iELs9YGsJgDz_YHFHrPDX-kTp7GXD_Hq56LLOLTLhvOzWZTALvsfXAEle9Ih6-8xhBkemG8mrAw",
    "subject_key": "live:grateful-dead:1991-03-17:capitol-centre",
-   "updated_at": "2026-10-25T16:42:14.978500"
+   "updated_at": "2026-10-25T17:35:26.085145"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Rubin And Cherise** (1 review): Song marked as a highlight, though the specific recording copy is criticized for poor sound [16]\n- **Black Peter** (1 review): The final two minutes feature Jerry playing with a style reminiscent of 1977 performances [22]\n\n## The recordings\n\n- **gd1991-03-17.135339.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 181 min; rated 4.67/5 by 3 [1]\n- **gd1991-03-17.149664.sbd.cm.miller.flac16**: soundboard; 20 songs; 178 min [2]\n- **gd1991-03-17.135340.dts.tobin.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 181 min [5]\n- **gd1991-03-17.135338.upg-sbd.tobin.flac16**: soundboard; 20 songs; 181 min [6]\n- **gd91-03-17.sbd.miller.28295.sbeok.flacf**: matrix (soundboard mixed with audience mics); 20 songs; 174 min; rated 4/5 by 11 [11]. Said about its sound: Vince's keyboard work is described as tasteful, while Jerry's guitar performance is on fire; Vince is mixed too loud, burying Jerry's guitar, causing ear pain for the listener; Weir becomes too loud during this song, while Hornsby is almost entirely missing from the mix [19][21][26]\n- **gd91-03-17.sbd.munder.8745.sbeok.shnf**: soundboard; 21 songs; 172 min; rated 2.7/5 by 10 [12]. Said about its sound: Soundboard recording lacks bass, has strident highs, and noticeable hiss despite venue quality [15]\n\n## Around the show\n\n- Phil's bass and Bobby's guitar had issues in the first set, resolved in Let It Grow [17]\n- Attendees sat on the Vince side midway up, describing it as a happy night for Jerry [24]\n- Show exhibits younger Dead qualities, particularly during the China Cat Sunflower to I Know You Rider jam [20]\n\n## Tapers and lineage\n\n- **gd1991-03-17.135339.mtx.tobin.flac16**: transferred by Kevin Tobin; source: Matrix 2 Source Mix - SBD (shnid=8745) SBD>MC>DAT>CDR; via Tom Eliason; Seeded to etree by Willy + AUD (shn id 94062) Master:Sennheiser ME-80's>Technics SV-MD1… [1]. Also: Matrix mix combines 52% soundboard and 48% audience sources, converted to FLAC in 2016 [1]\n- **gd1991-03-17.149664.sbd.cm.miller.flac16**: taped by Don Pearson and Dan Healy; transferred by All Transfers and Mastering By Charlie Miller  April 23, 2020; source: SBD > Cassette Master (TDK SA-X100) [2]. Also: FOB recording used Schoeps CMC3/MK4 mics to DAT, transferred and mastered by Charlie Miller [2]\n- **gd1991-03-17.135340.dts.tobin.flac16**: transferred by Kevin Tobin; source: DTS-Audio-CD 5.1 Mix ; SBD (shnid=8745) SBD>MC>DAT>CDR; via Tom Eliason; Seeded to etree by Willy + AUD (shn id 94062) Master:Sennheiser ME-80's>Technics… [5]. Also: DTS surround mix created by an archive.org user, converted to FLAC in March 2016 [5]\n- **gd1991-03-17.135338.upg-sbd.tobin.flac16**: transferred by Kevin Tobin; source: flac16; (original shnid = 8745) SBD>MC>DAT>CDR; via Tom Eliason; Seeded to etree by Willy - pitch correction and patches by Kevin Tobin [6]. Also: Soundboard ran 0.600 seconds per minute fast, requiring speed corrections to the first set [6]\n- **gd91-03-17.sbd.miller.28295.sbeok.flacf**: transferred by Charlie Miller; source: flac16 SBD> Master Dat> Master Cassette (Tascam 122mkIII)> Dat (SV3800/48k); [11]\n- **gd91-03-17.sbd.munder.8745.sbeok.shnf**: source: Soundboard [12]",

@@ -97,7 +97,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -113,8 +113,8 @@
     "guests": [],
     "next": {
      "date": "1979-02-07",
-     "show": "live:grateful-dead:1979-02-07:siu-arena-university-of-souther-illinois",
-     "venue": "SIU Arena, University Of Souther Illinois"
+     "show": "live:grateful-dead:1979-02-07:siu-arena-u-of-southern-illinois",
+     "venue": "SIU Arena, U of Southern Illinois"
     },
     "previous": {
      "date": "1979-02-04",
@@ -161,110 +161,290 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 241,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 182,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-01-17",
+        "show": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum"
+       },
+       "plays_before": 236,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 83,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 37,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-03",
+        "show": "live:grateful-dead:1979-02-03:market-square-arena"
+       },
+       "plays_before": 268,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-03",
+        "show": "live:grateful-dead:1979-02-03:market-square-arena"
+       },
+       "plays_before": 271,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 22,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-01-15",
+        "show": "live:grateful-dead:1979-01-15:springfield-civic-center"
+       },
+       "plays_before": 54,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 199,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-03",
+        "show": "live:grateful-dead:1979-02-03:market-square-arena"
+       },
+       "plays_before": 27,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 209,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 218,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 73,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-03",
+        "show": "live:grateful-dead:1979-02-03:market-square-arena"
+       },
+       "plays_before": 99,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-03",
+        "show": "live:grateful-dead:1979-02-03:market-square-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 418,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 240,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 115,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 172,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      }
     ],
@@ -273,26 +453,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 745,
-     "shows_in_archive": 1855,
+     "show_number": 841,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Tulsa Fairgrounds Pavilion"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.618554+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.895552+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "TrJjer3nvALe6Luw1XMGbqXsrgaWvePzyxy9UI3oT7dta1Tn2pjNmz6jH2xwLfwAR8rxln3za5-m_MSNfYJKCA",
+   "revision": 41,
+   "signature": "go7pbEEmIj10vvOgurfLcnRFSmnfuKqA38xfGnMyg7wLsOD_yLwwpsaR9Li_heRkc9nIXt3PHJehOqjN3IO6DA",
    "subject_key": "live:grateful-dead:1979-02-06:tulsa-fairgrounds-pavilion",
-   "updated_at": "2026-10-25T16:41:52.619243"
+   "updated_at": "2026-10-25T17:35:15.896072"
   }
  },
  "recommended": {

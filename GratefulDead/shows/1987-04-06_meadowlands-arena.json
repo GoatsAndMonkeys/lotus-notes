@@ -455,7 +455,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -480,8 +480,22 @@
     {
      "accessed_at": "2026-10-25",
      "author": null,
-     "author_url": "https://www.dead.net/",
+     "author_url": "https://jerrygarcia.com/",
      "id": 28,
+     "kind": "blog",
+     "published_at": "1987-04-06T20:00:00+00:00",
+     "quote_or_claim": "",
+     "site": "Jerry Garcia",
+     "title": "1987-04-06 Meadowlands Arena, East Rutherford, NJ, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1987-04-06-meadowlands-arena-east-rutherford-nj-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://www.dead.net/",
+     "id": 29,
      "image_url": "https://www.dead.net/sites/g/files/g2000007851/files/dead_site_files/picture-260824.jpg",
      "kind": "fanart",
      "published_at": null,
@@ -501,8 +515,8 @@
     "guests": [],
     "next": {
      "date": "1987-04-07",
-     "show": "live:grateful-dead:1987-04-07:brendan-byrne-arena",
-     "venue": "Brendan Byrne Arena"
+     "show": "live:grateful-dead:1987-04-07:meadowlands-arena",
+     "venue": "Meadowlands Arena"
     },
     "previous": {
      "date": "1987-04-04",
@@ -909,104 +923,284 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1986-12-27",
+        "show": "live:grateful-dead:1986-12-27:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 126,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 142,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-29",
+        "show": "live:grateful-dead:1987-03-29:the-spectrum"
+       },
+       "plays_before": 160,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 192,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-04-02",
+        "show": "live:grateful-dead:1987-04-02:the-centrum"
+       },
+       "plays_before": 532,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-04-02",
+        "show": "live:grateful-dead:1987-04-02:the-centrum"
+       },
+       "plays_before": 370,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-04-02",
+        "show": "live:grateful-dead:1987-04-02:the-centrum"
+       },
+       "plays_before": 16,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 381,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 352,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-28",
+        "show": "live:grateful-dead:1987-03-28:hampton-coliseum"
+       },
+       "plays_before": 114,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-27",
+        "show": "live:grateful-dead:1987-03-27:hartford-civic-center"
+       },
+       "plays_before": 183,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:tons-of-steel",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 16,
+       "total_plays": 31
+      },
       "title": "Tons Of Steel"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-30",
+        "show": "live:grateful-dead:1987-03-30:the-spectrum"
+       },
+       "plays_before": 158,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-04-04",
+        "show": "live:grateful-dead:1987-04-04:the-centrum"
+       },
+       "plays_before": 985,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-04-04",
+        "show": "live:grateful-dead:1987-04-04:the-centrum"
+       },
+       "plays_before": 645,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 177,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-04-03",
+        "show": "live:grateful-dead:1987-04-03:the-centrum"
+       },
+       "plays_before": 442,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 210,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-29",
+        "show": "live:grateful-dead:1987-03-29:the-spectrum"
+       },
+       "plays_before": 473,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:black-muddy-river",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-04-02",
+        "show": "live:grateful-dead:1987-04-02:the-centrum"
+       },
+       "plays_before": 10,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -1014,19 +1208,46 @@
      {
       "from": "gd87-04-06.sbd-patched.hinko-miller.25809.sbeok.shnf",
       "key": "song:grateful-dead:900-000-tons-of-steel",
-      "stats": {},
+      "stats": {
+       "days_since": 110,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1986-12-17",
+        "show": "live:grateful-dead:1986-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "900,000 Tons of Steel"
      },
      {
       "from": "gd1987-04-06.aud.morris.106903.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-31",
+        "show": "live:grateful-dead:1987-03-31:the-spectrum"
+       },
+       "plays_before": 62,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1987-04-06.nakcm304.suraci.81380.sbeok.flac16",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1986-12-27",
+        "show": "live:grateful-dead:1986-12-27:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 24,
+       "total_plays": 25
+      },
       "title": "Dancin in the Streets"
      }
     ],
@@ -1034,26 +1255,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1330,
-     "shows_in_archive": 1855,
+     "show_number": 1434,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Meadowlands Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 18,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:03.638235+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.612855+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "qZmCMGHKVrw3hXY8h1urn4tZj5_6_fg8trW9NpnPGB6NNtbfGhaozWYCyy-FF_4IH64gTEmx_Ch1zFIDSv0qDw",
+   "revision": 19,
+   "signature": "HnzV-ZkFr0mYu0KpvS6MZhb1CrYF7rsa-gpgbH_QKMdMD27-gTFdjcc6m6dd_4ZhZxj1ubTdxYLf7bgC5nwOBw",
    "subject_key": "live:grateful-dead:1987-04-06:meadowlands-arena",
-   "updated_at": "2026-10-25T16:42:03.640486"
+   "updated_at": "2026-10-25T17:35:22.614148"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (5 reviews): Jack Straw is described as blazing; Phil drops heavy bass throughout Jack Straw [14][15][20][22][25]\n- **Dancing In The Street** (4 reviews): Dancin' into Franklin's Tower opens the show at full intensity; Attendee says this was the last Dancin' ever played [14][15][21][23]\n- **Terrapin Station** (3 reviews): Singles out Dancin' and the move from Space into Terrapin; Terrapin and The Other One emerging from Space are highlighted [19][20][23]\n- **Franklin's Tower** (1 review): Franklin's is well played but abrupt, lacking dynamic build [21]\n- **Peggy-O** (1 review): Peggy-O has a comforting, strolling feel [21]\n- **The Other One** (1 review): The Terrapin into Other One sequence is praised [25]\n- **Stella Blue** (1 review): Stella Blue is called great [23]\n- **Black Muddy River** (1 other source): Black Muddy River was the encore [1]\n\n## The recordings\n\n- **gd1987-04-06.140339.sbd.miller.flac2496** (recommended): soundboard; 20 songs; 147 min; rated 2.5/5 by 2 [1]\n- **gd87-04-06.sbd-matrix.hinko.19848.sbeok.shnf**: matrix (soundboard mixed with audience mics); 20 songs; 138 min; rated 3.83/5 by 30 [6]. Said about its sound: Reviewer hears a deep, rich, up-front recording with balanced levels that captures crowd energy; Reviewer says the matrix is a big improvement over the audience tape; Clear for an audience-style recording, though with a typical Meadowlands room sound [14][15][19]\n- **gd87-04-06.schoeps.eD.10924.sbeok.shnf**: audience recording; 20 songs; 139 min; rated 4.5/5 by 4 [8]\n- **gd1987-04-06.140376.UltraMatrix.sbd.cm.miller.flac1644**: soundboard; 20 songs; 147 min [2]\n\n## Around the show\n\n- Attendee found the Meadowlands a poor venue, spoiling the evening despite a strong setlist [17]\n- Attendee says Jerry played dynamically, relearning guitar after a coma within the prior year [24]\n- Says the previous night is probably the best of the tour [22]\n- Notes the unusual setlist against the many stock setlists of 1987 [22]\n- Attendee felt the show lacked jamming, though the tour was great with Jerry sober [25]\n\n## Tapers and lineage\n\n- **gd1987-04-06.140339.sbd.miller.flac2496**: transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-R90) [1]. Also: Two sets of masters were combined to make the show complete [1]\n- **gd87-04-06.sbd-matrix.hinko.19848.sbeok.shnf**: source: Healy Matrix TDK MA-90 cassette > Dick's Reel (Technics 1506) > PCM > CD (HHB CDR 800) > EAC > SHN [6]. Also: Recording was posted by Jonathan Aizen [19]\n- **gd87-04-06.schoeps.eD.10924.sbeok.shnf**: source: AUD>MC>DAT>CDRSchoeps CMC-441Âs>Sony D-5 [8]. Also: Reviewer's download came from a different, now-removed source than this audience recording [20]\n- **gd1987-04-06.140376.UltraMatrix.sbd.cm.miller.flac1644**: transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-R90) [2]\n\n## Art and photos\n\n- Poster by Ron Delany Grateful Dead: [1987-04-06 Meadowlands Arena, East Rutherford, NJ, USA - Jerry Garcia](https://jerrygarcia.com/show/1987-04-06-meadowlands-arena-east-rutherford-nj-usa/) [27]\n- Fan art by Grateful Dead: [Grateful Dead Meadowlands Arena - April 7, 1987](https://www.dead.net/show/april-7-1987) [28]",

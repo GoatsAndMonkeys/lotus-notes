@@ -454,7 +454,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -505,8 +505,8 @@
     },
     "previous": {
      "date": "1970-11-07",
-     "show": "live:grateful-dead:1970-11-07:capitol-theatre",
-     "venue": "Capitol Theatre"
+     "show": "live:grateful-dead:1970-11-07:capitol-theater",
+     "venue": "Capitol Theater"
     },
     "recommended": {
      "identifier": "gd1970-11-08.aud.weiner.28609.sbeok.shnf",
@@ -849,229 +849,596 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 59,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 89,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:dark-hollow",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 38
+      },
       "title": "Dark Hollow"
      },
      {
       "key": "song:grateful-dead:rosalie-mcfall",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1970-09-20",
+        "show": "live:grateful-dead:1970-09-20:fillmore-east"
+       },
+       "plays_before": 10,
+       "total_plays": 22
+      },
       "title": "Rosalie McFall"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:operator",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 4
+      },
       "title": "Operator"
      },
      {
       "key": "song:grateful-dead:ripple",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 48
+      },
       "title": "Ripple"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 30,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:wake-up-little-susie",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1970-08-19",
+        "show": "live:grateful-dead:1970-08-19:fillmore-west"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "Wake Up Little Susie"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 49,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 69,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 98,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mystery-train",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Mystery Train"
      },
      {
       "key": "song:grateful-dead:my-babe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "My Babe"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:new-orleans",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 155,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1970-06-06",
+        "show": "live:grateful-dead:1970-06-06:fillmore-west"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "New Orleans"
      },
      {
       "key": "song:grateful-dead:searching",
-      "stats": {},
+      "stats": {
+       "days_since": 155,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1970-06-06",
+        "show": "live:grateful-dead:1970-06-06:fillmore-west"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Searchin'"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 157,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1970-06-04",
+        "show": "live:grateful-dead:1970-06-04:fillmore-west"
+       },
+       "plays_before": 16,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 81,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 111,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:main-ten",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "The Main Ten"
      },
      {
       "key": "song:grateful-dead:dancing-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dancin' Jam"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 41,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Streets"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 126,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 75,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 126,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 75,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:six-days-on-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 9,
+       "total_plays": 13
+      },
       "title": "Six Days On The Road"
      },
      {
       "key": "song:grateful-dead:superman",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 7,
+       "total_plays": 10
+      },
       "title": "Superman"
      },
      {
       "key": "song:grateful-dead:whatcha-gonna-do",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 15
+      },
       "title": "Whatcha Gonna Do"
      },
      {
       "key": "song:grateful-dead:glendale-train",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 13
+      },
       "title": "Glendale Train"
      },
      {
       "key": "song:grateful-dead:all-i-ever-wanted",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 9
+      },
       "title": "All I Ever Wanted"
      },
      {
       "key": "song:grateful-dead:fair-chance-to-know",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 20
+      },
       "title": "Fair Chance To Know"
      },
      {
       "key": "song:grateful-dead:portland-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 18
+      },
       "title": "Portland Woman"
      },
      {
       "key": "song:grateful-dead:cecilia",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 6,
+       "total_plays": 8
+      },
       "title": "Cecilia"
      },
      {
       "key": "song:grateful-dead:truck-driving-man",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "Truck Drivin' Man"
      },
      {
       "key": "song:grateful-dead:last-lonely-eagle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 21
+      },
       "title": "Last Lonely Eagle"
      },
      {
       "key": "song:grateful-dead:louisiana-lady",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 16
+      },
       "title": "Louisiana Lady"
      },
      {
       "key": "song:grateful-dead:honky-tonk-women",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 14,
+       "total_plays": 20
+      },
       "title": "Honky Tonk Woman"
      }
     ],
@@ -1079,112 +1446,218 @@
      {
       "from": "gd70-11-08.aud.owens.23474.sbeok.shnf",
       "key": "song:grateful-dead:godzilla",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Godzilla"
      },
      {
       "from": "gd70-11-08.aud.owens.23474.sbeok.shnf",
       "key": "song:grateful-dead:dancing-in-the-streets-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dancin' In The Streets Jam"
      },
      {
       "from": "gd70-11-08.aud.warner.17184.sbeok.shnf",
       "key": "song:grateful-dead:dancing-in-the-stars-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dancin' in the Stars Jam"
      },
      {
       "from": "gd1970-11-08.125659.bergercomposite.flac16",
       "key": "song:grateful-dead:intermission",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "intermission"
      },
      {
       "from": "gd1970-11-08.125659.bergercomposite.flac16",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1970-08-18",
+        "show": "live:grateful-dead:1970-08-18:fillmore-west"
+       },
+       "plays_before": 4,
+       "total_plays": 25
+      },
       "title": "Dancin'+ In The Streets"
      },
      {
       "from": "gd1970-11-08.aud-weinberg.cousinit.18639.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 21,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1970-09-17",
+        "show": "live:grateful-dead:1970-09-17:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1970-09-20",
+        "show": "live:grateful-dead:1970-09-20:fillmore-east"
+       },
+       "plays_before": 5,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:unknown-bluegrass",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Unknown Bluegrass (fragment)"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:cold-jordan",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 14,
+       "total_plays": 15
+      },
       "title": "Cold Jordan"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:swing-low-sweet-chariot",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 12,
+       "total_plays": 13
+      },
       "title": "Swing Low, Sweet Chariot"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:working-man-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "Workin' Man Blues"
      },
      {
       "from": "gd1970-11-08.176470.sony.tc110.toner.vadnais.flac1644",
       "key": "song:grateful-dead:i-dont-know-you",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-06",
+        "show": "live:grateful-dead:1970-11-06:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 17
+      },
       "title": "I Don’t Know You"
      }
     ],
     "subject_key": "live:grateful-dead:1970-11-08:capitol-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 240,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Mystery Train",
+      "My Babe",
+      "Around And Around",
+      "Dancin' Jam"
+     ],
+     "show_number": 297,
+     "shows_in_archive": 2097,
      "songs": 43,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.266889+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.231316+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "18Gd3D9h5JVyUhUZQP3pFRbuXQHw8X5EerToKOtMdiLeLlYNmpTOA4QfCDp37E2oHpNwjpA_yf0cUepZiiyjCw",
+   "revision": 43,
+   "signature": "lfOleIr1s6Cjt5quXUCN3GQkwas5Vw-onrs9hn9DUmumRN5VfA1RBN4Vq6W_d4thS1Ih9fmyd51yRTzTjPevAg",
    "subject_key": "live:grateful-dead:1970-11-08:capitol-theater",
-   "updated_at": "2026-10-25T16:41:40.268417"
+   "updated_at": "2026-10-25T17:35:11.233793"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Morning Dew** (1 review): The electric set opens with a superb performance of Morning Dew [19]\n- **Truckin'** (1 review): The band plays hard on the Truckin' through Good Lovin' jam sequence [19]\n\n## The recordings\n\n- **gd1970-11-08.aud.weiner.28609.sbeok.shnf** (recommended): audience recording; 44 songs; 268 min; rated 4.35/5 by 81 [1]. Said about its sound: The reviewer states this show has never sounded better than this version [22]\n- **gd70-11-08.aud.owens.23474.sbeok.shnf**: audience recording; 45 songs; 240 min; rated 4/5 by 19 [2]. Said about its sound: The recording is described as complete, thoroughly listenable, and a wild electric set; Dark Star's chimes are crystal clear, though ambient crowd noise requires patience [12][17]\n- **gd70-11-08.aud.warner.17184.sbeok.shnf**: audience recording; 44 songs; 241 min; rated 3.75/5 by 4 [3]. Said about its sound: This specific taping is a distorted, mono mix, considered archival rather than musical [15]\n- **gd1970-11-08.aud-weinberg.cousinit.18639.shnf**: audience recording; 32 songs; 171 min; rated 4.67/5 by 3 [6]\n- **gd1970-11-08.aud.garrett-evans.3339.shnf**: audience recording; 27 songs; 180 min; rated 4.5/5 by 2 [7]\n\n## Around the show\n\n- The release commemorates Mark Cohen's second anniversary in heaven, dedicated to his memory [4]\n- The electric set rivals the February 1970 run, featuring a unique Truckin' to Dark Star sequence [18]\n- This is the final Operator, Little Susie, and acoustic Uncle John's Band performance [23]\n\n## Tapers and lineage\n\n- **gd1970-11-08.aud.weiner.28609.sbeok.shnf**: taped by Ken & Judy Lee; transferred by Noah Weiner; source: Audience - Ken & Judy Lee [1]. Also: This is a patched fix put into circulation by The Port Chester Resurrection Project [1]\n- **gd70-11-08.aud.owens.23474.sbeok.shnf**: taped by Ken Lee and Marty Weinberg; transferred by The Wizard; source: Audience [2]. Also: Soundboards for this date are considered lost or possibly never created due to Owsley's imprisonment [14]\n- **gd70-11-08.aud.warner.17184.sbeok.shnf**: taped by Marty Weinberg and Ken Lee; transferred by Jack Warner; source: Audience - Marty Weinberg and Ken Lee [3]\n- **gd1970-11-08.aud-weinberg.cousinit.18639.shnf**: transferred by CousinIt; source: MAR source seems to be from Marty Weinberg's master, recorded from the floor, AKG 190E mic > Uher 4000 Report-L 5\" reel machine. [6]. Also: Morning Dew segments were transferred from Ken Leigh's master tape via multiple generations; Dancin' in the Streets sections were transferred from Ken Leigh's master tape [6]\n- **gd1970-11-08.aud.garrett-evans.3339.shnf**: transferred by Miles Garrett and Morgan Evans; source: Audience [7]. Also: The recording is a composite of audience tapes, with DAT conversion by Miles Garrett [7]\n\n## Art and photos\n\n- Poster by Richard Biffle Art: [Grateful Dead\" Capitol Theatre 11/08/1970 | Richard Biffle Art](https://www.richardbiffleart.com/product-page/grateful-dead-capitol-theatre-11-08-1970) [25]\n- Fan art by Richard Biffle Screen-Printed: [Painter and Illustrator | Olcrowstudio](https://www.olcrowstudio.com/) [26]",

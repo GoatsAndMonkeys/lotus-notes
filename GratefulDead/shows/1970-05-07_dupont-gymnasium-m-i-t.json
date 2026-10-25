@@ -270,7 +270,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -292,13 +292,13 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://www.setlists.net/",
      "id": 19,
      "kind": "blog",
      "published_at": null,
-     "quote_or_claim": "- Cambridge, MA 05/07/70- Dupont Gymnasium M.I.T.",
+     "quote_or_claim": "The SetList Program allows you to search through setlists for the Grateful Dead's many shows.",
      "site": "www.setlists.net",
      "title": "The SetList Program - Grateful Dead Setlists, Listener Experiences, and Statistics",
      "url": "https://www.setlists.net/?year=1970",
@@ -445,9 +445,9 @@
     "date": "1970-05-07",
     "guests": [],
     "next": {
-     "date": "1970-05-14",
-     "show": "live:grateful-dead:1970-05-14:meramec-community-college",
-     "venue": "Meramec Community College"
+     "date": "1970-05-08",
+     "show": "live:grateful-dead:1970-05-08:farrell-hall-suny",
+     "venue": "Farrell Hall (SUNY)"
     },
     "previous": {
      "date": "1970-05-06",
@@ -584,252 +584,643 @@
     "setlist": [
      {
       "key": "song:grateful-dead:donaaaaaaaat-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "DonÃÂÃÂÃÂÃÂt Ease Me In"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 64,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:level-setting",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "level setting"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 9,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:level-setting",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "level setting"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 73,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 10,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 8,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 35,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 6,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 44,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:uncle-johnaaaaaaaas-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle JohnÃÂÃÂÃÂÃÂs Band"
      },
      {
       "key": "song:grateful-dead:whatcha-gonna-do",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 1,
+       "total_plays": 15
+      },
       "title": "Whatcha Gonna Do?"
      },
      {
       "key": "song:grateful-dead:six-days-on-the-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "Six Days On The Road"
      },
      {
       "key": "song:grateful-dead:i-donaaaaaaaat-know-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I DonÃÂÃÂÃÂÃÂt Know You"
      },
      {
       "key": "song:grateful-dead:portland-woman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 18
+      },
       "title": "Portland Woman"
      },
      {
       "key": "song:grateful-dead:henry",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 1,
+       "total_plays": 21
+      },
       "title": "Henry"
      },
      {
       "key": "song:grateful-dead:workinaaaaaaaa-man-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "WorkinÃÂÃÂÃÂÃÂ Man Blues"
      },
      {
       "key": "song:grateful-dead:all-i-ever-wanted",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 1,
+       "total_plays": 9
+      },
       "title": "All I Ever Wanted"
      },
      {
       "key": "song:grateful-dead:fair-chance-to-know",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 1,
+       "total_plays": 20
+      },
       "title": "Fair Chance To Know"
      },
      {
       "key": "song:grateful-dead:last-lonely-eagle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 1,
+       "total_plays": 21
+      },
       "title": "Last Lonely Eagle"
      },
      {
       "key": "song:grateful-dead:lodi",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 1,
+       "total_plays": 12
+      },
       "title": "Lodi"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 7,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:seasons",
-      "stats": {},
+      "stats": {
+       "days_since": 89,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1970-02-07",
+        "show": "live:grateful-dead:1970-02-07:fillmore-west"
+       },
+       "plays_before": 4,
+       "total_plays": 5
+      },
       "title": "Seasons"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 45,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:sawmill",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 3,
+       "total_plays": 6
+      },
       "title": "Saw Mill"
      },
      {
       "key": "song:grateful-dead:honky-tonk-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 20
+      },
       "title": "Honky Tonk Woman"
      },
      {
       "key": "song:grateful-dead:good-lovinaaaaaaaa",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Good LovinÃÂÃÂÃÂÃÂ"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 52,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 46,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:easy-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-04-24",
+        "show": "live:grateful-dead:1970-04-24:mammoth-gardens"
+       },
+       "plays_before": 24,
+       "total_plays": 43
+      },
       "title": "Easy Wind"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 31,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-05-01",
+        "show": "live:grateful-dead:1970-05-01:alfred-college"
+       },
+       "plays_before": 53,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 89,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 102,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 97,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 89,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-05-02",
+        "show": "live:grateful-dead:1970-05-02:harpur-college"
+       },
+       "plays_before": 31,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 50,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1970-03-01",
+        "show": "live:grateful-dead:1970-03-01:family-dog-at-the-great-highway"
+       },
+       "plays_before": 12,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:frozen-logger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
       "title": "Frozen Logger"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 102,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 25,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 122,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:st-stephen-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 554,
+       "gap_shows": 164,
+       "last_played": {
+        "date": "1968-10-30",
+        "show": "live:grateful-dead:1968-10-30:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "St. Stephen Jam"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 54,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:darkness-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Darkness Jam"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 54,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 188,
+       "gap_shows": 64,
+       "last_played": {
+        "date": "1969-10-31",
+        "show": "live:grateful-dead:1969-10-31:san-jose-state-university"
+       },
+       "plays_before": 1,
+       "total_plays": 11
+      },
       "title": "China Cat Sunflower Jam"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 122,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      }
     ],
@@ -837,82 +1228,173 @@
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 6,
+       "total_plays": 326
+      },
       "title": "Don?t Ease Me In"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 27,
+       "total_plays": 342
+      },
       "title": "Uncle John?s Band"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:i-dont-know-you",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 1,
+       "total_plays": 17
+      },
       "title": "I Don?t Know You"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:working-man-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-05-03",
+        "show": "live:grateful-dead:1970-05-03:field-house-wesleyan-university"
+       },
+       "plays_before": 2,
+       "total_plays": 14
+      },
       "title": "Workin? Man Blues"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:bob-weir-introduced-and-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bob Weir introduced and tuning"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-05-06",
+        "show": "live:grateful-dead:1970-05-06:kresge-plaza-m-i-t"
+       },
+       "plays_before": 48,
+       "total_plays": 439
+      },
       "title": "Good Lovin?"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1970-03-01",
+        "show": "live:grateful-dead:1970-03-01:family-dog-at-the-great-highway"
+       },
+       "plays_before": 18,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "from": "gd1970-05-07.aud.sirmick.32276.sbeok.flac16",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1970-04-03",
+        "show": "live:grateful-dead:1970-04-03:field-house-u-of-cincinnati"
+       },
+       "plays_before": 27,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1970-05-07.141093.aud.weiner.dalton.miller.sirmick.flac1644",
       "key": "song:grateful-dead:seasons-of-my-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1970-02-23",
+        "show": "live:grateful-dead:1970-02-23:the-auditorium"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Seasons Of My Heart"
      }
     ],
     "subject_key": "live:grateful-dead:1970-05-07:dupont-gymnasium-m-i-t",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 208,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "St. Stephen Jam"
+     ],
+     "first_in_archive": [
+      "DonÃÂÃÂÃÂÃÂt Ease Me In",
+      "level setting",
+      "level setting",
+      "Uncle JohnÃÂÃÂÃÂÃÂs Band",
+      "Six Days On The Road",
+      "I DonÃÂÃÂÃÂÃÂt Know You",
+      "Portland Woman",
+      "WorkinÃÂÃÂÃÂÃÂ Man Blues",
+      "Honky Tonk Woman",
+      "Good LovinÃÂÃÂÃÂÃÂ",
+      "Frozen Logger",
+      "Darkness Jam"
+     ],
+     "show_number": 256,
+     "shows_in_archive": 2097,
      "songs": 50,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Dupont Gymnasium M.I.T."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 23,
+   "parent_revision": 35,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.939542+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.867028+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 24,
-   "signature": "X_GJoRWhiGAAXyVy4T9Vkoq3YU_DAYQI9b0d-lGFJt7rOmktXGvcUL8Li-lpP-e_03vemN3xSFpTq1DaL6E5AA",
+   "revision": 36,
+   "signature": "TO0wYeQV_JTISTXS_V_Sb_l1rYxGoax9agA_qy3BXFZOtQYj4H6ZEbfTTxCVGFeE_ryabSarBfz9N4mgOhi5Dw",
    "subject_key": "live:grateful-dead:1970-05-07:dupont-gymnasium-m-i-t",
-   "updated_at": "2026-10-25T16:41:39.941601"
+   "updated_at": "2026-10-25T17:35:10.868598"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Lovelight** (2 reviews): A 31-minute monstrosity considered the peak of the Grateful Dead experience; Over half an hour long, featuring a great China Cat teaser three-quarters through [8][13]\n- **All I Ever Wanted** (1 review): Jerry Garcia's steel guitar solo shines, highlighting his flexible playing with New Riders [11]\n- **Uncle John's Band** (1 review): Spot-on performance with excellent harmonies, described as super strong and unbelievable [12]\n\n## The recordings\n\n- **gd70-05-07.aud.weiner-gdADT04.5439.sbefail.shnf** (recommended): audience recording; 50 songs; 267 min; rated 3.94/5 by 16 [1]. Said about its sound: Audio quality is not great, though it represents a good era in Dead history; Sound quality leaves something to be desired, with noticeable hiss present in the recording; Isolation of instruments isn't so good, but the show is incredibly beautiful [5][7][12]\n- **gd1970-05-07.aud.sirmick.32276.sbeok.flac16**: audience recording; 46 songs; 267 min; rated 3.25/5 by 12 [3]. Said about its sound: Sound quality is pretty good for its time, with the whole show being good [13]\n- **gd1970-05-07.141093.aud.weiner.dalton.miller.sirmick.flac1644**: audience recording; 43 songs; 266 min; rated 5/5 by 1 [2]\n- **gd1970-05-07.141093.aud.weiner.dalton.miller.sirmick.set3-retracked.flac1644**: audience recording; 44 songs; 266 min [4]\n\n## Around the show\n\n- Small crowd sat on the gym floor while Pigpen disappeared for a while [5]\n- Bobby giggled at the end of King Bee, announcing a five-minute break [10]\n- Venue felt like a high school sock hop, with the stage only a foot or two higher [16]\n- Garcia asked if anyone had a number for The Eleven between songs [16]\n- David Nelson was introduced on guitar for the performance of Black Peter [3]\n- The young and adventurous Dead are smokin', highlighting the appeal of circa '70 acoustic sets [9]\n\n## Tapers and lineage\n\n- **gd70-05-07.aud.weiner-gdADT04.5439.sbefail.shnf**: transferred by Noah Weiner; source: Audience [1]. Also: Transfer lineage includes AudMC, 7-inch reel, DAT, HD, and SHN; A to D by Noah Weiner [1]\n- **gd1970-05-07.aud.sirmick.32276.sbeok.flac16**: source: this is a remaster of shnid 5439 [3]. Also: Remastering used iZotope Oxone, with patches seeded by David Hollister to fix dropouts and static [3]\n- **gd1970-05-07.141093.aud.weiner.dalton.miller.sirmick.flac1644**: taped by Tim Dalton and Noah Weiner; transferred by Charlie Miller and SIRMick; source: Source: Audience Cassette Master > Reel > PCM (Sony HG) - Provided by Tim Dalton; Transfer: PCM > Sony SL-10 > Sony PCM-601ESD > Behringer Ultramatch Pro >… [2]\n- **gd1970-05-07.141093.aud.weiner.dalton.miller.sirmick.set3-retracked.flac1644**: taped by Tim Dalton; transferred by Charlie Miller and SIRMick; source: Source: Audience Cassette Master > Reel > PCM (Sony HG) - Provided by Tim Dalton; Transfer: PCM > Sony SL-10 > Sony PCM-601ESD > Behringer Ultramatch Pro >… [4]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Dupont Gymnasium, M.I.T., Cambridge, Poster](https://www.dead.net/archives/1970/artwork/dupont-gymnasium-m-i-t-cambridge-poster) [23]\n- Fan art by www.bahrgallery.com: [Grateful Dead at MIT - 1970 - Band - Items - Bahr Gallery](https://www.bahrgallery.com/band-items/grateful-dead-at-mit-1970) [24]\n- Poster by Daniel Wang Grateful Dead: [1970-05-07 Dupont Gymnasium M.I.T., Cambridge, MA, USA - Jerry Garcia](https://jerrygarcia.com/show/1970-05-07-dupont-gymnasium-m-i-t-cambridge-ma-usa/) [25]\n- Fan art by www.bahrgallery.com: [Grateful Dead at MIT - 1970 - Band - Items - Bahr Gallery](https://www.bahrgallery.com/band-items/grateful-dead-at-mit-1970) [26]\n- Fan art by www.bahrgallery.com: [Grateful Dead at MIT - 1970 - Band - Items - Bahr Gallery](https://www.bahrgallery.com/band-items/grateful-dead-at-mit-1970) [27]\n- Fan art by www.bahrgallery.com: [Grateful Dead at MIT - 1970 - Band - Items - Bahr Gallery](https://www.bahrgallery.com/band-items/grateful-dead-at-mit-1970) [28]",

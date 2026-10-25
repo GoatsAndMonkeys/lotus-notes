@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -114,22 +114,53 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-08-01",
+        "show": "live:grateful-dead:1973-08-01:roosevelt-stadium"
+       },
+       "plays_before": 31,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-08-01",
+        "show": "live:grateful-dead:1973-08-01:record-plant"
+       },
+       "plays_before": 35,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-08-01",
+        "show": "live:grateful-dead:1973-08-01:record-plant"
+       },
+       "plays_before": 27,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      }
     ],
@@ -137,27 +168,29 @@
     "subject_key": "live:grateful-dead:1973-08-04:record-plant",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 444,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Weather Report Suite"
+     ],
+     "show_number": 524,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Record Plant"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.717140+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.632261+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "SrNSCPl-ZUdraEx4wW2I9-pS6tANGiiNMfDC9iV25-iJN7TfUs4QFbCaknMqnGbMg2y1r4ybh1xYO2zmIvp6Dw",
+   "revision": 41,
+   "signature": "WEPtZ93nfwpPGTtS1CvZnhd5ZeIMXs3NnxaMM0EoJ8BhKmIigf7970cur23DA4RQVWi_5aVwekXr3qGqO7y7Dw",
    "subject_key": "live:grateful-dead:1973-08-04:record-plant",
-   "updated_at": "2026-10-25T16:41:46.717933"
+   "updated_at": "2026-10-25T17:35:13.632899"
   }
  },
  "recommended": {

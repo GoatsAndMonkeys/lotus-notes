@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -133,48 +133,119 @@
     "setlist": [
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 57,
+       "total_plays": 601
+      },
       "title": "The//Other One"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 28,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:discussion-regarding-monitors",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "discussion regarding monitors"
      },
      {
       "key": "song:grateful-dead:doing-that-rag-x-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Doin' That Rag x 2"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 28,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 10,
+       "total_plays": 47
+      },
       "title": "Cosmic//Charlie"
      },
      {
       "key": "song:grateful-dead:born-cross-eyed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1969-04-21",
+        "show": "live:grateful-dead:1969-04-21:the-ark"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "Born Cross-Eyed"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 57,
+       "total_plays": 601
+      },
       "title": "The Other One"
      }
     ],
@@ -182,27 +253,30 @@
     "subject_key": "live:grateful-dead:1969-06-01:avalon-ballroom",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 127,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "discussion regarding monitors",
+      "Doin' That Rag x 2"
+     ],
+     "show_number": 152,
+     "shows_in_archive": 2097,
      "songs": 9,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Avalon Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.272829+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.982921+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ErmyTDo86El2Zxcp2VXTd_Hd9_XxzVqh6g621vdKk_P2oYHaF-Bq5mFgtyV_FXS4CSgVTkpufF_ebkDhtDOmBA",
+   "revision": 40,
+   "signature": "s0CwNEXk5LHZzllBRk8kyeac4FlzDA_gRVyXk7I-PK4lh9qfEIWvdLsgjBlpW3oxbptT9Rpc0C6Ja-TnB_IdCw",
    "subject_key": "live:grateful-dead:1969-06-01:avalon-ballroom",
-   "updated_at": "2026-10-25T16:41:39.273587"
+   "updated_at": "2026-10-25T17:35:09.983646"
   }
  },
  "recommended": {

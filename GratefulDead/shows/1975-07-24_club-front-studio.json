@@ -71,7 +71,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -135,7 +135,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:gd1975-07-24-studio-bershaw-t01-bosblues2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1975.07.24.studio.bershaw.t01-Bo'sBlues2"
      }
     ],
@@ -143,27 +147,29 @@
     "subject_key": "live:grateful-dead:1975-07-24:club-front-studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 538,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "gd1975.07.24.studio.bershaw.t01-Bo'sBlues2"
+     ],
+     "show_number": 625,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.652624+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.464970+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "nXPyRpFGiuXH0GrAqnSB_CX0Lm0CJth81vGFOBxx0MiU6SpyGq_OTuLhKXeRMOLW-KxJjijPjBNhJSvZ6i0ZBA",
+   "revision": 40,
+   "signature": "OhmDyA6RsvRwaD-Bou2irKrfM233eeuxZqucXP0ts8yK31FK2gzp_XHzaTygKZBH6baTEIyFb8X6Id0Sk2ugCw",
    "subject_key": "live:grateful-dead:1975-07-24:club-front-studio",
-   "updated_at": "2026-10-25T16:41:48.655128"
+   "updated_at": "2026-10-25T17:35:14.465350"
   }
  },
  "recommended": {

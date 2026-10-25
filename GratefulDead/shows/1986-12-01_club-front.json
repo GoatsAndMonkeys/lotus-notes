@@ -57,7 +57,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -78,8 +78,8 @@
     },
     "previous": {
      "date": "1986-07-07",
-     "show": "live:grateful-dead:1986-07-07:rfk-stadium",
-     "venue": "RFK Stadium"
+     "show": "live:grateful-dead:1986-07-07:robert-f-kennedy-stadium",
+     "venue": "Robert F. Kennedy Stadium"
     },
     "recommended": {
      "identifier": "gd1986-12-01.170842.sbd.miller.flac1648",
@@ -151,45 +151,68 @@
     "setlist": [
      {
       "key": "song:grateful-dead:black-muddy-river",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 967,
+       "gap_shows": 172,
+       "last_played": {
+        "date": "1984-04-08",
+        "show": "live:grateful-dead:1984-04-08:the-centrum"
+       },
+       "plays_before": 1,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:ugliest-girl-in-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ugliest Girl In The World"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1986-12-01:club-front",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1302,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Black Muddy River"
+     ],
+     "first_in_archive": [
+      "When Push Comes To Shove",
+      "Ugliest Girl In The World"
+     ],
+     "show_number": 1405,
+     "shows_in_archive": 2097,
      "songs": 3,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:02.362182+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.295219+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "WJvv1nRo1XO4w-tpxZAVjfR0_Mo-9wjX-Op-4pUJH7q5uh67BS9xLRyK5LV3Fb8Vn3QfnPMtNPyNZDLX8JepBA",
+   "revision": 41,
+   "signature": "NNgMtSbFNPH7-qdcJtV39I8zl1gvB1kzrmyy2MTwJq67TVPVxQ1uP6rAo_TIf5bz5kaDYq-an4fUxSBxnQngCg",
    "subject_key": "live:grateful-dead:1986-12-01:club-front",
-   "updated_at": "2026-10-25T16:42:02.362996"
+   "updated_at": "2026-10-25T17:35:22.295802"
   }
  },
  "recommended": {

@@ -633,7 +633,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -711,8 +711,8 @@
     },
     "previous": {
      "date": "1983-04-10",
-     "show": "live:grateful-dead:1983-04-10:west-virginia-university-coliseum",
-     "venue": "West Virginia University Coliseum"
+     "show": "live:grateful-dead:1983-04-10:morgantown-civic-center",
+     "venue": "Morgantown Civic Center"
     },
     "recommended": {
      "identifier": "gd1983-04-12.fob.senn421.colyard.ford.93961.flac16",
@@ -1325,156 +1325,393 @@
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 103,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-12-30",
+        "show": "live:grateful-dead:1982-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 104,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 171,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:bird-song",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 137,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 250,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 162,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 170,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-03-27",
+        "show": "live:grateful-dead:1983-03-27:irvine-meadows"
+       },
+       "plays_before": 246,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 75,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 32,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1983-03-25",
+        "show": "live:grateful-dead:1983-03-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 146,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 36,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 35,
+       "total_plays": 118
+      },
       "title": "Slipknot"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 111,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 134,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 134,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-10",
+        "show": "live:grateful-dead:1983-04-10:morgantown-civic-center"
+       },
+       "plays_before": 721,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-10",
+        "show": "live:grateful-dead:1983-04-10:morgantown-civic-center"
+       },
+       "plays_before": 385,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 369,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 234,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 340,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:nfa-chant",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 54
+      },
       "title": "NFA chant"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 340,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:baby-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 245,
+       "gap_shows": 37,
+       "last_played": {
+        "date": "1982-08-10",
+        "show": "live:grateful-dead:1982-08-10:university-of-iowa"
+       },
+       "plays_before": 4,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      },
      {
       "key": "song:grateful-dead:nfa-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 54
+      },
       "title": "NFA chant"
      },
      {
       "key": "song:grateful-dead:down-in-the-bottom",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 10
+      },
       "title": "Down In the Bottom"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 103,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-12-30",
+        "show": "live:grateful-dead:1982-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 128,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-03-27",
+        "show": "live:grateful-dead:1983-03-27:irvine-meadows"
+       },
+       "plays_before": 299,
+       "total_plays": 438
+      },
       "title": "Deal"
      }
     ],
@@ -1482,190 +1719,333 @@
      {
       "from": "gd1983-04-12.138560.Senn421.FOB.Gastwirt.Miller.Noel.t-flac16",
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 46,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      },
      {
       "from": "gd1983-04-12.124253.mtx.dusborne.flac16",
       "key": "song:grateful-dead:not-fade-away-audience-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Not Fade Away audience chant"
      },
      {
       "from": "gd1983-04-12.134998.nak300.schley.flac1644",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 203,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1983-04-12.134998.nak300.schley.flac1644",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 105,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1982-12-28",
+        "show": "live:grateful-dead:1982-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 38,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1983-04-12.134998.nak300.schley.flac1644",
       "key": "song:grateful-dead:crowd-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 20
+      },
       "title": "crowd chant"
      },
      {
       "from": "gd1983-04-12.134998.nak300.schley.flac1644",
       "key": "song:grateful-dead:nfa-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 8
+      },
       "title": "NFA Reprise"
      },
      {
       "from": "gd1983-04-12.163638.senn441.neumann.u87.miller.clugston.flac2496",
       "key": "song:grateful-dead:not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 40
+      },
       "title": "Not Fade Away Chant"
      },
      {
       "from": "gd1983-04-12.163638.senn441.neumann.u87.miller.clugston.flac2496",
       "key": "song:grateful-dead:not-fade-away-reprise",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3885,
+       "gap_shows": 723,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 18
+      },
       "title": "Not Fade Away Reprise"
      },
      {
       "from": "gd1983-04-12.141633.senn421.executive-crew.holbrook.flac2448",
       "key": "song:grateful-dead:not-fade-away-bob-drums-n-crowd-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Not Fade away Bob Drums n crowd chant"
      },
      {
       "from": "gd1983-04-12.141633.senn421.executive-crew.holbrook.flac2448",
       "key": "song:grateful-dead:encore-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "encore Baby Blue"
      },
      {
       "from": "gd1983-04-12.sbd.drgseeds.17264.shnf",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 319,
+       "gap_shows": 51,
+       "last_played": {
+        "date": "1982-05-28",
+        "show": "live:grateful-dead:1982-05-28:moscone-convention-center"
+       },
+       "plays_before": 14,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      },
      {
       "from": "gd1983-04-12.sbd.drgseeds.17264.shnf",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 204,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 16,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd1983-04-12.sbd.drgseeds.17264.shnf",
       "key": "song:grateful-dead:wharph-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wharph Rat"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t01-help-on-the-way",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t01 Help On The Way"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t02-slipknot",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t02 Slipknot!"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t03-franklins-tower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t03 Franklin's Tower"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t04-lost-sailor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t04 Lost Sailor"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t05-saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t05 Saint Of Circumstance"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t06-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t06 Terrapin Station"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t07-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t07 Drums"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t08-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t08 Space"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t09-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t09 The Other One"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t10-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t10 Wharf Rat"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t11-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t11 Not Fade Away"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t12-not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t12 Not Fade Away Chant"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t13-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t13 Not Fade Away"
      },
      {
       "from": "gd1983-04-12.140047.set2.sbd.pcm.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd83-04-12-s2-t14-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd83-04-12 s2 t14 It's All Over Now, Baby Blue"
      }
     ],
     "subject_key": "live:grateful-dead:1983-04-12:broome-county-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1064,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "NFA chant",
+      "NFA chant",
+      "Down In the Bottom"
+     ],
+     "show_number": 1166,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Broome County Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.658813+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.697150+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "2A_lvtYEZoz-cyPlC9iJxc6wYdPZfdXlIW3-W6kBsBar1r4F4RwTrorxqDLkZXKBjo5avhQrA097dBydCzKLCw",
+   "revision": 43,
+   "signature": "QAKIU1mDmFxYtKS3xLx4Lcjqz7BU8FHO3qjFHeqCEbSECd50ywF38fS7cyC2cWyfA0kJKBdWZe5ton2EEnzYCg",
    "subject_key": "live:grateful-dead:1983-04-12:broome-county-arena",
-   "updated_at": "2026-10-25T16:41:55.660697"
+   "updated_at": "2026-10-25T17:35:18.700424"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Greatest Story Ever Told** (1 other source): This source lists the song after Alabama Getaway as Keep On Growing [3]\n- **Dupree's Diamond Blues** (1 review): Brent's keyboard sound on Dupree's has a carnival-like quality that the reviewer loves [30]\n- **Drums** (1 other source): A 5:48 patch in Drums comes from the Colyard and Ford Sennheiser 421 source [5]\n- **The Other One** (1 review): Reviewer calls The Other One smoking [23]\n- **Wharf Rat** (1 review): Reviewer describes the Wharf Rat as very enthusiastic [28]\n- **Deal** (1 other source): The fade-out after The Music Never Stopped into Deal is filled using the whole song from source 9947 [1]\n\n## The recordings\n\n- **gd1983-04-12.fob.senn421.colyard.ford.93961.flac16** (recommended): source not stated; 28 songs; 188 min; rated 4.5/5 by 4 [1]\n- **gd1983-04-12.138560.Senn421.FOB.Gastwirt.Miller.Noel.t-flac16**: source not stated; 24 songs; 180 min [2]\n- **gd1983-04-12.124253.mtx.dusborne.flac16**: matrix (soundboard mixed with audience mics); 24 songs; 177 min; rated 4.33/5 by 6 [3]\n- **gd1983-04-12.163638.senn441.neumann.u87.miller.clugston.flac2496**: audience recording; 25 songs; 177 min [5]\n- **gd83-04-12.sbd.dodd.10075.sbeok.shnf**: soundboard; 23 songs; 174 min; rated 3.68/5 by 31 [12]. Said about its sound: Soundboard is decent for its era, with some bumps early that improve as the show goes on; Reviewer finds the soundboard hot and tight throughout, with the second set hypnotic; This soundboard is nice and clearer than a muddy board the reviewer had heard years earlier [21][23][25]\n- **gd83-04-12.wise.sacks.9947.sbeok.shnf**: source not stated; 23 songs; 170 min; rated 4.43/5 by 7 [13]. Said about its sound: Very loud, crisp recording with great sound [28]\n- **gd83-04-12.set2.pcm-sbd.miller.30808.sbeok.flacf**: soundboard; 14 songs; 101 min; rated 4.6/5 by 5 [18]. Said about its sound: Reviewer calls the second-set soundboard FLAC beautiful, among the best-sounding shows they have downloaded [32]\n\n## Around the show\n\n- Listener lived in Scranton, PA, about 45 minutes away, and went to Broome County Arena without his friend John [22]\n- Reviewer says Jerry wore red t-shirts on this tour and the Binghamton crowd danced like at the Avalon Ballroom [24]\n- Reviewer drove over from Mt. Snow, VT, not knowing where Broome County was, and found a small venue [28]\n- Reviewer calls 1983 a peak year, with northeast shows all hot and Brent finally settled in [24]\n- Reviewer finds 1983 a turning point, with hot versions of standard songs and a good setlist for that year [25]\n- Reviewer thinks April 1983 shows may be better than those from September and October [32]\n\n## Tapers and lineage\n\n- **gd1983-04-12.fob.senn421.colyard.ford.93961.flac16**: taped by Rick \"Coyote\" Colyard; transferred by Alex Ford; source: (FOB) 2 x Sennheiser 421 > Sony D5 > 2 x Maxell UDXL II C90 Location: 20th Row center. [1]. Also: Sennheiser 421 front-of-board audience source from Colyard and Ford, with cassettes provided by Muletaper [1]\n- **gd1983-04-12.138560.Senn421.FOB.Gastwirt.Miller.Noel.t-flac16**: taped by Unknown; transferred by Rick Gastwirt;Charlie Miller;Joe Noel; source: flac16/48kHz ; Unknown Taper (FOB): Sennheiser 421 > cassette master* > dat; Charlie Miller [2]. Also: Main source is Jim Wise's Sennheiser front-of-board recording, patched from other audience tapers [2]\n- **gd1983-04-12.124253.mtx.dusborne.flac16**: transferred by Matrix by dusborne; source: 3 Source Matrix by Dusborne: Soundboard (shnid:17264) Set 1SBD > Cassette master > Dats > CDR > SHN by drgseeds, Soundboard (shnid:30808) Set 2 Recording Info:… [3]. Also: This is a matrix recording by dusborne, with the opener labeled differently than in other sources [3]\n- **gd1983-04-12.163638.senn441.neumann.u87.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master (FOB) Audience Cassettes; (2) Sennheiser 441's (left + right) + (1) Neumann U87 (center) blend > Nakamichi 550 [5]\n- **gd83-04-12.sbd.dodd.10075.sbeok.shnf**: source: SBD>PCM>DAT>CDR (Has Analog Gen) [12]. Also: Reviewer says this soundboard is not a PCM recording and contains analog generations [26]\n- **gd83-04-12.wise.sacks.9947.sbeok.shnf**: source: Jim Wise recording, FOB Sennheuser 421s>Sony D5>DAT>CDR [13]\n- **gd83-04-12.set2.pcm-sbd.miller.30808.sbeok.flacf**: transferred by Charlie Miller; source: flac16 SBD -> PCM Master -> PCM Clone -> Sonic Solutions -> Dat [18]. Also: Charlie Miller supplied a 16-bit FLAC soundboard version of the second set [32]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Broome County Arena - April 12, 1983](https://www.dead.net/show/april-12-1983) [37]",

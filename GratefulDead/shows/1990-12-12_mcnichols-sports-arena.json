@@ -620,7 +620,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1225,112 +1225,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 162,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1990-10-22",
+        "show": "live:grateful-dead:1990-10-22:festhalle"
+       },
+       "plays_before": 251,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-12-04",
+        "show": "live:grateful-dead:1990-12-04:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 252,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-12-04",
+        "show": "live:grateful-dead:1990-12-04:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 85,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-10-31",
+        "show": "live:grateful-dead:1990-10-31:wembley-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 45,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-10-28",
+        "show": "live:grateful-dead:1990-10-28:the-zenith"
+       },
+       "plays_before": 417,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:maggies-farm",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 12,
+       "total_plays": 48
+      },
       "title": "Maggie's Farm"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 73,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-10-19",
+        "show": "live:grateful-dead:1990-10-19:internationales-congress-centrum"
+       },
+       "plays_before": 391,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 499,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 502,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-10-30",
+        "show": "live:grateful-dead:1990-10-30:wembley-arena"
+       },
+       "plays_before": 388,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-10-24",
+        "show": "live:grateful-dead:1990-10-24:sportsahalle"
+       },
+       "plays_before": 87,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-11-01",
+        "show": "live:grateful-dead:1990-11-01:wembley-arena"
+       },
+       "plays_before": 195,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 250,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 1276,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 936,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-12-08",
+        "show": "live:grateful-dead:1990-12-08:compton-terrace-amphitheatre"
+       },
+       "plays_before": 67,
+       "total_plays": 129
+      },
       "title": "All Along the Watchtower"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 276,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-11-01",
+        "show": "live:grateful-dead:1990-11-01:wembley-arena"
+       },
+       "plays_before": 197,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-11-01",
+        "show": "live:grateful-dead:1990-11-01:wembley-arena"
+       },
+       "plays_before": 489,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-03",
+        "show": "live:grateful-dead:1990-12-03:coliseum-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 54
+      },
       "title": "The Weight"
      }
     ],
@@ -1338,25 +1536,61 @@
      {
       "from": "gd1990-12-12.149736.UltraMatrix.sbd.cm.miller.flac16",
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-10-24",
+        "show": "live:grateful-dead:1990-10-24:sportsahalle"
+       },
+       "plays_before": 135,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "from": "gd1990-12-12.senn.grabski.32020.sbefail.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 496,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1990-12-12.AKG451.Darby.120137.Flac1644",
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1990-09-16",
+        "show": "live:grateful-dead:1990-09-16:madison-square-garden"
+       },
+       "plays_before": 30,
+       "total_plays": 42
+      },
       "title": "Deal, set Break"
      },
      {
       "from": "gd1990-12-12.AKG451.Darby.120137.Flac1644",
       "key": "song:grateful-dead:not-fade-away-nfa-chant-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1990-10-20",
+        "show": "live:grateful-dead:1990-10-20:internationales-congress-centrum"
+       },
+       "plays_before": 6,
+       "total_plays": 13
+      },
       "title": "Not Fade Away, NFA Chant, Encore Break"
      }
     ],
@@ -1364,26 +1598,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1631,
-     "shows_in_archive": 1855,
+     "show_number": 1736,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "McNichols Sports Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 15,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:14.567874+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.998137+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "8X__TYD0CUiGIe7xImurzRoS2R2f941_E2PwmpviX3ZS2PDZ3guWi0L2z5ydgcCQIeKDE2PrgAm200PU4l4HBQ",
+   "revision": 16,
+   "signature": "RodRRcF9b6nAEKYn2O2FWLHdR-uDR791Tw3gzFXyhUkqJFzgzUy8yr9tSS7ehZIRBCqMx5LGbKGIKoJKlCYwBA",
    "subject_key": "live:grateful-dead:1990-12-12:mcnichols-sports-arena",
-   "updated_at": "2026-10-25T16:42:14.570522"
+   "updated_at": "2026-10-25T17:35:25.999415"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Iko Iko** (2 reviews): The accordion gives Iko Iko a Cajun flavor that drives the jam; Jerry started Iko Iko in the wrong key, stopped, and restarted correctly [24][30]\n- **China Cat Sunflower** (1 review): The transition from China Cat Sunflower to I Know You Rider was highlighted [20]\n- **Aiko Aiko** (1 review): Listener recalls a call about Jerry's energetic performance during this run [20]\n- **Dark Star** (1 review): The accordion presence during Dark Star was barely audible and sounded good [26]\n\n## The recordings\n\n- **gd90-12-12.sbd.zei.2030.sbeok.shnf** (recommended): soundboard; 22 songs; 184 min; rated 4.31/5 by 35 [1]. Said about its sound: The reviewer criticized the accordion usage during Dark Star as a travesty [21]\n- **gd1990-12-12.149736.UltraMatrix.sbd.cm.miller.flac16**: soundboard; 22 songs; 187 min; rated 4/5 by 2 [2]\n- **gd1990-12-12.mtx.tobin.87659.sbeok.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 185 min; rated 4/5 by 1 [3]\n- **gd1990-12-12.149544.ultramatrix.sbd.pearson-healy.miller.flac2496**: soundboard; 22 songs; 187 min [5]\n\n## Around the show\n\n- Hornsby played the accordion during Iko Iko, which the reviewer found unpleasant [21]\n- The reviewer remembers floating out of the show into freshly dusted streets [23]\n- Fluffy coating of Rocky Mountain rain was present outside the venue [23]\n- The reviewer, then 19, had backstage passes for this run of shows [27]\n- A 1990 rehearsal with the Dead and Hornsby is referenced for context [29]\n- The reviewer values the recording for the \"cool Colorado rain\" moment [31]\n- Jerry starts Peggy-O before and after Queen Jane Approximately [2]\n- Jerry starts Peggy-O before and after Queen Jane Approximately [3]\n- The second set is considered one of the finest in 1990 [24]\n- The second set was the best string of music witnessed in years [25]\n\n## Tapers and lineage\n\n- **gd90-12-12.sbd.zei.2030.sbeok.shnf**: source: SBD> D-> CDR-> EAC> SHN [1]. Also: The reviewer has an audience recording from a taper in Albuquerque, New Mexico; The recording was ripped by John Zei from a D to CDR transfer [1][31]\n- **gd1990-12-12.149736.UltraMatrix.sbd.cm.miller.flac16**: taped by Don Pearson and Dan Healy; transferred by All Transfers and Mastering By Charlie Miller  April 14, 2020; source: UltraMatrix SBD > Cassette Master (TDK SA-X100) [2]\n- **gd1990-12-12.mtx.tobin.87659.sbeok.flac16**: transferred by Kevin Tobin; source: SBD + AUD Matrix 3 Source Mix (60%-SBD/40%-AUD) [3]. Also: The source is a Sony TCD-5M cassette master from Todd Evans [3]\n- **gd1990-12-12.149544.ultramatrix.sbd.pearson-healy.miller.flac2496**: taped by Don Pearson and Dan Healy; transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK SA-X100) [5]",

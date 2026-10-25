@@ -544,7 +544,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -610,8 +610,8 @@
     },
     "previous": {
      "date": "1978-09-15",
-     "show": "live:grateful-dead:1978-09-15:sphinx-theatre",
-     "venue": "Sphinx Theatre"
+     "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater",
+     "venue": "Gizah Sound and Light Theater"
     },
     "recommended": {
      "identifier": "gd1978-09-16.sbd.miller.88314.sbeok.flac16",
@@ -1134,125 +1134,332 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 192,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 194,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 97,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 140,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 123,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 127,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 249,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 125,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 86,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 186,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:hamza-el-din",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-15",
+        "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Hamza el Din Set"
      },
      {
       "key": "song:grateful-dead:ollin-arrageed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-15",
+        "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 14
+      },
       "title": "Ollin Arrageed"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 9,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-15",
+        "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 25,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 133,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1978-05-06",
+        "show": "live:grateful-dead:1978-05-06:patrick-gymnasium-u-of-vermont"
+       },
+       "plays_before": 32,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 4,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-15",
+        "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater"
+       },
+       "plays_before": 378,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-15",
+        "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater"
+       },
+       "plays_before": 70,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 245,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 89,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 152,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 157,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1260,31 +1467,71 @@
      {
       "from": "gd1978-09-16.fob.sonyecm280.porray.motb-0139.107305.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-14",
+        "show": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater"
+       },
+       "plays_before": 68,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1978-09-16.136809.schall.FOB.flac16",
       "key": "song:grateful-dead:miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "Miracle"
      },
      {
       "from": "gd1978-09-16.136809.schall.FOB.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 150,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 19,
+       "total_plays": 262
+      },
       "title": "Dru//mz"
      },
      {
       "from": "gd1978-09-16.gems.BEAR.108845.flac24",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 132,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 3,
+       "total_plays": 114
+      },
       "title": "Aiko - Aiko"
      },
      {
       "from": "gd1978-09-16.gems.BEAR.108845.flac24",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 159,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      }
     ],
@@ -1292,26 +1539,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 704,
-     "shows_in_archive": 1855,
+     "show_number": 798,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Gizah Sound and Light Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 21,
+   "parent_revision": 33,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.257795+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.630574+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 22,
-   "signature": "_R_pgYC6f_l57NUII5btgAGQylOhqm0etkQ79j5sL3zjVnjczDL8SS6JDjKkNYvuz7tSu6DPyBrR4rXWjkUuCA",
+   "revision": 34,
+   "signature": "RlAtL6Zp6nwsfG5OXgteRI_Puej5zR7PLgvMaSNNGNA1KeQLfPNeTAeWxQeaQs1-_qzhh1YvxaJe1p6njbpCDA",
    "subject_key": "live:grateful-dead:1978-09-16:gizah-sound-and-light-theater",
-   "updated_at": "2026-10-25T16:41:52.260257"
+   "updated_at": "2026-10-25T17:35:15.631696"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Ollin Arrageed** (2 reviews): The Ollin Arrageed into Fire On The Mountain transition is superb; Drums patterned with sustained bass sound in this version of Ollin Arrageed [22][26]\n\n## The recordings\n\n- **gd1978-09-16.sbd.miller.88314.sbeok.flac16** (recommended): soundboard; 23 songs; 221 min; rated 4.33/5 by 3 [1]\n- **gd1978-09-16.143122.mtx.ktobin.flac1644**: matrix (soundboard mixed with audience mics); 23 songs; 213 min [2]\n- **gd1978-09-16.mtx.tobin.95316.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 206 min [5]\n- **gd1978-09-16.mtx.dts.tobin.95327.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 206 min [6]\n- **gd78-09-16.sbd.orf.2319.sbeok.shnf**: soundboard; 21 songs; 201 min; rated 4.14/5 by 29 [11]. Said about its sound: Recording sounds great with real emotion and a set mood in Egypt; One of the cleanest sounding shows downloaded from the site; Crisp sound but levels off, with guitar heavy and others lost [19][23][24][25][28]\n\n## Around the show\n\n- Playing at the foot of a pyramid adds novelty to the show [25]\n- Audience dancing in front of the Sphinx on a fine September evening [29]\n- Best of the Egypt shows, tighter than previous nights but below par for 1978 [20]\n- First two nights considered garbage, but this show finishes strong [27]\n- Lacks drive, contrasting with the 11-20-78 show or versions with Brent [28]\n\n## Tapers and lineage\n\n- **gd1978-09-16.sbd.miller.88314.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> PCM -> Dat (48k) D [1]. Also: Lineage: Unknown mics to cassette master, then cassette, patched by chopper7 [1]\n- **gd1978-09-16.143122.mtx.ktobin.flac1644**: transferred by Matrix by Kevin Tobin; source: SBD + AUD Matrix 3 Source Mix (44/16) [2]. Also: Mixed by archive.org user, converted to FLAC on 15-SEP-2018 [2]\n- **gd1978-09-16.mtx.tobin.95316.flac16**: transferred by Kevin Tobin; source: Matrix mix (SBD/AUD) [5]. Also: SBD master reel to PCM, then Dat, transferred by Charlie Miller; Audience: Nakamichi 700 mics to Sony TCM 158 recorder, then cassette [5]\n- **gd1978-09-16.mtx.dts.tobin.95327.flac16**: transferred by Kevin Tobin; source: Matrix mix (SBD/AUD) [6]. Also: SBD master reel to PCM, then Dat, transferred by Charlie Miller; Audience: Nakamichi 700 mics to Sony TCM 158 recorder, then cassette [6]\n- **gd78-09-16.sbd.orf.2319.sbeok.shnf**: source: Soundboard [11]\n\n## Art and photos\n\n- Fan art by Adrian Boot: [1978-09-16 Giza Sound and Light Theater, Cairo, Egypt - Jerry Garcia](https://jerrygarcia.com/show/1978-09-16-giza-sound-and-light-theater-cairo-egypt/) [31]\n- Poster by Worthpoint: [The Grateful Dead From Egypt With Love Gizah Egypt 1978 | #38951657](https://www.worthpoint.com/worthopedia/the-grateful-dead-from-egypt-with-love-gizah-egypt) [32]\n- Poster by Adrian Boot: [1978-09-14 Giza Sound and Light Theater, Cairo, Egypt - Jerry Garcia](https://jerrygarcia.com/show/1978-09-14-giza-sound-and-light-theater-cairo-egypt/) [33]",

@@ -573,7 +573,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1204,117 +1204,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-18",
+        "show": "live:grateful-dead:1988-03-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 93,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-18",
+        "show": "live:grateful-dead:1988-03-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 181,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 86,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:ballad-of-a-thin-man",
-      "stats": {},
+      "stats": {
+       "days_since": 245,
+       "gap_shows": 46,
+       "last_played": {
+        "date": "1987-07-26",
+        "show": "live:grateful-dead:1987-07-26:anaheim-stadium"
+       },
+       "plays_before": 7,
+       "total_plays": 10
+      },
       "title": "Ballad of a Thin Man"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-02-17",
+        "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 195,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 552,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1623,
+       "gap_shows": 299,
+       "last_played": {
+        "date": "1983-10-17",
+        "show": "live:grateful-dead:1983-10-17:olympic-center"
+       },
+       "plays_before": 53,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 213,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 722,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:so-what",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "So What"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-02-17",
+        "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 491,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 243,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 187,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 290,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 278,
+       "total_plays": 389
+      },
       "title": "Eyes of the Word"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 1062,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 722,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 424,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 251,
+       "total_plays": 302
+      },
       "title": "Going Down the Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 137,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 28,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 194,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 87,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 254,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1322,82 +1525,143 @@
      {
       "from": "gd1988-03-27.schoeps.unknown.gotfob.88250.sbeok.flac16",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "days_since": 191,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1987-09-18",
+        "show": "live:grateful-dead:1987-09-18:madison-square-garden"
+       },
+       "plays_before": 22,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1988-03-27.mak.cohen.106174.flac16",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-18",
+        "show": "live:grateful-dead:1988-03-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 62,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "from": "gd1988-03-27.mak.cohen.106174.flac16",
       "key": "song:grateful-dead:crowd-fade-out",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "crowd fade out"
      },
      {
       "from": "gd1988-03-27.mak.cohen.106174.flac16",
       "key": "song:grateful-dead:so-what-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "So What tease"
      },
      {
       "from": "gd1988-03-27.144487.sennme-80.porter.carbonetta.sirmick.flac1644",
       "key": "song:grateful-dead:we-want-phil-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We want Phil\"/crowd"
      },
      {
       "from": "gd1988-03-27.144487.sennme-80.porter.carbonetta.sirmick.flac1644",
       "key": "song:grateful-dead:so-what-theme",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "So What Theme"
      },
      {
       "from": "gd88-03-27.sbd.jerugim.406.shnf",
       "key": "song:grateful-dead:so-what-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "So What Space"
      },
      {
       "from": "gd1988-03-27.sbd.jerugim.braverman.fix-406.3383.shnf",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1987-11-14",
+        "show": "live:grateful-dead:1987-11-14:long-beach-arena"
+       },
+       "plays_before": 26,
+       "total_plays": 55
+      },
       "title": "Drums / Space"
      },
      {
       "from": "gd1988-03-27.ifm.grabski.34202.flac16",
       "key": "song:grateful-dead:encore-u-s-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 632,
+       "gap_shows": 110,
+       "last_played": {
+        "date": "1986-07-04",
+        "show": "live:grateful-dead:1986-07-04:rich-stadium"
+       },
+       "plays_before": 19,
+       "total_plays": 21
+      },
       "title": "encore U.S. Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1988-03-27:hampton-coliseum",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1409,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "To Lay Me Down"
+     ],
+     "first_in_archive": [
+      "So What"
+     ],
+     "show_number": 1513,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.893806+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.348723+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "8N-EQ8mb1BJTt3lOC1pCae7OpFTG72uONjKF6RVV3KXSo1wcHeSp7ceAB2V9GnjmRlHaBrt7pUc8Gm605ZnTBQ",
+   "revision": 43,
+   "signature": "VaKZRL0FJ3gfsBfYghrhdykhrxrHhrvoD3A4fB0WUKPuXsGZSL53RwbSlU4JgxJZabmpplTXTO0aYQR8RMZkDA",
    "subject_key": "live:grateful-dead:1988-03-27:hampton-coliseum",
-   "updated_at": "2026-10-25T16:42:05.895649"
+   "updated_at": "2026-10-25T17:35:23.350026"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dear Mr. Fantasy** (2 reviews): Four minute fifty second Fantasy felt more like a tease; Brent's vocal on Dear Mr. Fantasy sets this period apart [22][26]\n- **To Lay Me Down** (1 review): Crowd went crazy during the To Lay Me Down breakout [21]\n- **So What** (1 review): The So What tease was described as just nutty [19]\n- **Scarlet Begonias** (1 other source): Listener finds this Scarlet Begonias and Fire On The Mountain special [5]\n\n## The recordings\n\n- **gd1988-03-27.147999.fm.hessberg.miller.clugston.flac2496** (recommended): FM broadcast; 23 songs; 144 min; rated 4.33/5 by 3 [1]\n- **gd1988-03-27.schoeps.unknown.gotfob.88250.sbeok.flac16**: source not stated; 23 songs; 146 min; rated 4.8/5 by 10 [3]. Said about its sound: Finely captured up front with Schoeps microphones; Lower end detail is significantly better than the soundboard; Very rich recording that does the Hampton venue justice [16][17][18]\n- **gd1988-03-27.144487.sennme-80.porter.carbonetta.sirmick.flac1644**: source not stated; 23 songs; 147 min [5]\n- **gd1988-03-27.sbd.jerugim.braverman.fix-406.3383.shnf**: soundboard; 21 songs; 145 min; rated 4/5 by 5 [7]. Said about its sound: Bass washed out; keyboards and Weir's guitar from wrong speaker [27]\n- **gd1988-03-27.nak100.pasternak.mallick.107907.flac16**: source not stated; 22 songs; 141 min; rated 3.75/5 by 4 [12]. Said about its sound: Audience tape places listener front-of-board, center, minus distractions [24]\n\n## Around the show\n\n- Listener calls the performance a southern hoedown [16]\n- Part of three crazy nights in Hampton [19]\n- Mellow nature of the scene amidst 80s hype was welcome [25]\n- Listener flew in from Indiana for their first shows [26]\n- Crowd chanted 'We want Phil' at the beginning of Set 2 [4]\n- Trumps the matrix soundboard used for the Download Series [17]\n- Better than a soundboard for this type of show [18]\n- Reminded listener of uninspired jamming from the post-In the Dark period [22]\n\n## Tapers and lineage\n\n- **gd1988-03-27.147999.fm.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master In-House FM Cassettes; Sony D5M [1]. Also: Ultramatrix soundboard supplied patches for To Lay Me Down and Eyes [1]\n- **gd1988-03-27.schoeps.unknown.gotfob.88250.sbeok.flac16**: transferred by gotfob; source: FOB > Schoeps Cmc3 + omni #3 > Dat @ 44.1k [3]. Also: Splice on master at end of Bobby's first verse in Let It Grow; Three dropouts removed at 3:54, 6:03, and 7:34 [3]\n- **gd1988-03-27.144487.sennme-80.porter.carbonetta.sirmick.flac1644**: taped by Stephen Porter; transferred by Nick Carbonetta and SirMick; source: Sennheiser ME-80s > Sony D-5 > Master Cassette - Taped by Stephen Porter [5]. Also: Tape flips patched using shnid 106174 [5]\n- **gd1988-03-27.sbd.jerugim.braverman.fix-406.3383.shnf**: transferred by conversion by AJ;patches by Peter Braverman; source: DATSBD (Panasonic 3800)>CD (HHB CDR800)>EAC>SHN [7]\n- **gd1988-03-27.nak100.pasternak.mallick.107907.flac16**: taped by Jon Pasternak; transferred by Dave Mallick; source: Master: OTS Nakamichi CM100/cp4's>Marantz PMD-420>Cass(m), Nak DR-2>Tascam CDRW2000>CD by Jon Pasternak; Extraction: CD>xACT 2.00a (cdparanoia)>WAV>FLAC, all… [12]",

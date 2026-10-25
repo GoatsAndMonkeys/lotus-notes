@@ -279,7 +279,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -295,13 +295,13 @@
     "guests": [],
     "next": {
      "date": "1971-12-02",
-     "show": "live:grateful-dead:1971-12-02:music-hall",
-     "venue": "Music Hall"
+     "show": "live:grateful-dead:1971-12-02:boston-music-hall",
+     "venue": "Boston Music Hall"
     },
     "previous": {
      "date": "1971-11-20",
-     "show": "live:grateful-dead:1971-11-20:pauley-pavilion-university-of-california",
-     "venue": "Pauley Pavilion - University of California"
+     "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla",
+     "venue": "Pauley Pavilion, UCLA"
     },
     "recommended": {
      "identifier": "gd71-12-01.aud.minches-vernon.24765.sbeok.shnf",
@@ -463,123 +463,330 @@
     "setlist": [
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 85,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 21,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 8,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 70,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1971-11-07",
+        "show": "live:grateful-dead:1971-11-07:harding-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 24,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:rub",
-      "stats": {},
+      "stats": {
+       "days_since": 152,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1971-07-02",
+        "show": "live:grateful-dead:1971-07-02:fillmore-west"
+       },
+       "plays_before": 11,
+       "total_plays": 12
+      },
       "title": "The Rub"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 22,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 33,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 39,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 158,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 20,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 15,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-11-17",
+        "show": "live:grateful-dead:1971-11-17:albuquerque-civic-auditorium"
+       },
+       "plays_before": 62,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 47,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-11-17",
+        "show": "live:grateful-dead:1971-11-17:albuquerque-civic-auditorium"
+       },
+       "plays_before": 122,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopement"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 184,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 153,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 167,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 153,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 104,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 62,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 104,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -588,26 +795,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 320,
-     "shows_in_archive": 1855,
+     "show_number": 388,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.559709+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.108769+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "VUBKG2Sjxa_fDAklwuqz3v5ji9gJY32KBq_n9b-vi4terPn63N8mNMwUSAZfM2Y-WLFiEzjYrv_nwvMtQsfhAg",
+   "revision": 42,
+   "signature": "d5XWEFh5k_5wX-pqZwubuEi6Q18aY_mdQCSnd92p83p6r7w-xvO2PYqnvudVj9pt9YnbbpPSj-giaTaVoqYDAA",
    "subject_key": "live:grateful-dead:1971-12-01:boston-music-hall",
-   "updated_at": "2026-10-25T16:41:43.562458"
+   "updated_at": "2026-10-25T17:35:12.109739"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Other One** (2 reviews): Suite includes Cryptical Envelopment, Drums, space jams, and Me And My Uncle; Performance has significant energy [8][13]\n- **Not Fade Away** (1 review): Song was extremely climactic at the end [12]\n\n## The recordings\n\n- **gd1971-12-01.sbd-set2.miller.32304.sbeok.flac16** (recommended): soundboard; 11 songs; 66 min; rated 5/5 by 12 [1]. Said about its sound: Soundboard recording from the Boston Music Hall, December 1, 1971 [4]\n- **gd1971-12-01.partial-set2-matrix.vernon.83164.flac16**: matrix (soundboard mixed with audience mics); 8 songs; 44 min; rated 4.11/5 by 18 [3]. Said about its sound: Partial show containing forty-five minutes of music; Significant portion of space playing with great sound from the board; Audience energy builds during The Other One; jams are tight and ethereal [5][6][7][15]\n- **gd1971-12-01.sbd.set2.fixed.miller.76424.flac16**: soundboard; 11 songs; 66 min; rated 2.8/5 by 5 [2]\n\n## Around the show\n\n- Performance was broadcast live on WBCN radio [10]\n- Recording location is on the Phil side of the venue [3]\n\n## Tapers and lineage\n\n- **gd1971-12-01.sbd-set2.miller.32304.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Reel Master -> Dat -> Sonic Solutions -> CD -> EAC -> FLAC [1]\n- **gd1971-12-01.partial-set2-matrix.vernon.83164.flac16**: taped by See info file; transferred by Matrix by Matt Vernon; source: Matrix - see info file [3]. Also: Matrix composed of soundboard and speed-adjusted audience recording using Cool Edit Pro [3]\n- **gd1971-12-01.sbd.set2.fixed.miller.76424.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat -> Sonic Solutions -> CD -> EAC -> FLAC [2]",

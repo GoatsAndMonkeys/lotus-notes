@@ -545,7 +545,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -581,8 +581,8 @@
     },
     "previous": {
      "date": "1979-06-30",
-     "show": "live:grateful-dead:1979-06-30:portland-international-raceway",
-     "venue": "Portland International Raceway"
+     "show": "live:grateful-dead:1979-06-30:portland-international-speedway",
+     "venue": "Portland International Speedway"
     },
     "recommended": {
      "identifier": "gd1979-07-01.mtx.seamons.95742.sbeok.flac16",
@@ -1075,120 +1075,318 @@
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 104,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 53,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 159,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 217,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 87,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 119,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 42,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-05-13",
+        "show": "live:grateful-dead:1979-05-13:cumberland-county-civic-center"
+       },
+       "plays_before": 265,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 192,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 64,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 68,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 129,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-05-13",
+        "show": "live:grateful-dead:1979-05-13:cumberland-county-civic-center"
+       },
+       "plays_before": 203,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-05-12",
+        "show": "live:grateful-dead:1979-05-12:alumni-stadium-u-mass"
+       },
+       "plays_before": 65,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 290,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-06-30",
+        "show": "live:grateful-dead:1979-06-30:portland-international-speedway"
+       },
+       "plays_before": 438,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-06-30",
+        "show": "live:grateful-dead:1979-06-30:portland-international-speedway"
+       },
+       "plays_before": 117,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-05-12",
+        "show": "live:grateful-dead:1979-05-12:alumni-stadium-u-mass"
+       },
+       "plays_before": 98,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-05-13",
+        "show": "live:grateful-dead:1979-05-13:cumberland-county-civic-center"
+       },
+       "plays_before": 261,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-05-13",
+        "show": "live:grateful-dead:1979-05-13:cumberland-county-civic-center"
+       },
+       "plays_before": 199,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 179,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-05-12",
+        "show": "live:grateful-dead:1979-05-12:alumni-stadium-u-mass"
+       },
+       "plays_before": 27,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      }
     ],
@@ -1196,223 +1394,387 @@
      {
       "from": "gd1979-07-01.sonyecm.severson.minches.90696.sbeok.flac16",
       "key": "song:grateful-dead:nobodys-fault-but-mine-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1806,
+       "gap_shows": 276,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 17,
+       "total_plays": 23
+      },
       "title": "Nobody's Fault But Mine Jam"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t01-mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t01 Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t02-franklins-tower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t02 Franklin's Tower"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t03-mama-tried",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t03 Mama Tried"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t04-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t04 Mexicali Blues"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t05-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t05 Peggy O"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t06-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t06 New Minglewood Blues"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t07-stagger-lee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t07 Stagger Lee"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t08-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t08 El Paso"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t09-brown-eyed-womem",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t09 Brown Eyed Womem"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s1-t10-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s1 t10 Passenger"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t01-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t01 Crowd Tuning"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t02-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t02 Don't Ease Me In"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t03-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t03 Samson & Delilah"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t04-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t04 Sugaree"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t05-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t05 Terrapin Station"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t06-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t06 Playin' In The Band"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t07-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t07 Drums"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t08-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t08 Space"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t09-stella-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t09 Stella Blue"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t10-trucking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t10 Truckin'"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t11-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t11 Around & Around"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t12-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t12 Encore Break"
      },
      {
       "from": "gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t13-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t13 Shakedown Street"
      },
      {
       "from": "gd1979-07-01.fob.nak700.menke.motb-0112.105210.flac16",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 106,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "from": "gd1979-07-01.fob.nak700.menke.motb-0112.105210.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-06-28",
+        "show": "live:grateful-dead:1979-06-28:sacramento-memorial-auditorium"
+       },
+       "plays_before": 93,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t01-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t01 Don't Ease Me In"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t02-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t02 Samson & Delilah"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t03-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t03 Sugaree"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t04-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t04 Terrapin Station"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t05-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t05 Playin' In The Band"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t06 Drums"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t07 Space"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t08-stella-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t08 Stella Blue"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t09-trucking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t09 Truckin'"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t10-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t10 Around & Around"
      },
      {
       "from": "gd1979-07-01.141415.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-07-01-s2-t11-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-07-01 s2 t11 Shakedown Street"
      }
     ],
@@ -1420,26 +1782,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 765,
-     "shows_in_archive": 1855,
+     "show_number": 861,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Seattle Center Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.763279+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.016838+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "4mjeT3mJUyiNRmZNKKi7Z6_6B5_hKusw6LcP4pw_w6fMhcsN-eUpCJISAQeGUD3cW_Y4faBHh6sz9n7HP8k1BQ",
+   "revision": 42,
+   "signature": "Wtpiqm7NoPzr4GuZJMbSZuUZshQP2euEJZ7_RjWkzfcKDWmsP0HF5POk5kEEdD23u2AbaHGhk7ZXchD3c_PvCg",
    "subject_key": "live:grateful-dead:1979-07-01:seattle-center-coliseum",
-   "updated_at": "2026-10-25T16:41:52.764982"
+   "updated_at": "2026-10-25T17:35:16.017986"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (2 reviews): Sugaree and the post-Samson section are highlighted as main show moments; Second set Sugaree placement is unusual, though the set locks in later [18][24]\n- **Mississippi Half-Step Uptown Toodeloo** (1 review): Opener is a favorite version, featuring a roaring Tiger and deep Phil [20]\n\n## The recordings\n\n- **gd1979-07-01.mtx.seamons.95742.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 194 min; rated 5/5 by 2 [1]. Said about its sound: High energy performance maintains a consistent groove without slowing down; Matrix tape sounds lovely and warm, with nothing lacking in quality [16][21]\n- **gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496**: audience recording; 23 songs; 175 min [3]\n- **gd1979-07-01.fob.nak700.menke.motb-0112.105210.flac16**: audience recording; 21 songs; 188 min; rated 4.75/5 by 4 [5]. Said about its sound: Garcia solos are focused; audience comment praises the sound system; Passenger version is compelling; Jerry and Bob interplay is in lockstep [22][26]\n- **gd1979-07-01.145358.fob.sony.ecm270.severson.miller.clugston.flac2496**: audience recording; 21 songs; 196 min [6]\n- **gd1979-07-01.sbd.miller.93433.sbeok.flac16**: soundboard; 21 songs; 171 min; rated 4/5 by 6 [8]. Said about its sound: Bass is heavy on Phil and drums, but subwoofers help [19]\n- **gd1979-07-01.156180.5-1.tobin.flac1648**: source not stated; 21 songs; 169 min; rated 5/5 by 2 [13]. Said about its sound: Clear sound despite venue echo; Sugaree opening minutes have amazing clarity [27]\n\n## Around the show\n\n- Recording is missing Mexicali Blues and has duplicate Passenger tracks [23]\n\n## Tapers and lineage\n\n- **gd1979-07-01.mtx.seamons.95742.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [1]. Also: Recorded by Mark Severson on Sony ECM-270s; transferred by David Minches [1]\n- **gd1979-07-01.141413.akg.d224e.holhwein.lee.smith.miller.clugston.flac2496**: taped by Reinhart Holhwein; transferred by Pat Lee and Scott Clugston and Charlie Miller and Matt Smith; source: Reinhart Holhwein's Master Audience Cassettes; AKG D224E mics > Sony TC-158 > Pat Lee's 1st generation Reels [3]\n- **gd1979-07-01.fob.nak700.menke.motb-0112.105210.flac16**: taped by Bob Menke; transferred by Bob Menke and Derek McCabe; source: 2 x Nak CM 700's >> Sony TC-D5 >> MAC ; Analog Audience Source: FOB Master Cassettes (MAC) Medium Stock Brands: MAC = 2 x Maxell UDXL-II Analog [5]\n- **gd1979-07-01.145358.fob.sony.ecm270.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master (FOB) Audience Cassettes; Sony ECM-270 mics (mounted on pole, slightly left of center, 35' from stage)> Sony TC-158SD (Maxell UDXLII) [6]\n- **gd1979-07-01.sbd.miller.93433.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master [8]. Also: FOB Sony ECM-270 cassette master supplies specific track segments [8]\n- **gd1979-07-01.156180.5-1.tobin.flac1648**: transferred by 5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin; source: 5.1 LPCM Surround Sound Mix (48k) [13]",

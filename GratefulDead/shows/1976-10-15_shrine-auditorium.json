@@ -312,7 +312,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -368,7 +368,7 @@
      "id": 23,
      "kind": "blog",
      "published_at": null,
-     "quote_or_claim": "(10/3/76) Oakland Coliseum Stadium, Oakland, CA (10/9/76) Oakland Coliseum Stadium, Oakland, CA (10/10/76) Shrine Auditorium, Los Angeles, CA (10/14/76) Shrine Auditorium, Los Angeles, CA (10/15/76)…",
+     "quote_or_claim": "Grateful Dead Setlists: 1976 Paramount Theatre, Portland, Ore.",
      "site": "www.cs.cmu.edu",
      "title": "Grateful Dead Setlists: 1976",
      "url": "https://www.cs.cmu.edu/~gdead/76.html",
@@ -612,114 +612,303 @@
     "setlist": [
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 19,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 106,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 105,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 9,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 143,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 30,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 144,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 30,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 161,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 161,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-09-28",
+        "show": "live:grateful-dead:1976-09-28:onongada-county-war-memorial"
+       },
+       "plays_before": 86,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 35,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 46,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 37,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 727,
+       "gap_shows": 71,
+       "last_played": {
+        "date": "1974-10-19",
+        "show": "live:grateful-dead:1974-10-19:winterland-arena"
+       },
+       "plays_before": 81,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 284,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 241,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 29,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 249,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -727,7 +916,16 @@
      {
       "from": "gd1976-10-15.fob.sonyecm270.menke.motb-0125.105824.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 24,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
@@ -735,26 +933,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 586,
-     "shows_in_archive": 1855,
+     "show_number": 674,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Shrine Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.568609+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.801330+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "KxfwV_aTZdzWqNeo8PkDv9-LxSbze93vkBAaU5K4lOYRlJ0HH_SyKWikQockESyk-0XRjhjcGT2M1n1tnrYCDw",
+   "revision": 42,
+   "signature": "EpxCRGYLrXRZSeba_v75TyBhCw1O9O--Gx_OxXvS8T-lQNZa5sXikVxb3uSJAPemiQmTjIRgQXJ3pArfatdECg",
    "subject_key": "live:grateful-dead:1976-10-15:shrine-auditorium",
-   "updated_at": "2026-10-25T16:41:49.570573"
+   "updated_at": "2026-10-25T17:35:14.802088"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Eyes Of The World** (2 reviews, 1 other source): The pairing with The Music Never Stopped is described as explosive; The transition to The Music Never Stopped is incredible and flows together so well [1][8][14]\n- **Comes A Time** (2 reviews): The last part of the song and the remainder of the show use AUD; The last part of the song and the remainder of the show is in AUD [5][6]\n- **It's All Over Now** (1 review): The song is described as really rockin, and New Minglewood blues really shines [12]\n- **Bertha** (1 review): Instruments align in Bertha and Sugaree, and they really nail it [12]\n- **Lazy Lightning** (1 review): Things start fairly average but by this song it really kicks in [14]\n\n## The recordings\n\n- **gd1976-10-15.167995.ecm280.bertrando.flac2496** (recommended): soundboard; 21 songs; 171 min [1]\n- **gd1976-10-15.fob.sonyecm270.menke.motb-0125.105824.flac16**: source not stated; 21 songs; 177 min; rated 4/5 by 7 [2]. Said about its sound: This AUD is better than the thin, unbalanced SBD where Bobby is buried [16]\n- **gd1976-10-15.sbd.miller.84260.sbeok.flac16**: soundboard; 21 songs; 165 min; rated 4.8/5 by 15 [3]. Said about its sound: Sound is good, similar to Charlie Miller SB, but AUD patches are less appealing; Reviewer notes a sweet remaster by Charlie and does not mind the aud patches [5][9]\n- **gd1976-10-15.sbd.sacks.32060.sbeok.shnf**: soundboard; 21 songs; 163 min; rated 5/5 by 2 [4]\n\n## Around the show\n\n- Reviewer flew to LA, met a hippie girl at LAX, and shared a ride [7]\n- Reserved seat show, but during drums, security let many dance in the aisles [10]\n- Reserved seat show, but during drums, security let many dance in the aisles [11]\n- Reviewer says this show is better than the previous night's performance [14]\n\n## Tapers and lineage\n\n- **gd1976-10-15.167995.ecm280.bertrando.flac2496**: taped by Rob Bertrando; transferred by Rob Bertrando; source: Sony ECM-280 mics on balcony ledge next to SBD > Sony TC-152 (Sony chrome tape) > Sony TC-755 reel @ 3.75 ips [1]\n- **gd1976-10-15.fob.sonyecm270.menke.motb-0125.105824.flac16**: taped by Bob Menke; transferred by Bob Menke and Derek McCabe; source: Sony ECM 270's >> Sony TC 152SD >> [2]\n- **gd1976-10-15.sbd.miller.84260.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat -> CD D [3]. Also: Patch source recorded by Rob Bertrando; cleaned up flaws and patched tape flips [3]\n- **gd1976-10-15.sbd.sacks.32060.sbeok.shnf**: transferred by Darrin Sacks; source: MSR>DATs>CDRs>EAC>SHN [4]. Also: EAC extraction and SHN conversion by darrin; notes sector boundary errors on specific tracks [4]",

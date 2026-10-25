@@ -744,7 +744,7 @@
      "id": 36,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1114,7 +1114,7 @@
       ],
       "identifier": "gd1990-03-25.132707.28389-fix.mattes.miller.flac16",
       "incomplete_songs": 0,
-      "lineage": "Dat (Sony R500) -> Behringer UltraMatch SRC2000 ->SEK'D Prodif Plus -> Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28389 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to ",
+      "lineage": "Dat (Sony R500) -> Behringer UltraMatch SRC2000 ->SEK'D Prodif Plus -> Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28389 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track,",
       "lossless": true,
       "rank": 6,
       "rating": null,
@@ -1648,111 +1648,291 @@
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 245,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 148,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 177,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 19,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 42,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 77,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 61,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 249,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 241,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 312,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 316,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 80,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 461,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:spoonful",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 27,
+       "total_plays": 54
+      },
       "title": "Spoonful"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 1220,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 880,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 32,
+       "total_plays": 36
+      },
       "title": "I Will Take You Home"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 277,
+       "total_plays": 302
+      },
       "title": "Going Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 308,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 365,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 177,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 42,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn The Eskimo)"
      }
     ],
@@ -1760,55 +1940,136 @@
      {
       "from": "gd1990-03-25.142990.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 362,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "from": "gd1990-03-25.142990.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 34,
+       "total_plays": 36
+      },
       "title": "Good Time Blues"
      },
      {
       "from": "gd1990-03-25.sbd.hollister.7508.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 466,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1990-03-25.aud.gidley.91879.sbeok.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 108,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1990-03-25.141114.OTS.AKG.Akerman.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:quinn-the-eskimo",
-      "stats": {},
+      "stats": {
+       "days_since": 177,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 24,
+       "total_plays": 36
+      },
       "title": "Quinn the Eskimo (The Mighty Quinn)"
      },
      {
       "from": "gd1990-03-25.130429.nak304akg414.flac1648",
       "key": "song:grateful-dead:good-times",
-      "stats": {},
+      "stats": {
+       "days_since": 160,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1989-10-16",
+        "show": "live:grateful-dead:1989-10-16:meadowlands-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 26
+      },
       "title": "Good Times (Never Trust A Women)"
      },
      {
       "from": "gd1990-03-25.130429.nak304akg414.flac1648",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 112,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1990-03-25.AKG451.Berger.Currier.Keo.120859.Flac2496",
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 18,
+       "total_plays": 71
+      },
       "title": "Masterpiece"
      },
      {
       "from": "gd1990-03-25.AKG451.Berger.Currier.Keo.120859.Flac2496",
       "key": "song:grateful-dead:let-it-grow-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 18,
+       "total_plays": 37
+      },
       "title": "Let It Grow, Set Break"
      }
     ],
@@ -1816,26 +2077,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1571,
-     "shows_in_archive": 1855,
+     "show_number": 1676,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Knickerbocker Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.769132+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.266599+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "xbhE5VfVjEvb1FRsCsfkZA8aNpV41lSFQM6jDX2frEOY_CR1xubZ-YpmR1ct3xa5doUEzdrQjJ3Ou6YUo0r1AQ",
+   "revision": 43,
+   "signature": "TUJZCo9u-7L9aK0Hc_gjeFABm8Xr_zWVi43mlxCc1Ai6izs-4ouhvc3BZaCwnX7DBKAv1wjbS8DhtBUELUwVCA",
    "subject_key": "live:grateful-dead:1990-03-25:knickerbocker-arena",
-   "updated_at": "2026-10-25T16:42:11.771966"
+   "updated_at": "2026-10-25T17:35:25.268786"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Touch of Grey** (1 other source): Setlist includes Touch of Grey, Wang Dang Doodle, and Never Trust A Woman [2]\n- **When I Paint My Masterpiece** (1 review): Listener calls this the best masterpiece ever and wants to marry the song [22]\n- **Eyes of the World** (1 review): The Eyes prelude is noted for its connection to Nassau [33]\n\n## The recordings\n\n- **gd1990-03-25.142990.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648** (recommended): source not stated; 20 songs; 161 min [1]\n- **gd1990-03-25.149394.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: source not stated; 20 songs; 161 min [3]. Said about its sound: Right channel inversion was corrected, and levels improved with gentle EQ work [3]\n- **gd1990-03-25.132707.28389-fix.mattes.miller.flac16**: source not stated; 20 songs; 161 min [5]\n- **gd1990-03-25.aud.gidley.91879.sbeok.flac16**: audience recording; 20 songs; 153 min; rated 3.4/5 by 5 [11]. Said about its sound: Listener prefers the older Nakamichi recordings over Schoeps microphones for this show; This audience tape offers strong bass EQ and easier filtering of room noise [24][25]\n- **gd1990-03-25.Nak300CP4.Floater.Keo.114256.Flac2496**: audience recording; 20 songs; 150 min; rated 5/5 by 1 [18]. Said about its sound: The audience recording sounds almost like a matrix with amazing playing [28]\n- **gd1990-03-25.127157.mtx.dusborne.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 157 min; rated 5/5 by 3 [20]. Said about its sound: The matrix has gorgeous sound with real sonic depth [33]\n\n## Around the show\n\n- The band broke up their three nights at the Knickerbocker Arena [25]\n- Pepsi arena Pigs attended, and Surf was pumping the next day [27]\n- Brent performed with Jerry on the pedal during this show [27]\n- Partial show released on Dozin' at the Knick; complete show in Spring 1990 Box Set [1]\n- Seamless transition exists between discs two and three of this recording [5]\n- Breaking up Eyes into Samson is as ridiculous as breaking up China Cat into Rider [23]\n- This specific show was oddly boring compared to the wonderful nights before and after [26]\n- This Knickerbocker run is perhaps the Dead's strongest late-era showing [29]\n\n## Tapers and lineage\n\n- **gd1990-03-25.142990.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648**: taped by Ted Mattes; transferred by Charlie Miller and Joe Noel; source: flac16/48kHz ; Ted Mattes DAT Recording (FOB): Schoeps CMC4 MK21 (ORTF) > DAT (Panasonic SV-250); Location unknown; Charlie Miller [1]. Also: Ted recorded the show, and Charlie acted as the go-between [1]\n- **gd1990-03-25.149394.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: taped by Master Digital Audience Recording by Ted Mattes; transferred by Transfer by Charlie Miller Edited & reMastered using Adobe Audition by Joe Noel March 27, 2020; source: From the Teddy Ballgame Archive - a reMaster of shnid 142990 Source: (FOB) Schoeps CMC4 MK21 (ORTF) > DAT (Panasonic SV-250) Location: unknown [3]\n- **gd1990-03-25.132707.28389-fix.mattes.miller.flac16**: taped by Ted Mattes; transferred by Charlie Miller, Craig Hillwig;Lenny Stubbe; source: (FOB) Schoeps CMC4/MK21 -> Oade Cap Coupled Supply ->Dat (Panasonic SV250/48k) -> Dat (Cloned From Master) [5]. Also: Craig Hillwig used xACT and Audacity to fix an inverted left channel [5]\n- **gd1990-03-25.aud.gidley.91879.sbeok.flac16**: taped by Ted Gidley; transferred by Andrew F; source: Nakamichi CM300's w/CP-4 shotguns > Sony TC-D5M > Maxell MX-90/100, with no Dolby. Mics on 7-foot stand in front of OTS. [11]. Also: Nakamichi CM300 microphones provide a good pull on this recording [25]\n- **gd1990-03-25.Nak300CP4.Floater.Keo.114256.Flac2496**: taped by Floater; transferred by Keo; source: Recorded By Floater,Transfer By Keo; Master Audience Nakamichi CM300/CP4 Shotguns>Sony D5; Tapes Maxell XLII-90,100 Transfer With Nakamichi MR-1>Korg MR-1000 @… [18]\n- **gd1990-03-25.127157.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by dusborne; Soundboard (shnid:87347) Transfer Info: Cassette Master (Nakamichi DR-1) -> Apogee MiniMe (24bit/48k) -> Samplitude Professional… [20]",
@@ -4036,7 +4297,7 @@
     ],
     "identifier": "gd1990-03-25.132707.28389-fix.mattes.miller.flac16",
     "incomplete_songs": 0,
-    "lineage": "Dat (Sony R500) -> Behringer UltraMatch SRC2000 ->SEK'D Prodif Plus -> Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28389 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to ",
+    "lineage": "Dat (Sony R500) -> Behringer UltraMatch SRC2000 ->SEK'D Prodif Plus -> Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28389 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track,",
     "lossless": true,
     "rank": 6,
     "rating": null,
@@ -4059,15 +4320,15 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "recording",
-   "parent_revision": 2,
+   "parent_revision": 6,
    "provenance": {
-    "generated_at": "2026-10-25T16:42:11.776347+00:00",
+    "generated_at": "2026-10-25T17:14:57.564660+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 3,
-   "signature": "JOjWvqoBtXHLbrNqRNVnRKaaLZAAEr576Y9qiNDYA6WrN4hGlGhtnwcj73mIBvLVzPkfctstitPf4zWZfe-GDQ",
+   "revision": 7,
+   "signature": "N3X68apb53PzznFgSFPGWiKVQsbcieaBwcoYcmm5VMQ47ffqrmNDR2Eu83hYFRlG001Ta5T7762QVuuYKIZ0AA",
    "subject_key": "ia:gd1990-03-25.132707.28389-fix.mattes.miller.flac16",
-   "updated_at": "2026-10-25T16:42:11.777526"
+   "updated_at": "2026-10-25T17:14:57.565270"
   },
   {
    "body_md": "Soundboard; 20 songs; 150 min; rated 4.82/5 by 11 listener(s). [1]",

@@ -111,7 +111,7 @@
      "id": 7,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -175,67 +175,124 @@
     "setlist": [
      {
       "key": "song:grateful-dead:playing-in-the-band-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Playin' In The Band #1"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Playin' In The Band #2"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playin' In The Band #3"
      },
      {
       "key": "song:grateful-dead:bird-song-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song #1"
      },
      {
       "key": "song:grateful-dead:bird-song-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song #2"
      },
      {
       "key": "song:grateful-dead:bird-song-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song #3"
      },
      {
       "key": "song:grateful-dead:bird-song-4",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song #4"
      },
      {
       "key": "song:grateful-dead:bird-song-5",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song #5"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Greatest Story Ever Told #1"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Greatest Story Ever Told #2"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 1,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:thats-it-for-the-other-one-studio-1967-or-1968",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "That's It For The Other One - Studio 1967 or 1968"
      },
      {
       "key": "song:grateful-dead:candyman-no-lead-vocals-full-ending",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Candyman - No Lead Vocals, Full Ending"
      }
     ],
@@ -243,27 +300,40 @@
     "subject_key": "live:grateful-dead:1971-02-01:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 258,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Playin' In The Band #1",
+      "Playin' In The Band #2",
+      "Playin' In The Band #3",
+      "Bird Song #1",
+      "Bird Song #2",
+      "Bird Song #3",
+      "Bird Song #4",
+      "Bird Song #5",
+      "Greatest Story Ever Told #1",
+      "Greatest Story Ever Told #2",
+      "That's It For The Other One - Studio 1967 or 1968",
+      "Candyman - No Lead Vocals, Full Ending"
+     ],
+     "show_number": 319,
+     "shows_in_archive": 2097,
      "songs": 13,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.547648+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.396861+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "2uHeST0YI3Kx-ExLYyOJcl4m3LSAav9oHf7KLw3pDXEf0l9UXb9S0zZlAKxsy0lFSIaEGdINlZm2DgPaHdBSBA",
+   "revision": 40,
+   "signature": "yzpQgn6OfQY6ur0eWC0m5rF4vYI6X39xjoYI19IwiUeZIGyg2z5TbJE6PVghJTtrxGqxVADYjdyCVGmZi3DCDQ",
    "subject_key": "live:grateful-dead:1971-02-01:unknown",
-   "updated_at": "2026-10-25T16:41:40.554034"
+   "updated_at": "2026-10-25T17:35:11.397884"
   }
  },
  "recommended": {

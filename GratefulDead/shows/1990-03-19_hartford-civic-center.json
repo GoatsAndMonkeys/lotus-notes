@@ -501,7 +501,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -597,8 +597,8 @@
     },
     "previous": {
      "date": "1990-03-18",
-     "show": "live:grateful-dead:1990-03-18:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1990-03-18:hartford-civic-center",
+     "venue": "Hartford Civic Center"
     },
     "recommended": {
      "identifier": "gd1990-03-19.mtx.hansokolow.97024.flac16",
@@ -1000,114 +1000,294 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 164,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 348,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 19,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 76,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-10-25",
+        "show": "live:grateful-dead:1989-10-25:miami-arena"
+       },
+       "plays_before": 7,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 144,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-10-26",
+        "show": "live:grateful-dead:1989-10-26:miami-arena"
+       },
+       "plays_before": 306,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 212,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 125,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 385,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 155,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1989-10-15",
+        "show": "live:grateful-dead:1989-10-15:meadowlands-arena"
+       },
+       "plays_before": 108,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 38,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 525,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 311,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 465,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 1216,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 876,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 156,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1989-10-14",
+        "show": "live:grateful-dead:1989-10-14:meadowlands-arena"
+       },
+       "plays_before": 100,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 82,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 276,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 152,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1989-10-18",
+        "show": "live:grateful-dead:1989-10-18:the-spectrum"
+       },
+       "plays_before": 364,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:brokedown-palace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 178,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1115,49 +1295,111 @@
      {
       "from": "gd1990-03-19.165619.Hartford.CT.WHCN.fm.taperjon.flac1644",
       "key": "song:grateful-dead:whcn-setbreak-interview-bob-weir",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "WHCN Setbreak Interview-Bob Weir"
      },
      {
       "from": "gd1990-03-19.165619.Hartford.CT.WHCN.fm.taperjon.flac1644",
       "key": "song:grateful-dead:mickey-hart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Mickey Hart"
      },
      {
       "from": "gd1990-03-19.sennME80.wklitz.94400.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 107,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1990-03-19.sbd.sacks.tetzeli.fix-1526.34777.reflac.flac16",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 161,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1989-10-09",
+        "show": "live:grateful-dead:1989-10-09:hampton-coliseum"
+       },
+       "plays_before": 26,
+       "total_plays": 36
+      },
       "title": "Playin'"
      },
      {
       "from": "gd1990-03-19.sbd.sacks.tetzeli.fix-1526.34777.reflac.flac16",
       "key": "song:grateful-dead:eyes",
-      "stats": {},
+      "stats": {
+       "days_since": 401,
+       "gap_shows": 80,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 9,
+       "total_plays": 10
+      },
       "title": "Eyes"
      },
      {
       "from": "gd1990-03-19.nak300.carpenter.andrewf.86825.sbeok.flac16",
       "key": "song:grateful-dead:drums-continued",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "Drums continued"
      },
      {
       "from": "gd1990-03-19.141914.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 14,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      },
      {
       "from": "gd1990-03-19.Nak300sSenn441s.Fitzy.Keo.125628.Flac2496",
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 42
+      },
       "title": "Deal, Set Break"
      }
     ],
@@ -1165,26 +1407,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1567,
-     "shows_in_archive": 1855,
+     "show_number": 1672,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hartford Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 19,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.664302+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.193964+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 20,
-   "signature": "L5L2YHwxH_vi_9WtDlG6UILhPmS2zGeS43JYAjnj7fH4UTMMYsJ_FO92NfmaEWdU4huUXKNIG6uK12j45u5zBQ",
+   "revision": 33,
+   "signature": "6bKuJ1l7SUUFXGTvHABcm98KjaSDqNBFVGwvqT2uRf2Dd6vsXRseoEH9BbQi2olStSf7X297tipeQ1kQ53B9Aw",
    "subject_key": "live:grateful-dead:1990-03-19:hartford-civic-center",
-   "updated_at": "2026-10-25T16:42:11.666222"
+   "updated_at": "2026-10-25T17:35:25.195527"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Foolish Heart** (2 reviews): Intro features Billy and Mickey entering the beat individually, with one on odd beats initially; Features a beautiful pre-last-verse solo with upbeat, skippy Garcia phrases [14][22]\n- **Brown Eyed Women** (1 review): Described as one of the coolest versions ever played by the band [19]\n- **Eyes Of The World** (1 review): Pre-drums jam is cited as the best example of the band's potential at that moment [21]\n\n## The recordings\n\n- **gd1990-03-19.mtx.hansokolow.97024.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 158 min; rated 4.2/5 by 10 [1]\n- **gd90-03-19.prefm-sbd.sacks.1526.sbeok.shnf**: pre-FM broadcast master; 20 songs; 155 min; rated 4.21/5 by 51 [2]. Said about its sound: Sound seemed to degrade at the end of Around And Around, though the rest is beautiful [23]\n- **gd1990-03-19.nak300.carpenter.andrewf.86825.sbeok.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 153 min [6]. Said about its sound: Muffled crowd and first nine seconds of Box of Rain due to accidental mic attenuator [6]\n- **gd1990-03-19.149333.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: source not stated; 19 songs; 157 min [8]\n\n## Around the show\n\n- Reviewer attended alone, leaving a friend to tape the radio broadcast during the show [16]\n- Stems kicked in early during Deal, prompting the reviewer to nervously ask about it [16]\n- This was the final Grateful Dead concert held at the Hartford Civic Center [6]\n\n## Tapers and lineage\n\n- **gd1990-03-19.mtx.hansokolow.97024.flac16**: transferred by matrix by hansokolow; source: matrix of SBD: shnid=1526 and AUD: shnid=94400 [1]. Also: Drums section is short because Healy's spacey drums are placed on the Space track [1]\n- **gd90-03-19.prefm-sbd.sacks.1526.sbeok.shnf**: transferred by Kirby Bell, Bob Fishman & Darrin Sacks; source: Soundboard [2]. Also: Source is a pre-FM soundboard master reel transferred to DAT, CDR, and SHN [2]\n- **gd1990-03-19.nak300.carpenter.andrewf.86825.sbeok.flac16**: taped by Ted Carpenter; transferred by Andrew F; source: Nakamichi CM-300's w/CP-4 shotgun capsules > Sony TC-D5M > Maxell MX-90's, with no Dolby. Mics on stand 7-feet high, set up just behind the soundboard area:… [6]\n- **gd1990-03-19.149333.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: taped by Master Digital Audience Recording by Ted Mattes Transfer by Charlie Miller Edited & reMastered using Adobe Audition by Joe Noel March 25, 2020; source: From the Teddy Ballgame Archive - a reMaster of shnid 141914 Source: (FOB) Schoeps CMC4 MK4 > DAT (Panasonic SV250) Location: Sec 2 Row p Seat 7 [8]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1990-03-19 Mon Hartford Civic Center, Hartford, CT](https://www.livegrateful.net/post/1250584291267/grateful-dead-1990-03-19-mon-hartford) [27]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1990-03-19 Mon Hartford Civic Center, Hartford, CT](https://www.livegrateful.net/post/1250584291267/grateful-dead-1990-03-19-mon-hartford) [28]\n- Fan art by Dave Goodwich: [30th Anniversary of The Grateful Dead's Spring '90 Tour: Hartford Civic Center, Hartford, CT 3/19/90 - Glide Magazine](https://glidemagazine.com/241652/30th-anniversary-of-the-grateful-deads-spring-90-tour-hartford-civic-center-hartford-ct-3-19-90/) [29]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - 3/19/90 Civic Center, Hartford, …](https://www.flickr.com/photos/104729480@N03/26777648684/) [30]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/26777648684/) [31]",

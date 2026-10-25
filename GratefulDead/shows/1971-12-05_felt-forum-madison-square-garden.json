@@ -279,7 +279,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -508,173 +508,455 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 55,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 73,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-12-01",
+        "show": "live:grateful-dead:1971-12-01:boston-music-hall"
+       },
+       "plays_before": 48,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-11-20",
+        "show": "live:grateful-dead:1971-11-20:pauley-pavilion-ucla"
+       },
+       "plays_before": 15,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:i-washed-my-hands-in-muddy-water",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I Washed My Hands In Muddy Water"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 27,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 11,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 25,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 36,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 36,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 63,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 58,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 11,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:casey-jones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 161,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 23,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:radio-announcers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Radio Announcers"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 87,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 17,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 190,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1971-05-29",
+        "show": "live:grateful-dead:1971-05-29:winterland-arena"
+       },
+       "plays_before": 40,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 24,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 84,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1971-11-15",
+        "show": "live:grateful-dead:1971-11-15:austin-municipal-auditorium"
+       },
+       "plays_before": 123,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 169,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1971-11-15",
+        "show": "live:grateful-dead:1971-11-15:austin-municipal-auditorium"
+       },
+       "plays_before": 123,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 45,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1971-10-21",
+        "show": "live:grateful-dead:1971-10-21:auditorium-theatre"
+       },
+       "plays_before": 37,
+       "total_plays": 42
+      },
       "title": "Sittin' On Top Of The World"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 64,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 41,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 25,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 5,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 106,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 64,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 106,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:radio-announcers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Radio Announcers"
      }
     ],
@@ -682,84 +964,157 @@
      {
       "from": "gd1971-12-05.fm.matera.100316.sbeok.flac16",
       "key": "song:grateful-dead:song-of-spring",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "song of spring (tuning)"
      },
      {
       "from": "gd1971-12-05.fm.matera.100316.sbeok.flac16",
       "key": "song:grateful-dead:muddy-water",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Muddy Water"
      },
      {
       "from": "gd1971-12-05.fm.matera.100316.sbeok.flac16",
       "key": "song:grateful-dead:1-hit-single",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "#1 Hit Single!"
      },
      {
       "from": "gd1971-12-05.fm.matera.100316.sbeok.flac16",
       "key": "song:grateful-dead:mexacali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 8
+      },
       "title": "Mexacali Blues"
      },
      {
       "from": "gd1971-12-05.fm.matera.100316.sbeok.flac16",
       "key": "song:grateful-dead:china-cat-freakout",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "China Cat Freakout"
      },
      {
       "from": "gd1971-12-05.147715.sbd.flegel-unknown.flac16",
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-02",
+        "show": "live:grateful-dead:1971-12-02:boston-music-hall"
+       },
+       "plays_before": 152,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "from": "gd1971-12-05.147715.sbd.flegel-unknown.flac16",
       "key": "song:grateful-dead:radio-djs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio DJ's}"
      },
      {
       "from": "gd1971-12-05.147715.sbd.flegel-unknown.flac16",
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 162
+      },
       "title": "Black-Throated Wind"
      },
      {
       "from": "gd1971-12-05.147715.sbd.flegel-unknown.flac16",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1971-11-14",
+        "show": "live:grateful-dead:1971-11-14:texas-christian-university"
+       },
+       "plays_before": 127,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "from": "gd1971-12-05.147715.sbd.flegel-unknown.flac16",
       "key": "song:grateful-dead:crowd-radio-djs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd / Radio DJ's}"
      },
      {
       "from": "gd1971-12-05.sbd.unknown.18665.sbeok.shnf",
       "key": "song:grateful-dead:dark-star-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 953,
+       "gap_shows": 250,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 21
+      },
       "title": "Dark Star Jam"
      },
      {
       "from": "gd71-12-05.prefm.miller.3391.sbeok.shnf",
       "key": "song:grateful-dead:mister-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-04",
+        "show": "live:grateful-dead:1971-12-04:felt-forum-madison-square-garden"
+       },
+       "plays_before": 6,
+       "total_plays": 13
+      },
       "title": "Mister Charlie"
      }
     ],
     "subject_key": "live:grateful-dead:1971-12-05:felt-forum-madison-square-garden",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 323,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "I Washed My Hands In Muddy Water",
+      "Radio Announcers",
+      "Radio Announcers"
+     ],
+     "show_number": 391,
+     "shows_in_archive": 2097,
      "songs": 33,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Bill Graham"
@@ -768,16 +1123,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.724195+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.137043+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "G15opn5MRBxKU5sIT17b14iyPb-wRbvryyxHtiIx83kS4inW592a6pQr29unSNGAOeSCH30U_qsDXRJIIUFLCg",
+   "revision": 42,
+   "signature": "CQftEL4b9nXBI4qQ2YpsQyE9fA7W7-B2AFttnudSIPjBJCvi1jRT4Kxr_GVNkmgYgFxFprbr2UTNclyvpQwMCQ",
    "subject_key": "live:grateful-dead:1971-12-05:felt-forum-madison-square-garden",
-   "updated_at": "2026-10-25T16:41:43.758510"
+   "updated_at": "2026-10-25T17:35:12.138373"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Deal** (1 review): Jerry Garcia's guitar performance on Deal and Brown Eyed Women is highlighted [8]\n- **Sittin' On Top Of The World** (1 review): The transition from Dark Star Jam to Sittin' On Top Of The World is sweet [11]\n- **Dark Star Jam** (1 review): Transitions into Me and My Uncle and back are described as smooth then abrupt [6]\n\n## The recordings\n\n- **gd1971-12-05.131532.miller.sbd.flac16** (recommended): soundboard; 33 songs; 212 min; rated 4.44/5 by 9 [1]\n- **gd1971-12-05.fm.matera.100316.sbeok.flac16**: FM broadcast; 34 songs; 205 min; rated 4.92/5 by 13 [2]\n- **gd71-12-05.prefm.miller.3391.sbeok.shnf**: pre-FM broadcast master; 31 songs; 184 min; rated 4.58/5 by 33 [5]. Said about its sound: Mix is clear but slightly airy and not fully cleaned up, rated near-perfect; Audio is somewhat compressed and muddy, though still considered very listenable; Sound is conditioned to FCC specifications for radio broadcast [7][11][14]\n- **gd1971-12-05.147715.sbd.flegel-unknown.flac16**: soundboard; 34 songs; 192 min; rated 4.5/5 by 2 [3]\n\n## Around the show\n\n- Stage talk about: Bill Graham [1]\n- Bill Graham introduced Jerry Garcia as the Godfather of Rock n Roll [8]\n- First winter concerts at Madison Square Garden after Filmore East closed [14]\n- NRPS was the opening act, and DJ Pat Dawson hosted the broadcast [17]\n- China Cat licks appear in Tennessee Jed, Me and Bobby McGee, and Goin' Down The Road [2]\n\n## Tapers and lineage\n\n- **gd1971-12-05.131532.miller.sbd.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat [1]\n- **gd1971-12-05.fm.matera.100316.sbeok.flac16**: taped by Don Rohde; transferred by Phil Matera; source: FM -> Master Reel [2]. Also: Missing pieces were spliced from a circulating pre-FM recording [2]\n- **gd71-12-05.prefm.miller.3391.sbeok.shnf**: source: Soundboard [5]\n- **gd1971-12-05.147715.sbd.flegel-unknown.flac16**: source: Patched, retracked by Brian Flegel [3]\n\n## Art and photos\n\n- Fan art by albamusic.hu: [GRATEFUL DEAD – Felt Forum (Madison Square Garden, New York, December 5 1971, WNEW Broadcast) (3CD) (2022) – AlbaMusic](https://albamusic.hu/termek/grateful-dead-felt-forum-madison-square-garden-new-york-december-5-1971-wnew-broadcast-3cd-2022/) [19]\n- Poster by Crash Records: [Grateful Dead - Felt Forum, Madison Square Garden. New York, December 5 1971 WNEW Broadcast](https://www.crashrecords.co.uk/products/grateful-dead-felt-forum-madison-square-garden-new-york-december-5-1971-wnew-broadcast-pre-order) [20]\n- Poster by tralfaz-archives.com: [Cover Art: Grateful Dead - Live At The Felt Forum 12/5/1971](https://tralfaz-archives.com/coverart/G/Grateful_Dead/gdead_gdead_live.html) [21]",

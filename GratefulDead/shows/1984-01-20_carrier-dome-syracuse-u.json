@@ -71,7 +71,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -86,9 +86,9 @@
     "date": "1984-01-20",
     "guests": [],
     "next": {
-     "date": "1984-03-28",
-     "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium",
-     "venue": "Marin County Veterans Auditorium"
+     "date": "1984-02-21",
+     "show": "live:grateful-dead:1984-02-21:1984-studio-material",
+     "venue": "1984 Studio Material"
     },
     "previous": {
      "date": "1983-12-31",
@@ -136,108 +136,279 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 283,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 183,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 26,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 71,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 188,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 34,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 152,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 340,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-12-30",
+        "show": "live:grateful-dead:1983-12-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 92,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 235,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 183,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 286,
+       "gap_shows": 59,
+       "last_played": {
+        "date": "1983-04-09",
+        "show": "live:grateful-dead:1983-04-09:hampton-coliseum"
+       },
+       "plays_before": 17,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 779,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 443,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 90,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-12-28",
+        "show": "live:grateful-dead:1983-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 385,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-12-27",
+        "show": "live:grateful-dead:1983-12-27:san-francisco-civic-auditorium"
+       },
+       "plays_before": 223,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 385,
+       "gap_shows": 71,
+       "last_played": {
+        "date": "1982-12-31",
+        "show": "live:grateful-dead:1982-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 161,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:revolution",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-10-31",
+        "show": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 12
+      },
       "title": "Revolution"
      }
     ],
@@ -246,26 +417,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1122,
-     "shows_in_archive": 1855,
+     "show_number": 1224,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Carrier Dome, Syracuse U"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:57.789829+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.463098+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Gjq9IRyrQQui_nPP6nqlHo1dhP09AphuDHmkyZWa1mAjUgBlAEQgVfm_F7O8hregfSGNwuM0_cSh31sY22ODCQ",
+   "revision": 41,
+   "signature": "u4aqA0JRNYSRJeHjek_Zds5gcrDt0LHIAB258IBRUjWm26R5Bp6vg10QXfQgoD5xRkpOhbFuPnIec5sJCLCOCA",
    "subject_key": "live:grateful-dead:1984-01-20:carrier-dome-syracuse-u",
-   "updated_at": "2026-10-25T16:41:57.791558"
+   "updated_at": "2026-10-25T17:35:19.463637"
   }
  },
  "recommended": {

@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -106,12 +106,30 @@
      {
       "key": "song:grateful-dead:spoonful-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "Spoonful jam"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 3,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers (multiple takes)"
      },
      {
@@ -119,12 +137,30 @@
       "notes": [
        "instrumental"
       ],
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 3,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 3,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers (multiple takes)"
      }
     ],
@@ -133,26 +169,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 531,
-     "shows_in_archive": 1855,
+     "show_number": 617,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ace's Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.578628+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.433991+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "dK42E6YaUxvnABXYwch29JPtIRhRGKy5_Jv-va8P_gl5_2jKicLuUw3s2gYNlQYpVCeOq1vvdAO6wABbNUHfCg",
+   "revision": 40,
+   "signature": "5nPRPAF_clhn1TAomci6QcW-djH6gQ1CdXsogpsrhSZO8KsprJrDfuemm4gKbjRsyPbSQilvUeHB7gUMA6OTCQ",
    "subject_key": "live:grateful-dead:1975-06-03:aces-studio",
-   "updated_at": "2026-10-25T16:41:48.580531"
+   "updated_at": "2026-10-25T17:35:14.434373"
   }
  },
  "recommended": {

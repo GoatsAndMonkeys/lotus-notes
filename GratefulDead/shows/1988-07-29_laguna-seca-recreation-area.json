@@ -347,7 +347,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -355,14 +355,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Kirsten Michel",
      "author_url": "https://jerrygarcia.com/",
      "id": 22,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1988/07/12151124/t880731.jpeg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "Grateful Dead at Laguna Seca Recreation Area Monterey California CA USA Mississippi Half-Step Uptown Toodeloo Little Red Rooster West L.A.",
+     "quote_or_claim": "1988-07-31 Laguna Seca Recreation Area, Monterey, C….",
      "site": "Jerry Garcia",
      "title": "1988-07-31 Laguna Seca Recreation Area, Monterey, CA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1988-07-31-laguna-seca-recreation-area-monterey-ca-usa/",
@@ -385,14 +385,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Kirsten Michel",
      "author_url": "https://jerrygarcia.com/",
      "id": 24,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1988/07/12151931/b880729.jpeg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "",
+     "quote_or_claim": "1988-07-29 Laguna Seca Recreation Area, Monterey, CA, USA - Jerry Garcia.",
      "site": "Jerry Garcia",
      "title": "1988-07-29 Laguna Seca Recreation Area, Monterey, CA, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1988-07-29-laguna-seca-recreation-area-monterey-ca-usa/",
@@ -408,8 +408,8 @@
     "guests": [],
     "next": {
      "date": "1988-07-30",
-     "show": "live:grateful-dead:1988-07-30:laguna-seca-raceway",
-     "venue": "Laguna Seca Raceway"
+     "show": "live:grateful-dead:1988-07-30:laguna-seca-recreation-area",
+     "venue": "Laguna Seca Recreation Area"
     },
     "previous": {
      "date": "1988-07-17",
@@ -666,119 +666,308 @@
     "setlist": [
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 100,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-15",
+        "show": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 35,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 230,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-15",
+        "show": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 21,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 204,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:blow-away",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 5,
+       "total_plays": 26
+      },
       "title": "Blow Away"
      },
      {
       "key": "song:grateful-dead:cassidy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-15",
+        "show": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 264,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1988-06-25",
+        "show": "live:grateful-dead:1988-06-25:buckeye-lake-music-center"
+       },
+       "plays_before": 368,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-07-16",
+        "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california"
+       },
+       "plays_before": 454,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 56,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-07-16",
+        "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california"
+       },
+       "plays_before": 456,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 485,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 1096,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 756,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 756,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-15",
+        "show": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 162,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-15",
+        "show": "live:grateful-dead:1988-07-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 58,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:believe-it-or-not",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 4,
+       "total_plays": 9
+      },
       "title": "Believe It Or Not"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 497,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 91,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:black-muddy-river",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-06-26",
+        "show": "live:grateful-dead:1988-06-26:civic-arena"
+       },
+       "plays_before": 40,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -786,7 +975,16 @@
      {
       "from": "gd1988-07-29.schoeps.litzenberger.watson.86255.sbefail.flac16",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 67,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      }
     ],
@@ -794,26 +992,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1444,
-     "shows_in_archive": 1855,
+     "show_number": 1549,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Laguna Seca Recreation Area"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 27,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:06.543458+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.708611+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 28,
-   "signature": "e9Q2cVK-ivhv9Tv8vA5WtEHvkQZjbMfTAEQVXkwTlfOsl-p9zJkcUZ1xx4QUM9TUaPIjUW0cz9cCH4tcvHjgAw",
+   "revision": 40,
+   "signature": "ObpxNEmJtcTxTGpT3AfnEyic_UN0QTYvza48arSG8JLChj-0Yq6Y3BHm-ZVWCPijgwgCOGinNBjnc7JTHsAYCw",
    "subject_key": "live:grateful-dead:1988-07-29:laguna-seca-recreation-area",
-   "updated_at": "2026-10-25T16:42:06.544870"
+   "updated_at": "2026-10-25T17:35:23.709740"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1988-07-29.pzm.russjcan.93970.sbeok.flac16** (recommended): source not stated; 21 songs; 150 min; rated 4.33/5 by 6 [1]\n- **gd1988-07-29.158384.mtx.photoleon.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 157 min [2]\n- **gd1988-07-29.schoeps.litzenberger.watson.86255.sbefail.flac16**: source not stated; 19 songs; 157 min; rated 4.29/5 by 7 [3]. Said about its sound: Right channel volume was adjusted 0.51db higher to match the left channel [3]\n- **gd88-07-29.sbd.hayum.5395.sbeok.shnf**: matrix (soundboard mixed with audience mics); 19 songs; 144 min; rated 4.38/5 by 64 [4]. Said about its sound: Reviewer claims the recording is a crystal clear soundboard patch, not an audience recording; The recording is taped too loud, causing heavier jams to distort [12][17]\n- **gd1988-07-29.set2.sbd.russjcan.105341.flac16**: soundboard; 13 songs; 82 min; rated 4.25/5 by 4 [8]\n\n## Around the show\n\n- John Barlow told a listener near the soundboard the song would separate men from boys [11]\n- Half the PA failed during Drums as Healy dropped the octave and Mickey played Home Plate [15]\n- Hot, dusty weather forced the listener to watch the second set from a hill overlooking the venue [16]\n- The band unexpectedly played Crazy Fingers between China Rider, which the listener found surprising [16]\n- The performance appears on the So Many Roads box set and is described as awe-inspiring [12]\n- The pre-drums section is called the most wicked forty minutes of music the band played in 1988 [13]\n- Believe It Or Not is noted as being similar to Wake Up and Go Home [17]\n\n## Tapers and lineage\n\n- **gd1988-07-29.pzm.russjcan.93970.sbeok.flac16**: taped by Russ Cansler; transferred by Russ Cansler; source: Hat Mounted pzm's with Sony WMD6-C 45 feet away,Dead center Maxell MX-90 No nr [1]\n- **gd1988-07-29.158384.mtx.photoleon.flac16**: source: Matrix created in Adobe Audition by Joe Noel [2]. Also: Dan Healy recorded the SBD source, while Charlie Miller processed it [2]\n- **gd1988-07-29.schoeps.litzenberger.watson.86255.sbefail.flac16**: transferred by M Watson; source: Schoeps cmc 4/mk2-> Sony pcm-f1->Beta->Dat [3]. Also: The Schoeps source used omni capsules, likely from a front-of-house position due to low crowd noise [3]\n- **gd88-07-29.sbd.hayum.5395.sbeok.shnf**: source: Soundboard( was labeled as Aud CM-> DAT-> CDR-> EAC w/correct offsets using Secure Mode w/C2 (Plextor UW)-> SHN (MKW)) [4]\n- **gd1988-07-29.set2.sbd.russjcan.105341.flac16**: transferred by Russ Cansler; source: SBD > ? > ? > Cassette (Third Gen sbd cassette maxell XL II no nr) [8]. Also: The file contains the second set SBD source, from China Cat Sunflower through Black Muddy River [8]\n\n## Art and photos\n\n- Poster by Kirsten Michel: [1988-07-31 Laguna Seca Recreation Area, Monterey, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1988-07-31-laguna-seca-recreation-area-monterey-ca-usa/) [22]\n- Fan art by Grateful Dead: [Grateful Dead Laguna Seca Recreation Area - July 29, 1988](https://www.dead.net/show/july-29-1988) [23]\n- Poster by Kirsten Michel: [1988-07-29 Laguna Seca Recreation Area, Monterey, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1988-07-29-laguna-seca-recreation-area-monterey-ca-usa/) [24]",

@@ -635,7 +635,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1384,111 +1384,283 @@
     "setlist": [
      {
       "key": "song:grateful-dead:crowd-tuning-funiculi-funicula",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1302,
+       "gap_shows": 246,
+       "last_played": {
+        "date": "1982-04-08",
+        "show": "live:grateful-dead:1982-04-08:onongada-county-war-memorial"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Crowd/Tuning 'Funiculi Funicula'"
      },
      {
       "key": "song:grateful-dead:spooky-space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Spooky Space"
      },
      {
       "key": "song:grateful-dead:werewolves-of-london",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1971,
+       "gap_shows": 413,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 10,
+       "total_plays": 12
+      },
       "title": "Werewolves of London"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 149,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 53,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 259,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 350,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-09-11",
+        "show": "live:grateful-dead:1985-09-11:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 331,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 315,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 90,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 108,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 425,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 151,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 566,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:drumz",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 43,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 566,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 12,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 396,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:nfa-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "NFA - Crowd"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 234,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1496,130 +1668,266 @@
      {
       "from": "gd1985-10-31.177847.senn.md241.strizak.flac2448",
       "key": "song:grateful-dead:funiculi-funicula",
-      "stats": {},
+      "stats": {
+       "days_since": 492,
+       "gap_shows": 91,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 18,
+       "total_plays": 26
+      },
       "title": "Funiculi Funicula"
      },
      {
       "from": "gd1985-10-31.177847.senn.md241.strizak.flac2448",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 217,
+       "gap_shows": 43,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 34,
+       "total_plays": 80
+      },
       "title": "Playin Reprise"
      },
      {
       "from": "gd1985-10-31.177847.senn.md241.strizak.flac2448",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 385,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1985-10-31.177847.senn.md241.strizak.flac2448",
       "key": "song:grateful-dead:drums-and-space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 9
+      },
       "title": "Drums & Space"
      },
      {
       "from": "gd1985-10-31.168185.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:playing-space",
-      "stats": {},
+      "stats": {
+       "days_since": 381,
+       "gap_shows": 70,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Playin' Space"
      },
      {
       "from": "gd1985-10-31.168185.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 903,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "from": "gd1985-10-31.168185.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:nfa-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 9,
+       "total_plays": 54
+      },
       "title": "NFA Chant"
      },
      {
       "from": "gd1985-10-31.sbd.miller.023590.sbeok.shnf",
       "key": "song:grateful-dead:31-85-grateful-dead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "31/85 - Grateful Dead"
      },
      {
       "from": "gd1985-10-31.sbd.miller.023590.sbeok.shnf",
       "key": "song:grateful-dead:patched-from-7-04-7-26",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "(Tennessee Jed) - Patched from 7:04-7:26"
      },
      {
       "from": "gd85-10-31.aud-oade.remaster.20282.sbeok.shnf",
       "key": "song:grateful-dead:ghoulish-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ghoulish Jam"
      },
      {
       "from": "gd85-10-31.aud-oade.remaster.20282.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-band-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 186,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 10,
+       "total_plays": 28
+      },
       "title": "Playin' in the Band Jam"
      },
      {
       "from": "gd1985-10-31.178337.nak304.thomas.miller.clugston.flac2496",
       "key": "song:grateful-dead:funiculi-funicula-halloween-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Funiculi Funicula/Halloween Space"
      },
      {
       "from": "gd1985-10-31.151886.senn441.lamarre.miller.clugston.flac2496",
       "key": "song:grateful-dead:playing-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 186,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 19,
+       "total_plays": 45
+      },
       "title": "Playin' Jam"
      },
      {
       "from": "gd1985-10-31.126314.chasingwilma.flac24",
       "key": "song:grateful-dead:teddy-bears-picnic",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4345,
+       "gap_shows": 790,
+       "last_played": {
+        "date": "1973-12-08",
+        "show": "live:grateful-dead:1973-12-08:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "teddy bear's picnic"
      },
      {
       "from": "gd1985-10-31.122146.senn.roberts.flac16",
       "key": "song:grateful-dead:funiculi-funicula-tuning",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3091,
+       "gap_shows": 646,
+       "last_played": {
+        "date": "1977-05-15",
+        "show": "live:grateful-dead:1977-05-15:st-louis-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "Funiculi Funicula tuning"
      },
      {
       "from": "gd1985-10-31.cpb-redo2.32864.sbeok.flac16",
       "key": "song:grateful-dead:halloween-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Halloween Space"
      },
      {
       "from": "gd85-10-31.sbd.19209.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 128,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 71,
+       "total_plays": 123
+      },
       "title": "Playing In The Band Reprise"
      }
     ],
     "subject_key": "live:grateful-dead:1985-10-31:carolina-coliseum-u-of-south-carolina",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1246,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Crowd/Tuning 'Funiculi Funicula'",
+      "Werewolves of London"
+     ],
+     "first_in_archive": [
+      "Spooky Space",
+      "NFA - Crowd"
+     ],
+     "show_number": 1349,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Carolina Coliseum, U of South Carolina"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 17,
+   "parent_revision": 29,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.832026+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.973462+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 18,
-   "signature": "gHofXPq5q1OBG8jmJ47e6O3uTffF9lkSUlxiEcCXLkdQw6kaiQI-fzvqFmQ9D-fcizNX5yI2bHalf_qtvj24DQ",
+   "revision": 30,
+   "signature": "7XAPmKyInSFEbbEO4FHMQTA0xmFluclwVTasujm9EsRGTgyEm6gz-KFpb5fP4GUNzvFKhNrxkpdmHcyfYm5IDg",
    "subject_key": "live:grateful-dead:1985-10-31:carolina-coliseum-u-of-south-carolina",
-   "updated_at": "2026-10-25T16:42:00.833962"
+   "updated_at": "2026-10-25T17:35:20.975209"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Werewolves of London** (6 reviews): Reviewer notes the Dead played it in a few late-70s shows before shelving it; Reviewer concedes the opening Werewolves was a novelty [21][23][24][25][28][30]\n- **Looks Like Rain** (2 reviews): Reviewer singles out Bobby's screaming in this song as a highlight; Reviewer remembers it as one of the best Looks Like Rains ever seen [22][27]\n- **Ship of Fools** (2 reviews): Reviewer finds Ship of Fools disappointing and thinks the band cut the show short after drums; Reviewer calls the jam in Ship of Fools prime, and Shakedown Street great [25][26]\n- **Spooky Space** (1 review): Reviewer finds the opening space eerie, comical and disturbing, a treat [24]\n- **Space** (1 review): Reviewer found the space ethereal; a companion kept saying how beautiful it was [29]\n- **Dear Mr. Fantasy** (1 review): Reviewer likes Dear Mr. Fantasy emerging from the second space [24]\n- **Funiculi Funicula** (1 review): Reviewer describes the opening as a wild, spacey Funiculi Funicula [22]\n\n## The recordings\n\n- **gd85-10-31.matrix.loy.31189.sbeok.flacf** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 137 min; rated 4/5 by 1 [1]\n- **gd1985-10-31.164118.akg451.ck8.eaton.miller.clugston.flac2496**: audience recording; 20 songs; 129 min [5]\n- **gd1985-10-31.mtx.loy.30829.sbeok.flac16**: matrix (soundboard mixed with audience mics); 18 songs; 137 min [8]\n- **gd85-10-31.aud-fob.sacks.2249.sbeok.shnf**: audience recording; 18 songs; 138 min; rated 4.14/5 by 7 [9]\n- **gd85-10-31.sbd.19209.sbeok.shnf**: soundboard; 17 songs; 120 min; rated 2.83/5 by 6 [20]. Said about its sound: Soundboard graded B+: thick, full, a bit bassy, not crisp, with light background hiss [30]\n\n## Around the show\n\n- Row of jack-o-lanterns lined the front of the stage; the band began with a very long tuning session [21]\n- Reviewer says this was the Dead's only South Carolina show, played on Halloween night 1985 in Columbia [21]\n- Reviewer attended as a University of South Carolina student, walking to the show through the tunnel below Assembly Blvd [22]\n- Rain poured down; stage had jack-o-lanterns, and fans wore strange costumes; Hurricane Gloria reportedly traveled with the tour [26]\n- Reviewer, then a high school junior, came from Charlotte and enjoyed watching Halloween costumed fans [27]\n- Reviewer drove from Wofford College in Spartanburg; after the show the clouds looked impossibly low and fast [29]\n- Columbia was the Grateful Dead's only show in South Carolina [35]\n- Reviewer calls it the worst of 60+ Dead shows seen, recommending the second Fox night or Richmond shows instead [23]\n- Reviewer says the show sinks into mediocrity after the opener and Music, with a blah first set [25]\n- Reviewer rates it better than the preceding Fox shows, though maybe not up to the following Richmond shows [26]\n- Reviewer says the first set was great but intensity drops in set two [28]\n\n## Tapers and lineage\n\n- **gd85-10-31.matrix.loy.31189.sbeok.flacf**: transferred by Charlie Miller; source: Soundboard patched with Audience [1]\n- **gd1985-10-31.164118.akg451.ck8.eaton.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master Audience Cassettes; AKG 451's w/ CK8 shotguns > Sony D5M [5]. Also: Recorded by Rob Eaton, who also did the transfer; Charlie Miller coordinated the release; Oade Schoeps source patches the end of Tennessee Jed, plus Drums and Space [5]\n- **gd1985-10-31.mtx.loy.30829.sbeok.flac16**: transferred by Loy; source: Matrix mix (SBD/AUD) [8]. Also: Oade source used Schoeps CMC441 mics into Oade preamp and modified Sony PCM-F1; Doug Oade applied DSP [8]\n- **gd85-10-31.aud-fob.sacks.2249.sbeok.shnf**: source: FOB PCM AUD -- ??? Mics -> PCM -> DATs -> CDR (x1) -> EAC -> SHN [9]. Also: Reviewer's old analog copy of set one was a fifth-generation audience tape with plenty of hiss [28]\n- **gd85-10-31.sbd.19209.sbeok.shnf**: source: S:D>C>D>C>D>CDR [Note: See info file for further details]Lineage: Cassette > D8 > Sony R500>HHB CDR800Toast 1.1 for Wav via an archive.org user [20]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1985-10-31 Thu Halloween Carolina Coliseum Arena, Univ. of S. Carolina, Columbia, SC](https://www.livegrateful.net/post/1319443064475/grateful-dead-1985-10-31-thu-halloween) [39]\n- Fan art by Joe Jackson: [Halloween 1985: The Only Time the Grateful Dead Played in South Carolina – Extra Chill](https://extrachill.com/halloween-1985-the-only-time-the-grateful-dead-played-in-south-carolina/) [40]\n- Poster by Jerry Garcia: [1985-10-31 Ticket - Jerry Garcia](https://jerrygarcia.com/image/1985-10-31-ticket/) [41]",

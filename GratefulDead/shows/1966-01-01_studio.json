@@ -67,7 +67,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -87,9 +87,9 @@
      "venue": "Various"
     },
     "previous": {
-     "date": "1965-11-03",
-     "show": "live:grateful-dead:1965-11-03:golden-state-studios",
-     "venue": "Golden State Studios"
+     "date": "1966-01-01",
+     "show": "live:grateful-dead:1966-01-01:viola-lee-blues-reahearsals",
+     "venue": "Viola Lee Blues Reahearsals"
     },
     "recommended": {
      "identifier": "gd1966-01-01.178957.sbd.matthews.minches.miller.flac1648",
@@ -161,22 +161,48 @@
     "setlist": [
      {
       "key": "song:grateful-dead:one-kind-favor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 8
+      },
       "title": "One Kind Favor"
      },
      {
       "key": "song:grateful-dead:mindbender",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1965-11-03",
+        "show": "live:grateful-dead:1965-11-03:golden-state-studios"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Mindbender"
      },
      {
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1965-11-03",
+        "show": "live:grateful-dead:1965-11-03:golden-state-studios"
+       },
+       "plays_before": 1,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      }
     ],
@@ -184,27 +210,30 @@
     "subject_key": "live:grateful-dead:1966-01-01:studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 3,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "One Kind Favor",
+      "Viola Lee Blues"
+     ],
+     "show_number": 4,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.375467+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.115929+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "jNfUOIzZwjc_SRc_BTRN-P84iTs3qa_9fQBS1XD1BD-qiRK5CdbsJnhgKTrvWNddpyqbbW3pm00PB1Xxvt4qDQ",
+   "revision": 40,
+   "signature": "n66Er_fzr08F_DXbaqTmQlJxUI5xgCj6pjw4dhcpXkXiSOaNGD9XKefSg09DP8_nwKgQYiFNedi2_ll__UJfDA",
    "subject_key": "live:grateful-dead:1966-01-01:studio",
-   "updated_at": "2026-10-25T16:41:38.376186"
+   "updated_at": "2026-10-25T17:35:09.116532"
   }
  },
  "recommended": {

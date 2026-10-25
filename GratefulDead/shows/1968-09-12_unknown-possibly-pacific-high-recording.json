@@ -55,7 +55,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -71,8 +71,8 @@
     "guests": [],
     "next": {
      "date": "1968-09-20",
-     "show": "live:grateful-dead:1968-09-20:community-theatre",
-     "venue": "Community Theatre"
+     "show": "live:grateful-dead:1968-09-20:eagles-auditorium",
+     "venue": "Eagle's Auditorium"
     },
     "previous": {
      "date": "1968-09-02",
@@ -119,17 +119,39 @@
     "setlist": [
      {
       "key": "song:grateful-dead:clementine",
-      "stats": {},
+      "stats": {
+       "days_since": 223,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1968-02-02",
+        "show": "live:grateful-dead:1968-02-02:crystal-ballroom"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Clementine (many takes)"
      },
      {
       "key": "song:grateful-dead:clementine",
-      "stats": {},
+      "stats": {
+       "days_since": 223,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1968-02-02",
+        "show": "live:grateful-dead:1968-02-02:crystal-ballroom"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Clementine (several takes, a couple with vocals by Phil)"
      },
      {
       "key": "song:grateful-dead:space-like-jam-with-some-improvised-vocals",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space like jam with some improvised vocals"
      }
     ],
@@ -137,27 +159,29 @@
     "subject_key": "live:grateful-dead:1968-09-12:unknown-possibly-pacific-high-recording",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 69,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Space like jam with some improvised vocals"
+     ],
+     "show_number": 82,
+     "shows_in_archive": 2097,
      "songs": 3,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown (possibly Pacific High Recording)"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.892905+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.517505+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "w5D_V0jQ6pvlUvD7UTmVnF-vpOaBBmH_gDxNPsvciS8kE5MOiCJ-qIXH_P9tPQMYsVdw2tDBksEu9i8_sXJuDA",
+   "revision": 40,
+   "signature": "cQ2soeA_6ATlIbpj9OQ6hCR5iN874oAxnw7jxvx2XVWaW7bGs2yTflMBWATUiF__316DMc6booWOrYXCrOhTBg",
    "subject_key": "live:grateful-dead:1968-09-12:unknown-possibly-pacific-high-recording",
-   "updated_at": "2026-10-25T16:41:38.893875"
+   "updated_at": "2026-10-25T17:35:09.518075"
   }
  },
  "recommended": {

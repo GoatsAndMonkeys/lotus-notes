@@ -190,7 +190,7 @@
      "id": 13,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -254,7 +254,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:who-cares-rap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Who Cares Rap (Pigpen, Weir, etc.)"
      }
     ],
@@ -262,27 +266,29 @@
     "subject_key": "live:grateful-dead:1966-02-12:youth-opportunities-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 9,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Who Cares Rap (Pigpen, Weir, etc.)"
+     ],
+     "show_number": 10,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Youth Opportunities Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.403253+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.142993+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "u2vbpK_2rd78BT3gAALemMBC1JYtdfKwyiUnatUbfB5nyX3Sm-VlR6N6YFfoOAlNUSkJG5OLXssrUr6gHoH-Dg",
+   "revision": 40,
+   "signature": "YeMezbWrkSp9HH4pdu8qfLSosj0bGVpaMbpyjj4B12pZE3kU-FUKK7P4vCwjbUIsTkIw6NOXeONiDPSBLnMKDw",
    "subject_key": "live:grateful-dead:1966-02-12:youth-opportunities-center",
-   "updated_at": "2026-10-25T16:41:38.404016"
+   "updated_at": "2026-10-25T17:35:09.143529"
   }
  },
  "recommended": {

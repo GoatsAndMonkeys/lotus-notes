@@ -553,7 +553,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1038,149 +1038,379 @@
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 118,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 85,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 419,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 98,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 28,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 113,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1981-03-02",
+        "show": "live:grateful-dead:1981-03-02:cleveland-music-hall"
+       },
+       "plays_before": 100,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1981-03-02",
+        "show": "live:grateful-dead:1981-03-02:cleveland-music-hall"
+       },
+       "plays_before": 94,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 218,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 221,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 269,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 142,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 95,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 85,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 84,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 251,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 248,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 578,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:wheel-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wheel Prelude"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1981-03-02",
+        "show": "live:grateful-dead:1981-03-02:cleveland-music-hall"
+       },
+       "plays_before": 45,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-04",
+        "show": "live:grateful-dead:1981-03-04:club-front"
+       },
+       "plays_before": 49,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 291,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 348,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:encore-call",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 671,
+       "gap_shows": 155,
+       "last_played": {
+        "date": "1979-05-09",
+        "show": "live:grateful-dead:1979-05-09:broome-county-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 13
+      },
       "title": "encore call"
      },
      {
       "key": "song:grateful-dead:satisfaction",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-12-31",
+        "show": "live:grateful-dead:1980-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 32
+      },
       "title": "(I Can't Get No) Satisfaction"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-12-31",
+        "show": "live:grateful-dead:1980-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 86,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1188,40 +1418,62 @@
      {
       "from": "gd1981-03-10.175117.sbd.miller.phase-repair.flac1644",
       "key": "song:grateful-dead:i-cant-get-no-satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 104,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 1,
+       "total_plays": 16
+      },
       "title": "I Can't Get No) Satisfaction"
      },
      {
       "from": "gd1981-03-10.131564.senn421.wise.minches.flac24",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 118,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      }
     ],
     "subject_key": "live:grateful-dead:1981-03-10:madison-square-garden",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 915,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "encore call"
+     ],
+     "first_in_archive": [
+      "Wheel Prelude"
+     ],
+     "show_number": 1011,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.012279+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.391129+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "VXT71z4inDYDdlImSoy5pjCKGbHVmYeCqzBNXrAY6y5oN9GGHCvCivkp40eMbOwB-nsWSv35ECoi65V4KYmZBg",
+   "revision": 42,
+   "signature": "dse1N7PNQpSRtPFbxvvjyUH4VNrFIWwLnQ8wkvCnjR6RqlCm3hEUyfqHE94zorYFROjbluJk_eBOZXvZ5T17BA",
    "subject_key": "live:grateful-dead:1981-03-10:madison-square-garden",
-   "updated_at": "2026-10-25T16:41:54.013382"
+   "updated_at": "2026-10-25T17:35:17.392365"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (3 reviews): Phil was on time for the crossover, revealing the Garcia fans love; Jerry discovered a low riff on the theme, drilling it home deeply [18][23][24]\n- **China Doll** (2 reviews): Jerry hit high notes with audience support, marking the end of his sweet 70s voice; The reviewer remembers this song best from all MSG shows attended during the 80s [17][26]\n- **Fire On The Mountain** (1 review): Jerry explored the guitar's full range with huge turns and passionate melodic runs [19]\n- **Lost Sailor** (1 review): The band skipped the Scarlet reprise to go directly into Lost Sailor [22]\n\n## The recordings\n\n- **gd1981-03-10.nak700.glassberg.motb.82374.sbeok.flac16** (recommended): source not stated; 26 songs; 178 min; rated 4/5 by 2 [1]\n- **gd1981-03-10.sbd.miller.115598.flac16**: soundboard; 23 songs; 182 min; rated 4.5/5 by 12 [3]\n- **gd1981-03-10.175117.sbd.miller.phase-repair.flac1644**: soundboard; 23 songs; 182 min; rated 5/5 by 1 [5]\n- **gd81-03-10.glassberg.wise.7630.sbeok.shnf**: audience recording; 24 songs; 180 min; rated 4.04/5 by 26 [6]. Said about its sound: Quality is superb, with a happy transition from Half-Step to Franklin's Tower; Guitar and sound problems occurred throughout, with Jerry flubbing lyrics in Fire; One of the best sounding audience recordings, with powerful drums leading into Wheel [18][20][23][27]\n- **gd1981-03-10.152637.nak500.vita.miller.clugston.flac2496**: audience recording; 23 songs; 177 min [7]\n\n## Around the show\n\n- The crowd went bonkers the whole time, typical of the Garden atmosphere [20]\n- Second set used a format of two songs each for Jerry and Bob, with no breaks [22]\n- In a corporate box, the reviewer was nearly dragged into the space by the music [25]\n- People stood near the reviewer to ensure he didn't fall out of the box [25]\n- Jerry had an off night, sounding tired compared to the hot shows of 3/5 and 3/9 [24]\n\n## Tapers and lineage\n\n- **gd1981-03-10.nak700.glassberg.motb.82374.sbeok.flac16**: taped by Barry Glassberg; transferred by A. Egert and C. Ladner; source: Nakamichi CM700's > Sony TC-D5M > MAC [1]. Also: Mastered using Adobe Audition 2.0 with Waves Z-Noise and Izotope plugins [1]\n- **gd1981-03-10.sbd.miller.115598.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat (44.1k) [3]. Also: All disc changes are seamless, including a Smokestack Lightning jam after Truckin [3]\n- **gd1981-03-10.175117.sbd.miller.phase-repair.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  November 13, 2025; source: SBD > Cassette Master > DAT (44.1k) [5]. Also: Vocal phase issue repaired in the source file shnid=115598 [5]\n- **gd81-03-10.glassberg.wise.7630.sbeok.shnf**: taped by Barry Glassberg; transferred by Jim Wise; source: Audience Recording: Nak CM700's [6]\n- **gd1981-03-10.152637.nak500.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston and Charlie Miller; source: Jim Vita's Master Audience Cassettes; Nakamichi DM-500 mics > Sony D5M (Maxell UDXLII-S) [7]. Also: Jim Vita provided the master; Charlie Miller transferred; Barry Glassberg's FOB Nakamichi 700 patched Drums [7]",

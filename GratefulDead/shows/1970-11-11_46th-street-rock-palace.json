@@ -277,7 +277,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -327,8 +327,8 @@
      "venue": "46th Street Rock Palace"
     },
     "previous": {
-     "date": "1970-11-09",
-     "show": "live:grateful-dead:1970-11-09:action-house",
+     "date": "1970-11-10",
+     "show": "live:grateful-dead:1970-11-10:action-house",
      "venue": "Action House"
     },
     "recommended": {
@@ -461,167 +461,441 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 68,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 15,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 76,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-10",
+        "show": "live:grateful-dead:1970-11-10:action-house"
+       },
+       "plays_before": 128,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 62,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:la-bamba",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "La Bamba"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 76,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 52,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:johns-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "John's Other"
      },
      {
       "key": "song:grateful-dead:uncle-sam-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle Sam Blues"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:ode-to-billie-dean",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ode To Billie Dean"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-10",
+        "show": "live:grateful-dead:1970-11-10:action-house"
+       },
+       "plays_before": 53,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:hey-bo-diddley-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hey Bo Diddley Jam"
      },
      {
       "key": "song:grateful-dead:who-do-you-love",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1708,
+       "gap_shows": 287,
+       "last_played": {
+        "date": "1966-03-09",
+        "show": "live:grateful-dead:1966-03-09:unknown"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "Who Do You Love"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 62,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-10",
+        "show": "live:grateful-dead:1970-11-10:action-house"
+       },
+       "plays_before": 128,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 62,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:come-back-baby",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1637,
+       "gap_shows": 281,
+       "last_played": {
+        "date": "1966-05-19",
+        "show": "live:grateful-dead:1966-05-19:avalon-ballroom"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Come Back Baby"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 82,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 99,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 69,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 86,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 90,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 5,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-11-09",
+        "show": "live:grateful-dead:1970-11-09:action-house"
+       },
+       "plays_before": 66,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 28,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 102,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-10",
+        "show": "live:grateful-dead:1970-11-10:action-house"
+       },
+       "plays_before": 128,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-10",
+        "show": "live:grateful-dead:1970-11-10:action-house"
+       },
+       "plays_before": 114,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 102,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 16,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -629,34 +903,52 @@
      {
       "from": "gd1970-11-11.179257.sbd.cassidy.minches.miller.t.flac1648",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 53,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
     "subject_key": "live:grateful-dead:1970-11-11:46th-street-rock-palace",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 242,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Who Do You Love",
+      "Come Back Baby"
+     ],
+     "first_in_archive": [
+      "La Bamba",
+      "John's Other",
+      "Uncle Sam Blues",
+      "Ode To Billie Dean",
+      "Hey Bo Diddley Jam"
+     ],
+     "show_number": 300,
+     "shows_in_archive": 2097,
      "songs": 33,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "46th Street Rock Palace"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.287051+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.255298+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "WOZ6xZyn9vU66Y0hh1tv62pw-CQ2MDivohcxHK0stIsXuoPUo8pq90xokUjE0GClztUk2X7qsrooPQZ9souEBw",
+   "revision": 42,
+   "signature": "MiYZUCB8Aw2zHD9UK72DPlDImqvs7jNZAkv6ZDw2tSJnzL1SW4ze71deCu1GGJruttvY_8EmqdPTZuJ57pApCA",
    "subject_key": "live:grateful-dead:1970-11-11:46th-street-rock-palace",
-   "updated_at": "2026-10-25T16:41:40.288758"
+   "updated_at": "2026-10-25T17:35:11.256367"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (1 review): The transition from China Cat Sunflower to I Know You Rider was hot [6]\n\n## The recordings\n\n- **gd70-11-11.aud.cotsman.17081.sbeok.shnf** (recommended): audience recording; 33 songs; 176 min; rated 3.45/5 by 11 [1]. Said about its sound: The recording has poor sound quality, though the listener eventually favored the performance; The audio quality is poor, but the performance itself is considered very good; The sound quality is rough, but the show is valued as a historic piece [1][5][6][8][11][12]\n- **gd70-11-11.aud.sirmick.31154.sbeok.flacf**: audience recording; 33 songs; 175 min; rated 2.67/5 by 9 [2]. Said about its sound: The reviewer describes the recording as the worst they have ever heard; The sound during John's Other is described as bloomin' awful at times; The recording of Ode To Billie Dean sounds pretty good [9][14][15]\n- **gd1970-11-11.179257.sbd.cassidy.minches.miller.t.flac1648**: soundboard; 18 songs; 154 min [3]\n- **gd1970-11-11.179254.sbd.cassidy.minches.miller.t.flac2496**: soundboard; 18 songs; 154 min [4]\n\n## Around the show\n\n- A last-minute makeup show drew a crowd filling only a quarter of the venue [5]\n- The Loews 46th Street Theatre, a former movie house, held about 2,500 people [7]\n- The hall, renamed Banana Fish Garden, hosted tapings for the ABC Rock Concert show [7]\n- The show is confirmed to feature Jorma Kaukonen among the guests [10]\n- The taper announced the title of the song during the performance of Come Back Baby [14]\n- John's Other was performed with Jorma, Jack, and Papa John Creech [3]\n- The Brooklyn audience appeared more intense than audiences at other shows the band played [11]\n\n## Tapers and lineage\n\n- **gd70-11-11.aud.cotsman.17081.sbeok.shnf**: transferred by Chuck Kiefe and JCotsman; source: Audience: Unknown Mics [1]. Also: Severe pitch problems, crackles, pops, and channel flips were corrected during transfer [1]\n- **gd70-11-11.aud.sirmick.31154.sbeok.flacf**: transferred by SIRMick; source: Audience: Unknown Mics (remaster) [2]. Also: The setlist indicates Jorma Kaukonen, Jack Casady, and Papa John Creach joined for songs [2]\n- **gd1970-11-11.179257.sbd.cassidy.minches.miller.t.flac1648**: taped by Peter S. Kimble; transferred by Transferred by David Minches Mastered by Charlie Miller  September 17, 2026; source: SBD (mono) > Master Reel (3.75ips) [3]. Also: Thanks to Martin Cassidy for the tapes, with distortion cleaned up where possible [3]\n- **gd1970-11-11.179254.sbd.cassidy.minches.miller.t.flac2496**: taped by Peter S. Kimble; transferred by Transferred by David Minches Mastered by Charlie Miller  September 17, 2026; source: SBD (mono) > Master Reel (3.75ips) [4]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead 46th Street Rock Palace, Brooklyn, Poster](https://www.dead.net/archives/1970/artwork/46th-street-rock-palace-brooklyn-poster) [18]\n- Fan art by Grateful Dead: [Grateful Dead 46th Street Rock Palace - November 11, 1970](https://www.dead.net/show/november-11-1970) [19]",

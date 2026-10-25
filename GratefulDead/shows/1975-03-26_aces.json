@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -61,9 +61,9 @@
      "venue": "Ace's Studio"
     },
     "previous": {
-     "date": "1975-03-23",
-     "show": "live:grateful-dead:1975-03-23:kezar-stadium",
-     "venue": "Kezar Stadium"
+     "date": "1975-03-26",
+     "show": "live:grateful-dead:1975-03-26:aces-studio",
+     "venue": "Ace's Studio"
     },
     "recommended": {
      "identifier": "gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16",
@@ -105,38 +105,86 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1975-03-17",
+        "show": "live:grateful-dead:1975-03-17:aces-snack-rehearsal"
+       },
+       "plays_before": 142,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "key": "song:grateful-dead:lazy-lightning-jam-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Lazy Lightnin' jam/tuning"
      },
      {
       "key": "song:grateful-dead:slipknot-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Slipknot!/banter"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-03-01",
+        "show": "live:grateful-dead:1975-03-01:bob-weirs-studio"
+       },
+       "plays_before": 2,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-banter",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-03-01",
+        "show": "live:grateful-dead:1975-03-01:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Blues or Allah/banter"
      },
      {
       "key": "song:grateful-dead:playback-session-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "[playback session, jam"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 2,
+       "total_plays": 118
+      },
       "title": "Slipknot!]"
      }
     ],
@@ -144,27 +192,31 @@
     "subject_key": "live:grateful-dead:1975-03-26:aces",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 527,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Lazy Lightnin' jam/tuning",
+      "Slipknot!/banter",
+      "[playback session, jam"
+     ],
+     "show_number": 613,
+     "shows_in_archive": 2097,
      "songs": 7,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ace's"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.554535+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.422684+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "zkaqqOc8V857dT5m8UwJsGjlxwMnnRHeOrxQj7UQLLk611Ixc2WV4b9F2YLTw22LTivQCHKEfOcZ184XQOcsCQ",
+   "revision": 41,
+   "signature": "Mr8aRrtlQ7AtxUNpfWLKXWvPMf37vS78IKRUay3B9YEDwxPuvY5tQM_fNAP_vc91Kpr8VJM3QGm5ykYmrwBiCQ",
    "subject_key": "live:grateful-dead:1975-03-26:aces",
-   "updated_at": "2026-10-25T16:41:48.556431"
+   "updated_at": "2026-10-25T17:35:14.423206"
   }
  },
  "recommended": {

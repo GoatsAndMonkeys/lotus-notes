@@ -594,7 +594,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -655,8 +655,8 @@
     "guests": [],
     "next": {
      "date": "1990-06-24",
-     "show": "live:grateful-dead:1990-06-24:autzen-stadium-university-of-oregon",
-     "venue": "Autzen Stadium - University of Oregon"
+     "show": "live:grateful-dead:1990-06-24:autzen-stadium-u-of-oregon",
+     "venue": "Autzen Stadium, U. of Oregon"
     },
     "previous": {
      "date": "1990-06-17",
@@ -1243,117 +1243,319 @@
     "setlist": [
      {
       "key": "song:grateful-dead:deadspace",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-06-10",
+        "show": "live:grateful-dead:1990-06-10:cal-expo"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "deadspace"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-06-09",
+        "show": "live:grateful-dead:1990-06-09:cal-expo"
+       },
+       "plays_before": 163,
+       "total_plays": 216
+      },
       "title": "One Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-05-06",
+        "show": "live:grateful-dead:1990-05-06:cal-state-dominguez-hills"
+       },
+       "plays_before": 115,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-06-09",
+        "show": "live:grateful-dead:1990-06-09:cal-expo"
+       },
+       "plays_before": 579,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1990-03-28",
+        "show": "live:grateful-dead:1990-03-28:nassau-coliseum"
+       },
+       "plays_before": 214,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "days_since": 94,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 75,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 413,
+       "gap_shows": 78,
+       "last_played": {
+        "date": "1989-05-06",
+        "show": "live:grateful-dead:1989-05-06:frost-amphitheatre"
+       },
+       "plays_before": 215,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-06-16",
+        "show": "live:grateful-dead:1990-06-16:shoreline-amphitheatre"
+       },
+       "plays_before": 292,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-06-10",
+        "show": "live:grateful-dead:1990-06-10:cal-expo"
+       },
+       "plays_before": 374,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 367,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 316,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-06-09",
+        "show": "live:grateful-dead:1990-06-09:cal-expo"
+       },
+       "plays_before": 382,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-06-10",
+        "show": "live:grateful-dead:1990-06-10:cal-expo"
+       },
+       "plays_before": 84,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 532,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-06-08",
+        "show": "live:grateful-dead:1990-06-08:cal-expo"
+       },
+       "plays_before": 261,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 58,
+       "total_plays": 80
+      },
       "title": "Playing Reprise"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 1236,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 896,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-06-08",
+        "show": "live:grateful-dead:1990-06-08:cal-expo"
+       },
+       "plays_before": 200,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 186,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 89,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 219,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-06-16",
+        "show": "live:grateful-dead:1990-06-16:shoreline-amphitheatre"
+       },
+       "plays_before": 289,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:bill-grahams-goodnight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bill Graham's goodnight"
      }
     ],
@@ -1361,64 +1563,110 @@
      {
       "from": "gd1990-06-23.mtx.hansokolow.108310.flac16",
       "key": "song:grateful-dead:bill-graham-speech",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bill Graham Speech)"
      },
      {
       "from": "gd1990-06-23.121911.BeyerM160.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-17",
+        "show": "live:grateful-dead:1990-06-17:shoreline-amphitheatre"
+       },
+       "plays_before": 60,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1990-06-23.163867.nak700.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-06-10",
+        "show": "live:grateful-dead:1990-06-10:cal-expo"
+       },
+       "plays_before": 98,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      },
      {
       "from": "gd1990-06-23.163867.nak700.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:one-more-saturday-night-bill-graham",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "One More Saturday Night-Bill Graham"
      },
      {
       "from": "gd90-06-23.nak.rob.6945.sbefail.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-06-16",
+        "show": "live:grateful-dead:1990-06-16:shoreline-amphitheatre"
+       },
+       "plays_before": 474,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1990-06-23.124301.mk2s.hillwig-stubbe.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 117,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1990-06-23:autzen-stadium-u-of-oregon",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1587,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bill Graham's goodnight"
+     ],
+     "show_number": 1692,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Autzen Stadium, U. of Oregon"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 22,
+   "parent_revision": 35,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:12.274713+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.507365+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 23,
-   "signature": "tEiORN27GOdV6DalXl-UeouCPLz-RXIEWgVmU5jcURFNlmqjWQixHFlwpk2j4jvwyg8HBklkWQpM05dKeMfYCg",
+   "revision": 36,
+   "signature": "T29eZhlth39McAdGRfRWiXBecZDQChL3nNybnMs48LgxwLT-j9SGY-9RWEolfrrWBFkVlhUbB2tYkI0I1VX2Bg",
    "subject_key": "live:grateful-dead:1990-06-23:autzen-stadium-u-of-oregon",
-   "updated_at": "2026-10-25T16:42:12.277307"
+   "updated_at": "2026-10-25T17:35:25.508946"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Far From Me** (1 review): Passionate rendition of Far From Me is highlighted in the first set [29]\n- **Cassidy** (1 review): The Cassidy performance is described as absolutely velvet on this recording [24]\n- **Eyes Of The World** (1 review): Eyes was smooth, with Jerry looking at Brent while playing off each other [23]\n- **Looks Like Rain** (1 review): Looks Like Rain is incredible, featuring thunder sound effects never heard before [27]\n- **Crazy Fingers** (1 review): Second set gains energy with a jam sequence starting with Crazy Fingers [20]\n- Feel Like A Stranger is well-jammed, and Far From Me is especially noted [21]\n\n## The recordings\n\n- **gd90-06-23.sbd.ladner.28690.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 170 min; rated 4.74/5 by 34 [1]. Said about its sound: Very nice sound on the recording, considered one of the best sounding 90 shows; Killer recording captures the thick bass-heavy sound of that summer [24][25]\n- **gd1990-06-23.aud.ladner.10261.sbeok.shnf**: soundboard; 21 songs; 171 min; rated 3/5 by 2 [6]. Said about its sound: Audience noise is audible, and the overall sound is described as a bit flat [20]\n- **gd1990-06-23.163867.nak700.severson.miller.clugston.flac1648**: audience recording; 21 songs; 170 min; rated 5/5 by 1 [9]\n- **gd1990-06-23.akg-nak.miller.99648.sbeok.flac16**: source not stated; 21 songs; 168 min; rated 2.67/5 by 3 [18]\n\n## Around the show\n\n- Town was hospitable, stadium not too cavernous, and crowd loved every minute [22]\n- Bill Graham handed out garbage bags, and Ken Kesey played Thunder Machine [30]\n- Beautiful sunny Oregon afternoon with the only Playing>UJB>Playing the reviewer saw [30]\n- Largest venue the reviewer ever saw the band in, with a party afterwards [31]\n- Eugene shows encapsulate the band's peak powers during the year 1990 [21]\n- Looser and more vibe-focused than the technical prowess displayed that spring [25]\n\n## Tapers and lineage\n\n- **gd90-06-23.sbd.ladner.28690.sbeok.shnf**: source: SBD-matrix>CM>DAT>CDR>WAV>SHN - see info file for more details. Upgrade over previous SBD source. [1]\n- **gd1990-06-23.aud.ladner.10261.sbeok.shnf**: source: SBD>Cm>Dat>Samplitude>CD. Seeded by Charlie Miller via Neo_Levo to candyman and abgd. [6]. Also: Likely Healy Matrix source from the June 1990 West Coast tour [20]\n- **gd1990-06-23.163867.nak700.severson.miller.clugston.flac1648**: taped by Mark Severson; transferred by Scott Clugston, Charlie Miller; source: Mark Severson's Master Audience Cassettes; Nakamichi 700 mics > Sony D6 [9]. Also: Ted Mattes supplied a Schoeps CMC4 MK21 source patching a 0:10 gap in Uncle John's Band [9]\n- **gd1990-06-23.akg-nak.miller.99648.sbeok.flac16**: taped by Charlie Miller; transferred by Charlie Miller; source: Nakamichi 100/CP4 + AKG C1000S -> Boss BX-4 -> Cassette Master (Sony WM-D6C) -> Cassette [18]. Also: Sennheiser ME-80 to DAT to FLAC supplies a patch for Uncle John's Band; Recorded front row center, mic stand about 8-9 feet high; masters lost, poor transfer used [18]\n\n## Art and photos\n\n- Fan art by gocollect.com: [Grateful Dead & Little Feat Autzen Stadium Fan Art 1990 Value - GoCollect](https://gocollect.com/concert-poster/grateful-dead-autzen-stadium-1990) [33]\n- Fan art by Jerry Garcia: [1990-06-23 Autzen Stadium, U. of Oregon, Eugene, OR, USA - Jerry Garcia](https://jerrygarcia.com/show/1990-06-23-autzen-stadium-u-of-oregon-eugene-or-usa/) [34]\n- Fan art by RareVinyl.com: [Grateful Dead Dave's Picks, Volume 44 (Autzen Stadium, U. Of Oregon, Eugene, OR 6/23/90) - Sealed 2022 US 3-CD set](https://uk.rarevinyl.com/products/grateful-dead-dave-s-picks-volume-44-autzen-stadium-u-of-oregon-eugene-or-6-23-90-sealed-us-3-cd-album-triple-set-r2677184-847515) [35]",

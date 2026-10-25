@@ -225,7 +225,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -349,58 +349,157 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-01-24",
+        "show": "live:grateful-dead:1969-01-24:avalon-ballroom"
+       },
+       "plays_before": 31,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 20,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-01-24",
+        "show": "live:grateful-dead:1969-01-24:avalon-ballroom"
+       },
+       "plays_before": 30,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-01-24",
+        "show": "live:grateful-dead:1969-01-24:avalon-ballroom"
+       },
+       "plays_before": 31,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:clementine",
-      "stats": {},
+      "stats": {
+       "days_since": 136,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1968-09-12",
+        "show": "live:grateful-dead:1968-09-12:unknown-possibly-pacific-high-recording"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Clementine"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-01-17",
+        "show": "live:grateful-dead:1969-01-17:civic-auditorium"
+       },
+       "plays_before": 23,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 28,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 22,
+       "total_plays": 165
+      },
       "title": "St Stephen"
      },
      {
       "key": "song:grateful-dead:william-tell",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 2,
+       "total_plays": 9
+      },
       "title": "William Tell"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 27,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-25",
+        "show": "live:grateful-dead:1969-01-25:avalon-ballroom"
+       },
+       "plays_before": 23,
+       "total_plays": 333
+      },
       "title": "Turn on Your Lovelight"
      }
     ],
@@ -408,7 +507,16 @@
      {
       "from": "gd1969-01-26.sbd.miller.109642.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-01-24",
+        "show": "live:grateful-dead:1969-01-24:avalon-ballroom"
+       },
+       "plays_before": 22,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
@@ -416,26 +524,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 88,
-     "shows_in_archive": 1855,
+     "show_number": 106,
+     "shows_in_archive": 2097,
      "songs": 11,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Avalon Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.039394+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.687674+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "YVv4o_mXhGrVer0UkKcwUmH1ENTIwUCdoAxIzFs4k2uF894s_0oi9JcMUy--y9hYG8iOQGIpKBqoKneh3vHvCw",
+   "revision": 41,
+   "signature": "QWqRn0fj5yifnyqcuPRlfuDmj_rzWlyXzzgqmXKH5Ds3CfNAI8yjGl8eDKa6VFbIxqkHQV4W-FO8YQ6lq3_FCQ",
    "subject_key": "live:grateful-dead:1969-01-26:avalon-ballroom",
-   "updated_at": "2026-10-25T16:41:39.040783"
+   "updated_at": "2026-10-25T17:35:09.688741"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Death Don't Have No Mercy** (2 reviews): Reviewer points to this song as the one to hear, with Phil's bass standing out; Reviewer hears a particularly tragic version of this song [7][12]\n- **Turn on Your Lovelight** (2 reviews): Reviewer singles out the Lovelight as the show's standout, deserving top marks by itself; About 15 minutes long, with Pigpen and Jerry going at each other [4][14]\n- **Clementine** (1 review): Reviewer regards this Clementine as the best they can recall [11]\n- **Dark Star** (1 review): Short version where Jerry plays at a pace not sustainable in longer ones; reviewer feels it's all Jerry [12]\n\n## The recordings\n\n- **gd69-01-26.sbd.kaplan.2246.sbeok.shnf** (recommended): soundboard; 11 songs; 79 min; rated 4.48/5 by 25 [1]. Said about its sound: Lacks the high-end distortion or crunchiness heard on other recordings from the same period; The mix fluctuates wildly for a couple of minutes at the start before settling; Sound quality problems at the beginning of the recording [3][4][5][7][11][12]\n- **gd1969-01-26.sbd.miller.109642.flac16**: soundboard; 7 songs; 79 min; rated 4.5/5 by 14 [2]. Said about its sound: Mix problems at the start of the show, and a reel flip during Dark Star [2]\n\n## Around the show\n\n- Sons of Champlin and Initial Shock were also on the bill [2]\n- The Eleven > Lovelight from this date also appeared on the album Live Dead [1]\n- Reviewer prefers the earlier Clementines to this one [5]\n- The Eleven > Lovelight here is the pairing released on Live Dead [5]\n- Reviewer has heard other shows from this period with more power [6]\n\n## Tapers and lineage\n\n- **gd69-01-26.sbd.kaplan.2246.sbeok.shnf**: transferred by Seth Kaplan; source: Soundboard [1]. Also: Dark Star has a splice at 8:12, resuming just before the second verse; the first Cryptical Envelopment got soundboard adjustments; Some files were not cut on sector boundaries; they were repaired with shntool and given a new md5 file (12/14/00) [1]\n- **gd1969-01-26.sbd.miller.109642.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) [2]. Also: Source is a soundboard transfer made from DATs lent by Rob Eaton [2]\n\n## Art and photos\n\n- Photo by Zoooma (All rights reserved): [Grateful Dead poster for 1/24, 1/25, 1/26/69 Avalon Ballroom, San Francisco borrowed from www.deadlists.com](https://www.flickr.com/photos/9692677@N07/3223348712/) [16]",

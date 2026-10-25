@@ -1096,7 +1096,7 @@
      "id": 50,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -2301,112 +2301,287 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 301,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 197,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 46,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 131,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 173,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:april-foolery",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "April Foolery"
      },
      {
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb Blues"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 304,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 84,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 402,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 404,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 244,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 238,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 862,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 526,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 407,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 186,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 306,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 385,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:hampton-coliseum"
+       },
+       "plays_before": 77,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -2414,52 +2589,85 @@
      {
       "from": "gd1985-04-01.senn421.mccue.ford.76321.sbeok.flac",
       "key": "song:grateful-dead:awe-cmon-phil-please-sing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Awe c'mon Phil, please sing?"
      },
      {
       "from": "gd1985-04-01.149791.akg224.dyche.flac1644",
       "key": "song:grateful-dead:tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 47
+      },
       "title": "Tom Thumb Blues"
      },
      {
       "from": "gd1985-04-01.124788.chasingwilma.flac24",
       "key": "song:grateful-dead:i-know-your-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 13
+      },
       "title": "i know your rider"
      },
      {
       "from": "gd1985-04-01.150874.nak701x3.barnum.miller.flac2496",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-03-22",
+        "show": "live:grateful-dead:1985-03-22:hampton-coliseum"
+       },
+       "plays_before": 16,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      }
     ],
     "subject_key": "live:grateful-dead:1985-04-01:cumberland-county-civic-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1205,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "April Foolery"
+     ],
+     "show_number": 1308,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cumberland County Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.939000+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.381670+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "hMQVAlIzmDZlcXu_4Ju828gMIIkFDvrxAgsrEmwT27EYlVD3nRNk-eGZP7kaq8qb9ZfO0SiIoP5YbEATTfDxDA",
+   "revision": 41,
+   "signature": "Y7nwyTkvO0zuZfGGX0_m8bn2EsoIj5ESMd3JxR9SIgXmtojyr-YW87JtnznLB-Pr5dyiii_Lup3SPOzgYIlyAQ",
    "subject_key": "live:grateful-dead:1985-04-01:cumberland-county-civic-center",
-   "updated_at": "2026-10-25T16:41:59.941715"
+   "updated_at": "2026-10-25T17:35:20.383379"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bird Song** (3 reviews): Bird Song is called one of the best; Bird Song is the first set's highlight: short but focused and dynamic [42][47][49]\n- **Just Like Tom Thumb Blues** (3 reviews): Phil makes the April Fools remark after singing Tom Thumb's Blues; Tom Thumb's is delicate and sublime, unlike the usual way the band played it [38][40][47]\n- **China Cat Sunflower** (3 reviews): China Cat into I Know You Rider segues seamlessly, according to the reviewer; China Cat/Rider is described as a magical, mysterious journey throughout [39][46][49]\n- **Estimated Prophet** (2 reviews): Estimated Prophet into Eyes of the World flows with totally seamless transitions; Estimated is excellent: passionate Bob vocals, group improvisation, a slick wah-wah solo and spacey playing [39][49]\n- **Bertha** (1 review): Jerry's Bertha is described as confessional [47]\n\n## The recordings\n\n- **gd85-04-01.oade-schoeps.sacks.23659.sbeok.flacf** (recommended): source not stated; 20 songs; 143 min; rated 4.14/5 by 7 [1]. Said about its sound: Audience recording sounds excellent to the reviewer; Audience tape sounds crisp, not flat, and captures the band's mid-size arena sound of the period; Audience recording sounds better than many soundboards from this period; could pass for a soundboard [40][44][45]\n- **gd85-04-01.oade.connor.8521.sbeok.shnf**: audience recording; 19 songs; 142 min; rated 4.18/5 by 11 [4]. Said about its sound: Sound quality is very good, though just short of top marks [42]\n- **gd1985-04-01.176005.sennme80.hessberg.miller.clugston.flac2496**: audience recording; 19 songs; 138 min; rated 4/5 by 1 [5]\n- **gd1985-04-01.169192.nak304.thomas.miller.clugston.flac2496**: audience recording; 19 songs; 142 min [7]\n- **gd1985-04-01.167192.beyer.m160.vita.miller.clugston.flac2496**: audience recording; 19 songs; 139 min [9]\n- **gd1985-04-01.nak.minor.vernon.30885.sbeok.flac16**: soundboard; 18 songs; 134 min; rated 5/5 by 1 [25]. Said about its sound: Soundboard-labeled recording is called great for a small room [46]\n\n## Around the show\n\n- Band described as energetic and inspired through most of the show [38]\n- Jerry's voice is not at its strongest, but his playing is fluid [39]\n- The show has an April Fool's party atmosphere [40]\n- Villanova won the NCAA basketball title that evening [46]\n- Attendee recalls it was snowing outside when the show ended [48]\n- Attendee's ticket stub shows a price of $11.50 [48]\n- Reviewer compared the two audience versions and judged this one better; has found all spring '85 audience tapes enjoyable [38]\n- Considered a pretty typical 1985 night with solid performance [44]\n\n## Tapers and lineage\n\n- **gd85-04-01.oade-schoeps.sacks.23659.sbeok.flacf**: taped by Oade Brothers; transferred by Doug Oade - Darren Sacks; source: Schoeps CMC441s (90deg, 17cm) > Oade M118 > Oade mod SONY PCM-F1 [1]. Also: Recorded by the Oades, whose skill the reviewer praises [45]\n- **gd85-04-01.oade.connor.8521.sbeok.shnf**: source: Oade's Master Audience PCM > Schoeps CMC-441 mics > Oade M118> Sony PCM-F1 > DAT> CDR>EAC>Shn [4]\n- **gd1985-04-01.176005.sennme80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [5]. Also: Oade Schoeps source supplies patches in the Tom Thumb to Looks Like Rain transition and in Space [5]\n- **gd1985-04-01.169192.nak304.thomas.miller.clugston.flac2496**: taped by Stephen Thomas; transferred by Scott Clugston, Charlie Miller; source: Stephen Thomas' Master Audience Cassettes; Nakamichi 300 mics + CP4 shotguns > Sony D5M [7]. Also: Oade Schoeps source adds crowd and the start of Bertha, plus a patch in Space [7]\n- **gd1985-04-01.167192.beyer.m160.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Jim Vita's Master Audience Cassettes; Beyer M160 mics > Sony D5M (Maxell XLII-S) [9]. Also: Oade Schoeps source adds crowd and the start of Tom Thumb's Blues, plus a Space patch [9]\n- **gd1985-04-01.nak.minor.vernon.30885.sbeok.flac16**: taped by David Minor; transferred by David Minor and Matt Vernon; source: Nak CM100's > D5 at the soundboard [25]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1985-03-31 Cumberland County Civic Center, Portland, ME, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-03-31-cumberland-county-civic-center-portland-me-usa/) [52]\n- Poster by Brian Baumwoll Grateful Dead: [1985-04-01 Cumberland County Civic Center, Portland, ME, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-04-01-cumberland-county-civic-center-portland-me-usa/) [53]\n- Poster by Grateful Dead of the Day: [April 1, 1985](https://gratefuldeadoftheday.com/04-01-1985/) [54]",

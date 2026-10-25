@@ -277,7 +277,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -292,14 +292,14 @@
     "date": "1967-03-18",
     "guests": [],
     "next": {
-     "date": "1967-05-05",
-     "show": "live:grateful-dead:1967-05-05:fillmore-auditorium",
-     "venue": "Fillmore Auditorium"
+     "date": "1967-04-01",
+     "show": "live:grateful-dead:1967-04-01:kmpx-radio-show",
+     "venue": "KMPX Radio Show"
     },
     "previous": {
-     "date": "1967-01-27",
-     "show": "live:grateful-dead:1967-01-27:avalon-ballroom",
-     "venue": "Avalon Ballroom"
+     "date": "1967-02-12",
+     "show": "live:grateful-dead:1967-02-12:unknown",
+     "venue": "Unknown"
     },
     "recommended": {
      "identifier": "gd67-03-18.sbd.fink.10282.sbeok.shnf",
@@ -431,72 +431,193 @@
     "setlist": [
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 2,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 13,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:he-was-a-friend-of-mine",
-      "stats": {},
+      "stats": {
+       "days_since": 119,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1966-11-19",
+        "show": "live:grateful-dead:1966-11-19:fillmore-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 19
+      },
       "title": "He Was a Friend of Mine"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1967-02-12",
+        "show": "live:grateful-dead:1967-02-12:unknown"
+       },
+       "plays_before": 2,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1967-01-27",
+        "show": "live:grateful-dead:1967-01-27:avalon-ballroom"
+       },
+       "plays_before": 2,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 4,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 11,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 8,
+       "total_plays": 128
+      },
       "title": "Dancing In the Street"
      },
      {
       "key": "song:grateful-dead:golden-road-to-unlimited-devotion",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Golden Road to Unlimited Devotion"
      },
      {
       "key": "song:grateful-dead:cream-puff-war",
-      "stats": {},
+      "stats": {
+       "days_since": 103,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-12-05",
+        "show": "live:grateful-dead:1966-12-05:studio"
+       },
+       "plays_before": 11,
+       "total_plays": 12
+      },
       "title": "Cream Puff War"
      },
      {
       "key": "song:grateful-dead:same-thing",
-      "stats": {},
+      "stats": {
+       "days_since": 103,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-12-05",
+        "show": "live:grateful-dead:1966-12-05:studio"
+       },
+       "plays_before": 5,
+       "total_plays": 51
+      },
       "title": "The Same Thing"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1967-01-27",
+        "show": "live:grateful-dead:1967-01-27:avalon-ballroom"
+       },
+       "plays_before": 14,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1967-01-27",
+        "show": "live:grateful-dead:1967-01-27:avalon-ballroom"
+       },
+       "plays_before": 15,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 6,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      }
     ],
@@ -504,118 +625,180 @@
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t01-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t01 Me & My Uncle"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t02-next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t02 Next Time You See Me"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t03-he-was-a-friend-of-mine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t03 He Was A Friend Of Mine"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t04-smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t04 Smokestack Lightning"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t05-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t05 Morning Dew"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t06-it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t06 It Hurts Me Too"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t07-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t07 Beat It On Down The Line"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t08-dancing-in-the-streets",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t08 Dancin' In The Streets"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t09-golden-road-to-unlimited-devotion",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t09 Golden Road To Unlimited Devotion"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t10-cream-puff-war",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t10 Cream Puff War"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t11-the-same-thing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t11 The Same Thing"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t12-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t12 Cold Rain & Snow"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t13-viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t13 Viola Lee Blues"
      },
      {
       "from": "gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd67-03-18-t14-death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd67-03-18 t14 Death Don't Have No Mercy"
      },
      {
       "from": "gd1967-03-18.156086.sbd.Flegel.flac1648",
       "key": "song:grateful-dead:golden-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Golden Road (To Unlimited Devotion)"
      }
     ],
     "subject_key": "live:grateful-dead:1967-03-18:winterland-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 34,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Golden Road to Unlimited Devotion"
+     ],
+     "show_number": 41,
+     "shows_in_archive": 2097,
      "songs": 14,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.544060+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.294401+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "oy8Q0qiZfixABxFERWfDS2ccKcCDHIpcXIE0fYxSstVMN-ZPotqhmgOzQOY06ruNajney5h4p_bIMVUJA9LtBQ",
+   "revision": 40,
+   "signature": "y2f_iwOeoTSrt69BbeCCJEcxMFEKlFT7oKgtSp9ehx38FpriW2UdTUoLCLjXErJG3sjmDYPRsJZDTN2TjnBMCQ",
    "subject_key": "live:grateful-dead:1967-03-18:winterland-arena",
-   "updated_at": "2026-10-25T16:41:38.545567"
+   "updated_at": "2026-10-25T17:35:09.295253"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Same Thing** (2 reviews): Reviewer calls this a definitive performance, noting the band's ability to cover songs effectively; Reviewer praises the jam during this track as an excellent example of early Garcia genius [5][9]\n- **Golden Road to Unlimited Devotion** (1 review): This is the only live recording of the song the reviewer could find after years of searching [15]\n- **Viola Lee Blues** (1 review): Reviewer expresses strong enthusiasm for this performance, stating words cannot compute the experience [13]\n\n## The recordings\n\n- **gd67-03-18.sbd.fink.10282.sbeok.shnf** (recommended): soundboard; 14 songs; 87 min; rated 4.54/5 by 57 [1]. Said about its sound: Jerry's Guild hollowbody guitar produces a clear, articulate tone, contrasting with later Gibson Les Paul use; Audio quality is passable to unlistenable, featuring volume dropouts and distortion despite decent mid-60s clarity; Sound quality is rated quite good compared to most recordings from this specific time period [6][8][9][10][14]\n- **gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648**: soundboard; 14 songs; 87 min; rated 5/5 by 3 [2]\n- **gd1967-03-18.sbd.sacks.1594.shnf**: soundboard; 14 songs; 86 min; rated 4.67/5 by 6 [3]\n- **gd1967-03-18.156086.sbd.Flegel.flac1648**: soundboard; 14 songs; 88 min; rated 4/5 by 7 [4]\n\n## Around the show\n\n- Johnny Talbot and De Thangs performed with the band, alongside Ron McKernan on Hammond and harmonica [4]\n- The recording documents the band's significant musical metamorphosis occurring by the end of 1967 [6]\n\n## Tapers and lineage\n\n- **gd67-03-18.sbd.fink.10282.sbeok.shnf**: transferred by A.J. Fink; source: Soundboard [1]. Also: A version of The Same Thing from this show appeared on the So Many Roads boxset; A.J. Fink patched in The Same Thing and Viola Lee Blues from a higher generation source [1][8]\n- **gd1967-03-18.141400.sbd.dalton.miller.clugston.flac1648**: taped by Tim Dalton; transferred by Scott Clugston and Charlie Miller; source: flac16/48kHz ; Source Info: Master Soundboard Reels > Cassette > Reel to Reel > Dat (16-bit/48k); Transfer Info: Dat (16/48)(Sony PCM-R500) > Tascam DA-3000… [2]\n- **gd1967-03-18.sbd.sacks.1594.shnf**: transferred by Darrin Sacks; source: MSR>R>DATs>CDRs>EAC>SHN [3]\n- **gd1967-03-18.156086.sbd.Flegel.flac1648**: taped by This came from an anonymous source via CD.; transferred by All post work done by Brian Flegel; source: Master Soundboard Reels > ?? > CD > .wav > flac [4]",

@@ -836,7 +836,7 @@
      "id": 40,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1711,139 +1711,361 @@
      {
       "key": "song:grateful-dead:midnight-hour",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 20,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 305,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 134,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:stop-hanging-off-the-balcony",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "stop hanging off the balcony"
      },
      {
       "key": "song:grateful-dead:my-dog-has-no-nose",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5499,
+       "gap_shows": 1059,
+       "last_played": {
+        "date": "1970-06-07",
+        "show": "live:grateful-dead:1970-06-07:fillmore-west"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "my dog has no nose"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 56,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 340,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 29,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:supplication-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 80,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 5,
+       "total_plays": 15
+      },
       "title": "Supplication Jam"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 97,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-22",
+        "show": "live:grateful-dead:1985-06-22:alpine-valley-music-theater"
+       },
+       "plays_before": 64,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 74,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 187,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1985-04-06",
+        "show": "live:grateful-dead:1985-04-06:the-spectrum"
+       },
+       "plays_before": 98,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 242,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 224,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:man-smart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 77,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 880,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 543,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 385,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:spoonful",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 85,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 13,
+       "total_plays": 54
+      },
       "title": "Spoonful"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 246,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 174,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:encore-call",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1566,
+       "gap_shows": 311,
+       "last_played": {
+        "date": "1981-03-14",
+        "show": "live:grateful-dead:1981-03-14:veterans-memorial-coliseum"
+       },
+       "plays_before": 4,
+       "total_plays": 13
+      },
       "title": "encore call"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 90,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1985-03-29",
+        "show": "live:grateful-dead:1985-03-29:nassau-coliseum"
+       },
+       "plays_before": 241,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 80,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Bbay Blue"
      }
     ],
@@ -1851,124 +2073,238 @@
      {
       "from": "gd1985-06-27.152627.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 24,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "from": "gd1985-06-27.152627.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:bob-and-phil-yell-at-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bob & Phil yell at crowd"
      },
      {
       "from": "gd1985-06-27.152627.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 80,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 118,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "from": "gd1985-06-27.152627.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:equipment-break",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-22",
+        "show": "live:grateful-dead:1985-06-22:alpine-valley-music-theater"
+       },
+       "plays_before": 13,
+       "total_plays": 34
+      },
       "title": "equipment break"
      },
      {
       "from": "gd85-06-27.sbd.clugston.6104.sbeok.shnf",
       "key": "song:grateful-dead:hey-you-all-up-on-the-balcony",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "hey, you all up on the balcony"
      },
      {
       "from": "gd85-06-27.sbd.clugston.6104.sbeok.shnf",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 77,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1985-06-27.mtx.seamons.fix.92963.sbeok.flac16",
       "key": "song:grateful-dead:dont-hang-off-the-balcony",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Don't Hang Off The Balcony"
      },
      {
       "from": "gd1985-06-27.mtx.seamons.92645.sbeok.flac16",
       "key": "song:grateful-dead:get-down-from-the-balcony",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Get Down From The Balcony"
      },
      {
       "from": "gd1985-06-27.169092.sbd1.pearson.marcus.miller.flac24",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 408,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "from": "gd1985-06-27.169092.sbd1.pearson.marcus.miller.flac24",
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 148,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "from": "gd1985-06-27.135270.senn441.mccue.ford.flac24",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 65,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "from": "gd85-06-27.aud.connor.7006.sbeok.shnf",
       "key": "song:grateful-dead:lazy-lightnin-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Lazy Lightnin Tease (Supplication Jam)"
      },
      {
       "from": "gd1985-06-27.aud.Holtz.Nak100s.112499.flac16",
       "key": "song:grateful-dead:balcony-incident",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Balcony Incident"
      },
      {
       "from": "gd1985-06-27.aud.Holtz.Nak100s.112499.flac16",
       "key": "song:grateful-dead:supplication-lazy-lightning-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Supplication-Lazy Lightning Jam"
      },
      {
       "from": "gd1985-06-27.aud.Holtz.Nak100s.112499.flac16",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 80,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 45,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1985-06-27.nak300.morris.106788.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 75,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      }
     ],
     "subject_key": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1223,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "my dog has no nose",
+      "encore call"
+     ],
+     "first_in_archive": [
+      "stop hanging off the balcony"
+     ],
+     "show_number": 1326,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Saratoga Performing Arts Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.384252+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.643619+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "0NFyon2jk4luQvwBBOAL_j6DmRjwOBYLoNJDo0NICx0cw1wt7eNadVJRRa_YcwOaC_BGhX4ct8iUcNE1iMsfDQ",
+   "revision": 39,
+   "signature": "HK5NNomo621OdT6iJxRaj32esKXuXKDXkKaZHeJTlejw1xydvoqU-7GmBp2VAbmpgQxi9PVwQI26QdCNwT06CA",
    "subject_key": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center",
-   "updated_at": "2026-10-25T16:42:00.388233"
+   "updated_at": "2026-10-25T17:35:20.645279"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Crazy Fingers** (1 review): The performance is cited as one of the finest versions of the song from the 80s [33]\n- **Feel Like A Stranger** (1 review): The recording highlights the energy of this song, along with Eyes of the World [34]\n- The song is cut off at the same point on both the FOB and Oade sources [30]\n\n## The recordings\n\n- **gd1985-06-27.sbd.gmb.79382.flac16** (recommended): soundboard; 25 songs; 157 min; rated 4.5/5 by 8 [1]. Said about its sound: This source has less hiss and better stereo imaging than other good circulating sources [1]\n- **gd1985-06-27.sbd.gmb.79558.flac24**: soundboard; 25 songs; 157 min [2]\n- **gd85-06-27.sbd.miller.27863.sbeok.flacf**: soundboard; 23 songs; 161 min; rated 4.25/5 by 28 [5]\n- **gd85-06-27.oade-schoeps.sacks.25000.sbeok.flacf**: source not stated; 22 songs; 157 min; rated 2.5/5 by 6 [11]. Said about its sound: The Oade source offers a fuller sound and a strong sense of presence compared to flatter recordings [29]\n- **gd85-06-27.aud.connor.7006.sbeok.shnf**: audience recording; 23 songs; 146 min; rated 4/5 by 6 [16]. Said about its sound: The audience recording suffers from significant hiss and lost fidelity, resulting in a muffled sound [28]\n\n## Around the show\n\n- A man hanging from the balcony arm like a fan delayed the start of the show [32]\n- Phil railed against an idiot who climbed a tower and held up the show [33]\n- Jerry attempted to start Lazy Lightning multiple times, but the rest of the band ignored him [35]\n- The reviewer, a high school graduate, brought fifteen friends and sat in lawn seats at the show [36]\n- Phil allegedly called the balcony hanger 'Butch' rather than 'Bush' during the incident [37]\n- The reviewer drove from Long Island in a Gold Duster with friends and sold early t-shirts [39]\n- Bobby requested the audience not to hang off the balcony, causing a tape pause [3]\n- The first set is considered the highlight of the performance, which is above average [30]\n\n## Tapers and lineage\n\n- **gd1985-06-27.sbd.gmb.79382.flac16**: taped by DAT kindly provided for transfer by M.Townshend; transferred by C.Ladner; source: SBD > MC > DAT(48KHz) [1]. Also: The first eleven seconds of the first disc are spliced from a previously circulating soundboard [1]\n- **gd1985-06-27.sbd.gmb.79558.flac24**: taped by DAT kindly provided for transfer by M.Townshend; transferred by Chris Ladner; source: SBD > MC > DAT(48KHz) [2]. Also: The first eleven seconds were spliced from a source uprendered to 24/96 using Waves IDR; The lineage for this source does not mention a VHS tape, unlike others [2]\n- **gd85-06-27.sbd.miller.27863.sbeok.flacf**: transferred by Charlie Miller; source: flac16 SBD> Master Cassette> PCM> Dat (unconfirmed- could be SBD> VHS> Cass> Dat> CD); [5]. Also: The transfer path includes Dat to SEK'D Prodif Plus, then Samplitude, and finally FLAC [5]\n- **gd85-06-27.oade-schoeps.sacks.25000.sbeok.flacf**: taped by Oade Brothers; transferred by Doug Oade - Darren Sacks; source: Schoeps cmc441 (90deg, 17cm) > Oade M118 > Oade mod SONY PCM-F1 [11]\n- **gd85-06-27.aud.connor.7006.sbeok.shnf**: source: FOB AUD> CM (unknown mics)> Nak DR-10 (Playback)> Midiman Flying Cow 24bit/48kHz A/D> RME Digi96/8> Steinberg's Wavelab 3.0 (bit resolution & resampling to CDR… [16]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Saratoga Performing Arts Center - June 27, 1985](https://www.dead.net/show/june-27-1985) [41]\n- Poster by Grateful Dead: [Grateful Dead Saratoga Performing Arts Center - June 27, 1985](https://www.dead.net/show/june-27-1985) [42]",

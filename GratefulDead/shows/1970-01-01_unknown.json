@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -49,9 +49,9 @@
      "venue": "Fillmore East (Early and Late Shows)"
     },
     "previous": {
-     "date": "1969-12-31",
-     "show": "live:grateful-dead:1969-12-31:boston-tea-party",
-     "venue": "Boston Tea Party"
+     "date": "1970-01-01",
+     "show": "live:grateful-dead:1970-01-01:studio-workingmans-dead-outtakes",
+     "venue": "Studio- Workingman's Dead Outtakes"
     },
     "recommended": {
      "identifier": "gd1970-01-01.154490.sbd.gems.flac16",
@@ -93,105 +93,200 @@
     "setlist": [
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:rosalie-mcfall",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 22
+      },
       "title": "Rosa Lee McFall"
      },
      {
       "key": "song:grateful-dead:tell-it-to-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Tell It To Me"
      },
      {
       "key": "song:grateful-dead:drink-up-and-go-home",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Drink Up And Go Home"
      },
      {
       "key": "song:grateful-dead:a-voice-from-on-high",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "A Voice From On High"
      },
      {
       "key": "song:grateful-dead:cold-jordan",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Cold Jordan"
      },
      {
       "key": "song:grateful-dead:swing-low-sweet-chariot",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "Swing Low Sweet Chariot"
      },
      {
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 880,
+       "gap_shows": 166,
+       "last_played": {
+        "date": "1967-08-05",
+        "show": "live:grateful-dead:1967-08-05:okeefe-center"
+       },
+       "plays_before": 2,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "key": "song:grateful-dead:dark-hollow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 38
+      },
       "title": "Dark Hollow"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:home-recordings"
+       },
+       "plays_before": 1,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 29,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 21,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:ballad-of-casey-jones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Ballad Of Casey Jones"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1970-01-01:unknown",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 176,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Deep Elem Blues"
+     ],
+     "first_in_archive": [
+      "Candyman",
+      "El Paso",
+      "Rosa Lee McFall",
+      "Tell It To Me",
+      "Drink Up And Go Home",
+      "A Voice From On High",
+      "Cold Jordan",
+      "Swing Low Sweet Chariot",
+      "Dark Hollow",
+      "To Lay Me Down",
+      "Ballad Of Casey Jones"
+     ],
+     "show_number": 216,
+     "shows_in_archive": 2097,
      "songs": 15,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.636474+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.339113+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Wsy23SgZTjysu9Y40ck2DPL_GH3LWNd0nWywiniEVI0spnyV5x3pWRiUoWVzzQK5ltuv_yMpcBkrmg4JxF4zBg",
+   "revision": 40,
+   "signature": "bBrKR5frma9utawPwhrIEKsKhI-qYq3JlUrDH0ILfSBwYf3i9c4mLBPu9ut63QrVXvrix_i29wuSede6mP91CQ",
    "subject_key": "live:grateful-dead:1970-01-01:unknown",
-   "updated_at": "2026-10-25T16:41:39.637491"
+   "updated_at": "2026-10-25T17:35:10.339798"
   }
  },
  "recommended": {

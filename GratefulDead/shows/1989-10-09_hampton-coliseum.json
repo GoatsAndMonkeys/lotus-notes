@@ -770,7 +770,7 @@
      "id": 40,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -816,8 +816,8 @@
     "guests": [],
     "next": {
      "date": "1989-10-11",
-     "show": "live:grateful-dead:1989-10-11:brendan-byrne-arena",
-     "venue": "Brendan Byrne Arena"
+     "show": "live:grateful-dead:1989-10-11:meadowlands-arena",
+     "venue": "Meadowlands Arena"
     },
     "previous": {
      "date": "1989-10-08",
@@ -1642,129 +1642,333 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 152,
+       "total_plays": 216
+      },
       "title": "Feel Like a Stranger"
      },
      {
       "key": "song:grateful-dead:built-to-last",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-10-01",
+        "show": "live:grateful-dead:1989-10-01:shoreline-amphitheatre"
+       },
+       "plays_before": 17,
+       "total_plays": 21
+      },
       "title": "Built to Last"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 210,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-10-01",
+        "show": "live:grateful-dead:1989-10-01:shoreline-amphitheatre"
+       },
+       "plays_before": 247,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 15,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 72,
+       "total_plays": 127
+      },
       "title": "Jackaroe"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 45,
+       "total_plays": 79
+      },
       "title": "Stuck Inside of Mobile with the Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-09-30",
+        "show": "live:grateful-dead:1989-09-30:shoreline-amphitheatre"
+       },
+       "plays_before": 222,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-08-17",
+        "show": "live:grateful-dead:1989-08-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 188,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:crowd-and-tuning-teddy-bears-picnic",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd & tuning, teddy bear's picnic"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 517,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 251,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playing-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 54,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1914,
+       "gap_shows": 377,
+       "last_played": {
+        "date": "1984-07-13",
+        "show": "live:grateful-dead:1984-07-13:greek-theatre-u-of-california"
+       },
+       "plays_before": 185,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-10-08",
+        "show": "live:grateful-dead:1989-10-08:hampton-coliseum"
+       },
+       "plays_before": 848,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-10-08",
+        "show": "live:grateful-dead:1989-10-08:hampton-coliseum"
+       },
+       "plays_before": 1188,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-10-08",
+        "show": "live:grateful-dead:1989-10-08:hampton-coliseum"
+       },
+       "plays_before": 848,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 45,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 49,
+       "total_plays": 62
+      },
       "title": "Dear Mr Fantasy"
      },
      {
       "key": "song:grateful-dead:hey-jude-finale",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 10,
+       "total_plays": 15
+      },
       "title": "Hey Jude Finale"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 173,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-08-20",
+        "show": "live:grateful-dead:1989-08-20:uptown-theater"
+       },
+       "plays_before": 397,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4882,
+       "gap_shows": 1010,
+       "last_played": {
+        "date": "1976-05-28",
+        "show": "live:grateful-dead:1976-05-28:unknown-venue"
+       },
+       "plays_before": 27,
+       "total_plays": 58
+      },
       "title": "Attics of My Life"
      }
     ],
@@ -1772,508 +1976,900 @@
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t01 Crowd"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t02-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t02 Feel Like A Stranger"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t03-built-to-last",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t03 Built To Last"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t04-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t04 Little Red Rooster"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t05-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t05 Ramble On Rose"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t06-we-can-run",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t06 We Can Run"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t07-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t07 Jack-A-Roe"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t08-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t08 Memphis Blues Again"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t09-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t09 Row Jimmy"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s1t10-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s1t10 The Music Never Stopped"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t01 Crowd"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t02-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t02 Playin' In The Band"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t03-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t03 Uncle John's Band"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t04-playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t04 Playin' In The Band Reprise"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t05-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t05 Dark Star"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t06 Drums"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t07 Space"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t08-death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t08 Death Don't Have No Mercy"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t09-dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t09 Dear Mr. Fantasy"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t10-hey-jude",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t10 Hey Jude"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t11-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t11 Throwing Stones"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t12-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t12 Good Lovin'"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t13-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t13 Encore Break"
      },
      {
       "from": "gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-10-09-s2t14-attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-10-09 s2t14 Attics Of My Life"
      },
      {
       "from": "gd1989-10-09.158308.mtx.seamons.ht144.flac16",
       "key": "song:grateful-dead:hey-jude",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 22,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "from": "gd1989-10-09.mtx.dan.26236.sbeok.shnf",
       "key": "song:grateful-dead:memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 5,
+       "total_plays": 13
+      },
       "title": "Memphis Blues Again"
      },
      {
       "from": "gd1989-10-09.mtx.dan.26236.sbeok.shnf",
       "key": "song:grateful-dead:23-jam-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "23] Jam/Space"
      },
      {
       "from": "gd1989-10-09.sbd.miller.80840.sbeok.flac16",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 94,
+       "total_plays": 123
+      },
       "title": "Playing In The Band Reprise"
      },
      {
       "from": "gd1989-10-09.mtx.v2.haugh.92495.flac16",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 36,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:54-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "54] Feel Like A Stranger"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:24-built-to-last",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "24] Built To Last"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:29-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "29] Little Red Rooster"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:07-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "07] Ramble On Rose"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:43-we-can-run",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "43] We Can Run"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:39-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "39] Jack-A-Roe"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:26-memphis-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "26] Memphis Blues"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:13-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "13] Row Jimmy"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:07-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "07] Music Never Stopped"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:55-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "55] Playing in the Band"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:43-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "43] Uncle John's Band"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:49-playing-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "49] Playing Reprise"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:08-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "08] Dark Star"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:00-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "00] Drums"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:48-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "48] Space"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:52-death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "52] Death Don't Have No Mercy"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:40-dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "40] Dear Mr. Fantasy"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:50-hey-jude",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "50] Hey Jude"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:23-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "23] Throwing Stones"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:24-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "24] Good Lovin'"
      },
      {
       "from": "gd1989-10-09.mtx.dts.haugh.92005.flac16",
       "key": "song:grateful-dead:14-attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "14] Attics Of My Life"
      },
      {
       "from": "gd1989-10-09.aud.robr.31211.sbeok.shnf",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-09-29",
+        "show": "live:grateful-dead:1989-09-29:shoreline-amphitheatre"
+       },
+       "plays_before": 11,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      },
      {
       "from": "gd1989-10-09.aud.robr.31211.sbeok.shnf",
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5784,
+       "gap_shows": 1085,
+       "last_played": {
+        "date": "1973-12-08",
+        "show": "live:grateful-dead:1973-12-08:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 50,
+       "total_plays": 51
+      },
       "title": "Feedback"
      },
      {
       "from": "gd1989-10-09.125738.mk4.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-08-19",
+        "show": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california"
+       },
+       "plays_before": 96,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1989-10-09.131003.cmc521.fob.deal.flac16",
       "key": "song:grateful-dead:hey-jude-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 17,
+       "total_plays": 25
+      },
       "title": "Hey Jude reprise"
      },
      {
       "from": "gd1989-10-09.dts.dan.26235.sbeok.shnf",
       "key": "song:grateful-dead:jam-space",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1656,
+       "gap_shows": 338,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Jam/Space"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t01",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t01"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t02",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t02"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t03",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t03"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t04",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t04"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t05",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t05"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t06",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t06"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t07",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t07"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t08",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t08"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t09",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t09"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t10",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t10"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t11",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t11"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t12",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t12"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t13",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t13"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t14",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t14"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t15",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t15"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t16",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t16"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t17",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t17"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t18",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t18"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t19",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t19"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t20",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t20"
      },
      {
       "from": "gd1989-10-09.120403.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac2496",
       "key": "song:grateful-dead:gd1989-10-09-nak300ssenn441-t21",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1989-10-09.Nak300sSenn441.t21"
      },
      {
       "from": "gd1989-10-09.120404.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac1644",
       "key": "song:grateful-dead:music-never-stopped-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 6,
+       "total_plays": 18
+      },
       "title": "The Music Never Stopped, Set Break"
      },
      {
       "from": "gd1989-10-09.120404.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac1644",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-10-01",
+        "show": "live:grateful-dead:1989-10-01:shoreline-amphitheatre"
+       },
+       "plays_before": 454,
+       "total_plays": 628
+      },
       "title": "Ja..m"
      },
      {
       "from": "gd1989-10-09.120404.Nak300sSenn441.AlabamaBob.Currier.Keo.Flac1644",
       "key": "song:grateful-dead:good-lovin-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 179,
+       "gap_shows": 37,
+       "last_played": {
+        "date": "1989-04-13",
+        "show": "live:grateful-dead:1989-04-13:rosemont-horizon"
+       },
+       "plays_before": 7,
+       "total_plays": 15
+      },
       "title": "Good Lovin', Encore Break"
      },
      {
       "from": "gd1989-10-09.aud.fishman.17704.sbeok.shnf",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 241,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1989-02-10",
+        "show": "live:grateful-dead:1989-02-10:great-western-la-forum"
+       },
+       "plays_before": 25,
+       "total_plays": 36
+      },
       "title": "Playin"
      }
     ],
     "subject_key": "live:grateful-dead:1989-10-09:hampton-coliseum",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1539,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Dark Star",
+      "Attics of My Life"
+     ],
+     "first_in_archive": [
+      "crowd & tuning, teddy bear's picnic"
+     ],
+     "show_number": 1644,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:10.900913+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.736200+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "fvPzH7SUjcUUGL08hq1BWhIhNw5VDkVAlXCIRFd0IoASfwQBj0t2rKSXmlMFx9cZDViNNM9gLnFQhrnd0jujBA",
+   "revision": 43,
+   "signature": "FxV4Bade0hS8JrkCQsDyjnMUBv0hBFzhjq1i9w36gQ9EOWhuph-uz56VXk_XOIxhKLkQwDS8rJb1s_ewQ1zbCQ",
    "subject_key": "live:grateful-dead:1989-10-09:hampton-coliseum",
-   "updated_at": "2026-10-25T16:42:10.904321"
+   "updated_at": "2026-10-25T17:35:24.738363"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Feel Like a Stranger** (1 review): First set includes the version from the With Out a Net album [35]\n- **Dark Star** (1 review): Described as MIDI sound at its best [28]\n- **Dear Mr Fantasy** (1 review): Post-drums sequence into Hey Jude is noted as often overlooked [30]\n\n## The recordings\n\n- **gd1989-10-09.nak304.carpenter.89563.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 180 min; rated 4.8/5 by 10 [1]\n- **gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648**: audience recording; 24 songs; 184 min [2]\n- **gd1989-10-09.mtx.dan.26236.sbeok.shnf**: matrix (soundboard mixed with audience mics); 22 songs; 179 min; rated 4.36/5 by 11 [6]\n- **gd89-10-09.sbd.paino.2276.sbeok.shnf**: soundboard; 20 songs; 177 min; rated 4.62/5 by 8 [24]. Said about its sound: Fuller-sounding and cleaner than the other available source, though neither is crispy [34]\n- **gd89-10-09.schoeps.howland.443.sbeok.shnf**: source not stated; 20 songs; 180 min; rated 3.79/5 by 14 [26]. Said about its sound: Quality is nowhere near the SBD recording but captures crowd energy [37]\n\n## Around the show\n\n- Rumored as soon as the band was announced to perform as the Warlocks [29]\n- Biggest event in Dead land since Jerry returned from his coma [30]\n- Crowd reaction to the first notes was electric and unbelievable [31]\n- Crowd went wild and sustained roaring upon hearing the song's first notes [32]\n- Crowd energy was deafening as the song broke out for the first time in years [33]\n- Billed as Formerly The Warlocks after 1988 fan incidents banned the Dead [5]\n- Lacks early 80s Jerry licks but offers qualities missing from earlier years [28]\n- Considered one of the tightest shows of the Brent era [29]\n- Ranked number one in Deadbase for the year 1989 [36]\n\n## Tapers and lineage\n\n- **gd1989-10-09.nak304.carpenter.89563.sbeok.flac16**: taped by Ted Carpenter; transferred by Andrew F.; source: Nakamichi CM300's w/CP4 shotguns > Sony TC-D5M > Maxell MX-90's, with no Dolby. Mics on stand on the floor, near the soundboard [1]. Also: ShnID-443 patches cover second set tape flips for Dark Star and Good Lovin [1]\n- **gd1989-10-09.142510.fob.schoeps.cmc4.mk4.mattes.miller.clugston.flac1648**: taped by Ted Mattes; transferred by Scott Clugston and Charlie Miller; source: flac16/48kHz ; Source Info: Ted Mattes' Master (FOB)Audience Dat; Schoeps CMC4/MK4 mics @ 110 degrees, ORTF, Schoeps t-bar stand, shoulder height > Monster… [2]\n- **gd1989-10-09.mtx.dan.26236.sbeok.shnf**: transferred by Dan Haugh; source: SBD + AUD Matrix Mix (60%-SBD/40%-AUD) [6]. Also: Sixty percent SBD and forty percent audience mix, aligned using Cool Edit Pro [6]\n- **gd89-10-09.sbd.paino.2276.sbeok.shnf**: source: SBD> CASS(x)> DAT> CDR> EAC> SHN [24]\n- **gd89-10-09.schoeps.howland.443.sbeok.shnf**: source: Schoeps CMC421 (note change from previous mic info)> DAT > SEK'D Prodif32 > SoundForge 4.5 (Level Increase & Resample - ) > CDWav>WAV > SHN [26]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1989-10-09 Hampton Coliseum, Hampton, VA, USA - Jerry Garcia](https://jerrygarcia.com/show/1989-10-09-hampton-coliseum-hampton-va-usa/) [41]\n- Poster by Jerry Garcia: [1989-10-09 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1989-10-09-grateful-dead-backstage-pass/) [42]",

@@ -302,7 +302,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -591,107 +591,296 @@
     "setlist": [
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 29,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 28,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 30,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 41,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-08",
+        "show": "live:grateful-dead:1977-05-08:barton-hall-cornell-university"
+       },
+       "plays_before": 137,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 933,
+       "gap_shows": 95,
+       "last_played": {
+        "date": "1974-10-19",
+        "show": "live:grateful-dead:1974-10-19:winterland-arena"
+       },
+       "plays_before": 172,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 172,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 152,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 29,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 5,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 46,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 153,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 144,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 41,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-08",
+        "show": "live:grateful-dead:1977-05-08:barton-hall-cornell-university"
+       },
+       "plays_before": 20,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 244,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 294,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-08",
+        "show": "live:grateful-dead:1977-05-08:barton-hall-cornell-university"
+       },
+       "plays_before": 186,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 32,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 255,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 144,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -700,26 +889,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 606,
-     "shows_in_archive": 1855,
+     "show_number": 698,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Buffalo Memorial Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.488096+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.962922+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "nx9ZaO65_4tQNSXo-vkiijCX6WYhskD75_0D5je6pNfpRPRycechlt1O6zT2SUshR9ZWLnp_u7WW4moB3AUmDA",
+   "revision": 41,
+   "signature": "VhXfM-a0fkkdSNHR_CmsJNNFZIyAcXL4-TLripqfk7WV3mZ2UmKaq6yZY5rLEL6WreOGycZ6hMMV2co6FtT_Aw",
    "subject_key": "live:grateful-dead:1977-05-09:buffalo-memorial-auditorium",
-   "updated_at": "2026-10-25T16:41:50.489881"
+   "updated_at": "2026-10-25T17:35:14.963860"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Help On The Way** (2 reviews): The H>S>F sequence and Music Never Stopped are considered all-time great versions; The H>S>F opener is on fire, and the whole show is [8][9]\n- **Peggy-O** (1 review): Peggy-O is perfect, with a flawless mix and sound quality [17]\n- **Comes A Time** (1 review): The second set Comes A Time is described as otherworldly and a top Jerry moment [8]\n\n## The recordings\n\n- **gd77-05-09.sbd.connor.8304.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 178 min; rated 4.86/5 by 141 [1]. Said about its sound: The sound quality is in tune, with notes resonating and filling the car; The sound quality is unbeatable, despite concerns about the mixing engineer [12][18]\n- **gd1977-05-09.sbd.painoman.77462.shnf**: soundboard; 21 songs; 158 min; rated 4.9/5 by 10 [5]\n- **gd77-05-09.aud.maizner.vernon.8036.sbeok.shnf**: audience recording; 21 songs; 163 min; rated 4.56/5 by 25 [7]. Said about its sound: The audience recording quality rivals the SBD and feels like being in the crowd [16]\n- **gd1977-05-09.mtx.seamons.98168.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 177 min; rated 4.67/5 by 24 [2]\n\n## Around the show\n\n- Phil hits fine notes, and the Blind Man plays some of the best bluesy playing [12]\n- This performance might be the pinnacle of the May 1977 tour [8]\n- This show is sometimes preferred over Barton Hall for a more even performance [18]\n\n## Tapers and lineage\n\n- **gd77-05-09.sbd.connor.8304.sbeok.shnf**: source: Soundboard with patches from Audience [1]. Also: SBD source is Betty Cantor 7\" two track reel with DBX-1 at 7.5 ips [1]\n- **gd1977-05-09.sbd.painoman.77462.shnf**: transferred by Chris Paino; source: SBD>REEL>PCM>DAT>CDR [5]. Also: Clicks were removed between Slipknot, Franklin's Tower, Bertha, Good Lovin', and Ship of Fools [5]\n- **gd77-05-09.aud.maizner.vernon.8036.sbeok.shnf**: taped by Steve Maizner; source: Audience Recording: Sony ECM-33Ps [7]\n- **gd1977-05-09.mtx.seamons.98168.flac16**: source: Matrix by Hunter Seamons [2]\n\n## Art and photos\n\n- Poster by Pete Mason: [Grateful Dead May 9, 1977 show at Buffalo Memorial Auditorium stands toe to toe with Barton Hall](https://nysmusic.com/2023/05/09/grateful-deads-5-9-77-show-at-buffalo-memorial-auditorium-stands-toe-to-toe-with-barton-hall/) [21]\n- Fan art by buffalofm.wnymedia.net: [ANNIVERSARY: Grateful Dead @ Memorial Auditorium 5.9.77 | Buffalo.fm](https://buffalofm.wnymedia.net/2019/05/08/anniversary-grateful-dead-the-aud-5-9-77/) [22]\n- Fan art by Allformusic: [Écouter 1977-05-09: War Memorial Auditorium, Buffalo, NY, USA - Grateful Dead | Streaming gratuit](https://www.allformusic.fr/albums/b2a2a2f5-7974-4c67-bf21-f08c28a71eaa) [23]",

@@ -397,7 +397,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -418,8 +418,8 @@
     },
     "previous": {
      "date": "1978-11-18",
-     "show": "live:grateful-dead:1978-11-18:uptown-theatre",
-     "venue": "Uptown Theatre"
+     "show": "live:grateful-dead:1978-11-18:uptown-theater",
+     "venue": "Uptown Theater"
     },
     "recommended": {
      "identifier": "gd1978-11-20.sbd.fix.miller.95660.sbeok.flac16",
@@ -732,111 +732,291 @@
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 95,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 44,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 139,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 197,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-10-21",
+        "show": "live:grateful-dead:1978-10-21:winterland-arena"
+       },
+       "plays_before": 73,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-11-16",
+        "show": "live:grateful-dead:1978-11-16:uptown-theater"
+       },
+       "plays_before": 145,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 43,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 73,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-10-20",
+        "show": "live:grateful-dead:1978-10-20:winterland-arena"
+       },
+       "plays_before": 68,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-10-20",
+        "show": "live:grateful-dead:1978-10-20:winterland-arena"
+       },
+       "plays_before": 62,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 184,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 389,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 184,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-17",
+        "show": "live:grateful-dead:1978-11-17:rambler-room-loyola-college"
+       },
+       "plays_before": 8,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 272,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-17",
+        "show": "live:grateful-dead:1978-11-17:rambler-room-loyola-college"
+       },
+       "plays_before": 7,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:if-i-had-the-world-to-give",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1978-10-17",
+        "show": "live:grateful-dead:1978-10-17:winterland-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 5
+      },
       "title": "If I Had The World To Give"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 272,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-17",
+        "show": "live:grateful-dead:1978-11-17:rambler-room-loyola-college"
+       },
+       "plays_before": 157,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      }
     ],
@@ -844,43 +1024,92 @@
      {
       "from": "gd78-11-20.sbdpatched.knott.21727.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 99,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "from": "gd1978-11-20.s1.s2p.aud.seaweed.117661.flac1644",
       "key": "song:grateful-dead:phils-set-break-announcement",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil's set-break announcement"
      },
      {
       "from": "gd78-11-20.sbd.mcleod.301.sbeok.shnf",
       "key": "song:grateful-dead:world-to-give",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "World to Give"
      },
      {
       "from": "gd78-11-20.sbd.mcleod.301.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 213,
+       "gap_shows": 39,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 25,
+       "total_plays": 123
+      },
       "title": "Playin' in teh Band Reprise"
      },
      {
       "from": "gd78-11-20.set2-aud.sacks.302.sbefail.shnf",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 884,
+       "gap_shows": 165,
+       "last_played": {
+        "date": "1976-06-19",
+        "show": "live:grateful-dead:1976-06-19:capitol-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 36
+      },
       "title": "Playin'"
      },
      {
       "from": "gd78-11-20.set2-aud.sacks.302.sbefail.shnf",
       "key": "song:grateful-dead:shakedown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Shakedown"
      },
      {
       "from": "gd1978-11-20.148952.2nd.set.shure.sm57.sublette.miller.clugston.flac2496",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 313,
+       "gap_shows": 64,
+       "last_played": {
+        "date": "1978-01-11",
+        "show": "live:grateful-dead:1978-01-11:shrine-auditorium"
+       },
+       "plays_before": 6,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      }
     ],
@@ -888,26 +1117,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 716,
-     "shows_in_archive": 1855,
+     "show_number": 810,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cleveland Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.385828+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.720495+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "bKC5Nnu19HjwPscWcPEGTFwNEnxNOyHJe2Fsy4zUn9mTGTR0qolayUY8psq2fOCznWQlq3X2Ow3qvy9O1d7iDQ",
+   "revision": 42,
+   "signature": "9Q60VFT-aTe1Tg20Rg8DPV2whWYzvSVL4zMqsTbBWucOBdCeWjnEZfeqyqDFn0PThmaYDDZ1GPqSnmLXmnS-Cw",
    "subject_key": "live:grateful-dead:1978-11-20:cleveland-music-hall",
-   "updated_at": "2026-10-25T16:41:52.387118"
+   "updated_at": "2026-10-25T17:35:15.721422"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mississippi Half-Step Uptown Toodeloo** (1 review): Jerry's voice is described as honey on a silver spoon on this track [12]\n- **Franklin's Tower** (1 review): Bobby's guitar features a psychedelic sliding drone fest on this song [12]\n- **Looks Like Rain** (1 review): The ballads, including this track, are highlighted as excellent performances [16]\n- **Jam** (1 review): The second set opened with a Jam because Weir was not on stage [11]\n- **Jack-A-Roe** (1 review): This opening track of the second set is the reviewer's favorite version [17]\n- **Shakedown Street** (1 review): The performance is described as super chunky and funky [17]\n- **If I Had The World To Give** (1 review): This rare and gorgeous performance is a standout for the reviewer [16]\n\n## The recordings\n\n- **gd1978-11-20.sbd.fix.miller.95660.sbeok.flac16** (recommended): soundboard; 20 songs; 144 min; rated 3.47/5 by 17 [1]. Said about its sound: Quality suffers from multiple sources, but the mix is considered a fine representation; The reviewer enjoys the moments where soundboard and audience tapes bleed into each other; Too many sources prevent good sound, though the performance itself is well played [8][10][18]\n- **gd1978-11-20.sbd.miller.95244.sbeok.flac16**: soundboard; 20 songs; 151 min; rated 2.6/5 by 5 [2]\n- **gd1978-11-20.s1.s2p.aud.seaweed.117661.flac1644**: audience recording; 16 songs; 99 min [3]. Said about its sound: The audio has some hiss and is somewhat degraded in quality [3]\n- **gd1978-11-20.mtx-set2.chappell.sb16a.32489.sbeok.flac16**: matrix (soundboard mixed with audience mics); 10 songs; 65 min; rated 4.67/5 by 3 [4]\n\n## Around the show\n\n- Weir was backstage getting sick, missing the start of the second set [11]\n- The show is considered as good as any played by the band in the 1970s [13]\n\n## Tapers and lineage\n\n- **gd1978-11-20.sbd.fix.miller.95660.sbeok.flac16**: transferred by Charlie Miller; source: Source 1: SBD -> ? -> Cassette -> Sound Devices 744T -> Samplitude DSource 2: SBD -> Master Cassette -> Dat -> CD DSource 3: Nakamichi 300 -> Reels? -> Dat ->… [1]. Also: Source 2 may contain an extra cassette generation in the recording; A tape flip occurs within the recording of Looks Like Rain [1]\n- **gd1978-11-20.sbd.miller.95244.sbeok.flac16**: transferred by Charlie Miller; source: Source 1: SBD -> ? -> Cassette -> CD DSource 2: SBD -> Master Cassette -> Dat -> CD DSource 3: Nakamichi 300 -> Reels? -> Dat -> CD DSource 4: SBD -> Master… [2]. Also: Original cassette from the 80s is degrading, prompting a request for digital download; Sources 1 and 3 are derived from the file with ID 21727 [2][7]\n- **gd1978-11-20.s1.s2p.aud.seaweed.117661.flac1644**: taped by seaweed1010; transferred by AndrewF; source: Source: Unknown AUD (marked 4th gen) kindly provided by Seaweed1010. [3]. Also: Seaweed provided the unknown audience tape for Set One and start of Set Two [3]\n- **gd1978-11-20.mtx-set2.chappell.sb16a.32489.sbeok.flac16**: taped by See info file; transferred by Chris Chappell; source: See info file [4]. Also: The LlaMA pulled the SBDs, preventing access to the updated multiple source [4]",

@@ -118,7 +118,7 @@
      "id": 7,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -242,47 +242,103 @@
     "setlist": [
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-21",
+        "show": "live:grateful-dead:1990-07-21:world-music-theater"
+       },
+       "plays_before": 212,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:jerry-and-vince-talking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry And Vince Talking"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-07-23",
+        "show": "live:grateful-dead:1990-07-23:world-music-theater"
+       },
+       "plays_before": 495,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 351,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:jerry-and-vince-talking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry And Vince Talking"
      },
      {
       "key": "song:grateful-dead:jerry-and-vince-playing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry And Vince Playing"
      },
      {
       "key": "song:grateful-dead:vinces-wife-shows-up",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Vince's Wife Shows Up"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-21",
+        "show": "live:grateful-dead:1990-07-21:world-music-theater"
+       },
+       "plays_before": 265,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:vince-playing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Vince Playing"
      }
     ],
@@ -290,27 +346,33 @@
     "subject_key": "live:grateful-dead:1990-08-28:club-front",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1601,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Jerry And Vince Talking",
+      "Jerry And Vince Talking",
+      "Jerry And Vince Playing",
+      "Vince's Wife Shows Up",
+      "Vince Playing"
+     ],
+     "show_number": 1706,
+     "shows_in_archive": 2097,
      "songs": 9,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 17,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:13.067135+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.732965+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "3DduFEQ82YiRbqVyC8CaRrtneKjL0kpbgZGdUANreJiplHR5tSd8bRsu4kZ3H45-AvfEV6TETZPB9boU8ldMAg",
+   "revision": 18,
+   "signature": "e6-ZbtYHcDxMLOOwwaWi6phzRBgrbPbN28T0gTqGp7Snn-cKBCIWRQnwVHNObxUxN17XmF4rXT4tKI63WOHVAg",
    "subject_key": "live:grateful-dead:1990-08-28:club-front",
-   "updated_at": "2026-10-25T16:42:13.069826"
+   "updated_at": "2026-10-25T17:35:25.733654"
   }
  },
  "recommended": {

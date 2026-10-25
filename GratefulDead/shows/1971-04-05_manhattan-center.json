@@ -335,7 +335,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -594,129 +594,340 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1971-02-21",
+        "show": "live:grateful-dead:1971-02-21:capitol-theater"
+       },
+       "plays_before": 83,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 17,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:rub",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1971-03-18",
+        "show": "live:grateful-dead:1971-03-18:fox-theatre"
+       },
+       "plays_before": 6,
+       "total_plays": 12
+      },
       "title": "The Rub"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 13,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 12,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 98,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 11,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 123,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-03-20",
+        "show": "live:grateful-dead:1971-03-20:university-of-iowa"
+       },
+       "plays_before": 30,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1971-03-18",
+        "show": "live:grateful-dead:1971-03-18:fox-theatre"
+       },
+       "plays_before": 103,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1971-03-18",
+        "show": "live:grateful-dead:1971-03-18:fox-theatre"
+       },
+       "plays_before": 108,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 109,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 40,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 148,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-03-24",
+        "show": "live:grateful-dead:1971-03-24:winterland-arena"
+       },
+       "plays_before": 129,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1971-03-18",
+        "show": "live:grateful-dead:1971-03-18:fox-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 37,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-03-24",
+        "show": "live:grateful-dead:1971-03-24:winterland-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 12,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 4,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 72,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 28,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-04",
+        "show": "live:grateful-dead:1971-04-04:manhattan-center"
+       },
+       "plays_before": 72,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-03-20",
+        "show": "live:grateful-dead:1971-03-20:university-of-iowa"
+       },
+       "plays_before": 143,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -724,52 +935,91 @@
      {
       "from": "gd1971-04-05.sbd.cantor.gmb.96269.flac16",
       "key": "song:grateful-dead:king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-02-24",
+        "show": "live:grateful-dead:1971-02-24:capitol-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "from": "gd71-04-05.sbd.stephens.16606.sbeok.shnf",
       "key": "song:grateful-dead:not-fade-away-tease",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 712,
+       "gap_shows": 194,
+       "last_played": {
+        "date": "1969-04-23",
+        "show": "live:grateful-dead:1969-04-23:the-ark"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Not Fade Away Tease"
      },
      {
       "from": "gd71-04-05.sbd.stephens.16606.sbeok.shnf",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-02-24",
+        "show": "live:grateful-dead:1971-02-24:capitol-theater"
+       },
+       "plays_before": 35,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1971-04-05.sbd.orf.117.sbeok.shnf",
       "key": "song:grateful-dead:other-one-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 285,
+       "gap_shows": 63,
+       "last_played": {
+        "date": "1970-06-24",
+        "show": "live:grateful-dead:1970-06-24:capitol-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      }
     ],
     "subject_key": "live:grateful-dead:1971-04-05:manhattan-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 271,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Sing Me Back Home"
+     ],
+     "show_number": 333,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Manhattan Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:41.306546+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.553016+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "X-IJEstNafY4HR6mIn4lgBRHt7hSNjZNkqJDIZHfQzEWEeGgM9wtS7vw1UMjAcBdjCVL9UReogE7858yX8xRAA",
+   "revision": 41,
+   "signature": "d3WDhNjUcmapCfW59mUdoq0fTx5oRvxdUhNLp84jF5QNRpE2G2Yx69uPV-9JJhh44013fJYZ8pRMFQ6It3IDBQ",
    "subject_key": "live:grateful-dead:1971-04-05:manhattan-center",
-   "updated_at": "2026-10-25T16:41:41.309281"
+   "updated_at": "2026-10-25T17:35:11.554169"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cold Rain And Snow** (1 review): The show opens with a blazing Cold Rain and Snow [10]\n- **Big Railroad Blues** (1 review): A fan-compiled track list takes Big Railroad Blues from this 4/5/71 Manhattan Center show, mixed with other April 1971 shows [15]\n- **China Cat Sunflower** (1 review): The jam at the end of China Cat flowing into I Know You Rider makes the reviewer doubt it matches the LP [8]\n- **Not Fade Away** (1 other source): Not Fade Away and Goin' Down The Road Feelin' Bad appear on the Skull & Roses album [2]\n- **Turn On Your Lovelight** (1 review): Pigpen is in rare form on King Bee and Lovelight [10]\n\n## The recordings\n\n- **gd1971-04-05.sbd.miller.110127.flac16** (recommended): soundboard; 24 songs; 182 min; rated 5/5 by 4 [1]\n- **gd1971-04-05.sbd.cantor.gmb.96269.flac16**: soundboard; 23 songs; 174 min; rated 4.71/5 by 7 [2]\n- **gd1971-04-05.sbd.orf.117.sbeok.shnf**: soundboard; 24 songs; 168 min; rated 4.8/5 by 5 [5]\n- **gd1971-04-05.partial.aud.berger.100052.flac16**: audience recording; 16 songs; 91 min [7]. Said about its sound: Partial audience tape: most songs miss opening notes, and loud passages are severely clipped, suggesting automatic level control or a limiter [7]\n\n## Around the show\n\n- Reviewer links the show to an early-70s underground live LP, 'Ain't It Crazy', which opened with The Rub and had China Cat on side two [8]\n- Reviewer calls the second set one of the best of 1971, with standout work from Pigpen and Jerry [9]\n- Truckin' into The Other One has the intensity and color of 1969; the Dead played hard in NYC in 1970-71 [10]\n- Reviewer says this Not Fade Away is not the Skull & Roses one; both Jerry's and Bob's vocals differ [12]\n\n## Tapers and lineage\n\n- **gd1971-04-05.sbd.miller.110127.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> PCM -> Dat (44.1k) [1]\n- **gd1971-04-05.sbd.cantor.gmb.96269.flac16**: taped by Betty Cantor; transferred by Bill Koucky; source: 7\" two track reel @ 7 1/2 ips > PCM501ES (beta) PCM501ES analog out > dolby A decoder > analog in PCMF1 > analog out > Fostex D5 Dat @ 48 kHz [2]. Also: Cuts in The Other One and Lovelight remain, edited by removing tape squeeze; reel-change dropouts were crossfaded elsewhere [2]\n- **gd1971-04-05.sbd.orf.117.sbeok.shnf**: transferred by Leigh Orf [5]. Also: Source credits Leigh Orf for sharing this soundboard transfer of the April 1971 show; Leigh Orf digitally remastered the original wav files, removing a 7-8 kHz tone and smoothing reel-flip fades [5][19]\n- **gd1971-04-05.partial.aud.berger.100052.flac16**: transferred by Rob Berger; source: aud of unknown origin lineage [7]\n\n## Art and photos\n\n- Fan art by Pandora: [Not Fade Away / Goin' down the Road Feeling Bad (Live at Manhattan Center, New York, NY, April 5, 1971)](https://www.pandora.com/artist/grateful-dead/grateful-dead-skull-and-roses-live/not-fade-away-goin-down-the-road-feeling-bad-live-at-manhattan-center-new-york-ny-april-5-1971/TR3KzvJtpk4Jvg4) [21]",

@@ -202,7 +202,7 @@
      "id": 13,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -326,12 +326,20 @@
     "setlist": [
      {
       "key": "song:grateful-dead:neal-cassady-backed-by-the-dead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Neal Cassady backed by the Dead// (longer version)"
      },
      {
       "key": "song:grateful-dead:neal-cassady-backed-by-the-dead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Neal Cassady backed by the Dead// (shorter version from flexi-disc via Sorochty's cassette)"
      }
     ],
@@ -339,46 +347,66 @@
      {
       "from": "gd1967-07-23.178201.flexi-disk.pape.andrewf.flac2448",
       "key": "song:grateful-dead:flexi-disc-side-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Flexi-disc Side-1"
      },
      {
       "from": "gd1967-07-23.178201.flexi-disk.pape.andrewf.flac2448",
       "key": "song:grateful-dead:flexi-disc-side-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Flexi-disc Side-2"
      },
      {
       "from": "gd1967-07-23.sbd.bershaw-wulf.5418.shnf",
       "key": "song:grateful-dead:neal-cassady-raps",
-      "stats": {},
+      "stats": {
+       "days_since": 561,
+       "gap_shows": 41,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Neal Cassady Raps (backed by The Dead)"
      }
     ],
     "subject_key": "live:grateful-dead:1967-07-23:straight-theater-haight-street",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 38,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Neal Cassady backed by the Dead// (longer version)",
+      "Neal Cassady backed by the Dead// (shorter version from flexi-disc via Sorochty's cassette)"
+     ],
+     "show_number": 47,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Straight Theater, Haight Street"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.568001+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.317839+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "bLfLGuO3E_75-tpg36Hxpvey9NPdd2ZfO5lA8VYKlipVjIx4SuucfcfFbtFPwV8ZznM1lXzkH6DkDMpTCbuKAQ",
+   "revision": 40,
+   "signature": "epc9ky52VEZ8yx6kRol9eGnrkhaSI8OxzTNrYdV6n97ugW7g9QqNKp43SAhDmsrWRJSSbNUTOFXAh021nHCuDQ",
    "subject_key": "live:grateful-dead:1967-07-23:straight-theater-haight-street",
-   "updated_at": "2026-10-25T16:41:38.568971"
+   "updated_at": "2026-10-25T17:35:09.318420"
   }
  },
  "recommended": {

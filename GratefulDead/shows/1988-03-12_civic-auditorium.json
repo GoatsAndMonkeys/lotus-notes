@@ -104,7 +104,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -120,13 +120,13 @@
     "guests": [],
     "next": {
      "date": "1988-03-16",
-     "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-auditorium",
-     "venue": "Henry J. Kaiser Auditorium"
+     "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center",
+     "venue": "Henry J Kaiser Convention Center"
     },
     "previous": {
      "date": "1988-02-17",
-     "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-auditorium",
-     "venue": "Henry J. Kaiser Auditorium"
+     "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-convention-center",
+     "venue": "Henry J. Kaiser Convention Center"
     },
     "recommended": {
      "identifier": "gd1988-03-12.138189.bammies.fm.flac1644",
@@ -198,52 +198,102 @@
     "setlist": [
      {
       "key": "song:grateful-dead:best-bassist-award-phil-lesh",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Best Bassist Award - Phil Lesh"
      },
      {
       "key": "song:grateful-dead:best-album-award-in-the-dark",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Best Album Award - In the Dark"
      },
      {
       "key": "song:grateful-dead:best-drummer-award-mickey-hart-and-bill-kreutzmann",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Best Drummer Award - Mickey Hart & Bill Kreutzmann"
      },
      {
       "key": "song:grateful-dead:best-guitarist-award-jerry-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Best Guitarist Award - Jerry Garcia"
      },
      {
       "key": "song:grateful-dead:musician-of-the-year-award-jerry-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Musician of the Year Award - Jerry Garcia"
      },
      {
       "key": "song:grateful-dead:mickey-hart-and-friends-jam-session",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Mickey Hart & Friends Jam Session"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 203,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1987-08-22",
+        "show": "live:grateful-dead:1987-08-22:calaveras-co-fairgrounds"
+       },
+       "plays_before": 56,
+       "total_plays": 64
+      },
       "title": "Good Morning Little Schoolgirl (1)"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-02-14",
+        "show": "live:grateful-dead:1988-02-14:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 215,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight (1)"
      },
      {
       "key": "song:grateful-dead:announcers-and-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "announcers & tuning"
      },
      {
       "key": "song:grateful-dead:long-tall-sally",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Long Tall Sally (2)"
      }
     ],
@@ -251,27 +301,36 @@
     "subject_key": "live:grateful-dead:1988-03-12:civic-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1403,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Best Bassist Award - Phil Lesh",
+      "Best Album Award - In the Dark",
+      "Best Drummer Award - Mickey Hart & Bill Kreutzmann",
+      "Best Guitarist Award - Jerry Garcia",
+      "Musician of the Year Award - Jerry Garcia",
+      "Mickey Hart & Friends Jam Session",
+      "announcers & tuning",
+      "Long Tall Sally (2)"
+     ],
+     "show_number": 1507,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Civic Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.806451+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.297377+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "PfIeI6eMAlXUF76fM5Veq55nmcjm6V2DStLWkEZzLe5ILfVqdrfITVOleP1DXLfBopl9gSMh84sUOTZupjcxBg",
+   "revision": 40,
+   "signature": "FEd3XAEWXyCwwOmV7IdWIcBkDyOeM0CpXVEt_YhZWxXW0L8EBPsDqt9wB8fFg0f8ZVAFd0EfyWl8l2-l_MgBAA",
    "subject_key": "live:grateful-dead:1988-03-12:civic-auditorium",
-   "updated_at": "2026-10-25T16:42:05.807290"
+   "updated_at": "2026-10-25T17:35:23.297940"
   }
  },
  "recommended": {

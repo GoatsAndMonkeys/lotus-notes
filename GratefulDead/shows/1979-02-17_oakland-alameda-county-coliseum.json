@@ -481,7 +481,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -497,8 +497,8 @@
     "guests": [],
     "next": {
      "date": "1979-04-16",
-     "show": "live:grateful-dead:1979-04-16:unknown-studio",
-     "venue": "Unknown studio"
+     "show": "live:grateful-dead:1979-04-16:studio-rehersal-club-front",
+     "venue": "Studio Rehersal, Club Front"
     },
     "previous": {
      "date": "1979-02-11",
@@ -905,143 +905,380 @@
     "setlist": [
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1583,
+       "gap_shows": 244,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 105,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 63,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 152,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 210,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 127,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 56,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 632,
+       "gap_shows": 136,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 70,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 160,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 16,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 77,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 71,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 26,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 32,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 212,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 221,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 26,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1582,
+       "gap_shows": 243,
+       "last_played": {
+        "date": "1974-10-19",
+        "show": "live:grateful-dead:1974-10-19:winterland-arena"
+       },
+       "plays_before": 88,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 61,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 285,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 423,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 104,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 379,
+       "gap_shows": 90,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 32,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 21,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 285,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 301,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 164,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1049,196 +1286,328 @@
      {
       "from": "gd1979-02-17.145263.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 192,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1979-02-17.145263.sbd.troy.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1978-12-21",
+        "show": "live:grateful-dead:1978-12-21:the-summit"
+       },
+       "plays_before": 27,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      },
      {
       "from": "gd1979-02-17.fob.menke.motb-0110.105240.flac16",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1701,
+       "gap_shows": 267,
+       "last_played": {
+        "date": "1974-06-22",
+        "show": "live:grateful-dead:1974-06-22:jai-alai-fronton"
+       },
+       "plays_before": 8,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t01-gset",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t01 GSET"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t02-dont-ease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t02 Don't Ease"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t03-mama-tried-mexicali",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t03 Mama Tried Mexicali"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t04-fotd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t04 FOTD"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t05-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t05 Passenger"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t06-high-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t06 High Time"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t07-llr",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t07 LLR"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t08-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t08 Jack-A-Roe"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s1t09-ll-supplication",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s1t09 LL Supplication"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t01-might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t01 Might As Well"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t02-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t02 Miracle"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t03-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t03 Bertha"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t04-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t04 Good Lovin'"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t05-heart-of-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t05 Heart Of Me"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t06-big-rr-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t06 Big RR Blues"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t07-terrapin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t07 Terrapin"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t08-playing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t08 Playin'"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t09-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t09 Drums"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t10-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t10 Space"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t11-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t11 Wheel"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t12-shakedown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t12 Shakedown"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t13-playing-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t13 Playin' Reprise"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t14-sugar-mag",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t14 Sugar Mag"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t15-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t15 Encore Break"
      },
      {
       "from": "gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd79-02-17-s2t16-e-omsn",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd79-02-17 s2t16 E OMSN"
      }
     ],
     "subject_key": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Greatest Story Ever Told",
+      "High Time",
+      "Big Railroad Blues"
+     ],
      "first_in_archive": [],
-     "show_number": 750,
-     "shows_in_archive": 1855,
+     "show_number": 846,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland-Alameda County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 25,
+   "parent_revision": 37,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.639176+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.914733+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 26,
-   "signature": "PVi7pOiP8ydfBHyeplpEv-BaA1uxVVeHQ8DekzqCzkpgk1lNCLZTUWP275uI_GOToCNMekeDQEDkEE_1DEaBCw",
+   "revision": 38,
+   "signature": "AsRypeCcvjaiCWar8cUMDIh51VBW95vsy2eA4nx6z1rEciquU4X-aWEJdagxu0OtRrVhSOYnilri9sISjXwNAg",
    "subject_key": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum",
-   "updated_at": "2026-10-25T16:41:52.640639"
+   "updated_at": "2026-10-25T17:35:15.915852"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Greatest Story Ever Told** (3 reviews): Jerry's solo on this song is described as very hot; Set one took off immediately with high energy and upbeat songs [16][23][24]\n- **Looks Like Rain** (1 review): Source notes the track fades out early, before its climax [19]\n- **Supplication** (1 review): Reviewer finds this performance exceptionally inventive and well-woven [19]\n- **Shakedown Street** (1 review): Reviewer highlights the fun speed-up in this track [16]\n\n## The recordings\n\n- **gd1979-02-17.sbd.scotton-miller.88123.flac16** (recommended): soundboard; 26 songs; 180 min; rated 4.58/5 by 12 [1]\n- **gd1979-02-17.145263.sbd.troy.smith.miller.clugston.flac2496**: soundboard; 27 songs; 185 min; rated 4/5 by 1 [2]\n- **gd79-02-17.sbd.kempka.313.sbefail.shnf**: soundboard; 26 songs; 165 min; rated 3.4/5 by 45 [8]. Said about its sound: Recording is not a reel master; multiple cassette generations are present; Band plays very fast with high energy, though quality needs upgrading [20]\n- **gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496**: soundboard; 25 songs; 182 min; rated 4/5 by 1 [11]\n\n## Around the show\n\n- Marked on calendars as Keith and Donna's final performance together [15]\n- Jane Fonda showed a film before the band began playing [17]\n- Heavy rain outside caused water inside and steam-like fog as temps rose [18]\n- Hanoi Jane and Tom Hayden attended to promote their environmental cause [18]\n- Jane Fonda and Tom Hayden hosted, showing 'Fun with Dick and Jane' [23]\n- Keith and Donna's final show saw the band going off uniquely [25]\n- Keith and Donna's final show, a Rock For Life benefit [2]\n- Keith and Donna's last show, a Rock for Life benefit [7]\n- Reviewer calls the first set one of the best they have heard [15]\n- First set is strong, but the second set sounds disjointed and tired [22]\n- First set is considered better than the second set overall [24]\n\n## Tapers and lineage\n\n- **gd1979-02-17.sbd.scotton-miller.88123.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> ? -> Dat -> CD [1]. Also: Discs labeled Master Reel, but uploader strongly doubts this claim; Set 2 disc change is seamless in this recording [1]\n- **gd1979-02-17.145263.sbd.troy.smith.miller.clugston.flac2496**: taped by Sandy Troy; transferred by Matt Smith, Scott Clugston, Charlie Miller; source: Master Soundboard Cassettes > 1st generation reels > Sandy Troy's 2nd generation reels @ 3.75 ips [2]. Also: Two sets of soundboard masters were used to complete this recording [2]\n- **gd79-02-17.sbd.kempka.313.sbefail.shnf**: transferred by Jeff Kempka; source: Soundboard [8]\n- **gd1979-02-17.166987.sbd.smith.miller.clugston.flac2496**: taped by Unknown; transferred by Matt Smith;Scott Clugston, Charlie Miller; source: Soundboard Reels @ 3.75 ips (Maxell) of unknown provenance (eBay tape liberation) [11]. Also: Soundboard source patches gaps in Looks Like Rain, Terrapin, and Jam [11]",

@@ -769,7 +769,7 @@
      "id": 38,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1245,7 +1245,7 @@
       ],
       "identifier": "gd1990-03-28.132758.hillwig-stubbe.mattes.miller.flac16",
       "incomplete_songs": 0,
-      "lineage": "Dat (Sony R500) -> SEK'D Prodif Plus ->Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28381 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track, tag, encode/ali",
+      "lineage": "Dat (Sony R500) -> SEK'D Prodif Plus ->Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28381 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track, tag, encode/align to FLAC",
       "lossless": true,
       "rank": 15,
       "rating": null,
@@ -1569,112 +1569,293 @@
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 211,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 376,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 474,
+       "gap_shows": 97,
+       "last_played": {
+        "date": "1988-12-09",
+        "show": "live:grateful-dead:1988-12-09:long-beach-arena"
+       },
+       "plays_before": 110,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 57,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 36,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:cassidy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 289,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 386,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 39,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 379,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 213,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 6809,
+       "gap_shows": 1318,
+       "last_played": {
+        "date": "1971-08-06",
+        "show": "live:grateful-dead:1971-08-06:hollywood-palladium"
+       },
+       "plays_before": 12,
+       "total_plays": 54
+      },
       "title": "The Weight"
      },
      {
       "key": "song:grateful-dead:hey-pocky-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 27
+      },
       "title": "Hey Pocky Way"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 1222,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 1222,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 882,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 513,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 346,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 401,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:revolution",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 11,
+       "total_plays": 12
+      },
       "title": "Revolution"
      }
     ],
@@ -1682,82 +1863,161 @@
      {
       "from": "gd1990-03-28.aud.andrewf.87701.sbeok.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 326,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1990-03-28.aud.andrewf.87701.sbeok.flac16",
       "key": "song:grateful-dead:o1-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 719,
+       "gap_shows": 155,
+       "last_played": {
+        "date": "1988-04-08",
+        "show": "live:grateful-dead:1988-04-08:the-centrum"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "O1 Jam"
      },
      {
       "from": "gd1990-03-28.Senn441.Fitzy.Keo.126838.Flac1644",
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 26,
+       "total_plays": 42
+      },
       "title": "Deal, set Break"
      },
      {
       "from": "gd1990-03-28.Senn441.Fitzy.Keo.126838.Flac1644",
       "key": "song:grateful-dead:encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 14,
+       "total_plays": 32
+      },
       "title": "Encore Break (Added From Set 1 Tape)"
      },
      {
       "from": "gd1990-03-28.mtx.dts.haugh.95825.flac16",
       "key": "song:grateful-dead:queen-jane",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 57
+      },
       "title": "Queen Jane"
      },
      {
       "from": "gd1990-03-28.mtx.dts.haugh.95825.flac16",
       "key": "song:grateful-dead:16-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "16] Deal"
      },
      {
       "from": "gd1990-03-28.sbd.nawrocki.3872.sbeok.shnf",
       "key": "song:grateful-dead:minglewood",
-      "stats": {},
+      "stats": {
+       "days_since": 222,
+       "gap_shows": 42,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 27,
+       "total_plays": 34
+      },
       "title": "Minglewood"
      },
      {
       "from": "gd1990-03-28.sbd.nawrocki.3872.sbeok.shnf",
       "key": "song:grateful-dead:queen-jane-app",
-      "stats": {},
+      "stats": {
+       "days_since": 269,
+       "gap_shows": 58,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Queen Jane App"
      },
      {
       "from": "gd1990-03-28.sbd.nawrocki.3872.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 114,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-28:nassau-coliseum",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "The Weight"
+     ],
      "first_in_archive": [],
-     "show_number": 1573,
-     "shows_in_archive": 1855,
+     "show_number": 1678,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.835584+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.305437+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "lRrYuZtOD9UF96lw_J46jymtHDEVwYC0hUZdWSXAFLBVEq4PfPWud7ureSS4-RmtN4fmVkfid2-jT3UF0mDYBQ",
+   "revision": 31,
+   "signature": "yDzv_EbWYgcJ4meEV4-xWzXlV2el26_KIBJ1I1_oPcVbzfGAxMNjT_zgIlZkC_J_Ag-1lQy4Tl0XrYLxndaUDQ",
    "subject_key": "live:grateful-dead:1990-03-28:nassau-coliseum",
-   "updated_at": "2026-10-25T16:42:11.838210"
+   "updated_at": "2026-10-25T17:35:25.307234"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **High Time** (2 reviews): Garcia went right for it head first on this song; High Time hadn't been played in about 15 months [27][28]\n- **Revolution** (2 reviews): Revolution was the last time played; Final Revolution from this show [28][35]\n- **Deal** (1 review): Vocals at the end of Deal are sick, never heard before [32]\n- **Foolish Heart** (1 review): Foolish Heart is of the charts [29]\n- **The Weight** (1 review): The Weight was the first performance ever [28]\n\n## The recordings\n\n- **gd1990-03-28.nak300.mandel.91202.sbeok.shnf** (recommended): source not stated; 20 songs; 145 min [1]\n- **gd1990-03-28.aud.andrewf.87701.sbeok.flac16**: audience recording; 21 songs; 147 min; rated 4/5 by 1 [2]. Said about its sound: Level adjustments and minor vocals distortion during Cold Rain & Snow [2]\n- **gd1990-03-28.Senn441.Fitzy.Keo.126838.Flac1644**: audience recording; 20 songs; 145 min [3]\n- **gd1990-03-28.158167.UltraMatrix.sbd.cm.miller.t.flac1644**: soundboard; 19 songs; 150 min [6]\n- **gd90-03-28.sbd.gorinsky.8510.sbeok.shnf**: soundboard; 19 songs; 139 min; rated 4.46/5 by 25 [17]. Said about its sound: Good recording quality, though some hiss is present; No matrix or 24-track SBD source from this tour rated less than 5 [27][30]\n\n## Around the show\n\n- Brent leaned back, microphone didn't catch the end of a word [31]\n- Brent says Fuck Everyone on the final verse of The Weight [32]\n- Crowd reaction to the first Weight performance is insanity [35]\n- Crowd reaction to the weight is killer [36]\n\n## Tapers and lineage\n\n- **gd1990-03-28.nak300.mandel.91202.sbeok.shnf**: taped by Brian Mandel; transferred by Brian Mandel; source: Nakamichi 300 Shotguns CP4's & Sony TCD5M [1]\n- **gd1990-03-28.aud.andrewf.87701.sbeok.flac16**: taped by Andrew F; transferred by Andrew F; source: AUD (Changed mics between sets). Set One: Nakamichi CM-300's with CP-4 shotguns. Set Two: Sennheiser MD-441's. Mics > Sony TC-D5M > Maxell MX 90/100 tape, with… [2]. Also: Plugged deck into unused 441s during intermission [2]\n- **gd1990-03-28.Senn441.Fitzy.Keo.126838.Flac1644**: taped by Fitzy; transferred by Keo; source: Master Audience Recorded By Fitzy, Transfer By Keo; Sennheiser 441s > Sony TC-D5M, Tapes Maxell MX-90s; Transfer With Nakamichi MR-1 > Korg MR-1000 @ 1 Bit/5.6… [3]. Also: Recorded by Fitzy, shared from his collection of masters [3]\n- **gd1990-03-28.158167.UltraMatrix.sbd.cm.miller.t.flac1644**: taped by Recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  August 30, 2022; source: Ultramatrix SBD > Cassette Master (TDK MA-X90) [6]. Also: Patch source recorded by John Cutler, supplied by Steve Marcus [6]\n- **gd90-03-28.sbd.gorinsky.8510.sbeok.shnf**: source: 24 track SBD MR>Healy 2 track Mixdown>C>DAT>CDR>WAV>SHN [17]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1990-03-28 Nassau Coliseum, Uniondale, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1990-03-28-nassau-coliseum-uniondale-ny-usa/) [39]",
@@ -5599,7 +5859,7 @@
     ],
     "identifier": "gd1990-03-28.132758.hillwig-stubbe.mattes.miller.flac16",
     "incomplete_songs": 0,
-    "lineage": "Dat (Sony R500) -> SEK'D Prodif Plus ->Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28381 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track, tag, encode/ali",
+    "lineage": "Dat (Sony R500) -> SEK'D Prodif Plus ->Samplitude v7.02 Professional -> SHN(3 Discs Audio / 2 Discs SHN)Recorded By Ted MattesTransferred By Charlie an archive.org user2/25/05***fix of SHNID 28381 due to an inverted left channel likely due to a faulty xlr cable in the recording gear chain.Craig Hillwig used xACT 2.35 and Audacity to decode, join files and invert the left channel in a 32 bit float.Lenny Stubbe used Sound Studio 3.6 and xACT 2.35 to add gain, track, tag, encode/align to FLAC",
     "lossless": true,
     "rank": 15,
     "rating": null,
@@ -5622,15 +5882,15 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "recording",
-   "parent_revision": 2,
+   "parent_revision": 6,
    "provenance": {
-    "generated_at": "2026-10-25T16:42:11.857339+00:00",
+    "generated_at": "2026-10-25T17:14:57.590952+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 3,
-   "signature": "NohZseYzj8DFIUevKg-I9WrV3cNnqVYXicz4o_B8mX1ak8RdfnhblWNGAnLeT3X9smmGRz1MmcuFX0aQZtmlAA",
+   "revision": 7,
+   "signature": "XW9veQTYkTp6rMB9CohyhN4bRbjlaIDcNQUJ4RXdqNDhi8svRF_uFPAPNlBz322vlif9GZMyiGMsbP5k1nC0CA",
    "subject_key": "ia:gd1990-03-28.132758.hillwig-stubbe.mattes.miller.flac16",
-   "updated_at": "2026-10-25T16:42:11.858975"
+   "updated_at": "2026-10-25T17:14:57.591382"
   },
   {
    "body_md": "Source not stated; 19 songs; 152 min; taped by M.Laurentus; transferred by M.Laurentus. [1]",

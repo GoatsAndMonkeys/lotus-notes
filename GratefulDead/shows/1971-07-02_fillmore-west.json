@@ -364,7 +364,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -485,8 +485,8 @@
     },
     "previous": {
      "date": "1971-06-21",
-     "show": "live:grateful-dead:1971-06-21:chateau-dherouville",
-     "venue": "Chateau d'Herouville"
+     "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie",
+     "venue": "Chateau d'HerouvilIe"
     },
     "recommended": {
      "identifier": "gd1971-07-02.sbd.unknown.18289.flac16",
@@ -738,164 +738,433 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 31,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 36,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 53,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 116,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 121,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 33,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 33,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:rub",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-05-30",
+        "show": "live:grateful-dead:1971-05-30:winterland-arena"
+       },
+       "plays_before": 10,
+       "total_plays": 12
+      },
       "title": "The Rub"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 137,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 76,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1971-04-17",
+        "show": "live:grateful-dead:1971-04-17:dillon-gym-princeton-university"
+       },
+       "plays_before": 14,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 105,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 17,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 3,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-05-30",
+        "show": "live:grateful-dead:1971-05-30:winterland-arena"
+       },
+       "plays_before": 110,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 58,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 12,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 82,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 113,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopement"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 166,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1971-04-05",
+        "show": "live:grateful-dead:1971-04-05:manhattan-center"
+       },
+       "plays_before": 5,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:space-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 136,
+       "total_plays": 601
+      },
       "title": "The Other one"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 71,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 136,
+       "total_plays": 601
+      },
       "title": "the Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cryptical Jam"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 39,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 130,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-05-29",
+        "show": "live:grateful-dead:1971-05-29:winterland-arena"
+       },
+       "plays_before": 85,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-05-29",
+        "show": "live:grateful-dead:1971-05-29:winterland-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-05-29",
+        "show": "live:grateful-dead:1971-05-29:winterland-arena"
+       },
+       "plays_before": 85,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 27,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -903,112 +1172,201 @@
      {
       "from": "gd1971-07-02.136638.pre-fm-GEMS.flac16",
       "key": "song:grateful-dead:dj-talk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "DJ talk"
      },
      {
       "from": "gd1971-07-02.136638.pre-fm-GEMS.flac16",
       "key": "song:grateful-dead:uncle-bobo-intro-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle Bobo intro - Bertha"
      },
      {
       "from": "gd1971-07-02.136638.pre-fm-GEMS.flac16",
       "key": "song:grateful-dead:crowd-radio-spots",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd / Radio Spots"
      },
      {
       "from": "gd71-07-02.sbd.backus.11798.sbeok.shnf",
       "key": "song:grateful-dead:cryptical-envelopment-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 390,
+       "gap_shows": 88,
+       "last_played": {
+        "date": "1970-06-07",
+        "show": "live:grateful-dead:1970-06-07:fillmore-west"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "cryptical envelopment reprise"
      },
      {
       "from": "gd1971-07-02.sbd.clevenger.lai.fix-128.6193.sbefail.shnf",
       "key": "song:grateful-dead:station-id-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "station ID and tuning"
      },
      {
       "from": "gd1971-07-02.sbd.clevenger.lai.fix-128.6193.sbefail.shnf",
       "key": "song:grateful-dead:cryptical-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 404,
+       "gap_shows": 92,
+       "last_played": {
+        "date": "1970-05-24",
+        "show": "live:grateful-dead:1970-05-24:newcastle-under-lyme"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "Cryptical Reprise"
      },
      {
       "from": "gd1971-07-02.sbd.clevenger.lai.fix-128.6193.sbefail.shnf",
       "key": "song:grateful-dead:not-fade-away-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 128,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1971-02-24",
+        "show": "live:grateful-dead:1971-02-24:capitol-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 18
+      },
       "title": "Not Fade Away reprise"
      },
      {
       "from": "gd1971-07-02.prefm.cribbs.33659.flac16",
       "key": "song:grateful-dead:radio-spots",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio Spots"
      },
      {
       "from": "gd1971-07-02.179433.sbd.vault.latvala.martin.smith.miller.fixed.flac1644",
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1971-04-18",
+        "show": "live:grateful-dead:1971-04-18:lusk-field-house-s-u-c-n-y"
+       },
+       "plays_before": 8,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "from": "gd1971-07-02.179433.sbd.vault.latvala.martin.smith.miller.fixed.flac1644",
       "key": "song:grateful-dead:rock-me-baby",
-      "stats": {},
+      "stats": {
+       "days_since": 183,
+       "gap_shows": 39,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Rock Me Baby"
      },
      {
       "from": "gd1971-07-02.179433.sbd.vault.latvala.martin.smith.miller.fixed.flac1644",
       "key": "song:grateful-dead:carousel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Carousel"
      },
      {
       "from": "gd1971-07-02.179433.sbd.vault.latvala.martin.smith.miller.fixed.flac1644",
       "key": "song:grateful-dead:letter-to-mother",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Letter to Mother"
      },
      {
       "from": "gd1971-07-02.179433.sbd.vault.latvala.martin.smith.miller.fixed.flac1644",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-06-21",
+        "show": "live:grateful-dead:1971-06-21:chateau-dherouvilie"
+       },
+       "plays_before": 59,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "from": "gd1971-07-02.118485.pre-FMwithFMdedication.flac16",
       "key": "song:grateful-dead:dedication-of",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dedication of"
      }
     ],
     "subject_key": "live:grateful-dead:1971-07-02:fillmore-west",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 291,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Space Jam",
+      "Cryptical Jam"
+     ],
+     "show_number": 355,
+     "shows_in_archive": 2097,
      "songs": 31,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore West"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:42.495795+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.781623+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "R_Bn_dq9e_EkhapUNkArwPEOgtEuv0ezztMjln4r2dI1FMrb7-jR-ugu7CL4YS4C4F0i-JND4NLn9E88dRf2Bg",
+   "revision": 42,
+   "signature": "ybihVHbwIsHPd9OUDr7JRyuQeMjAi6jULUzPwLY72F84ZSyS5b5z4y6Qc-wTDcE9oeh5PF0xKLhYUzsFj2yzDg",
    "subject_key": "live:grateful-dead:1971-07-02:fillmore-west",
-   "updated_at": "2026-10-25T16:41:42.497405"
+   "updated_at": "2026-10-25T17:35:11.783586"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Good Lovin'** (2 reviews): Runs about 18 minutes; reviewer ranks this first-set closer among their top five versions ever; Pigpen takes over for about seven minutes before the band returns to the Good Lovin' theme [9][10]\n- **The Other one** (1 review, 1 other source): Fast and furious, at times sounding like the 1969 Dead; 'That's It For The Other One' was dedicated to Owsley [2][12]\n- **Johnny B. Goode** (2 reviews): Considered one of the very best versions of the song; Jerry introduces it as the one it's all about, then the band burns through it [15][17]\n- **Playin' In The Band** (1 review): Bob couldn't get out the first couple lines, excused by the band's high energy [17]\n- **Loser** (1 review): Described as having found its groove, a real highlight [12]\n- **Hard To Handle** (1 review): Reviewer says it may be rivaled only by the 4/29 version [12]\n- **Cryptical Envelopement** (1 review): The roughly 20-minute Cryptical, Drums, Other One sequence is called among the most inspired played in 1971 [9]\n- **That's It For The Other One** (1 review): Reviewer calls it one of the best and most unusual versions, sounding as if played inside-out [15]\n\n## The recordings\n\n- **gd1971-07-02.sbd.unknown.18289.flac16** (recommended): pre-FM broadcast master; 31 songs; 204 min; rated 3.2/5 by 5 [1]\n- **gd1971-07-02.136638.pre-fm-GEMS.flac16**: pre-FM broadcast master; 28 songs; 197 min; rated 5/5 by 1 [2]\n- **gd71-07-02.sbd.backus.11798.sbeok.shnf**: soundboard; 27 songs; 180 min; rated 4.27/5 by 30 [3]. Said about its sound: Sounds much better than earlier tapes; a disc jockey's station IDs are audible about every 30 minutes; Reviewer thinks the band doesn't really get in tune until The Rub [11][15]\n- **gd1971-07-02.sbd.clevenger.lai.fix-128.6193.sbefail.shnf**: soundboard; 28 songs; 174 min; rated 4.25/5 by 4 [4]\n\n## Around the show\n\n- Reviewer recalls the NRPS show was also broadcast [19]\n- This version includes an added introduction by Bill Graham [20]\n- Thread says the show closed the Fillmore West, with Pigpen in rare form [23]\n- Reviewer calls the Good Lovin' and Cryptical>Drums>Other One among the most inspired versions of all 1971 [9]\n- The opening of this Good Lovin' is likened to the 5-6-70 MIT version [10]\n- Playing is a bit unfocused at times; reviewer doesn't rank it among the year's best shows [11]\n\n## Tapers and lineage\n\n- **gd1971-07-02.sbd.unknown.18289.flac16**: transferred by Unknown; source: Master Reel (Pre-FM) > PCM > DAT [1]\n- **gd1971-07-02.136638.pre-fm-GEMS.flac16**: taped by PO and Stucco TINA Holmes; transferred by Jamie Waddell; source: Pre Broadcast Recording > PCM copy; Sony L-750ESX-HFB Dynamicron SUPER HIFI VIDEO CASSETTE-> Sony SLO-1800 STEREO VIDEOCASSETTE RECORDER-> Sony PCM-601ESD… [2]. Also: Source is a pre-FM transfer of the lost Fillmore West broadcast on KSAN and KSFX San Francisco [2]\n- **gd71-07-02.sbd.backus.11798.sbeok.shnf**: transferred by Mike Lai and Dave Backus; source: Soundboard (suspected FM) [3]. Also: Reviewer heard the FM broadcast live on KMET in Los Angeles, which hyped it all week [19]\n- **gd1971-07-02.sbd.clevenger.lai.fix-128.6193.sbefail.shnf**: source: sbd [4]\n\n## Art and photos\n\n- Photo by Small Fish (All rights reserved): [Grateful Dead / Fillmore West / July 2, 1971](https://www.flickr.com/photos/201317300@N04/55560389799/) [27]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/201317300@N04/55560389799/) [28]",

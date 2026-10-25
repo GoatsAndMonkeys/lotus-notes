@@ -340,7 +340,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -356,13 +356,13 @@
     "guests": [],
     "next": {
      "date": "1975-03-26",
-     "show": "live:grateful-dead:1975-03-26:aces",
-     "venue": "Ace's"
+     "show": "live:grateful-dead:1975-03-26:aces-studio",
+     "venue": "Ace's Studio"
     },
     "previous": {
-     "date": "1975-03-17",
-     "show": "live:grateful-dead:1975-03-17:aces",
-     "venue": "Ace's"
+     "date": "1975-03-21",
+     "show": "live:grateful-dead:1975-03-21:aces-studio",
+     "venue": "Ace's studio"
     },
     "recommended": {
      "identifier": "gd1975-03-23.sbd.snack.18525.flac16",
@@ -614,69 +614,146 @@
     "setlist": [
      {
       "key": "song:grateful-dead:interview-with-jerry-garcia-by-james-cameron",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Interview With Jerry Garcia by James Cameron"
      },
      {
       "key": "song:grateful-dead:intro-by-bill-graham",
-      "stats": {},
+      "stats": {
+       "days_since": 603,
+       "gap_shows": 91,
+       "last_played": {
+        "date": "1973-07-28",
+        "show": "live:grateful-dead:1973-07-28:grand-prix-racecourse"
+       },
+       "plays_before": 3,
+       "total_plays": 6
+      },
       "title": "Intro By Bill Graham"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-03-21",
+        "show": "live:grateful-dead:1975-03-21:aces-studio"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "Blues For Allah (sans vocals)"
      },
      {
       "key": "song:grateful-dead:milking-the-turkey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Milking The Turkey"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 154,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 246,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:milking-the-turkey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Milking The Turkey"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-intro-like-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blues For Allah Intro Theme Jam"
      },
      {
       "key": "song:grateful-dead:crowd-and-dj-talk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd & DJ Talk"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 154,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 93,
+       "total_plays": 290
+      },
       "title": "Johnyy B Goode"
      },
      {
       "key": "song:grateful-dead:milking-the-turkey-blues-for-allah-slipnot-theme-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Milking The Turkey/Blues For Allah/Slipnot Theme/Jam"
      },
      {
       "key": "song:grateful-dead:king-solomons-marbles-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "King Solomon's Marbles Jam (2)"
      },
      {
       "key": "song:grateful-dead:milking-the-turkey-theme-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Milking The Turkey Theme Jam"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-intro-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues For Allah Intro Jam"
      }
     ],
@@ -684,76 +761,133 @@
      {
       "from": "gd1975-03-23.fm.lee-smith.94026.sbeok.flac16",
       "key": "song:grateful-dead:bill-graham-band-intros",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bill Graham band intros //"
      },
      {
       "from": "gd1975-03-23.fm.lee-smith.94026.sbeok.flac16",
       "key": "song:grateful-dead:stronger-than-dirt",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-03-21",
+        "show": "live:grateful-dead:1975-03-21:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 10
+      },
       "title": "Stronger than Dirt"
      },
      {
       "from": "gd1975-03-23.fm.lee-smith.94026.sbeok.flac16",
       "key": "song:grateful-dead:radio-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio Banter //"
      },
      {
       "from": "gd1975-03-23.fm.lee-smith.94026.sbeok.flac16",
       "key": "song:grateful-dead:johnny-be-good",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Johnny Be Good"
      },
      {
       "from": "gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf",
       "key": "song:grateful-dead:radio-announcers",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1204,
+       "gap_shows": 219,
+       "last_played": {
+        "date": "1971-12-05",
+        "show": "live:grateful-dead:1971-12-05:felt-forum-madison-square-garden"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "Radio Announcer"
      },
      {
       "from": "gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf",
       "key": "song:grateful-dead:radio-announcements",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Radio Announcements"
      },
      {
       "from": "gd1975-03-23.sbd.miller.110126.flac16",
       "key": "song:grateful-dead:stronger-than-dirt-or-milking-the-turkey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Stronger Than Dirt Or Milkin' The Turkey"
      },
      {
       "from": "gd1975-03-23.fm.unknown.32299.shnf",
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 154,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 135,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      }
     ],
     "subject_key": "live:grateful-dead:1975-03-23:kezar-stadium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 526,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Interview With Jerry Garcia by James Cameron",
+      "Milking The Turkey",
+      "Milking The Turkey",
+      "Blues For Allah Intro Theme Jam",
+      "Crowd & DJ Talk",
+      "Milking The Turkey/Blues For Allah/Slipnot Theme/Jam",
+      "Milking The Turkey Theme Jam",
+      "Blues For Allah Intro Jam"
+     ],
+     "show_number": 611,
+     "shows_in_archive": 2097,
      "songs": 13,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Kezar Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.539788+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.414623+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "wFHZNDEf1n8mnrloN9VkXwr2FPiOOR7du0Mly8vwC88wlDR4sbYi19ux_KBDjixAXfA7bojhvSysgS1ghkhVAg",
+   "revision": 42,
+   "signature": "LFj6obTfRUHGG5fbVPtnMvSSzSV6URjNlvZn9z8CfFuAJQjwTLZVgNujGjN4V6G4EV_DcQz7Ycoi-Cspq9vlAA",
    "subject_key": "live:grateful-dead:1975-03-23:kezar-stadium",
-   "updated_at": "2026-10-25T16:41:48.541602"
+   "updated_at": "2026-10-25T17:35:14.415590"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Blues For Allah (sans vocals)** (2 reviews): Merl Saunders' keyboard work elevates Garcia's playing during these jazzy jams; Keith's keyboard work was exceptional, avoiding repetitive six or seven note patterns [16][18]\n- **Stronger than Dirt** (1 review): The sequence featuring drums and Stronger Than Dirt is outstanding with significant power [17]\n\n## The recordings\n\n- **gd1975-03-23.sbd.snack.18525.flac16** (recommended): soundboard; 13 songs; 72 min; rated 3.92/5 by 12 [1]\n- **gd1975-03-23.fm.lee-smith.94026.sbeok.flac16**: FM broadcast; 9 songs; 49 min; rated 3.75/5 by 4 [2]. Said about its sound: This FM recording lacks the tinny quality found in other pre-FM sources [11]\n- **gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf**: pre-FM broadcast master; 8 songs; 38 min; rated 2.5/5 by 2 [4]\n- **gd1975-03-23.126296.fm.kafer-boswell-smith.flac24**: FM broadcast; 8 songs; 49 min; rated 3.5/5 by 2 [3]\n\n## Around the show\n\n- Jerry Garcia mentioned Crosby was with the band, but Crosby never showed up [1]\n- The show was a benefit for SNACK, featuring Merl Saunders and Ned Lagin [3]\n\n## Tapers and lineage\n\n- **gd1975-03-23.sbd.snack.18525.flac16**: taped by Unknown; transferred by Unknown; source: Soundboard [1]\n- **gd1975-03-23.fm.lee-smith.94026.sbeok.flac16**: taped by Peter Kafer; transferred by Matt Smith and Pat Lee; source: FM Radio Broadcast > Master Reel (@ 7 1/2 ips) [2]. Also: Peter Kafer brought his master up for Pat to copy around that time [2]\n- **gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf**: source: Pre-FM SBD MR>DAT>Digi-Remaster>CD>CD>EAC>MKW>SHN [4]. Also: Dave Hope-Ross ripped and encoded the files, sharing them on Further Music Network [4]\n- **gd1975-03-23.126296.fm.kafer-boswell-smith.flac24**: transferred by Matt Smith; source: FMMR (Peter Kafer) @ 7 1/2 ips > R @ 7 1/2 ips (Will Boswell); Transfer info: Akai GX636 direct tape head output > Bottlehead tube tape pre pair Tesla tubes… [3]",

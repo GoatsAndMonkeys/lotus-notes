@@ -488,7 +488,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -504,13 +504,13 @@
     "guests": [],
     "next": {
      "date": "1980-09-03",
-     "show": "live:grateful-dead:1980-09-03:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1980-09-03:springfield-civic-center",
+     "venue": "Springfield Civic Center"
     },
     "previous": {
      "date": "1980-08-31",
-     "show": "live:grateful-dead:1980-08-31:capitol-center",
-     "venue": "Capitol Center"
+     "show": "live:grateful-dead:1980-08-31:capital-centre",
+     "venue": "Capital Centre"
     },
     "recommended": {
      "identifier": "gd1980-09-02.aud.unknown.26094.sbeok.shnf",
@@ -942,146 +942,382 @@
     "setlist": [
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 167,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:sugaree",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-26",
+        "show": "live:grateful-dead:1980-08-26:cleveland-public-hall"
+       },
+       "plays_before": 215,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-26",
+        "show": "live:grateful-dead:1980-08-26:cleveland-public-hall"
+       },
+       "plays_before": 295,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 150,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-08-21",
+        "show": "live:grateful-dead:1980-08-21:uptown-theater"
+       },
+       "plays_before": 56,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 301,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 304,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 58,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 56,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-26",
+        "show": "live:grateful-dead:1980-08-26:cleveland-public-hall"
+       },
+       "plays_before": 102,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 58,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 8,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 96,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 137,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-20",
+        "show": "live:grateful-dead:1980-08-20:uptown-theater"
+       },
+       "plays_before": 91,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-26",
+        "show": "live:grateful-dead:1980-08-26:cleveland-public-hall"
+       },
+       "plays_before": 318,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 74,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1980-06-20",
+        "show": "live:grateful-dead:1980-06-20:west-high-auditorium"
+       },
+       "plays_before": 231,
+       "total_plays": 628
+      },
       "title": "Jam //"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 198,
+       "total_plays": 1290
+      },
       "title": "// Space"
      },
      {
       "key": "song:grateful-dead:aiko-aiko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 717,
+       "gap_shows": 158,
+       "last_played": {
+        "date": "1978-09-16",
+        "show": "live:grateful-dead:1978-09-16:gizah-sound-and-light-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-20",
+        "show": "live:grateful-dead:1980-08-20:uptown-theater"
+       },
+       "plays_before": 131,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 333,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 50,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-31",
+        "show": "live:grateful-dead:1980-08-31:capital-centre"
+       },
+       "plays_before": 528,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:aiko-aiko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 717,
+       "gap_shows": 158,
+       "last_played": {
+        "date": "1978-09-16",
+        "show": "live:grateful-dead:1978-09-16:gizah-sound-and-light-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-20",
+        "show": "live:grateful-dead:1980-08-20:uptown-theater"
+       },
+       "plays_before": 131,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 333,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -1089,52 +1325,92 @@
      {
       "from": "gd1980-09-02.mtx.sirmick.110785.sbeok.flac16",
       "key": "song:grateful-dead:crowd-tuning",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 965,
+       "gap_shows": 211,
+       "last_played": {
+        "date": "1978-01-11",
+        "show": "live:grateful-dead:1978-01-11:shrine-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 20
+      },
       "title": "crowed/tuning"
      },
      {
       "from": "gd1980-09-02.mtx.sirmick.110785.sbeok.flac16",
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-08-16",
+        "show": "live:grateful-dead:1980-08-16:mississippi-river-festival"
+       },
+       "plays_before": 13,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "from": "gd80-09-02.aud.skankweed.26458.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-30",
+        "show": "live:grateful-dead:1980-08-30:the-spectrum"
+       },
+       "plays_before": 132,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1980-09-02.nak300.friend.andrewf.102775.flac24",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1980-06-13",
+        "show": "live:grateful-dead:1980-06-13:seattle-center-coliseum"
+       },
+       "plays_before": 21,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      }
     ],
     "subject_key": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Aiko Aiko",
+      "Aiko Aiko"
+     ],
      "first_in_archive": [],
-     "show_number": 861,
-     "shows_in_archive": 1855,
+     "show_number": 957,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Community War Memorial Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.576397+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.757960+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "1e7Q8dSVmPuBpl3sINQCTdtVqluMLtAAPlg-RS8Onij5NXvNREynzI9XcQBqSEPupoLgzG8OnePd528mBdNVDg",
+   "revision": 31,
+   "signature": "xykNEjAEH25f9K6CUQwauDjfLNj9I0yv95vIh-khPP5LRy0Ob7gIvFaPxf7fJbh5SZIlSpQwsOR3eeKDFx1wAA",
    "subject_key": "live:grateful-dead:1980-09-02:community-war-memorial-auditorium",
-   "updated_at": "2026-10-25T16:41:53.577450"
+   "updated_at": "2026-10-25T17:35:16.759104"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (2 reviews): Sequence of China Cat, I Know You Rider, and Friend of the Devil was smoking; Jerry repeated Bobby's sun verse before his headlight verse, impressed by the performance [20][23]\n- **Morning Dew** (1 review): Transition from Space to Aiko was shocking, but the first note of Dew was breath-taking [17]\n\n## The recordings\n\n- **gd1980-09-02.aud.unknown.26094.sbeok.shnf** (recommended): audience recording; 26 songs; 207 min; rated 5/5 by 2 [1]. Said about its sound: Loud crowd noise distracts during peak musical moments, though music is clear when quiet [1]\n- **gd1980-09-02.mtx.sirmick.110785.sbeok.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 195 min; rated 4.25/5 by 4 [2]\n- **gd80-09-02.aud.skankweed.26458.sbeok.shnf**: audience recording; 24 songs; 183 min; rated 4.84/5 by 32 [3]. Said about its sound: Analog copy was low volume and hissy, yet the performance quality was high [19]\n- **gd80-09-02.sbd.miller.28299.sbeok.flacf**: soundboard; 22 songs; 186 min; rated 4.2/5 by 10 [4]. Said about its sound: Recording exhibits significant hiss, possibly due to FLAC format or multiple source generations [18]\n- **gd1980-09-02.sbd.miller.tetzeli.patch-28299.34940.reflac.flac16**: soundboard; 22 songs; 187 min; rated 3.67/5 by 18 [5]\n\n## Around the show\n\n- Venue was hot and crowded, with people pushing from sides and rear [17]\n- Crowd included students from nearby colleges like RIT, U of R, and Syracuse [20]\n- Travelers arrived in Rochester during bright sunlight, clouds, cold, and rain [25]\n- General admission crowd was packed like sardines, with pushing from the back [26]\n\n## Tapers and lineage\n\n- **gd1980-09-02.aud.unknown.26094.sbeok.shnf**: source: Sony PCM-R500 DAT > HHB CDR-850> SoundStream WAV> mkACT SHN [1]\n- **gd1980-09-02.mtx.sirmick.110785.sbeok.flac16**: transferred by SIRMick; source: Matrix: 60% sbd/40% aud Recording Info: Discs 1 & 2: SBD -> Cassette Master -> ? -> Cool Edit Pro -> FLAC Disc 3: SBD -> Cassette Master -> Dat -> Sonic… [2]. Also: Missing tuning sections patched from SBD; SBD splices patched from audience recording [2]\n- **gd80-09-02.aud.skankweed.26458.sbeok.shnf**: source: Audience Recording [3]. Also: Lineage: Audience FOB to MC to DAT to CDR to EAC to SHN, reseeded by Skankweed [3]\n- **gd80-09-02.sbd.miller.28299.sbeok.flacf**: transferred by Charlie Miller; source: Soundboard [4]. Also: Recording originated from Radio Shack chrome tapes circulating at Oswego State, noted as hissy [22]\n- **gd1980-09-02.sbd.miller.tetzeli.patch-28299.34940.reflac.flac16**: transferred by Charlie Miller and Bill Tetzeli; source: Discs 1 & 2: SBD -> Cassette Master -> ? -> Cool Edit Pro -> FLAC; Disc 3: SBD -> Cassette Master -> Dat -> Sonic Solutions -> CD; Encore: (FOB) Nakamichi… [5]. Also: Source possibly from 4th generation cassettes; Bill Tetzeli made the second set seamless [5]",

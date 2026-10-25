@@ -504,7 +504,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -943,117 +943,319 @@
     "setlist": [
      {
       "key": "song:grateful-dead:phil-announcements",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Phil's announcements"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 92,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-07-27",
+        "show": "live:grateful-dead:1973-07-27:grand-prix-racecourse"
+       },
+       "plays_before": 106,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-07-01",
+        "show": "live:grateful-dead:1973-07-01:universal-amphitheatre"
+       },
+       "plays_before": 25,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:you-aint-woman-enough",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 12,
+       "total_plays": 15
+      },
       "title": "You Ain't Woman Enough"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-07-27",
+        "show": "live:grateful-dead:1973-07-27:grand-prix-racecourse"
+       },
+       "plays_before": 65,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 113,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 24,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 122,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-07-28",
+        "show": "live:grateful-dead:1973-07-28:grand-prix-racecourse"
+       },
+       "plays_before": 32,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 57,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-07-01",
+        "show": "live:grateful-dead:1973-07-01:universal-amphitheatre"
+       },
+       "plays_before": 253,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-07-28",
+        "show": "live:grateful-dead:1973-07-28:grand-prix-racecourse"
+       },
+       "plays_before": 38,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-07-27",
+        "show": "live:grateful-dead:1973-07-27:grand-prix-racecourse"
+       },
+       "plays_before": 37,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 257,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 29,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 166,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 141,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-07-28",
+        "show": "live:grateful-dead:1973-07-28:grand-prix-racecourse"
+       },
+       "plays_before": 24,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 102,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-07-28",
+        "show": "live:grateful-dead:1973-07-28:grand-prix-racecourse"
+       },
+       "plays_before": 186,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-07-31",
+        "show": "live:grateful-dead:1973-07-31:roosevelt-stadium"
+       },
+       "plays_before": 115,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 88,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1061,40 +1263,61 @@
      {
       "from": "gd1973-08-01.sbd.sirmick.patch-12222.92478.sbeok.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-07-27",
+        "show": "live:grateful-dead:1973-07-27:grand-prix-racecourse"
+       },
+       "plays_before": 30,
+       "total_plays": 220
+      },
       "title": "Mississippi Half Step Uptown Toodleoo"
      },
      {
       "from": "gd1973-08-01.112572.aud-moore.berger.flac16",
       "key": "song:grateful-dead:phil-tuning",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2734,
+       "gap_shows": 511,
+       "last_played": {
+        "date": "1966-02-05",
+        "show": "live:grateful-dead:1966-02-05:the-questing-beast"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Phil, tuning"
      }
     ],
     "subject_key": "live:grateful-dead:1973-08-01:roosevelt-stadium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 441,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Phil's announcements"
+     ],
+     "show_number": 521,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Roosevelt Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.682376+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.612016+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "sEud1XzprTQjDLOZ7RFWi6ngedm6VK7uLRHByeatxwToErOG2YR1Vqu2ZnW72Dz9OPfO2tFYMetUaWnOtiagCQ",
+   "revision": 43,
+   "signature": "HJQ3YTqVvx2x5jOA6OKuLlqIKov2nbtGhBXriPG95JlKzXgnbZ5K3kKdFOF3tVDQsWTuF30m4CRsX0a1wQxRCQ",
    "subject_key": "live:grateful-dead:1973-08-01:roosevelt-stadium",
-   "updated_at": "2026-10-25T16:41:46.686065"
+   "updated_at": "2026-10-25T17:35:13.613536"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (3 reviews): The pre-verse jam, roughly minutes 3 to 12, develops rapidly into a chaotic yet tight funky groove; Jerry plays a pronounced tease of King Crimson's 'Fracture' around the 22-23 minute mark [16][17][20]\n- **Row Jimmy** (1 review): Reviewer's highlight is Row Jimmy into Dew, with Jerry in control and the band following [24]\n- **El Paso** (1 review): The El Paso serves as a perfect high-energy break in the middle of the Dark Star madness [19]\n- **Eyes Of The World** (1 review): By 1973 standards, the Eyes is somewhat unfocused and the Dew a little sloppy [16]\n\n## The recordings\n\n- **gd73-08-01.sbd.cotsman.12222.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 175 min; rated 4.37/5 by 46 [1]. Said about its sound: The Dark Star through Dew section was remastered by David Gans and sounds spectacular; the mix feels like sitting at Billy's drum kit; A couple of glitches early in the show clear up quickly, and the recording then sounds really good; The recording is mostly soundboard with enough audience mixed in to feel like being there, neither plastic nor distant [14][15][23][24]\n- **gd1973-08-01.sbd.sirmick.patch-12222.92478.sbeok.flac16**: soundboard; 23 songs; 174 min; rated 4.6/5 by 5 [2]. Said about its sound: Missing first notes of Goin' Down the Road were patched in from the audience source and the track pitch adjusted [2]\n- **gd1973-08-01.aud.weiner.8724.sbeok.shnf**: audience recording; 22 songs; 171 min; rated 4.33/5 by 3 [10]. Said about its sound: Mic cable dropouts in Race Is On, Bird Song, Casey Jones and Around and Around were cross-faded [10]\n- **gd1973-08-01.sbd.kaplan.11813.shnf**: soundboard; 18 songs; 157 min; rated 4.67/5 by 3 [11]. Said about its sound: The soundboard is complete except for the opening set-one songs Promised Land, Sugaree, Race Is On and You Ain't Woman Enough [11]\n\n## Around the show\n\n- The show fell on Jerry's birthday, and the band seemed to feel it [15]\n- Jerry played on his birthday in 1973 [24]\n- The reviewer links this night's creative configuration to earlier days and points to Watkins Glen on 7-14-73 [22]\n\n## Tapers and lineage\n\n- **gd73-08-01.sbd.cotsman.12222.sbeok.shnf**: source: Soundboard with audience patches [1]. Also: Complete show compiled from the latest soundboard sources with audience patches, from S. Kaplan and N. Weiner seeds; seeded to etree by JCotsman [1]\n- **gd1973-08-01.sbd.sirmick.patch-12222.92478.sbeok.flac16**: taped by See Notes; transferred by SIRMick; source: See Notes [2]. Also: Remaster of shnid 12222: DC offset removed, audience-source left channel boosted 2.4 dB, dropouts and clicks repaired, transitions cleaned [2]\n- **gd1973-08-01.aud.weiner.8724.sbeok.shnf**: taped by Uher mic > Uher 4000 Report L 5\" reels > MacIntosh pre-amp > TEAC 1230 7\" reel.; transferred by A > D transfer by Noah Weiner; source: AudMR > R > DAT > WAV > SHN [10]. Also: First 1:06 of Dark Star came from an alternate audience source on Jeff Siniawsky's 7-inch reel, cross-faded into the main source [10]\n- **gd1973-08-01.sbd.kaplan.11813.shnf**: taped by ** - CD Mastering by David Gans; transferred by Extraction and.shn encoding by Seth Kaplan via EAC and MKW.; source: SBD>MSR>R2>D>CD and SBD>7.5ips Master Reel>Cassette>20 bit A/D>CDR [11]. Also: Three-disc soundboard compilation, mastered by David Gans, adds soundboard segments beyond the earlier circulating one-disc Dark Star through Dew jam [11]\n\n## Art and photos\n\n- Poster by Bob Marks Grateful Dead: [1973-08-01 Roosevelt Stadium, Jersey City, NJ, USA - Jerry Garcia](https://jerrygarcia.com/show/1973-08-01-roosevelt-stadium-jersey-city-nj-usa/) [27]",

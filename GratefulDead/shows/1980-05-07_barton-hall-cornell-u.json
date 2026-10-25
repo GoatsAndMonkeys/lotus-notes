@@ -331,7 +331,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -397,8 +397,8 @@
     },
     "previous": {
      "date": "1980-05-06",
-     "show": "live:grateful-dead:1980-05-06:recreation-hall-penn-state-university",
-     "venue": "Recreation Hall - Penn State University"
+     "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u",
+     "venue": "Rec Hall, Penn State U"
     },
     "recommended": {
      "identifier": "gd1980-05-07.fob.sonyecm999.morris.100242.flac16",
@@ -620,133 +620,349 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-04-29",
+        "show": "live:grateful-dead:1980-04-29:fox-theater"
+       },
+       "plays_before": 270,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-04-28",
+        "show": "live:grateful-dead:1980-04-28:boutwell-auditorium"
+       },
+       "plays_before": 243,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 96,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 131,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 138,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 281,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 27,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 29,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 8,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 89,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 22,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-04-01",
+        "show": "live:grateful-dead:1980-04-01:capitol-theater"
+       },
+       "plays_before": 41,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-02",
+        "show": "live:grateful-dead:1980-05-02:hampton-coliseum"
+       },
+       "plays_before": 232,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 308,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-04-29",
+        "show": "live:grateful-dead:1980-04-29:fox-theater"
+       },
+       "plays_before": 84,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 493,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 165,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 30,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 137,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 308,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-02",
+        "show": "live:grateful-dead:1980-05-02:hampton-coliseum"
+       },
+       "plays_before": 250,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 16,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 131,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 293,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 86,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-01",
+        "show": "live:grateful-dead:1980-05-01:greensboro-coliseum"
+       },
+       "plays_before": 222,
+       "total_plays": 628
+      },
       "title": "Jam"
      }
     ],
@@ -754,25 +970,59 @@
      {
       "from": "gd1980-05-07.128832.naks.mason.flac16",
       "key": "song:grateful-dead:take-a-step-back-1",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 533,
+       "gap_shows": 109,
+       "last_played": {
+        "date": "1978-11-21",
+        "show": "live:grateful-dead:1978-11-21:community-war-memorial-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Take A Step Back 1"
      },
      {
       "from": "gd1980-05-07.128832.naks.mason.flac16",
       "key": "song:grateful-dead:take-a-step-back-2",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 533,
+       "gap_shows": 109,
+       "last_played": {
+        "date": "1978-11-21",
+        "show": "live:grateful-dead:1978-11-21:community-war-memorial-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Take A Step Back 2"
      },
      {
       "from": "gd1980-05-07.128832.naks.mason.flac16",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 534,
+       "gap_shows": 110,
+       "last_played": {
+        "date": "1978-11-20",
+        "show": "live:grateful-dead:1978-11-20:cleveland-music-hall"
+       },
+       "plays_before": 7,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "from": "gd80-05-07.naks.clugston.3294.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-barn",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playin' in the Barn\""
      }
     ],
@@ -780,26 +1030,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 825,
-     "shows_in_archive": 1855,
+     "show_number": 921,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Barton Hall, Cornell U"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 7,
+   "parent_revision": 19,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.325220+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.476122+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 8,
-   "signature": "f0qkklVik2qpO0kp-Vu9o5Py1mWC02IHdyZd_nTmnAcH5S7Y95rfyxQGcdYJa_kMAde86K22pQLqJ_bE3TftBQ",
+   "revision": 20,
+   "signature": "UDZ7hlkz1nnpwLtn_x1AEN2QTSuf_fMjY7AP-HaBmeGqzxj7T0Acjlg6956EF7nb7XXZnL40d3dhMQyJj5XADw",
    "subject_key": "live:grateful-dead:1980-05-07:barton-hall-cornell-u",
-   "updated_at": "2026-10-25T16:41:53.326155"
+   "updated_at": "2026-10-25T17:35:16.477035"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (1 review): Audience recording conveys how much fun everyone present was having during this song [13]\n- **Row Jimmy** (1 review): Singled out as exceptional, along with Terrapin [14]\n- **Feel Like A Stranger** (1 review): Reviewer hears an oily, funky, slinky version, not yet fully developed, with the band probing for grooves and Brent strong [19]\n- **Shakedown Street** (1 review): Singled out as an excellent version, one Phil fans will especially enjoy [8]\n- **Terrapin Station** (1 review): Attendee singles out Terrapin as nice, along with Shakedown [18]\n- **Playing In The Band** (1 review): Named among the excellent versions and highlights of the show [8]\n- **Playin' in the Barn\"** (1 review): Reviewer thinks this analog-tape source may include the odd 'Playing In The Barn' lyrics [10]\n- **Take A Step Back 1** (1 review): Reviewer notes Jerry plays Cornell's alma mater during the first one [12]\n\n## The recordings\n\n- **gd1980-05-07.fob.sonyecm999.morris.100242.flac16** (recommended): source not stated; 24 songs; 182 min; rated 3/5 by 3 [1]. Said about its sound: Tape flips occur in Bertha, spliced with Soundforge, and between Drums and Space [1]\n- **gd1980-05-07.128832.naks.mason.flac16**: source not stated; 22 songs; 155 min; rated 5/5 by 1 [2]\n- **gd1980-05-07.152802.senn.blend.eaton.miller.clugston.flac2496**: audience recording; 20 songs; 156 min [3]\n- **gd80-05-07.sbd.miller.26349.sbeok.shnf**: soundboard; 20 songs; 150 min; rated 4.12/5 by 16 [5]\n- **gd80-05-07.naks.clugston.3294.sbeok.shnf**: audience recording; 20 songs; 154 min; rated 3.86/5 by 14 [6]. Said about its sound: Audience recording has warm ambience that puts the listener in the dim, smoky room; Audience source lacks hi-fi soundboard sound but captures the atmosphere of being there; Audience recording has harsh cuts between Shakedown and Bertha, and between Playin and Good Lovin' [8][13][16]\n\n## Around the show\n\n- Attendee says it was the last indoor general admission concert they attended; vocals by Bob, Jerry and Brent were incredible [18]\n- Attendee prefers this show to Cornell 77, finding 77 vocals have too much reverb and effects [18]\n\n## Tapers and lineage\n\n- **gd1980-05-07.fob.sonyecm999.morris.100242.flac16**: taped by Bob Morris; source: (fob) Sony Ecm-990 Stereo Mic > Cassette Master (marantz Superscope Cd320 maxell Udxlii); [1]\n- **gd1980-05-07.128832.naks.mason.flac16**: taped by Mason B. Taylor; source: Recorded By Mason Taylor on a Nakamichi 550 Cassette Deck, on chrome tapes, with Nakamichi microphones [2]. Also: Taper Mason B. Taylor of Chicago used Nakamichi 550 deck with Nakamichi 300 shotgun-capsule mics on earlier recordings [2]\n- **gd1980-05-07.152802.senn.blend.eaton.miller.clugston.flac2496**: taped by Recorded, Transferred and Mastered by Rob Eaton; transferred by Mastered by Scott Clugston April 2021; source: Rob Eaton's Master Audience Cassettes; (2)Sennheiser 441 mics (Left + Right) + (1) Sennheiser 421 mic (Center) blend > Nakamichi 550 [3]. Also: Master from Rob Eaton, coordinated by Charlie Miller; Nakamichi 700 and 300 blend patches Bertha and Drums [3]\n- **gd80-05-07.sbd.miller.26349.sbeok.shnf**: source: Soundboard [5]. Also: Soundboard lineage: cassette master to reel to DAT to CD to EAC to SHN, converted by Charlie Miller [5]\n- **gd80-05-07.naks.clugston.3294.sbeok.shnf**: source: Audience Recording: Nakamichi CM700 + Nakamichi CM300 blend [6]. Also: Reviewer points to an etree soundboard source of this show, in place of the audience tape [17]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [Grateful Dead Poster 1980-05-07 - Jerry Garcia](https://jerrygarcia.com/image/grateful-dead-poster-1980-05-07-07/) [21]\n- Poster by Peter Simon Grateful Dead: [1980-05-07 Barton Hall, Cornell U., Ithaca, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1980-05-07-barton-hall-cornell-u-ithaca-ny-usa/) [22]\n- Poster by Jerry Garcia: [1980-05-07 Ticket - Jerry Garcia](https://jerrygarcia.com/image/1980-05-07-ticket/) [23]",

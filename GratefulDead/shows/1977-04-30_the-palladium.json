@@ -235,7 +235,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -311,9 +311,9 @@
      "venue": "The Palladium"
     },
     "previous": {
-     "date": "1977-04-27",
-     "show": "live:grateful-dead:1977-04-27:capitol-theater",
-     "venue": "Capitol Theater"
+     "date": "1977-04-29",
+     "show": "live:grateful-dead:1977-04-29:the-palladium",
+     "venue": "The Palladium"
     },
     "recommended": {
      "identifier": "gd1977-04-30.sonyECM33p.moore.vernon.4949.sbeok.shnf",
@@ -385,125 +385,322 @@
     "setlist": [
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 42,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 149,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 12,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:crack-equipment-crew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crack equipment crew"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 149,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 111,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 313,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 25,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 94,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 77,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 168,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 59,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 8,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 141,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:crack-technical-team",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crack technical team"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 73,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 13,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-03-20",
+        "show": "live:grateful-dead:1977-03-20:winterland-arena"
+       },
+       "plays_before": 145,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 183,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 76,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-03-20",
+        "show": "live:grateful-dead:1977-03-20:winterland-arena"
+       },
+       "plays_before": 145,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 135,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:terrapin-station",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      }
     ],
@@ -511,27 +708,30 @@
     "subject_key": "live:grateful-dead:1977-04-30:the-palladium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 599,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Crack equipment crew",
+      "Crack technical team"
+     ],
+     "show_number": 691,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Palladium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.059519+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.897470+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "EF4HZsQYiKYL8CpDZdhRbjT_W7sn-fpXsaEBolVLDBL0i9vWK5f1WiVB5ViLVxkYFQjfqIOwVx4SPwom7TNYCw",
+   "revision": 42,
+   "signature": "C5S94Lmy9Z-punOhmQOJBjGRwm6kdp2UlyY7qKxtG53P9QmoALcGhiLZ33eiNkWF2GZRw9aZL7hdy0OtIE7yDw",
    "subject_key": "live:grateful-dead:1977-04-30:the-palladium",
-   "updated_at": "2026-10-25T16:41:50.061208"
+   "updated_at": "2026-10-25T17:35:14.898282"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Saint Stephen** (1 review, 1 other source): Saint Stephen opens a sandwich: it goes into Not Fade Away and Stella Blue, then returns to Saint Stephen; Saint Stephen had not been played yet on this tour before this night [2][10]\n- **The Music Never Stopped** (1 review): The opening Music Never Stopped is called killer, and the show flows on from there [14]\n- **Bertha** (1 review): A major source change occurs in the middle of Bertha [3]\n- **It's All Over Now** (1 review): Reviewer is especially fond of this strong It's All Over Now [10]\n- **Peggy-O** (1 other source): Poster argues this is arguably the best-ever version of Peggy-O [19]\n- **Terrapin Station** (1 other source): Terrapin Station was played as the encore [2]\n\n## The recordings\n\n- **gd1977-04-30.sonyECM33p.moore.vernon.4949.sbeok.shnf** (recommended): source not stated; 23 songs; 182 min; rated 4.44/5 by 9 [1]. Said about its sound: The right channel drops out several times and the piano notes show minor distortion [1]\n- **gd77-04-30.moore.minches.17952.sbeok.shnf**: audience recording; 21 songs; 184 min; rated 4.19/5 by 21 [2]. Said about its sound: Reviewer finds this audience recording poor and has not found any alternate source in three years; Heavy Phil and room presence blur the low end, but the mix is even and hi-hats and cowbells come through clearly; Reviewer considers this audience recording a pretty good source, though it could be better [3][5][9][11][13]\n\n## Around the show\n\n- Reviewer calls the first set's energy unbelievable, possibly the best first set of 1977 [3]\n- Garcia's solo is short and driving, with a brief trill, not yet the tour de force the tune later became [4]\n- The first set resembles those of the previous few nights, but in reverse order, with a double opener [10]\n- Reviewer hears the second set as a preview of the 5-8-77 show [14]\n\n## Tapers and lineage\n\n- **gd1977-04-30.sonyECM33p.moore.vernon.4949.sbeok.shnf**: taped by Jerry Moore; transferred by Noah Weiner and Matt Vernon; source: Sony ECM-33p mics>Sony TC-152 deck [1]. Also: M. Vernon fixed some pops in Cool Edit 2000, selectively de-clicking spikes where the right channel dropped with static [1]\n- **gd77-04-30.moore.minches.17952.sbeok.shnf**: taped by Jerry Moore; transferred by David Minches; source: Audience Recording: Sony ECM-33Ps>Sony TC-152 from first row loge [2]. Also: Reviewer links this to Jerry Moore's other audience tapes, citing his 11-4-77 recording as a favorite [5]",

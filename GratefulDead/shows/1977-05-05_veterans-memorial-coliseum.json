@@ -404,7 +404,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -813,105 +813,280 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 170,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 168,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 112,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 216,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 170,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 96,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 152,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 35,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 29,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 27,
+       "total_plays": 272
+      },
       "title": "Peggy O"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 44,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 151,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 17,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 61,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:scarlet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Scarlet"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 10,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 143,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 146,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 254,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 108,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -919,27 +1094,29 @@
     "subject_key": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 603,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Scarlet"
+     ],
+     "show_number": 695,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Veterans' Memorial Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.251737+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.927227+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "6riGZcBbaiZvt1aOQLmrlJ6Z-S6ew0J4HjPp7Rytt6fnxiMbACnStghc9jA3lcx7tVUtUiZTOccRkXag8ZVEDA",
+   "revision": 43,
+   "signature": "BWUx_OFKcMQLWViP3MuN41TArLBcgQX6SpUTbfbcT6xufBZvnEo0pcEAFJU65lcogJP-xU1kDLa8lGeSHxU2BA",
    "subject_key": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum",
-   "updated_at": "2026-10-25T16:41:50.255704"
+   "updated_at": "2026-10-25T17:35:14.928143"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (2 reviews): Probably the most powerful performance heard, matching Dicks Picks Vol. 3; Performance gives chills and is definitely amongst the best heard [17][20]\n- **Peggy O** (2 reviews): Listener considers this the best version of the song they know; Listener has loved this version since finding an old tape ten years ago [14][16]\n- **Scarlet Begonias** (2 reviews): An epic solo over two minutes long cooks in this jam; Jam from Scarlet to Fire is described as just nasty [13][17]\n- **Supplication** (1 review): Bobby's vocal performance on this song is described as killer [19]\n- **The Music Never Stopped** (1 review): First set closed with a hot performance of this song [12]\n- **St. Stephen** (1 review): Performance does not hold a candle to other 1977 versions [18]\n- **Johnny B. Goode** (1 review): Garcia shows complete mastery of Chuck Berry licks in this song [22]\n\n## The recordings\n\n- **gd1977-05-05.sbd.unknown.261.shnf** (recommended): soundboard; 20 songs; 175 min; rated 3/5 by 3 [1]\n- **gd77-05-05.sbd.stephens.8832.sbeok.shnf**: soundboard; 19 songs; 180 min; rated 4.75/5 by 77 [2]. Said about its sound: Recording quality is delicious and sounds great on iPod, car, and stereo [20]\n- **gd1977-05-05.sbd.cantor.7725.shnf**: soundboard; 19 songs; 173 min; rated 4.85/5 by 13 [3]\n- **gd1977-05-05.171014.mtx.dusborne.flac1644**: matrix (soundboard mixed with audience mics); 19 songs; 181 min; rated 3.25/5 by 4 [5]\n- **gd1977-05-05.148735.SBD.Betty.Anon.Noel.t-flac2448**: soundboard; 19 songs; 181 min [6]\n\n## Around the show\n\n- Playing was tight and emotional despite rare varied setlists in 1977 [15]\n- Second set followed traditional form and really smoked compared to the first [12]\n- Show is good but overshadowed by its neighborhood performances [13]\n- Show is as good as any May 1977 performance [14]\n- Peggy-O solo lacks the emotion and skill of the May 9th version [15]\n\n## Tapers and lineage\n\n- **gd1977-05-05.sbd.unknown.261.shnf**: transferred by Unknown; source: Soundboard [1]\n- **gd77-05-05.sbd.stephens.8832.sbeok.shnf**: source: Soundboard [2]\n- **gd1977-05-05.sbd.cantor.7725.shnf**: transferred by Troy Wallwork; source: master reels > dat [3]. Also: Other transfers exist and are tracked differently with specific time drops [3]\n- **gd1977-05-05.171014.mtx.dusborne.flac1644**: source: 2 Source Matrix by dusborne [5]. Also: Charlie Miller worked on SBD and AUD; Rob Eaton and Dan Stephens on SBD; Doug Lamarre provided AUD cassettes; Scott Clugston worked on the AUD [5]\n- **gd1977-05-05.148735.SBD.Betty.Anon.Noel.t-flac2448**: taped by Betty Cantor; transferred by Source & Transfer by Anonymous;Edited & Mastered using Adobe Audition by Joe Noel; source: Source: Betty Cantor's SBD Reel Master > PCM > Beta PCM clone > cloned to wav file on computer by Sony SLHF300 Betamax and modified Sony PCM601esd via spdif… [6]. Also: Anonymous shared the source; Pete Ebel transferred the unknown aud recording [6]\n\n## Art and photos\n\n- Poster by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-05-05 Veterans Memorial Coliseum, New Haven, CT](https://thecurtainwithblog.blogspot.com/2018/07/grateful-dead-1977-05-05-veterans.html) [24]\n- Fan art by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-05-05 Veterans Memorial Coliseum, New Haven, CT](https://thecurtainwithblog.blogspot.com/2018/07/grateful-dead-1977-05-05-veterans.html) [25]\n- Fan art by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-05-05 Veterans Memorial Coliseum, New Haven, CT](https://thecurtainwithblog.blogspot.com/2018/07/grateful-dead-1977-05-05-veterans.html) [26]\n- Poster by RareVinyl.com: [Grateful Dead Veterans Memorial Coliseum, New Haven CT 1977 - RSD BF 2024 - 180 Gram Vinyl - EX UK Vinyl box set](https://us.rarevinyl.com/products/grateful-dead-veterans-memorial-coliseum-new-haven-ct-1977-rsd-bf-2024-180-gram-vinyl-ex-uk-vinyl-box-set-603497824694-878352) [27]\n- Fan art by Grateful Dead: [Grateful Dead Veterans Memorial Coliseum - May 5, 1977](https://www.dead.net/show/may-5-1977) [28]",

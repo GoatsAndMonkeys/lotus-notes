@@ -456,7 +456,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -865,135 +865,360 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 138,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 145,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 5,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 52,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 8,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 110,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 10,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 4,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-03",
+        "show": "live:grateful-dead:1976-06-03:paramount-theatre"
+       },
+       "plays_before": 89,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 127,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:mission-in-the-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "Mission In The Rain"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 61,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 3,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 3,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 11,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 11,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 54,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 253,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 54,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 60,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 224,
+       "total_plays": 634
+      },
       "title": "Playing in the Band"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 369,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1975-06-07",
+        "show": "live:grateful-dead:1975-06-07:bob-weirs-studio"
+       },
+       "plays_before": 8,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-09",
+        "show": "live:grateful-dead:1976-06-09:boston-music-hall"
+       },
+       "plays_before": 47,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-04",
+        "show": "live:grateful-dead:1976-06-04:paramount-theatre"
+       },
+       "plays_before": 42,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1001,13 +1226,26 @@
      {
       "from": "gd1976-06-10.sbd.gems.82921.flac16",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 526,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 28,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd76-06-10.hopkins.vernon.5918.sbeok.shnf",
       "key": "song:grateful-dead:let-it-grow-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Let It Grow reprise"
      }
     ],
@@ -1015,26 +1253,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 549,
-     "shows_in_archive": 1855,
+     "show_number": 637,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.811489+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.524999+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "jAtYJ4efn1BaKCM1lzRFM2fbn8v02Meu0bT2QwZwVWeAEy1pqncC5h4L_CoKBspAFqW9rYGOxuzJ2SWgH11FBA",
+   "revision": 42,
+   "signature": "mWeAfbAiiAgEMlr95o8FdaTdscEcD0nDHmyVtzHR2X6lwI8deU9NiynuJsQMWVihu6rURT9J5HiF3G6LCgGRAA",
    "subject_key": "live:grateful-dead:1976-06-10:boston-music-hall",
-   "updated_at": "2026-10-25T16:41:48.814081"
+   "updated_at": "2026-10-25T17:35:14.526080"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mission In The Rain** (3 reviews): Listener calls the track a quintessential trip into Jerry's soulful singing; Listener calls the song beautiful and notes the band played it rarely [15][19][20]\n- **Slipknot!** (1 review): Listener compares Keith's playing to Europe 72, saying he really leads the jam [21]\n\n## The recordings\n\n- **gd1976-06-10.matrix.tobin.84985.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 182 min; rated 5/5 by 7 [1]\n- **gd1976-06-10.sbd.gems.82921.flac16**: soundboard; 25 songs; 183 min; rated 4/5 by 3 [2]\n- **gd76-06-10.warburton.minches.18426.sbeok.shnf**: audience recording; 25 songs; 189 min; rated 5/5 by 1 [4]\n- **gd1976-06-10.145134.akg1000.warburton.smith.sirmick.flac1644**: source not stated; 22 songs; 188 min; rated 4/5 by 1 [9]\n- **gd76-06-10.sbd.bertha-ashley.23370.sbeok.shnf**: soundboard; 22 songs; 177 min; rated 4.31/5 by 32 [10]. Said about its sound: Listener describes the Music Hall sound quality as unbelievable and a real treat; Sound is described as rich, warm, deep, and nicely balanced with brightness [13][22]\n\n## Around the show\n\n- Listener notes Jerry is barely audible in the intro of The Music Never Stopped [23]\n- Listener rates the setlist as convincing enough for a download [15]\n- Reviewer says the band lacks the sparkle and imagination of the previous night [16]\n\n## Tapers and lineage\n\n- **gd1976-06-10.matrix.tobin.84985.sbeok.flac16**: taped by See info file; transferred by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix(65%-SBD/35%-AUD) [1]. Also: SHNs decoded to wave and reassembled into one long file using Audition 2.0 [1]\n- **gd1976-06-10.sbd.gems.82921.flac16**: taped by DAT from the collection of Todd Evans; transferred by Jamie Waddell; source: SBD Master Reel -> PCM -> Dat (44.1k) [2]. Also: Static in Sugaree patched with shnid 14264; warble in Cassidy improved in Spectrum [2]\n- **gd76-06-10.warburton.minches.18426.sbeok.shnf**: taped by Jimmy Warburton; transferred by Mark Cohen, David Minches; source: Audience Recording: AKG 1000Es [4]. Also: Recorded by Jimmy Warburton using AKG 1000Es and Sony TC-152 [4]\n- **gd1976-06-10.145134.akg1000.warburton.smith.sirmick.flac1644**: taped by Jimmy Warburton; transferred by Matt Smith & Sirmick; source: AKG 1000Es > Sony TC-152 (Dolby b) > MAC - Recorded by Jimmy Warburton from right-hand side of loge. [9]. Also: Eight-second patch in Row Jimmy sourced from shnid 18425; tape flip smoothed [9]\n- **gd76-06-10.sbd.bertha-ashley.23370.sbeok.shnf**: source: Soundboard [10]\n\n## Art and photos\n\n- Poster by Snooky Flowers Grateful Dead: [1976-06-09 Boston Music Hall, Boston, MA, USA - Jerry Garcia](https://jerrygarcia.com/show/1976-06-09-boston-music-hall-boston-ma-usa/) [26]",

@@ -57,7 +57,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -121,12 +121,30 @@
     "setlist": [
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 243,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 22,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1975-07-07",
+        "show": "live:grateful-dead:1975-07-07:aces-studio"
+       },
+       "plays_before": 48,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      }
     ],
@@ -135,26 +153,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 540,
-     "shows_in_archive": 1855,
+     "show_number": 627,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.676058+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.472350+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "tAP0YAD7nc9fnE2R4yrcdy1I8Z0BMqb9L-jFCY-j1G9N9z1JuFKLlOXQGSZRJfUJQb-YD5UZkTuX-340R83zAQ",
+   "revision": 40,
+   "signature": "qfgUb7kRWIO4uFpq62jwhd1HiAoNi6OkDRspxf0gE3lAhyDE5C2_l-xAOiNAjrMm-ZgoG65jOD28Lnb5kdaUAw",
    "subject_key": "live:grateful-dead:1975-09-01:club-front-studio",
-   "updated_at": "2026-10-25T16:41:48.677331"
+   "updated_at": "2026-10-25T17:35:14.472886"
   }
  },
  "recommended": {

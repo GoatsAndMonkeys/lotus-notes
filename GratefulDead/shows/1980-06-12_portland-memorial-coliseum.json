@@ -342,7 +342,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -448,8 +448,8 @@
     },
     "previous": {
      "date": "1980-06-08",
-     "show": "live:grateful-dead:1980-06-08:folsom-field-university-of-colorado",
-     "venue": "Folsom Field, University of Colorado"
+     "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado",
+     "venue": "Folsom Field, U. of Colorado"
     },
     "recommended": {
      "identifier": "gd1980-06-12.141805.sbd.miller.flac1644",
@@ -701,112 +701,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 36,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 248,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 107,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-06-07",
+        "show": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado"
+       },
+       "plays_before": 288,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 206,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 100,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-06-07",
+        "show": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado"
+       },
+       "plays_before": 13,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 41,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-06-07",
+        "show": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado"
+       },
+       "plays_before": 44,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 42,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 235,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 507,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 125,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 77,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 128,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 507,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 179,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-06-07",
+        "show": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado"
+       },
+       "plays_before": 271,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-08",
+        "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado"
+       },
+       "plays_before": 143,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 200,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-06-07",
+        "show": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado"
+       },
+       "plays_before": 254,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 173,
+       "total_plays": 290
+      },
       "title": "Johnny B Goode"
      }
     ],
@@ -814,7 +1012,11 @@
      {
       "from": "gd1980-06-12.sonyecm990.morris.100261.flac16",
       "key": "song:grateful-dead:she-blew-again-tonight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "she blew again tonight\""
      }
     ],
@@ -822,26 +1024,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 840,
-     "shows_in_archive": 1855,
+     "show_number": 936,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Portland Memorial Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 9,
+   "parent_revision": 21,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.447527+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.591306+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 10,
-   "signature": "LOJ5FRr8RC8IVgwc_FNQTe-Ii9vMtWe5HQ7e6E52ZteRe74Flh1bBHr02ClkFOx0-y0s2q5jy27JBig7BbRFDg",
+   "revision": 22,
+   "signature": "DVzHXIjWLOI-59ftAvRBh4DgtVgfYO9In4DBN4_MHhKBRJjgnUYd293yWT18odbObXyPxBPZRgS0tNZtu8J0AQ",
    "subject_key": "live:grateful-dead:1980-06-12:portland-memorial-coliseum",
-   "updated_at": "2026-10-25T16:41:53.448543"
+   "updated_at": "2026-10-25T17:35:16.592171"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Estimated Prophet** (4 reviews): Estimated Prophet emerges tightly from the Drums>Scarlet>Fire run, then returns to percussion that carries the groove into Not Fade Away; Estimated Prophet runs over sixteen minutes [9][10][13][18]\n- **Fire On The Mountain** (2 reviews): Reviewer says Mt. St. Helens erupted during Fire on the Mountain, a second major eruption rather than the first; Attendee says St. Helens erupted while the band jammed in Fire; ash was falling outside afterward [11][17]\n- **Scarlet Begonias** (1 review): Reviewer found this Scarlet Begonias poor, and called the Fire On The Mountain merely average [13]\n\n## The recordings\n\n- **gd1980-06-12.141805.sbd.miller.flac1644** (recommended): soundboard; 22 songs; 161 min; rated 1.5/5 by 2 [1]\n- **gd1980-06-12.150233.sbd.cm.miller.flac16**: soundboard; 22 songs; 161 min [2]\n- **gd1980-06-12.sonyecm990.morris.100261.flac16**: source not stated; 23 songs; 149 min [6]\n- **gd80-06-12.set2.akgse5.clugston.7007.sbeok.shnf**: audience recording; 11 songs; 88 min; rated 4/5 by 7 [8]. Said about its sound: Audience recording has a present sound and audible crowd energy, with some boominess from the Coliseum's size, tamed by trimming around 125 Hz [10]\n\n## Around the show\n\n- Reviewer says the band had trouble travelling to Seattle, Spokane and the Seattle airport afterward because of volcanic ash [11]\n- Attendee found St. Helens ash covering their car after the show, and says the band had lots of energy [15]\n- Attendee drove back to Eugene that night, and recalls the show being memorable partly for a Dead Pinto [16]\n- Reviewer disputes the eruption-during-Fire story, noting the main eruption occurred at 8:30 AM on May 18 [19]\n- Reviewer notes later eruptions after May 18 caused heavy ashfall; they left the venue to find ash falling like snow [20]\n- Reviewer considers it a mediocre show by 1980 standards [13]\n- Reviewer rates the Drums>Scarlet>Fire>Estimated sequence as outstanding, with the St. Helens story adding novelty value [18]\n\n## Tapers and lineage\n\n- **gd1980-06-12.141805.sbd.miller.flac1644**: transferred by Charlie Miller; source: SBD > Cassette Master (Maxell UDXL-II) [1]. Also: Soundboard source; the final seconds of Good Lovin' are patched from Bob Menke's recording, with pitch correction applied [1]\n- **gd1980-06-12.150233.sbd.cm.miller.flac16**: transferred by All Transfers and Mastering by Charlie Miller  May 29, 2020; source: SBD > Cassette Master (Maxell UDXL-II) [2]. Also: This version fixes the out-of-phase left channel of an earlier transfer; Good Lovin' ending is patched from Bob Menke's recording [2]\n- **gd1980-06-12.sonyecm990.morris.100261.flac16**: taped by Bob Morris; source: Sony ECM-990 stereo mic > Cassette Master (Marantz Superscope CD320/Maxell UDXLII); Recorded from the left-side riser [6]\n- **gd80-06-12.set2.akgse5.clugston.7007.sbeok.shnf**: source: Audience Recording: AKG SE-5 mics w/CE-1 cardioid capsules [8]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Portland Memorial Coliseum - June 12, 1980](https://www.dead.net/show/june-12-1980) [27]",

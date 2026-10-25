@@ -412,7 +412,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -491,9 +491,9 @@
      "venue": "Universal Amphitheatre"
     },
     "previous": {
-     "date": "1973-06-26",
-     "show": "live:grateful-dead:1973-06-26:seattle-center-arena",
-     "venue": "Seattle Center Arena"
+     "date": "1973-06-29",
+     "show": "live:grateful-dead:1973-06-29:universal-amphitheatre",
+     "venue": "Universal Amphitheatre"
     },
     "recommended": {
      "identifier": "gd1973-06-30.sbd.sbvol9.chappell.29753.flac16",
@@ -835,114 +835,307 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 89,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 22,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 109,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-22",
+        "show": "live:grateful-dead:1973-06-22:p-n-e-coliseum"
+       },
+       "plays_before": 100,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 35,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-22",
+        "show": "live:grateful-dead:1973-06-22:p-n-e-coliseum"
+       },
+       "plays_before": 63,
+       "total_plays": 314
+      },
       "title": "Birdsong"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 133,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:dont-panic-folks",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "don't panic folks"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 25,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 119,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 95,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 163,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 77,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 175,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 77,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 71,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 137,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 165,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 22,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 30,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 184,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 87,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -950,82 +1143,145 @@
      {
       "from": "gd73-06-30.sbd.Jerugim.177.sbefail.shnf",
       "key": "song:grateful-dead:cumberland",
-      "stats": {},
+      "stats": {
+       "days_since": 94,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 3,
+       "total_plays": 4
+      },
       "title": "Cumberland"
      },
      {
       "from": "gd73-06-30.sbd.Jerugim.177.sbefail.shnf",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 287,
+       "gap_shows": 65,
+       "last_played": {
+        "date": "1972-09-16",
+        "show": "live:grateful-dead:1972-09-16:boston-music-hall"
+       },
+       "plays_before": 4,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      },
      {
       "from": "gd73-06-30.sbd.Jerugim.177.sbefail.shnf",
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 141,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1973-02-09",
+        "show": "live:grateful-dead:1973-02-09:roscoe-maples-pavilion-stanford-u"
+       },
+       "plays_before": 1,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "from": "gd1973-06-30.aud.weiner.100345.flac24",
       "key": "song:grateful-dead:jack-straw-5-51",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jack Straw 5:51"
      },
      {
       "from": "gd1973-06-30.aud.weiner.100345.flac24",
       "key": "song:grateful-dead:playing-in-the-band-14-35",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playin' In The Band 14:35"
      },
      {
       "from": "gd1973-06-30.aud.weiner.100345.flac24",
       "key": "song:grateful-dead:dark-star-15-47",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star> 15:47"
      },
      {
       "from": "gd1973-06-30.aud.weiner.100345.flac24",
       "key": "song:grateful-dead:stella-blue-8-58",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stella Blue 8:58"
      },
      {
       "from": "gd1973-06-30.sbd.128248.flac16",
       "key": "song:grateful-dead:mexacali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 280,
+       "gap_shows": 61,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 8
+      },
       "title": "Mexacali Blues"
      },
      {
       "from": "gd1973-06-30.sbd.128248.flac16",
       "key": "song:grateful-dead:biodtl",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-22",
+        "show": "live:grateful-dead:1973-06-22:p-n-e-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 26
+      },
       "title": "BIODTL"
      }
     ],
     "subject_key": "live:grateful-dead:1973-06-30:universal-amphitheatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 436,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "don't panic folks"
+     ],
+     "show_number": 516,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Universal Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.488589+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.548134+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "MdMwiMDHqZqmmiXTp72QHxdbSrqbjkFUeBcIomjdRGfwljPQR5h30lKdaEu6zHopyhwwSwfB5RVEKZfKjtPZBg",
+   "revision": 42,
+   "signature": "9JpUjGTiaJA294euUUSb8HIhUOfgPVwbUfiKWlm1cXTwzCpr3GPRWejt87xuJD8crearOaWcfP9QGMoMSxnbCQ",
    "subject_key": "live:grateful-dead:1973-06-30:universal-amphitheatre",
-   "updated_at": "2026-10-25T16:41:46.496979"
+   "updated_at": "2026-10-25T17:35:13.549757"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Row Jimmy** (1 review): The Row Jimmy performance is highlighted as exceptional, almost too much [15]\n\n## The recordings\n\n- **gd1973-06-30.sbd.sbvol9.chappell.29753.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 170 min; rated 4.62/5 by 8 [1]. Said about its sound: Vocals are clear, crowd level is appropriate, and instruments sound good but not overly crisp; The matrix mix is balanced, superior to soundboard alone, and the band sounds superb; The Dark Star jam is very sweet, with good bass and balance on the soundboard [11][12][14][16][20]\n- **gd1973-06-30.sbd.baker.19903.shnf**: soundboard; 22 songs; 172 min; rated 4.5/5 by 4 [2]. Said about its sound: The source includes audience patches, notably for the beautiful Bird Song in set one [21]\n- **gd1973-06-30.aud.weiner.100346.flac16**: audience recording; 21 songs; 176 min; rated 4.75/5 by 4 [5]\n- **gd1973-06-30.aud.sirmick.85816.sbeok.flac16**: audience recording; 22 songs; 177 min; rated 4.67/5 by 3 [6]. Said about its sound: The taper cleaned up the audience recording well, making it sound better than most others [17]\n- **gd1973-06-30.aud.weiner.99703.sbeok.flac16**: audience recording; 21 songs; 177 min; rated 4/5 by 2 [7]. Said about its sound: The audience tape is rough in spots but the show itself is terrific; The tape is a washed-out nth generation, but the band is having too much fun [13][19]\n\n## Around the show\n\n- A total solar eclipse occurred, though it was not total at the time of the show [3]\n\n## Tapers and lineage\n\n- **gd1973-06-30.sbd.sbvol9.chappell.29753.flac16**: transferred by Chris Chappell; source: Matrix Mix [1]. Also: Matrix uses LMA SBD and audience sources, with vocals slightly hot but good amphitheater echo [1]\n- **gd1973-06-30.sbd.baker.19903.shnf**: transferred by J.D. Baker; source: This is a patched and re-tracked version of the previously circulating soundboard source shnid = 177 [2]. Also: Baker source combines Matt Z. audience and Chris K. soundboard, processed in Sound Forge and Vegas [2]\n- **gd1973-06-30.aud.weiner.100346.flac16**: transferred by Noah Weiner and Matt Smith; source: Aud -> Master Reel [5]. Also: Will Boswell dubbed the reel in 1979 from Jerry Garcia's personal collection master tape [5]\n- **gd1973-06-30.aud.sirmick.85816.sbeok.flac16**: transferred by SIRMick; source: Audience > Reel [6]\n- **gd1973-06-30.aud.weiner.99703.sbeok.flac16**: transferred by Noah Weiner; source: Aud > MR > ? [7]",

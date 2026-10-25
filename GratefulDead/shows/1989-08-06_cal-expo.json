@@ -404,7 +404,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -450,13 +450,13 @@
     "guests": [],
     "next": {
      "date": "1989-08-17",
-     "show": "live:grateful-dead:1989-08-17:greek-theatre-university-of-california",
-     "venue": "Greek Theatre - University of California"
+     "show": "live:grateful-dead:1989-08-17:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "previous": {
      "date": "1989-08-05",
-     "show": "live:grateful-dead:1989-08-05:cal-expo-amphitheatre",
-     "venue": "Cal Expo Amphitheatre"
+     "show": "live:grateful-dead:1989-08-05:cal-expo",
+     "venue": "Cal Expo"
     },
     "recommended": {
      "identifier": "gd89-08-06.sbd.12831.sbeok.shnf",
@@ -768,102 +768,282 @@
     "setlist": [
      {
       "key": "song:grateful-dead:let-the-good-times-roll",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 15,
+       "total_plays": 49
+      },
       "title": "Let the Good Times Roll"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 150,
+       "total_plays": 216
+      },
       "title": "Feel Like a Stranger"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-07-10",
+        "show": "live:grateful-dead:1989-07-10:giants-stadium"
+       },
+       "plays_before": 173,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-15",
+        "show": "live:grateful-dead:1989-07-15:deer-creek-music-center"
+       },
+       "plays_before": 61,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 244,
+       "total_plays": 326
+      },
       "title": "Ramble on Rose"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 51,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 237,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 264,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 204,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-09",
+        "show": "live:grateful-dead:1989-07-09:giants-stadium"
+       },
+       "plays_before": 311,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 197,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 139,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 1178,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 838,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 23,
+       "total_plays": 36
+      },
       "title": "I Will Take You Home"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-19",
+        "show": "live:grateful-dead:1989-07-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 503,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 336,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-19",
+        "show": "live:grateful-dead:1989-07-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 251,
+       "total_plays": 333
+      },
       "title": "Turn on Your Lovelight"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 259,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 47,
+       "total_plays": 57
+      },
       "title": "And We Bid You Good Night"
      }
     ],
@@ -871,13 +1051,31 @@
      {
       "from": "gd1989-08-06.neumann.pasternak.andrewf.78852.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 135,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1989-08-06.127421.nak304.bowen.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 127,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      }
     ],
@@ -885,26 +1083,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1528,
-     "shows_in_archive": 1855,
+     "show_number": 1633,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cal Expo"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 17,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:10.668141+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.633838+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "o_TscE1p43dun2cTKYK-BkFsqvCxqRXeGLROW_jvPsa-UD6lfR0w6422HhPETow1YeU2zszlcNQbcGxrzW76AQ",
+   "revision": 18,
+   "signature": "en1h4ifrdfLAL8SjnrUwDxWRsemQygEbz_rii7HZ7HioSa92MzpJSMtuRbMuE1QyLdZRREKsTg6Ii3xqtGLCCA",
    "subject_key": "live:grateful-dead:1989-08-06:cal-expo",
-   "updated_at": "2026-10-25T16:42:10.671914"
+   "updated_at": "2026-10-25T17:35:24.635165"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (4 reviews): After the band returns from the solo, Jerry's guitar is fierce and his singing is tightly controlled; Huge groove on Scarlet, with Jerry's vocal and guitar coming out of the solo called a pinnacle [14][15][20][21]\n- **Bird Song** (3 reviews): Bird Song is described as rocking; Jerry and Brent interact beautifully in Bird Song [12][19][21]\n- **Let the Good Times Roll** (1 review): The opening run of Let the Good Times Roll into Feel Like a Stranger and Franklin's Tower is singled out as huge [12]\n- **When I Paint My Masterpiece** (1 review): During Masterpiece, a thin crescent moon and Venus sat perfectly in the sky behind the reviewer [22]\n- **Fire on the Mountain** (1 review): Jerry's Strat solo on Fire on the Mountain produces wild feedback [17]\n- **The Other One** (1 review): The Other One solo also features wild feedback from the Strat, still with Jerry's unmistakable tone [17]\n- **Johnny B. Goode** (1 review): Johnny B. Goode is huge, with powerful vocals from Brent [15]\n\n## The recordings\n\n- **gd89-08-06.sbd.12831.sbeok.shnf** (recommended): soundboard; 20 songs; 158 min; rated 4.46/5 by 13 [1]. Said about its sound: Reviewer hears this as a straight soundboard rather than a heavily processed mix; Audio quality of the soundboard is good but imperfect [12][15]\n- **gd1989-08-06.sbd.unknown.12385.shnf**: soundboard; 20 songs; 159 min; rated 5/5 by 1 [2]. Said about its sound: The second encore, And We Bid You Good Night, misses its first notes and has a one-second dropout [2]\n- **gd1989-08-06.mtx.hansokolow.96358.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 160 min; rated 4/5 by 1 [3]\n- **gd1989-08-06.sbd.miller.89966.sbeok.flac16**: soundboard; 20 songs; 160 min; rated 3.89/5 by 9 [4]\n- **gd89-08-06.neumann-nak.nawrocki.14197.sbeok.shnf**: source not stated; 20 songs; 154 min; rated 4.56/5 by 9 [9]. Said about its sound: First set from the Neumann source sounds excellent; second set on the Nak source is weaker, with louder crowd and boomy low mids; The recording doesn't fully capture how good the performance was; Reviewer wants a better audience recording of the second set [11][14][18]\n\n## Around the show\n\n- The show closed a three-day run at Cal Expo, remembered as a nonstop party [11]\n- Backstage afterward, Billy said he wished every show were this good, according to the reviewer [14]\n- On his birthday Jerry played a Stratocaster, likely only in the second set, for the first time in many years [17]\n- Fans at this show were calling out setlist guesses beforehand; the reviewer arrived having missed the previous night [22]\n- Summer 1989 shows are judged better than spring 1989 ones [18]\n\n## Tapers and lineage\n\n- **gd89-08-06.sbd.12831.sbeok.shnf**: source: Lineage: Master Cassette> DAT> CD> SHN> Peak> WAV> SHN via Scott Kolber and Diesel. Retracked, normalized, seeded by Peter Braverman [1]. Also: This is an Ultramatrix mix of soundboard and audience sources [1]\n- **gd1989-08-06.sbd.unknown.12385.shnf**: transferred by Tommy Brame; source: SBD>Cassette>DAT>CDR [2]\n- **gd1989-08-06.mtx.hansokolow.96358.flac16**: transferred by hansokolow; source: Matrix mix (SBD/AUD) [3]. Also: Hansokolow made a ProTools matrix from soundboard cassette master and Nakamichi cassette master, transferred by Charlie Miller; Audience sources used spaced Neumann KM150 microphones about 50 feet from the stage, plus spaced Nak 700 microphones [3]\n- **gd1989-08-06.sbd.miller.89966.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK SA-X90) D [4]. Also: Charlie Miller's transfer needed two different cassette masters to make the show complete [4]\n- **gd89-08-06.neumann-nak.nawrocki.14197.sbeok.shnf**: source: Set 1FOB Spaced 50 ft. Neumann km150's > MC > CDR > EAC > Sound Forge 4.5 > mkwACT Set 2 FOB Spaced Nak 700's > MC > DAT [9]\n\n## Art and photos\n\n- Fan art by antelopecrossing.blogspot.com: [more GRATEFUL DEAD SBDs 1989](https://antelopecrossing.blogspot.com/2010/12/more-grateful-dead-sbds-1989.html) [24]\n- Fan art by Grateful Dead: [current-page:url:arg:3 | Grateful Dead](https://www.dead.net/tags/cal-expo-amphitheatre) [25]",

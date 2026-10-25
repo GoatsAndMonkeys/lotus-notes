@@ -581,7 +581,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -589,14 +589,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://wallpaperhdcornelia.blogspot.com/",
      "id": 31,
      "image_url": "https://i.pinimg.com/originals/29/18/63/2918635bb3bf6739f146458dee784175.jpg",
      "kind": "fanart",
      "published_at": null,
-     "quote_or_claim": "Fire on the Mountain Previous Next Grateful Dead 19941014 - Madison Square Garden New York NY 61 1.",
+     "quote_or_claim": "Grateful Dead Live at Madison Square Garden on 1994-10-13.",
      "site": "wallpaperhdcornelia.blogspot.com",
      "title": "Grateful Dead Madison Square Garden",
      "url": "https://wallpaperhdcornelia.blogspot.com/2021/05/grateful-dead-madison-square-garden.html",
@@ -619,10 +619,24 @@
      "wayback_url": null
     },
     {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://jerrygarcia.com/",
+     "id": 33,
+     "kind": "blog",
+     "published_at": "1970-01-01T00:00:00+00:00",
+     "quote_or_claim": "Grateful Dead at Madison Square Garden New York New York NY USA Playing In The Band Crazy Fingers Me And My Uncle Big River West…",
+     "site": "Jerry Garcia",
+     "title": "1982-09-21 Madison Square Garden, New York, NY, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1982-09-21-madison-square-garden-new-york-ny-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
      "accessed_at": "2026-10-24",
      "author": null,
      "author_url": "https://wallpaperhdcornelia.blogspot.com/",
-     "id": 33,
+     "id": 34,
      "image_url": "https://i.pinimg.com/originals/df/4f/50/df4f505d3719fed47dfe5e2add4ea8ae.jpg",
      "kind": "poster",
      "published_at": null,
@@ -637,7 +651,7 @@
      "accessed_at": "2026-10-24",
      "author": null,
      "author_url": "https://jerrygarcia.com/",
-     "id": 34,
+     "id": 35,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12152055/b820920.jpg",
      "kind": "poster",
      "published_at": null,
@@ -1186,128 +1200,330 @@
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 78,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 193,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 174,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-09-14",
+        "show": "live:grateful-dead:1982-09-14:university-of-virginia"
+       },
+       "plays_before": 332,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 28,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 72,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-08-04",
+        "show": "live:grateful-dead:1982-08-04:kiel-auditorium"
+       },
+       "plays_before": 14,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-08-04",
+        "show": "live:grateful-dead:1982-08-04:kiel-auditorium"
+       },
+       "plays_before": 155,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 3,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 4,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 174,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 127,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 29,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 121,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 699,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:close-encounters-of-the-third-kind",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Close Encounters of the Third Kind"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 363,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 35,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 331,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 362,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 158,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 390,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 2,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      }
     ],
@@ -1315,76 +1531,150 @@
      {
       "from": "gd1982-09-20.157809.sbd.1gen.remaster.miller.flac1644",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 239,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1982-09-20.157809.sbd.1gen.remaster.miller.flac1644",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 29,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd82-09-20.cohen.minches.19145.sbeok.shnf",
       "key": "song:grateful-dead:drums-continued",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 2,
+       "total_plays": 9
+      },
       "title": "Drums continued"
      },
      {
       "from": "gd1982-09-20.nak300.morrone.118798.flac2448",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1982-08-04",
+        "show": "live:grateful-dead:1982-08-04:kiel-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 36
+      },
       "title": "Good Time Blues (Never Trust a Woman)"
      },
      {
       "from": "gd1982-09-20.nak300.morrone.118798.flac2448",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 3,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1982-09-20.nak300.morrone.118798.flac2448",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 36,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1982-09-20.119120.nak300.chasingwilma.flac16",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 15,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd1982-09-20.119120.nak300.chasingwilma.flac16",
       "key": "song:grateful-dead:good-times",
-      "stats": {},
+      "stats": {
+       "days_since": 121,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 5,
+       "total_plays": 26
+      },
       "title": "Good Times"
      }
     ],
     "subject_key": "live:grateful-dead:1982-09-20:madison-square-garden",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1042,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Close Encounters of the Third Kind"
+     ],
+     "show_number": 1139,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.369556+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.482244+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "t15bmWU5X4ch7g9YuKTQj-EwzAU7P4HMFfORd-rtR3J4u8ys9cJmP8mmFrqhWlSp9xiSTKcPAiYS1WuQUuTBAg",
+   "revision": 42,
+   "signature": "Uhot-Xq66aR1gG8RHeCI8oX3Ck9dhq59zoKFkyUlwlWnBfYEPDY69WuwLajeIsRHQqc1Cb3SOAotf-5vsGIeCg",
    "subject_key": "live:grateful-dead:1982-09-20:madison-square-garden",
-   "updated_at": "2026-10-25T16:41:55.371353"
+   "updated_at": "2026-10-25T17:35:18.483421"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dupree's Diamond Blues** (1 review): The band had not played this song in approximately twenty years [18]\n- **Throwing Stones** (1 review): The first set concluded with a particularly energetic performance of this track [18]\n- **Scarlet Begonias** (1 review): The track lasted almost twelve minutes with deliberate drumming and keys [25]\n- **Spanish Jam** (1 review): The audience found this performance exceptionally loud and memorable [22]\n\n## The recordings\n\n- **gd1982-09-20.mtx.seamons.97897.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 172 min; rated 4.86/5 by 7 [1]\n- **gd1982-09-20.157809.sbd.1gen.remaster.miller.flac1644**: soundboard; 22 songs; 167 min; rated 5/5 by 1 [2]\n- **gd82-09-20.cohen.minches.19145.sbeok.shnf**: audience recording; 22 songs; 171 min; rated 4.62/5 by 8 [3]. Said about its sound: The audio quality is described as muddy despite the strong performance [24]\n- **gd1982-09-20.163448.senn441.eaton.miller.clugston.flac2496**: audience recording; 22 songs; 175 min [6]\n- **gd82-09-20.set2-sbd.miller.18113.sbeok.shnf**: soundboard; 12 songs; 90 min; rated 4.33/5 by 3 [16]. Said about its sound: The recording sounds crisp but is pitched about a half-step too fast [28]\n\n## Around the show\n\n- Attendees danced vigorously until their calves ached by the end of the song [26]\n- The reviewer hitchhiked from Ohio with an African diplomat who had been arrested [29]\n\n## Tapers and lineage\n\n- **gd1982-09-20.mtx.seamons.97897.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [1]. Also: Charlie Miller transferred Sennheiser 421 recordings from cassette to CD and FLAC; Jim Wise recorded the patch source from the eighteenth row center [1]\n- **gd1982-09-20.157809.sbd.1gen.remaster.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  August 31, 2022; source: FLAC > DDi Codec (Dolby B) > Samplitude Pro X6 Suite > FLAC/16 [2]. Also: The remaster adjusted Dolby levels and pitch-corrected the Jim Wise patch source [2]\n- **gd82-09-20.cohen.minches.19145.sbeok.shnf**: taped by Mark Cohen; transferred by Mark Cohen, David Minches; source: Audience Recording: Nak 700s> Sony D5 [3]\n- **gd1982-09-20.163448.senn441.eaton.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob, Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master Audience Cassettes; Sennheiser 441 mics > Nakamichi 550 [6]. Also: Jim Wise's Sennheiser 421 source supplies patches for Shakedown Street and Drums [6]\n- **gd82-09-20.set2-sbd.miller.18113.sbeok.shnf**: source: Soundboard [16]\n\n## Art and photos\n\n- Fan art by wallpaperhdcornelia.blogspot.com: [Grateful Dead Madison Square Garden](https://wallpaperhdcornelia.blogspot.com/2021/05/grateful-dead-madison-square-garden.html) [31]\n- Poster by Jerry Garcia: [1982-09-21 Madison Square Garden, New York, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1982-09-21-madison-square-garden-new-york-ny-usa/) [32]\n- Poster by wallpaperhdcornelia.blogspot.com: [Grateful Dead Madison Square Garden](https://wallpaperhdcornelia.blogspot.com/2021/05/grateful-dead-madison-square-garden.html) [33]\n- Poster by Jerry Garcia: [1982-09-20 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1982-09-20-backstage-pass/) [34]",

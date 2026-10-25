@@ -437,7 +437,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -533,8 +533,8 @@
     },
     "previous": {
      "date": "1979-04-16",
-     "show": "live:grateful-dead:1979-04-16:studio-rehersal-club-front",
-     "venue": "Studio Rehersal, Club Front"
+     "show": "live:grateful-dead:1979-04-16:unknown-studio",
+     "venue": "Unknown studio"
     },
     "recommended": {
      "identifier": "gd1979-04-22.145140.fob.sony.ecm270.severson.miller.clugston.flac2496",
@@ -876,136 +876,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 245,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 222,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-17",
+        "show": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 153,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-17",
+        "show": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 211,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-02-11",
+        "show": "live:grateful-dead:1979-02-11:kiel-auditorium"
+       },
+       "plays_before": 199,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 113,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 188,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-17",
+        "show": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 161,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 35,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 59,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 201,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:studio-rehersal-club-front"
+       },
+       "plays_before": 34,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 215,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 224,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 105,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 57,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 101,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 106,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:unknown-studio"
+       },
+       "plays_before": 426,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 286,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-02-10",
+        "show": "live:grateful-dead:1979-02-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 144,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-02-09",
+        "show": "live:grateful-dead:1979-02-09:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 174,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1979-02-04",
+        "show": "live:grateful-dead:1979-02-04:dane-county-coliseum"
+       },
+       "plays_before": 101,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:shakedown-street",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-02-17",
+        "show": "live:grateful-dead:1979-02-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 22,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      }
     ],
@@ -1013,13 +1229,31 @@
      {
       "from": "gd1979-04-22.134401.set1.sbd.unk.Schley.flac1644",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 74,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-02-07",
+        "show": "live:grateful-dead:1979-02-07:siu-arena-u-of-southern-illinois"
+       },
+       "plays_before": 87,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1979-04-22.set2-partial.sbd.deibert.12895.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-04-16",
+        "show": "live:grateful-dead:1979-04-16:studio-rehersal-club-front"
+       },
+       "plays_before": 106,
+       "total_plays": 1290
+      },
       "title": "Space"
      }
     ],
@@ -1027,10 +1261,10 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 753,
-     "shows_in_archive": 1855,
+     "show_number": 849,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Bill Graham"
@@ -1039,16 +1273,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 24,
+   "parent_revision": 36,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.663857+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.929786+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 25,
-   "signature": "RnVFV4AblzWgKVRr20PLNvvDrq2qfpDpnAgcWqVhplYLiOP7iRslDi3dqyUyqEFAM8EGEFnDRUNcEbnzx2drAw",
+   "revision": 37,
+   "signature": "huWCyNaTCEpm8HUadqMgzvkAQFjwHfdfU_pKTjR6VXAL7WcmoGgIoxgE1cvbr3rX2dXx7zeuX3Z1DAV1mv4fCQ",
    "subject_key": "live:grateful-dead:1979-04-22:spartan-stadium-san-jose-state-u",
-   "updated_at": "2026-10-25T16:41:52.665145"
+   "updated_at": "2026-10-25T17:35:15.930681"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Drums** (1 review): The band is in rhythm devils mode during this extended jam [23]\n\n## The recordings\n\n- **gd1979-04-22.145140.fob.sony.ecm270.severson.miller.clugston.flac2496** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 223 min; rated 4/5 by 1 [1]\n- **gd1979-04-22.148569.sbd.composite.clugston.flac16**: soundboard; 24 songs; 208 min; rated 5/5 by 1 [5]\n- **gd79-04-22.sbd.bennett.12001.sbeok.shnf**: soundboard; 24 songs; 206 min; rated 3.81/5 by 62 [6]. Said about its sound: The transition into Fire On The Mountain is described as tremendous; Instruments come through well despite some hissing, with Weir playing slide; Jerry takes the controls on a tight performance of this song [19][21]\n- **gd1979-04-22..s2.sbd.munder.9424.sbeok.shnf**: soundboard; 13 songs; 132 min; rated 4.5/5 by 2 [8]. Said about its sound: Minor right channel static is present throughout the first disc [8]\n\n## Around the show\n\n- Stage talk about: Bill Graham [1]\n- It rained during the performance of this song at the stadium [15]\n- The reviewer's friend, a recent military veteran, bought tickets for the show [15]\n- Audience members recognized the new bassist from a previous Bob Weir Band gig [16]\n- Mickey gets a hot mention for his vibraphone playing in the background [23]\n- Charlie Daniels and the Greg Kihn Band were the other artists [3]\n\n## Tapers and lineage\n\n- **gd1979-04-22.145140.fob.sony.ecm270.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master (FOB)Audience Cassette ; Sony ECM-270 mics (DFC, split, mounted on poles 5' apart, 20' in front of soundboard) > Sony TC-158SD (2 x… [1]. Also: Mark Severson provided the master cassettes for the recording; Charlie Miller handled the transfer and coordinated the release effort [1]\n- **gd1979-04-22.148569.sbd.composite.clugston.flac16**: transferred by Composite by Scott Clugston; source: composite of 3 sources, compiled, patched and tweeked to represent the best available sources (imo) as of 12/19 [5]. Also: The second set source was pitch and channel corrected for accuracy [5]\n- **gd79-04-22.sbd.bennett.12001.sbeok.shnf**: source: Soundboard [6]\n- **gd1979-04-22..s2.sbd.munder.9424.sbeok.shnf**: transferred by Willy Munder; source: SBD>MR>??>DAT>CDR [8]\n\n## Art and photos\n\n- Poster by www.auctionninja.com: [Grateful Dead Original Poster April 22, 1979 Spartan Stadium San Jose, CA Randy Tuten Art - 1st Printing #2283597 | Auct](https://www.auctionninja.com/clearinghouseestatesales/product/rateful-dead-original-poster-april-22-1979-spartan-stadium-san-jose-ca-randy-tuten-art-1st-printing-2365941.html) [25]\n- Poster by www.auctionninja.com: [Grateful Dead Original Poster April 22, 1979 Spartan Stadium San Jose, CA Randy Tuten Art - 1st Printing #2283597 | Auct](https://www.auctionninja.com/clearinghouseestatesales/product/rateful-dead-original-poster-april-22-1979-spartan-stadium-san-jose-ca-randy-tuten-art-1st-printing-2365941.html) [26]\n- Poster by www.auctionninja.com: [Grateful Dead Original Poster April 22, 1979 Spartan Stadium San Jose, CA Randy Tuten Art - 1st Printing #2283597 | Auct](https://www.auctionninja.com/clearinghouseestatesales/product/rateful-dead-original-poster-april-22-1979-spartan-stadium-san-jose-ca-randy-tuten-art-1st-printing-2365941.html) [27]\n- Poster by www.auctionninja.com: [Grateful Dead Original Poster April 22, 1979 Spartan Stadium San Jose, CA Randy Tuten Art - 1st Printing #2283597 | Auct](https://www.auctionninja.com/clearinghouseestatesales/product/rateful-dead-original-poster-april-22-1979-spartan-stadium-san-jose-ca-randy-tuten-art-1st-printing-2365941.html) [28]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1979-04-22 Sun Earth Day Garcia's first known performance with Brent Mydland Spartan Stadium, San Jose Sta](https://www.livegrateful.net/post/1368139652680/grateful-dead-1979-04-22-sun-earth-day) [29]",

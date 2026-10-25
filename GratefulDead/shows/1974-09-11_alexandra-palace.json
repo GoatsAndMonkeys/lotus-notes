@@ -358,7 +358,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -761,133 +761,358 @@
     "setlist": [
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 23,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 164,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-08-05",
+        "show": "live:grateful-dead:1974-08-05:philadelphia-civic-arena"
+       },
+       "plays_before": 105,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 209,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 139,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 169,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 81,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-08-05",
+        "show": "live:grateful-dead:1974-08-05:philadelphia-civic-arena"
+       },
+       "plays_before": 120,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 139,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 114,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 25,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 217,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:seastones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 12,
+       "total_plays": 19
+      },
       "title": "Seastones"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 65,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 134,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-08-04",
+        "show": "live:grateful-dead:1974-08-04:philadelphia-civic-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 134,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 72,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 72,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 23,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 136,
+       "total_plays": 302
+      },
       "title": "Going Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 228,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:audience",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-08-05",
+        "show": "live:grateful-dead:1974-08-05:philadelphia-civic-arena"
+       },
+       "plays_before": 5,
+       "total_plays": 12
+      },
       "title": "audience"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 30,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 30,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -895,37 +1120,81 @@
      {
       "from": "gd74-09-11.sbd.powell.12183.sbeok.shnf",
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 304,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "from": "gd74-09-11.sbd.powell.12183.sbeok.shnf",
       "key": "song:grateful-dead:phil-and-ned",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 7,
+       "total_plays": 14
+      },
       "title": "Phil and Ned"
      },
      {
       "from": "gd74-09-11.sbd.powell.12183.sbeok.shnf",
       "key": "song:grateful-dead:phil-and-ned-continued",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil and Ned continued"
      },
      {
       "from": "gd74-09-11.sbd.powell.12183.sbeok.shnf",
       "key": "song:grateful-dead:space-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 5,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "from": "gd1974-09-11.sbd.unknown.4647.shnf",
       "key": "song:grateful-dead:stronger-than-dirt",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 10
+      },
       "title": "Stronger Than Dirt"
      },
      {
       "from": "gd1974-09-11.sbd.hamilton.3190.shnf",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 22,
+       "total_plays": 115
+      },
       "title": "Going Down The Road"
      }
     ],
@@ -933,26 +1202,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 511,
-     "shows_in_archive": 1855,
+     "show_number": 594,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alexandra Palace"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.263612+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.278536+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "1DXmi_MvNQeYRueTXY9xIW509S_ssmgJTjeVD7J3aACkV8twbOuzWO5XdiFrYpaFavBgbh4dPNxcp6fDhrv8Dw",
+   "revision": 42,
+   "signature": "PYTYeCCa1tXkPLfQ3-GN3XksS_vlKDw3jXMh53cim8zmYRBMymEOd_QMEpahE7W17bSNRk5Hl660wYbJgdsrCw",
    "subject_key": "live:grateful-dead:1974-09-11:alexandra-palace",
-   "updated_at": "2026-10-25T16:41:48.265749"
+   "updated_at": "2026-10-25T17:35:14.279683"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Seastones (Phil & Ned)** (2 reviews): Listener praises the performance, noting it is nice to hear Ned and the band make music; Ned plays electric piano lead, and Jerry bends strings differently, creating serious symmetry in the performance [9][20]\n- **Scarlet Begonias** (1 review): Opening Scarlet Begonias is extended and packed with great jamming, highlighted in the first set [17]\n- **Playing in the Band** (1 review): A 23-minute set-closing performance features jazzy excursions and dynamic interplay, noted as a highlight [17]\n- **U.S. Blues* (AUD Only)** (1 review): Second set ends with an audience patch of Sunshine Daydream and an encore of U.S. Blues [14]\n- **Stronger Than Dirt** (1 review): Listener argues the jam is not Stronger Than Dirt, but a common 1974 Eyes of the World variation [12]\n\n## The recordings\n\n- **gd1974-09-11.132458.mtx.GEMS-BCE.flac16** (recommended): matrix (soundboard mixed with audience mics); 26 songs; 226 min; rated 4.17/5 by 6 [1]\n- **gd1974-09-11.sbd.unknown.4647.shnf**: matrix (soundboard mixed with audience mics); 23 songs; 215 min; rated 4.08/5 by 13 [3]. Said about its sound: Described as classic 1974 sound; feedback is present, unlike newer cleaner amplifiers which removed it; Sound quality is rated great, offering a view of Jerry when he was young and healthy [9][15]\n- **gd1974-09-11.sbd.bertha-ashley.7365.shnf**: soundboard; 21 songs; 191 min; rated 5/5 by 2 [6]. Said about its sound: Scarlet Begonias drops out between 2:05 and 3:10 due to technical problems in the original recording [6]\n- **gd1974-09-11.sbd.hamilton.3190.shnf**: soundboard; 21 songs; 191 min; rated 4/5 by 1 [7]. Said about its sound: Major sound system and mix problems occur between 2:06 and 3:10 on the first disc; The fourth disc cuts at Sunshine Daydream, and discs two and four are short to preserve original playing [7]\n- **gd1974-09-11.sbd.partial.cribbs.121207.flac16**: soundboard; 6 songs; 74 min; rated 4.44/5 by 9 [8]. Said about its sound: Sound is as good as any 1974 soundboard, described as a remarkable chunk cleaned up nicely [20]\n\n## Around the show\n\n- Listener reacts with excitement to the performance of Sugaree, Playin', Eyes, and Space [16]\n\n## Tapers and lineage\n\n- **gd1974-09-11.132458.mtx.GEMS-BCE.flac16**: transferred by Matrix by Dave Usborne; source: 3 source matrix by Dusborne; Soundboard 1(Shnid:012183) Candelario Matrix MSR > D> CD; Soundboard 2(Shnid:121207) SBD > Master Reel > DAT > Sonic Solutions >… [1]. Also: The date is featured on Dick's Picks 7, with show information embedded in the flac headers [1]\n- **gd1974-09-11.sbd.unknown.4647.shnf**: source: Reel master > DAT > CDR > EAC > SHN [3]. Also: Identified as a matrix of Dick's Picks, containing what is claimed to be the first Stronger Than Dirt; Uploader notes explain the process, contradicting claims that the source is from Dick's Picks [10][11]\n- **gd1974-09-11.sbd.bertha-ashley.7365.shnf**: transferred by Jay Ashley; source: Bertha Remaster of Master Reel source [6]. Also: Digitally remastered in 2001 using a custom Dual-DAW nicknamed Bertha by an archive.org user [6]\n- **gd1974-09-11.sbd.hamilton.3190.shnf**: transferred by Seth Kaplan and G.S. Hamilton; source: SBD > DAT > CDR [7]\n- **gd1974-09-11.sbd.partial.cribbs.121207.flac16**: transferred by Sean Cribbs; source: Partial SBD > Master Reel > DAT > Sonic Solutions > DAT > CD > FLAC [8]. Also: This sequence is missing from Dick's Picks 7 due to space limitations but is now available [19]",

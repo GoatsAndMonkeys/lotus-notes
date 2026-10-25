@@ -230,7 +230,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -339,112 +339,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 103,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 49,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 103,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 108,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 361,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 197,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 121,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 34,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 182,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 73,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 67,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 99,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 51,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 119,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 56,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 280,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 93,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 407,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 279,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 210,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 96,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -452,7 +650,16 @@
      {
       "from": "gd1979-01-08.nak300-wagner.miller.87657.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 100,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      }
     ],
@@ -460,26 +667,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 734,
-     "shows_in_archive": 1855,
+     "show_number": 829,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.524909+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.827860+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "2ISBscFqk9f89KIvCg2fAYmv_Q285qhcuPND9Clkq10Eq1fCwrhbmek_B724ExVvc9JzKGyVEsk5y7ZMoMDqCw",
+   "revision": 42,
+   "signature": "sKwnU1zuQKkipSmy3QKmYBMrFCRZYkVhicpE41gXoWsbNoYA4FCD48htDxN16MCXV467WlPQg35lxa3BhZvnBg",
    "subject_key": "live:grateful-dead:1979-01-08:madison-square-garden",
-   "updated_at": "2026-10-25T16:41:52.526103"
+   "updated_at": "2026-10-25T17:35:15.828428"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Friend of the Devil** (1 review): First set sequence of Friend of the Devil, All Over Now, Brown Eyed Women [3]\n- **Terrapin Station** (1 review): The Terrapin performance is considered worth the download alone [11]\n\n## The recordings\n\n- **gd79-01-08.gatto.glyde.10283.sbeok.shnf** (recommended): audience recording; 22 songs; 176 min; rated 3.96/5 by 51 [1]. Said about its sound: Recording features real clean sound quality throughout the performance; Quality could be better, but the music counts and rarely gets better; Crowd noise is present, but the show can be enjoyed supremely [3][6][7][10][12]\n- **gd1979-01-08.nak300-wagner.miller.87657.flac16**: source not stated; 21 songs; 184 min; rated 4.3/5 by 20 [2]\n\n## Around the show\n\n- Energy and music remain extraordinary from Half-Step through Good Lovin' [6]\n- Rumor says a long-time NY Deadhead went to the vault for this show [8]\n- Show was rescheduled from December 1, 1978 [2]\n- Intensity is up during Lazy>Supp, but show is lazy with periodic fast playing [12]\n\n## Tapers and lineage\n\n- **gd79-01-08.gatto.glyde.10283.sbeok.shnf**: taped by Keith Gatto; source: Audience Recording: Shure SM57's [1]. Also: No circulating SBD exists; Rob Eaton's vault lacks a copy of this show; Keith Gatto recorded this show using Nak 300 microphones, not Shure; Shntool confirmed sector boundaries; MKWact converted to shn, seekable format [1][5][8]\n- **gd1979-01-08.nak300-wagner.miller.87657.flac16**: taped by Bob Wagner; transferred by Charlie Miller; source: Nakamichi 300/CP1 -> Cassette Master (Maxell UDXL-II/Sony TC-158) [2]. Also: All disc changes are seamless; master cassette flips occur during Drums [2]\n\n## Art and photos\n\n- Poster by www.gratefulseconds.com: [Madison Square Garden Took One Million Souls During Grateful Dead's 52-Show 15-Year Run, 1979-1994](http://www.gratefulseconds.com/2017/08/madison-square-garden-took-one-million.html) [16]",

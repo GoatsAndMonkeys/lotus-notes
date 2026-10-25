@@ -527,7 +527,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -548,8 +548,8 @@
     },
     "previous": {
      "date": "1985-06-21",
-     "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theater",
-     "venue": "Alpine Valley Music Theater"
+     "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre",
+     "venue": "Alpine Valley Music Theatre"
     },
     "recommended": {
      "identifier": "gd1985-06-22.sbd.hillwig.13478.sbeok.shnf",
@@ -981,117 +981,306 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-14",
+        "show": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 63,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 262,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 5,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 199,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 91,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 176,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 209,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 272,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 250,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:keep-on-growing",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-14",
+        "show": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Keep On Growing"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 134,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 145,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 145,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 877,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-21",
+        "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre"
+       },
+       "plays_before": 540,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 9,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 96,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 189,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 80,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 390,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 131,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1099,31 +1288,71 @@
      {
       "from": "gd1985-06-22.133603.aud.Holtz.NakCM104.flac2496",
       "key": "song:grateful-dead:half-step-mississippi-uptown-toodle-do",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Half Step Mississippi Uptown Toodle-oo"
      },
      {
       "from": "gd1985-06-22.nak100.holtz.86805.sbeok.flac16",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 133,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "from": "gd1985-06-22.152621.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:equipment-break",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 12,
+       "total_plays": 34
+      },
       "title": "equipment break"
      },
      {
       "from": "gd1985-06-22.152621.akgc422-davis-murtha.holbrook.flac2448",
       "key": "song:grateful-dead:encore-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 7,
+       "total_plays": 12
+      },
       "title": "Encore Brokedown Palace"
      },
      {
       "from": "gd1985-06-22.117823.BeyerM160.daweez.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-14",
+        "show": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 47,
+       "total_plays": 74
+      },
       "title": "noodling"
      }
     ],
@@ -1131,26 +1360,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1220,
-     "shows_in_archive": 1855,
+     "show_number": 1323,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alpine Valley Music Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.329884+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.611026+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "1MTE2lfCGtF31zCJ349z80ry5exFw4QGp7lWUfw9lPw9kYYSiv2zxCu63EJeOyQEFMITPYcukxWRyPVv9QvyBQ",
+   "revision": 42,
+   "signature": "oRRRtqt93HbEy0C3TWE32vdZRhTkefJnkXE3EbTYv-XVCJZz1lx5vTK6zbPsj0789fiW6T_pTsEelszETDK6Ag",
    "subject_key": "live:grateful-dead:1985-06-22:alpine-valley-music-theater",
-   "updated_at": "2026-10-25T16:42:00.331967"
+   "updated_at": "2026-10-25T17:35:20.612343"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Hell In A Bucket** (1 review): The set opener features extremely energetic playing with blazing leads by Garcia [21]\n- **Dear Mr. Fantasy** (1 review): Both Brent and Jerry butcher the lyrics to this particular song [23]\n\n## The recordings\n\n- **gd1985-06-22.sbd.hillwig.13478.sbeok.shnf** (recommended): soundboard; 21 songs; 150 min; rated 4.4/5 by 5 [1]. Said about its sound: Jerry's vocals are too low in the soundboard mix compared to audience recordings [20]\n- **gd1985-06-22.123486.sbd.miller.flac16**: soundboard; 21 songs; 150 min; rated 3.6/5 by 5 [2]\n- **gd1985-06-22.mtx.seamons.109561.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 150 min; rated 3.55/5 by 11 [3]. Said about its sound: The balanced, polished, and perfectly bright sound is finally listenable to the reviewer; The matrix mix brings back memories of an underrated stop on the tour [22][24]\n- **gd1985-06-22.173037.nak304.thomas.miller.clugston.flac2496**: audience recording; 21 songs; 145 min [4]\n- **gd1985-06-22.154532.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 21 songs; 146 min [6]\n\n## Around the show\n\n- Reviewer hitchhiked from Rhode Island and entered Alpine Valley via the front gate without tickets [15]\n- The sky was described as beautiful during the Lost Sailor performance that night [15]\n- A dying friend, a Go-Go Bar owner, praised the band after hearing the second set [18]\n- High energy performance is accompanied by audible crowd excitement and participation [23]\n- Reviewer and friend Kurt hitchhiked from Rhode Island to Alpine Valley and back [25]\n- Jerry addresses the large crowd, noting there are a lot of people out there [26]\n- Brent's drumming outshines Bobby's, with moments sounding like only the two are playing [17]\n- This show ranks as high as the Hershey Park and Merriweather performances [20]\n\n## Tapers and lineage\n\n- **gd1985-06-22.sbd.hillwig.13478.sbeok.shnf**: transferred by Craig Hillwig; source: SBD > ? > PCM > DAT @ 44.1 [1]. Also: Source is SBD to PCM to DAT, with pre-emphasis removed and fades added [1]\n- **gd1985-06-22.123486.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> PCM -> Dat (44.1k) [2]. Also: Source is direct from DAT with a confirmed lineage, preferred over others [2]\n- **gd1985-06-22.mtx.seamons.109561.flac16**: transferred by Hunter Seamons; source: Matrix by Hunter Seamons using Final Cut Pro (SHN & FLAC > AIFF > Final Cut > AIFF CD tracking via Audacity > FLAC16 via xACT) [3]\n- **gd1985-06-22.173037.nak304.thomas.miller.clugston.flac2496**: taped by Stephen Thomas; transferred by Scott Clugston, Charlie Miller; source: Stephen Thomas' Master Audience Cassettes; Nakamichi 300 mics + CP4 shotguns > Sony D5M [4]. Also: Sennheiser ME80 source supplies patches for Althea and the Drums to Space transition [4]\n- **gd1985-06-22.154532.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME80 mics > Sony D5M [6]. Also: Nakamichi 100 source supplies a patch in Drums, verified by Joe B. Jones [6]",

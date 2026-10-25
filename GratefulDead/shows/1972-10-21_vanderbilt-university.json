@@ -288,7 +288,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -304,12 +304,12 @@
     "guests": [],
     "next": {
      "date": "1972-10-23",
-     "show": "live:grateful-dead:1972-10-23:performing-arts-center",
-     "venue": "Performing Arts Center"
+     "show": "live:grateful-dead:1972-10-23:milwaukee-performing-arts-center",
+     "venue": "Milwaukee Performing Arts Center"
     },
     "previous": {
-     "date": "1972-10-18",
-     "show": "live:grateful-dead:1972-10-18:fox-theatre",
+     "date": "1972-10-19",
+     "show": "live:grateful-dead:1972-10-19:fox-theatre",
      "venue": "Fox Theatre"
     },
     "recommended": {
@@ -472,34 +472,88 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-19",
+        "show": "live:grateful-dead:1972-10-19:fox-theatre"
+       },
+       "plays_before": 37,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-19",
+        "show": "live:grateful-dead:1972-10-19:fox-theatre"
+       },
+       "plays_before": 55,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-19",
+        "show": "live:grateful-dead:1972-10-19:fox-theatre"
+       },
+       "plays_before": 45,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-19",
+        "show": "live:grateful-dead:1972-10-19:fox-theatre"
+       },
+       "plays_before": 141,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-19",
+        "show": "live:grateful-dead:1972-10-19:fox-theatre"
+       },
+       "plays_before": 194,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-10-18",
+        "show": "live:grateful-dead:1972-10-18:fox-theatre"
+       },
+       "plays_before": 93,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      }
     ],
@@ -508,26 +562,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 390,
-     "shows_in_archive": 1855,
+     "show_number": 465,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Vanderbilt University"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.307075+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.047578+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Ny6fefAu2zMyrz8RI9bVGYduAymvtkWCV4Glh-k-GY0-SUrVwclqM9ae3iZwbMWbpJSdAEsEBN-fPakrUnHnAA",
+   "revision": 41,
+   "signature": "lj2btW31CMGVjhNcBVOTNZCC-eRtjDvvXSLRnS-RaiP3aFbmN67bwYfNEyiu49hOFsyoKAGVbNOXy3LHGUffDQ",
    "subject_key": "live:grateful-dead:1972-10-21:vanderbilt-university",
-   "updated_at": "2026-10-25T16:41:45.308895"
+   "updated_at": "2026-10-25T17:35:13.048595"
   }
  },
  "recommended": {

@@ -512,7 +512,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1054,113 +1054,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 138,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-09",
+        "show": "live:grateful-dead:1989-07-09:giants-stadium"
+       },
+       "plays_before": 413,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-07-10",
+        "show": "live:grateful-dead:1989-07-10:giants-stadium"
+       },
+       "plays_before": 67,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 319,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 259,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 298,
+       "gap_shows": 59,
+       "last_played": {
+        "date": "1988-09-23",
+        "show": "live:grateful-dead:1988-09-23:madison-square-garden"
+       },
+       "plays_before": 4,
+       "total_plays": 13
+      },
       "title": "The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-07-15",
+        "show": "live:grateful-dead:1989-07-15:deer-creek-music-center"
+       },
+       "plays_before": 236,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 355,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-07-15",
+        "show": "live:grateful-dead:1989-07-15:deer-creek-music-center"
+       },
+       "plays_before": 515,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 263,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 126,
+       "total_plays": 182
+      },
       "title": "Man Smart/ Woman Smarter"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 303,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 1174,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 834,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-07-15",
+        "show": "live:grateful-dead:1989-07-15:deer-creek-music-center"
+       },
+       "plays_before": 98,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 48,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:hey-jude-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 16,
+       "total_plays": 25
+      },
       "title": "Hey Jude Reprise"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 170,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-07-15",
+        "show": "live:grateful-dead:1989-07-15:deer-creek-music-center"
+       },
+       "plays_before": 100,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 39,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn"
      }
     ],
@@ -1168,67 +1348,166 @@
      {
       "from": "gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 370,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16",
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 41,
+       "total_plays": 79
+      },
       "title": "Stuck Inside Of Mobile With The Memphis Blues Again"
      },
      {
       "from": "gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 138,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16",
       "key": "song:grateful-dead:hey-jude",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 21,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "from": "gd1989-07-18.142298.Lawn.Schoeps.Mattes.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:quinn-the-eskimo",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 20,
+       "total_plays": 36
+      },
       "title": "Quinn the Eskimo (The Mighty Quinn)"
      },
      {
       "from": "gd89-07-18.sbd.9854.sbeok.shnf",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 32,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd1989-07-18.119772.nak.boedicker.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 134,
+       "total_plays": 187
+      },
       "title": "Women are Smarter"
      },
      {
       "from": "gd1989-07-18.nak.cohen-lee.106720.sbeok.flac16",
       "key": "song:grateful-dead:stuck-inside-of-mobile",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 13,
+       "total_plays": 26
+      },
       "title": "Stuck Inside of Mobile"
      },
      {
       "from": "gd1989-07-18.147567.beyerCM101.ebel.flac2496",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 92,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1989-07-18.Nak300CP4.Baker.Keo.125511.Flac1644",
       "key": "song:grateful-dead:promised-land-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 8,
+       "total_plays": 23
+      },
       "title": "Promised Land, Set Break"
      },
      {
       "from": "gd1989-07-18.Nak300CP4.Baker.Keo.125511.Flac1644",
       "key": "song:grateful-dead:encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 9,
+       "total_plays": 32
+      },
       "title": "Encore..Break (End Added From Set 1 Tape)"
      }
     ],
@@ -1236,26 +1515,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1524,
-     "shows_in_archive": 1855,
+     "show_number": 1629,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alpine Valley Music Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:10.544840+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.587812+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "KZe7xUMEEgA0N3yHX88APRnBzailT8aY013UII2NNWj5VZ08OaWnWJMBfAGHkTQ14zHbTVygHDKk3EgozmK2AQ",
+   "revision": 42,
+   "signature": "8AXp7tk8CnKXSyT-S4LRvrqxzrXv9-zO1oUr1BpJIhvc-tKnopn07_9npoph1q3D2uVWjqgChmSYPUan5uASDA",
    "subject_key": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre",
-   "updated_at": "2026-10-25T16:42:10.547064"
+   "updated_at": "2026-10-25T17:35:24.589178"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugar Magnolia** (2 reviews): The song was a ton of fun, prompting vigorous dancing during the jam; The transition to Scarlet Begonias is described as seamless and goosebump-inducing [16][17]\n- **China Doll** (1 review): The end of the song is highlighted for Jerry's beautiful midi work [22]\n\n## The recordings\n\n- **gd1989-07-18.sbd.walstib.435.shnf** (recommended): soundboard; 20 songs; 155 min; rated 3.75/5 by 12 [1]\n- **gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 154 min [2]\n- **gd89-07-18.sbd.9854.sbeok.shnf**: soundboard; 20 songs; 147 min; rated 4.68/5 by 37 [5]. Said about its sound: Velvety leads and well-oiled harmonies, particularly in Memphis, define the sweet recording; Sound quality is described as superb, with Minglewood and Bird Song noted as particularly sweet; Sound quality is superb, though the bass is noted as being a bit too high [15][20][24]\n- **gd1989-07-18.mtx.hansokolow.96231.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 150 min; rated 4/5 by 1 [6]\n- **gd1989-07-18.sbd.brantley.28474.sbeok.shnf**: soundboard; 20 songs; 147 min; rated 3.5/5 by 4 [7]\n- **gd1989-07-18.senn441.coniff.gmb.92430.flac16**: source not stated; 20 songs; 146 min; rated 4.67/5 by 3 [8]\n\n## Around the show\n\n- Attendees sat in a roped-off area near the stage, holding breath until lights went down [16]\n- Weather was cooler than the previous year at the Alpine Valley venue [18]\n- The outdoor ski hill amphitheater with trees in the background resembled a story pop-up book [21]\n- A persistent three-day downpour made the weather feel like October rather than July [26]\n- The reviewer got puddled at the show during the drums section [29]\n- The Sugar/Scarlet transition is considered equal in quality to the 1990 Buffalo show [18]\n- These three nights are called the best post-coma shows, with electric energy throughout [25]\n- This night is the reviewer's favorite of the three due to the adventurous set list [26]\n\n## Tapers and lineage\n\n- **gd1989-07-18.sbd.walstib.435.shnf**: transferred by Nick Georges; source: DSBD>DAT>CD [1]\n- **gd1989-07-18.138496.ultra.matrix.sbd.miller.flac16**: transferred by Charlie Miller; source: Ultra Matrix SBD > Cassette Master (TDK MA-XG90) [2]. Also: Two sets of masters were used to create the complete show, converted from 24 to 16 bit [2]\n- **gd89-07-18.sbd.9854.sbeok.shnf**: transferred by Jason Brantley; source: DSBD [5]\n- **gd1989-07-18.mtx.hansokolow.96231.flac16**: transferred by hansokolow; source: Matrix mix (SBD/AUD) [6]. Also: Matrix created by hansokolow in ProTools from a Sennheiser 441 and Marantz PDM 340 cassette; Recorded by Casey Coniff in front of the Repeater Stack using a Maxell MX-S 90 tape [6]\n- **gd1989-07-18.sbd.brantley.28474.sbeok.shnf**: transferred by Jason Brantley; source: DSBD [7]. Also: SBE in d1t02 was fixed by William at TuneTree for this soundboard upload [7]\n- **gd1989-07-18.senn441.coniff.gmb.92430.flac16**: taped by Casey Coniff; transferred by Bill Koucky; source: Sennheiser 441 > Marantz PDM 340 w/ dbx (Cassette Master Maxell MX-S 90) [8]. Also: Quinn The Eskimo was taped at the end of the first set, with no patch sources used; Tape flips occurred after Friend of the Devil, during Drums, and before the encore [8]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Alpine Valley Music Theatre - July 18, 1989](https://www.dead.net/show/july-18-1989) [28]\n- Fan art by www.tbanjo.com: [Grateful Dead Go to the Movies: Alpine Valley, 7/18/89](http://www.tbanjo.com/2012/04/grateful-dead-go-to-movies-alpine.html) [31]\n- Poster by Carlos Pérez Báez: [Grateful Dead estrena la película del concierto de 1989 en el \"Alpine Valley Music Theatre\" de Wisconsin - Dirty Rock Ma](https://www.dirtyrock.info/2012/03/grateful-dead-estrena-la-pelicula-del-concierto-de-1989-en-el-alpine-valley-music-theatre-de-wisconsin/) [32]\n- Poster by Robbi Cohn: [1989-07-18 Alpine Valley Music Theatre, East Troy, WI, USA - Jerry Garcia](https://jerrygarcia.com/show/1989-07-18-alpine-valley-music-theatre-east-troy-wi-usa/) [33]",

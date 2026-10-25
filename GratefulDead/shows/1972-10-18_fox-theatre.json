@@ -307,7 +307,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -364,14 +364,14 @@
     "date": "1972-10-18",
     "guests": [],
     "next": {
-     "date": "1972-10-21",
-     "show": "live:grateful-dead:1972-10-21:vanderbilt-university",
-     "venue": "Vanderbilt University"
+     "date": "1972-10-19",
+     "show": "live:grateful-dead:1972-10-19:fox-theatre",
+     "venue": "Fox Theatre"
     },
     "previous": {
-     "date": "1972-10-09",
-     "show": "live:grateful-dead:1972-10-09:winterland-arena",
-     "venue": "Winterland Arena"
+     "date": "1972-10-17",
+     "show": "live:grateful-dead:1972-10-17:fox-theatre",
+     "venue": "Fox Theatre"
     },
     "recommended": {
      "identifier": "gd1972-10-18.139725.sbd.miller.sirmick.remaster.flac16",
@@ -563,126 +563,342 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 85,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 222,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 24,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 67,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-10-02",
+        "show": "live:grateful-dead:1972-10-02:springfield-civic-center"
+       },
+       "plays_before": 43,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-10-09",
+        "show": "live:grateful-dead:1972-10-09:winterland-arena"
+       },
+       "plays_before": 121,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 43,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 13,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-10-09",
+        "show": "live:grateful-dead:1972-10-09:winterland-arena"
+       },
+       "plays_before": 91,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-10-02",
+        "show": "live:grateful-dead:1972-10-02:springfield-civic-center"
+       },
+       "plays_before": 77,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-10-02",
+        "show": "live:grateful-dead:1972-10-02:springfield-civic-center"
+       },
+       "plays_before": 70,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 90,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 178,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 180,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 131,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-10-02",
+        "show": "live:grateful-dead:1972-10-02:springfield-civic-center"
+       },
+       "plays_before": 222,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-09-27",
+        "show": "live:grateful-dead:1972-09-27:stanley-theatre"
+       },
+       "plays_before": 147,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-10-02",
+        "show": "live:grateful-dead:1972-10-02:springfield-civic-center"
+       },
+       "plays_before": 92,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 131,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 66,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 46,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-10-09",
+        "show": "live:grateful-dead:1972-10-09:winterland-arena"
+       },
+       "plays_before": 40,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-09-30",
+        "show": "live:grateful-dead:1972-09-30:american-university"
+       },
+       "plays_before": 70,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 219,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -690,7 +906,16 @@
      {
       "from": "gd1972-10-18.3393.sbd.lai.shnf",
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-10-09",
+        "show": "live:grateful-dead:1972-10-09:winterland-arena"
+       },
+       "plays_before": 48,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      }
     ],
@@ -698,26 +923,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 389,
-     "shows_in_archive": 1855,
+     "show_number": 463,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fox Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.282923+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.033758+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "1Wh_nN4uwjfIx6tCDm0D78e42drehWOepNmGcLEY6LO677CuFIY2iecTPHwMCVupidHB1xdHzwGsbkLea-nLCQ",
+   "revision": 31,
+   "signature": "E0i2ucBxObURoC10nxm_2Ila2WDkVa9HecWc_uiRXMl9GcUcHLThZeRZIs-lScxDa_RPiFvw0PE9XWZCe2LNCQ",
    "subject_key": "live:grateful-dead:1972-10-18:fox-theatre",
-   "updated_at": "2026-10-25T16:41:45.287681"
+   "updated_at": "2026-10-25T17:35:13.035098"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (3 reviews): Phil opens the Dark Star, which this reviewer rates among the best ever; Dark Star sits in a Playin' sandwich with a bass solo and Feelin' Groovy jam leading into Morning Dew [7][14][17]\n- **Bird Song** (1 review): Bird Song features a raw, jamming performance that helps make the first set strong [16]\n- **Loser** (1 review): Loser is played hot and helps the first set heat up [11]\n- **Jack Straw** (1 review): Jack Straw is a hot version that follows Loser in the first set [11]\n- **El Paso** (1 other source): A 'Yellow Rose of Texas' tuning occurs just before El Paso [1]\n- **Playing In The Band** (1 review): Fast-paced band jamming with Billy giving a strong backdrop, then a short drum solo leads into Dark Star [7]\n\n## The recordings\n\n- **gd1972-10-18.139725.sbd.miller.sirmick.remaster.flac16** (recommended): soundboard; 24 songs; 193 min; rated 3.33/5 by 3 [1]. Said about its sound: Random ticks and crackles removed, Morning Dew distortion reduced, and a Jack Straw dropout repaired [1]\n- **gd1972-10-18.132378.sbd.miller.flac16**: soundboard; 24 songs; 193 min; rated 3.43/5 by 7 [2]\n- **gd72-10-18.sbd.weir.7295.sbeok.shnf**: soundboard; 24 songs; 168 min; rated 4.58/5 by 31 [4]. Said about its sound: Bobby is up in the mix at times; Rhythm guitar is too loud and Jerry's vocals are very low in the mix; Weir is mixed as loud as everyone else, so all his playing is audible [8][9][10][11][14][15][16]\n- **gd1972-10-18.sbd.matera.123571.sbeok.flac16**: soundboard; 24 songs; 166 min; rated 4.25/5 by 4 [6]. Said about its sound: Inherent distortion on the right channel made a pristine sound hard to achieve [6]\n\n## Around the show\n\n- Reviewer, a Kansas University student, had tickets for the 17th and 19th but stayed in town to see every night [13]\n- Met Bear backstage, who got him in early for this show with his pick of seats [13]\n- Reviewer places this among the top five shows of 1972 [16]\n\n## Tapers and lineage\n\n- **gd1972-10-18.139725.sbd.miller.sirmick.remaster.flac16**: transferred by Charlie Miller and SIRMick; source: SBD > Master Reel > Dat [1]. Also: Remaster of shnid 132378, with pitch correction from Mexicali Blues to the end of the show [1]\n- **gd1972-10-18.132378.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat [2]. Also: The first three songs carry a cassette generation; this version upgrades away from it [2]\n- **gd72-10-18.sbd.weir.7295.sbeok.shnf**: source: Soundboard [4]. Also: Lineage is soundboard to master reel to cassette to DAT to CDR, with a disc 2 fix via Charles Weir [4]\n- **gd1972-10-18.sbd.matera.123571.sbeok.flac16**: transferred by Phil Matera; source: Unknown SBD source (probably shnid 7295) CD > wav > cool edit 2000 > flac [6]",

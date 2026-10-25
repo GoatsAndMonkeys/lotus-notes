@@ -556,7 +556,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1100,109 +1100,289 @@
     "setlist": [
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 78,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 157,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 189,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 530,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1986-12-16",
+        "show": "live:grateful-dead:1986-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 323,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 67,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:tons-of-steel",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 14,
+       "total_plays": 31
+      },
       "title": "Tons Of Steel"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 112,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 210,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:the-spectrum"
+       },
+       "plays_before": 62,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 97,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 163,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 409,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 974,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 634,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 438,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-01-29",
+        "show": "live:grateful-dead:1987-01-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 207,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 109,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 193,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 247,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1210,37 +1390,91 @@
      {
       "from": "gd1987-03-23.sbd.miller.95716.sbeok.flac16",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 97,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1987-03-23.140683.UltraMatrixSBD.cm.miller.flac1644",
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 367,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "from": "gd87-03-23.schoeps.weber-small.dnk.3870.sbefail.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 83,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1987-03-23.senn.koucky.gmb.77786.sbeok.flac16",
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 276,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1986-06-20",
+        "show": "live:grateful-dead:1986-06-20:greek-theatre-university-of-california"
+       },
+       "plays_before": 50,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "from": "gd1987-03-23.135582.chasingwilma.flac24",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-01-30",
+        "show": "live:grateful-dead:1987-01-30:san-francisco-civic-auditorium"
+       },
+       "plays_before": 46,
+       "total_plays": 114
+      },
       "title": "aiko-aiko"
      },
      {
       "from": "gd1987-03-23.Unk-Hill.Keo.132154.Flac1644",
       "key": "song:grateful-dead:dont-ease-me-in-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 404,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1986-02-12",
+        "show": "live:grateful-dead:1986-02-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 8,
+       "total_plays": 32
+      },
       "title": "Don't Ease Me In, Set Break"
      }
     ],
@@ -1248,26 +1482,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1319,
-     "shows_in_archive": 1855,
+     "show_number": 1423,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:02.939654+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.487899+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "wp3LD2pBHh6G_qAc2nOAdQr9F-WSAZ3wvqMLnSwU5hROMiweu7wjLtrF3-jQI_wR08JQnt3EL5N4OldNH_o9Cw",
+   "revision": 42,
+   "signature": "b9VFCaS4yH9BGhOTFjlUMVmkaJNyq8i-WoXzYU2tVvqhqZje8DDNcUgBgZDiCs5j5-sE0iO6PRfDnuqcVce7Aw",
    "subject_key": "live:grateful-dead:1987-03-23:hampton-coliseum",
-   "updated_at": "2026-10-25T16:42:02.941346"
+   "updated_at": "2026-10-25T17:35:22.489170"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1987-03-23.141287.5-1.tobin.flac1648** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 143 min; rated 5/5 by 1 [1]\n- **gd87-03-23.schoeps.weber-small.dnk.3870.sbefail.shnf**: source not stated; 20 songs; 147 min; rated 4.55/5 by 22 [10]. Said about its sound: Listener describes the recording as amazing and one of their favorite audience captures; Recording features a fine wall of sound within the Hampton Coliseum venue; Listener highlights an awesome sonic boom from Jerry and Phil in the first thirty seconds [18][21][22][27]\n- **gd1987-03-23.sbd.miller.95716.sbeok.flac16**: soundboard; 20 songs; 145 min; rated 2.4/5 by 5 [2]\n- **gd1987-03-23.140683.UltraMatrixSBD.cm.miller.flac1644**: matrix (soundboard mixed with audience mics); 20 songs; 143 min [3]\n\n## Around the show\n\n- Audience erupted into loud cheering with high emotions during the performance of this song [18]\n- Reviewer notes the band was tight and having a good time, matching the crowd's mood [19]\n- Reviewer recalls skipping school to attend, feeling transported to a spaceship by the music [20]\n- Jerry was in full hill-billy mode, ripping lyrics after Bobby's cowboy-energized previous songs [24]\n- The opener rocked, with the show featuring crescendo after crescendo throughout [24]\n- Crowd roar raised the version, though Jerry forgot whole stanzas during the performance [26]\n- Jerry's voice dragged through the song, although his instrument performance was worthy [26]\n- Booing occurred when someone lit an M-80 firecracker, prompting the crowd to keep it mellow [28]\n- The performance is cited as standing out among the best of the 1980s [19]\n- Reviewer states the show sounded better than the recently new CD format [21]\n\n## Tapers and lineage\n\n- **gd1987-03-23.141287.5-1.tobin.flac1648**: transferred by 5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin; source: flac16/48kHz; 5.1 LPCM Surround Sound (48k) - SBD (shnid = 140679) Recording Info: Ultra Matrix SBD > Cassette Master (TDK MA-R90); Transfer Info: Cassette… [1]. Also: Audio mixed by an archive.org user, converted to FLAC in March 2018 by Trader Little Helper [1]\n- **gd87-03-23.schoeps.weber-small.dnk.3870.sbefail.shnf**: source: FOB Schoeps CMC44 > Oade P.S. > Sony PCMF1 [10]. Also: Recorded with Schoeps CMC44 into Oade P.S. and Sony PCMF1, transferred by Sean Weber-Small; DAT master copied to CD by Bill Gardner, with quality control by dankseeds [10]\n- **gd1987-03-23.sbd.miller.95716.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette [2]\n- **gd1987-03-23.140683.UltraMatrixSBD.cm.miller.flac1644**: transferred by Charlie Miller; source: Ultra Matrix SBD > Cassette Master (TDK MA-R90) [3]",

@@ -71,7 +71,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -92,8 +92,8 @@
     },
     "previous": {
      "date": "1968-05-18",
-     "show": "live:grateful-dead:1968-05-18:santa-clara-fairgrounds",
-     "venue": "SANTA CLARA FAIRGROUNDS"
+     "show": "live:grateful-dead:1968-05-18:santa-clara-county-fairgrounds",
+     "venue": "Santa Clara County Fairgrounds"
     },
     "recommended": {
      "identifier": "gd1968-06-08.158612.remaster.disk4.danielfutureanimation02.flac1644",
@@ -139,49 +139,125 @@
        "tape speed variable at the start"
       ],
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 137,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 165
+      },
       "title": "//St. Stephen"
      },
      {
       "key": "song:grateful-dead:thats-it-for-the-other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1968-03-30",
+        "show": "live:grateful-dead:1968-03-30:carousel-ballroom"
+       },
+       "plays_before": 11,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-03-31",
+        "show": "live:grateful-dead:1968-03-31:carousel-ballroom"
+       },
+       "plays_before": 9,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight//"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1968-03-30",
+        "show": "live:grateful-dead:1968-03-30:carousel-ballroom"
+       },
+       "plays_before": 12,
+       "total_plays": 264
+      },
       "title": "//Morning Dew//"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1968-03-16",
+        "show": "live:grateful-dead:1968-03-16:carousel-ballroom"
+       },
+       "plays_before": 12,
+       "total_plays": 58
+      },
       "title": "//Hurts Me Too//"
      },
      {
       "key": "song:grateful-dead:return-the-scratcher",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Return The Scratcher"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1968-03-30",
+        "show": "live:grateful-dead:1968-03-30:carousel-ballroom"
+       },
+       "plays_before": 9,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 137,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1968-01-23",
+        "show": "live:grateful-dead:1968-01-23:eagles-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-03-31",
+        "show": "live:grateful-dead:1968-03-31:carousel-ballroom"
+       },
+       "plays_before": 9,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight//"
      }
     ],
@@ -189,27 +265,29 @@
     "subject_key": "live:grateful-dead:1968-06-08:carousel-ballroom",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 62,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Return The Scratcher"
+     ],
+     "show_number": 75,
+     "shows_in_archive": 2097,
      "songs": 9,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Carousel Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.826854+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.474587+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "PhkcEyu0SqV__MunjtAiQCPprR-OO_dCcmSkBq7IGBFfvsUqz4nQPc9MEI0mAUHAN-Bdf-x6rqXoJBUxz_RMDw",
+   "revision": 40,
+   "signature": "Rvz9k0jyZRBi3YC7lpn-dqmWLcLLoKArkVbtTb6W15uRq5iCF56AhCqJYDWfOjWRKaKsI0pY_3x8jKezIcptDw",
    "subject_key": "live:grateful-dead:1968-06-08:carousel-ballroom",
-   "updated_at": "2026-10-25T16:41:38.827894"
+   "updated_at": "2026-10-25T17:35:09.475154"
   }
  },
  "recommended": {

@@ -524,7 +524,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -540,13 +540,13 @@
     "guests": [],
     "next": {
      "date": "1988-04-03",
-     "show": "live:grateful-dead:1988-04-03:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1988-04-03:hartford-civic-center",
+     "venue": "Hartford Civic Center"
     },
     "previous": {
      "date": "1988-03-31",
-     "show": "live:grateful-dead:1988-03-31:brendan-byrne-arena",
-     "venue": "Brendan Byrne Arena"
+     "show": "live:grateful-dead:1988-03-31:meadowlands-arena",
+     "venue": "Meadowlands Arena"
     },
     "recommended": {
      "identifier": "gd1988-04-01.ihfm.andrewf.89939.sbeok.flac16",
@@ -1008,116 +1008,295 @@
     "setlist": [
      {
       "key": "song:grateful-dead:little-bunny-foo-foo-april-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "little bunny foo foo, april fool's"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 160,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 45,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 395,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-27",
+        "show": "live:grateful-dead:1988-03-27:hampton-coliseum"
+       },
+       "plays_before": 54,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:crowd-we-want-phil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd, we want phil"
      },
      {
       "key": "song:grateful-dead:ballad-of-a-thin-man",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-27",
+        "show": "live:grateful-dead:1988-03-27:hampton-coliseum"
+       },
+       "plays_before": 8,
+       "total_plays": 10
+      },
       "title": "Ballad of a Thin Man"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-28",
+        "show": "live:grateful-dead:1988-03-28:hampton-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 61
+      },
       "title": "When Push Comes to Shove"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 296,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-27",
+        "show": "live:grateful-dead:1988-03-27:hampton-coliseum"
+       },
+       "plays_before": 196,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 139,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1987-11-14",
+        "show": "live:grateful-dead:1987-11-14:long-beach-arena"
+       },
+       "plays_before": 364,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 448,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 450,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-27",
+        "show": "live:grateful-dead:1988-03-27:hampton-coliseum"
+       },
+       "plays_before": 291,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-27",
+        "show": "live:grateful-dead:1988-03-27:hampton-coliseum"
+       },
+       "plays_before": 279,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-31",
+        "show": "live:grateful-dead:1988-03-31:meadowlands-arena"
+       },
+       "plays_before": 1066,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-31",
+        "show": "live:grateful-dead:1988-03-31:meadowlands-arena"
+       },
+       "plays_before": 726,
+       "total_plays": 1290
+      },
       "title": "Spa//ce"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-28",
+        "show": "live:grateful-dead:1988-03-28:hampton-coliseum"
+       },
+       "plays_before": 469,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 310,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-28",
+        "show": "live:grateful-dead:1988-03-28:hampton-coliseum"
+       },
+       "plays_before": 140,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-28",
+        "show": "live:grateful-dead:1988-03-28:hampton-coliseum"
+       },
+       "plays_before": 437,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-03-18",
+        "show": "live:grateful-dead:1988-03-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 161,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1125,202 +1304,346 @@
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t01-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t01 Crowd Tuning"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t02-mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t02 Mississippi Half Step"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t03-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t03 Jack Straw"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t04-to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t04 To Lay Me Down"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t05-ballad-of-a-thin-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t05 Ballad Of A Thin Man"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t06-when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t06 When Push Comes To Shove"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t07-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t07 New Minglewood Blues"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t08-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t08 Cumberland Blues"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t09-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t09 Deal"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t10-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t10 Crowd Tuning"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t11-china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t11 China Cat Sunflower"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t12-i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t12 I Know You Rider"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t13-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t13 Estimated Prophet"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t14-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t14 Eyes Of The World"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t15-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t15 Drums"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t16-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t16 Space"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t17-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t17 The Other One"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t18-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t18 Wharf Rat"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t19-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t19 Throwing Stones"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t20-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t20 Not Fade Away"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t21-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t21 Encore Break"
      },
      {
       "from": "gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-04-01-t22-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-04-01 t22 Brokedown Palace"
      },
      {
       "from": "gd1988-04-01.140394.UltraMatrix.sbd.cm.miller.flac1644",
       "key": "song:grateful-dead:itsy-bitsy-spider",
-      "stats": {},
+      "stats": {
+       "days_since": 334,
+       "gap_shows": 73,
+       "last_played": {
+        "date": "1987-05-03",
+        "show": "live:grateful-dead:1987-05-03:frost-amphitheatre"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Itsy Bitsy Spider"
      },
      {
       "from": "gd1988-04-01.140394.UltraMatrix.sbd.cm.miller.flac1644",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 162,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodleloo"
      },
      {
       "from": "gd1988-04-01.140394.UltraMatrix.sbd.cm.miller.flac1644",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 349,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1988-04-01.sbd.miller.91160.sbeok.flac16",
       "key": "song:grateful-dead:little-bunny-foo-foo-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Little Bunny Foo-Foo tuning"
      },
      {
       "from": "gd1988-04-01.ifm.painoman.9795.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 44,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1988-02-17",
+        "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 62,
+       "total_plays": 262
+      },
       "title": "Drumz//"
      },
      {
       "from": "gd1988-04-01.ifm.painoman.9795.sbeok.shnf",
       "key": "song:grateful-dead:audience-nfa-refrain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Audience NFA Refrain"
      },
      {
       "from": "gd1988-04-01.Nak300CP4.Fitzy.Keo.124797.Flac2496",
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 376,
+       "gap_shows": 95,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:hampton-coliseum"
+       },
+       "plays_before": 17,
+       "total_plays": 42
+      },
       "title": "Deal, Set Break"
      }
     ],
     "subject_key": "live:grateful-dead:1988-04-01:meadowlands-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1413,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "little bunny foo foo, april fool's",
+      "crowd, we want phil"
+     ],
+     "show_number": 1517,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Meadowlands Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.969811+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.393657+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "MLFOIo3_MRqietTnRx_kJZV8Kb0XsvJdI7VDaTW9bvrtRSAaZKwtP4ylXFPQtJezp1DitisJn-UZgM4nGiC1DQ",
+   "revision": 26,
+   "signature": "rVICWgSK4720aqkIHgvbwJ6xNMORmJWFbjQ4kTMwwjJyub4cIDss32ht67TnLkzBFnYGwPXxSfizv3A36AXfCA",
    "subject_key": "live:grateful-dead:1988-04-01:meadowlands-arena",
-   "updated_at": "2026-10-25T16:42:05.971770"
+   "updated_at": "2026-10-25T17:35:23.395086"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Ballad of a Thin Man** (2 reviews): Reviewer ranks this Thin Man as their favorite Dead version of a Dylan song, calling it mesmerising; Reviewer says Thin Man was played only twice, and this version is the first set's standout [17][23]\n- **Deal** (2 reviews): Reviewer considers the Deal worthy of the praise, unlike the Half Step; Attendee felt Deal was a royal flush, especially around the five-minute mark to roughly 5:35 [26][27]\n- **The Other One** (2 reviews): Reviewer describes The Other One as white-knuckle hot and sizzling through to the end; Reviewer hears The Other One as a continuation of Space, with trippy, hallucinogenic vocal effects [26][27]\n- **To Lay Me Down** (1 review): Reviewer calls this To Lay Me Down stellar [23]\n\n## The recordings\n\n- **gd1988-04-01.ihfm.andrewf.89939.sbeok.flac16** (recommended): soundboard; 21 songs; 147 min; rated 3.75/5 by 8 [1]. Said about its sound: Static bursts occur during tuning before Half Step, and vocals are too loud at its start [1]\n- **gd1988-04-01.nak300.pasternak.andrewf.90921.sbeok.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 147 min [2]\n- **gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644**: audience recording; 22 songs; 155 min [3]\n- **gd1988-04-01.sbd.miller.91160.sbeok.flac16**: soundboard; 19 songs; 149 min; rated 3.12/5 by 8 [6]\n- **gd88-04-01.sbd-matrix.braverman.11264.sbeok.shnf**: matrix (soundboard mixed with audience mics); 19 songs; 143 min; rated 4.48/5 by 33 [11]. Said about its sound: Reviewer finds the soundboard-into-audience matrix mix well balanced and true to the band's 1988 sound; Reviewer likes the ambiance of the recording; the band sounds tight and energetic [16][17]\n\n## Around the show\n\n- Attendee recalls friends giddy over the Minglewood, Cumberland and Deal run that closed the first set [20]\n- Tickets were so scarce that someone outside offered a kitchen sink for one; reviewer, aged 15, didn't get in [22]\n- Show opened with Little Bunny Foo Foo; Bobby said thanks and the band left the stage before the real start [23]\n- Crowd energy comes through, with the audience going hysterical when Bobby calls them Jersey fillies [26]\n- April Fool's opening featured Little Bunny Foo Foo and Itsy Bitsy Spider tuning, then Bobby saying see you later [3]\n- Reviewer judges the first set among the strongest first sets of the 1980s [18]\n- Reviewer finds To Lay Me Down and Thin Man more focused and tighter than at Hampton on 3/27 [18]\n- Second set consists of four ordinary song pairings despite April Fools Day; reviewer prefers the first set [20]\n- Setlist was not the strongest or most varied of three shows, but reviewer's favorite for its vibe [21]\n\n## Tapers and lineage\n\n- **gd1988-04-01.ihfm.andrewf.89939.sbeok.flac16**: taped by Andrew F; transferred by Andrew F; source: SBD > In-house FM-mix > Sony SRF-4 FM receiver > Sony TC-D5M > Maxell MX-90's, w/no Dolby. Recorded inside the show, from OTS area. [1]. Also: A tape flip in Space at about 4:11 was mended together; Soundforge handled fades, levels and static smoothing; TLH was used for SBE-OK, FLAC and checksums [1]\n- **gd1988-04-01.nak300.pasternak.andrewf.90921.sbeok.flac16**: taped by Jon Pasternak; transferred by Andrew F; source: AUD Set One: Nakamichi CM300/CP4's > patched thru two decks > Marantz PMD-420, front row of OTS. AUD Set Two: Nakamichi CM100/CP4's > patched thru two decks >… [2]. Also: During intermission Jon moved his deck to a better taping spot; A patch from another transfer, ShnID 89939, fills the tape-flip gap in Space [2]\n- **gd1988-04-01.140934.bk411.schoeps.cmc3.mk41.mattes.miller.clugston.flac1644**: transferred by Scott Clugston and Charlie Miller; source: 1st Set: Master Audience PCM; B&K 4011 mics (1st row center, OTS)> Sony Dat > PCM (Sony PCM-F1)2nd Set: Ted Mattes' Master Audience PCM (Nakamichi DMP-100… [3]\n- **gd1988-04-01.sbd.miller.91160.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK SA-X90) D [6]. Also: Two different soundboard cassette masters were combined to make the show complete; Joe B. Jones helped with pitch correction; Tuning, China Cat and Rider were moved to the end of the first set to fit two discs [6]\n- **gd88-04-01.sbd-matrix.braverman.11264.sbeok.shnf**: source: Ultramatrix (SBD/AUD mix) [11]",

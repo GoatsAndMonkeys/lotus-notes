@@ -204,7 +204,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -248,8 +248,8 @@
     "guests": [],
     "next": {
      "date": "1966-01-01",
-     "show": "live:grateful-dead:1966-01-01:studio",
-     "venue": "Studio"
+     "show": "live:grateful-dead:1966-01-01:viola-lee-blues-reahearsals",
+     "venue": "Viola Lee Blues Reahearsals"
     },
     "previous": {
      "date": "1965-11-01",
@@ -296,32 +296,56 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cant-come-down",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Can't Come Down"
      },
      {
       "key": "song:grateful-dead:mindbender",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Mindbender"
      },
      {
       "key": "song:grateful-dead:only-time-is-now",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Only Time Is Now"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 54
+      },
       "title": "Caution"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:early-morning-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Early Morning Rain"
      }
     ],
@@ -329,27 +353,34 @@
     "subject_key": "live:grateful-dead:1965-11-03:golden-state-studios",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
+     "first_in_archive": [
+      "Can't Come Down",
+      "Mindbender",
+      "The Only Time Is Now",
+      "Caution",
+      "I Know You Rider",
+      "Early Morning Rain"
+     ],
      "show_number": 2,
-     "shows_in_archive": 1855,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Golden State Studios"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 22,
+   "parent_revision": 33,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.370238+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.107921+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 23,
-   "signature": "-wVjnBK5yIyyJ5BXoYt6ldopwn2OVtLSpDWiNeGzW4mXzzh_YWU2mQw--18X80n4CNlKCTRfQljVv_yDVrtfDQ",
+   "revision": 34,
+   "signature": "CUgfBnP4trjKPSK6IqR9kNF3I6UOEyBHeKCX54JsWxYFotW94uBxrZA9NeFY8oAM5g5k3epeHTovPcDPYnJnCg",
    "subject_key": "live:grateful-dead:1965-11-03:golden-state-studios",
-   "updated_at": "2026-10-25T16:41:38.371047"
+   "updated_at": "2026-10-25T17:35:09.108973"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **I Know You Rider** (2 reviews): I Know You Rider screams of the early days; The song is catchy, and Phil's voice is sweet and strong [9][11]\n- **Caution** (1 review): The performance of Caution is described as hot [9]\n\n## The recordings\n\n- **gd65-11-03.sbd.vernon.9044.sbeok.shnf** (recommended): soundboard; 6 songs; 18 min; rated 4.38/5 by 112 [1]. Said about its sound: The audio sounds out of time, evoking a sense of eternity; The low-quality sound is described as trippy and distinctly from 1965; The sound quality is surprisingly good for a recording from that era [2][3][7][8]\n\n## Around the show\n\n- The band was named The Emergency Crew because The Warlocks was taken [4]\n\n## Tapers and lineage\n\n- **gd65-11-03.sbd.vernon.9044.sbeok.shnf**: transferred by Raoul Duke and Matt Vernon; source: Soundboard [1]. Also: The listener lost a cassette copy at a Mt. Shasta get-together; SBD to MR to DAT to CDR, via Raoul Duke, seeded by Matt Vernon [1][5]",

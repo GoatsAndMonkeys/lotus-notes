@@ -831,7 +831,7 @@
      "id": 40,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -942,8 +942,8 @@
     },
     "previous": {
      "date": "1984-12-29",
-     "show": "live:grateful-dead:1984-12-29:san-francisco-civic-center",
-     "venue": "San Francisco Civic Center"
+     "show": "live:grateful-dead:1984-12-29:san-francisco-civic-auditorium",
+     "venue": "San Francisco Civic Auditorium"
     },
     "recommended": {
      "identifier": "gd1984-12-31.154657.mtx.tobin.flac16",
@@ -1765,112 +1765,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 103,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 290,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-11-02",
+        "show": "live:grateful-dead:1984-11-02:berkeley-community-theater"
+       },
+       "plays_before": 176,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-11-02",
+        "show": "live:grateful-dead:1984-11-02:berkeley-community-theater"
+       },
+       "plays_before": 355,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-28",
+        "show": "live:grateful-dead:1984-10-28:berkeley-community-theater"
+       },
+       "plays_before": 169,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 52,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 177,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:new-years-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 366,
+       "gap_shows": 66,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 9
+      },
       "title": "New Years Countdown"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-12-28",
+        "show": "live:grateful-dead:1984-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 434,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-10-30",
+        "show": "live:grateful-dead:1984-10-30:berkeley-community-theater"
+       },
+       "plays_before": 205,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-10-30",
+        "show": "live:grateful-dead:1984-10-30:berkeley-community-theater"
+       },
+       "plays_before": 155,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 67,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-12-29",
+        "show": "live:grateful-dead:1984-12-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 844,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-12-29",
+        "show": "live:grateful-dead:1984-12-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 508,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 252,
+       "gap_shows": 49,
+       "last_played": {
+        "date": "1984-04-23",
+        "show": "live:grateful-dead:1984-04-23:veterans-memorial-coliseum"
+       },
+       "plays_before": 45,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-28",
+        "show": "live:grateful-dead:1984-10-28:berkeley-community-theater"
+       },
+       "plays_before": 105,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 70,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 167,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-11-02",
+        "show": "live:grateful-dead:1984-11-02:berkeley-community-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 198,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 303,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-28",
+        "show": "live:grateful-dead:1984-10-28:berkeley-community-theater"
+       },
+       "plays_before": 73,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1878,253 +2076,458 @@
      {
       "from": "gd1984-12-31.akg.keshavan.miller.106684.flac16",
       "key": "song:grateful-dead:midnight-countdown",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1461,
+       "gap_shows": 290,
+       "last_played": {
+        "date": "1980-12-31",
+        "show": "live:grateful-dead:1980-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "Midnight Countdown"
      },
      {
       "from": "gd1984-12-31.128592.schoeps.oade.BCE.flac16",
       "key": "song:grateful-dead:happy-new-year-booms",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Happy New Year Booms"
      },
      {
       "from": "gd1984-12-31.128592.schoeps.oade.BCE.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 367,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd84-12-31.sbd.gorinsky.6395.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 242,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd84-12-31.sbd.gorinsky.6395.sbeok.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 55,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1984-12-31.senn421.mccue.ford.82046.sbeok.flac16",
       "key": "song:grateful-dead:crowd-happy-new-year",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd/Happy New Year!"
      },
      {
       "from": "gd1984-12-31.151278.senn421.holbrook.flac2448",
       "key": "song:grateful-dead:father-times-entrance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Father Time's entrance"
      },
      {
       "from": "gd1984-12-31.151278.senn421.holbrook.flac2448",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 66,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1984-12-31.151278.senn421.holbrook.flac2448",
       "key": "song:grateful-dead:space-spanish-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Space|Spanish Jam"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t01-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t01 Shakedown Street"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t02-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t02 New Minglewood Blues"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t03-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t03 Peggy O"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t04-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t04 Jack Straw"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t05-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t05 Bird Song"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t06-hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t06 Hell In A Bucket"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s1-t07-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s1 t07 Don't Ease Me In"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t01 Crowd"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t02-sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t02 Sugar Magnolia"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t03-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t03 Scarlet Begonias"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t04-fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t04 Fire On The Mountain"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t05-man-smart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t05 Man Smart (Women Smarter)"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t06 Drums"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t07 Space"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t08-spanish-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t08 Spanish Jam"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t09-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t09 The Wheel"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t10-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t10 Throwing Stones"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s2-t11-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s2 t11 Turn On Your Lovelight"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s3-t01-gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s3 t01 Gimme Some Lovin'"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s3-t02-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s3 t02 Uncle John's Band"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s3-t03-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s3 t03 Around & Around"
      },
      {
       "from": "gd1984-12-31.140161.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-12-31-s3-t04-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-12-31 s3 t04 It's All Over Now, Baby Blue"
      },
      {
       "from": "gd1984-12-31.Senn421.Darby.118306.Flac1644",
       "key": "song:grateful-dead:dont-ease-me-in-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1984-10-06",
+        "show": "live:grateful-dead:1984-10-06:richmond-coliseum"
+       },
+       "plays_before": 3,
+       "total_plays": 32
+      },
       "title": "Don't Ease Me In/Set Break"
      },
      {
       "from": "gd1984-12-31.Senn421.Darby.118306.Flac1644",
       "key": "song:grateful-dead:lovelight-set-2-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Lovelight/Set 2 Break"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:jane-dornak-with-bob-weir",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jane Dornak with Bob Weir"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:father-guido-sarduchi-and-various-crowd-members",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Father Guido Sarduchi & various crowd members"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:father-guido-sarduchi-and-bill-kreutzman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Father Guido Sarduchi & Bill Kreutzman"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:jane-dornak-and-brent-midland",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jane Dornak & Brent Midland"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:poem-dr-spazmodious-by-robert-hunter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Poem Dr. Spazmodious by Robert Hunter"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:father-guido-and-jerry-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Father Guido & Jerry Garcia (topics, being Catholic, UFOs, Egypt, Canada)"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:happy-new-year-to-radio-stations-from-dan-heally",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Happy New Year to radio stations from Dan Heally"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:bill-and-phil",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3727,
+       "gap_shows": 688,
+       "last_played": {
+        "date": "1974-10-18",
+        "show": "live:grateful-dead:1974-10-18:winterland-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Whilly & Phil (discussing the art of fugue)"
      },
      {
       "from": "gd1984-12-31.082395.cpb.IViews.flac1644",
       "key": "song:grateful-dead:jan-and-eileen-law",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jan & Eileen Law"
      }
     ],
@@ -2132,26 +2535,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1187,
-     "shows_in_archive": 1855,
+     "show_number": 1290,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "San Francisco Civic Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.639367+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.167669+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "1Z-0uHGhCgzzN0zA9jEpz8uxY7K0qFMMnYX-cwKJa0k8Xos4wlXi8-6_Z4O24_m_9teY3CBRenBUxKd8bHfFAA",
+   "revision": 33,
+   "signature": "XpBCXTbecQxy1AFJj2Zo_X44R2pm2-ya2kPqRYWPYsDcUi1fqA4F1OsskWkYFh_tVWTlJvdKQlBO_ZlFyAuCBw",
    "subject_key": "live:grateful-dead:1984-12-31:san-francisco-civic-auditorium",
-   "updated_at": "2026-10-25T16:41:59.641753"
+   "updated_at": "2026-10-25T17:35:20.169346"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **It's All Over Now, Baby Blue** (1 review): Jerry's emotional voice added feeling, seemingly singing the lines for Steve [30]\n\n## The recordings\n\n- **gd1984-12-31.154657.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 180 min [1]\n- **gd1984-12-31.170342.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 21 songs; 179 min [2]\n- **gd1984-12-31.akg.keshavan.miller.106684.flac16**: source not stated; 22 songs; 177 min; rated 5/5 by 2 [4]\n- **gd1984-12-31.154658.dts.tobin.flac16**: source not stated; 22 songs; 179 min [7]\n- **gd84-12-31.sbd.gorinsky.6395.sbeok.shnf**: soundboard; 21 songs; 175 min; rated 4.04/5 by 23 [8]. Said about its sound: Garcia's guitar tone shifts through scary, angry, sad, and happy sounds in the transition; The mono compressed radio sound is marginal, though the show itself is good; The sequence from Women to Spanish Jam is seamless and beautiful, best kept together [28][38][39]\n\n## Around the show\n\n- The band was overshadowed by the sadness of Steve's wife and daughter dying in an accident [28]\n- The band opened with an anguished, rebellious performance, acknowledging the Parrish family loss [29]\n- A huge wreath was placed by the stage to honor Parrish's loss [30]\n- The opening notes were visceral, making the hairs on the listener's neck stand up [33]\n- The show had higher energy than the previous two nights but was affected by tragedy [31]\n- The show is a scorcher, with legendary Scarlet-Fire and Uncle John's Band performances [36]\n\n## Tapers and lineage\n\n- **gd1984-12-31.154657.mtx.tobin.flac16**: transferred by SBD + AUD Matrix 2 Source Mix (44/16) by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (44/16) [1]. Also: Mixed by an archive.org user, converted to FLAC in December 2021 using rBrain Pro [1]\n- **gd1984-12-31.170342.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [2]\n- **gd1984-12-31.akg.keshavan.miller.106684.flac16**: taped by Rango Keshavan; transferred by Charlie Miller; source: AKG Mics -> Cassette Master (Sony D5) [4]. Also: National radio broadcast includes The Bobs and Dirty Dozen Brass Band, pitch-corrected by Joe B. Jones [4]\n- **gd1984-12-31.154658.dts.tobin.flac16**: transferred by DTS-Audio-CD 5.1 Mix by Kevin Tobin; source: DTS-Audio-CD 5.1 Mix [7]. Also: Mixed by an archive.org user, converted to FLAC in December 2021 using rBrain Pro [7]\n- **gd84-12-31.sbd.gorinsky.6395.sbeok.shnf**: source: SB > MR > ?? [apparently FM] > DAT > CDR > EAC> SHN [8]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - December 31, 1984](https://www.dead.net/show/december-31-1984) [41]\n- Poster by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - December 31, 1984](https://www.dead.net/show/december-31-1984) [42]\n- Fan art by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - December 31, 1984](https://www.dead.net/show/december-31-1984) [43]\n- Fan art by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - December 31, 1984](https://www.dead.net/show/december-31-1984) [44]\n- Poster by Steve Schneider Grateful Dead: [1984-12-29 San Francisco Civic Auditorium, San Francisco, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-12-29-san-francisco-civic-auditorium-san-francisco-ca-usa/) [45]\n- Fan art by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - December 31, 1984](https://www.dead.net/show/december-31-1984) [46]",

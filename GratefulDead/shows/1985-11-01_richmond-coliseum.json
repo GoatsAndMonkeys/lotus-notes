@@ -595,7 +595,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1214,122 +1214,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 123,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 121,
+       "total_plays": 128
+      },
       "title": "Daincin' In The Streets"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-09-05",
+        "show": "live:grateful-dead:1985-09-05:red-rocks-amphitheatre"
+       },
+       "plays_before": 173,
+       "total_plays": 260
+      },
       "title": "Cold, Rain And Snow"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-10-25",
+        "show": "live:grateful-dead:1985-10-25:the-sportatorium"
+       },
+       "plays_before": 138,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 62,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 512,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 314,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 275,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 366,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 194,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 265,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 127,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 98,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 209,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:spoonful",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-09-06",
+        "show": "live:grateful-dead:1985-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 15,
+       "total_plays": 54
+      },
       "title": "Spoonful"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 53,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 148,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-31",
+        "show": "live:grateful-dead:1985-10-31:carolina-coliseum-u-of-south-carolina"
+       },
+       "plays_before": 904,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-31",
+        "show": "live:grateful-dead:1985-10-31:carolina-coliseum-u-of-south-carolina"
+       },
+       "plays_before": 567,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-10-29",
+        "show": "live:grateful-dead:1985-10-29:fox-theater"
+       },
+       "plays_before": 148,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 12,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:she-belongs-to-me",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 6,
+       "total_plays": 10
+      },
       "title": "She Belongs To Me"
      },
      {
       "key": "song:grateful-dead:gloria",
-      "stats": {},
+      "stats": {
+       "days_since": 201,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 5,
+       "total_plays": 17
+      },
       "title": "Gloria"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-10-28",
+        "show": "live:grateful-dead:1985-10-28:fox-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -1337,49 +1535,107 @@
      {
       "from": "gd85-11-01.sbd.mccloskey.379.sbeok.shnf",
       "key": "song:grateful-dead:setii",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "SetII"
      },
      {
       "from": "gd85-11-01.sbd.mccloskey.379.sbeok.shnf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-10-28",
+        "show": "live:grateful-dead:1985-10-28:fox-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd85-11-01.aud-oade.remaster.20416.sbeok.shnf",
       "key": "song:grateful-dead:audience",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1829,
+       "gap_shows": 365,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 7,
+       "total_plays": 12
+      },
       "title": "Audience"
      },
      {
       "from": "gd1985-11-01.senn441.zaleski.ford.91179.sbeok.flac16",
       "key": "song:grateful-dead:crowd-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-09-05",
+        "show": "live:grateful-dead:1985-09-05:red-rocks-amphitheatre"
+       },
+       "plays_before": 6,
+       "total_plays": 20
+      },
       "title": "Crowd/tunning"
      },
      {
       "from": "gd1985-11-01.fob.senn421.koucky.gmb.96194.flac16",
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-10-28",
+        "show": "live:grateful-dead:1985-10-28:fox-theater"
+       },
+       "plays_before": 356,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "from": "gd1985-11-01.134977.mtx.tobin.flac16",
       "key": "song:grateful-dead:got-to-be-funk-weirdness",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Got To Be Funk weirdness"
      },
      {
       "from": "gd1985-11-01.dts.haugh.34558.sbeok.flac16",
       "key": "song:grateful-dead:gots-2b-funky",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Got's 2B Funky"
      },
      {
       "from": "gd1985-11-01.126321.chasingwilma.flac24",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 123,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 19,
+       "total_plays": 25
+      },
       "title": "dancin in the streets"
      }
     ],
@@ -1387,26 +1643,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1247,
-     "shows_in_archive": 1855,
+     "show_number": 1350,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Richmond Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.852800+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.992028+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "zUTBuh8nPAitj2P9oDoaQUli_qXwztkr78KhCDsXar55PgJo2U89r-8LW8zgD9UemtG4XxJXVYUKosd6FEiwBA",
+   "revision": 42,
+   "signature": "oeennQFipYe7UzgXiR_4_6gALQhZRhP7arltxLbrfWexTFWxBU1jNPsQUhMZrXZ9wBC7CKLqxKEHdwh-g1rtCw",
    "subject_key": "live:grateful-dead:1985-11-01:richmond-coliseum",
-   "updated_at": "2026-10-25T16:42:00.854606"
+   "updated_at": "2026-10-25T17:35:20.994060"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Me & My Uncle** (1 review): Garcia dives deep into this Dylan song, bringing up rare treasure [26]\n- **Jack Straw** (1 review): Phil's bombs in this song make the recording worth having [23]\n- **High Time** (1 review): Jerry plays a rare solo of seven shockingly brilliant notes [24]\n\n## The recordings\n\n- **gd1985-11-01.cpb.retransfer.32709.sbeok.flac16** (recommended): soundboard; 22 songs; 160 min; rated 4/5 by 1 [1]\n- **gd1985-11-01.177938.Senn.MD421.strizak.flac2448**: matrix (soundboard mixed with audience mics); 22 songs; 155 min; rated 1/5 by 1 [2]\n- **gd85-11-01.sbd.mccloskey.379.sbeok.shnf**: soundboard; 23 songs; 154 min; rated 2.67/5 by 9 [3]. Said about its sound: Reviewer claims the noise reduction job is the worst they have ever heard [20]\n- **gd1985-11-01.168186.senn.me80.hessberg.miller.clugston.flac1648**: audience recording; 22 songs; 154 min; rated 5/5 by 1 [5]\n- **gd85-11-01.oade.connor.9217.sbeok.shnf**: source not stated; 22 songs; 158 min; rated 4.45/5 by 40 [7]. Said about its sound: Reviewer calls it the best audience recording they have ever heard [19]\n\n## Around the show\n\n- Reviewer attended the show and describes the venue sound as phat [22]\n- Reviewer stood close to the taper section during the performance [23]\n- Jerry sings out lyrics clearly instead of muttering during the show [25]\n- Jerry delivers tear-jerking vocal performances on three specific songs [27]\n- It was cold and rainy with twice as many people as tickets [28]\n- Someone threw dishwashing detergent into the fountain, creating a mountain of suds [28]\n- It surpasses the Dick's Picks version of this show in quality [19]\n- Better soundboard sources for this show exist on cassette [20]\n- Reviewer liked the second night of the tour even more [22]\n\n## Tapers and lineage\n\n- **gd1985-11-01.cpb.retransfer.32709.sbeok.flac16**: taped by Charles Bandrofcheck; transferred by Charles Bandrofcheck; source: Can't remember shotgun mics -> Sony D6 -> Maxel MX 90s. As close as they'd let you get to the left of SBD [1]. Also: Recording used two cassettes with no flips during the actual performance [1]\n- **gd1985-11-01.177938.Senn.MD421.strizak.flac2448**: taped by Tom Strizak; transferred by Tom Strizak; source: Tom Strizak Master Cassettes (2) Senn. MD421 stereo configuration (mic stand at approx. 7’) > Sony TC-D5M (2 Fugi -FR90 Metal/Dolby-B). Location: Taper section… [2]. Also: Lost Sailor is cut and clips back in at approximately one minute forty-one seconds [2]\n- **gd85-11-01.sbd.mccloskey.379.sbeok.shnf**: source: Soundboard> ?> DAT> CDr [3]\n- **gd1985-11-01.168186.senn.me80.hessberg.miller.clugston.flac1648**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [5]. Also: Charlie Miller handled the transfer and coordinated the release effort [5]\n- **gd85-11-01.oade.connor.9217.sbeok.shnf**: source: Oade DFOB -- Schoeps CMC441 (spaced 17cm@90deg) + CMC42 (Spread 8')> Oade M118 > Sony PCM-F1 > DAT (@44.1k) [7]\n\n## Art and photos\n\n- Poster by Worthpoint: [Grateful Dead Poster Richmond 1985, Rare | #2017340712](https://www.worthpoint.com/worthopedia/grateful-dead-poster-richmond-1985-2017340712) [32]\n- Poster by Robbi Cohn: [1985-11-01 Richmond Coliseum, Richmond, VA, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-11-01-richmond-coliseum-richmond-va-usa/) [33]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1985-11-01 Fri Richmond Coliseum, Richmond, VA](https://www.livegrateful.net/post/1423910229959/grateful-dead-1985-11-01-fri-richmond) [34]",

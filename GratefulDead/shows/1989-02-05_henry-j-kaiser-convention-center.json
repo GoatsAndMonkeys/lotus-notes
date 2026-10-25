@@ -591,7 +591,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1221,114 +1221,289 @@
     "setlist": [
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 128,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-12-10",
+        "show": "live:grateful-dead:1988-12-10:long-beach-arena"
+       },
+       "plays_before": 142,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 166,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 110,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1988-10-18",
+        "show": "live:grateful-dead:1988-10-18:keifer-lakefront-arena"
+       },
+       "plays_before": 199,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-12-10",
+        "show": "live:grateful-dead:1988-12-10:long-beach-arena"
+       },
+       "plays_before": 209,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-01-01",
+        "show": "live:grateful-dead:1989-01-01:ante-up-built-to-last-interview"
+       },
+       "plays_before": 2,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:memphis-blues-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Memphis Blues Tease"
      },
      {
       "key": "song:grateful-dead:desolation-row",
-      "stats": {},
+      "stats": {
+       "days_since": 143,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1988-09-15",
+        "show": "live:grateful-dead:1988-09-15:madison-square-garden"
+       },
+       "plays_before": 29,
+       "total_plays": 60
+      },
       "title": "Desolation Row"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 247,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 198,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 130,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 161,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1988-08-28",
+        "show": "live:grateful-dead:1988-08-28:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 1,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-12-29",
+        "show": "live:grateful-dead:1988-12-29:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 498,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1133,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 793,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1988-10-21",
+        "show": "live:grateful-dead:1988-10-21:reunion-arena"
+       },
+       "plays_before": 11,
+       "total_plays": 36
+      },
       "title": "I Will Take You Home"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-12-28",
+        "show": "live:grateful-dead:1988-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 247,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-12-28",
+        "show": "live:grateful-dead:1988-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 160,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 206,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 138,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1988-09-20",
+        "show": "live:grateful-dead:1988-09-20:madison-square-garden"
+       },
+       "plays_before": 256,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -1336,124 +1511,205 @@
      {
       "from": "gd1989-02-05.124836.AT835.laurentis.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-12-29",
+        "show": "live:grateful-dead:1988-12-29:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 126,
+       "total_plays": 187
+      },
       "title": "The Woman Are Smarter"
      },
      {
       "from": "gd1989-02-05.124836.AT835.laurentis.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-12-29",
+        "show": "live:grateful-dead:1988-12-29:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 438,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd89-02-05.sbd.braverman.15402.sbeok.shnf",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      },
      {
       "from": "gd1989-02-05.ec7.bowen.116407.flac",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 118,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t01-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t01 Cold Rain & Snow"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t02-man-smart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t02 Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t03-standing-on-the-moon",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t03 Standing On The Moon"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t04-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t04 Playin' In The Band"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t05 Drums"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t06 Space"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t07-i-will-take-you-home",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t07 I Will Take You Home"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t08-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t08 He's Gone"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t09-i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t09 I Need A Miracle"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t10-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t10 Morning Dew"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t11-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t11 Encore Break"
      },
      {
       "from": "gd1989-02-05.140729.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd89-02-05-s2-t12-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-05 s2 t12 Johnny B. Goode"
      }
     ],
     "subject_key": "live:grateful-dead:1989-02-05:henry-j-kaiser-convention-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1482,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Memphis Blues Tease"
+     ],
+     "show_number": 1587,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Henry J Kaiser Convention Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:07.986862+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.088160+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "2Zrty5_Vn7UkapXUba1fQZCnZN4I0UpqM7c2aPIO2ylL9BgKB9Ukzesuz049f0npKHqHIMC4lGPUhQ2ecMYfBw",
+   "revision": 43,
+   "signature": "kEwiD0yrnDDZxeRWJOtLSfm0oEfe2gE1_RX30EOoZKtSljKMV0RDfkFAlVelHS226f6urXmqcf7hnqG2RqPvDA",
    "subject_key": "live:grateful-dead:1989-02-05:henry-j-kaiser-convention-center",
-   "updated_at": "2026-10-25T16:42:07.988950"
+   "updated_at": "2026-10-25T17:35:24.089676"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Desolation Row** (3 reviews): The song, along with I Need A Miracle and the opening three, is fantastic; Garcia realized his role eight minutes in, improving the mood significantly [17][19][21]\n- **Little Red Rooster** (1 review): The song features a rare jam within it [24]\n- **We Can Run** (1 review): The harmonies are nice, though it is difficult to play outside the first set [25]\n- **Standing On The Moon** (1 review): Good, but not overly dramatic like it later became in the final ballad spot [25]\n- **Morning Dew** (1 review): Jerry's solo is slow and powerful, lasting longer than usual before tapering out [16]\n\n## The recordings\n\n- **gd1989-02-05.164183.UltraMatrix.sbd.cm.miller.t.flac1644** (recommended): soundboard; 20 songs; 151 min [1]\n- **gd1989-02-05.163488.ultramatrix.miller.flac2496**: soundboard; 20 songs; 151 min [2]\n- **gd1989-02-05.124836.AT835.laurentis.flac16**: source not stated; 21 songs; 150 min [3]\n- **gd1989-02-05.sbd.walker-scotton.miller.32542.sbeok.flac16**: soundboard; 19 songs; 148 min; rated 4/5 by 4 [5]. Said about its sound: Brent plays dramatic organ parts on the track; Phil is loud while everyone else is very well balanced in the mix [16][24]\n- **gd1989-02-05.sbd.walker.scotton.miller.108848.flac24**: soundboard; 19 songs; 149 min; rated 3.67/5 by 3 [6]. Said about its sound: The recording is excellent quality, though the show itself is a bit patchy [22]\n- **gd1989-02-05.ec7.bowen.116407.flac**: source not stated; 19 songs; 147 min; rated 3/5 by 1 [8]. Said about its sound: The recording is excellent quality, though the show itself is a bit patchy [23]\n\n## Around the show\n\n- The show kicked off the 1989 run at the Kaiser, following a 1988 slump [20]\n- Bobby turned to play Desolation Row after someone off stage spoke to him [21]\n- The band was excited to play at HJK after a month off and new tunes [27]\n- Attendees took days off from college in LA to check out the shows [27]\n\n## Tapers and lineage\n\n- **gd1989-02-05.164183.UltraMatrix.sbd.cm.miller.t.flac1644**: taped by Recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  January 31, 2023; source: UltraMatrix SBD > Cassette Master (TDK SA-X90) [1]\n- **gd1989-02-05.163488.ultramatrix.miller.flac2496**: taped by Recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  January 31, 2023; source: UltraMatrix SBD > Cassette Master (TDK SA-X90) [2]\n- **gd1989-02-05.124836.AT835.laurentis.flac16**: taped by M.Laurentus; transferred by M.Laurentus; source: AT835B's- AT 8202’s-SONY WM D6-C Cassette-Tascam DR-5 Line In-CD Wave- Flac; Taper: M. Laurentus [3]. Also: Setlist includes Althea and We Can Run But We Can't Hide in the first set [3]\n- **gd1989-02-05.sbd.walker-scotton.miller.32542.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK MA-XG90) D [5]\n- **gd1989-02-05.sbd.walker.scotton.miller.108848.flac24**: taped by Paul Scotton and Joani Walker; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony TC-D5M/Maxell MX90/Dolby B) [6]\n- **gd1989-02-05.ec7.bowen.116407.flac**: taped by Jeff Bowen; transferred by Jeff Bowen; source: Source: (OTS) Superscope EC-7's (ortf/cardioids) > Sony WM-D6C; [8]",

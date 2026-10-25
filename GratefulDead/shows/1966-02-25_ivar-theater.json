@@ -211,7 +211,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -320,65 +320,128 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shes-on-the-road-again",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "She's On The Road Again"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1966-01-01",
+        "show": "live:grateful-dead:1966-01-01:studio"
+       },
+       "plays_before": 2,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:hey-little-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Hey Little One"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:king-bee",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:fillmore-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:fillmore-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 54
+      },
       "title": "Caution"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 14
+      },
       "title": "Stealin'"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 14
+      },
       "title": "Stealin'"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 64
+      },
       "title": "Good Morning, Lil' School Girl"
      },
      {
       "key": "song:grateful-dead:you-dont-love-me",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "You Don't Love Me"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 64
+      },
       "title": "Good Morning, Lil' School Girl"
      }
     ],
@@ -386,27 +449,37 @@
     "subject_key": "live:grateful-dead:1966-02-25:ivar-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 10,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "She's On The Road Again",
+      "Next Time You See Me",
+      "Hey Little One",
+      "Cold Rain & Snow",
+      "Stealin'",
+      "Stealin'",
+      "Good Morning, Lil' School Girl",
+      "You Don't Love Me",
+      "Good Morning, Lil' School Girl"
+     ],
+     "show_number": 11,
+     "shows_in_archive": 2097,
      "songs": 12,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ivar Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.408565+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.147423+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "UpoYaPsK4IWGW7w2OxKDb8Dz3ye5LRLyf3Jl0nlmXmC9CR4ILSvBIeg_hGb51Dq2V7wv3gdEE2Ug09GTUtufDQ",
+   "revision": 42,
+   "signature": "iYKYy7nIk8ONpciA1gmf2AOHQfb-8EE97vdnFxQa1SFihZQvJgSzRCXnPrQNeiuTh_Fn2V9psIOqREWwY3w0Bg",
    "subject_key": "live:grateful-dead:1966-02-25:ivar-theater",
-   "updated_at": "2026-10-25T16:41:38.410071"
+   "updated_at": "2026-10-25T17:35:09.148166"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **I Know You Rider** (1 review): Song endings seem less like tape cutoffs than a rehearsal where a leader ends the tune by gesture [10]\n- **Stealin'** (1 review): Reviewer singles out Stealin' as a reason to download the show, and rates the sound quality highly [12]\n- **You Don't Love Me** (1 review): Reviewer praises this performance, noting Pigpen and Phil are strong, and laments the Allmans later running with the song [6]\n- **Good Morning, Lil' School Girl** (1 review): Reviewer calls the bonus Schoolgirl outstanding and says Pigpen was in fine form [5]\n\n## The recordings\n\n- **gd66-02-25.sbd.unknown.1593.sbefail.shnf** (recommended): soundboard; 12 songs; 57 min; rated 4.77/5 by 52 [1]. Said about its sound: Reviewer finds sound excellent, with slight distortion on Jerry's vocal mic, unlike digital distortion; hiss appears when Schoolgirl begins, suggesting a different show; Recording quality is judged excellent for its vintage [4][5]\n- **gd1966-02-25.sbd.unknown.20346.sbeok.shnf**: soundboard; 12 songs; 57 min; rated 4.24/5 by 17 [2]\n\n## Around the show\n\n- DeadBase assigned this material to 2/25 but marked the date of the list as uncertain [3]\n- Reviewer notes DeadBase 10 lists no setlist for this date and suggests it sounds like a studio rehearsal [10]\n- Gives the Ivar Theater's address as 1605 North Ivar Ave, Hollywood, and links to a history of the venue [11]\n- Tom Waits's song 'Emotional Weather Report' mentions the Ivar Theater, comparing its ticket taker's smile on a Saturday night to cold [14]\n- Reviewer says the performance and soundboard quality differ hugely from shows on 1/8, 3/12 and 3/25, doubting the early-year dating [3]\n\n## Tapers and lineage\n\n- **gd66-02-25.sbd.unknown.1593.sbefail.shnf**: source: Soundboard [1]. Also: Master reel to DAT to CD transfer; the set is reportedly this date, possibly other 1966 material; May be listed as '??/??/66'; another shn set from tape 1-8 material circulates under that label [1]\n- **gd1966-02-25.sbd.unknown.20346.sbeok.shnf**: source: MR>DATx>CD [2]\n\n## Art and photos\n\n- Poster by gdlistening.blogspot.com: [Grateful Dead at the (possibly) Ivar Theater - 2/25/66](https://gdlistening.blogspot.com/2011/10/grateful-dead-at-possibly-ivar-theater.html) [16]",

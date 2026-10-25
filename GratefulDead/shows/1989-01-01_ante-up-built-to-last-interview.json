@@ -57,7 +57,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -78,8 +78,8 @@
     },
     "previous": {
      "date": "1988-12-31",
-     "show": "live:grateful-dead:1988-12-31:oakland-coliseum-arena",
-     "venue": "Oakland Coliseum Arena"
+     "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "recommended": {
      "identifier": "gd1989-01-01.edit.built_to_last_interviews.anteup.gans.123640.flac",
@@ -121,57 +121,116 @@
     "setlist": [
      {
       "key": "song:grateful-dead:making-the-album",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Making The Album"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-12-28",
+        "show": "live:grateful-dead:1988-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 19,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:built-to-last-49",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Built To Last :49"
      },
      {
       "key": "song:grateful-dead:blow-away",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1988-10-15",
+        "show": "live:grateful-dead:1988-10-15:bayfront-center-arena"
+       },
+       "plays_before": 7,
+       "total_plays": 26
+      },
       "title": "Blow Away"
      },
      {
       "key": "song:grateful-dead:album-title-33",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Album Title :33"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon-53",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Standing On The Moon :53"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 126,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1988-08-28",
+        "show": "live:grateful-dead:1988-08-28:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 1,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home-53",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I Will Take You Home :53"
      },
      {
       "key": "song:grateful-dead:success-circus",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Success / Circus"
      },
      {
       "key": "song:grateful-dead:success-ii",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Success II"
      }
     ],
@@ -179,27 +238,36 @@
     "subject_key": "live:grateful-dead:1989-01-01:ante-up-built-to-last-interview",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1481,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Making The Album",
+      "Built To Last :49",
+      "The Album Title :33",
+      "Standing On The Moon :53",
+      "Picasso Moon",
+      "I Will Take You Home :53",
+      "Success / Circus",
+      "Success II"
+     ],
+     "show_number": 1586,
+     "shows_in_archive": 2097,
      "songs": 11,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ante Up - Built to Last interview"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:07.975049+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.081281+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "NGX66Rs7jubVQQC8Qe8u2GMPi5WnMpil_OJLMQA6SPZZlvxN5eMn7h7Uk3pJl5BTgHhgxuNbD0e2VGGmTiGdDA",
+   "revision": 40,
+   "signature": "LrNlGQqTOuHX_WhlUuemRyriqFCI8hcwoTADxfKKfZRpd15RVo8qVEgGwiPmK9CiLHi_iSoraspCNMa4ZsZIAA",
    "subject_key": "live:grateful-dead:1989-01-01:ante-up-built-to-last-interview",
-   "updated_at": "2026-10-25T16:42:07.975905"
+   "updated_at": "2026-10-25T17:35:24.081853"
   }
  },
  "recommended": {

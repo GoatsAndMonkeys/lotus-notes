@@ -459,7 +459,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -928,132 +928,348 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-07-17",
+        "show": "live:grateful-dead:1976-07-17:orpheum-theatre"
+       },
+       "plays_before": 155,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 20,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 101,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 141,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 137,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 81,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 60,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 27,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 43,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-07-12",
+        "show": "live:grateful-dead:1976-07-12:orpheum-theatre"
+       },
+       "plays_before": 19,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-07-12",
+        "show": "live:grateful-dead:1976-07-12:orpheum-theatre"
+       },
+       "plays_before": 18,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-07-12",
+        "show": "live:grateful-dead:1976-07-12:orpheum-theatre"
+       },
+       "plays_before": 19,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-07-13",
+        "show": "live:grateful-dead:1976-07-13:orpheum-theatre"
+       },
+       "plays_before": 61,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 16,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 25,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-07-13",
+        "show": "live:grateful-dead:1976-07-13:orpheum-theatre"
+       },
+       "plays_before": 41,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 174,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 272,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-07-17",
+        "show": "live:grateful-dead:1976-07-17:orpheum-theatre"
+       },
+       "plays_before": 19,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 11,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 236,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 35,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 245,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-18",
+        "show": "live:grateful-dead:1976-07-18:orpheum-theatre"
+       },
+       "plays_before": 102,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -1061,19 +1277,46 @@
      {
       "from": "gd76-08-04.sbd.cotsman.12830.sbeok.shnf",
       "key": "song:grateful-dead:fireworks",
-      "stats": {},
+      "stats": {
+       "days_since": 729,
+       "gap_shows": 68,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 1,
+       "total_plays": 8
+      },
       "title": "fireworks"
      },
      {
       "from": "gd1976-08-04.120684.mtx.dusborne.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-08-02",
+        "show": "live:grateful-dead:1976-08-02:colt-park"
+       },
+       "plays_before": 16,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1976-08-04.sbd.backus.6677.shnf",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-07-12",
+        "show": "live:grateful-dead:1976-07-12:orpheum-theatre"
+       },
+       "plays_before": 9,
+       "total_plays": 25
+      },
       "title": "Dancin In The Streets"
      }
     ],
@@ -1081,26 +1324,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 572,
-     "shows_in_archive": 1855,
+     "show_number": 660,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Roosevelt Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.379461+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.725898+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "DgJfHRw4N9tFCZg-_Mi6FmD01bCFesic_v-7BaoEAYc-qhvRn9TQqBms3cRF6XhKKKWppu3iTI_EfAU9MzcnCw",
+   "revision": 42,
+   "signature": "gqik8V-FTNWq0653knAXamOH0tGa2ujm3yup87Nutr6IrdqcP1Q9AbPboYzwQZsKM1Kj-fl7brWxy2pqS87wBA",
    "subject_key": "live:grateful-dead:1976-08-04:roosevelt-stadium",
-   "updated_at": "2026-10-25T16:41:49.382172"
+   "updated_at": "2026-10-25T17:35:14.727024"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd76-08-04.jones.vernon.12078.sbeok.shnf** (recommended): audience recording; 24 songs; 212 min; rated 3/5 by 9 [1]. Said about its sound: Audio quality is average, with a tripper freaking out during the Help intro [23]\n- **gd76-08-04.sbd.cotsman.12830.sbeok.shnf**: soundboard; 23 songs; 198 min; rated 4.16/5 by 25 [2]. Said about its sound: Soundboard recording features erratic quality, heavy bass, and multiple audience patches [16]\n- **gd1976-08-04.sbd.miller-tobin.35171.flac**: soundboard; 22 songs; 214 min; rated 4.67/5 by 6 [4]\n- **gd1976-08-04.127240.mtx.tobin.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 206 min; rated 2/5 by 1 [5]\n- **gd1976-08-04.sbd.backus.6677.shnf**: soundboard; 22 songs; 191 min; rated 4.5/5 by 2 [12]. Said about its sound: Unwanted noise remains in the recording, as noted in the Taping Compendium [12]\n\n## Around the show\n\n- Garcia called Roosevelt and Stanley venues favorites; band added four Jersey dates after 1972 [15]\n- A trained chimpanzee performed on stage between sets while its handler pleaded with the crowd [16]\n- A couple in a sleeping bag at the infield back was getting intimate during the show [17]\n- Fans sat in hot sun all day, leaving the crowd low-key when the band started [18]\n- Crowd wore fluorescent green shirts and glow sticks while watching from the decaying stadium field [20]\n- Mr. Jiggs fell on roller skates while being pelted with light sticks and change [24]\n\n## Tapers and lineage\n\n- **gd76-08-04.jones.vernon.12078.sbeok.shnf**: taped by Scott Jones; source: Audience Recording: Shure [1]. Also: Scott Jones recorded source one using Shure mics and a Sony TC-158 [1]\n- **gd76-08-04.sbd.cotsman.12830.sbeok.shnf**: source: Soundboard [2]\n- **gd1976-08-04.sbd.miller-tobin.35171.flac**: taped by See info file; transferred by Kevin Tobin; source: SBD>Cm>Reel>Lucid AD2496>CD>EAC>SHN [4]. Also: Patrick Clifford provided audio to match the 2005 BHP black and white video [4]\n- **gd1976-08-04.127240.mtx.tobin.flac16**: transferred by Kevin Tobin; source: SBD + AUD Matrix 3 Source Mix (55%-SBD/45%-AUD) from SBD1 (shnid=35171), SBD2 (no shn ID) and AUD1 (shnid=12078) [5]. Also: Set one audio was patched using video soundtrack for timing and blending purposes [5]\n- **gd1976-08-04.sbd.backus.6677.shnf**: transferred by David Backus; source: MSR->C->DAT->CDR->EAC->SHN V.3 [12]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Grateful Dead @ Roosevelt Stadium NJ August 1976](https://www.dead.net/fanphotos/grateful-dead-roosevelt-stadium-nj-august-1976) [27]\n- Fan art by Grateful Dead: [Grateful Dead Roosevelt Stadium - August 4, 1976](https://www.dead.net/show/august-4-1976) [28]\n- Poster by lostlivedead.blogspot.com: [Roosevelt Stadium, Danforth Ave and NJ Rte 1 NJ440, Jersey City, NJ 1972-76 (Jersey City Story)](https://lostlivedead.blogspot.com/2013/12/roosevelt-stadium-danforth-ave-and-nj.html) [29]",

@@ -516,7 +516,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -610,8 +610,8 @@
     },
     "previous": {
      "date": "1989-07-12",
-     "show": "live:grateful-dead:1989-07-12:rfk-stadium",
-     "venue": "RFK Stadium"
+     "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium",
+     "venue": "Robert F. Kennedy Stadium"
     },
     "recommended": {
      "identifier": "gd89-07-13.schoeps.9046.sbeok.shnf",
@@ -1073,106 +1073,277 @@
     "setlist": [
      {
       "key": "song:grateful-dead:tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1989-04-08",
+        "show": "live:grateful-dead:1989-04-08:riverfront-arena"
+       },
+       "plays_before": 14,
+       "total_plays": 24
+      },
       "title": "Tunning"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 154,
+       "total_plays": 225
+      },
       "title": "Hell in a Bucket"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 204,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 209,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-07-10",
+        "show": "live:grateful-dead:1989-07-10:giants-stadium"
+       },
+       "plays_before": 365,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 40,
+       "total_plays": 79
+      },
       "title": "Stuck Inside of Mobile With the Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 66,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 233,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-02",
+        "show": "live:grateful-dead:1989-07-02:sullivan-stadium"
+       },
+       "plays_before": 254,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 370,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 223,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 1171,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 831,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 22,
+       "total_plays": 36
+      },
       "title": "I Will Take You Home"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 501,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 335,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-07-09",
+        "show": "live:grateful-dead:1989-07-09:giants-stadium"
+       },
+       "plays_before": 169,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-06-18",
+        "show": "live:grateful-dead:1989-06-18:shoreline-amphitheatre"
+       },
+       "plays_before": 393,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 270,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1180,19 +1351,46 @@
      {
       "from": "gd1989-07-13.nak100.mchugh.hanscom-.32897.sbeok.flac16",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 31,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd1989-07-13.140446.TS-BeyerCM101.ebel.flac2496",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-07-12",
+        "show": "live:grateful-dead:1989-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 89,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1989-07-13.Nak300CP4.Fitzy.Keo.125364.Flac1644",
       "key": "song:grateful-dead:let-it-grow-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1989-04-12",
+        "show": "live:grateful-dead:1989-04-12:rosemont-horizon"
+       },
+       "plays_before": 15,
+       "total_plays": 37
+      },
       "title": "Let It Grow, Set Break"
      }
     ],
@@ -1200,26 +1398,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1521,
-     "shows_in_archive": 1855,
+     "show_number": 1626,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Robert F. Kennedy Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 12,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:10.366867+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.547462+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 13,
-   "signature": "-LeAM5hoH1o80cn-TpnmmRspZgQw4n9MQYz01STNR3KA7NswF92mxCjArEvQTVoxtRP5UR2Ieze-XA3BrCqxDA",
+   "revision": 26,
+   "signature": "TcQHY8Qqe7jT2SFv70t582Ktqd9wVJaVIfOC4b5HdidG6NZL2WR99_n5zkrnZ0y9irntK6yjofjKX15C24V-DQ",
    "subject_key": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium",
-   "updated_at": "2026-10-25T16:42:10.376110"
+   "updated_at": "2026-10-25T17:35:24.548792"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Tunning** (2 reviews): Phil teased Dark Star during tuning, audible about 3:30 into the recording, though the band never played it; Phil's Dark Star tease is audible during the first set tune-up [17][21]\n- **Looks Like Rain** (2 reviews): Heavy rain started just as Bobby finished this song; Listener considers this probably the best 1989 version, with chest-pounding bass in parts of the stadium [19][23]\n- **I Will Take You Home** (2 reviews): Big screen showed a picture of Brent's child during this song, which the listener found sweet; Brent's performance of this song stuck in the listener's memory [16][20]\n- **Cold Rain and Snow** (1 review): Brent's Hammond B-3 gave this song a classic 1980s Dead sound [26]\n- **Tennessee Jed** (1 review): From the upper deck, the bass felt strong enough to collapse the stadium's upper level during this song [22]\n- **To Lay Me Down** (1 review): Listener was surprised it was played and found it good for a stadium show [23]\n- **He's Gone** (1 review): Listener highlights He's Gone as the second set opener, a Jerry choice, paired with the prior night's Sugaree opener [21]\n- **Terrapin Station** (1 review): Listed among the listener's standouts, along with Cold Rain, Jed, Lay Me Down, Looks Like Rain and Wharf Rat [22]\n\n## The recordings\n\n- **gd89-07-13.schoeps.9046.sbeok.shnf** (recommended): audience recording; 19 songs; 174 min; rated 3.8/5 by 10 [1]. Said about its sound: Bass lows come through well on this audience recording; a bit of EQ and volume helps it come alive; Audience recording has a wide, 3D stereo field, though the recording level is low [22][27]\n- **gd1989-07-13.nak100.mchugh.hanscom-.32897.sbeok.flac16**: source not stated; 19 songs; 162 min; rated 2.4/5 by 5 [2]. Said about its sound: Hiss in the second set is actually steady, cold rain; the opening seconds of He's Gone are missing, with tape saturation; The last minute or so of Good Lovin' is missing from this copy [2]\n- **gd1989-07-13.163770.mtx.tobin.flac16**: matrix (soundboard mixed with audience mics); 18 songs; 172 min; rated 4/5 by 1 [4]\n- **gd1989-07-13.163771.dts.tobin.flac16**: source not stated; 18 songs; 172 min [10]\n- **gd1989-07-13.sbd.miller.95939.sbeok.flac16**: soundboard; 8 songs; 75 min; rated 3.25/5 by 4 [15]. Said about its sound: Band sounds slightly out of tune at the start; the bass is huge in the soundboard recording [26]\n\n## Around the show\n\n- Fans unfurled a sign reminding the band of five years without Dark Star; Phil reacted in mock surprise [17]\n- Downpour began right after Looks Like Rain ended and lasted to the encore; the field turned to deep mud [19]\n- Rain fell through most of the second set, clearing for the U.S. Blues encore [20]\n- Rain fell at some point at nearly every show that summer; this was the last tour allowing camping at shows [24]\n- Fans stayed near the river between shows; a portajohn was tipped over onto someone [24]\n- Listener thinks it may not be the best of the tour, but it has its moments [23]\n- Listener judged this the better of the two RFK shows, with fewer flubs than night one, whose sound took half the show to settle [26]\n- Second set felt like a snoozer, with too much Drums, though well played [27]\n\n## Tapers and lineage\n\n- **gd89-07-13.schoeps.9046.sbeok.shnf**: source: (Schoeps)AUD>PCM>DAT>CDR [1]. Also: Schoeps audience recording transferred via PCM and DAT to CDR; seeded to etree by Tim W [1]\n- **gd1989-07-13.nak100.mchugh.hanscom-.32897.sbeok.flac16**: taped by Boyd McHugh; transferred by Dave  Hanscom; source: NAK-100s > Sony D-5, using Dolby B. [2]. Also: Shorten files were converted to FLAC using shntool; conversion credited to Gary F [2]\n- **gd1989-07-13.163770.mtx.tobin.flac16**: transferred by Matrix by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (44/16) [4]. Also: This is a matrix mix made by an archive.org user, converted to FLAC in February 2023 [4]\n- **gd1989-07-13.163771.dts.tobin.flac16**: transferred by DTS-Audio-CD 5.1 Mix by Kevin Tobin; source: DTS-Audio-CD 5.1 Mix [10]. Also: DTS surround version mixed by an archive.org user, converted to FLAC in February 2023 [10]\n- **gd1989-07-13.sbd.miller.95939.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette -> CD [15]\n\n## Art and photos\n\n- Fan art by michaelsmusiclog.blogspot.com: [Grateful Dead: “Robert F. Kennedy Stadium, Washington, D.C., July 12 & 13, 1989” (2017) CD Review](https://michaelsmusiclog.blogspot.com/2018/03/grateful-dead-robert-f-kennedy-stadium.html) [31]\n- Poster by michaelsmusiclog.blogspot.com: [Grateful Dead: “Robert F. Kennedy Stadium, Washington, D.C., July 12 & 13, 1989” (2017) CD Review](https://michaelsmusiclog.blogspot.com/2018/03/grateful-dead-robert-f-kennedy-stadium.html) [32]\n- Fan art by michaelsmusiclog.blogspot.com: [Grateful Dead: “Robert F. Kennedy Stadium, Washington, D.C., July 12 & 13, 1989” (2017) CD Review](https://michaelsmusiclog.blogspot.com/2018/03/grateful-dead-robert-f-kennedy-stadium.html) [33]",

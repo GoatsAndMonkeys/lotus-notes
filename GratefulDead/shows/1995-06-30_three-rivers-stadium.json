@@ -386,7 +386,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -451,9 +451,9 @@
      "venue": "Deer Creek Music Center"
     },
     "previous": {
-     "date": "1995-06-25",
-     "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium",
-     "venue": "Robert F. Kennedy Stadium"
+     "date": "1995-06-28",
+     "show": "live:grateful-dead:1995-06-28:the-palace",
+     "venue": "The Palace"
     },
     "recommended": {
      "identifier": "gd95-06-30.schoeps.3376.sbeok.shnf",
@@ -705,87 +705,241 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-21",
+        "show": "live:grateful-dead:1995-06-21:knickerbocker-arena"
+       },
+       "plays_before": 224,
+       "total_plays": 225
+      },
       "title": "Hell in a Bucket"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1995-05-21",
+        "show": "live:grateful-dead:1995-05-21:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 149,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:take-me-to-the-river",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-21",
+        "show": "live:grateful-dead:1995-06-21:knickerbocker-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Take Me to the River"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 285,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-22",
+        "show": "live:grateful-dead:1995-06-22:knickerbocker-arena"
+       },
+       "plays_before": 147,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 313,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-06-24",
+        "show": "live:grateful-dead:1995-06-24:robert-f-kennedy-stadium"
+       },
+       "plays_before": 437,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-25",
+        "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 23,
+       "total_plays": 24
+      },
       "title": "Rain"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-25",
+        "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 163,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:samba-in-the-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-25",
+        "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 35,
+       "total_plays": 38
+      },
       "title": "Samba in the Rain"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 425,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-22",
+        "show": "live:grateful-dead:1995-06-22:knickerbocker-arena"
+       },
+       "plays_before": 315,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-28",
+        "show": "live:grateful-dead:1995-06-28:the-palace"
+       },
+       "plays_before": 1624,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-28",
+        "show": "live:grateful-dead:1995-06-28:the-palace"
+       },
+       "plays_before": 1284,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-06-18",
+        "show": "live:grateful-dead:1995-06-18:giants-stadium"
+       },
+       "plays_before": 278,
+       "total_plays": 279
+      },
       "title": "I Need a Miracle"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-27",
+        "show": "live:grateful-dead:1995-06-27:the-palace"
+       },
+       "plays_before": 82,
+       "total_plays": 83
+      },
       "title": "Standing on the Moon"
      },
      {
       "key": "song:grateful-dead:gloria",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 650,
+       "gap_shows": 146,
+       "last_played": {
+        "date": "1993-09-18",
+        "show": "live:grateful-dead:1993-09-18:madison-square-garden"
+       },
+       "plays_before": 16,
+       "total_plays": 17
+      },
       "title": "Gloria"
      }
     ],
@@ -793,52 +947,91 @@
      {
       "from": "gd1995-06-30.fob.schoeps.evans.GEMS.83144.flac16",
       "key": "song:grateful-dead:bucket",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2028,
+       "gap_shows": 431,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 3,
+       "total_plays": 4
+      },
       "title": "Bucket"
      },
      {
       "from": "gd1995-06-30.fob.schoeps.evans.GEMS.83144.flac16",
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1995-04-07",
+        "show": "live:grateful-dead:1995-04-07:tampa-stadium"
+       },
+       "plays_before": 69,
+       "total_plays": 71
+      },
       "title": "Masterpiece"
      },
      {
       "from": "gd1995-06-30.fob.schoeps.evans.GEMS.83144.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 254,
+       "gap_shows": 54,
+       "last_played": {
+        "date": "1994-10-19",
+        "show": "live:grateful-dead:1994-10-19:madison-square-garden"
+       },
+       "plays_before": 102,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1995-06-30.fob.nak300.holtz.jaz.92491.flac16",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-28",
+        "show": "live:grateful-dead:1995-06-28:the-palace"
+       },
+       "plays_before": 51,
+       "total_plays": 55
+      },
       "title": "Drums/Space"
      }
     ],
     "subject_key": "live:grateful-dead:1995-06-30:three-rivers-stadium",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Gloria"
+     ],
      "first_in_archive": [],
-     "show_number": 1851,
-     "shows_in_archive": 1855,
+     "show_number": 2092,
+     "shows_in_archive": 2097,
      "songs": 17,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Three Rivers Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.747279+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:29.000082+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "k_Smh96SuMn9aZ6BIusZtjk0KEZLLcYar-GO7D-vyFmDRjjKBUQG81czuHeMXB2Slfgyu3T13yi6uIFSg63vCg",
+   "revision": 33,
+   "signature": "AS5FbJhgB_UnWGtXhG5yp46MC5NqPsvDUDtVOvnEt_5LBBwGZe_dLMCYEpGlsrxvai3Zxl0zGol9GK9KltZOBg",
    "subject_key": "live:grateful-dead:1995-06-30:three-rivers-stadium",
-   "updated_at": "2026-10-25T16:42:19.748640"
+   "updated_at": "2026-10-25T17:35:29.001337"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Standing on the Moon** (2 reviews): Reviewer calls this the best version of Standing on the Moon they have ever heard; Reviewer identifies this as the best version of Standing on the Moon they ever caught [15][17]\n- **Rain** (1 review): The band started the song Rain immediately after a loud thunder crackle and lightning [10]\n\n## The recordings\n\n- **gd1995-06-30.fob.schoeps.evans.GEMS.83144.flac16** (recommended): source not stated; 18 songs; 154 min; rated 3.86/5 by 7 [1]\n- **gd95-06-30.schoeps.3376.sbeok.shnf**: audience recording; 17 songs; 148 min; rated 4.04/5 by 71 [2]. Said about its sound: Recording has significant stadium echo, though the reviewer personally enjoys that specific sonic quality; The recording quality is described as not special, focusing solely on audio rather than live experience [9][12]\n- **gd1995-06-30.schoeps.clemens.89393.flac1648**: source not stated; 17 songs; 149 min; rated 4.5/5 by 2 [3]\n- **gd1995-06-30.schoeps.jones.wklitz.95189.flac16**: source not stated; 17 songs; 153 min; rated 4/5 by 3 [4]\n\n## Around the show\n\n- Intense lightning and thunder occurred just before the band began playing the song Rain [10]\n- Reviewer attended from row 11 on Jerry's side, describing the night as magical [11]\n- Friend named Steve commented that the epic Standing on the Moon performance was pathetically Grateful Dead [13]\n- Rain and thunder started during the break, and the band took ten to fifteen minutes tuning up [14]\n- The performance occurred less than two weeks before the end of the band's music [19]\n- Considered a better summer performance, though not as strong as earlier 1995 shows [9]\n- Contrasts this show with typical 1995 performances, noting Jerry was usually sick and uninspired elsewhere [16]\n\n## Tapers and lineage\n\n- **gd1995-06-30.fob.schoeps.evans.GEMS.83144.flac16**: taped by Todd Evans and Adam Gross; transferred by GEMS; source: Schoeps Mk4 (cardiod) > Schoeps KC5 active Cable > Schoeps CMC 6 mic body > Monster M1000 Jumper cable > Apogee AD1000 A / D Converter (UV16 enabled to use the… [1]\n- **gd95-06-30.schoeps.3376.sbeok.shnf**: transferred by Ryan Burns; source: Audience: Schoeps MK4's [2]. Also: Recorded with Schoeps CMC6/MK4s to DAT, transferred by Ryan Burns using Sony and Tascam gear [2]\n- **gd1995-06-30.schoeps.clemens.89393.flac1648**: taped by Jake Clemens; transferred by Jake Clemens; source: Schoeps mk4->DAT @ 48 kHz (FOB) [3]\n- **gd1995-06-30.schoeps.jones.wklitz.95189.flac16**: taped by Roger Jones; transferred by Keith Litzenberger; source: Schoeps MK4's>Reutelhuber Preamp>Casio DAR-100 [4]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-06-30 Fri Three Rivers Stadium, Pittsburgh, PA](https://www.livegrateful.net/post/1277269331846/grateful-dead-1995-06-30-fri-three) [22]\n- Poster by Robbi Cohn: [1995-06-30 Three Rivers Stadium, Pittsburgh, PA, USA - Jerry Garcia](https://jerrygarcia.com/show/1995-06-30-three-rivers-stadium-pittsburgh-pa-usa/) [23]\n- Poster by Grateful Dead: [Grateful Dead Three Rivers Stadium - June 30, 1995](https://www.dead.net/show/june-30-1995) [24]",

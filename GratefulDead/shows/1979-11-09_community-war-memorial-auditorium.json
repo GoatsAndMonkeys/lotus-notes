@@ -385,7 +385,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -446,13 +446,13 @@
     "guests": [],
     "next": {
      "date": "1979-11-10",
-     "show": "live:grateful-dead:1979-11-10:chrisler-arena",
-     "venue": "Chrisler Arena"
+     "show": "live:grateful-dead:1979-11-10:crisler-arena",
+     "venue": "Crisler Arena"
     },
     "previous": {
      "date": "1979-11-08",
-     "show": "live:grateful-dead:1979-11-08:capitol-center",
-     "venue": "Capitol Center"
+     "show": "live:grateful-dead:1979-11-08:capital-centre",
+     "venue": "Capital Centre"
     },
     "recommended": {
      "identifier": "gd79-11-09.sbd.stern.318.sbeok.shnf",
@@ -734,117 +734,324 @@
     "setlist": [
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 153,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 2,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 226,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 126,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 90,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-10-31",
+        "show": "live:grateful-dead:1979-10-31:nassau-coliseum"
+       },
+       "plays_before": 191,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 83,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 77,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 12,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 12,
+       "total_plays": 51
+      },
       "title": "Easy to Love You"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 259,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1979-10-27",
+        "show": "live:grateful-dead:1979-10-27:cape-cod-coliseum"
+       },
+       "plays_before": 106,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Streets"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 61,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 115,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 115,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 210,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 462,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 138,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 158,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 42,
+       "total_plays": 279
+      },
       "title": "I Need a Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 224,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 238,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 116,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -852,13 +1059,21 @@
      {
       "from": "gd1979-11-09.aud-unknown.andrewf.79702.flac16",
       "key": "song:grateful-dead:drums-continued",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
       "title": "Drums continued"
      },
      {
       "from": "gd1979-11-09.169523.akg.220e.wagner.miller.clugston.flac2496",
       "key": "song:grateful-dead:gloria-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Gloria Jam"
      }
     ],
@@ -866,26 +1081,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 791,
-     "shows_in_archive": 1855,
+     "show_number": 887,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Community War Memorial Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 11,
+   "parent_revision": 23,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.025826+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.208591+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 12,
-   "signature": "Chj1PlZAmRWIBeGcj-QDdF6aPt7paOwZ-v6k9Qs_Wd8oRrDnK-8CvMMZyiiVnsqgjiBKnsglw43NGV6gNiQ8Dg",
+   "revision": 24,
+   "signature": "_avvo7WTklKxPVfgRgaoCFfn4B2kgpkFoZHV1WzqEnPNrc5-jRtZWZl5bWBPLO8w18OuAF14lUylmZfXKzCJBw",
    "subject_key": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium",
-   "updated_at": "2026-10-25T16:41:53.026995"
+   "updated_at": "2026-10-25T17:35:16.209487"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancin' in the Streets** (4 reviews): Dancin' has terrific jamming and an interesting transition into Franklin's Tower, credited to Phil; At the end of Dancin', Weir takes over with an intro into Franklin's until Garcia reasserts the tonic [13][19][20][21]\n- **Johnny B. Goode** (2 other sources): First track of the Johnny B. Goode is the encore from 11/8/79, not this show; The Johnny B. Goode from the previous night was removed from the start of CD 1 [1][5]\n- **Lazy Lightnin'** (2 reviews): Garcia plays a blazing jam in the Lazy Lightnin' into Supplication pairing; Reviewer calls this Lazy Lightnin' into Supplication among the best ever, having heard nearly all versions [10][16]\n- **Althea** (2 reviews): Althea is loose and was newly played at this point; the first set ends with a huge Jack Straw; The Althea converted a listener who preferred early-70s shows [13][17]\n- **He's Gone** (2 reviews): The jam out of He's Gone is the intense Gloria jam the band played a few times; A hot Gloria-type jam closes out He's Gone [13][16]\n- **Easy to Love You** (1 review): Reviewer hears this Easy to Love You as unusual, possibly with different lyrics from normal [10]\n- **Franklin's Tower** (1 review): Around 10:47 into Franklin's, Garcia trills heavily and Weir then steps up [19]\n- **Estimated Prophet** (1 review): Brent is first out of Estimated Prophet, and his instrument sounds wonderful [19]\n\n## The recordings\n\n- **gd79-11-09.sbd.stern.318.sbeok.shnf** (recommended): soundboard; 23 songs; 175 min; rated 4.52/5 by 33 [1]. Said about its sound: Soundboard sound is described as extremely clear and crisp, comparable to the 12/28/79 show; Some funkiness in the first set sound and the right channel, which is tolerable; 1979 sound is cleaner and more modern, with Brent's keyboards noted [1][10][16][17][18][21]\n- **gd1979-11-09.150448.sbd.gems.flac16**: soundboard; 22 songs; 181 min; rated 5/5 by 2 [2]. Said about its sound: Persistent low-level tape grime in the right channel that does not detract from the music; First Althea note is cut in; a small SBD patch in Jack Straw, and small audience patches in He's Gone and Bertha [2]\n- **gd1979-11-09.aud-unknown.andrewf.79702.flac16**: audience recording; 23 songs; 183 min; rated 4.2/5 by 5 [3]. Said about its sound: Audience recording has two small cuts: near the end of Estimated and near the end of Drums [3]\n- **gd1979-11-09.sbd.stern.tetzeli.fix-318.34936.reflac.flac16**: soundboard; 22 songs; 170 min; rated 4.4/5 by 10 [5]. Said about its sound: Overlap between CDs 2 and 3 removed so Dancin' into I Need a Miracle plays seamlessly [5]\n\n## Around the show\n\n- Set one has over twelve minutes of long tunings [2]\n- Reviewer says comparable peak moments occur in shows shortly before and after this one [15]\n\n## Tapers and lineage\n\n- **gd79-11-09.sbd.stern.318.sbeok.shnf**: source: Soundboard [1]. Also: Soundboard via A. Stern, taken through MR, DAT, Sonic Solutions to CD; previously circulated to abgd [1]\n- **gd1979-11-09.150448.sbd.gems.flac16**: transferred by Speed Corrections by Jason Chastain Audio Mastering by Jamie Waddell; source: Soundboard [2]\n- **gd1979-11-09.aud-unknown.andrewf.79702.flac16**: taped by Unknown; transferred by Andrew F; source: AUD (unknown equipment and lineage, see note below) [3]. Also: Made from tapes lent by Joey Browning; Soundforge used for fades, level adjustments and small edits [3]\n- **gd1979-11-09.sbd.stern.tetzeli.fix-318.34936.reflac.flac16**: transferred by Bill Tetzeli; source: SBD> Cm> Cass> Dat> Sound Forge> CD > WAV > SHN > WAV > FLAC [5]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead War Memorial Auditorium - November 9, 1979](https://www.dead.net/show/november-9-1979) [23]\n- Fan art by Grateful Dead: [Grateful Dead War Memorial Auditorium - November 9, 1979](https://www.dead.net/show/november-9-1979) [24]\n- Fan art by Grateful Dead: [Grateful Dead War Memorial Auditorium - November 9, 1979](https://www.dead.net/show/november-9-1979) [25]",

@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -89,9 +89,9 @@
      "venue": "Fillmore East"
     },
     "previous": {
-     "date": "1969-09-06",
-     "show": "live:grateful-dead:1969-09-06:family-dog-at-the-great-highway",
-     "venue": "Family Dog at the Great Highway"
+     "date": "1969-09-11",
+     "show": "live:grateful-dead:1969-09-11:the-family-dog-at-the-great-highway",
+     "venue": "The Family Dog at the Great Highway (?)"
     },
     "recommended": {
      "identifier": "gd1969-09-17.136664.sbd.Sirmick.flac16",
@@ -134,104 +134,192 @@
      {
       "key": "song:grateful-dead:garcia-and-pigpen-noodling",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Garcia and Pigpen noodling"
      },
      {
       "key": "song:grateful-dead:unknown-instrumental-x-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Unknown Instrumental x 2"
      },
      {
       "key": "song:grateful-dead:seasons-of-my-heart-x-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Seasons Of My Heart x 3"
      },
      {
       "key": "song:grateful-dead:sawmill-x-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sawmill x 3"
      },
      {
       "key": "song:grateful-dead:merry-go-round-broke-down-x-3",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Merry-Go-Round Broke Down x 3"
      },
      {
       "key": "song:grateful-dead:merrily-we-roll-along-x-2",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Merrily We Roll Along x 2"
      },
      {
       "key": "song:grateful-dead:merry-go-round-broke-down",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1021,
+       "gap_shows": 146,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "Merry-Go-Round Broke Down"
      },
      {
       "key": "song:grateful-dead:cartoon-music",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cartoon music"
      },
      {
       "key": "song:grateful-dead:teddy-bears-picnic",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Teddy Bear's Picnic"
      },
      {
       "key": "song:grateful-dead:merry-go-round-broke-down",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1021,
+       "gap_shows": 146,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "Merry-Go-Round Broke Down"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow-x-4",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cold Rain And Snow x 4"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-08-29",
+        "show": "live:grateful-dead:1969-08-29:family-dog-at-the-great-highway"
+       },
+       "plays_before": 8,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:eleven-x-5",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Eleven x 5"
      },
      {
       "key": "song:grateful-dead:barbed-wire-whipping-party",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Barbed Wire Whipping Party"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1969-09-17:alembic-studios",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 152,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Merry-Go-Round Broke Down",
+      "Merry-Go-Round Broke Down"
+     ],
+     "first_in_archive": [
+      "Garcia and Pigpen noodling",
+      "Unknown Instrumental x 2",
+      "Seasons Of My Heart x 3",
+      "Sawmill x 3",
+      "Merry-Go-Round Broke Down x 3",
+      "Merrily We Roll Along x 2",
+      "Cartoon music",
+      "Teddy Bear's Picnic",
+      "Cold Rain And Snow x 4",
+      "The Eleven x 5",
+      "Barbed Wire Whipping Party"
+     ],
+     "show_number": 183,
+     "shows_in_archive": 2097,
      "songs": 14,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alembic Studios"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.505513+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.150900+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "I_4dm5Y9YiADcQUf7-BAOKGdtL05Wj6IHPUDMZVH7Gaq-CFXcJlIN4t5AuC3GVX63fmafMobe8rhR6OxK8nDAw",
+   "revision": 40,
+   "signature": "pmpFc45S2exc6pTlI94VuX2svm18bfRmpCqbi9WrvtMXE0Yna96Zdv7BlYPkYWrMp30Q2ZUcpynry1bosp-_CQ",
    "subject_key": "live:grateful-dead:1969-09-17:alembic-studios",
-   "updated_at": "2026-10-25T16:41:39.506367"
+   "updated_at": "2026-10-25T17:35:10.151424"
   }
  },
  "recommended": {

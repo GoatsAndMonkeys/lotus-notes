@@ -78,7 +78,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -143,34 +143,83 @@
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1967-10-20",
+        "show": "live:grateful-dead:1967-10-20:american-studios"
+       },
+       "plays_before": 7,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1967-10-20",
+        "show": "live:grateful-dead:1967-10-20:american-studios"
+       },
+       "plays_before": 9,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Step On Tracks) //"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1967-10-22",
+        "show": "live:grateful-dead:1967-10-22:winterland-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1967-10-22",
+        "show": "live:grateful-dead:1967-10-22:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1967-10-22",
+        "show": "live:grateful-dead:1967-10-22:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 9
+      },
       "title": "Cryptical Reprise"
      }
     ],
@@ -178,27 +227,29 @@
     "subject_key": "live:grateful-dead:1967-10-31:winterland-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 43,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "drums"
+     ],
+     "show_number": 55,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.601429+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.371528+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "zU8zHPKs7hPWvZdRhppId3KemS4_WD9sVlxFwhgKZejIv6ph5rwD9oohNI57fWAZzjRQZVEhiYCWrmsZC4lCBw",
+   "revision": 41,
+   "signature": "ePYOLM9ZYRFmbdzF8nSXpit6TnCg1STe7WDymZVe__CIw10wSZjNNZK0rrwDqje2kM0tvfqQhdzvw0wJmMBXDg",
    "subject_key": "live:grateful-dead:1967-10-31:winterland-arena",
-   "updated_at": "2026-10-25T16:41:38.602260"
+   "updated_at": "2026-10-25T17:35:09.372021"
   }
  },
  "recommended": {

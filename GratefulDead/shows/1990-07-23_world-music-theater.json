@@ -623,7 +623,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -644,8 +644,8 @@
     },
     "previous": {
      "date": "1990-07-22",
-     "show": "live:grateful-dead:1990-07-22:world-music-theatre",
-     "venue": "World Music Theatre"
+     "show": "live:grateful-dead:1990-07-22:world-music-theater",
+     "venue": "World Music Theater"
     },
     "recommended": {
      "identifier": "gd1990-07-23.147601.mtx.tobin.flac16",
@@ -1227,102 +1227,278 @@
     "setlist": [
      {
       "key": "song:grateful-dead:5-minute-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "5 Minute Long Tuning"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1990-07-04",
+        "show": "live:grateful-dead:1990-07-04:sandstone-ampitheatre"
+       },
+       "plays_before": 214,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-19",
+        "show": "live:grateful-dead:1990-07-19:deer-creek-music-center"
+       },
+       "plays_before": 17,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 120,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-07-12",
+        "show": "live:grateful-dead:1990-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 108,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 295,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 468,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:nobodys-fault-but-mine-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3079,
+       "gap_shows": 613,
+       "last_played": {
+        "date": "1982-02-16",
+        "show": "live:grateful-dead:1982-02-16:warfield-theater"
+       },
+       "plays_before": 22,
+       "total_plays": 23
+      },
       "title": "Nobody's Fault But Mine Jam"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 111,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 49,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-19",
+        "show": "live:grateful-dead:1990-07-19:deer-creek-music-center"
+       },
+       "plays_before": 47,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-19",
+        "show": "live:grateful-dead:1990-07-19:deer-creek-music-center"
+       },
+       "plays_before": 47,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 141,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 243,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-07-22",
+        "show": "live:grateful-dead:1990-07-22:world-music-theater"
+       },
+       "plays_before": 1249,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-07-22",
+        "show": "live:grateful-dead:1990-07-22:world-music-theater"
+       },
+       "plays_before": 909,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-07-19",
+        "show": "live:grateful-dead:1990-07-19:deer-creek-music-center"
+       },
+       "plays_before": 60,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-07-06",
+        "show": "live:grateful-dead:1990-07-06:cardinal-stadium"
+       },
+       "plays_before": 24,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 371,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 112,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1990-04-02",
+        "show": "live:grateful-dead:1990-04-02:the-omni"
+       },
+       "plays_before": 403,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 18,
+       "total_plays": 54
+      },
       "title": "The Weight"
      }
     ],
@@ -1330,106 +1506,220 @@
      {
       "from": "gd1990-07-23.sbd.chaser.7417.shnf",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 120,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 35,
+       "total_plays": 36
+      },
       "title": "Good Time Blues"
      },
      {
       "from": "gd1990-07-23.sbd.chaser.7417.shnf",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 492,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "from": "gd1990-07-23.sbd.chaser.7417.shnf",
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 494,
+       "total_plays": 564
+      },
       "title": "I KNow You Rider"
      },
      {
       "from": "gd1990-07-23.147778.UltraMatrix.sbd.cm.miller.flac16",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 154,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1990-07-23.135062.bltz.flac2496",
       "key": "song:grateful-dead:nobodys-fault-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3079,
+       "gap_shows": 613,
+       "last_played": {
+        "date": "1982-02-16",
+        "show": "live:grateful-dead:1982-02-16:warfield-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 13
+      },
       "title": "Nobody's Fault Jam"
      },
      {
       "from": "gd1990-07-23.135062.bltz.flac2496",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 150,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1990-07-23.sbd.clugston.7835.sbeok.shnf",
       "key": "song:grateful-dead:cr-and-s",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 6077,
+       "gap_shows": 1149,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "CR & S"
      },
      {
       "from": "gd1990-07-23.sbd.clugston.7835.sbeok.shnf",
       "key": "song:grateful-dead:watchtower",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-07-12",
+        "show": "live:grateful-dead:1990-07-12:robert-f-kennedy-stadium"
+       },
+       "plays_before": 8,
+       "total_plays": 14
+      },
       "title": "Watchtower"
      },
      {
       "from": "gd1990-07-23.sbd.clugston.7835.sbeok.shnf",
       "key": "song:grateful-dead:sotm",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-07-06",
+        "show": "live:grateful-dead:1990-07-06:cardinal-stadium"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "SOTM"
      },
      {
       "from": "gd1990-07-23.sbd.clugston.7835.sbeok.shnf",
       "key": "song:grateful-dead:a-and-a",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2507,
+       "gap_shows": 501,
+       "last_played": {
+        "date": "1983-09-11",
+        "show": "live:grateful-dead:1983-09-11:santa-fe-downs"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "A & A"
      },
      {
       "from": "gd1990-07-23.133843.sbd.chasingwilma.flac16",
       "key": "song:grateful-dead:smokestack",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Smokestack"
      },
      {
       "from": "gd1990-07-23.AKG451.Darby.117751.Flac1644",
       "key": "song:grateful-dead:smokestack-lightning-set-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Smokestack Lightning/Set Break"
      },
      {
       "from": "gd1990-07-23.AKG451.Darby.117751.Flac1644",
       "key": "song:grateful-dead:good-lovin-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 287,
+       "gap_shows": 60,
+       "last_played": {
+        "date": "1989-10-09",
+        "show": "live:grateful-dead:1989-10-09:hampton-coliseum"
+       },
+       "plays_before": 8,
+       "total_plays": 15
+      },
       "title": "Good Lovin'/Encore Break"
      }
     ],
     "subject_key": "live:grateful-dead:1990-07-23:world-music-theater",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1600,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Nobody's Fault But Mine Jam"
+     ],
+     "first_in_archive": [
+      "5 Minute Long Tuning"
+     ],
+     "show_number": 1705,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "World Music Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 27,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:12.878168+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.721379+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 28,
-   "signature": "fjbpLXQ-3XE0707YnUpDR2_omjCqI5LRcupEJuiGuI0dGMmQ4PsAtP30WTpk9tpFBDYx2auFLYz_gnnb_4N-BQ",
+   "revision": 41,
+   "signature": "oYAWXk7RBqolPtGR60WyBb70BpSPW_vcuHHelftPEwzseZ3VdAPiOl81KXhJMqciyzH7UQbU_atSUz7djjDpAg",
    "subject_key": "live:grateful-dead:1990-07-23:world-music-theater",
-   "updated_at": "2026-10-25T16:42:12.885235"
+   "updated_at": "2026-10-25T17:35:25.722963"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Smokestack Lightning** (1 review): Smokestack Lightning left the audience dazed and smiling through the set break [21]\n- **Good Time Blues** (1 review): Reviewer heard Good Time Blues for the first time since Alpine 1988 [27]\n- Reviewer particularly appreciated Brent's singing and playing in Blow Away [31]\n\n## The recordings\n\n- **gd1990-07-23.147601.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 157 min [1]\n- **gd1990-07-23.147602.dts.tobin.flac16**: source not stated; 20 songs; 157 min [3]\n- **gd1990-07-23.147778.UltraMatrix.sbd.cm.miller.flac16**: soundboard; 19 songs; 160 min; rated 3/5 by 1 [5]\n- **gd1990-07-23.147719.ultramatrix.sbd.miller.flac24**: soundboard; 19 songs; 160 min [7]\n- **gd90-07-23.sbd.oconner.7612.sbeok.shnf**: soundboard; 19 songs; 149 min; rated 3.52/5 by 57 [13]. Said about its sound: Balcony acted as a sound baffle, causing audio to bounce around; Video footage made the performance seem better than the audio recording; Soundboard recording is clean, despite the band not giving their best effort [25][26][27]\n\n## Around the show\n\n- Reviewer found a large crystal near the fence, keeping it for years [21]\n- Reviewer attended nearly 70 shows over six years, ending their attendance here [22]\n- Reviewer sat in 15th row center, their best seats at a Dead show [23]\n- Reviewer had just broken up with a girlfriend, affecting their mood [23]\n- Reviewer lost a friend in the lot but met many new ones [24]\n- Reviewer recalled hearing Brent better than anyone else that night [24]\n- Lawn was overcrowded, making it difficult to breathe or move [25]\n- Reviewer bought a ticket during a traffic standstill on I-80 [26]\n\n## Tapers and lineage\n\n- **gd1990-07-23.147601.mtx.tobin.flac16**: transferred by SBD + AUD Matrix 2 Source Mix (44/16) by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (44/16) [1]. Also: Mixed by an archive.org user, converted to FLAC in September 2019 [1]\n- **gd1990-07-23.147602.dts.tobin.flac16**: transferred by DTS-Audio-CD 5.1 Mix by Kevin Tobin; source: DTS-Audio-CD 5.1 Mix [3]. Also: Mixed by an archive.org user, converted to FLAC in September 2019 [3]\n- **gd1990-07-23.147778.UltraMatrix.sbd.cm.miller.flac16**: taped by Don Pearson; transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-X90) [5]. Also: Two different sets of masters were used to complete the show [5]\n- **gd1990-07-23.147719.ultramatrix.sbd.miller.flac24**: taped by Don Pearson; transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-X90) [7]. Also: Transfers and mastering by Charlie Miller, using two different master sets [7]\n- **gd90-07-23.sbd.oconner.7612.sbeok.shnf**: source: Soundboard [13]",

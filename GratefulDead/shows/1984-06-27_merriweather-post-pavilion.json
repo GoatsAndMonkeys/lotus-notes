@@ -593,7 +593,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -659,9 +659,23 @@
     },
     {
      "accessed_at": "2026-10-25",
-     "author": "Steven Rood Grateful Dead",
+     "author": null,
      "author_url": "https://jerrygarcia.com/",
      "id": 36,
+     "kind": "blog",
+     "published_at": "1970-01-01T00:00:00+00:00",
+     "quote_or_claim": "",
+     "site": "Jerry Garcia",
+     "title": "1984-06-26 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1984-06-26-merriweather-post-pavilion-columbia-md-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Steven Rood Grateful Dead",
+     "author_url": "https://jerrygarcia.com/",
+     "id": 37,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12151307/t840626.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
@@ -676,11 +690,11 @@
      "accessed_at": "2026-10-25",
      "author": "Steven Rood Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
-     "id": 37,
+     "id": 38,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12151306/t840627.jpg",
-     "kind": "fanart",
+     "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "1984-06-27 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia.",
+     "quote_or_claim": "1984-06-27 Merriweather Post Pavilion, Columbia, ….",
      "site": "Jerry Garcia",
      "title": "1984-06-27 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-06-27-merriweather-post-pavilion-columbia-md-usa/",
@@ -691,7 +705,7 @@
      "accessed_at": "2026-10-25",
      "author": "Steven Rood Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
-     "id": 38,
+     "id": 39,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12152036/b840627.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
@@ -1269,102 +1283,277 @@
     "setlist": [
      {
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-24",
+        "show": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center"
+       },
+       "plays_before": 30,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-14",
+        "show": "live:grateful-dead:1984-06-14:red-rocks-amphitheatre"
+       },
+       "plays_before": 347,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-12",
+        "show": "live:grateful-dead:1984-06-12:red-rocks-amphitheater"
+       },
+       "plays_before": 219,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 120,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1984-04-20",
+        "show": "live:grateful-dead:1984-04-20:philadelphia-civic-center"
+       },
+       "plays_before": 168,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 48,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1984-06-09",
+        "show": "live:grateful-dead:1984-06-09:cal-expo"
+       },
+       "plays_before": 264,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 163,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1984-04-21",
+        "show": "live:grateful-dead:1984-04-21:philadelphia-civic-center"
+       },
+       "plays_before": 52,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1984-04-21",
+        "show": "live:grateful-dead:1984-04-21:philadelphia-civic-center"
+       },
+       "plays_before": 51,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1984-04-21",
+        "show": "live:grateful-dead:1984-04-21:philadelphia-civic-center"
+       },
+       "plays_before": 127,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 236,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 229,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:why-dont-we-do-it-in-the-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Why Don't We Do It In The Road?"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 812,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 476,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 160,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 59,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 373,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-06-10",
+        "show": "live:grateful-dead:1984-06-10:cal-expo"
+       },
+       "plays_before": 120,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1372,34 +1561,45 @@
      {
       "from": "gd84-06-27.sbd.unknown.12929.sbeok.shnf",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 35,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      }
     ],
     "subject_key": "live:grateful-dead:1984-06-27:merriweather-post-pavilion",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1155,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Why Don't We Do It In The Road?"
+     ],
+     "show_number": 1258,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Merriweather Post Pavilion"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.872354+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.799830+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "m9HwpyNRNHuruk4k2xkDERQIb8tK66pI6LW6gk6quzogSpBizZmfPn_X3CGtxW_uGqPZoQBGsM24kxh3zpswDw",
+   "revision": 42,
+   "signature": "8JIawiMNGWNQxsxfTjMxmUWfrBr2XGEdAWxFQMkmNAbnFRz5iK_EaXSrLcvT4-eKPreyJ1aM-E3yncnSoEoDBw",
    "subject_key": "live:grateful-dead:1984-06-27:merriweather-post-pavilion",
-   "updated_at": "2026-10-25T16:41:58.874822"
+   "updated_at": "2026-10-25T17:35:19.800975"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Morning Dew** (2 reviews): Thunderous performance following space, with Brent and Jerry stealing the show; Highlight of the show, with Jerry's high notes sweeping up loose ends [19][23]\n- **Why Don't We Do It In The Road?** (1 review): First performance of the song, described as a mind-blowing surprise [19]\n\n## The recordings\n\n- **gd1984-06-27.111477.beyer-senn.daweez.d5scott.flac16** (recommended): source not stated; 20 songs; 167 min [1]\n- **gd1984-06-27.sbd.miller.repitch-87467.87658.sbeok.flac16**: soundboard; 19 songs; 164 min; rated 4.33/5 by 12 [4]\n- **gd84-06-27.sbd.skankweed.4615.sbeok.shnf**: soundboard; 19 songs; 169 min; rated 4/5 by 10 [5]. Said about its sound: Loudest feedback heard by the reviewer, possibly Healy impressing the bear; Jerry's voice raspy at times, but confident playing and consistent quality [20][21]\n- **gd1984-06-27.163306.neumann.u87.akg414.blend.eaton.miller.clugston.flac1648**: audience recording; 19 songs; 170 min; rated 4/5 by 1 [6]\n- **gd1984-06-27.148236.fob.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 19 songs; 163 min [8]\n\n## Around the show\n\n- Reviewer sat near the top of the bowl, far back in the venue [23]\n- Reviewer had fourth row seats and attended with friends and spouse [24]\n- Arguably Jerry's best playing despite physical toll; Bobby at peak frontman powers [25]\n- Trippy space into Morning Dew is a rarity, similar to UVM 4/13/83 [26]\n- Second set quality significantly better than the first night at the venue [28]\n- 1984 considered a highlight year for China Doll and space performances [30]\n\n## Tapers and lineage\n\n- **gd1984-06-27.111477.beyer-senn.daweez.d5scott.flac16**: taped by Da Weez; transferred by D5scott; source: source: 2 Beyer M160 and 1 Sennheiser 421 microphones (15th row-center) > Nak MX100 w/2001 > Sony TCD5M - analog master cassettes; [1]\n- **gd1984-06-27.sbd.miller.repitch-87467.87658.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette -> Dat (48k) D [4]. Also: Pitch-corrected cassette master from Nakamichi 300, transferred to CD by Steve Ziemba [4]\n- **gd84-06-27.sbd.skankweed.4615.sbeok.shnf**: source: SBD> MC> C> DAT> CDRx1> EAC> SHN [5]\n- **gd1984-06-27.163306.neumann.u87.akg414.blend.eaton.miller.clugston.flac1648**: taped by Rob Eaton; transferred by Rob, Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master Audience Cassettes; (2) Neumann U87's + (2) AKG 414's > Rolls MPX42 mixer > Sony D5M [6]. Also: Rob Eaton recorded and transferred; Sennheiser 421 source patched into Eyes and Drums [6]\n- **gd1984-06-27.148236.fob.senn.me80.hessberg.miller.clugston.flac2496**: taped by Chris Hecht; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master (FOB) Audience Cassettes; Sennheiser ME80 mics > Sony D5M [8]. Also: Michael Hessberg recorded; Schoeps CMC4 MK41 source patched into Eyes, Road, and Drums [8]\n\n## Art and photos\n\n- Poster by Steven Rood Grateful Dead: [1984-06-26 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-06-26-merriweather-post-pavilion-columbia-md-usa/) [35]\n- Poster by Steven Rood Grateful Dead: [1984-06-26 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-06-26-merriweather-post-pavilion-columbia-md-usa/) [36]\n- Fan art by Steven Rood Grateful Dead: [1984-06-27 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-06-27-merriweather-post-pavilion-columbia-md-usa/) [37]\n- Poster by Steven Rood Grateful Dead: [1984-06-27 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-06-27-merriweather-post-pavilion-columbia-md-usa/) [38]",

@@ -265,7 +265,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -286,8 +286,8 @@
     },
     "previous": {
      "date": "1969-08-21",
-     "show": "live:grateful-dead:1969-08-21:aqua-theater",
-     "venue": "Aqua Theater"
+     "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater",
+     "venue": "Green Lake Aqua Theater"
     },
     "recommended": {
      "identifier": "gd1969-08-23.165005.sbd.remaster.daniel.flac1644",
@@ -419,58 +419,157 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-08-03",
+        "show": "live:grateful-dead:1969-08-03:family-dog-at-the-great-highway"
+       },
+       "plays_before": 23,
+       "total_plays": 113
+      },
       "title": "//Hard To Handle"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 13,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 13,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:easy-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 43
+      },
       "title": "Easy Wind"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 42
+      },
       "title": "Sitting On Top Of The World"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-08-21",
+        "show": "live:grateful-dead:1969-08-21:green-lake-aqua-theater"
+       },
+       "plays_before": 77,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-08-16",
+        "show": "live:grateful-dead:1969-08-16:max-yasgurs-farm"
+       },
+       "plays_before": 71,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-07-12",
+        "show": "live:grateful-dead:1969-07-12:ny-state-pavilion-flushing-meadow-park"
+       },
+       "plays_before": 71,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-08-16",
+        "show": "live:grateful-dead:1969-08-16:max-yasgurs-farm"
+       },
+       "plays_before": 82,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-08-03",
+        "show": "live:grateful-dead:1969-08-03:family-dog-at-the-great-highway"
+       },
+       "plays_before": 24,
+       "total_plays": 57
+      },
       "title": "And We Bid You Goodnight"
      }
     ],
@@ -478,7 +577,16 @@
      {
       "from": "gd1969-08-23.sbd.lai.6639.shnf",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-07-12",
+        "show": "live:grateful-dead:1969-07-12:ny-state-pavilion-flushing-meadow-park"
+       },
+       "plays_before": 18,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      }
     ],
@@ -486,26 +594,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 146,
-     "shows_in_archive": 1855,
+     "show_number": 175,
+     "shows_in_archive": 2097,
      "songs": 11,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pelletier Farm"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.402782+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.102750+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "VZ_jJHOoospdOZFzyR63Sburwik-eKOArZC8lOSDrZ-SjmOiJDdl_VH4zpGJT6L488sQ4NRxunXVpcPxUenHCg",
+   "revision": 40,
+   "signature": "pahQUhd2MVkJgVEGbhfkmLoVPMRKcjs5XWUoIHjNZP8e7gxjiaB9X61yaii-odTKrRDFxDHUhE1LJX5-Kt1lBw",
    "subject_key": "live:grateful-dead:1969-08-23:pelletier-farm",
-   "updated_at": "2026-10-25T16:41:39.406924"
+   "updated_at": "2026-10-25T17:35:10.103544"
   }
  },
  "recommended": {

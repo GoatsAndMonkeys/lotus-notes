@@ -445,7 +445,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -535,9 +535,9 @@
     "date": "1978-07-08",
     "guests": [],
     "next": {
-     "date": "1978-08-30",
-     "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre",
-     "venue": "Red Rocks Amphitheatre"
+     "date": "1978-08-01",
+     "show": "live:grateful-dead:1978-08-01:studio-shakedown-street-rehearsal",
+     "venue": "Studio (Shakedown Street Rehearsal)"
     },
     "previous": {
      "date": "1978-07-07",
@@ -914,126 +914,333 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bobby-joke",
-      "stats": {},
+      "stats": {
+       "days_since": 153,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Bobby Joke"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 191,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 190,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 117,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 247,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 71,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 82,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 124,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 197,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 183,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 108,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 63,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 77,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 271,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 121,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 372,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 64,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 130,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 41,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 285,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 46,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 155,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:werewolves-of-london",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 8,
+       "total_plays": 12
+      },
       "title": "Werewolves Of London"
      }
     ],
@@ -1041,25 +1248,51 @@
      {
       "from": "gd1978-07-08.fob.knight.motb-0068.91766.flac16",
       "key": "song:grateful-dead:more-bass-trouble-and-the-poacher-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "More Bass Trouble And The Poacher Story"
      },
      {
       "from": "gd1978-07-08.126239.mtx-redo.eichorn.sbeok.t-flac16",
       "key": "song:grateful-dead:getting-everything-just-exactly-perfect",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Getting Everything Just Exactly Perfect"
      },
      {
       "from": "gd1978-07-08.158405.aud.hicks-fong.flac2448",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 64,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1978-07-08.158405.aud.hicks-fong.flac2448",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 10,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      }
     ],
@@ -1067,26 +1300,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 697,
-     "shows_in_archive": 1855,
+     "show_number": 789,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.155539+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.576519+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "ZOaK3VjYh3xN-06BxBZzrqWU_-yf9-jB7FGVhV235RKrpKBsy3FEN-6KYljt_ANuwlJXmHPs1QfUR5ParLtTAA",
+   "revision": 44,
+   "signature": "M2Dk2dVl3QzmbvqANxtKxqN-doSy7_ShUwWo-2QG2GD78QNXkKIfnmL96-_G2FA3uT4SBtWVa1D0x6KqbudYBg",
    "subject_key": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:41:52.157569"
+   "updated_at": "2026-10-25T17:35:15.577448"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bertha** (1 review): Called the absolute best ever, with Jerry rocking it with passion [18]\n- **Dire Wolf** (1 review): Vocals are great all the way through, with Jerry sounding psyched [19]\n- **El Paso** (1 review): Rarely a highlight, but this version feels like riding alone in the dark [17]\n- **It Must Have Been The Roses** (1 review): Listener calls it one of the better versions, noting Jerry sings with real meaning [13]\n- **Samson And Delilah** (1 review): Described as the best version ever, with Jerry wailing like a saxophone [13]\n- **Ship Of Fools** (1 review): Jerry commands attention, ensuring the song is not a throwaway [13]\n- **Estimated Prophet** (1 review): Along with Franklin's Tower, these are identified as the main highlights [21]\n- **The Other One** (1 review): Squeezed into the set between Estimated Prophet and Eyes of the World [22]\n\n## The recordings\n\n- **gd1978-07-08.mtx.tobin.91777.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 192 min; rated 4.82/5 by 17 [1]\n- **gd1978-07-08.dts.tobin.91875.flac**: matrix (soundboard mixed with audience mics); 23 songs; 192 min; rated 5/5 by 2 [2]\n- **gd1978-07-08.fob.knight.motb-0068.91766.flac16**: source not stated; 24 songs; 192 min; rated 4.88/5 by 8 [4]\n- **gd1978-07-08.126239.mtx-redo.eichorn.sbeok.t-flac16**: matrix (soundboard mixed with audience mics); 23 songs; 187 min; rated 5/5 by 4 [5]\n- **gd78-07-08.sbd.unknown.294.sbeok.shnf**: soundboard; 22 songs; 175 min; rated 4.58/5 by 73 [9]. Said about its sound: Files are mistracked, requiring filename changes to align with the correct songs; Recording quality surpasses any other heard, with lyrics very easy to understand [16][22]\n\n## Around the show\n\n- Crowd howls with the band during Werewolves, audible through the stage mikes [19]\n- Jerry tells Donna to shush at 4:43 when she gets too loud [20]\n- Considered equal to the Winterland run that closed out 1978 [16]\n\n## Tapers and lineage\n\n- **gd1978-07-08.mtx.tobin.91777.flac16**: transferred by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix(40%-SBD/60%-AUD) [1]. Also: Analog audience source from Maxell cassettes, transferred via Nakamichi and Korg gear [1]\n- **gd1978-07-08.dts.tobin.91875.flac**: transferred by Kevin Tobin; source: SBD (shnid=294) + Audience (shnid=91766) [2]. Also: Setlist includes a run from Bertha through Werewolves of London [2]\n- **gd1978-07-08.fob.knight.motb-0068.91766.flac16**: taped by Timothy Knight; transferred by Adan Egert and Kevin Tobin; source: Unknown Microphones => Unknown Tape Deck [Patch] => Nakamichi 550 [Dolby Encode] >> MAC [4]. Also: Missing audience audio between songs was filled in using soundboard source audio [4]\n- **gd1978-07-08.126239.mtx-redo.eichorn.sbeok.t-flac16**: transferred by Roger Eichorn; source: 2 Source Matrix from Source 1: SBD (shnid=106070) Recording Info: SBD -> Master Reel -> PCM -> Roland SRC-2 -> Dat (48k); Transfer Info: Dat (Sony R500) ->… [5]. Also: Newer release reduces audience mix, correcting previous versions that had too much AUD [5]\n- **gd78-07-08.sbd.unknown.294.sbeok.shnf**: transferred by Jeff Hoelter; source: Soundboard [9]\n\n## Art and photos\n\n- Fan art by www.notreble.com: [Grateful Dead Set Gives Classic 1978 Show an Official Release – No Treble](https://www.notreble.com/buzz/2016/05/17/grateful-dead-set-gives-classic-1978-show-an-official-release/) [26]\n- Poster by JamBase: [July 1978: The Complete Recordings](https://www.jambase.com/contest/july-1978-complete-recordings) [27]\n- Poster by Worthpoint: [Grateful Dead Red Rocks Amphitheater Morrison CO 7/8/78 3 CD CD's | #4595269627](https://www.worthpoint.com/worthopedia/grateful-dead-red-rocks-amphitheater-4595269627) [28]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - 7/8/78 Red Rocks Amphitheatre, Morrison, C… | Flickr](https://www.flickr.com/photos/104729480@N03/27268826291/) [29]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/27268826291/) [30]",

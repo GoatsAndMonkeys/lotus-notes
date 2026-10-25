@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -114,17 +114,29 @@
     "setlist": [
      {
       "key": "song:grateful-dead:one-more-saturday-night-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "One More Saturday Night 1 (inc)"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "One More Saturday Night 2"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "One More Saturday Night 3"
      }
     ],
@@ -132,27 +144,31 @@
     "subject_key": "live:grateful-dead:1972-03-01:alembic-studios",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 330,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "One More Saturday Night 1 (inc)",
+      "One More Saturday Night 2",
+      "One More Saturday Night 3"
+     ],
+     "show_number": 400,
+     "shows_in_archive": 2097,
      "songs": 3,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alembic Studios"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.856817+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.195592+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "DdqaXFIFCX57VL--K5Q_bJH-b-iXrrn7V-wjX8e5KFRspO3xofDad1bEahtcKmPUlFYTvZmAzN4h4vHesP6jDA",
+   "revision": 40,
+   "signature": "TF9MHZVK-aj2gPkg-Y75qNtXaSgZlSTbr5PAf9qAajdJj4nmMGS6ac4wCNlT7lJ4TjbYs-zMurVFp-HQSAXcDw",
    "subject_key": "live:grateful-dead:1972-03-01:alembic-studios",
-   "updated_at": "2026-10-25T16:41:43.858009"
+   "updated_at": "2026-10-25T17:35:12.196135"
   }
  },
  "recommended": {

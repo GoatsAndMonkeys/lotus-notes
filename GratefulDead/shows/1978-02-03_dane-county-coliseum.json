@@ -336,7 +336,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -387,8 +387,8 @@
     },
     "previous": {
      "date": "1978-02-01",
-     "show": "live:grateful-dead:1978-02-01:uptown-theatre",
-     "venue": "Uptown Theatre"
+     "show": "live:grateful-dead:1978-02-01:uptown-theater",
+     "venue": "Uptown Theater"
     },
     "recommended": {
      "identifier": "gd1978-02-03.164050.aud.mckenzie.miller.clugston.flac16",
@@ -610,110 +610,290 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 118,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 184,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 167,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 93,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 123,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-01-17",
+        "show": "live:grateful-dead:1978-01-17:sacramento-memorial-auditorium"
+       },
+       "plays_before": 165,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 27,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 162,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 237,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 272
+      },
       "title": "Peggy O"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-01-22",
+        "show": "live:grateful-dead:1978-01-22:mcarthur-court-u-of-oregon"
+       },
+       "plays_before": 69,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 175,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 110,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 261,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1977-10-30",
+        "show": "live:grateful-dead:1977-10-30:assembly-hall-ind"
+       },
+       "plays_before": 31,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 176,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 244,
+       "gap_shows": 43,
+       "last_played": {
+        "date": "1977-06-04",
+        "show": "live:grateful-dead:1977-06-04:the-forum"
+       },
+       "plays_before": 22,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 122,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -722,26 +902,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 663,
-     "shows_in_archive": 1855,
+     "show_number": 755,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Dane County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.552718+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.353564+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "8qGzI-EuqGsHrh2E7pB0ONCbIcGHUd35hYQKyOqFxHNSkkG7O7BujkctHQlSziY0M419lsvH_FNiSe27NQCTBQ",
+   "revision": 42,
+   "signature": "Tf5BevxlyHdl7vv5SLjUXNzUZ54WhZgZogASas1yfDHjYS2uHjjMrXAtm2wnc8CfYRk4ZiY8fku-H_VYdQEJAQ",
    "subject_key": "live:grateful-dead:1978-02-03:dane-county-coliseum",
-   "updated_at": "2026-10-25T16:41:51.555017"
+   "updated_at": "2026-10-25T17:35:15.354264"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Music Never Stopped** (3 reviews): The performance is characterized by immense power and glory; Listener calls this the best version heard, praising the energetic solo [8][10][16]\n- **Eyes Of The World** (2 reviews): Band starts crushing it in Est>Eyes, with a nice loop back into Playin; Effortless segue into Eyes with a monster intro and special notes [12][14]\n- **Cold Rain & Snow** (1 review): Listener's favorite Dead opener, with this version being great [19]\n- **They Love Each Other** (1 review): Garcia's solo is described as a textbook performance with every note perfect [8]\n- **Estimated Prophet** (1 review): Jerry's attacks are cosmic, transitioning seamlessly into a mellow Eyes groove [11]\n- **Playin' In The Band** (1 review): First leg dissolves into Jerry improvising with minimal backup from the band [11]\n\n## The recordings\n\n- **gd1978-02-03.164050.aud.mckenzie.miller.clugston.flac16** (recommended): audience recording; 20 songs; 171 min; rated 5/5 by 1 [1]\n- **gd1978-02-03.164048.akg.mckenzie.miller.clugston.flac1648**: audience recording; 19 songs; 171 min; rated 4.5/5 by 2 [2]\n- **gd78-02-03.aud.warner.19465.sbeok.shnf**: audience recording; 18 songs; 157 min; rated 4.28/5 by 25 [5]. Said about its sound: Audience tape has mechanical issues, including a cut row Jimmy section [12]\n- **gd1978-02-03.164049.akg.mckenzie.miller.clugston.flac2496**: audience recording; 19 songs; 171 min [3]\n\n## Around the show\n\n- Crisp February weather in Madison, Wisconsin [8]\n- Listener was in a pitiful space after a breakup, feeling the show was for them [17]\n- Jerry brought the crowd up, playing with them and getting off on each other [18]\n- Lacks the passion present in the January 22, 1978 performance [15]\n- Not quite as sonorous as the July 8, 1978 performance [15]\n- More upbeat than the July 8, 1978 Red Rocks show [16]\n- Parts of the show sound like 1973, distinct from the early 80s era [19]\n\n## Tapers and lineage\n\n- **gd1978-02-03.164050.aud.mckenzie.miller.clugston.flac16**: taped by Unknown; transferred by Scott Clugston, Charlie Miller; source: Master Audience Cassettes (unknown equipment) > PCM > Tim McKenzie's DAT (16/44.1) [1]\n- **gd1978-02-03.164048.akg.mckenzie.miller.clugston.flac1648**: taped by Tim McKenzie; transferred by Scott Clugston, Charlie Miller; source: Master Audience Cassettes; AKG mics > unknown deck > 1st generation cassettes > Tim McKenzie's 2nd generation cassettes [2]\n- **gd78-02-03.aud.warner.19465.sbeok.shnf**: source: Audience Recording [5]. Also: Master audience cassette (unknown equipment) to PCM, DAT, CD, then extracted and encoded [5]\n- **gd1978-02-03.164049.akg.mckenzie.miller.clugston.flac2496**: taped by Tim McKenzie; transferred by Scott Clugston, Charlie Miller; source: Master Audience Cassettes; AKG mics > unknown deck > 1st generation cassettes > Tim McKenzie's 2nd generation cassettes [3]\n\n## Art and photos\n\n- Poster by gdnotebook.blogspot.com: [1973-10-25 - Dane County Coliseum](https://gdnotebook.blogspot.com/2010/11/1973-10-25-dane-county-coliseum.html) [21]\n- Fan art by recordsale.de: [Dick's Picks, Vol. 18: Dane County Coliseum - 2/3/78; Uni-Dome, University Of N. Iowa - 2/5/ - The Grateful Dead | Recor](https://recordsale.de/en/artists/the-grateful-dead/albums/dick-s-picks-vol-18-dane-county-coliseum-2-3-78-uni-dome-university-of-n-iowa-2-5) [22]",

@@ -972,7 +972,7 @@
      "id": 46,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -2053,114 +2053,290 @@
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1991-09-18",
+        "show": "live:grateful-dead:1991-09-18:madison-square-garden"
+       },
+       "plays_before": 445,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-09-17",
+        "show": "live:grateful-dead:1991-09-17:madison-square-garden"
+       },
+       "plays_before": 231,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-09-24",
+        "show": "live:grateful-dead:1991-09-24:boston-garden"
+       },
+       "plays_before": 42,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1991-09-18",
+        "show": "live:grateful-dead:1991-09-18:madison-square-garden"
+       },
+       "plays_before": 264,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1991-09-14",
+        "show": "live:grateful-dead:1991-09-14:madison-square-garden"
+       },
+       "plays_before": 428,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1991-09-13",
+        "show": "live:grateful-dead:1991-09-13:madison-square-garden"
+       },
+       "plays_before": 217,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-09-17",
+        "show": "live:grateful-dead:1991-09-17:madison-square-garden"
+       },
+       "plays_before": 40,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1991-09-17",
+        "show": "live:grateful-dead:1991-09-17:madison-square-garden"
+       },
+       "plays_before": 127,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:crowd-and-tuning-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd & tuning / prelude"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-09-24",
+        "show": "live:grateful-dead:1991-09-24:boston-garden"
+       },
+       "plays_before": 208,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-09-21",
+        "show": "live:grateful-dead:1991-09-21:boston-garden"
+       },
+       "plays_before": 188,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-09-21",
+        "show": "live:grateful-dead:1991-09-21:boston-garden"
+       },
+       "plays_before": 339,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-09-25",
+        "show": "live:grateful-dead:1991-09-25:boston-garden"
+       },
+       "plays_before": 1351,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-09-25",
+        "show": "live:grateful-dead:1991-09-25:boston-garden"
+       },
+       "plays_before": 1011,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-09-21",
+        "show": "live:grateful-dead:1991-09-21:boston-garden"
+       },
+       "plays_before": 547,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-09-24",
+        "show": "live:grateful-dead:1991-09-24:boston-garden"
+       },
+       "plays_before": 208,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:attics-of-my-life",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1991-09-16",
+        "show": "live:grateful-dead:1991-09-16:madison-square-garden"
+       },
+       "plays_before": 33,
+       "total_plays": 58
+      },
       "title": "Attics of My Life"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-09-24",
+        "show": "live:grateful-dead:1991-09-24:boston-garden"
+       },
+       "plays_before": 414,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1991-09-18",
+        "show": "live:grateful-dead:1991-09-18:madison-square-garden"
+       },
+       "plays_before": 193,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 439,
+       "gap_shows": 111,
+       "last_played": {
+        "date": "1990-07-14",
+        "show": "live:grateful-dead:1990-07-14:foxboro-stadium"
+       },
+       "plays_before": 56,
+       "total_plays": 57
+      },
       "title": "We Bid You Goodnight"
      }
     ],
@@ -2168,202 +2344,348 @@
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:25-civil-war-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "25] Civil War Tuning"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:48-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "48] Jack Straw"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:25-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "25] Cold Rain And Snow"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:44-wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "44] Wang Dang Doodle"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:20-candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "20] Candyman"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:38-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "38] Mexicali Blues"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:11-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "11] Cumberland Blues"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:42-picasso-moon",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "42] Picasso Moon"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:06-box-of-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "06] Box Of Rain"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:39-pre-dark-star-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "39] Pre Dark Star Tuning"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:20-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "20] Dark Star (V1)"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:47-st-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "47] St Of Circumstance"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:29-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "29] Eyes Of The World"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:22-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "22] Drums"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:10-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "10] Space"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:32-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "32] The Other One"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:43-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "43] Dark Star (V2)"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:24-attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "24] Attics Of My Life"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:44-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "44] Good Lovin'"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:20-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "20] Brokedown Palace"
      },
      {
       "from": "gd1991-09-26.dts.mtx.haugh.102067.flac16",
       "key": "song:grateful-dead:08-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "08] Bid You Good Night"
      },
      {
       "from": "gd1991-09-26.153422.mtx.photoleon.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-09-25",
+        "show": "live:grateful-dead:1991-09-25:boston-garden"
+       },
+       "plays_before": 537,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1991-09-26.156741.sennME88.rogosa.miller.sirmick.complete.flac1648",
       "key": "song:grateful-dead:extended-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "extended tuning"
      },
      {
       "from": "gd1991-09-26.156741.sennME88.rogosa.miller.sirmick.complete.flac1648",
       "key": "song:grateful-dead:preamble",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2518,
+       "gap_shows": 523,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "preamble"
      },
      {
       "from": "gd91-09-26.sbd.fishman.21242.sbeok.shnf",
       "key": "song:grateful-dead:dark-star-pre-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dark Star Pre Space"
      },
      {
       "from": "gd1991-09-26.sbd.ashley.1575.sbeok.shnf",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 137,
+       "gap_shows": 39,
+       "last_played": {
+        "date": "1991-05-12",
+        "show": "live:grateful-dead:1991-05-12:shoreline-amphitheatre"
+       },
+       "plays_before": 67,
+       "total_plays": 74
+      },
       "title": "Noodling :)"
      },
      {
       "from": "gd1991-09-26.Nak300CP4.JB.Keo.121759.Flac1644",
       "key": "song:grateful-dead:box-of-rain-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 376,
+       "gap_shows": 97,
+       "last_played": {
+        "date": "1990-09-15",
+        "show": "live:grateful-dead:1990-09-15:madison-square-garden"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Box Of Rain, Set Break"
      },
      {
       "from": "gd1991-09-26.Nak300CP4.JB.Keo.121759.Flac1644",
       "key": "song:grateful-dead:pre-dark-star-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pre Dark Star Tuning"
      },
      {
       "from": "gd1991-09-26.149553.sbd.miller.flac2496",
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1991-09-20",
+        "show": "live:grateful-dead:1991-09-20:boston-garden"
+       },
+       "plays_before": 127,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      }
     ],
     "subject_key": "live:grateful-dead:1991-09-26:boston-garden",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1706,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "We Bid You Goodnight"
+     ],
+     "first_in_archive": [
+      "crowd & tuning / prelude"
+     ],
+     "show_number": 1811,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:17.603196+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.913214+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "sK2BfU5nvw4qwl6CM-sm-2mXn7SB3pYqXVQjLbg9JeLck2_d21Vy8NrooHovdRQ-wx6mn5sjjDdKKyekL2QmDg",
+   "revision": 28,
+   "signature": "i8fF3h1F6ANEE-SRkqe7rcK5la-knYJtwKWu_9xy9AbeJdV4yKECqXT88KXL4K0HdVEkGM1sYqMqXcTUmYi5Bw",
    "subject_key": "live:grateful-dead:1991-09-26:boston-garden",
-   "updated_at": "2026-10-25T16:42:17.608777"
+   "updated_at": "2026-10-25T17:35:26.915290"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (2 reviews): Near the end of the second verse of Dark Star out of Space, the listener thought the band was about to enter St. Stephen; Reviewer also heard a St. Stephen tease during Dark Star; another tease after Eyes remains unidentified [34][44]\n- **Wang Dang Doodle** (1 review): Reviewer calls Wang Dang Doodle exemplary, among the strong opening three songs of set one [39]\n- **Cumberland Blues** (1 review): Reviewer puzzled by something odd going on during Cumberland Blues, crediting BH's mixing work [38]\n- **Good Lovin'** (1 review): Reviewer calls this their favorite Good Lovin' from the post-Brent era [38]\n- **We Bid You Goodnight** (1 review): Attendee recalls it as the last We Bid You Goodnight they ever saw [43]\n\n## The recordings\n\n- **gd1991-09-26.schoeps.andrewf.84853.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 161 min; rated 4/5 by 1 [1]. Said about its sound: A minor low-end rumble is audible at times, possibly from ventilation blowing onto the microphones [1]\n- **gd1991-09-26.aud.andrewf.84852.sbeok.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 161 min; rated 3.67/5 by 3 [2]. Said about its sound: A minor low-end rumble is audible at times, possibly from ventilation blowing onto the microphones [2]\n- **gd1991-09-26.153422.mtx.photoleon.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 161 min [4]\n- **gd91-09-26.sbd.fishman.21242.sbeok.shnf**: soundboard; 20 songs; 144 min; rated 4.33/5 by 21 [8]. Said about its sound: Vocals suffer from serious flutter on this recording [39]\n\n## Around the show\n\n- Reviewer says Boston Garden's final Dead show was 10/3/94; fall 1995 wristbands were scheduled for August 9, 1995 but never distributed [40]\n- Attendee, at roughly their 50th show, says it was the first and only time they saw Dark Star live [43]\n- Reviewer says this was not the last Boston Garden show and rates a later acoustic Looks Like Rain Eyes better than this St. Eyes [37]\n- Reviewer found the first set solid but the second set far better, magical [42]\n- Reviewer saw six Boston shows in this era and ranked this one favorite, largely for the song list [44]\n- Reviewer, after about 300 shows, ranks this among the best of the later era [45]\n\n## Tapers and lineage\n\n- **gd1991-09-26.schoeps.andrewf.84853.sbeok.flac16**: taped by Andrew F; transferred by Andrew F; source: Schoeps CMC3/MK4 (ORTF) > unknown power supply > Panasonic SV-255 (lead deck) > Coax SPDIF > Casio DA-7 Dat (first deck out) > Agfa Dat tape. Mics on 7-foot… [1]\n- **gd1991-09-26.aud.andrewf.84852.sbeok.flac16**: taped by Andrew F; transferred by Andrew F; source: Schoeps CMC3/MK4 (ORTF) > unknown power supply > Panasonic SV-255 (lead deck) > Coax SPDIF > Casio DA-7 Dat (first deck out) > Agfa Dat tape. Mics on 7-foot… [2]\n- **gd1991-09-26.153422.mtx.photoleon.flac16**: source: A photoLeon Matrix [4]. Also: Matrix made in Adobe Audition by Joe Noel from a soundboard and a front-of-board recording plus an audience tape; One source was pitch corrected, and another soundboard supplies a three-minute patch in a set-two track [4]\n- **gd91-09-26.sbd.fishman.21242.sbeok.shnf**: source: SBD(1)>DAT>CD>EAC>CDWAVE>MKWACT>SHNThis may be a digital soundboard. There is no wow and flutter in Eyes of the World as existed in older versions of the… [8]. Also: Correct lineage given as SBD to DAT to Cm to DAT to CD; reviewer says it is not a digital soundboard [41]",

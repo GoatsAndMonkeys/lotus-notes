@@ -695,7 +695,7 @@
      "id": 36,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -831,8 +831,8 @@
     },
     "previous": {
      "date": "1988-03-24",
-     "show": "live:grateful-dead:1988-03-24:omni-coliseum",
-     "venue": "Omni Coliseum"
+     "show": "live:grateful-dead:1988-03-24:the-omni",
+     "venue": "The Omni"
     },
     "recommended": {
      "identifier": "gd88-03-26.sbd.braverman.7164.sbefail.shnf",
@@ -1535,125 +1535,318 @@
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 121,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 297,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:stir-it-up",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Stir It Up"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 348,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 198,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 392,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1988-02-13",
+        "show": "live:grateful-dead:1988-02-13:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 338,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 198,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 9,
+       "total_plays": 79
+      },
       "title": "Stuck In Mobile With The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 140,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1987-11-07",
+        "show": "live:grateful-dead:1987-11-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 105,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 447,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 449,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 474,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1988-03-18",
+        "show": "live:grateful-dead:1988-03-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 227,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 1061,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-03-24",
+        "show": "live:grateful-dead:1988-03-24:the-omni"
+       },
+       "plays_before": 721,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 47,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 152,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-03-16",
+        "show": "live:grateful-dead:1988-03-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 22,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-02-17",
+        "show": "live:grateful-dead:1988-02-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 286,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1988-02-13",
+        "show": "live:grateful-dead:1988-02-13:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 268,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:knocking-on-heavens-door",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1987-12-31",
+        "show": "live:grateful-dead:1987-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 15,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      }
     ],
@@ -1661,82 +1854,151 @@
      {
       "from": "gd1988-03-26.nak100.pasternak.mallick.107820.flac16",
       "key": "song:grateful-dead:stuck-inside-of-mobile",
-      "stats": {},
+      "stats": {
+       "days_since": 251,
+       "gap_shows": 47,
+       "last_played": {
+        "date": "1987-07-19",
+        "show": "live:grateful-dead:1987-07-19:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 4,
+       "total_plays": 26
+      },
       "title": "Stuck Inside of Mobile"
      },
      {
       "from": "gd1988-03-26.nak.cohen.106049.sbeok.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-03-17",
+        "show": "live:grateful-dead:1988-03-17:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 295,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1988-03-26.nak.cohen.106049.sbeok.flac16",
       "key": "song:grateful-dead:row-jimmy-row",
-      "stats": {},
+      "stats": {
+       "days_since": 193,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 16,
+       "total_plays": 21
+      },
       "title": "Row Jimmy Row"
      },
      {
       "from": "gd1988-03-26.nak.cohen.106049.sbeok.flac16",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 931,
+       "gap_shows": 171,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 10,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      },
      {
       "from": "gd1988-03-26.senn.grabski.33950.sbeok.flac16",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 244,
+       "gap_shows": 45,
+       "last_played": {
+        "date": "1987-07-26",
+        "show": "live:grateful-dead:1987-07-26:anaheim-stadium"
+       },
+       "plays_before": 4,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd1988-03-26.senn.grabski.33950.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-02-16",
+        "show": "live:grateful-dead:1988-02-16:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 423,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1988-03-26.152469.set2-aud-unknown-onemoreshot.shnf",
       "key": "song:grateful-dead:space-pt-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space pt.1"
      },
      {
       "from": "gd1988-03-26.152469.set2-aud-unknown-onemoreshot.shnf",
       "key": "song:grateful-dead:space-pt2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Space pt.2"
      },
      {
       "from": "gd1988-03-26.152469.set2-aud-unknown-onemoreshot.shnf",
       "key": "song:grateful-dead:stuck-inside-of-memphis",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Stuck Inside Of Memphis... (I)"
      }
     ],
     "subject_key": "live:grateful-dead:1988-03-26:hampton-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1408,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Stir It Up"
+     ],
+     "show_number": 1512,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.864372+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.332663+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "F-vLiBAD0_nNUDP6fLddV4TdeFn3XBBqSh74eRylMtliKzORIQaaifopRSLnMTwV4s-EHi35hySCxNZBGEgpDg",
+   "revision": 43,
+   "signature": "-h97sC6r9qpPrKuqF00_UO7kXusQ6H6Wd3vtUp9kSDnninA4WOb9luMCedT_6mdeW0CczrJfbqNr5ZYTz_7kCA",
    "subject_key": "live:grateful-dead:1988-03-26:hampton-coliseum",
-   "updated_at": "2026-10-25T16:42:05.867579"
+   "updated_at": "2026-10-25T17:35:23.334075"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Stir It Up** (2 reviews): Played only one verse, appearing unrehearsed, though the final chorus featured a nice three-part harmony; Singer clearly could not remember much beyond the chorus, making it a bustout rather than a slot [23][26]\n- **Row Jimmy** (1 review): One of the finer periods for this song, where the show really shines [31]\n- **Stuck Inside of Mobile With The Memphis Blues Again** (1 review): Videos from the show show the band having fun with this tune [30]\n- **China Cat Sunflower** (1 review): Bobbie's guitar performance in this song is described as a bit cheesy [31]\n- **Playing In The Band** (1 review): Described as a spacey jammed treat in the second set [28]\n\n## The recordings\n\n- **gd1988-03-26.sbd.miller.91158.sbeok.flac16** (recommended): soundboard; 22 songs; 161 min; rated 4.38/5 by 8 [1]. Said about its sound: Nice overall quality with audience sound livening the recording without getting in the way [23]\n- **gd1988-03-26.mtx.tobin.95488.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 161 min; rated 4.5/5 by 2 [3]. Said about its sound: Loud static burst in Mexicali Blues and three dropouts in The Wheel [3]\n- **gd1988-03-26.mtx.dts.tobin.95931.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 161 min [6]. Said about its sound: Loud static burst in Mexicali Blues and problems in The Wheel [6]\n- **gd1988-03-26.113740.SBD.flac16**: soundboard; 21 songs; 161 min; rated 5/5 by 1 [2]\n\n## Around the show\n\n- Weir was loud and more out front in spring 1988 than in previous years [24]\n- Jerry sounded pumped, with vocals as good as possible for him at that career stage [28]\n- Raucous crowds rode the wave of high-energy sets during this renaissance period for the band [29]\n- Considered as good as any representative example of the Spring 1988 run by an attendee [27]\n\n## Tapers and lineage\n\n- **gd1988-03-26.sbd.miller.91158.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK SA-X90) D [1]. Also: Two different SBD Cassette Masters were used to make the show complete [1]\n- **gd1988-03-26.mtx.tobin.95488.flac16**: transferred by Kevin Tobin; source: Matrix mix (SBD/AUD) [3]. Also: Transfers and mastering by Charlie Miller, using TDK SA-X90 and Nakamichi DR-1 masters [3]\n- **gd1988-03-26.mtx.dts.tobin.95931.flac16**: transferred by Kevin Tobin; source: Matrix mix (SBD/AUD) [6]\n- **gd1988-03-26.113740.SBD.flac16**: source: SBD Analog Cass Master-> DAT-> CDR -> ? -> FLAC [2]",

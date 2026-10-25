@@ -286,7 +286,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -316,8 +316,8 @@
     "guests": [],
     "next": {
      "date": "1970-01-10",
-     "show": "live:grateful-dead:1970-01-10:community-concourse",
-     "venue": "Community Concourse"
+     "show": "live:grateful-dead:1970-01-10:golden-hall",
+     "venue": "Golden Hall"
     },
     "previous": {
      "date": "1970-01-02",
@@ -484,108 +484,260 @@
     "setlist": [
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1969-12-11",
+        "show": "live:grateful-dead:1969-12-11:thelma-theater"
+       },
+       "plays_before": 56,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 44,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 37,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 15,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 35,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 47,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 75,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 46,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:bid-you-goodnight-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bid You Goodnight Jam"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 46,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:alligator-jam-and-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Alligator Jam & Reprise"
      },
      {
       "key": "song:grateful-dead:caution",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 41,
+       "total_plays": 54
+      },
       "title": "Caution"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 46,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 43,
+       "total_plays": 51
+      },
       "title": "Feedback"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:uncle-johns-band",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 9,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:casy-jones",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Casy Jones"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:mama-tried",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 31,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:big-boss-man",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1969-12-11",
+        "show": "live:grateful-dead:1969-12-11:thelma-theater"
+       },
+       "plays_before": 15,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
@@ -593,7 +745,16 @@
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 41,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
@@ -601,7 +762,16 @@
       "key": "song:grateful-dead:jam",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 46,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
@@ -609,21 +779,48 @@
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 38,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:high-time-tease",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 140,
+       "gap_shows": 44,
+       "last_played": {
+        "date": "1969-08-16",
+        "show": "live:grateful-dead:1969-08-16:max-yasgurs-farm"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "High Time tease"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:masons-children",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 8,
+       "total_plays": 19
+      },
       "title": "Mason's Children"
      },
      {
@@ -631,7 +828,16 @@
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 74,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
@@ -639,7 +845,16 @@
       "key": "song:grateful-dead:drums",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 75,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
@@ -647,7 +862,16 @@
       "key": "song:grateful-dead:other-one",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 79,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
@@ -655,42 +879,96 @@
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 74,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:cosmic-charlie",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 24,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:uncle-johns-band",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 9,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:black-peter",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 15,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:dire-wolf",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 23,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:good-loving",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 23,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
@@ -698,7 +976,16 @@
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 21,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Streets"
      },
      {
@@ -706,14 +993,32 @@
       "key": "song:grateful-dead:drums",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 75,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:dancing-in-the-street",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:boston-tea-party"
+       },
+       "plays_before": 21,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Streets"
      },
      {
@@ -721,14 +1026,32 @@
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 85,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:midnight-hour",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1969-11-02",
+        "show": "live:grateful-dead:1969-11-02:family-dog-at-the-great-highway"
+       },
+       "plays_before": 7,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      }
     ],
@@ -736,52 +1059,91 @@
      {
       "from": "gd1970-01-03.sbd.gmb.97743.flac16",
       "key": "song:grateful-dead:caution-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 9,
+       "total_plays": 19
+      },
       "title": "Caution Jam"
      },
      {
       "from": "gd1970-01-03.sbd.gmb.97743.flac16",
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-01-02",
+        "show": "live:grateful-dead:1970-01-02:fillmore-east-early-and-late-shows"
+       },
+       "plays_before": 32,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "from": "gd1970-01-03.sbd.gmb.97743.flac16",
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 10,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "from": "gd1970-01-03.137559.sbd.miller.flac1648",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-12-30",
+        "show": "live:grateful-dead:1969-12-30:boston-tea-party"
+       },
+       "plays_before": 44,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
     "subject_key": "live:grateful-dead:1970-01-03:fillmore-east-early-and-partial-late-show",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 178,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Alligator Jam & Reprise",
+      "Casy Jones"
+     ],
+     "show_number": 218,
+     "shows_in_archive": 2097,
      "songs": 37,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore East (Early and partial Late Show)"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 22,
+   "parent_revision": 34,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.651762+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.358688+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 23,
-   "signature": "DtbzAhoSOrDLS55vE5H4zQFaTn5Bmj9BW_onHlylyMEVM7hPxX0O-DJNnY2eJ_3gxYP0yMDX1xiC8nFkmR-fAQ",
+   "revision": 35,
+   "signature": "ymF2pOedBMLprJdF5zrspd-5UekADE93R6edjnvBwyM2WYdyQ_R4KPt7CG0IFDRgKUb5xyquH0c2oXIilB0OAA",
    "subject_key": "live:grateful-dead:1970-01-03:fillmore-east-early-and-partial-late-show",
-   "updated_at": "2026-10-25T16:41:39.652873"
+   "updated_at": "2026-10-25T17:35:10.360099"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Alligator** (2 reviews): Early show Alligator is great, with theme changes and scary Feedback; Jam after drums teases China Cat and Bid You Goodnight before Alligator [7][13]\n- **Morning Dew** (1 other source): Mickey's gongs make universe-shredding sounds throughout the Morning Dew early set [19]\n- **Mason's Children** (1 review): Jam at the beginning of Mason's Children is special due to Pigpen's harmonica [11]\n- **The Other One** (1 review): The Other One is described as being for the ages [8]\n- **Uncle John's Band** (1 review): Uncle John's Band starts rough but comes together nicely [7]\n- **In The Midnight Hour** (1 review): In The Midnight Hour is recommended for lifting spirits [16]\n\n## The recordings\n\n- **gd1970-01-03.sbd.lai.6642.sbefail.shnf** (recommended): soundboard; 37 songs; 172 min; rated 3.83/5 by 6 [1]. Said about its sound: This copy has much better sound quality than the highly reviewed one [17]\n- **gd1970-01-03.sbd.gmb.97743.flac16**: soundboard; 32 songs; 172 min; rated 3.25/5 by 4 [2]\n- **gd70-01-03.sbd.ret.19440.sbeok.shnf**: soundboard; 28 songs; 172 min; rated 4.68/5 by 19 [3]. Said about its sound: Soundboard sounds very good for the time period with good singing and playing [9]\n- **gd1970-01-03.137559.sbd.miller.flac1648**: soundboard; 26 songs; 171 min; rated 2.67/5 by 3 [4]\n- **gd1970-01-03.138811.late.sbd.gastwirt.miller.sirmick.sbeok.flac16**: soundboard; 15 songs; 111 min [5]\n\n## Around the show\n\n- Band delivered high energy despite cold New York weather, opening with Morning Dew [6]\n- TC played organ, having split the band the night before New Orleans [14]\n- Five Pigpen songs performed for a NYC Fillmore East crowd [15]\n- Reviewer prefers this show over the previous night, even without Dark Star [6]\n- Show is tighter than the previous night but lacks a Dark Star [13]\n- This recording is considered a better copy than the highly reviewed version [17]\n\n## Tapers and lineage\n\n- **gd1970-01-03.sbd.lai.6642.sbefail.shnf**: transferred by Mike Lai and Wayne Gucwa; source: BD > MR > DAT > C > DAT > CDR [1]\n- **gd1970-01-03.sbd.gmb.97743.flac16**: transferred by Bill Koucky; source: Soundboard Master Reels > DAT Master [44.1] [2]. Also: Minor L-R adjustments made in Morning Dew, Me & My Uncle, Big Boss Man [2]\n- **gd70-01-03.sbd.ret.19440.sbeok.shnf**: source: SBD:MR> DAT> Cass.> DAT > CDRPLUS:1. Sound improved on d1t02 (Me & My Uncle)2. SBE's corrected and checked, new md5's generated. [3]. Also: Early show includes Alligator jam leading into Caution and Feedback [3]\n- **gd1970-01-03.137559.sbd.miller.flac1648**: transferred by Charlie Miller; source: SBD > Master Reel > Cassette > Dat (48k) [4]. Also: High Time false start occurs after I Know You Rider; Cut in That's It For The Other One at 18:18 [4]\n- **gd1970-01-03.138811.late.sbd.gastwirt.miller.sirmick.sbeok.flac16**: taped by From Gastwirt Collection; transferred by Charlie Miller and SIRMick; source: flac16/48kHz ; Source: sbd > 1st gen reel > dat (48k); provided by Rich Gastwirt; Transfer: Dat > Panasonic SV-3700 > Tascam DA-3000 > wav 16/48; transferred… [5]. Also: Digital problems patched using SBD, Master Reel, Cassette, and Dat lineage [5]",

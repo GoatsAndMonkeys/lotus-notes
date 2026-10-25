@@ -338,7 +338,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -597,127 +597,334 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 152,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-07-13",
+        "show": "live:grateful-dead:1976-07-13:orpheum-theatre"
+       },
+       "plays_before": 65,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 100,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 136,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 14,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 16,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 139,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 154,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 100,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 22,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1976-06-22",
+        "show": "live:grateful-dead:1976-06-22:tower-theatre"
+       },
+       "plays_before": 26,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 153,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 339,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1975-08-13",
+        "show": "live:grateful-dead:1975-08-13:great-american-music-hall"
+       },
+       "plays_before": 18,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 269,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 234,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 30,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 83,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 153,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 234,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1976-06-22",
+        "show": "live:grateful-dead:1976-06-22:tower-theatre"
+       },
+       "plays_before": 144,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-06-29",
+        "show": "live:grateful-dead:1976-06-29:auditorium-theatre"
+       },
+       "plays_before": 129,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 52,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-07-13",
+        "show": "live:grateful-dead:1976-07-13:orpheum-theatre"
+       },
+       "plays_before": 172,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -725,25 +932,61 @@
      {
       "from": "gd76-07-17.menke.minches.18389.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-07-13",
+        "show": "live:grateful-dead:1976-07-13:orpheum-theatre"
+       },
+       "plays_before": 64,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd76-07-17.menke.minches.18389.sbeok.shnf",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 17,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1976-07-17.mtx.chappell-bertrando.91827.sbeok.flac16",
       "key": "song:grateful-dead:crwod-and-tuing",
-      "stats": {},
+      "stats": {
+       "days_since": 672,
+       "gap_shows": 61,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "crowd & tunning"
      },
      {
       "from": "gd76-07-17.sbd.unknown.243.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-07-14",
+        "show": "live:grateful-dead:1976-07-14:orpheum-theatre"
+       },
+       "plays_before": 12,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
@@ -751,26 +994,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 569,
-     "shows_in_archive": 1855,
+     "show_number": 657,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Orpheum Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.302684+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.700908+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "XZzCBIlg9MX1oBqAFeFul7DqY3l6JkXdDduvi4IjhAB-1exz8dMIsXE1aLDZ57p5wbdMY7Hccw_vt0UXThktBA",
+   "revision": 43,
+   "signature": "GEMCxT9VMY2RZhiR6bwk5t55gYeE1MuulVjZjEjttTcRgw3TXy-nO1_yB8IrthKFttapUK_qZKTN_TM0VI06Aw",
    "subject_key": "live:grateful-dead:1976-07-17:orpheum-theatre",
-   "updated_at": "2026-10-25T16:41:49.303834"
+   "updated_at": "2026-10-25T17:35:14.701877"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Comes A Time** (4 reviews): Starts from a complete standstill, then flows into an extended, pleasing jam; The jam coming out of it is fast and recalls Eyes of the World [8][9][16][18]\n- **The Other One** (2 reviews): Includes a lyric about coming full circle, recalling when the whole suite was once performed; The Other One into Eyes and back into The Other One is singled out, followed by a second encore of Not Fade Away [8][11]\n\n## The recordings\n\n- **gd1976-07-17.157427.mtx.motb.0201.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 156 min; rated 4.5/5 by 2 [1]\n- **gd76-07-17.menke.minches.18389.sbeok.shnf**: audience recording; 23 songs; 156 min; rated 4/5 by 10 [2]. Said about its sound: Reviewer prefers the sound of this audience tape over the soundboard; Very distant audience recording; Somewhat hissy, but it is an audience tape and not the master [13][15][16]\n- **gd1976-07-17.mtx.chappell.sb25.95734.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 157 min; rated 4/5 by 1 [6]\n- **gd1976-07-17.mtx.chappell-bertrando.91827.sbeok.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 156 min; rated 4/5 by 6 [3]\n\n## Around the show\n\n- Donna was absent throughout the second set, yet the band sounded unaffected [10]\n- Reviewer considers this a better-played show than the following night's [9]\n- The next night may overshadow this show, but this one holds up on its own [10]\n- Overshadowed by the following night's show, but reviewer says it deserves to be judged more broadly [11]\n- Reviewer ranks it alongside a Boston Music Hall show, though with weaker sound and performance [11]\n\n## Tapers and lineage\n\n- **gd1976-07-17.157427.mtx.motb.0201.flac16**: taped by Taped By: Bob Menke; transferred by Transfer By: Bob Menke Mastering By: Derek McCabe; source: Analog Soundboard Source: gd76-07-17.sbd.34708 Analog Audience Source: ECM 280's 152 [1]\n- **gd76-07-17.menke.minches.18389.sbeok.shnf**: taped by Bob Menke; transferred by David Minches; source: Audience Recording: Sony ECM-270s> Sony TC-152 from front of balcony [2]. Also: Lineage runs MAC to R to D to WAV to SHN, via David Minches [2]\n- **gd1976-07-17.mtx.chappell.sb25.95734.flac16**: transferred by Chris Chappell; source: Matrix mix (SBD/AUD) [6]. Also: Soundboard fix of the 243 version: master reel to DAT to CD, fixed by Bill Tetzeli; Tetzeli's fix added a crossfaded patch in Eyes of the World; Matrix combines Menke's balcony audience recording with the soundboard, made by David Minches; Rob Bertrando suggested an earlier version [6]\n- **gd1976-07-17.mtx.chappell-bertrando.91827.sbeok.flac16**: taped by itch Correction & Slight Bass Boost processed by Rob Bertrando. Final matrix seed discs provided by Rob Betrando EAC > FLAC by Noah Weiner; source: Matrix Ratio: 60%(SBD) / 40%(AUD) [3]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Ticket - Orpheum Theatre S.F., CA 18 July 1976](https://www.dead.net/fanphotos/ticket-orpheum-theatre-s-f-ca-18-july-1976) [21]",

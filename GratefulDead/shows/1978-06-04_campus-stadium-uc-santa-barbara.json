@@ -329,7 +329,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -703,125 +703,313 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 189,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 188,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 115,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 343,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 179,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 173,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 135,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 205,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 218,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 105,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 73,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 118,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 366,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 59,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 220,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 156,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 145,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:it-could-have-been-raining-toads",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "It could have been raining toads"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 83,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:uncle-bobo-graham",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle BoBo Graham"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:sugar-magnolia",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-16",
+        "show": "live:grateful-dead:1978-05-16:uptown-theater"
+       },
+       "plays_before": 283,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -829,34 +1017,46 @@
      {
       "from": "gd1978-06-04.156757.aud-unk.flac1644",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 28,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      }
     ],
     "subject_key": "live:grateful-dead:1978-06-04:campus-stadium-uc-santa-barbara",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 691,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "It could have been raining toads",
+      "Uncle BoBo Graham"
+     ],
+     "show_number": 783,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Campus Stadium, UC Santa Barbara"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 16,
+   "parent_revision": 28,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.073379+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.541850+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 17,
-   "signature": "1PVoYJZoH2mXaqfbz9g_FhhOqOR34rCtAwxllmaqTiIucyWiXNKW7CLSB6Yi8xm5MBRblazjtrWb8JpdtrW4Cg",
+   "revision": 29,
+   "signature": "ZSm5mMlb4XQIsADktgY-SQeKTRDm-t0YLi8svRNC9ubDSL8b2lMvFdY1qvDQuiwcf2WMtE94hTIDZt1AP7gMAg",
    "subject_key": "live:grateful-dead:1978-06-04:campus-stadium-uc-santa-barbara",
-   "updated_at": "2026-10-25T16:41:52.074826"
+   "updated_at": "2026-10-25T17:35:15.542651"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Not Fade Away** (2 reviews, 1 other source): Reviewer singles out a wild chopper-sounding intro to Not Fade Away, followed by a Nobody's Fault jam; A Hells Angel at the throttle of the Harley started Not Fade Away [1][10][14]\n- **Jack Straw** (2 reviews): Reviewer describes Bobby leading the second verse and a ripping Jack Straw, plus a hot Bertha into Good Lovin'; Reviewer notes Garcia's first solo uses chords, the second solo is big, and Donna has a nice moment [10][17]\n- **Estimated Prophet** (1 review): Reviewer says the Estimated into Eyes is well worth hearing, with an especially inspiring jam after Eyes [8]\n- **Eyes Of The World** (1 review): Transition from Estimated is rough, but Eyes starts snappy; Garcia takes off at 5:20 and trills chords after six minutes; Around 7:40 the tune dissolves into airy space, then percolates over piano, Weir and drums [17]\n\n## The recordings\n\n- **gd1978-06-04.179319.aud.menke.miller.clugston.flac2496** (recommended): audience recording; 22 songs; 158 min [1]\n- **gd78-06-04.sbd.cotsman.10530.sbeok.shnf**: matrix (soundboard mixed with audience mics); 20 songs; 157 min; rated 4.28/5 by 32 [3]. Said about its sound: Reviewer finds this matrix recording inferior to their own tape of the show [8]\n- **gd1978-06-04.sbd.cantor.miller.94407.sbeok.flac16**: soundboard; 20 songs; 155 min; rated 4.14/5 by 35 [4]\n- **gd1978-06-04.aud.unknown.87090.flac16**: audience recording; 20 songs; 155 min; rated 3.67/5 by 3 [5]\n\n## Around the show\n\n- Hell's Angels started a candy apple red Harley on stage and held a microphone to its pipes; Channel Islands were visible [11]\n- Maria Muldaur is remembered as part of the day's performances [11]\n- Show took place a week before finals; non-Deadheads reportedly marveled at Garcia's guitar playing afterward [13]\n- Warren Zevon was reportedly too drunk to perform; a frisbee was thrown onto the stage from the crowd [14]\n- Reviewer recalls a drunken Warren Zevon being booed off stage for insulting the crowd [15]\n- Reviewer, a UCSB co-promoter, says the 1978 show was co-presented with Bill Graham, featuring the Dead, Warren Zevon and an opener [16]\n- A friend was busted for acid at the entry gate and spent most of the show in Goleta jail [18]\n- Elvin Bishop was the opening act; the wall of sound had a decorative facade across its front [19]\n- Reviewer calls the Estimated into Eyes arguably the year's best, and the show hot and energetic for an uneven year [10]\n- Reviewer says the band never again sustained that level of intensity across a whole concert [13]\n- Maria Muldaur appeared at the 1974 UCSB show, which featured the wall of sound, not in 1978 [16]\n\n## Tapers and lineage\n\n- **gd1978-06-04.179319.aud.menke.miller.clugston.flac2496**: taped by Unknown; transferred by Bob Menke, Charlie Miller, Scott Clugston;24 bit; source: Unknown audience source from the Bob Menke archive (does not match either the Schley unknown audience source 137295 or the 1st generation unknown audience… [1]\n- **gd78-06-04.sbd.cotsman.10530.sbeok.shnf**: source: Soundboard with audience patches [3]. Also: Soundboard transferred via cassette, patched with audience source, via Raoul Duke and Mike Tausig; seeded by Matt Vernon and J. Cotsman [3]\n- **gd1978-06-04.sbd.cantor.miller.94407.sbeok.flac16**: taped by Betty Cantor; transferred by Charlie Miller; source: SBD (Betty's Recording Mix) -> Master Cassette (Maxell UD C-90) -> Dat (44.1k) [4]. Also: Soundboard Healy's house mix on master cassette, transferred to DAT at 48k from Rob Eaton's DATs; pitch corrected [4]\n- **gd1978-06-04.aud.unknown.87090.flac16**: source: Master audience cassettes> Open Reel (Sony 153>Tandberg 9141) > DAT (Tandberg 9141>Tascam DA-20 @ 44.1kHz) [5]. Also: Audience recording with unknown taper, mics and location; Samson and Delilah starts abruptly with little missing [5]\n\n## Art and photos\n\n- Poster by Maas: [Grateful Dead UC Santa Barbara 1978 AOR 4.113 Untrimmed Border Concert Poster](https://concertposterauction.com/Listing/Details/1421052/Grateful-Dead-UC-Santa-Barbara-1978-AOR-4113-Untrimmed-Border-Concert-Poster) [27]\n- Fan art by jeffreymoosegallery.com: [“Dead On!”: Steve Schneider Photographs of the Grateful Dead – Jeffrey Moose Gallery](https://jeffreymoosegallery.com/wordpress/dead-on-steve-schneider-photographs-of-the-grateful-dead/) [28]\n- Fan art by Grateful Dead: [Grateful Dead Campus Stadium - June 4, 1978](https://www.dead.net/show/june-4-1978) [29]",

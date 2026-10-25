@@ -139,7 +139,7 @@
      "id": 9,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -205,70 +205,152 @@
     "setlist": [
      {
       "key": "song:grateful-dead:x-crazy-fingers-ends-with-long-reverb",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "x) Crazy Fingers (instr.) (ends with long reverb"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 5,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers (instr.) (6.57)"
      },
      {
       "key": "song:grateful-dead:j-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning (instr.) (5.03)"
      },
      {
       "key": "song:grateful-dead:x-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "x) The Music Never Stopped (instr.) (x) (6.08)"
      },
      {
       "key": "song:grateful-dead:x-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "x) Jam (funky stylish?) (fadeout) (6.46)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way-instr-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Help On The Way (instr., one"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 118
+      },
       "title": "Slipknot (x) (0.56)"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 118
+      },
       "title": "(x) Slipknot (x) (0.17)"
      },
      {
       "key": "song:grateful-dead:spacey-noodling-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Spacely Noodling jam (23.01)"
      },
      {
       "key": "song:grateful-dead:staccato-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Staccato jam (x) (7.25)"
      },
      {
       "key": "song:grateful-dead:stronger-than-dirt-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "x) Stronger Than Dirt jam (1.15)"
      },
      {
       "key": "song:grateful-dead:drummers-bk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drummers (BK"
      },
      {
@@ -277,315 +359,728 @@
       ],
       "key": "song:grateful-dead:stronger-than-dirt-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Stronger Than Dirt jam (4.46)"
      },
      {
       "key": "song:grateful-dead:stronger-than-dirt-riff",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stronger Than Dirt riff (only J. Garcia) (0.25)"
      },
      {
       "key": "song:grateful-dead:j-garcia-playing-stronger-than-dirt-riff",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "(x) J. Garcia playing Stronger Than Dirt riff"
      },
      {
       "key": "song:grateful-dead:drummers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drummers"
      },
      {
       "key": "song:grateful-dead:j-garcia-playing-short-stronger-than-dirt-riffs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia playing short Stronger Than Dirt riffs (1.03)"
      },
      {
       "key": "song:grateful-dead:stronger-than-dirt-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Stronger Than Dirt (riffs by J. Garcia with band joining in randomly) jam (5.21)"
      },
      {
       "key": "song:grateful-dead:j-garcia-soloing",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia soloing"
      },
      {
       "key": "song:grateful-dead:tape-rewind",
-      "stats": {},
+      "stats": {
+       "days_since": 157,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "tape rewind (0.08)"
      },
      {
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2765,
+       "gap_shows": 562,
+       "last_played": {
+        "date": "1967-11-11",
+        "show": "live:grateful-dead:1967-11-11:shrine-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 67
+      },
       "title": "(x)"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 157,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 7,
+       "total_plays": 33
+      },
       "title": "Spacely jam (2.12)"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 157,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 7,
+       "total_plays": 33
+      },
       "title": "Spacely jam (2.12)"
      },
      {
       "key": "song:grateful-dead:space-and-out-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space and Out jam"
      },
      {
       "key": "song:grateful-dead:faint-cheers-in-studio",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "faint cheers in studio (3.54)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-intro-like-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 76,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1975-03-23",
+        "show": "live:grateful-dead:1975-03-23:kezar-stadium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "(x) Blues For Allah intro-like jam (3.03)"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (0.43)"
      },
      {
       "key": "song:grateful-dead:stronger-than-dirt-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Stronger Than Dirt Jam (0.42)"
      },
      {
       "key": "song:grateful-dead:slipknot-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Slipknot! Jam (4.06)"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (3.20)"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (0.45)"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (4.47)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-outro",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues For Allah outro (2.42)"
      },
      {
       "key": "song:grateful-dead:staccato-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "(x) Staccato Jam (6.16)"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (4.52)"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (5.38) (total = )"
      },
      {
       "key": "song:grateful-dead:jg",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "JG"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 120
+      },
       "title": "(slight 60Hz hum in L channel at start) Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 118
+      },
       "title": "Slipknot (6.11)"
      },
      {
       "key": "song:grateful-dead:noodling",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 2,
+       "total_plays": 74
+      },
       "title": "(x) noodling"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 118
+      },
       "title": "Slipknot (7.20)"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower (v)"
      },
      {
       "key": "song:grateful-dead:jg",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "JG"
      },
      {
       "key": "song:grateful-dead:slipknot-type-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "(x) Slipknot-type jam (3.07)"
      },
      {
       "key": "song:grateful-dead:slipknot-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Slipknot jam (4.14)"
      },
      {
       "key": "song:grateful-dead:slipknot-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Slipknot jam (1.54)"
      },
      {
       "key": "song:grateful-dead:slipknot-jam-0-53",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Slipknot jam 0.53)"
      },
      {
       "key": "song:grateful-dead:slipknot-spacely-jam-1-21",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Slipknot-spacely jam 1.21)"
      },
      {
       "key": "song:grateful-dead:j-garcia-and-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia and drums (x) (1.32)"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 122
+      },
       "title": "(x) lazy lightning (fadeout) (0.16)"
      },
      {
       "key": "song:grateful-dead:j-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia"
      },
      {
       "key": "song:grateful-dead:tape-rewind",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 157,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "(x) tape rewind"
      },
      {
       "key": "song:grateful-dead:j-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 234
+      },
       "title": "(x) Franklin's Tower (v)"
      },
      {
       "key": "song:grateful-dead:just-guitars-and-talk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "just guitars and talk (x) (4.48)"
      },
      {
       "key": "song:grateful-dead:noodling",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 2,
+       "total_plays": 74
+      },
       "title": "(x) noodling"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 5,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 118
+      },
       "title": "Slipknot (7.15)"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower (v)"
      },
      {
       "key": "song:grateful-dead:jg",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "JG"
      },
      {
       "key": "song:grateful-dead:j-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 4,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning (instr.) (4.50)"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1975-04-02",
+        "show": "live:grateful-dead:1975-04-02:aces-studio"
+       },
+       "plays_before": 3,
+       "total_plays": 246
+      },
       "title": "(x) The Music Never Stopped (instr.) (x) (5.56)"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1975-04-17",
+        "show": "live:grateful-dead:1975-04-17:aces-studio"
+       },
+       "plays_before": 145,
+       "total_plays": 628
+      },
       "title": "Jam (funky stylish?) (fadeout) (6.30)"
      },
      {
       "key": "song:grateful-dead:j-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "J. Garcia"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1975-06-07:bob-weirs-studio",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 534,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "(x)"
+     ],
+     "first_in_archive": [
+      "x) Crazy Fingers (instr.) (ends with long reverb",
+      "J. Garcia",
+      "x) The Music Never Stopped (instr.) (x) (6.08)",
+      "x) Jam (funky stylish?) (fadeout) (6.46)",
+      "Help On The Way (instr., one",
+      "Staccato jam (x) (7.25)",
+      "drummers (BK",
+      "Stronger Than Dirt riff (only J. Garcia) (0.25)",
+      "(x) J. Garcia playing Stronger Than Dirt riff",
+      "drummers",
+      "J. Garcia playing short Stronger Than Dirt riffs (1.03)",
+      "J. Garcia soloing",
+      "Space and Out jam",
+      "faint cheers in studio (3.54)",
+      "Blues For Allah outro (2.42)",
+      "(x) Staccato Jam (6.16)",
+      "JG",
+      "JG",
+      "(x) Slipknot-type jam (3.07)",
+      "Slipknot jam 0.53)",
+      "Slipknot-spacely jam 1.21)",
+      "J. Garcia and drums (x) (1.32)",
+      "J. Garcia",
+      "J. Garcia",
+      "just guitars and talk (x) (4.48)",
+      "JG",
+      "J. Garcia",
+      "J. Garcia"
+     ],
+     "show_number": 621,
+     "shows_in_archive": 2097,
      "songs": 67,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "drum"
@@ -594,16 +1089,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.600569+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.444081+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Vh1oX5-8IkbMGxhylEcdq1OZ1LWXhxdTfic9okOnUUwz1Au3EpB5cu85-b-M9SxSp5mV6Xaf3u0cPYUHXUwPAg",
+   "revision": 41,
+   "signature": "yUDdkI05Jzd6xA5Ulu8ScU2LOuaKO0Nj9JrT6MWTNduJM-ptADidDUq-x8y4oRdRCStf09PkQVX07Q1-MHF4CQ",
    "subject_key": "live:grateful-dead:1975-06-07:bob-weirs-studio",
-   "updated_at": "2026-10-25T16:41:48.602647"
+   "updated_at": "2026-10-25T17:35:14.445363"
   }
  },
  "recommended": {

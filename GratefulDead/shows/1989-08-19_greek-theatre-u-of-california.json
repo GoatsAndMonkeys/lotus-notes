@@ -699,7 +699,7 @@
      "id": 35,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -790,8 +790,8 @@
     },
     "previous": {
      "date": "1989-08-18",
-     "show": "live:grateful-dead:1989-08-18:greek-theater",
-     "venue": "Greek Theater"
+     "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "recommended": {
      "identifier": "gd1989-08-19.139669.mtx.photoLeon.LL.t-flac16",
@@ -1463,120 +1463,313 @@
     "setlist": [
      {
       "key": "song:grateful-dead:let-the-good-times-roll",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-08-06",
+        "show": "live:grateful-dead:1989-08-06:cal-expo"
+       },
+       "plays_before": 16,
+       "total_plays": 49
+      },
       "title": "Let The Good Times Roll"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 414,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 13,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-07-13",
+        "show": "live:grateful-dead:1989-07-13:robert-f-kennedy-stadium"
+       },
+       "plays_before": 366,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 40,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 308,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 43,
+       "total_plays": 79
+      },
       "title": "Stuck Inside of Mobile with the Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1989-06-21",
+        "show": "live:grateful-dead:1989-06-21:shoreline-amphitheatre"
+       },
+       "plays_before": 9,
+       "total_plays": 16
+      },
       "title": "We Want Phil"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-19",
+        "show": "live:grateful-dead:1989-07-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 106,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:set-break-stealy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "set break Stealy"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 476,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 477,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 514,
+       "total_plays": 634
+      },
       "title": "Playing in the Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 250,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 93,
+       "total_plays": 123
+      },
       "title": "Playing in the Band reprise"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 1181,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 841,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-08-06",
+        "show": "live:grateful-dead:1989-08-06:cal-expo"
+       },
+       "plays_before": 504,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-08-06",
+        "show": "live:grateful-dead:1989-08-06:cal-expo"
+       },
+       "plays_before": 337,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 468,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:nfa-chant-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 233,
+       "gap_shows": 51,
+       "last_played": {
+        "date": "1988-12-29",
+        "show": "live:grateful-dead:1988-12-29:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "NFA chant - tuning"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-07-19",
+        "show": "live:grateful-dead:1989-07-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 31,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      }
     ],
@@ -1584,124 +1777,250 @@
      {
       "from": "gd1989-08-19.mtx.hansokolow.96303.sbeok.flac16",
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-07-17",
+        "show": "live:grateful-dead:1989-07-17:alpine-valley-music-theatre"
+       },
+       "plays_before": 124,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "from": "gd89-08-19.schoeps.13254.sbeok.shnf",
       "key": "song:grateful-dead:playing-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1989-06-19",
+        "show": "live:grateful-dead:1989-06-19:shoreline-amphitheatre"
+       },
+       "plays_before": 31,
+       "total_plays": 45
+      },
       "title": "Playin' jam"
      },
      {
       "from": "gd89-08-19.schoeps.13254.sbeok.shnf",
       "key": "song:grateful-dead:crowd-nfa-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 398,
+       "gap_shows": 87,
+       "last_played": {
+        "date": "1988-07-17",
+        "show": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 7,
+       "total_plays": 9
+      },
       "title": "Crowd NFA chant"
      },
      {
       "from": "gd1989-08-19.138155.FOB.Schoeps.Mattes.Petty.patch.t-flac16",
       "key": "song:grateful-dead:not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 31,
+       "total_plays": 40
+      },
       "title": "Not Fade Away chant"
      },
      {
       "from": "gd1989-08-19.131536.cmc44.fob.mattes.petty.flac16",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-07-04",
+        "show": "live:grateful-dead:1989-07-04:rich-stadium"
+       },
+       "plays_before": 53,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "from": "gd89-08-19.sbd.5213.sbeok.shnf",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 34,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd89-08-19.sbd.5213.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 95,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1989-08-19.124775.akg-c460b.thompson-damico.flac16",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 9,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      },
      {
       "from": "gd1989-08-19.124775.akg-c460b.thompson-damico.flac16",
       "key": "song:grateful-dead:stuck-inside-of-mobile",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 14,
+       "total_plays": 26
+      },
       "title": "Stuck Inside Of Mobile"
      },
      {
       "from": "gd1989-08-19.124775.akg-c460b.thompson-damico.flac16",
       "key": "song:grateful-dead:playing-in-the-band-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 105,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1989-05-06",
+        "show": "live:grateful-dead:1989-05-06:frost-amphitheatre"
+       },
+       "plays_before": 18,
+       "total_plays": 28
+      },
       "title": "Playin' In The Band Jam"
      },
      {
       "from": "gd1989-08-19.senn421.andrewf.91088.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-08-17",
+        "show": "live:grateful-dead:1989-08-17:greek-theatre-u-of-california"
+       },
+       "plays_before": 451,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1989-08-19.111998.fm.HoltzNaks.Flac16",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-08-18",
+        "show": "live:grateful-dead:1989-08-18:greek-theatre-u-of-california"
+       },
+       "plays_before": 34,
+       "total_plays": 55
+      },
       "title": "Drums/Space"
      },
      {
       "from": "gd1989-09-19.139782.sbd.weir.miller.pearson.flac1644",
       "key": "song:grateful-dead:gd89-08-19weir-set-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-08-19weir set 1"
      },
      {
       "from": "gd1989-09-19.139782.sbd.weir.miller.pearson.flac1644",
       "key": "song:grateful-dead:gd89-08-19weir-set-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-08-19weir set 2"
      },
      {
       "from": "gd1989-08-19.175969.sbd.weir.miller.flac2496",
       "key": "song:grateful-dead:set-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Set 1"
      },
      {
       "from": "gd1989-08-19.175969.sbd.weir.miller.flac2496",
       "key": "song:grateful-dead:set-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Set 2"
      }
     ],
     "subject_key": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1531,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "set break Stealy"
+     ],
+     "show_number": 1636,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:10.729944+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.670286+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "fukKFOSqr2oDYEpAAwDQq8ClqQpScw6hVq6cxBtezD530UXw3RcFhwOk7K4UwiOPDo4dSDaI0YgIRPU3_r1YBg",
+   "revision": 39,
+   "signature": "VArRgaaMK1ecLBW5RaEdbeFyAieJxdtRioC9FdKd1hyWz_mGtuvBCNApYvDnCbPy_8rxCkBroNooH6TmVvYvAw",
    "subject_key": "live:grateful-dead:1989-08-19:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:42:10.731940"
+   "updated_at": "2026-10-25T17:35:24.671921"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Tennessee Jed** (1 review): Energy after the North bound train line is out of this world [28]\n- **Box of Rain** (1 review): First set closed with Box of Rain, following We Want Phil [33]\n- **China Cat Sunflower** (1 review): Sequence from China Cat Sunflower to Uncle John's Band is top shelf [24]\n- **The Other One** (1 review): The Other One is tremendous, with powerful tension building after the last lyrics [29]\n\n## The recordings\n\n- **gd1989-08-19.139669.mtx.photoLeon.LL.t-flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 162 min; rated 5/5 by 1 [1]\n- **gd89-08-19.schoeps.13254.sbeok.shnf**: source not stated; 21 songs; 156 min; rated 4.33/5 by 9 [2]. Said about its sound: Recording described as smoking, with performance like a Swiss watch [27]\n- **gd1989-08-19.mtx.hansokolow.96303.sbeok.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 156 min; rated 5/5 by 2 [3]\n- **gd89-08-19.sbd.5213.sbeok.shnf**: soundboard; 19 songs; 151 min; rated 4.53/5 by 19 [7]. Said about its sound: Recording features phenomenal clarity, sound field, and balance, resembling a Healy mix [24]\n- **gd1989-08-19.sbd.walker-scotton.miller.83775.sbeok.flac16**: soundboard; 19 songs; 151 min; rated 3.33/5 by 12 [9]\n- **gd1989-08-19.164141.UltraMatrix.sbd.cm.miller.t.flac1644**: soundboard; 19 songs; 153 min [11]\n\n## Around the show\n\n- Final Grateful Dead show at the Greek Theatre, concluding a three-day run [23]\n- Attendee had a plane ticket back to Philly and a Greek ticket [26]\n- Audience left during the Playin' Jam, returning as Uncle John's Band started [32]\n- Among the best versions of The Other One played that year [25]\n- Top three show out of 191 seen between 1985 and 1995 [32]\n\n## Tapers and lineage\n\n- **gd1989-08-19.139669.mtx.photoLeon.LL.t-flac16**: transferred by Three Source Matrix created in Audacity by photoLeon; source: Three Source Matrix created in Audacity [1]\n- **gd89-08-19.schoeps.13254.sbeok.shnf**: taped by Jim Oade; source: Schoeps cmc42s ->M118 -> Oade Mod PCM-F1 [2]\n- **gd1989-08-19.mtx.hansokolow.96303.sbeok.flac16**: transferred by hansokolow; source: Matrix mix (SBD/AUD) [3]. Also: Matrix created by hansokolow in ProTools from SBD cassette masters; Tapes provided by Paul Scotton and Joani Walker for seamless show [3]\n- **gd89-08-19.sbd.5213.sbeok.shnf**: source: SBD Cassette Master > DAT > .WAV > .SHN [7]\n- **gd1989-08-19.sbd.walker-scotton.miller.83775.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK MA-XG90) D [9]. Also: Two SBD Cassette Masters used to make the show seamless [9]\n- **gd1989-08-19.164141.UltraMatrix.sbd.cm.miller.t.flac1644**: taped by Set 1 recorded by Joani Walker -- Set 2 recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  February 11, 2023; source: Ultramatrix SBD > Cassette Master (Sony TC-D5M/Maxell MX90/TDK MA-XG90) [11]. Also: Multiple ultramatrix masters used to make this show complete [11]",

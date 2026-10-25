@@ -260,7 +260,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -573,163 +573,442 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 75,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-03-19",
+        "show": "live:grateful-dead:1973-03-19:nassau-coliseum"
+       },
+       "plays_before": 21,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 15,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:wave-that-flag",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 10,
+       "total_plays": 15
+      },
       "title": "Wave That Flag"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 105,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-22",
+        "show": "live:grateful-dead:1973-03-22:utica-memorial-auditorium"
+       },
+       "plays_before": 97,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 97,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 33,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 12,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 151,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 62,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 123,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 207,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 209,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 23,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 39,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 162,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-03-16",
+        "show": "live:grateful-dead:1973-03-16:nassau-coliseum"
+       },
+       "plays_before": 68,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 42,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 7,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 67,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 85,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 52,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 246,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 53,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 165,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 41,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 95,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-22",
+        "show": "live:grateful-dead:1973-03-22:utica-memorial-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-03-16",
+        "show": "live:grateful-dead:1973-03-16:nassau-coliseum"
+       },
+       "plays_before": 99,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-22",
+        "show": "live:grateful-dead:1973-03-22:utica-memorial-auditorium"
+       },
+       "plays_before": 84,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -737,25 +1016,51 @@
      {
       "from": "gd73-03-26.sbd.miller-ashley.1373.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-03-19",
+        "show": "live:grateful-dead:1973-03-19:nassau-coliseum"
+       },
+       "plays_before": 27,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd1973-03-26.170436.sbd-set2patched.miller.lamarre.andrewf.vernon.flegel.flac1644",
       "key": "song:grateful-dead:stage-announcements-wolfman-jack",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stage Announcements / Wolfman Jack}"
      },
      {
       "from": "gd1973-03-26.170436.sbd-set2patched.miller.lamarre.andrewf.vernon.flegel.flac1644",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 106,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1973-03-26.170436.sbd-set2patched.miller.lamarre.andrewf.vernon.flegel.flac1644",
       "key": "song:grateful-dead:weather-report-prelude",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Weather Report Prelude"
      }
     ],
@@ -763,10 +1068,10 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 423,
-     "shows_in_archive": 1855,
+     "show_number": 502,
+     "shows_in_archive": 2097,
      "songs": 31,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Wolfman Jack"
@@ -775,16 +1080,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.084284+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.399364+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "ct793lnpE53Q1b4sAAVNM7ec1o1ETttK71a9I-aJwOsYaZWyw8TxZWCZX2_F6gYx_dVXDgsTAKSWRLQqHtadAA",
+   "revision": 42,
+   "signature": "qIfy3JF8gY9TzaFjgRIqQx_VbFz0lEy7RrRdsG9wG1N_fC2cS9KKAcNgT3gl8FlrGL5FGMuIlbo7Ve37xpaFCA",
    "subject_key": "live:grateful-dead:1973-03-26:baltimore-civic-center",
-   "updated_at": "2026-10-25T16:41:46.086111"
+   "updated_at": "2026-10-25T17:35:13.400741"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Truckin'** (2 reviews): The jam transitioning from Truckin' to Wharf Rat is described as pure magic; The transition from Truckin' into the Weather Report suite is called indescribably perfect [5][14]\n- **Big River** (1 review): Big River is characterized as a driving performance that rips through the second set [6]\n- **Weather Report Suite Prelude** (1 review): The listener hears a Darkness theme emerging around the three-minute forty-second mark [10]\n\n## The recordings\n\n- **gd1973-03-26.sbd.miller.34787.sbeok.flac16** (recommended): soundboard; 31 songs; 235 min; rated 4.82/5 by 28 [1]. Said about its sound: Reel flips are present in Here Comes Sunshine, the Truckin' jam, and Morning Dew [1]\n- **gd1973-03-26.170436.sbd-set2patched.miller.lamarre.andrewf.vernon.flegel.flac1644**: soundboard; 16 songs; 125 min [2]\n- **gd1973-03-26.170348.aud.lamarre.vernon.AndrewF.flac2496**: audience recording; 7 songs; 81 min [3]\n- **gd1973-03-26.170347.aud.lamarre.vernon.AndrewF.flac1648**: audience recording; 7 songs; 81 min [4]\n\n## Around the show\n\n- Stage talk about: Wolfman Jack [1]\n- Wolfman Jack appeared on stage, marking a moment of commercial influence for the band [6]\n- Crowd members lit matches when Wolfman Jack asked, and Jerry referenced him during Ramble On Rose [12]\n- Spring 1973 shows like this are argued to be as good as the hyped fall shows [7]\n- The reviewer compares this show favorably to the May 26 Kezar Stadium performance [9]\n- Spring 1973 shows are argued to be overlooked compared to the more hyped fall tours [11]\n\n## Tapers and lineage\n\n- **gd1973-03-26.sbd.miller.34787.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) D [1]. Also: The recording is noted as being as good as a 1973 board Miller transfer gets; The audio is described as a stereo hi-fidelity recording with a five-star transfer quality; Steve Rolfe provided the DAT source, and disc changes are noted as seamless [1][7][8]\n- **gd1973-03-26.170436.sbd-set2patched.miller.lamarre.andrewf.vernon.flegel.flac1644**: source: Patched set 2 soundboard [2]. Also: Maxell tape was transferred via Nak CR-7A and Tascam DA-3000 to 24/96 PCM; Doug Lamarre, Andrew F, Matt Vernon, and Steve Flegel contributed to the patched source [2]\n- **gd1973-03-26.170348.aud.lamarre.vernon.AndrewF.flac2496**: source: Analog Audience Source: Unknown mic/deck/generation/taper Medium Stock Brands: Maxell Epitaxial XLII-90 (70 uS EQ) Dolby Not specified Tape provided by Doug… [3]\n- **gd1973-03-26.170347.aud.lamarre.vernon.AndrewF.flac1648**: source: Analog Audience Source: Unknown mic/deck/generation/taper Medium Stock Brands: Maxell Epitaxial XLII-90 (70 uS EQ) Dolby Not specified Tape provided by Doug… [4]",

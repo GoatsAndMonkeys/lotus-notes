@@ -331,7 +331,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -377,8 +377,8 @@
     "guests": [],
     "next": {
      "date": "1978-11-18",
-     "show": "live:grateful-dead:1978-11-18:uptown-theatre",
-     "venue": "Uptown Theatre"
+     "show": "live:grateful-dead:1978-11-18:uptown-theater",
+     "venue": "Uptown Theater"
     },
     "previous": {
      "date": "1978-11-16",
@@ -606,68 +606,176 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-10-20",
+        "show": "live:grateful-dead:1978-10-20:winterland-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 196,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 198,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 68,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 84,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-11-14",
+        "show": "live:grateful-dead:1978-11-14:boston-music-hall"
+       },
+       "plays_before": 127,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-16",
+        "show": "live:grateful-dead:1978-11-16:uptown-theater"
+       },
+       "plays_before": 387,
+       "total_plays": 1630
+      },
       "title": "Drums //"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-16",
+        "show": "live:grateful-dead:1978-11-16:uptown-theater"
+       },
+       "plays_before": 387,
+       "total_plays": 1630
+      },
       "title": "// Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-11-16",
+        "show": "live:grateful-dead:1978-11-16:uptown-theater"
+       },
+       "plays_before": 78,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-10-18",
+        "show": "live:grateful-dead:1978-10-18:winterland-arena"
+       },
+       "plays_before": 50,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 156,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 321,
+       "gap_shows": 68,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 281,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -675,73 +783,161 @@
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:wining-boy-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2645,
+       "gap_shows": 445,
+       "last_played": {
+        "date": "1971-08-21",
+        "show": "live:grateful-dead:1971-08-21:mickeys-barn"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Whinin' Boy Blues"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:tom-dooley",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Tom Dooley"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:this-time-forever",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "This Time Forever"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2607,
+       "gap_shows": 441,
+       "last_played": {
+        "date": "1971-09-28",
+        "show": "live:grateful-dead:1971-09-28:keith-rehearsals"
+       },
+       "plays_before": 28,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:kc-moan",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "KC Moan"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:heavens-door",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Heaven's Door"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:big-boy-pete",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2980,
+       "gap_shows": 522,
+       "last_played": {
+        "date": "1970-09-20",
+        "show": "live:grateful-dead:1970-09-20:fillmore-east"
+       },
+       "plays_before": 6,
+       "total_plays": 11
+      },
       "title": "Big Boy Pete"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 527,
+       "gap_shows": 94,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 7,
+       "total_plays": 127
+      },
       "title": "Jack A Roe"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:dark-hollow",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2759,
+       "gap_shows": 456,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 15,
+       "total_plays": 38
+      },
       "title": "Dark Hollow"
      },
      {
       "from": "gd1978-11-17.acoustic.sbd.samaritano.32879.sbeok.flac16",
       "key": "song:grateful-dead:oh-boy",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2782,
+       "gap_shows": 473,
+       "last_played": {
+        "date": "1971-04-06",
+        "show": "live:grateful-dead:1971-04-06:manhattan-center"
+       },
+       "plays_before": 1,
+       "total_plays": 6
+      },
       "title": "Oh Boy"
      },
      {
       "from": "gd78-11-17.acoustic.sbd.dodd.7687.sbeok.shnf",
       "key": "song:grateful-dead:knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      },
      {
       "from": "gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644",
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-11-13",
+        "show": "live:grateful-dead:1978-11-13:boston-music-hall"
+       },
+       "plays_before": 73,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      }
     ],
@@ -749,26 +945,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 714,
-     "shows_in_archive": 1855,
+     "show_number": 808,
+     "shows_in_archive": 2097,
      "songs": 12,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Rambler Room, Loyola College"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.371713+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.710821+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "Qn-5edhY57aNlCEbOOgfYVDf0_jRIxGzDX8XEQsulBAsqco_8Cz2OwxCZ2-ufL7Dzy9OHKJ3lIEmQjqCdciADw",
+   "revision": 42,
+   "signature": "0Ap916MZsi6Ad1ZGY3Nyo9f0MOHr-50BWBWCDo1H8jAdb6QOr4F6Fhm1JVnZRdzL3tMEaPvshgOSVORqfacKAw",
    "subject_key": "live:grateful-dead:1978-11-17:rambler-room-loyola-college",
-   "updated_at": "2026-10-25T16:41:52.373460"
+   "updated_at": "2026-10-25T17:35:15.711561"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Whinin' Boy Blues** (1 review): Whinin' Boy Blues is described as shiny and golden in this performance [12]\n- **This Time Forever** (1 review): Hearing Jerry perform This Time Forever is described as sweet [13]\n- **Big Boy Pete** (1 review): Big Boy Pete and Jack A Roe are highlighted as really cool [15]\n- **Deep Elem Blues** (1 review): The Deep Elem Blues performance is described as heartbreaking [16]\n\n## The recordings\n\n- **gd78-11-17.paud.wiley.11488.sbeok.shnf** (recommended): audience recording; 12 songs; 91 min; rated 3.09/5 by 11 [1]\n- **gd78-11-17.acoustic.sbd.dodd.7687.sbeok.shnf**: soundboard; 10 songs; 44 min; rated 4.58/5 by 33 [3]. Said about its sound: Recording has decent sound quality and captures the musicians having fun; Good sound quality allows clear hearing of the slightly pushy crowd; Very nice sound quality noted for this little show [11][12][14][15]\n- **gd1978-11-17.sbd.dodd.audiohead22.remaster-7687.90110.sbefail.flac16**: soundboard; 10 songs; 45 min; rated 4.2/5 by 10 [4]\n- **gd1978-11-17.157672.aud.lamarre.vernon.sirmick.flac24**: audience recording; 10 songs; 44 min [5]. Said about its sound: Right channel copied over left due to better condition, making it mono; Substantial level adjustments and background noise reduction were applied [5]\n\n## Around the show\n\n- Small venue and crowd enjoyed the acoustic charity set with good interplay [8]\n- Bob Weir led with Garcia and Mickey Hart joining for most of the set [11]\n- Bar room parlor-band style present during the chill Big Boy Pete [13]\n- Classic stage banter includes Jerry Garcia saying he is new around here [14]\n- Bobby's slide playing is better when he cannot reach the 17th fret [19]\n- Mickey Hart joined the acoustic group from Deep Elem Blues through the end [5]\n- Show gives a taste of later acoustic sets in New Orleans and Warfield [18]\n\n## Tapers and lineage\n\n- **gd78-11-17.paud.wiley.11488.sbeok.shnf**: source: Audience Recording [1]. Also: Audio path is AUD to MC to DAT to CDR, seeded by T. Wiley [1]\n- **gd78-11-17.acoustic.sbd.dodd.7687.sbeok.shnf**: source: Soundboard [3]. Also: Soundboard source transferred via Ernie Dodd to SHN format [3]\n- **gd1978-11-17.sbd.dodd.audiohead22.remaster-7687.90110.sbefail.flac16**: transferred by audiohead22; source: Soundboard [4]. Also: Audiohead22 edited hiss, FFT, and repaired reel glitches in 2008 [4]\n- **gd1978-11-17.157672.aud.lamarre.vernon.sirmick.flac24**: taped by unknown; transferred by Matt Vernon, SirMick; source: unknown audience recording (unk gens) - from the collection of Doug Lamarre [5]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1978-11-17 Rambler Room, Loyola University, Chicago IL - Jerry Garcia](https://jerrygarcia.com/show/1978-11-17-rambler-room-loyola-university-chicago-il/) [21]\n- Fan art by Jerry Garcia: [Rambler Room, Loyola College, Chicago, IL - 11/17/1978 - Jerry Garcia](https://jerrygarcia.com/image/rambler-room-loyola-college-chicago-il-11-17-1978-17/) [22]",

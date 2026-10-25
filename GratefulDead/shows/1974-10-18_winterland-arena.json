@@ -446,7 +446,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -840,143 +840,390 @@
     "setlist": [
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 76,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 142,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:beer-barrel-polka",
-      "stats": {},
+      "stats": {
+       "days_since": 114,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1974-06-26",
+        "show": "live:grateful-dead:1974-06-26:providence-civic-center"
+       },
+       "plays_before": 6,
+       "total_plays": 19
+      },
       "title": "Beer Barrel Polka"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 170,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 10,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 213,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 107,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 144,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 200,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 142,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 175,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 87,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 9,
+       "total_plays": 10
+      },
       "title": "Part 1"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 50,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:phil-and-ned",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 12,
+       "total_plays": 14
+      },
       "title": "Phil and Ned"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 137,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 179,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 118,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 133,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 140,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 104,
+       "total_plays": 290
+      },
       "title": "Greatest STory Ever Told"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 27,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 162,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 121,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 36,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "key": "song:grateful-dead:crowd-greensleeves",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd Greensleeves"
      }
     ],
@@ -984,340 +1231,581 @@
      {
       "from": "gd74-10-18.sbd.miller.21785.sbeok.shnf",
       "key": "song:grateful-dead:weather-report-suite-part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 28,
+       "total_plays": 29
+      },
       "title": "Weather Report Suite Part 1"
      },
      {
       "from": "gd1974-10-18.sbd.miller.110771.flac16",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-10-17",
+        "show": "live:grateful-dead:1974-10-17:winterland-arena"
+       },
+       "plays_before": 42,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd1974-10-18.sbd.miller.110771.flac16",
       "key": "song:grateful-dead:seastones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 16,
+       "total_plays": 19
+      },
       "title": "Seastones"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:48-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "48] ...Around and Around"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:57-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "57] Sugaree"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:16-polka-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "16] Polka Tuning"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:35-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "35] Mexicali Blues"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:35-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "35] Peggy-O"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:32-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "32] Beat it on Down the Line"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:04-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "04] Brown Eyed Women"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:28-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "28] Cumberland Blues"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:29-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "29] El Paso"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:45-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "45] Tennessee Jed"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:55-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "55] Jack Straw"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:07-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "07] Row Jimmy"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:27-weather-report-suite",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "27] Weather Report Suite"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:54-seastones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "54] Seastones"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:28-prelude",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "28] Prelude"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:01-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "01] Dark Star"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:49-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "49] Morning Dew!!!"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:08-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "08] Promised Land"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:19-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "19] Bertha"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:26-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "26] Greatest Story Ever Told"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:27-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "27] Ship of Fools"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:50-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "50] Not Fade Away"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:42-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "42] Goin' Down the Road Feelin' Bad"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:44-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "44] One More Saturday Night"
      },
      {
       "from": "gd1974-10-18.111459.gems.BOSWELL-SMITH.flac24",
       "key": "song:grateful-dead:46-encore-u-s-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "46] Encore- U.S.Blues"
      },
      {
       "from": "gd1974-10-18.176647.sony.ecm250.falanga.menke.miller.clugston.flac2496",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-10-16",
+        "show": "live:grateful-dead:1974-10-16:winterland-arena"
+       },
+       "plays_before": 25,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:56-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "56] ...Cumberland Blues"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:52-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "52] El Paso"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:34-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "34] Tennessee Jed"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:37-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "37] Jack Straw"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:57-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "57] Row Jimmy"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:17-weather-report-suite",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "17] Weather Report Suite"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:40-phil-and-ned-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "40] Phil And Ned (Seastones)-> jam ->/"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:55-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "55] Dark Star"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:16-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "16] Morning Dew"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:04-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "04] Promised Land"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:58-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "58] Greatest Story Ever Told"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:53-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "53] Ship Of Fools"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:43-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "43] Not Fade Away"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110558.flac24",
       "key": "song:grateful-dead:35-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "35] Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:38-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "38] Jack Straw"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:58-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "58] Row Jimmy"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:37-weather-report-suite",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "37] Weather Report Suite"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:43-phil-and-ned-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "43] Phil And Ned (Seastones)-> jam ->/"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:56-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "56] Dark Star"
      },
      {
       "from": "gd1974-10-18.BEAR.gems.110515.flac16",
       "key": "song:grateful-dead:13-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "13] Morning Dew"
      },
      {
       "from": "gd1974-10-18.sbd.fink-nayfield-ferguson.225.shnf",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 243,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "from": "gd74-10-18.sbd.romanski.5436.sbeok.shnf",
       "key": "song:grateful-dead:bill-and-phil",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 898,
+       "gap_shows": 181,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Billy and Phil"
      },
      {
       "from": "gd74-10-18.sbd.romanski.5436.sbeok.shnf",
       "key": "song:grateful-dead:space-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space Time"
      }
     ],
     "subject_key": "live:grateful-dead:1974-10-18:winterland-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 518,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Crowd Greensleeves"
+     ],
+     "show_number": 601,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.389512+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.352593+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "p5peAQkSWQRep3bbgMMtOQts5_XHqkQtdz_R06dzEKcKy23n7NW1ixZ4EoZZ4xuPEKnkJhoAGVQ0Q-YOijMaAQ",
+   "revision": 42,
+   "signature": "zVc3Ky10RahINp5jkQodQ9s_iWokoRM9tH84bjoh93jirrjG2E7ZVqvs8DDpGvKjyPWAmb5S0GCtnQwnqt35Ag",
    "subject_key": "live:grateful-dead:1974-10-18:winterland-arena",
-   "updated_at": "2026-10-25T16:41:48.392227"
+   "updated_at": "2026-10-25T17:35:14.354191"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd74-10-18.sbd.bertha-ashley.22796.sbeok.shnf** (recommended): soundboard; 28 songs; 219 min; rated 4.79/5 by 14 [1]. Said about its sound: Vocals are clearer in this recording compared to other available versions of the show; Hissy audio with low Jerry mix, but features the longest uninterrupted jam into Dark Star; Dark Star is well-crafted with smooth transitions, evolving into a funky jazz-rock feel [13][14][22][24]\n- **gd1974-10-18.176647.sony.ecm250.falanga.menke.miller.clugston.flac2496**: audience recording; 26 songs; 207 min; rated 5/5 by 1 [7]\n- **gd74-10-18.sbd.romanski.5436.sbeok.shnf**: soundboard; 13 songs; 121 min; rated 3.5/5 by 2 [12]. Said about its sound: Seastones into Dark Star is tight and delicate, though the rest of the set drags [15]\n- **gd74-10-18.sbd.miller.21785.sbeok.shnf**: soundboard; 28 songs; 219 min; rated 4/5 by 1 [2]\n\n## Around the show\n\n- Second set's Phil and Ned to Dark Star sequence is ephoric and special [17]\n- Billy and Phil drive the band, making the first set particularly strong [18]\n- Listening while driving on a black night evokes exploring multi-colored caverns with pixie dust [23]\n- Ned Lagin played electric piano and synthesizer for the Seastones performance [7]\n- Listener believes this Dark Star to Dew sequence is from the Grateful Dead movie [19]\n- Considered the best Morning Dew of 1974, featuring zero mistakes and huge power [21]\n\n## Tapers and lineage\n\n- **gd74-10-18.sbd.bertha-ashley.22796.sbeok.shnf**: source: Soundboard [1]. Also: Soundboard master reel remaster, transferred via MDAT to SHN, rated Sound B to A+ [1]\n- **gd1974-10-18.176647.sony.ecm250.falanga.menke.miller.clugston.flac2496**: taped by Louis Falanga; transferred by Bob Menke, Charlie Miller, Scott Clugston; source: Louis Falanga's Master Audience Cassettes; Sony ECM 250 mic > Sony TC-110 (Maxell UD C120) [7]\n- **gd74-10-18.sbd.romanski.5436.sbeok.shnf**: source: Soundboard [12]\n- **gd74-10-18.sbd.miller.21785.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard [2]",

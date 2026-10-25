@@ -590,7 +590,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1209,122 +1209,333 @@
     "setlist": [
      {
       "key": "song:grateful-dead:set-up",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 6,
+       "total_plays": 16
+      },
       "title": "Set Up"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 65,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 263,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-10-29",
+        "show": "live:grateful-dead:1980-10-29:radio-city-music-hall"
+       },
+       "plays_before": 143,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 143,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 148,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 199,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexical-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 203,
+       "gap_shows": 65,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Mexical Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 76,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 76,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 75,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 106,
+       "total_plays": 326
+      },
       "title": "Dont Ease Me In"
      },
      {
       "key": "song:grateful-dead:set-up",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 6,
+       "total_plays": 16
+      },
       "title": "Set Up"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 46,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 82,
+       "total_plays": 234
+      },
       "title": "Franklins Tower"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 151,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 136,
+       "total_plays": 337
+      },
       "title": "Hes Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 285,
+       "total_plays": 539
+      },
       "title": "Truckin"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-28",
+        "show": "live:grateful-dead:1980-11-28:lakeland-civic-center"
+       },
+       "plays_before": 559,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:hammers-of-gods-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hammers of Gods/Space"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 317,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 122,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 275,
+       "total_plays": 439
+      },
       "title": "Good Lovin"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 299,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -1332,52 +1543,90 @@
      {
       "from": "gd80-11-29.wise.sacks.2409.sbeok.shnf",
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-10-31",
+        "show": "live:grateful-dead:1980-10-31:radio-city-music-hall"
+       },
+       "plays_before": 266,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "from": "gd80-11-29.wise.sacks.2409.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-11-28",
+        "show": "live:grateful-dead:1980-11-28:lakeland-civic-center"
+       },
+       "plays_before": 229,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1980-11-29.aud.barrick.325.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 203,
+       "gap_shows": 65,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 22,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1980-11-29.155787.ohr-sony-ecm23f-nak550-flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 183,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 893,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Hammers of Gods/Space"
+     ],
+     "show_number": 989,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Alligator Alley Gymnasium, U of Florida"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 27,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.813639+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.042622+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 28,
-   "signature": "FEpeuWf8t4UtqKXYbny8OkY4d3WwWTxHatCfPAO4hrSNlApV9SfSZ2tQ57mJIE7O5jmfFukMAjo0OAfXlcz4CQ",
+   "revision": 40,
+   "signature": "Ckzk1Vb0-Ntcho0k8aZclVzkUDsLDnahjMbF_PEc770ZDAmNX7K0BCIIdhUF01yEXwkIj-NQpxourwQC_kymDA",
    "subject_key": "live:grateful-dead:1980-11-29:alligator-alley-gymnasium-u-of-florida",
-   "updated_at": "2026-10-25T16:41:53.814758"
+   "updated_at": "2026-10-25T17:35:17.044047"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (2 reviews): Sucking and squishing audio during transition to Franklin's Tower; Enormous, shuddering opening starts the set off hot [18][27]\n- **Drums** (1 review): Drumming ranks among the best the band has done [24]\n- **The Other One** (1 review): Drummers stay on stage for improvisation during Space section [24]\n- Jerry Garcia wails on solos during the song [19]\n- Jerry turns up solos, making the crowd scream [27]\n\n## The recordings\n\n- **gd1980-11-29.132457.wise.aud.flac24** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 178 min [1]\n- **gd80-11-29.wise.sacks.2409.sbeok.shnf**: audience recording; 22 songs; 179 min; rated 4.79/5 by 58 [3]. Said about its sound: Audience recording has bright sound, though slightly clunky; Listener considers this the best audience recording they have heard; Taper found a sweet spot, making it decent [18][19][26]\n- **gd1980-11-29.nak700.wagner.miller.90104.sbeok.flac16**: source not stated; 22 songs; 182 min; rated 4.5/5 by 14 [8]\n- **gd1980-11-29.beyer160.wise.gmb.89938.sbeok.flac16**: source not stated; 22 songs; 172 min; rated 4.89/5 by 9 [12]. Said about its sound: Slight digital noise present at the end of Stella Blue [12]\n- **gd1980-11-29.175074.set2.sbd.miller.vocal-phase-repair.flac2496**: soundboard; 11 songs; 103 min; rated 5/5 by 1 [15]\n\n## Around the show\n\n- Audience member shouts 'Down for the harvest?' at start [21]\n- Crowd is raucous and appreciative, similar to Radio City audiences [23]\n- It was snowing on the beach in Florida [26]\n- Show smokes more than previous months despite no acoustic set [23]\n\n## Tapers and lineage\n\n- **gd1980-11-29.132457.wise.aud.flac24**: taped by Jim Wise; source: Cassette Audience Master recorded By Jim Wise (patched out of MadRiverRich); Beyer dynamic M160 Double Ribbon Hypercardiod microphones mounted on a stand-Sony… [1]. Also: Setlist includes encores Casey Jones and Mexicali Blues [1]\n- **gd80-11-29.wise.sacks.2409.sbeok.shnf**: taped by Jim Wise; source: Audience Recording: Beyer M-160's [3]\n- **gd1980-11-29.nak700.wagner.miller.90104.sbeok.flac16**: taped by Bob Wagner; transferred by Charlie Miller; source: (FOB) Nakamichi 700 (With Bass EQ) -> Cassette Master (Sony D5M/TDK SA-X90/Dolby DB) D [8]. Also: FOB Beyer M-160 to cassette, then Alesis Masterlink to CD; Bob Wagner lent masters; Jim Wise recorded patch source [8]\n- **gd1980-11-29.beyer160.wise.gmb.89938.sbeok.flac16**: taped by Jim Wise; transferred by Bill Koucky; source: Beyer M-160's > Sony TC-D5 > CDR > DAT [12]. Also: Crossfades applied for tape flips and between first set tunes [12]\n- **gd1980-11-29.175074.set2.sbd.miller.vocal-phase-repair.flac2496**: transferred by All Transfers and Mastering by Charlie Miller  November 8, 2025; source: SBD > Multi-Gen Cassette (Maxell XLII 90) [15]. Also: Vocal phase repair of soundboard tape from Sean Kutzko; Jim Wise provided patch source; Joe B. Jones set pitch [15]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [Grateful DeadALLIGATOR ALLEY GYM, U. OF FLORIDA NOVEMBER 29, 1980 - Jerry Garcia](https://jerrygarcia.com/image/grateful-deadalligator-alley-gym-u-of-florida-november-29-1980/) [31]\n- Poster by Jerry Garcia: [11 29, 1980 - Jerry Garcia](https://jerrygarcia.com/image/11-29-1980/) [32]\n- Poster by Peter Simon Grateful Dead: [1980-11-29 Alligator Alley Gym, U. of Florida, Gainesville, FL, USA - Jerry Garcia](https://jerrygarcia.com/show/1980-11-29-alligator-alley-gym-u-of-florida-gainesville-fl-usa/) [33]\n- Poster by gdnotebook.blogspot.com: [1980-11-29 - U. of Florida](https://gdnotebook.blogspot.com/2010/12/1980-11-29-u-of-florida.html) [34]\n- Poster by Peter Simon Grateful Dead: [1980-11-29 Alligator Alley Gym, U. of Florida, Gainesville, FL, USA - Jerry Garcia](https://jerrygarcia.com/show/1980-11-29-alligator-alley-gym-u-of-florida-gainesville-fl-usa/) [35]",

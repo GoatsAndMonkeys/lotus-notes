@@ -392,7 +392,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -527,8 +527,8 @@
     },
     "previous": {
      "date": "1993-06-26",
-     "show": "live:grateful-dead:1993-06-26:rfk-stadium",
-     "venue": "RFK Stadium"
+     "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium",
+     "venue": "Robert F. Kennedy Stadium"
     },
     "recommended": {
      "identifier": "gd1993-08-21.fm.albright.87555.flac16",
@@ -810,111 +810,280 @@
     "setlist": [
      {
       "key": "song:grateful-dead:oregon-trail-mix",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Oregon Trail Mix''"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1993-06-25",
+        "show": "live:grateful-dead:1993-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 536,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1993-06-25",
+        "show": "live:grateful-dead:1993-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 539,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:long-way-home",
-      "stats": {},
+      "stats": {
+       "days_since": 146,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1993-03-28",
+        "show": "live:grateful-dead:1993-03-28:knickerbocker-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 6
+      },
       "title": "Long Way Home"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-06-19",
+        "show": "live:grateful-dead:1993-06-19:soldier-field"
+       },
+       "plays_before": 514,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 422,
+       "gap_shows": 65,
+       "last_played": {
+        "date": "1992-06-25",
+        "show": "live:grateful-dead:1992-06-25:soldier-field"
+       },
+       "plays_before": 58,
+       "total_plays": 64
+      },
       "title": "Good Morning Little Schoolgirl"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-06-19",
+        "show": "live:grateful-dead:1993-06-19:soldier-field"
+       },
+       "plays_before": 60,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 1467,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 1127,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:this-will-be-the-last-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "This Will Be The Last Time"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1993-06-19",
+        "show": "live:grateful-dead:1993-06-19:soldier-field"
+       },
+       "plays_before": 54,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 324,
+       "total_plays": 345
+      },
       "title": "one more saturday night"
      },
      {
       "key": "song:grateful-dead:i-fought-the-law",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1993-06-21",
+        "show": "live:grateful-dead:1993-06-21:deer-creek-music-center"
+       },
+       "plays_before": 13,
+       "total_plays": 38
+      },
       "title": "I Fought The Law"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 76,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1993-06-06",
+        "show": "live:grateful-dead:1993-06-06:giants-stadium"
+       },
+       "plays_before": 41,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1993-06-18",
+        "show": "live:grateful-dead:1993-06-18:soldier-field"
+       },
+       "plays_before": 125,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:lazy-river-road",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 22,
+       "total_plays": 70
+      },
       "title": "Lazy River Road"
      },
      {
       "key": "song:grateful-dead:queen-jane",
-      "stats": {},
+      "stats": {
+       "days_since": 147,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1993-03-27",
+        "show": "live:grateful-dead:1993-03-27:knickerbocker-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 57
+      },
       "title": "Queen Jane"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 293,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1993-06-25",
+        "show": "live:grateful-dead:1993-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 410,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:interview-with-vince-welnick",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Interview with Vince Welnick"
      },
      {
       "key": "song:grateful-dead:story-sneaking-into-winterland",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Story: Sneaking into Winterland"
      }
     ],
@@ -922,70 +1091,140 @@
      {
       "from": "gd1993-08-21.151100.sbd.miller.flac1648",
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1993-06-18",
+        "show": "live:grateful-dead:1993-06-18:soldier-field"
+       },
+       "plays_before": 111,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "from": "gd1993-08-21.151100.sbd.miller.flac1648",
       "key": "song:grateful-dead:way-to-go-home",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 42,
+       "total_plays": 94
+      },
       "title": "Way To Go Home"
      },
      {
       "from": "gd1993-08-21.151100.sbd.miller.flac1648",
       "key": "song:grateful-dead:last-time",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 35,
+       "total_plays": 71
+      },
       "title": "The Last Time"
      },
      {
       "from": "gd1993-08-21.fob-schoeps.evans-waddell.87291.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1993-06-26",
+        "show": "live:grateful-dead:1993-06-26:robert-f-kennedy-stadium"
+       },
+       "plays_before": 190,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1993-08-21.fob-schoeps.evans-waddell.87291.flac16",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 840,
+       "gap_shows": 164,
+       "last_played": {
+        "date": "1991-05-04",
+        "show": "live:grateful-dead:1991-05-04:cal-expo"
+       },
+       "plays_before": 14,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      },
      {
       "from": "gd1993-08-21.sbd.serafin.11269.shnf",
       "key": "song:grateful-dead:long-way-to-go-home",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1993-06-13",
+        "show": "live:grateful-dead:1993-06-13:rich-stadium"
+       },
+       "plays_before": 20,
+       "total_plays": 39
+      },
       "title": "Long Way To Go Home"
      },
      {
       "from": "gd1993-08-21.sbd.nawrocki.561.shnf",
       "key": "song:grateful-dead:sapce",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5421,
+       "gap_shows": 1131,
+       "last_played": {
+        "date": "1978-10-18",
+        "show": "live:grateful-dead:1978-10-18:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Sapce"
      }
     ],
     "subject_key": "live:grateful-dead:1993-08-21:autzen-stadium-u-of-oregon",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1824,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Oregon Trail Mix''",
+      "This Will Be The Last Time",
+      "Interview with Vince Welnick",
+      "Story: Sneaking into Winterland"
+     ],
+     "show_number": 1932,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Autzen Stadium, U. of Oregon"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.470061+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:27.878802+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "yeeWAbcjRU0x4PHb32TXJlSgAdXz4Z93pFffNgmCV0Dte00vocrxlx0g7wddk_gIUXX_H8zYa-Ft8gczJOI7BA",
+   "revision": 28,
+   "signature": "N_eh0vv8wmzr-stPapDZZSbsYRNKsDiWprlhcXrvu67tEqA2-uFXD9kcLn9ydh2E4ya-SnLoeFKtUyo90zI4BA",
    "subject_key": "live:grateful-dead:1993-08-21:autzen-stadium-u-of-oregon",
-   "updated_at": "2026-10-25T16:42:19.471416"
+   "updated_at": "2026-10-25T17:35:27.879837"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Standing On The Moon** (3 reviews, 1 other source): Reviewer says Garcia erupts at the end; no other version compares; After the huge end solo, Jerry returns to the 'be with you' lyric mantra-style [3][14][20][21]\n- **China Cat Sunflower** (3 reviews): Reviewer especially remembers the China Cat into Rider pairing; Reviewer calls this the best China Cat into Rider since Brent's time [12][18][21]\n- **Good Morning Little Schoolgirl** (1 review, 1 other source): Huey Lewis plays harmonica on the Schoolgirl into Smokestack segment; Huey Lewis played harmonica on both Schoolgirl and Smokestack Lightning [2][11]\n- **Smokestack Lightning** (1 other source): Schoolgirl and Smokestack Lightning both time at exactly 5:33, which the uploader finds strange [3]\n- **Lazy River Road** (1 review): Reviewer praises the recording's quality on Lazy River Road, with Jerry's lyrics all clearly audible [15]\n- **Promised Land** (1 review): Reviewer says Promised Land burns, with standout keyboard work [12]\n- **The Last Time** (1 other source): Huey Lewis on harmonica also appears on Last Time, per the uploader's markings [4]\n\n## The recordings\n\n- **gd1993-08-21.fm.albright.87555.flac16** (recommended): FM broadcast; 21 songs; 165 min; rated 4.8/5 by 5 [1]\n- **gd1993-08-21.fob-schoeps.evans-waddell.87291.flac16**: source not stated; 18 songs; 148 min; rated 4.75/5 by 4 [3]\n- **gd1993-08-21.140172.fob.Schoeps-MK41.miller.sirmick.140172.flac.1648**: source not stated; 18 songs; 149 min; rated 4/5 by 1 [4]\n- **gd93-08-21.sbd.nawrocki.15035.sbeok.shnf**: soundboard; 18 songs; 139 min; rated 4.28/5 by 39 [5]. Said about its sound: Reviewer calls the soundboard superb, among the best-sounding shows in circulation [17]\n- **gd1993-08-21.sbd.serafin.11269.shnf**: pre-FM broadcast master; 18 songs; 136 min; rated 3/5 by 1 [7]\n\n## Around the show\n\n- Band had been off for a few months; Jerry had a new guitar and Weir had undergone vocal cord surgery [11]\n- A tape called Oregon Trail Mix played over the sound system just before Here Comes Sunshine opened the show [16]\n- Jerry sounds experimental and curious, which the reviewer attributes to his new guitar [17]\n- Indigo Girls opened the show [4]\n- Reviewer sees this show as a warm-up for the stronger performance the following night [11]\n- The 6/7/91 Standing On The Moon is ranked second, far behind this one [14]\n- First set is short, but the second set compensates [14]\n- The next day's show is equally great; Bob fills time while Jerry's guitar is out [17]\n\n## Tapers and lineage\n\n- **gd1993-08-21.fm.albright.87555.flac16**: taped by Mike Albright; source: FM Signal (KLCC 89.7) -> Harmon Kardon receiver -> HiFi Stereo VCR [1]\n- **gd1993-08-21.fob-schoeps.evans-waddell.87291.flac16**: taped by DAT Clone from Dat Master from collection of Todd Evans; transferred by Edited and Mastered By Jamie Waddell on the GEMS Edit Station; source: Mk2 Omni Capsules (the two mic stands were �human� � capsules were in hat and the �stands� were 10� apart) -> Schoeps Active Cables -> Schoeps CMC 3 Mic Body… [3]. Also: Described as the first audience recording of this show in digital circulation [3]\n- **gd1993-08-21.140172.fob.Schoeps-MK41.miller.sirmick.140172.flac.1648**: taped by Unknown; transferred by Charlie Miller and SIRMick; source: flac16/48kHz ; Source: (FOB) Schoeps MK41 > Panasonic SV-255 > dat(48k); Transfer: dat > Sony PCM-R500 > Tascam DA-3000> wav 16/48; Lineage: wav > iZotope RX6… [4]. Also: Taped with Schoeps MK41 microphones from the front of the board, transferred by Miller [4]\n- **gd93-08-21.sbd.nawrocki.15035.sbeok.shnf**: transferred by Doug Nawrocki; source: SBD > DAT > CDR > EAC > Cool Edit Pro 2.0 > CDWave > mkwACT [5]\n- **gd1993-08-21.sbd.serafin.11269.shnf**: transferred by Jay Serafin; source: SBD > Pre-FM RTR > ? > ILLEGAL BOOTLEG CD > D > SSSB [7]. Also: Soundboard source traced through a digital copy to an illegal bootlegged CD, then a further CD copy; Reference sections came from the uploader's Marin County soundboard source, seeded for the GDLive release [7]\n\n## Art and photos\n\n- Poster by Sameh Tawfik Grateful Dead: [1993-08-21 Autzen Stadium, U. of Oregon, Eugene, OR, USA - Jerry Garcia](https://jerrygarcia.com/show/1993-08-21-autzen-stadium-u-of-oregon-eugene-or-usa/) [29]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1993-08-21 Sat Autzen Stadium, University of Oregon, Eugene, OR](https://www.livegrateful.net/post/1403095660655/grateful-dead-1993-08-21-sat-autzen) [30]",

@@ -300,7 +300,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -315,13 +315,13 @@
     "date": "1994-10-05",
     "guests": [],
     "next": {
-     "date": "1995-02-21",
-     "show": "live:grateful-dead:1995-02-21:delta-center",
-     "venue": "Delta Center"
+     "date": "1994-10-06",
+     "show": "live:grateful-dead:1994-10-06:the-spectrum",
+     "venue": "The Spectrum"
     },
     "previous": {
-     "date": "1994-10-01",
-     "show": "live:grateful-dead:1994-10-01:boston-garden",
+     "date": "1994-10-03",
+     "show": "live:grateful-dead:1994-10-03:boston-garden",
      "venue": "Boston Garden"
     },
     "recommended": {
@@ -514,105 +514,277 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1994-10-02",
+        "show": "live:grateful-dead:1994-10-02:boston-garden"
+       },
+       "plays_before": 480,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1994-07-26",
+        "show": "live:grateful-dead:1994-07-26:riverport-amphitheatre"
+       },
+       "plays_before": 305,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1994-09-29",
+        "show": "live:grateful-dead:1994-09-29:boston-garden"
+       },
+       "plays_before": 87,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1994-09-18",
+        "show": "live:grateful-dead:1994-09-18:shoreline-amphitheatre"
+       },
+       "plays_before": 119,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1994-09-17",
+        "show": "live:grateful-dead:1994-09-17:shoreline-amphitheatre"
+       },
+       "plays_before": 127,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:lazy-river-road",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1994-09-28",
+        "show": "live:grateful-dead:1994-09-28:boston-garden"
+       },
+       "plays_before": 51,
+       "total_plays": 70
+      },
       "title": "Lazy River Road"
      },
      {
       "key": "song:grateful-dead:eternity",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1994-09-28",
+        "show": "live:grateful-dead:1994-09-28:boston-garden"
+       },
+       "plays_before": 32,
+       "total_plays": 47
+      },
       "title": "Eternity (1)"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-09-27",
+        "show": "live:grateful-dead:1994-09-27:boston-garden"
+       },
+       "plays_before": 430,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 549,
+       "gap_shows": 119,
+       "last_played": {
+        "date": "1993-04-04",
+        "show": "live:grateful-dead:1993-04-04:nassau-coliseum"
+       },
+       "plays_before": 43,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-09-27",
+        "show": "live:grateful-dead:1994-09-27:boston-garden"
+       },
+       "plays_before": 226,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1994-09-29",
+        "show": "live:grateful-dead:1994-09-29:boston-garden"
+       },
+       "plays_before": 621,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-09-27",
+        "show": "live:grateful-dead:1994-09-27:boston-garden"
+       },
+       "plays_before": 329,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1994-10-01",
+        "show": "live:grateful-dead:1994-10-01:boston-garden"
+       },
+       "plays_before": 613,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1994-10-03",
+        "show": "live:grateful-dead:1994-10-03:boston-garden"
+       },
+       "plays_before": 1560,
+       "total_plays": 1630
+      },
       "title": "Drums (2)"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1994-10-03",
+        "show": "live:grateful-dead:1994-10-03:boston-garden"
+       },
+       "plays_before": 1220,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1994-09-28",
+        "show": "live:grateful-dead:1994-09-28:boston-garden"
+       },
+       "plays_before": 265,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-09-27",
+        "show": "live:grateful-dead:1994-09-27:boston-garden"
+       },
+       "plays_before": 71,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1994-09-29",
+        "show": "live:grateful-dead:1994-09-29:boston-garden"
+       },
+       "plays_before": 601,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1994-07-29",
+        "show": "live:grateful-dead:1994-07-29:buckeye-lake-music-center"
+       },
+       "plays_before": 57,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn The Eskimo)"
      }
     ],
@@ -620,40 +792,60 @@
      {
       "from": "gd1994-10-05.schoeps.wklitz-jones.85225.flac1648",
       "key": "song:grateful-dead:midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1994-07-31",
+        "show": "live:grateful-dead:1994-07-31:the-palace"
+       },
+       "plays_before": 38,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "from": "gd1994-10-05.124410.C38B.roberts.flac16",
       "key": "song:grateful-dead:queen-jane",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1994-07-26",
+        "show": "live:grateful-dead:1994-07-26:riverport-amphitheatre"
+       },
+       "plays_before": 50,
+       "total_plays": 57
+      },
       "title": "Queen Jane"
      }
     ],
     "subject_key": "live:grateful-dead:1994-10-05:the-spectrum",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "In The Midnight Hour"
+     ],
      "first_in_archive": [],
-     "show_number": 1839,
-     "shows_in_archive": 1855,
+     "show_number": 2026,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Spectrum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.605668+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.479564+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "ESbl1v7Ql1lrrl7UEmFibsNXPJMWyY2r3u94Vsca9kbCfrihyoBnO_hKLEaikW3FADaRanbCN-KoKkwI5nmkBw",
+   "revision": 26,
+   "signature": "3dGD8DTrJxJ-adEDAmCtkvYqGFKLWqNwub_APZqgtNJcEBjnmO4R6GOe5ReGFCaVsVbtX8dUZbzM7Zzvyw3aDw",
    "subject_key": "live:grateful-dead:1994-10-05:the-spectrum",
-   "updated_at": "2026-10-25T16:42:19.606721"
+   "updated_at": "2026-10-25T17:35:28.480342"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cumberland Blues** (3 reviews): Cumberland Blues gallops along in the second set; The Midnight Hour into Cumberland Blues sequence is singled out as hot [9][11][15]\n- **Uncle John's Band** (3 reviews): The jam coming out of Uncle John's Band is described as interesting; The Uncle John's Band jam is called impressive [9][16][17]\n- **Drums (2)** (1 review, 1 other source): Jerry played a notable jam with the drummers through the drums segment; After Uncle John's Band the jam thins to Jerry with drummers, Jerry alone, then Bob alone, before rebuilding [4][14]\n- **Jack Straw** (1 review): Jack Straw features sweet, lyrical Garcia solos [16]\n- **Deal** (1 review): Deal runs about 13 minutes and builds in intensity, roughly twice the length of most jamming versions [9]\n- **The Mighty Quinn (Quinn The Eskimo)** (1 other source): The Mighty Quinn closes the show as the encore [4]\n\n## The recordings\n\n- **gd1994-10-05.aud.bleich.sirmick.79258.flac16** (recommended): audience recording; 19 songs; 156 min; rated 2.5/5 by 2 [1]. Said about its sound: Light noise reduction was applied to the second half of disc 2, which runs 80:34 [1]\n- **gd94-10-05.sbd.unknown.8030.sbeok.shnf**: soundboard; 18 songs; 152 min; rated 4.71/5 by 31 [5]. Said about its sound: The recording sounds very clean [16]\n- **gd1994-10-05.151083.dsbd.miller.flac1644**: soundboard; 18 songs; 163 min; rated 3.5/5 by 4 [2]\n- **gd1994-10-05.schoeps.wklitz-jones.85225.flac1648**: source not stated; 18 songs; 168 min; rated 4/5 by 3 [3]\n\n## Around the show\n\n- Jerry remained on stage through and after drums [8]\n- Reviewer ranks it among the best of 1994, behind only the 8/1/94 show [7]\n- Jerry had drawn criticism at Seattle and Eugene weeks earlier; this show answered it by having him stay onstage [8]\n- Jack Straw had already been played in Boston two shows (three nights) before this Spectrum night [8]\n- Judged the best of the three-night Spectrum stand that fall, with a solid setlist played well for 1994 [12]\n\n## Tapers and lineage\n\n- **gd1994-10-05.aud.bleich.sirmick.79258.flac16**: taped by John Bleich (taper section row 1  seat 19  Section 107); transferred by SirMick; source: aud > WMD-6 with Nak 300 shotguns > mac > wav > flac [1]\n- **gd94-10-05.sbd.unknown.8030.sbeok.shnf**: source: SBD > DAT > CDR [5]\n- **gd1994-10-05.151083.dsbd.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  December 7, 2020; source: SBD > DAT Master (Panasonic SV-3700/44.1k) > DAT (Panasonic SV-3800) [2]\n- **gd1994-10-05.schoeps.wklitz-jones.85225.flac1648**: taped by Keith Litzenberger & Roger Jones; source: Schoeps MK4's>Reutelhuber>Sony TCD-D10PROII [3]",

@@ -378,7 +378,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -394,13 +394,13 @@
     "guests": [],
     "next": {
      "date": "1978-04-11",
-     "show": "live:grateful-dead:1978-04-11:fox-theatre",
-     "venue": "Fox Theatre"
+     "show": "live:grateful-dead:1978-04-11:fox-theater",
+     "venue": "Fox Theater"
     },
     "previous": {
      "date": "1978-04-08",
      "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum",
-     "venue": "Veterans Memorial Coliseum"
+     "venue": "Veteran's Memorial Coliseum"
     },
     "recommended": {
      "identifier": "gd1978-04-10.bbd.15782.shnf",
@@ -682,113 +682,292 @@
     "setlist": [
      {
       "key": "song:grateful-dead:salt-lake-city",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Salt Lake City"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 190,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 164,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 556,
+       "gap_shows": 93,
+       "last_played": {
+        "date": "1976-10-01",
+        "show": "live:grateful-dead:1976-10-01:market-square-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 53,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 61,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 105,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 240,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 121,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 30,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:deer-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "deer story"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 86,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 72,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 210,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 53,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:dancin-in-the-streets",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 25
+      },
       "title": "Dancin In the Streets"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 345,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 38,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 94,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 133,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 76,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -796,70 +975,126 @@
      {
       "from": "gd1978-04-10.senn421.zimmerman.minches.81262.sbeok.flac16",
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-04",
+        "show": "live:grateful-dead:1978-04-04:cassell-coliseum-virginia-polytechnic"
+       },
+       "plays_before": 20,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "from": "gd1978-04-10.senn421.zimmerman.minches.81262.sbeok.flac16",
       "key": "song:grateful-dead:bobbys-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby's Story"
      },
      {
       "from": "gd1978-04-10.senn421.zimmerman.minches.81262.sbeok.flac16",
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-04",
+        "show": "live:grateful-dead:1978-04-04:cassell-coliseum-virginia-polytechnic"
+       },
+       "plays_before": 91,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "from": "gd1978-04-10.140836.sbd.miller.sirmick.flac1644",
       "key": "song:grateful-dead:weirs-lumberjack-story",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Weir's lumberjack story"
      },
      {
       "from": "gd1978-04-10.140836.sbd.miller.sirmick.flac1644",
       "key": "song:grateful-dead:weirs-deer-story",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Weir's deer story"
      },
      {
       "from": "gd1978-04-10.148538.betty.dalton.miller.sirmick.flac16",
       "key": "song:grateful-dead:weirs-deer-joke",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bob Weir's deer joke"
      },
      {
       "from": "gd1978-04-10.sbd.dodd.5259.shnf",
       "key": "song:grateful-dead:bobby-tells-a-joke",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby Tells A Joke"
      }
     ],
     "subject_key": "live:grateful-dead:1978-04-10:fox-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 670,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Salt Lake City",
+      "deer story"
+     ],
+     "show_number": 762,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fox Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 17,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.667122+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.397752+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "SV3UiT168NgQCxFD1MdXKQugepa2-2tQSY9KPTJSXMFJPi5T93vOubwzezMZF6J3LeIcPtSA1WvJE99baU-BBA",
+   "revision": 18,
+   "signature": "cnRZuhJ74riPaTaMNIffhIM7lZ48qFy3POiN1VzdXv2sCPZpxaXNDJeFPNRU4GGwXBGp9zD0OT964HJbCxtACg",
    "subject_key": "live:grateful-dead:1978-04-10:fox-theater",
-   "updated_at": "2026-10-25T16:41:51.668486"
+   "updated_at": "2026-10-25T17:35:15.398610"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Music Never Stopped** (3 reviews, 1 other source): Weir begins the first verse before Garcia's intro line, and Keith and the drummers are out of sync early; Around three minutes in, the band laughs about the fix, and Keith seems to push ahead of the beat [5][17][18][19]\n- **Candyman** (2 reviews): Garcia's vocals on Candyman are singled out as especially strong; Band laughter is audible once the song ends; Garcia's singing is praised here [12][16]\n- **Brown Eyed Women** (1 review): A drummer plays against the beat, making the song lurch and stutter, yet Garcia keeps the tempo [20]\n- **All Over Now** (1 review): Starts very quietly and tightens steadily, finishing like a runaway train; Keith and Jerry interact strongly in the second solo break, after the 'run around' verse [21]\n- **Cassidy** (1 review): Cassidy is named among the songs where Garcia plays and sings especially well [16]\n- **Franklin's Tower** (1 other source): The Nak shut down near the end of Franklin's Tower, so a patch was needed there [2]\n\n## The recordings\n\n- **gd1978-04-10.bbd.15782.shnf** (recommended): source not stated; 21 songs; 178 min; rated 4.71/5 by 7 [1]. Said about its sound: Uploader hears what seems an extra analog generation compared with the official masters [1]\n- **gd1978-04-10.senn421.zimmerman.minches.81262.sbeok.flac16**: source not stated; 21 songs; 187 min; rated 4/5 by 2 [2]\n- **gd78-04-10.sbd.miller.18098.sbeok.shnf**: soundboard; 22 songs; 177 min; rated 3.67/5 by 24 [3]. Said about its sound: Soundboard has faint background crackle, clipped songs and a volume problem; reviewer deleted it, preferring other copies; The mix is clear enough that the band can be heard laughing after Candyman; Recording is fabulous apart from a few minor clips here and there [14][16][19]\n- **gd1978-04-10.148538.betty.dalton.miller.sirmick.flac16**: soundboard; 21 songs; 176 min; rated 3/5 by 3 [5]\n\n## Around the show\n\n- Reviewer attended this as their first Dead show, at the Fox, and was glad to hear it again [10]\n- Lengthy tuning between songs disrupts the show's rhythm, according to the reviewer, who attended [19]\n- Reviewer hears a playful, mischievous spirit running through the whole show [20]\n- Reviewer calls the setlist unusual compared with other shows [12]\n\n## Tapers and lineage\n\n- **gd1978-04-10.bbd.15782.shnf**: source: Jace's source tape: MR>P1>D1 [1]. Also: Betty Board recordings of both Fox Theatre nights, April 10 and 11, 1978, not the official WBOTB masters [1]\n- **gd1978-04-10.senn421.zimmerman.minches.81262.sbeok.flac16**: taped by Alan Zimmerman; transferred by David Minches; source: 2 Sennheiser 421s (or 441s) + Sony 54P> passed through Nakamichi 550> Teac PC-10 (Maxell UD XLII-90s) [2]. Also: Audience recording made with a three-mic setup feeding a Nak 550, per Alan; Levels ran too high, making the Nak shut down temporarily at points, and most of the encore went unrecorded [2]\n- **gd78-04-10.sbd.miller.18098.sbeok.shnf**: source: Soundboard [3]. Also: Soundboard transferred via Charlie Miller from reel to PCM to DAT [3]\n- **gd1978-04-10.148538.betty.dalton.miller.sirmick.flac16**: taped by Betty Cantor;Tim Dalton; transferred by Sirmick and Charlie Miller; source: Source: SBD Master Reel (7\" two track @ 7 1/2 ips - recorded by Betty Cantor) > PCM501ES @ 44.055 kHz > DAT (44k) - From the Tim Dalton collection. [5]. Also: The Music Never Stopped and Franklin's Tower were patched from shnid 81262, thanks to Zimmerman and Minches [5]",

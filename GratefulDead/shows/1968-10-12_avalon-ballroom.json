@@ -314,7 +314,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -528,62 +528,170 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1968-09-02",
+        "show": "live:grateful-dead:1968-09-02:betty-nelsons-organic-raspberry-farm"
+       },
+       "plays_before": 15,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1968-09-20",
+        "show": "live:grateful-dead:1968-09-20:community-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1968-09-20",
+        "show": "live:grateful-dead:1968-09-20:community-theatre"
+       },
+       "plays_before": 15,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-10-10",
+        "show": "live:grateful-dead:1968-10-10:the-matrix"
+       },
+       "plays_before": 17,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1968-09-02",
+        "show": "live:grateful-dead:1968-09-02:betty-nelsons-organic-raspberry-farm"
+       },
+       "plays_before": 21,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-10-08",
+        "show": "live:grateful-dead:1968-10-08:the-matrix"
+       },
+       "plays_before": 20,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1968-09-02",
+        "show": "live:grateful-dead:1968-09-02:betty-nelsons-organic-raspberry-farm"
+       },
+       "plays_before": 21,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:new-potato-caboose",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1968-08-23",
+        "show": "live:grateful-dead:1968-08-23:shrine-auditorium"
+       },
+       "plays_before": 18,
+       "total_plays": 28
+      },
       "title": "New Potato Caboose"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-10-10",
+        "show": "live:grateful-dead:1968-10-10:the-matrix"
+       },
+       "plays_before": 15,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-10-10",
+        "show": "live:grateful-dead:1968-10-10:the-matrix"
+       },
+       "plays_before": 12,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-10-10",
+        "show": "live:grateful-dead:1968-10-10:the-matrix"
+       },
+       "plays_before": 15,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1968-09-02",
+        "show": "live:grateful-dead:1968-09-02:betty-nelsons-organic-raspberry-farm"
+       },
+       "plays_before": 17,
+       "total_plays": 51
+      },
       "title": "Feedback"
      }
     ],
@@ -591,13 +699,31 @@
      {
       "from": "gd1968-10-12.139745.sbd.miller.Glassberg.flac1644",
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 126,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1968-06-08",
+        "show": "live:grateful-dead:1968-06-08:carousel-ballroom"
+       },
+       "plays_before": 13,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "from": "gd1968-10-12.139745.sbd.miller.Glassberg.flac1644",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1968-09-02",
+        "show": "live:grateful-dead:1968-09-02:betty-nelsons-organic-raspberry-farm"
+       },
+       "plays_before": 15,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
@@ -605,26 +731,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 74,
-     "shows_in_archive": 1855,
+     "show_number": 88,
+     "shows_in_archive": 2097,
      "songs": 12,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Avalon Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.919752+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.544637+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "HqGvWWluwlaOuEwcKZ0fvJBusP0TYWAFPGvrDHUZYZbAMKkKzC-pHqaC_wCPdYNq2eQH3Ql6cpqs2_3OAXO-Cg",
+   "revision": 41,
+   "signature": "1xrt09lILuYAZx3t_rYLl-5dPQDk2LL1RTjn16mLESHmwLuZbWfjYOp_u6dUf4xoi-Sf8DFl9QGXBYn_TrzICQ",
    "subject_key": "live:grateful-dead:1968-10-12:avalon-ballroom",
-   "updated_at": "2026-10-25T16:41:38.921484"
+   "updated_at": "2026-10-25T17:35:09.545651"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Eleven** (2 reviews): The performance of The Eleven cooks in a way the reviewer has not heard before; The reviewer considers this one of their favorite versions of The Eleven yet [14][17]\n- **Death Don't Have No Mercy** (1 review): Jerry’s vocals on this track are rare and he really goes after it [14]\n- **Jam** (1 review): The jam following the drums is sufficient reason to download the recording [13]\n\n## The recordings\n\n- **gd68-10-12.sbd.eD.10909.sbeok.shnf** (recommended): soundboard; 12 songs; 79 min; rated 4.88/5 by 81 [1]. Said about its sound: The recording is described as raw, fluid, heavy, and tribal in its overall character; The audio is characterized as crystal clean, revealing the blazing glory within the music; Clarity of scratching, likely on a wood block, is trance-inducing during Jerry's lyrics [7][8][9][17][18]\n- **gd1968-10-12.139745.sbd.miller.Glassberg.flac1644**: soundboard; 10 songs; 91 min; rated 5/5 by 7 [4]\n- **gd1968-10-12.sbd.miller.86759.sbeok.flac16**: soundboard; 12 songs; 79 min; rated 4.79/5 by 48 [2]\n- **gd1968-10-12.sbd.gans.miller.owen.9385.shnf**: soundboard; 12 songs; 79 min; rated 4.83/5 by 6 [3]\n\n## Around the show\n\n- Audience members made stunned groans between furious volleys of lightning during the performance [8]\n- Jimi Hendrix showed up at the Avalon seeking a chance to jam with the Dead [10]\n- Jerry told the wild crowd to cool it, saying they would play until they dropped [11]\n- The reviewer considers this their all-time favorite version of the song [11]\n- The reviewer rates this as the best 1968 show they have heard to date [13]\n\n## Tapers and lineage\n\n- **gd68-10-12.sbd.eD.10909.sbeok.shnf**: transferred by David Gans and Frisco; source: Soundboard [1]. Also: The source was originally a mislabeled cassette tape from the era of physical trading [9]\n- **gd1968-10-12.139745.sbd.miller.Glassberg.flac1644**: taped by Barry Glassberg; transferred by Charlie Miller; source: SHNID #115593 > Adobe Audition 3.0 > Flac16 [4]. Also: Lee Michaels, Linn County, and Mance Lipscomb are listed as other artists on the source [4]\n- **gd1968-10-12.sbd.miller.86759.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (48k) [2]\n- **gd1968-10-12.sbd.gans.miller.owen.9385.shnf**: transferred by David Gans; source: MSR> DAT> Sonic Solutions> CD [3]",

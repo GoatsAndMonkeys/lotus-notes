@@ -253,7 +253,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -269,13 +269,13 @@
     "guests": [],
     "next": {
      "date": "1973-02-24",
-     "show": "live:grateful-dead:1973-02-24:ui-field-house-university-of-iowa",
-     "venue": "UI Field House, University Of Iowa"
+     "show": "live:grateful-dead:1973-02-24:university-of-iowa",
+     "venue": "University of Iowa"
     },
     "previous": {
      "date": "1973-02-21",
      "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois",
-     "venue": "Assembly Hall, University Of Illinois"
+     "venue": "Assembly Hall, University of Illinois"
     },
     "recommended": {
      "identifier": "gd1973-02-22.sbd.miller.111169.flac16",
@@ -407,105 +407,285 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 67,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 113,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 57,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 89,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-02-09",
+        "show": "live:grateful-dead:1973-02-09:roscoe-maples-pavilion-stanford-u"
+       },
+       "plays_before": 83,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:beer-barrel-polka",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 19
+      },
       "title": "Beer Barrel Polka"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 15,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-02-15",
+        "show": "live:grateful-dead:1973-02-15:dane-county-coliseum"
+       },
+       "plays_before": 87,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 23,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 153,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:wave-that-flag",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 3,
+       "total_plays": 15
+      },
       "title": "Wave That Flag"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 238,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-02-15",
+        "show": "live:grateful-dead:1973-02-15:dane-county-coliseum"
+       },
+       "plays_before": 157,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 4,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:china-doll",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-02-19",
+        "show": "live:grateful-dead:1973-02-19:international-amphitheatre"
+       },
+       "plays_before": 3,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 27,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 110,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-17",
+        "show": "live:grateful-dead:1973-02-17:st-paul-auditorium"
+       },
+       "plays_before": 82,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-02-21",
+        "show": "live:grateful-dead:1973-02-21:assembly-hall-university-of-illinois"
+       },
+       "plays_before": 241,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -513,7 +693,11 @@
      {
       "from": "gd73-02-22.pset2-sbd.carman.12215.sbeok.shnf",
       "key": "song:grateful-dead:beer-barrel-polka-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 10
+      },
       "title": "Beer Barrel Polka Tuning"
      }
     ],
@@ -521,26 +705,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 413,
-     "shows_in_archive": 1855,
+     "show_number": 492,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Assembly Hall, U. of Il."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 11,
+   "parent_revision": 23,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.875807+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.286407+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 12,
-   "signature": "vsV4RgAh7KDD-h8gfGPE0MGuKmeCCmM3QHYtA_ElJNUgGtvGKQdYftDO_2sGHQz9ur_b1RgqGKFV-bUZVXfRCA",
+   "revision": 24,
+   "signature": "A4IvXeMqWNZlVHDOPUpnOdv0E67CHG7cyt9YiRQxlQeWXODFPp4PiA-7CNG76ZZWUp1S2F3kZrF4nX6CJwnrBQ",
    "subject_key": "live:grateful-dead:1973-02-22:assembly-hall-u-of-il",
-   "updated_at": "2026-10-25T16:41:45.887546"
+   "updated_at": "2026-10-25T17:35:13.287419"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Playing In The Band** (3 reviews): Playin' is judged one of the best ever versions; Reviewer ranks this Playin' in their top ten of 100+ versions: supple, gentle, jazzy, a bit freaky [6][14][16]\n- **Dark Star** (3 reviews): Dark Star into Eyes Of The World is singled out as a standout, with fiery Eyes; Reviewer had a set-two soundboard tape years ago; the Dark Star alone won them over [5][8][14]\n- **They Love Each Other** (1 review): A jaunty They Love Each Other gets listeners dancing right away [8]\n- **Bird Song** (1 review): Bird Song is singled out as outstanding [9]\n- **China Doll** (1 review): China Doll is described as gorgeous and beautiful [5]\n- **Casey Jones** (1 review): The Casey Jones is called unbelievable [6]\n\n## The recordings\n\n- **gd1973-02-22.sbd.miller.111169.flac16** (recommended): soundboard; 20 songs; 153 min; rated 3.22/5 by 18 [1]\n- **gd73-02-22.pset2-sbd.carman.12215.sbeok.shnf**: soundboard; 19 songs; 136 min; rated 4.45/5 by 20 [2]\n- **gd1973-02-22.sbd.elliot.10963.sbeok.shnf**: soundboard; 18 songs; 136 min; rated 4.4/5 by 5 [3]. Said about its sound: Sound is tremendous, with every instrument clear [16]\n- **gd1973-02-22.sbd.hamilton.166.shnf**: soundboard; 10 songs; 88 min [4]. Said about its sound: There is some tape waver during Box Of Rain; Channels switch back and forth at the start of Dark Star, with a brief dropout at 4:53; A reel splice occurs at 1:32 in Goin' Down The Road Feeling Bad [4]\n\n## Around the show\n\n- New Riders of the Purple Sage opened and got the crowd on its feet earlier than usual [11]\n- Attendee recalls crowd energy and a tight band in great humor [11]\n- The band plays 18 songs for the Champaign-Urbana audience, not counting Beer Barrel Polka [15]\n- Donna mostly stays in the background, and her audible contributions are fairly good [16]\n- Dane County gets the tour's fanfare, but this show stands alone and is no weak imitation of it [6]\n- Reviewer says this spring tour was a highlight of the year; 2/15, 2/19 and 3/24 also have great jams [8]\n- Attendee also saw the Fox Theatre in St. Louis a week earlier and thought that show slightly better [11]\n- Like 2/15, this show has good transitions around Dark Star into Eyes Of The World [12]\n\n## Tapers and lineage\n\n- **gd1973-02-22.sbd.miller.111169.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat [1]\n- **gd73-02-22.pset2-sbd.carman.12215.sbeok.shnf**: source: Soundboard [2]. Also: This is a reworking of an earlier shn set, done by Randy Carman [2]\n- **gd1973-02-22.sbd.elliot.10963.sbeok.shnf**: source: SBD:MR>Cas>DAT>CD [3]. Also: Deadlists reportedly says the whole show except Around And Around exists on soundboard; four set-one songs are absent from this copy; Shntool shows tracks cut on sectors, but they carry non-canonical headers and extra baggage [3]\n- **gd1973-02-22.sbd.hamilton.166.shnf**: transferred by Greg Hamilton; source: MR > DAT > 1 cassette gen. > DAT > CDR 3x [4]",

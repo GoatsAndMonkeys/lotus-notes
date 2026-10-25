@@ -608,7 +608,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -654,8 +654,8 @@
     "guests": [],
     "next": {
      "date": "1990-03-18",
-     "show": "live:grateful-dead:1990-03-18:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1990-03-18:hartford-civic-center",
+     "venue": "Hartford Civic Center"
     },
     "previous": {
      "date": "1990-03-15",
@@ -1242,117 +1242,311 @@
     "setlist": [
      {
       "key": "song:grateful-dead:let-the-good-times-roll",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 23,
+       "total_plays": 49
+      },
       "title": "Let The Good Times Roll"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 147,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-10-22",
+        "show": "live:grateful-dead:1989-10-22:charlotte-coliseum"
+       },
+       "plays_before": 324,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 213,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 55,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 313,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 706,
+       "gap_shows": 146,
+       "last_played": {
+        "date": "1988-04-09",
+        "show": "live:grateful-dead:1988-04-09:the-centrum"
+       },
+       "plays_before": 110,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 248,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:blow-away",
-      "stats": {},
+      "stats": {
+       "days_since": 98,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1989-12-08",
+        "show": "live:grateful-dead:1989-12-08:great-western-la"
+       },
+       "plays_before": 21,
+       "total_plays": 26
+      },
       "title": "Blow Away"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 270,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 325,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 325,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1989-12-06",
+        "show": "live:grateful-dead:1989-12-06:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 201,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 134,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 463,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 1214,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 874,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 511,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 260,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 525,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:last-time",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 71
+      },
       "title": "The Last Time"
      },
      {
       "key": "song:grateful-dead:drops-or-cuts-in-blow-away-4-27-and",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drops or cuts in Blow Away @4:27 and"
      }
     ],
@@ -1360,88 +1554,182 @@
      {
       "from": "gd1990-03-16.neumann.mchugh.hanscom.32135.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 143,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1990-03-16.senn-hubbard.cpb.83791.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-10-22",
+        "show": "live:grateful-dead:1989-10-22:charlotte-coliseum"
+       },
+       "plays_before": 374,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1990-03-16.senn-hubbard.cpb.83791.flac16",
       "key": "song:grateful-dead:crown-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Crowd/tunng"
      },
      {
       "from": "gd1990-03-16.senn-hubbard.cpb.83791.flac16",
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 207,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "from": "gd1990-03-16.mtx.hansokolow.96549.flac16",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 147,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1990-03-16.mtx.hansokolow.fix-96549.97023.flac16",
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 208,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1989-08-20",
+        "show": "live:grateful-dead:1989-08-20:uptown-theater"
+       },
+       "plays_before": 361,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "from": "gd1990-03-16.aud.unknown.91782.flac16",
       "key": "song:grateful-dead:queen-jane",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-10-22",
+        "show": "live:grateful-dead:1989-10-22:charlotte-coliseum"
+       },
+       "plays_before": 26,
+       "total_plays": 57
+      },
       "title": "Queen Jane"
      },
      {
       "from": "gd1990-03-16.aud.unknown.91782.flac16",
       "key": "song:grateful-dead:itll-blow-away",
-      "stats": {},
+      "stats": {
+       "days_since": 342,
+       "gap_shows": 67,
+       "last_played": {
+        "date": "1989-04-08",
+        "show": "live:grateful-dead:1989-04-08:riverfront-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "It'll Blow Away"
      },
      {
       "from": "gd1990-03-16.aud.unknown.91782.flac16",
       "key": "song:grateful-dead:this-could-be-the-last-time",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 12
+      },
       "title": "This could be the last time"
      },
      {
       "from": "gd1990-03-16.Nak300CP4.Fitzy.Keo.125874.Flac1644",
       "key": "song:grateful-dead:blow-away-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 252,
+       "gap_shows": 47,
+       "last_played": {
+        "date": "1989-07-07",
+        "show": "live:grateful-dead:1989-07-07:john-f-kennedy-stadium"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Blow Away, Set Break"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-16:capital-centre",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1565,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Black Throated Wind"
+     ],
+     "first_in_archive": [
+      "drops or cuts in Blow Away @4:27 and"
+     ],
+     "show_number": 1670,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capital Centre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 21,
+   "parent_revision": 34,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.615917+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.158032+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 22,
-   "signature": "1WwWkjqlEa2d__9dmiT8fkcs9Z6ds-PQzeT8jtTVItlEryU1mamPJWHHg7dgoL45SScfof4qINF-4H1x01zZDw",
+   "revision": 35,
+   "signature": "JBHDAvR7LVPtOqL_nRpXjxCswmgu6ojY_Xw7ogsoYTgEENo8NqaWnGq9GlSlv4InSuv_u4lktOe2BN1aTGbBDw",
    "subject_key": "live:grateful-dead:1990-03-16:capital-centre",
-   "updated_at": "2026-10-25T16:42:11.617809"
+   "updated_at": "2026-10-25T17:35:25.160219"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1990-03-16.sbd.munder.tetzeli.fix-5227.76037.sbeok.flac16** (recommended): soundboard; 22 songs; 181 min; rated 4/5 by 1 [1]\n- **gd1990-03-16.nak300.juteau.116749.flac**: source not stated; 20 songs; 174 min; rated 5/5 by 1 [4]\n- **gd1990-03-16.mtx.hansokolow.96549.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 167 min; rated 4.56/5 by 9 [5]\n- **gd90-03-16.sbd.willy.5227.sbeok.shnf**: soundboard; 20 songs; 165 min; rated 4.17/5 by 30 [6]. Said about its sound: The set closer is completely trashed, though the recording is otherwise nice with minor glitches; A two-second dropout occurs, but the soundboard is crisp and the crowd noise is wild; The extended version is not as bad as it seemed, though the crowd is extremely excitable [20][23][29]\n- **gd1990-03-16.sbd.miller.85201.sbeok.flac16**: soundboard; 20 songs; 166 min; rated 3.83/5 by 6 [8]\n\n## Around the show\n\n- The crowd goes wild during the break, giving the show an audience source feel [23]\n- Audience left for facilities thinking it was halftime, then rushed back as the band returned [24]\n- Bobby sang the song beautifully after two nights featuring other surprises [25]\n- The lyrical re-write during the bust-out is awesome, and the crowd lights up with joy [27]\n- Eyes of the World appears briefly in the jam, causing the crowd to go nuts [28]\n- Brent and Jerry had great energy, and Jerry might have been playing the Wolf guitar [30]\n- The previous night was Phil's 50th birthday, released as a limited edition Tarrapin Station [31]\n\n## Tapers and lineage\n\n- **gd1990-03-16.sbd.munder.tetzeli.fix-5227.76037.sbeok.flac16**: transferred by Bill Tetzeli; source: Seamless and patched edit of shnid 5227 [1]. Also: SHNs converted to FLAC, SBEs cleaned with shntool, and overlap between CDs 2 and 3 deleted [1]\n- **gd1990-03-16.nak300.juteau.116749.flac**: transferred by Jeff Bowen;Brad Foster; source: Source: (OTS) Nakamichi cm300/cp4's > Sony TCD-D10; [4]. Also: The end of the song was patched using shnid 83791, and discs were extracted in secure mode [4]\n- **gd1990-03-16.mtx.hansokolow.96549.flac16**: source: Matrix mix (SBD/AUD) [5]. Also: Matrix created by hansokolow in ProTools from a soundboard source, with overlap between CDs 2 and 3 deleted [5]\n- **gd90-03-16.sbd.willy.5227.sbeok.shnf**: source: SBD > ? > CDR> WAV>SHN [6]\n- **gd1990-03-16.sbd.miller.85201.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat (44.1k) D [8]. Also: Sennheiser 4xx cassette master, transferred by Charles Bandrofcheck, with patch recorded by Jeff Hubbard [8]\n\n## Art and photos\n\n- Poster by Dave Goodwich: [30th Anniversary of The Grateful Dead's Spring 1990 Tour: The Capital Centre, Landover, MD 3/16/90 - Glide Magazine](https://glidemagazine.com/241539/30th-anniversary-of-grateful-deads-spring-1990-tour-3-16-90-the-capital-centre-landover-md/) [33]\n- Fan art by keyboardpiano: [Grateful Dead Terrapin Station Spring 1990 Capital Centre](https://www.keyboardpiano.org/products/grateful-dead-terrapin-station-spring-1990-capital.html) [34]",

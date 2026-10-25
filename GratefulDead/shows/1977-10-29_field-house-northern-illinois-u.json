@@ -342,7 +342,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -373,13 +373,13 @@
     "guests": [],
     "next": {
      "date": "1977-10-30",
-     "show": "live:grateful-dead:1977-10-30:assembly-hall-indiana-university",
-     "venue": "Assembly Hall - Indiana University"
+     "show": "live:grateful-dead:1977-10-30:assembly-hall-ind",
+     "venue": "Assembly Hall, Ind"
     },
     "previous": {
      "date": "1977-10-28",
      "show": "live:grateful-dead:1977-10-28:soldiers-and-sailors-memorial-hall",
-     "venue": "Soldier's And Sailors Memorial Hall"
+     "venue": "Soldiers' and Sailors' Memorial Hall"
     },
     "recommended": {
      "identifier": "gd1977-10-29.137373.mtx.dusborne.flac16",
@@ -631,120 +631,313 @@
     "setlist": [
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 179,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 22,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-14",
+        "show": "live:grateful-dead:1977-10-14:hofheinz-pavilion"
+       },
+       "plays_before": 195,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 90,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 109,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 159,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-14",
+        "show": "live:grateful-dead:1977-10-14:hofheinz-pavilion"
+       },
+       "plays_before": 230,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 116,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 57,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1977-10-01",
+        "show": "live:grateful-dead:1977-10-01:paramount-theater"
+       },
+       "plays_before": 53,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 72,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 169,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 160,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 87,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 46,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-10-11",
+        "show": "live:grateful-dead:1977-10-11:lloyd-noble-center-u-of-oklahoma"
+       },
+       "plays_before": 104,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 147,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1977-06-04",
+        "show": "live:grateful-dead:1977-06-04:the-forum"
+       },
+       "plays_before": 36,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 152,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:drums-bass-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drums & Bass Jam"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-28",
+        "show": "live:grateful-dead:1977-10-28:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 202,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 87,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 264,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-15",
+        "show": "live:grateful-dead:1977-10-15:moody-coliseum-s-m-u"
+       },
+       "plays_before": 144,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -752,52 +945,91 @@
      {
       "from": "gd1977-10-29.ecm990.maizner.miller.108010.flac16",
       "key": "song:grateful-dead:drums-bass",
-      "stats": {},
+      "stats": {
+       "days_since": 494,
+       "gap_shows": 82,
+       "last_played": {
+        "date": "1976-06-22",
+        "show": "live:grateful-dead:1976-06-22:tower-theatre"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Drums/Bass"
      },
      {
       "from": "gd1977-10-29.sbd.cribbs.28613.sbeok.flac16",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-28",
+        "show": "live:grateful-dead:1977-10-28:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 321,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "from": "gd1977-10-29.148908.betty-board.anon.noel.t-flac16",
       "key": "song:grateful-dead:drums-and-bass",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1763,
+       "gap_shows": 242,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "Drums & Bass"
      },
      {
       "from": "gd77-10-29.maizner.vernon.8035.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-16",
+        "show": "live:grateful-dead:1977-10-16:assembly-center-lousiana-state-u"
+       },
+       "plays_before": 48,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1977-10-29:field-house-northern-illinois-u",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 637,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Drums & Bass Jam"
+     ],
+     "show_number": 729,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Field House, Northern Illinois U"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 27,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.044488+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.171919+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 28,
-   "signature": "PTCmwCv_3nCDWpeKk7SUqU_w5JOg-D2qiQrYj36IJxWxBxEnofQXFwS5qn7-lTpCc0OqzyrjHYrlXyHIJ2V0Bg",
+   "revision": 40,
+   "signature": "N8DDorwcl5A9bS_l4AcTZ1pW8yIKtu8dH_ISSPQ5FTTEr59xI0HAIA5kY5OQIpc7lIQUwdCWHVAMLZSirgq0AA",
    "subject_key": "live:grateful-dead:1977-10-29:field-house-northern-illinois-u",
-   "updated_at": "2026-10-25T16:41:51.047050"
+   "updated_at": "2026-10-25T17:35:15.172767"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): Clipped near the end of the jam before the final verse; Reviewer identifies this as their favorite track from the show [10][13][19]\n- **Sugar Magnolia** (2 reviews): Languid exploratory Eyes leads to a textured space jam; Performance is described as a slammin' but short rendition [12][15]\n- **Estimated Prophet** (1 review): Jerry wails on the wah during the outro jam [9]\n- **Eyes Of The World** (1 review): Slower tempo allows Jerry and Phil to build melodious lines [9]\n- **Black Peter** (1 review): Performance is characterized as sublime [19]\n\n## The recordings\n\n- **gd1977-10-29.137373.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 200 min; rated 4.67/5 by 3 [1]\n- **gd1977-10-29.sbd.cribbs.28613.sbeok.flac16**: soundboard; 22 songs; 176 min; rated 4.71/5 by 7 [4]. Said about its sound: A splice is present in the Good Lovin' recording [20]\n- **gd1977-10-29.148908.betty-board.anon.noel.t-flac16**: soundboard; 22 songs; 181 min; rated 4.5/5 by 2 [6]\n- **gd77-10-29.maizner.vernon.8035.sbeok.shnf**: audience recording; 22 songs; 176 min; rated 4.69/5 by 16 [7]. Said about its sound: File is slightly smaller, possibly due to faster tracking speed [11]\n\n## Around the show\n\n- Drum break occurs between the molten Sugar Mag and Saint Stephen [12]\n- Reviewer lived in DeKalb and attended the concert in person [13]\n- Audience was primarily NIU students, not a typical Dead crowd [14]\n- Crowd stood for the first notes of Bertha and never sat down [14]\n- Reviewer calls it the happiest day of Phil's life [6]\n\n## Tapers and lineage\n\n- **gd1977-10-29.137373.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by Dusborne; Soundboard (shnid:92085) Recording Info: SBD -> Master Reel -> PCM -> Dat -> CDTransfer Info:CD -> Samplitude Professional v10.02… [1]\n- **gd1977-10-29.sbd.cribbs.28613.sbeok.flac16**: transferred by Sean Cribbs; source: MSR>PCM>DAT>CDx?>EAC>WAV>FLAC [4]\n- **gd1977-10-29.148908.betty-board.anon.noel.t-flac16**: taped by Betty Cantor; transferred by PCM clone provided by anonymous Edited & Mastered using Adobe Audition by Joe Noel; source: Betty SBD > Reel Master > PCM > pcm clone [6]. Also: Eyes patch source was remastered to blend with the main tape; Steve Maizner recorded the show; Charlie Miller is thanked [6]\n- **gd77-10-29.maizner.vernon.8035.sbeok.shnf**: taped by Steve Maizner; source: Audience Recording: Sony ECM-990s [7]\n\n## Art and photos\n\n- Fan art by diskunion.net: [DAVE'S PICK VOLUME 33 EVANS FIELD HOUSE, N. ILLINOIS UNIVERSITY, DEKALB, IL 10/29/77 / GRATEFUL DEAD / グレイトフル・デッド / オールド](https://diskunion.net/rock/ct/detail/DFS230222-074) [22]",

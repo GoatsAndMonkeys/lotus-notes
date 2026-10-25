@@ -251,7 +251,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -286,8 +286,8 @@
      "venue": "International Speedway"
     },
     "previous": {
-     "date": "1969-12-19",
-     "show": "live:grateful-dead:1969-12-19:fillmore-auditorium",
+     "date": "1969-12-21",
+     "show": "live:grateful-dead:1969-12-21:fillmore-auditorium",
      "venue": "Fillmore Auditorium"
     },
     "recommended": {
@@ -390,105 +390,270 @@
     "setlist": [
      {
       "key": "song:grateful-dead:monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 44
+      },
       "title": "The Monkey And The Engineer"
      },
      {
       "key": "song:grateful-dead:little-sadie",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Little Sadie"
      },
      {
       "key": "song:grateful-dead:long-black-limousine",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Long Black Limousine"
      },
      {
       "key": "song:grateful-dead:all-around-this-world",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "All Around This World"
      },
      {
       "key": "song:grateful-dead:masters-bouquet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Master's Bouquet"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-21",
+        "show": "live:grateful-dead:1969-12-21:fillmore-auditorium"
+       },
+       "plays_before": 9,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drum-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drum tuning/"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 28,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 32,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 31,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-12-20",
+        "show": "live:grateful-dead:1969-12-20:fillmore-auditorium"
+       },
+       "plays_before": 34,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 41,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-21",
+        "show": "live:grateful-dead:1969-12-21:fillmore-auditorium"
+       },
+       "plays_before": 32,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-12-20",
+        "show": "live:grateful-dead:1969-12-20:fillmore-auditorium"
+       },
+       "plays_before": 32,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 38,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-11",
+        "show": "live:grateful-dead:1969-12-11:thelma-theater"
+       },
+       "plays_before": 88,
+       "total_plays": 223
+      },
       "title": "Dark Star//"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-12-20",
+        "show": "live:grateful-dead:1969-12-20:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 54
+      },
       "title": "//New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-12-20",
+        "show": "live:grateful-dead:1969-12-20:fillmore-auditorium"
+       },
+       "plays_before": 97,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:stage-announcment",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "stage announcment"
      }
     ],
@@ -496,40 +661,57 @@
      {
       "from": "gd69-12-26.sbd.murphy.1821.sbeok.shnf",
       "key": "song:grateful-dead:ive-been-all-around-this-world",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 24
+      },
       "title": "I've Been All Around This World"
      },
      {
       "from": "gd69-12-26.sbd.murphy.1821.sbeok.shnf",
       "key": "song:grateful-dead:gathering-flowers-for-the-masters-bouquet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gathering Flowers for the Master's Bouquet"
      }
     ],
     "subject_key": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 171,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "The Master's Bouquet",
+      "drum tuning/",
+      "stage announcment"
+     ],
+     "show_number": 208,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "McFarlin Auditorium, S.M.U."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.597414+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.294564+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "Ag9UlXGmegXoou9p_LXtREoAG4L7BHw2u2ya8uu6Ks1S0aslytekcuQ0VfhuaIWUBpJjYPZ9PnVRhNM89G40Cw",
+   "revision": 39,
+   "signature": "Cv7_qvP-gNn_Qd2h77m7mTpobEwuEQ2lGPejThoNYrndHW0UQNj-uykGQDWDtxT_8o-Rblfzm98z3_7v-AoTBA",
    "subject_key": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u",
-   "updated_at": "2026-10-25T16:41:39.598753"
+   "updated_at": "2026-10-25T17:35:10.295522"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star//** (2 reviews): The performance did not gain significant energy until the second half of the song; Jerry seemed frustrated, preventing the band from finding their mojo during this performance [4][8]\n- **//New Speedway Boogie** (1 review): The song features unusual backing vocals, following a cut from the end of Dark Star [11]\n\n## The recordings\n\n- **gd1969-12-26.sbd.warner-evans.28448.sbeok.flac16** (recommended): soundboard; 20 songs; 124 min; rated 4.2/5 by 15 [1]. Said about its sound: The Dark Star splices to New Speedway Boogie, likely missing about four minutes of material [1]\n- **gd69-12-26.sbd.murphy.1821.sbeok.shnf**: soundboard; 17 songs; 122 min; rated 4.24/5 by 25 [2]. Said about its sound: Acoustic guitars are clear, though the recording feels solid but short overall; The recording cuts out during Cold Rain And Snow and chops China Cat; The sound quality is described as nice for this historical recording [4][6][7][14]\n- **gd1969-12-26.136636.electric.sbd.mr.cass.sirmick.flac1648**: soundboard; 10 songs; 79 min; rated 2/5 by 2 [3]\n\n## Around the show\n\n- Bobby and Jerry played acoustic standards while waiting for Billy, who arrived late [4]\n- Bill arrived late due to Christmas, prompting an unexpected acoustic first set [5]\n- The band waited for Bill to arrive, performing gospel and country standards [6]\n- Billy was late, leading to what the reviewer calls the first official acoustic performance [7]\n- A fourteen-year-old attended their first concert here, finding the event life-changing [12]\n- The show was a stopover on the way to the East Coast from California [14]\n- The first set was fantastic, while the energy for the rest was only okay [5]\n- This show and the Fillmore show both claim to be the first acoustic set [9]\n- This show is better than the December 19th set because it is longer [11]\n- An April 1969 Avalon show also opened in acoustic mode, featuring Jerry on vocals [13]\n\n## Tapers and lineage\n\n- **gd1969-12-26.sbd.warner-evans.28448.sbeok.flac16**: transferred by Jack Warner, Marc Evans, Jim Powell; source: MSR> CASS> DAT> CDR> EAC> FLAC [1]. Also: Defects in Cold Rain and China Cat were corrected using a second-generation cassette source [1]\n- **gd69-12-26.sbd.murphy.1821.sbeok.shnf**: transferred by Bob Murphy; source: Soundboard [2]. Also: Cuts exist at China Cat, Dark Star, and New Speedway Boogie on all circulating versions [2]\n- **gd1969-12-26.136636.electric.sbd.mr.cass.sirmick.flac1648**: taped by Anonomous; transferred by SIRMick; source: flac16/48kHz ; Set 2 Source: sbd > Master Reel > Cassette > Dat (48k) [3]\n\n## Art and photos\n\n- Poster by gocollect.com: [Grateful Dead SMU McFarlin Auditorium 1969 Value - GoCollect](https://gocollect.com/concert-poster/grateful-dead-at-smu-mcfarlin-auditorium-1969) [17]",

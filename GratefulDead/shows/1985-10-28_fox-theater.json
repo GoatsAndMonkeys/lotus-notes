@@ -768,7 +768,7 @@
      "id": 38,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1596,112 +1596,287 @@
      {
       "key": "song:grateful-dead:sugaree",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-09-06",
+        "show": "live:grateful-dead:1985-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 264,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:kansas-city",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Kansas City"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 183,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 74,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 209,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 214,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-09-12",
+        "show": "live:grateful-dead:1985-09-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 169,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 313,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 216,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-11",
+        "show": "live:grateful-dead:1985-09-11:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 61,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:man-smart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 83,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-11",
+        "show": "live:grateful-dead:1985-09-11:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 159,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 901,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 564,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 391,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 31,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightnin'"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-11",
+        "show": "live:grateful-dead:1985-09-11:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 193,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-15",
+        "show": "live:grateful-dead:1985-09-15:devore-field-southwestern-u"
+       },
+       "plays_before": 318,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-09-11",
+        "show": "live:grateful-dead:1985-09-11:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 355,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 50,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -1709,94 +1884,181 @@
      {
       "from": "gd1985-10-28.158504.mtx.seamons.ht145.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-10-26",
+        "show": "live:grateful-dead:1985-10-26:sun-dome"
+       },
+       "plays_before": 83,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1985-10-28.senn421.koucky.gmb.88862.sbeok.flac16",
       "key": "song:grateful-dead:bob-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bob Jam"
      },
      {
       "from": "gd1985-10-28.senn421.koucky.gmb.88862.sbeok.flac16",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-09-10",
+        "show": "live:grateful-dead:1985-09-10:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 47,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1985-10-28.nak300.cohen.104706.sbeok.flac16",
       "key": "song:grateful-dead:row-jimmy-row",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1857,
+       "gap_shows": 383,
+       "last_played": {
+        "date": "1980-09-27",
+        "show": "live:grateful-dead:1980-09-27:warfield-theater"
+       },
+       "plays_before": 8,
+       "total_plays": 21
+      },
       "title": "Row Jimmy Row"
      },
      {
       "from": "gd1985-10-28.nak300.cohen.104706.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 383,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "from": "gd1985-10-28.128757.schoeps.oade.BCE.flac16",
       "key": "song:grateful-dead:crowd-and-false-start",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "crowd/false start"
      },
      {
       "from": "gd85-10-28.schoeps.nawrocki.13566.sbeok.shnf",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 53,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd85-10-28.schoeps.nawrocki.13566.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 41,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1985-10-28.119947.sony.roberts.flac16",
       "key": "song:grateful-dead:drums-w-bobby",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drums w/ Bobby"
      },
      {
       "from": "gd1985-10-28.119947.sony.roberts.flac16",
       "key": "song:grateful-dead:round-and-round",
-      "stats": {},
+      "stats": {
+       "days_since": 107,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 5,
+       "total_plays": 8
+      },
       "title": "Round And Round"
      },
      {
       "from": "gd85-10-28.s2.sbd.bubba420.18250.sbeok.shnf",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 22,
+       "total_plays": 55
+      },
       "title": "Drums/Space"
      }
     ],
     "subject_key": "live:grateful-dead:1985-10-28:fox-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1244,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Kansas City"
+     ],
+     "show_number": 1347,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fox Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.773644+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.925506+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "ayxzs9KmCS89mHe3A4-rXlGh72ZEKUBbteafOh5tqBZwbyo4HoFRFEBiJccK0zXjQ7Ceb49DfqbPA6EdUQ0dBQ",
+   "revision": 42,
+   "signature": "meAMPjpYRnD17vYJ5ar5hmASwUAKAqgVyVb8TqbcsCQrtVVw4MLQ6LZkP6NY9dEJ5Fx4ilmLYfzH6K1o-TnKAQ",
    "subject_key": "live:grateful-dead:1985-10-28:fox-theater",
-   "updated_at": "2026-10-25T16:42:00.775767"
+   "updated_at": "2026-10-25T17:35:20.927702"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (1 review): Listener describes this performance of Sugaree as the best they have ever heard [29]\n- **Scarlet Begonias** (1 review): Reviewer praises the transition from Scarlet Begonias into Touch Of Grey, noting the crowd's reaction [30]\n- **Good Lovin'** (1 review): Reviewer praises the second set, specifically the sequence from Terrapin Station through Good Lovin' [28]\n- **Bob Jam** (1 review): Listener highlights the performance of Bob Jam as the start of the show's best parts [26]\n\n## The recordings\n\n- **gd1985-10-28.sbd.walker-scotton.miller.105882.flac16** (recommended): soundboard; 20 songs; 144 min; rated 4.38/5 by 8 [1]\n- **gd1985-10-28.sbd.miller.77370.sbeok.flac16**: soundboard; 20 songs; 141 min; rated 4.5/5 by 2 [2]\n- **gd1985-10-28.158504.mtx.seamons.ht145.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 144 min; rated 4.33/5 by 3 [3]\n- **gd1985-10-28.154408.sbd.cm.miller.t.flac16**: soundboard; 20 songs; 143 min [4]\n- **gd1985-10-28.set2-33P.moore.acohen.88156.flac16**: source not stated; 13 songs; 83 min; rated 1.5/5 by 4 [21]. Said about its sound: Reviewer notes excessive high end and tinny, speaker-crackling quality in this audience recording [25]\n\n## Around the show\n\n- Reviewer recalls attending with friends in a small, well-appointed venue in Atlanta [32]\n- Kansas City Royals were in the World Series during this performance [3]\n- Kansas City Royals were in the World Series during this performance [4]\n\n## Tapers and lineage\n\n- **gd1985-10-28.sbd.walker-scotton.miller.105882.flac16**: taped by Joani Walker and Paul Scotton; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D5/Maxell MX90) [1]. Also: Tapes provided by Joani Walker and Paul Scotton; pitch corrected by Joe B. Jones [1]\n- **gd1985-10-28.sbd.miller.77370.sbeok.flac16**: taped by Paul Scotton and Joani Walker; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D5/Maxell MX90) [2]. Also: Cassettes from Paul Scotton and Joani Walker; second set sounds better than the first [2]\n- **gd1985-10-28.158504.mtx.seamons.ht145.flac16**: source: Matrix by Hunter Seamons using Final Cut Pro (FLAC/24 > AIFF > Final Cut w/EQ > AIFF CD tracking via Audacity w/dither > FLAC/16 via xACT w/meta-tagging)… [3]. Also: Doug Oade's audience recording patches breaks; EQ matches the October 29th matrix [3]\n- **gd1985-10-28.154408.sbd.cm.miller.t.flac16**: taped by Joani Walker and Paul Scotton; transferred by All Transfers and Mastering by Charlie Miller  August 22, 2021; source: SBD > Cassette Master (Sony TC-D5M/Dolby B/Maxell MX90) [4]\n- **gd1985-10-28.set2-33P.moore.acohen.88156.flac16**: taped by Jerry Moore; transferred by Anne Cohen, May 2007.; source: 2 Sony ECM-33P's > Sony TC-D5M (Dolby B)Maxell MX90 cassette [21]",

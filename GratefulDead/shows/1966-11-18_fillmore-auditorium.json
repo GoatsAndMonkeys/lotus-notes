@@ -107,7 +107,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -232,43 +232,105 @@
      {
       "key": "song:grateful-dead:track-tape",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Track Tape (Pioneer HR-99)"
      },
      {
       "key": "song:grateful-dead:focusrite-2i2",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Focusrite 2i2"
      },
      {
       "key": "song:grateful-dead:same-thing",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-09-16",
+        "show": "live:grateful-dead:1966-09-16:avalon-ballroom"
+       },
+       "plays_before": 1,
+       "total_plays": 51
+      },
       "title": "The Same Thing"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 111,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:nobodys-fault-but-mine",
-      "stats": {},
+      "stats": {
+       "days_since": 124,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1966-07-17",
+        "show": "live:grateful-dead:1966-07-17:fillmore-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 25
+      },
       "title": "Nobody's Fault But Mine"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 111,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 8,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 111,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 11,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-09-16",
+        "show": "live:grateful-dead:1966-09-16:avalon-ballroom"
+       },
+       "plays_before": 6,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -276,34 +338,46 @@
      {
       "from": "gd1966-11-18.169606.sbd-partial-newtransfer-pc.flegel.flac1648",
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 111,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues //"
      }
     ],
     "subject_key": "live:grateful-dead:1966-11-18:fillmore-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 27,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Track Tape (Pioneer HR-99)",
+      "Focusrite 2i2"
+     ],
+     "show_number": 33,
+     "shows_in_archive": 2097,
      "songs": 8,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.503078+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.255072+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "um2D5mWJxK8XgAv_rMiRjcpPyuuqMtLQLE1sM8LbJNul57cTudiZcgqo7sRDcO5asbGdhwwUuFc2gbKpnis2Dw",
+   "revision": 40,
+   "signature": "wY0MKJymfDNmLCFRWUcZA5G2dwUKfWJVPP-1_M_akgSdqF0tYiU_yOocKXiNJAT-kw8BVBVmwKV_VgpovPtgCA",
    "subject_key": "live:grateful-dead:1966-11-18:fillmore-auditorium",
-   "updated_at": "2026-10-25T16:41:38.503985"
+   "updated_at": "2026-10-25T17:35:09.255591"
   }
  },
  "recommended": {

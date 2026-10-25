@@ -322,7 +322,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -353,8 +353,8 @@
     "guests": [],
     "next": {
      "date": "1977-09-28",
-     "show": "live:grateful-dead:1977-09-28:paramount-theatre",
-     "venue": "Paramount Theatre"
+     "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater",
+     "venue": "Paramount Northwest Theater"
     },
     "previous": {
      "date": "1977-06-09",
@@ -551,102 +551,277 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-06-04",
+        "show": "live:grateful-dead:1977-06-04:the-forum"
+       },
+       "plays_before": 176,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 79,
+       "total_plays": 232
+      },
       "title": "The Love Each Other"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 105,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 317,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 84,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 104,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 37,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 41,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 81,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 54,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 163,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 153,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 154,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 37,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 99,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:radio-talk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio Talk"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 68,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 85,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 195,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 706,
+       "gap_shows": 85,
+       "last_played": {
+        "date": "1975-09-28",
+        "show": "live:grateful-dead:1975-09-28:lindley-meadows-golden-gate-park"
+       },
+       "plays_before": 223,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      }
     ],
@@ -654,46 +829,75 @@
      {
       "from": "gd1977-09-03.131317.mtx.dusborne.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 79,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1977-09-03.131317.mtx.dusborne.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 51,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1977-09-03.aud.stiegler.91230.sbeok.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-06-07",
+        "show": "live:grateful-dead:1977-06-07:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      }
     ],
     "subject_key": "live:grateful-dead:1977-09-03:raceway-park",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 623,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Radio Talk"
+     ],
+     "show_number": 715,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Raceway Park"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.814064+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.094318+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "18yaf06-puPoRcUHLU0IBBYNqTf_q-0q8J0GkHQAIndc8_DhFixJXfxJaZToMbmCNdrkkz1J-6Wfd3Nlz7M1AQ",
+   "revision": 41,
+   "signature": "z4lFnjh1nYXwNJnpzmzWprz-oa2_Y2RRZjhJ47qzMviC-jaqacNb_nz6Ml4cuARaedVL3trmSvAheeAKbq_3CQ",
    "subject_key": "live:grateful-dead:1977-09-03:raceway-park",
-   "updated_at": "2026-10-25T16:41:50.816669"
+   "updated_at": "2026-10-25T17:35:15.095170"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mississippi Half Step** (1 review): Reviewer considers this performance one of the year's greatest, alongside May 7 and June 9 [7]\n- **Estimated Prophet** (1 review): The jam into Eyes is cited as one of the best heard by the reviewer [8]\n- **Eyes of the World** (1 review): The reviewer singles out this jam as particularly amazing during the concert [7]\n- **He's Gone** (1 review): Reviewer calls this performance one of the best they have heard from the band [12]\n- **Not Fade Away** (1 review): High-energy performance features a ten-minute instrumental jam before vocals begin [8]\n\n## The recordings\n\n- **gd77-09-03.sbd.unk.276.sbefixed.shnf** (recommended): soundboard; 20 songs; 171 min; rated 4.51/5 by 53 [1]\n- **gd1977-09-03.aud.wagner.minches.91650.flac16**: audience recording; 19 songs; 196 min; rated 4.29/5 by 14 [5]\n- **gd1977-09-03.131317.mtx.dusborne.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 199 min; rated 4.08/5 by 13 [2]\n- **gd1977-09-03.aud.102409.flemming.berger.flac24**: audience recording; 19 songs; 193 min; rated 4.74/5 by 23 [3]\n\n## Around the show\n\n- Donna performs a great shriek after the first verse of the song [8]\n- Attendees had to park miles away and walk to the venue entrance [11]\n- The band played for an audience of more than 150,000 people [12]\n- The day was the hottest and thirstiest the reviewer had ever experienced [14]\n- Helicopters were present amidst the total mayhem of that day [14]\n- 110,000 people attended in a muddy field with temperatures in the high 90s [16]\n- The band left the stage after a few tunes to take salt tablets [16]\n- Pregnant women were lifted out by a helicopter due to the sea of mud [18]\n- Reviewer suggests trying June 8, 1977, for a better Eyes of the World performance [16]\n\n## Tapers and lineage\n\n- **gd77-09-03.sbd.unk.276.sbefixed.shnf**: source: Soundboard [1]. Also: The show was simulcast over FM, resulting in many good tapes circulating for years; Two-track pre-FM reel transferred to DAT and then CD-R, except for the encore; Disc one, track one and two are apparently really from April 27, 1977 [1][11]\n- **gd1977-09-03.aud.wagner.minches.91650.flac16**: taped by Bob Wagner; transferred by David Minches; source: 2 Sony ECM 270s> Sony TC-158 [5]. Also: Unknown mics recorded to JVC KD-1636 portable cassette deck using Maxell UD-90 cassettes [5]\n- **gd1977-09-03.131317.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by Dusborne; Soundboard (shnid:000276) Source: Two-track Pre-FM reel > DAT > CD-R, except for (terrapin), which is unknown AUD and Audience… [2]\n- **gd1977-09-03.aud.102409.flemming.berger.flac24**: taped by Ken Flemming; transferred by Rob Berger; source: aud cassette master, tc-153, maxell ud-c90's, dolby b [3]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Raceway Park - September 3, 1977](https://www.dead.net/show/september-3-1977) [20]",

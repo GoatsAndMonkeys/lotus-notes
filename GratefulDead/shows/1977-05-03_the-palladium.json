@@ -303,7 +303,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -588,123 +588,339 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 169,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 150,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 314,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 26,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 926,
+       "gap_shows": 89,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 177,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-27",
+        "show": "live:grateful-dead:1977-04-27:capitol-theater"
+       },
+       "plays_before": 109,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 34,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 28,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 150,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 142,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 43,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 21,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 15,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 167,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 53,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 74,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 91,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 123,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 33,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 99,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 292,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-30",
+        "show": "live:grateful-dead:1977-04-30:the-palladium"
+       },
+       "plays_before": 184,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 103,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 143,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -712,151 +928,256 @@
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t01 Crowd"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t02-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t02 Promised Land"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t03-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t03 Bertha"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t04-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t04 Me & My Uncle"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t05-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t05 Peggy O"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t06-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t06 Jack Straw"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t07-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t07 Row Jimmy"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t08-lazy-lightning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t08 Lazy Lightning"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t09-supplication",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t09 Supplication"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t10-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t10 Deal"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t11-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t11 Good Lovin'"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t12-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t12 Ship Of Fools"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t13-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t13 The Music Never Stopped"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t14-might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t14 Might As Well"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t15-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t15 Estimated Prophet"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t16-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t16 Sugaree"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t17-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t17 Samson & Delilah"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t18-friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t18 Friend Of The Devil"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t19-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t19 Eyes Of The World"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t20-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t20 Wharf Rat"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t21-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t21 Drums"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t22-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t22 Not Fade Away"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t23-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t23 Around & Around"
      },
      {
       "from": "gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-03-t24-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-03 t24 Uncle John's Band"
      },
      {
       "from": "gd1977-05-03.aud.gorinsky.6710.sbeok.shnf",
       "key": "song:grateful-dead:lazy-lightening",
-      "stats": {},
+      "stats": {
+       "days_since": 334,
+       "gap_shows": 58,
+       "last_played": {
+        "date": "1976-06-03",
+        "show": "live:grateful-dead:1976-06-03:paramount-theatre"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Lazy Lightening"
      }
     ],
@@ -864,26 +1185,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 601,
-     "shows_in_archive": 1855,
+     "show_number": 693,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Palladium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.180199+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.911171+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "a3jNyOG8lQDcG2RxEf-Q1vC2RCT_pkAaINasaGlEX8tP6QznPqyRF88RBYADYRDbOnqXWcw55bgWsxgnxS0DCg",
+   "revision": 42,
+   "signature": "qdHLWjixzzu6s7jKHb41AipugSsa72trrZAoZC4BOcjyF_Ws4nFeIrQR4ZyamU1152Z1-URHGFQ7riV9u-i-Dw",
    "subject_key": "live:grateful-dead:1977-05-03:the-palladium",
-   "updated_at": "2026-10-25T16:41:50.185339"
+   "updated_at": "2026-10-25T17:35:14.912134"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (1 review): Review highlights the strong performance of Sugaree and the subsequent final jam sequence [4]\n- **Row Jimmy** (1 review): Garcia's second bridge break into the verse is highlighted as a key moment [10]\n\n## The recordings\n\n- **gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644** (recommended): audience recording; 24 songs; 190 min; rated 3/5 by 1 [1]\n- **gd1977-05-03.aud.glassberg.motb.0042.86241.flac16**: audience recording; 24 songs; 193 min; rated 4.4/5 by 20 [2]. Said about its sound: Headphone listening recreates the Palladium atmosphere effectively; Recording sounds excellent with no noticeable flaws while working; Stereo balcony recording features strong Phil bass, similar to soundboards of that era [6][8][11]\n- **gd1977-05-03.aud.gorinsky.6710.sbeok.shnf**: audience recording; 22 songs; 191 min; rated 5/5 by 1 [3]\n\n## Around the show\n\n- Recalls a previous show where band members circled, contrasting with later stage separation [5]\n- Crowd was excited to hear Jack Straw, which had not been played for two and a half years [7]\n- Jerry experienced a voice crack around two minutes twenty, then softened before shredding guitar [9]\n- Garcia and Godchaux perform well, and Donna Jean is heard singing [14]\n- Row Jimmy is outstanding, though the next night's show is considered better overall [10]\n- Well-recorded audience tape is rare compared to common Betty Board recordings from May 1977 [11]\n- This specific show is considered a hot one, unlike the mixed quality of other 1977 dates [14]\n\n## Tapers and lineage\n\n- **gd1977-05-03.141831.sony.ecm33p.moore.dalton.miller.clugston.flac1644**: taped by Jerry Moore and Tim Dalton; transferred by Scott Clugston and Charlie Miller; source: Jerry Moore's Master Audience Cassettes; Sony ECM-33P mics > Sony TC-158SD (Maxell UD-XLII with dolby B) > PCM [1]. Also: Glassberg audience source supplies crowd noise and first few notes of Promised Land [1]\n- **gd1977-05-03.aud.glassberg.motb.0042.86241.flac16**: taped by Barry Glassberg; transferred by A. Egert and D. McCabe; source: udience 1st Row Loge Sony ECM XXX > Sony TCD5 X> MAC Mics spaced 30ft. [2]. Also: Glassberg master cassettes run 2.6% slower than the Moore source used for patches; Moore source chosen for patches due to correct pitch and front row balcony position [2]\n- **gd1977-05-03.aud.gorinsky.6710.sbeok.shnf**: transferred by G. Gorinsky and Ron Spear; source: AUD>MR>DAT>CDR > EAC (secure mode, test and copy) > SHN [3]",

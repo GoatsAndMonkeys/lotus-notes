@@ -357,7 +357,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -408,8 +408,8 @@
     },
     "previous": {
      "date": "1983-10-30",
-     "show": "live:grateful-dead:1983-10-30:marin-veterans-memorial-auditorium",
-     "venue": "Marin Veterans Memorial Auditorium"
+     "show": "live:grateful-dead:1983-10-30:marin-county-veterans-auditorium",
+     "venue": "Marin County Veterans Auditorium"
     },
     "recommended": {
      "identifier": "gd1983-10-31.sbd.clugston.3811.shnf",
@@ -661,113 +661,294 @@
     "setlist": [
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 7,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-10-21",
+        "show": "live:grateful-dead:1983-10-21:the-centrum"
+       },
+       "plays_before": 23,
+       "total_plays": 76
+      },
       "title": "Brotehr Esau"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1983-10-09",
+        "show": "live:grateful-dead:1983-10-09:greensboro-coliseum"
+       },
+       "plays_before": 169,
+       "total_plays": 272
+      },
       "title": "Peggy O"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-10-17",
+        "show": "live:grateful-dead:1983-10-17:olympic-center"
+       },
+       "plays_before": 109,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:bew",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3620,
+       "gap_shows": 663,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "BEW"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1983-06-24",
+        "show": "live:grateful-dead:1983-06-24:dane-county-coliseum"
+       },
+       "plays_before": 137,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 129,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1983-06-24",
+        "show": "live:grateful-dead:1983-06-24:dane-county-coliseum"
+       },
+       "plays_before": 137,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-10-20",
+        "show": "live:grateful-dead:1983-10-20:the-centrum"
+       },
+       "plays_before": 316,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-10-20",
+        "show": "live:grateful-dead:1983-10-20:the-centrum"
+       },
+       "plays_before": 48,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-10-20",
+        "show": "live:grateful-dead:1983-10-20:the-centrum"
+       },
+       "plays_before": 47,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-10-20",
+        "show": "live:grateful-dead:1983-10-20:the-centrum"
+       },
+       "plays_before": 123,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-10-18",
+        "show": "live:grateful-dead:1983-10-18:cumberland-county-civic-center"
+       },
+       "plays_before": 226,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-10-20",
+        "show": "live:grateful-dead:1983-10-20:the-centrum"
+       },
+       "plays_before": 219,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-10-30",
+        "show": "live:grateful-dead:1983-10-30:marin-county-veterans-auditorium"
+       },
+       "plays_before": 774,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-10-30",
+        "show": "live:grateful-dead:1983-10-30:marin-county-veterans-auditorium"
+       },
+       "plays_before": 438,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 338,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-10-15",
+        "show": "live:grateful-dead:1983-10-15:hartford-civic-center"
+       },
+       "plays_before": 163,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 45,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:nfa",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 8,
+       "total_plays": 21
+      },
       "title": "NFA"
      },
      {
       "key": "song:grateful-dead:revolution",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 3,
+       "total_plays": 12
+      },
       "title": "Revolution"
      }
     ],
@@ -775,46 +956,75 @@
      {
       "from": "gd83-10-31.sbd.gardner.3827.sbeok.shnf",
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-10-21",
+        "show": "live:grateful-dead:1983-10-21:the-centrum"
+       },
+       "plays_before": 32,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "from": "gd83-10-31.sbd.gardner.3827.sbeok.shnf",
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-10-15",
+        "show": "live:grateful-dead:1983-10-15:hartford-civic-center"
+       },
+       "plays_before": 252,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "from": "gd83-10-31.sbd.gardner.3827.sbeok.shnf",
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 360,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
     "subject_key": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "BEW"
+     ],
      "first_in_archive": [],
-     "show_number": 1117,
-     "shows_in_archive": 1855,
+     "show_number": 1219,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Marin County Veterans Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:57.612602+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.396949+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "nVWfdDKj7xo1NQAg05ZBcO9ATTrRyGiK3zlqbA2k6XwVxUuINitsCNGKYQvd1UPOCDcJTMWKWNBeuyNRixGKCg",
+   "revision": 33,
+   "signature": "FmTE7ng-bLxMRrOGFZW6-AatjKnDgdVuDMhZCFyWNGHrPoazDwKfuNuE2NSWdL3Fyqfkb3MdchmZAYtfJpX8Bw",
    "subject_key": "live:grateful-dead:1983-10-31:marin-county-veterans-auditorium",
-   "updated_at": "2026-10-25T16:41:57.614232"
+   "updated_at": "2026-10-25T17:35:19.397828"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1983-10-31.sbd.clugston.3811.shnf** (recommended): soundboard; 20 songs; 158 min; rated 3.2/5 by 5 [1]\n- **gd83-10-31.sbd.gardner.3827.sbeok.shnf**: soundboard; 19 songs; 158 min; rated 4/5 by 20 [2]. Said about its sound: The sound quality is noted as much above average with a great groove; The opening song sounds slightly off, though the audio improves as the show progresses; The recording is sped up, making the song 5:06 instead of the actual 7:06 [14][16][18]\n- **gd1983-10-31.sbd.tetzeli.34934.sbeok.shnf**: soundboard; 19 songs; 158 min; rated 1.5/5 by 2 [3]\n- **gd1983-10-31.151222.sbd.mc.gems.flac16**: soundboard; 19 songs; 159 min [4]. Said about its sound: Nak700 audience source is used for the first few minutes of Wang Dang Doodle [4]\n- **gd83-10-31.horvath-nak.ladner.19894.sbeok.shnf**: source not stated; 19 songs; 160 min; rated 4.46/5 by 28 [8]. Said about its sound: The audio is significantly sped up, with Wang Dang Doodle lasting 5:06 instead of 7:06; The keys sound like chimes, contributing to an amazing overall recording quality [19][20]\n\n## Around the show\n\n- Airto joined drummers, prompting Jerry to jam behind them during Halloween chants [9]\n- This was the final live performance of St. Stephen, played to a small crowd [11]\n- The venue was described as a small location in the band's backyard [11]\n- A weird sound in the first minute of Peggy-O was heard by both fans and recording [4]\n- The first set Sailor/Saint sequence was highlighted as a real treat [9]\n- The Airto drums-space jam is ranked among the best improvisational performances [10]\n- This is the last live performance of St. Stephen, following a 352-show hiatus [4]\n\n## Tapers and lineage\n\n- **gd1983-10-31.sbd.clugston.3811.shnf**: transferred by Scott Clugston; source: Master Soundboard Cassette > DAT > CDR [1]\n- **gd83-10-31.sbd.gardner.3827.sbeok.shnf**: source: SBD> MC> DAT> CDR> EAC> CDWAV> SHN [2]. Also: SBD transferred via MC, DAT, CDR, EAC, CDWAV, SHN; via Tony Gardner, thanks to Paul Bottiglio [2]\n- **gd1983-10-31.sbd.tetzeli.34934.sbeok.shnf**: transferred by Bill Tetzeli; source: Soundboard > Cassette [3]. Also: Transition between CDs 2 and 3 was made seamless with fade tracks added [3]\n- **gd1983-10-31.151222.sbd.mc.gems.flac16**: taped by Provided by ANON; transferred by Speed Corrected by Jason Chastain Mastered by Jamie Waddell with assistance from Jim Blackwood Track FLAC and Pack by Mark Goldey; source: Soundboard Cassette Master > DAT [4]\n- **gd83-10-31.horvath-nak.ladner.19894.sbeok.shnf**: source: FOB(Nak 700)>MC>DAT>CDR>WAV>SHN. [8]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Marin County Veterans Auditorium - October 31, 1983](https://www.dead.net/show/october-31-1983) [22]\n- Poster by Grateful Dead: [Grateful Dead Ticket, Marin Veterans Memorial Auditorium, San Rafael, CA](https://www.dead.net/archives/1983/clippings/ticket-marin-veterans-memorial-auditorium-san-rafael-ca-0) [23]",

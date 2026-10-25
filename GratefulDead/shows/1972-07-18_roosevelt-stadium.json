@@ -302,7 +302,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -561,146 +561,398 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1972-05-16",
+        "show": "live:grateful-dead:1972-05-16:theatre-hall"
+       },
+       "plays_before": 71,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 198,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 291,
+       "gap_shows": 64,
+       "last_played": {
+        "date": "1971-10-01",
+        "show": "live:grateful-dead:1971-10-01:studio"
+       },
+       "plays_before": 19,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 18,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 52,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 33,
+       "total_plays": 162
+      },
       "title": "Black Throated WInd"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-06-17",
+        "show": "live:grateful-dead:1972-06-17:hollywood-bowl"
+       },
+       "plays_before": 157,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-06-17",
+        "show": "live:grateful-dead:1972-06-17:hollywood-bowl"
+       },
+       "plays_before": 159,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 55,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-06-17",
+        "show": "live:grateful-dead:1972-06-17:hollywood-bowl"
+       },
+       "plays_before": 76,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 100,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 2,
+       "total_plays": 340
+      },
       "title": "stella blue"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-06-17",
+        "show": "live:grateful-dead:1972-06-17:hollywood-bowl"
+       },
+       "plays_before": 64,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 198,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 103,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-05-25",
+        "show": "live:grateful-dead:1972-05-25:the-strand-lyceum"
+       },
+       "plays_before": 31,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 56,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 120,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-05-25",
+        "show": "live:grateful-dead:1972-05-25:the-strand-lyceum"
+       },
+       "plays_before": 137,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-05-23",
+        "show": "live:grateful-dead:1972-05-23:the-strand-lyceum"
+       },
+       "plays_before": 17,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 120,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 41,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1972-05-10",
+        "show": "live:grateful-dead:1972-05-10:concertgebouw"
+       },
+       "plays_before": 33,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 1,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 25,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 133,
+       "total_plays": 556
+      },
       "title": "Not Fad Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 91,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 133,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -708,55 +960,91 @@
      {
       "from": "gd72-07-18.sbd.cribbs.9067.sbeok.shn",
       "key": "song:grateful-dead:promised",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Promised"
      },
      {
       "from": "gd72-07-18.sbd.cribbs.9067.sbeok.shn",
       "key": "song:grateful-dead:40-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "40 Brown Eyed Women"
      },
      {
       "from": "gd72-07-18.sbd.cribbs.9067.sbeok.shn",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 220
+      },
       "title": "Mississippi Half Step Uptown Toodeloo"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:bertha-sbd-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bertha **SBD ONLY"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:me-and-my-uncle-sbd-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Me & My Uncle **SBD ONLY"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:bird-song-sbd-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bird Song **SBD ONLY"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:promised-land-sbd-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Promised Land **SBD ONLY"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:sugaree-sbd-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sugaree **SBD ONLY"
      },
      {
       "from": "gd1972-07-18.127703.mtx.dusborne.flac16",
       "key": "song:grateful-dead:not-fade-away-aud-only",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Not Fade Away **AUD Only"
      }
     ],
@@ -764,26 +1052,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 361,
-     "shows_in_archive": 1855,
+     "show_number": 434,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Roosevelt Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.533173+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.573301+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "EIgdyTBB8ohQEIj01spbTDmNs4fiJbxZBcfFy1L028VlIoKAzbH47RdCCPnqlW_1grtz-YM9xPVbDuuNQI_oCg",
+   "revision": 42,
+   "signature": "2dGxHVmYoz5PmVWtOp1IsaTC_HExr0qpYrriDYgjfjLEtZrDnJZy_Wzbt031NA4PwWCJK15wz609Kwyjg5GMAA",
    "subject_key": "live:grateful-dead:1972-07-18:roosevelt-stadium",
-   "updated_at": "2026-10-25T16:41:44.535378"
+   "updated_at": "2026-10-25T17:35:12.575463"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (3 reviews): The jam features the best pre-verse playing of any version of the song; The jam feels tight and organized, condensing European exploration into high energy [10][15][17]\n- **China Cat Sunflower** (1 review): The performance is described as being as good as the song gets [13]\n- **Playing in the Band** (1 review): The performance is typically strong for this era and well jammed [17]\n\n## The recordings\n\n- **gd1972-07-18.127703.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 30 songs; 217 min; rated 5/5 by 6 [1]\n- **gd1972-07-18.sbd.theotherwayne.88658.sbefail.shnf**: soundboard; 28 songs; 242 min; rated 5/5 by 2 [2]. Said about its sound: Set two tunes prominently reflect flaws from the master tape reel decay [2]\n- **gd1972-07-18.sbd.miller.32878.flac16**: soundboard; 28 songs; 215 min; rated 4.55/5 by 22 [4]. Said about its sound: Many tracks still contain static and buzzing originating from the piano [4]\n- **gd72-07-18.aud.weiner.5916.sbefail.shnf**: audience recording; 23 songs; 178 min; rated 3.9/5 by 10 [5]\n- **gd1972-07-18.sbd.lai.3348.shnf**: soundboard; 20 songs; 183 min; rated 5/5 by 1 [7]\n\n## Around the show\n\n- Bob Dylan was backstage, marking his first appearance at a Dead show [9]\n- The band played three sets, a rarity, and returned the next day [9]\n- The reviewer expresses heartbreak over the loss of shared music archives [11]\n- This was likely the largest crowd the band had played to that point [15]\n- The reviewer revisits a dim memory of attending the show at age fifteen [16]\n- The audience recording is considered superior to the soundboard due to room excitement [13]\n\n## Tapers and lineage\n\n- **gd1972-07-18.127703.mtx.dusborne.flac16**: source: 2 Source Matrix by Dusborne; Recording Info: SBD -> Master Reel -> Cassette -> Dat -> CD; Transfer Info: CD -> Samplitude Professional v7.02 -> Cool Edit Pro… [1]\n- **gd1972-07-18.sbd.theotherwayne.88658.sbefail.shnf**: transferred by theotherwayne; source: SMR>?>DAT>WAV>CDR>SHN [2]. Also: Master tapes suffered reel decay; flaws were spliced back using Samplitude software [2]\n- **gd1972-07-18.sbd.miller.32878.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Cassette -> Dat -> CD [4]\n- **gd72-07-18.aud.weiner.5916.sbefail.shnf**: source: Audience [5]. Also: Show information is embedded within the header of each flac file [19]\n- **gd1972-07-18.sbd.lai.3348.shnf**: source: sdb>>master reel>>reel>>pcm>>cdr [7]. Also: The third set and encore are missing from this specific recording [7]\n\n## Art and photos\n\n- Poster by visionsofdylan.blogspot.com: [7-18-72 Roosevelt Stadium 50th Anniversary](https://visionsofdylan.blogspot.com/2022/07/7-18-72-roosevelt-stadium-50th.html) [21]",

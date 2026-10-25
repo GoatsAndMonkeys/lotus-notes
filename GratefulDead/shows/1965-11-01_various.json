@@ -197,7 +197,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -256,12 +256,20 @@
     "setlist": [
      {
       "key": "song:grateful-dead:speed-limit",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Speed Limit"
      },
      {
       "key": "song:grateful-dead:neal-cassady-raps",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Neil Cassidy Raps"
      }
     ],
@@ -269,27 +277,30 @@
     "subject_key": "live:grateful-dead:1965-11-01:various",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
+     "first_in_archive": [
+      "Speed Limit",
+      "Neil Cassidy Raps"
+     ],
      "show_number": 1,
-     "shows_in_archive": 1855,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "various"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.353509+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.086106+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "t9sQVGjQjyVwBu5p9JUGv0ZUG8-5yG-MTCl-XAs1pFSbZG99CuEWTPrPN-ywf25ydovq6Ctwzm-N6Va1FZaYAA",
+   "revision": 40,
+   "signature": "JYKF7KAvV1t44hHNQ1s0kS1GNK-FJCDMquixgbpPT3RMx2g0LfBJYZ3RTMLdOe7rrJ6K0Lflw3Mcx37TEoY4AQ",
    "subject_key": "live:grateful-dead:1965-11-01:various",
-   "updated_at": "2026-10-25T16:41:38.360985"
+   "updated_at": "2026-10-25T17:35:09.100289"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Neil Cassidy Raps** (1 review): Listener suggests a brief Lovelight moment occurs around the one-fifty mark [11]\n\n## The recordings\n\n- **gd1965-11-01.sbd.bershaw.5417.sbeok.shnf** (recommended): soundboard; 2 songs; 12 min; rated 3.32/5 by 19 [1]. Said about its sound: Recording sounds like it was captured through a fly's ear, with sluggish guitar riffs; Listener speculates the recording used open microphones scattered around an acid test [3][9]\n\n## Around the show\n\n- Listener asks Neal to hum bars of an unknown song during the rap [2]\n- Reviewer notes this was their first archive listen a year prior to 2011 [6]\n- A trumpet is heard played around the four-minute mark of the recording [9]\n- Reviewer finds hearing Cassady interesting but wishes the recording contained more than snippets [10]\n- Reviewer declares this recording the start of their personal Grateful Dead year [13]\n- Recording released as a flexi-disc in the first printing of The Dead Book [1]\n\n## Tapers and lineage\n\n- **gd1965-11-01.sbd.bershaw.5417.sbeok.shnf**: Reviewer asks if another fuller version of this recording is currently circulating; Extended version of Cassady and the Dead exists from the Straight Theater opening; Lawrence Schiller confirms the tape originated from a studio session by Fire and Ice [1][5][7][8]",

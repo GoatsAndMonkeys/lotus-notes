@@ -395,7 +395,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -467,14 +467,14 @@
     "date": "1995-06-02",
     "guests": [],
     "next": {
-     "date": "1995-06-15",
-     "show": "live:grateful-dead:1995-06-15:franklin-county-airport",
-     "venue": "Franklin County Airport"
+     "date": "1995-06-03",
+     "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre",
+     "venue": "Shoreline Amphitheatre"
     },
     "previous": {
-     "date": "1995-05-21",
-     "show": "live:grateful-dead:1995-05-21:sam-boyd-silver-bowl-u-n-l-v",
-     "venue": "Sam Boyd Silver Bowl, U.N.L.V."
+     "date": "1995-05-29",
+     "show": "live:grateful-dead:1995-05-29:portland-meadows",
+     "venue": "Portland Meadows"
     },
     "recommended": {
      "identifier": "gd1995-06-02.nak300.bowen.116927.flac16",
@@ -757,111 +757,286 @@
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1995-03-30",
+        "show": "live:grateful-dead:1995-03-30:the-omni"
+       },
+       "plays_before": 145,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1995-02-20",
+        "show": "live:grateful-dead:1995-02-20:delta-center"
+       },
+       "plays_before": 288,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-04-01",
+        "show": "live:grateful-dead:1995-04-01:pyramid-arena"
+       },
+       "plays_before": 284,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-05-25",
+        "show": "live:grateful-dead:1995-05-25:memorial-stadium"
+       },
+       "plays_before": 61,
+       "total_plays": 64
+      },
       "title": "Good Morning Little Schoolgirl"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-05-21",
+        "show": "live:grateful-dead:1995-05-21:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 322,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-05-25",
+        "show": "live:grateful-dead:1995-05-25:memorial-stadium"
+       },
+       "plays_before": 394,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:bird-song",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 312,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-05-21",
+        "show": "live:grateful-dead:1995-05-21:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 433,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1995-03-17",
+        "show": "live:grateful-dead:1995-03-17:the-spectrum"
+       },
+       "plays_before": 51,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:that-would-be-something",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-05-20",
+        "show": "live:grateful-dead:1995-05-20:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 14,
+       "total_plays": 17
+      },
       "title": "That Would Be Something"
      },
      {
       "key": "song:grateful-dead:way-to-go-home",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-05-28",
+        "show": "live:grateful-dead:1995-05-28:portland-meadows"
+       },
+       "plays_before": 90,
+       "total_plays": 94
+      },
       "title": "Way To Go Home"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 232,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-05-25",
+        "show": "live:grateful-dead:1995-05-25:memorial-stadium"
+       },
+       "plays_before": 334,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 1612,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:chanting-by-guyto-monks",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Chanting by Guyto Monks"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 1272,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:easy-answers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-05-26",
+        "show": "live:grateful-dead:1995-05-26:memorial-stadium"
+       },
+       "plays_before": 43,
+       "total_plays": 46
+      },
       "title": "Easy Answers"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-05-19",
+        "show": "live:grateful-dead:1995-05-19:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 79,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-05-28",
+        "show": "live:grateful-dead:1995-05-28:portland-meadows"
+       },
+       "plays_before": 422,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:lucy-in-the-sky-with-diamonds",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-05-19",
+        "show": "live:grateful-dead:1995-05-19:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 17,
+       "total_plays": 20
+      },
       "title": "Lucy In The Sky With Diamonds"
      }
     ],
@@ -869,34 +1044,45 @@
      {
       "from": "gd1995-06-02.141532.cmc4-mk41.ebel.flac1644",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-05-26",
+        "show": "live:grateful-dead:1995-05-26:memorial-stadium"
+       },
+       "plays_before": 254,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1995-06-02:shoreline-amphitheatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1847,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Chanting by Guyto Monks"
+     ],
+     "show_number": 2080,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Shoreline Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 11,
+   "parent_revision": 23,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.681359+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.882682+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 12,
-   "signature": "ZJZ7VMQK6dgbtuI7yKTSnfx6lOJczaLHiiyAHnymsYUeHhxhtlNoFZco-1fdw8MqwKBER-_n4OT9Lq3g8OQdDA",
+   "revision": 24,
+   "signature": "kkjh75JRDqOMexitKyy4K_ryqfhdN1E8-HbGMrQ3GLTh3tPrjTSfzT8fEIOt0MbKVdkwIl2dk_kn7AT17Z4uAQ",
    "subject_key": "live:grateful-dead:1995-06-02:shoreline-amphitheatre",
-   "updated_at": "2026-10-25T16:42:19.682381"
+   "updated_at": "2026-10-25T17:35:28.883754"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bird Song** (2 reviews): Reviewer says it started well, then Jerry lost concentration, leading to about twelve minutes of mess; Reviewer recalls the melody, key and rhythm dissolving into free music before the band pulled it back together [11][16]\n- **Alabama Getaway** (1 review): Reviewer says Garcia played the opener poorly in every respect [11]\n- **New Speedway Boogie** (1 review): Reviewer loved the guitar work on this song [15]\n- **That Would Be Something** (1 review): Reviewer heard the second set years later and felt they should have been there [20]\n- **Standing On The Moon** (1 review): Reviewer found Jerry unusually soulful here, despite appearing unwell, and still remembers it [15]\n- **Drumz** (1 review): Reviewer considers the drums segment the best ever played and imagines it frightening for people on psychedelics [14]\n\n## The recordings\n\n- **gd1995-06-02.nak300.bowen.116927.flac16** (recommended): source not stated; 20 songs; 169 min [1]\n- **gd95-06-02.sbd.583.sbeok.shnf**: soundboard; 20 songs; 145 min; rated 3.86/5 by 55 [2]. Said about its sound: Reviewer calls the soundboard sound quality very good; Reviewer calls the soundboard recording exceptional, with Weir clearly audible; Reviewer finds the recording quality amazing for a 1995 show [11][12][14][18]\n- **gd1995-06-02.sbd.damico.92520.flac16**: soundboard; 20 songs; 143 min; rated 3.8/5 by 5 [3]\n- **gd1995-06-02.sbd.miller.114337.flac16**: soundboard; 19 songs; 165 min; rated 3.25/5 by 4 [4]\n\n## Around the show\n\n- Reviewer got a ticket from a friend, drove from Oakland in a camper with a crew, stopping at a bar after laughing hard [10]\n- Reviewer attended, driving in from Santa Cruz, but missed the last night of the run [13]\n- Reviewer says this was their last show, with remarkable energy in the room [15]\n- Reviewer says it was the last time they saw the band with Jerry [16]\n- Reviewer did not attend, having just returned to the Bay Area from overseas, and regrets it [20]\n- Reviewer found the Shoreline vibe good, and Jerry looked five years older than at the spring Spectrum show [21]\n- Weir played acoustic, and Gyoto Monks are credited as other artists [1]\n- Reviewer felt the show sounded much like 1985 at the time [10]\n- Reviewer rates it somewhat above average for 1995, though low on energy [12]\n- Reviewer calls it their last really great show, with five more before Jerry died, and a favorite of the Vince era [21]\n\n## Tapers and lineage\n\n- **gd1995-06-02.nak300.bowen.116927.flac16**: taped by Jeff Bowen; transferred by Brad Foster; source: Source: Nakamichi cm300/cp1's > Sony TCD-D7; [1]. Also: Nak300 recording from Bowen, shared by Jeff from his master transfer; discs extracted in secure mode [1]\n- **gd95-06-02.sbd.583.sbeok.shnf**: source: SBD > DAT > CD > extracted on a Mac using Toast Audio Extractor (overlap)> SHN (note corrected info) [2]\n- **gd1995-06-02.sbd.damico.92520.flac16**: taped by Unknown; transferred by Joe D'Amico; source: SBD > ? [3]. Also: Soundboard from a found box of analog and DAT tapes, uploaded by Joe, alongside first and second generation audience recordings [3]\n- **gd1995-06-02.sbd.miller.114337.flac16**: transferred by Charlie Miller; source: SBD -> Dat (44.1k) [4]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Shoreline Amphitheatre - June 3, 1995](https://www.dead.net/show/june-3-1995) [26]",

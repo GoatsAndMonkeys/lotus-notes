@@ -320,7 +320,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -341,8 +341,8 @@
     },
     "previous": {
      "date": "1992-03-23",
-     "show": "live:grateful-dead:1992-03-23:the-palace",
-     "venue": "The Palace"
+     "show": "live:grateful-dead:1992-03-23:copps-coliseum",
+     "venue": "Copps Coliseum"
     },
     "recommended": {
      "identifier": "gd1992-03-24.155838.FOBAKGDAT.GatelyBrotmanAnonNoel.t-flac1648",
@@ -565,108 +565,279 @@
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-03-18",
+        "show": "live:grateful-dead:1992-03-18:the-spectrum"
+       },
+       "plays_before": 183,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-03-12",
+        "show": "live:grateful-dead:1992-03-12:nassau-coliseum"
+       },
+       "plays_before": 265,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1992-03-06",
+        "show": "live:grateful-dead:1992-03-06:hampton-coliseum"
+       },
+       "plays_before": 32,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1992-03-09",
+        "show": "live:grateful-dead:1992-03-09:capitol-centre"
+       },
+       "plays_before": 605,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1992-03-09",
+        "show": "live:grateful-dead:1992-03-09:capitol-centre"
+       },
+       "plays_before": 379,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:way-to-go-home",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-03-21",
+        "show": "live:grateful-dead:1992-03-21:copps-coliseum"
+       },
+       "plays_before": 9,
+       "total_plays": 94
+      },
       "title": "Way To Go Home"
      },
      {
       "key": "song:grateful-dead:so-many-roads",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-03-21",
+        "show": "live:grateful-dead:1992-03-21:copps-coliseum"
+       },
+       "plays_before": 10,
+       "total_plays": 59
+      },
       "title": "So Many Roads"
      },
      {
       "key": "song:grateful-dead:corrina",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-03-21",
+        "show": "live:grateful-dead:1992-03-21:copps-coliseum"
+       },
+       "plays_before": 9,
+       "total_plays": 79
+      },
       "title": "Corrina"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1992-03-11",
+        "show": "live:grateful-dead:1992-03-11:nassau-coliseum"
+       },
+       "plays_before": 520,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1992-03-11",
+        "show": "live:grateful-dead:1992-03-11:nassau-coliseum"
+       },
+       "plays_before": 523,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-03-12",
+        "show": "live:grateful-dead:1992-03-12:nassau-coliseum"
+       },
+       "plays_before": 194,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1992-03-08",
+        "show": "live:grateful-dead:1992-03-08:capital-centre"
+       },
+       "plays_before": 68,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-03-23",
+        "show": "live:grateful-dead:1992-03-23:copps-coliseum"
+       },
+       "plays_before": 1381,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-03-23",
+        "show": "live:grateful-dead:1992-03-23:copps-coliseum"
+       },
+       "plays_before": 1041,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1992-03-17",
+        "show": "live:grateful-dead:1992-03-17:the-spectrum"
+       },
+       "plays_before": 224,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-03-12",
+        "show": "live:grateful-dead:1992-03-12:nassau-coliseum"
+       },
+       "plays_before": 295,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-03-18",
+        "show": "live:grateful-dead:1992-03-18:the-spectrum"
+       },
+       "plays_before": 224,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-03-18",
+        "show": "live:grateful-dead:1992-03-18:the-spectrum"
+       },
+       "plays_before": 511,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:weight",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1992-03-17",
+        "show": "live:grateful-dead:1992-03-17:the-spectrum"
+       },
+       "plays_before": 42,
+       "total_plays": 54
+      },
       "title": "The Weight"
      }
     ],
@@ -674,25 +845,56 @@
      {
       "from": "gd1992-03-24.148323.nak300CP4.ebel.flac2496",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-03-23",
+        "show": "live:grateful-dead:1992-03-23:the-palace"
+       },
+       "plays_before": 159,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1992-03-24.116616.sonicstudios.schmit.mallick.flac16",
       "key": "song:grateful-dead:corinn-a",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Corinn//a"
      },
      {
       "from": "gd1992-03-24.116616.sonicstudios.schmit.mallick.flac16",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-03-20",
+        "show": "live:grateful-dead:1992-03-20:copps-coliseum"
+       },
+       "plays_before": 41,
+       "total_plays": 55
+      },
       "title": "Drums/Space"
      },
      {
       "from": "gd1992-03-24.sbd.unknown.17024.shnf",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 148,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1991-10-28",
+        "show": "live:grateful-dead:1991-10-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 43,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      }
     ],
@@ -700,26 +902,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1737,
-     "shows_in_archive": 1855,
+     "show_number": 1844,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Palace"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 15,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:18.499225+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:27.167015+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "vlIVDZYtN4A2_Cs1ED_6s5OMk81-ofTjiG7awbvwyETKONK8d6eLVhvuvRlBoOUCJif9EncNxI9ML2M5EpVeAA",
+   "revision": 16,
+   "signature": "FXxp5gWMKByHACvWqWQpxbr8AgY-PcPhLT5A-4bggUj2EI-LsFFJ-99SEA1UotEGzETu0WtUup4T24QtQLnzDg",
    "subject_key": "live:grateful-dead:1992-03-24:the-palace",
-   "updated_at": "2026-10-25T16:42:18.500692"
+   "updated_at": "2026-10-25T17:35:27.167855"
   }
  },
  "recommended": {

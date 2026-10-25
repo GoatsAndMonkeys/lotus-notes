@@ -572,7 +572,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -722,8 +722,8 @@
     },
     "previous": {
      "date": "1982-08-01",
-     "show": "live:grateful-dead:1982-08-01:zoo-amphitheatre",
-     "venue": "Zoo Amphitheatre"
+     "show": "live:grateful-dead:1982-08-01:zoo-amphitheater",
+     "venue": "Zoo Amphitheater"
     },
     "recommended": {
      "identifier": "gd82-08-03.matrix.chappell.30705.sbeok.flacf",
@@ -1216,127 +1216,334 @@
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 127,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 104,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 233,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-07-27",
+        "show": "live:grateful-dead:1982-07-27:red-rocks-amphitheatre"
+       },
+       "plays_before": 156,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:el-paso",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-31",
+        "show": "live:grateful-dead:1982-07-31:manor-downs"
+       },
+       "plays_before": 329,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 159,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 140,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 160,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 112,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 23,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 43,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 75,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 205,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 116,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1982-04-09",
+        "show": "live:grateful-dead:1982-04-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 51,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 135,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-31",
+        "show": "live:grateful-dead:1982-07-31:manor-downs"
+       },
+       "plays_before": 307,
+       "total_plays": 628
+      },
       "title": "Jam (Weir & Drummers)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-08-01",
+        "show": "live:grateful-dead:1982-08-01:zoo-amphitheater"
+       },
+       "plays_before": 683,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-08-01",
+        "show": "live:grateful-dead:1982-08-01:zoo-amphitheater"
+       },
+       "plays_before": 348,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 165,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 357,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-07-27",
+        "show": "live:grateful-dead:1982-07-27:red-rocks-amphitheatre"
+       },
+       "plays_before": 154,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 384,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1982-05-23",
+        "show": "live:grateful-dead:1982-05-23:greek-theatre-u-of-california"
+       },
+       "plays_before": 308,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -1344,187 +1551,336 @@
      {
       "from": "gd1982-08-03.sbd.unknown.tetzeli.fix-19228.33614.reflac.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 23,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd82-08-03.senn-hogan.fink.5984.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 125,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd82-08-03.senn-hogan.fink.5984.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-29",
+        "show": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre"
+       },
+       "plays_before": 187,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1982-08-03.145217.fob.beyer.m160.streeter.miller.sirmick.flac1644",
       "key": "song:grateful-dead:patched",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "patched"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t01",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t01"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t02",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t02"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t03",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t03"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t04",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t04"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t05",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t05"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t06",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t06"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t07",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t07"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t08",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t08"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t09",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t09"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t10",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t10"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d1t11",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d1t11"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t01",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t01"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t02",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t02"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t03",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t03"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t04",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t04"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t05",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t05"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d2t06",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d2t06"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t01",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t01"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t02",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t02"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t03",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t03"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t04",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t04"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t05",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t05"
      },
      {
       "from": "gd82-08-03.sbd.unk.19228.sbeok.shnf",
       "key": "song:grateful-dead:gd82-08-03d3t06",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-08-03d3t06"
      },
      {
       "from": "gd1982-08-03.138618.nak300.holbrook.flac1644",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 19,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1982-08-03.138618.nak300.holbrook.flac1644",
       "key": "song:grateful-dead:hes-gone-and",
-      "stats": {},
+      "stats": {
+       "days_since": 220,
+       "gap_shows": 37,
+       "last_played": {
+        "date": "1981-12-26",
+        "show": "live:grateful-dead:1981-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "He's Gone -> &"
      },
      {
       "from": "gd1982-08-03.138618.nak300.holbrook.flac1644",
       "key": "song:grateful-dead:other-one-and",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "The Other One &"
      },
      {
       "from": "gd1982-08-03.121407.set2-akg.flac16",
       "key": "song:grateful-dead:kc-jones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "KC Jones"
      }
     ],
@@ -1532,26 +1888,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1026,
-     "shows_in_archive": 1855,
+     "show_number": 1123,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Starlight Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.160312+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.342739+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "gPtcqBWu2fXzg9wsfnFYSzezzgW7eiBxpVe-kXci-yw5_ttn4h-I7kMrerFrtJdx3S3mdH50W82Blydpzv29CQ",
+   "revision": 42,
+   "signature": "jIx5Tww06EZy5dkjiuir895mfFHYYLJt-cbzyeNlsRjNDiE6kKYCc5k8o3WCt6eHihvhaidu7Ax2gBFfv8UuBQ",
    "subject_key": "live:grateful-dead:1982-08-03:starlight-theater",
-   "updated_at": "2026-10-25T16:41:55.162235"
+   "updated_at": "2026-10-25T17:35:18.344007"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **To Lay Me Down** (1 review): Perhaps the most gorgeous, quiet, and lilting version of To Lay Me Down ever played [23]\n- **Let It Grow** (1 review): Second set highlights include the transition from Let It Grow into Drums and Space [21]\n- **Casey Jones** (1 review): Final Casey Jones performance for a while, noted as a shame by the listener [22]\n\n## The recordings\n\n- **gd82-08-03.matrix.chappell.30705.sbeok.flacf** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 188 min; rated 4.75/5 by 24 [1]. Said about its sound: Matrix feels like being in the crowd during this hot show [26]\n- **gd1982-08-03.sbd.miller.77196.sbeok.flac16**: soundboard; 22 songs; 188 min; rated 3.96/5 by 28 [3]\n- **gd82-08-03.senn-hogan.fink.5984.sbeok.shnf**: audience recording; 23 songs; 184 min; rated 4.42/5 by 12 [4]. Said about its sound: Audience recording described as not half bad from a little-revered era of the band [23]\n- **gd1982-08-03.176351.aud.bernstein.ackerman.noel.flac2496**: audience recording; 22 songs; 194 min [6]\n- **gd82-08-03.sbd.unk.19228.sbeok.shnf**: matrix (soundboard mixed with audience mics); 23 songs; 182 min; rated 4.14/5 by 14 [12]. Said about its sound: Recording sounds fuzzy and sped up compared to a previous favorite cassette copy; Quality is good but not superb, with some first set intros sounding stepped on; Shakedown Street rocks, and a matrix using this source sounds really nice [19][21][24]\n\n## Around the show\n\n- Listener recalled Jerry seeming late on vocals while looking around during the performance [17]\n- One hundred four degrees heat made the place electric with tight song transitions [22]\n- Midwestern crowd showed approval with wah-hooo bursts as Garcia clearly got on [26]\n- Listener asked if the performer had ever been to the Starlight Theater [31]\n- Show performance smokes from the opening transition through the entire second set [19]\n- Show set things straight after an abysmal Oklahoma City birthday performance [25]\n\n## Tapers and lineage\n\n- **gd82-08-03.matrix.chappell.30705.sbeok.flacf**: taped by Paul Hogan; transferred by Chris Chappell; source: Matrix [1]\n- **gd1982-08-03.sbd.miller.77196.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> PCM -> Dat -> CD [3]. Also: Senn 441 to cassette master to DAT to CD, with seamless second set disc change [3]\n- **gd82-08-03.senn-hogan.fink.5984.sbeok.shnf**: taped by Paul Hogan; source: Audience Recording: Sennheiser 441's [4]. Also: Reviewer held a cut second set tape for ten years before finding this complete version [18]\n- **gd1982-08-03.176351.aud.bernstein.ackerman.noel.flac2496**: taped by Jon Bernstein; transferred by Transfer & Mastering by Ray Ackerman Edited & Processed w/ add'l Mastering by Joe Noel February 15, 2026; source: ?? mics > ?? lead deck > Sony TC-D5 > Master Cassettes (Maxell XLIIS-90's) [6]. Also: Jon Bernstein recorded upfront and centered; Ray Ackerman handled the quality transfer [6]\n- **gd82-08-03.sbd.unk.19228.sbeok.shnf**: source: Soundboard [12]\n\n## Art and photos\n\n- Poster by arizjones.blogspot.com: [Grateful Dead, Starlight Theatre, Kansas City, MO, 8-03-1982 (SBD)](https://arizjones.blogspot.com/2015/07/grateful-dead-starlight-theatre-kansas.html) [36]\n- Poster by Gregg Nixon Grateful Dead: [1982-08-03 Starlight Theater, Kansas City, MO, USA - Jerry Garcia](https://jerrygarcia.com/show/1982-08-03-starlight-theater-kansas-city-mo-usa/) [37]\n- Poster by Jerry Garcia: [1982-08-03 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1982-08-03-backstage-pass/) [38]",

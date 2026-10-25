@@ -689,7 +689,7 @@
      "id": 35,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -712,14 +712,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Brian Baumwoll Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 37,
      "image_url": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/01/12152018/b850905.jpg",
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "Grateful Dead at Red Rocks Amphitheatre Morrison Colorado CO USA Cold Rain And Snow C.C.",
+     "quote_or_claim": "1985-09-05 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia.",
      "site": "Jerry Garcia",
      "title": "1985-09-05 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1985-09-05-red-rocks-amphitheatre-morrison-co-usa/",
@@ -742,7 +742,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "John Richards Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 39,
@@ -785,8 +785,8 @@
     },
     "previous": {
      "date": "1985-09-06",
-     "show": "live:grateful-dead:1985-09-06:red-rocks-ampitheater",
-     "venue": "Red Rocks Ampitheater"
+     "show": "live:grateful-dead:1985-09-06:red-rocks-amphitheatre",
+     "venue": "Red Rocks Amphitheatre"
     },
     "recommended": {
      "identifier": "gd1985-09-07.mtx.chappell.sb26.92184.flac16",
@@ -1458,134 +1458,353 @@
     "setlist": [
      {
       "key": "song:grateful-dead:frozen-logger",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3827,
+       "gap_shows": 730,
+       "last_played": {
+        "date": "1975-03-17",
+        "show": "live:grateful-dead:1975-03-17:aces-snack-rehearsal"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "The Frozen Logger"
      },
      {
       "key": "song:grateful-dead:star-spangled-banner",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5783,
+       "gap_shows": 1145,
+       "last_played": {
+        "date": "1969-11-07",
+        "show": "live:grateful-dead:1969-11-07:fillmore-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "kazoo Star Spangled Banner"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 137,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 302,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 274,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 72,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-06-24",
+        "show": "live:grateful-dead:1985-06-24:river-bend-music-center"
+       },
+       "plays_before": 273,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 63,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 253,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 107,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 31,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-08-30",
+        "show": "live:grateful-dead:1985-08-30:southern-star-amphitheater"
+       },
+       "plays_before": 263,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 204,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 423,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-09-06",
+        "show": "live:grateful-dead:1985-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 894,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-09-06",
+        "show": "live:grateful-dead:1985-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 557,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 11,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:hey-jude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 6034,
+       "gap_shows": 1219,
+       "last_played": {
+        "date": "1969-03-01",
+        "show": "live:grateful-dead:1969-03-01:fillmore-west"
+       },
+       "plays_before": 1,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 11,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 389,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 178,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 242,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 83,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1593,184 +1812,377 @@
      {
       "from": "gd85-09-07.oade.georges.17078.sbeok.shnf",
       "key": "song:grateful-dead:crowd-noise-bobby-talk",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd noise, Bobby talk"
      },
      {
       "from": "gd85-09-07.oade.georges.17078.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 136,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "from": "gd85-09-07.oade.georges.17078.sbeok.shnf",
       "key": "song:grateful-dead:hey-jude-finale",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Hey Jude Finale"
      },
      {
       "from": "gd85-09-07.oade.georges.17078.sbeok.shnf",
       "key": "song:grateful-dead:fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Fantasy"
      },
      {
       "from": "gd85-09-07.oade.georges.17078.sbeok.shnf",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      },
      {
       "from": "gd85-09-07.schoeps.oade.373.sbeok.shnf",
       "key": "song:grateful-dead:bob-talk",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2701,
+       "gap_shows": 572,
+       "last_played": {
+        "date": "1978-04-16",
+        "show": "live:grateful-dead:1978-04-16:huntington-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Bobby talk"
      },
      {
       "from": "gd85-09-07.schoeps.oade.373.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 254,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:bobby-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby/Crowd"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-08-31",
+        "show": "live:grateful-dead:1985-08-31:manor-downs"
+       },
+       "plays_before": 52,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 686,
+       "gap_shows": 122,
+       "last_played": {
+        "date": "1983-10-22",
+        "show": "live:grateful-dead:1983-10-22:carrier-dome-syracuse-u"
+       },
+       "plays_before": 9,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:shakedown",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1575,
+       "gap_shows": 305,
+       "last_played": {
+        "date": "1981-05-16",
+        "show": "live:grateful-dead:1981-05-16:barton-hall-cornell-u"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Shakedown"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 156,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 35,
+       "total_plays": 67
+      },
       "title": "(a couple volume changes in the right channel)"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:samson",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 869,
+       "gap_shows": 166,
+       "last_played": {
+        "date": "1983-04-22",
+        "show": "live:grateful-dead:1983-04-22:veterans-memorial-coliseum"
+       },
+       "plays_before": 5,
+       "total_plays": 8
+      },
       "title": "Samson"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:uncle-johns",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1094,
+       "gap_shows": 207,
+       "last_played": {
+        "date": "1982-09-09",
+        "show": "live:grateful-dead:1982-09-09:saenger-performing-arts-center"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Uncle John's"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 327,
+       "gap_shows": 61,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 18,
+       "total_plays": 36
+      },
       "title": "Playin'"
      },
      {
       "from": "gd1985-09-07.schoeps.oade.sacks.29305.sbeok.flac16",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1985-09-07.153182.beyerm201.holbrook-murtha.flac2448",
       "key": "song:grateful-dead:star-spangled-birds-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Star Spangled Birds Tuning * /"
      },
      {
       "from": "gd1985-09-07.153182.beyerm201.holbrook-murtha.flac2448",
       "key": "song:grateful-dead:equipment-break",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-09-05",
+        "show": "live:grateful-dead:1985-09-05:red-rocks-amphitheatre"
+       },
+       "plays_before": 19,
+       "total_plays": 34
+      },
       "title": "Equipment break"
      },
      {
       "from": "gd1985-09-07.153182.beyerm201.holbrook-murtha.flac2448",
       "key": "song:grateful-dead:hey-jude-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 25
+      },
       "title": "Hey Jude Reprise"
      },
      {
       "from": "gd1985-09-07.153182.beyerm201.holbrook-murtha.flac2448",
       "key": "song:grateful-dead:encore1-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Encore1 Johnny B. Goode"
      },
      {
       "from": "gd1985-09-07.153182.beyerm201.holbrook-murtha.flac2448",
       "key": "song:grateful-dead:encore2-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Encore2 It's All Over Now Baby Blue"
      },
      {
       "from": "gd1985-09-07.150520.mtx.chappell.sb26.vgrm618.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1985-09-07.sbd.unknown.17031.sbefail.shnf",
       "key": "song:grateful-dead:frozen-logger-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Frozen Logger Song"
      },
      {
       "from": "gd1985-09-07.Senn421.Darby.119595.Flac2448",
       "key": "song:grateful-dead:star-spangled-banner-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Star Spangled Banner Tuning"
      },
      {
       "from": "gd1985-09-07.Senn421.Darby.119595.Flac2448",
       "key": "song:grateful-dead:one-more-saturday-night-set-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "One More Saturday Night, Set Break"
      },
      {
       "from": "gd1985-09-07.Senn421.Darby.119595.Flac2448",
       "key": "song:grateful-dead:lovelight-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-09-03",
+        "show": "live:grateful-dead:1985-09-03:starlight-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 22
+      },
       "title": "Lovelight, Encore Break"
      }
     ],
     "subject_key": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "The Frozen Logger",
+      "kazoo Star Spangled Banner",
+      "Hey Jude"
+     ],
      "first_in_archive": [],
-     "show_number": 1237,
-     "shows_in_archive": 1855,
+     "show_number": 1340,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.665471+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.831436+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "Y9KNAen_u4ofCBJzPEcMC5V6hQF9j7f0PWg1nn134WV2S2EZ6cYTXg2EKXYuWgCWFIbyZfUYFiQs9bOv7NvXAQ",
+   "revision": 43,
+   "signature": "kEUTtB8IGLPbVpEDnwJXBX6rOK1b3GqcZZrnx1cjhAEkWMzpUrTlzqr4yijlQgefWAfJ5rAdFoc87B8fwpuuAg",
    "subject_key": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:42:00.667495"
+   "updated_at": "2026-10-25T17:35:20.833234"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Frozen Logger** (2 reviews): The band's lunacy during this song matched the fun of the audience between the rocks [23][24]\n- **Crazy Fingers** (2 reviews): This sparkling performance sounded like the early 1970s band for a few golden moments [23][24]\n- **Shakedown Street** (1 review): Gans linked the Frozen Logger to this song, making it one of the reviewer's favorites [31]\n\n## The recordings\n\n- **gd1985-09-07.mtx.chappell.sb26.92184.flac16** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 157 min; rated 5/5 by 1 [1]. Said about its sound: The transfer process involved multiple digital steps including Cool Edit Pro and FLAC encoding [1]\n- **gd85-09-07.oade.georges.17078.sbeok.shnf**: audience recording; 24 songs; 160 min; rated 4.86/5 by 14 [2]\n- **gd85-09-07.schoeps.oade.373.sbeok.shnf**: audience recording; 24 songs; 158 min; rated 4.14/5 by 7 [3]. Said about its sound: The nicely remastered audience recording brings back the full experience of the concert [23]\n- **gd1985-09-07.163915.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 24 songs; 156 min [4]\n- **gd85-09-07.sbd.miller.18102.sbeok.shnf**: soundboard; 23 songs; 151 min; rated 4.21/5 by 24 [14]. Said about its sound: The nicely remastered audience recording brings back the full experience of the concert; Background distortion and strange clown horns give this performance a uniquely Grateful Dead sound [24][27]\n\n## Around the show\n\n- Mickey and Phil played kazoos and horns off stage during this song, creating a riot [28]\n- The Red Rocks venue was awesome on a sunny day, making the show fantastic [28]\n- The reviewer arrived late after turning around on I-70 due to a bad mood [30]\n- The reviewer was dancing with a woman when the band transitioned into this song [33]\n- Mickey and Phil played kazoos and slide whistles, while Healy and Owsley did sound effects [7]\n- The Frozen Logger was played before the set started, followed by the Star Spangled Banner tuning [7]\n- The soundboard recording is considered the better download compared to the audience recordings [31]\n\n## Tapers and lineage\n\n- **gd1985-09-07.mtx.chappell.sb26.92184.flac16**: taped by See notes; transferred by Chris Chappell; source: Matrix (SBD/AUD mix) ratio = Phi (the Golden Ratio) - 1.618/1 or 62%/38% [1]. Also: Audio chain includes Schoeps mics, Oade mixer, PCM-F1, DAT, and digital remastering by Doug Oade [1]\n- **gd85-09-07.oade.georges.17078.sbeok.shnf**: taped by Doug Oade; transferred by Doug Oade; source: Audience: Schoeps CMC42S [2]. Also: Source uses Schoeps CMC42S and CMC441 mics with Oade power supplies and a custom mixer [2]\n- **gd85-09-07.schoeps.oade.373.sbeok.shnf**: taped by Doug Oade; source: Audience: Schoeps CMC42S [3]\n- **gd1985-09-07.163915.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [4]. Also: Oade Schoeps source supplies crowd noise and the beginning of this song, plus a Drums patch [4]\n- **gd85-09-07.sbd.miller.18102.sbeok.shnf**: source: Soundboard [14]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1985-09-07 Sat Red Rocks Amphitheatre, Morrison, CO](https://www.livegrateful.net/post/1300066226757/gd-1985-09-07-sat-red-rocks-amphitheatre) [36]\n- Poster by Brian Baumwoll Grateful Dead: [1985-09-05 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-09-05-red-rocks-amphitheatre-morrison-co-usa/) [37]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1985-09-07 Sat Red Rocks Amphitheatre, Morrison, CO](https://www.livegrateful.net/post/1300066226757/gd-1985-09-07-sat-red-rocks-amphitheatre) [38]\n- Poster by John Richards Grateful Dead: [1985-09-06 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-09-06-red-rocks-amphitheatre-morrison-co-usa/) [39]\n- Poster by Robbi Cohn: [1985-09-07 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-09-07-red-rocks-amphitheatre-morrison-co-usa/) [40]",

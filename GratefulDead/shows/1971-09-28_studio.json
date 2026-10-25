@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -114,249 +114,600 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 39,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-08-23",
+        "show": "live:grateful-dead:1971-08-23:auditorium-theatre"
+       },
+       "plays_before": 18,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 222,
+       "gap_shows": 44,
+       "last_played": {
+        "date": "1971-02-18",
+        "show": "live:grateful-dead:1971-02-18:capitol-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 87,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 17,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 122,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 127,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 39,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-08-23",
+        "show": "live:grateful-dead:1971-08-23:auditorium-theatre"
+       },
+       "plays_before": 18,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-08-23",
+        "show": "live:grateful-dead:1971-08-23:auditorium-theatre"
+       },
+       "plays_before": 15,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 636,
+       "gap_shows": 152,
+       "last_played": {
+        "date": "1969-12-31",
+        "show": "live:grateful-dead:1969-12-31:home-recordings"
+       },
+       "plays_before": 5,
+       "total_plays": 9
+      },
       "title": "Uncle John's Band Jam"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 67,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 45,
+       "total_plays": 125
+      },
       "title": "Me and Bobby McGee"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1971-07-31",
+        "show": "live:grateful-dead:1971-07-31:yale-bowl-yale-university"
+       },
+       "plays_before": 84,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 146,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 41,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 333,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 1,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 274,
+       "gap_shows": 50,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 26,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 21,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-08-23",
+        "show": "live:grateful-dead:1971-08-23:auditorium-theatre"
+       },
+       "plays_before": 7,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "days_since": 275,
+       "gap_shows": 51,
+       "last_played": {
+        "date": "1970-12-27",
+        "show": "live:grateful-dead:1970-12-27:legion-stadium"
+       },
+       "plays_before": 18,
+       "total_plays": 58
+      },
       "title": "Attics Of My Life"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 22,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-08-21",
+        "show": "live:grateful-dead:1971-08-21:mickeys-barn"
+       },
+       "plays_before": 75,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 138,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 333,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 1,
+       "total_plays": 492
+      },
       "title": "JackStraw"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 333,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 1,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 41,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-08-21",
+        "show": "live:grateful-dead:1971-08-21:mickeys-barn"
+       },
+       "plays_before": 75,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 152,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 88,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:ripple",
-      "stats": {},
+      "stats": {
+       "days_since": 152,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 11,
+       "total_plays": 48
+      },
       "title": "Ripple"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 87,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-08-26",
+        "show": "live:grateful-dead:1971-08-26:gaelic-park"
+       },
+       "plays_before": 81,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-08-23",
+        "show": "live:grateful-dead:1971-08-23:auditorium-theatre"
+       },
+       "plays_before": 15,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1971-09-28:studio",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 301,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Uncle John's Band Jam"
+     ],
+     "first_in_archive": [
+      "One More Saturday Night",
+      "Tennessee Jed",
+      "Mexicali Blues",
+      "Tennessee Jed",
+      "Brown-Eyed Women",
+      "Tennessee Jed",
+      "Tennessee Jed",
+      "Brown-Eyed Women",
+      "Mexicali Blues",
+      "One More Saturday Night"
+     ],
+     "show_number": 365,
+     "shows_in_archive": 2097,
      "songs": 43,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:42.768691+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.927324+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "EeISh3BYrqOG9E9EGC_2UhDmZGOXa5rC0w8Ot9fBCbZi7Ecy1PlVWLXHK42-n6uePx95CgEZ5UMuZupc2UDTDQ",
+   "revision": 41,
+   "signature": "SUTdNCZScsTV_j8N-sP0E2AgqxsqfdPGUk2xv85qUaRr_zZwuRdCUVXvKbnbwjzn6KXDpsbS_KNHqVrILGcUDw",
    "subject_key": "live:grateful-dead:1971-09-28:studio",
-   "updated_at": "2026-10-25T16:41:42.770167"
+   "updated_at": "2026-10-25T17:35:11.928972"
   }
  },
  "recommended": {

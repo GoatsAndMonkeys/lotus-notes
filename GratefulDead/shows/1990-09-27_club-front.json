@@ -36,7 +36,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -52,8 +52,8 @@
     "guests": [],
     "next": {
      "date": "1990-09-28",
-     "show": "live:grateful-dead:1990-09-28:club-front",
-     "venue": "Club Front"
+     "show": "live:grateful-dead:1990-09-28:front-street",
+     "venue": "Front Street"
     },
     "previous": {
      "date": "1990-09-26",
@@ -100,40 +100,61 @@
     "setlist": [
      {
       "key": "song:grateful-dead:goodnite-irene",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2462,
+       "gap_shows": 495,
+       "last_played": {
+        "date": "1983-12-31",
+        "show": "live:grateful-dead:1983-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Goodnight Irene"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-09-10",
+        "show": "live:grateful-dead:1990-09-10:the-spectrum"
+       },
+       "plays_before": 49,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1990-09-27:club-front",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Goodnight Irene"
+     ],
      "first_in_archive": [],
-     "show_number": 1614,
-     "shows_in_archive": 1855,
+     "show_number": 1719,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 18,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:13.866166+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.856079+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "F1C5gBZZ0lGSSN3EIOndMaK4fTSaS1wXlDamXLLqSvVlJY3QOHNfdaeeCxqNQt-qzMrCAy8dYlQ6YD50DIqmAg",
+   "revision": 19,
+   "signature": "SVzJ4c_gpsy-_LheIv_7fS8q-6JBF5sdjscURjHxgI-J-X9kJy-KOhq24J90KuM0UwC6HM_8amtjSzkNQ_hHBw",
    "subject_key": "live:grateful-dead:1990-09-27:club-front",
-   "updated_at": "2026-10-25T16:42:13.871194"
+   "updated_at": "2026-10-25T17:35:25.856500"
   }
  },
  "recommended": {

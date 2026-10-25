@@ -177,7 +177,7 @@
      "id": 10,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -197,9 +197,9 @@
      "venue": "Various"
     },
     "previous": {
-     "date": "1966-05-19",
-     "show": "live:grateful-dead:1966-05-19:avalon-ballroom",
-     "venue": "Avalon Ballroom"
+     "date": "1966-06-01",
+     "show": "live:grateful-dead:1966-06-01:scorpio-studio-outtakes",
+     "venue": "Scorpio Studio Outtakes"
     },
     "recommended": {
      "identifier": "gd1966-06-01.136658.sbd.sirmick.flac1648",
@@ -301,33 +301,57 @@
     "setlist": [
      {
       "key": "song:grateful-dead:indecipherable-talking-over-pa",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Indecipherable talking over pa//"
      },
      {
       "key": "song:grateful-dead:jam-nothing-recognisable-as-a-tune-mostly-phil-and-billy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam, nothing recognisable as a tune. Mostly Phil and Billy (1)"
      },
      {
       "key": "song:grateful-dead:possibly-part-of-a-soundcheck",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "possibly part of a soundcheck (2)"
      },
      {
       "key": "song:grateful-dead:jam-similar-to-track-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam, similar to track 2"
      },
      {
       "key": "song:grateful-dead:jam-similar-to-track-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam, similar to track 2"
      },
      {
       "key": "song:grateful-dead:phil-bass-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil bass jam"
      }
     ],
@@ -335,52 +359,80 @@
      {
       "from": "gd1966-06-01.136657.sbd.sirmick.flac1648",
       "key": "song:grateful-dead:gd1966-xx-xxt01",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1966-xx-xxt01"
      },
      {
       "from": "gd1966-06-01.136657.sbd.sirmick.flac1648",
       "key": "song:grateful-dead:gd1966-xx-xxt02",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1966-xx-xxt02"
      },
      {
       "from": "gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16",
       "key": "song:grateful-dead:hi-heel-sneakers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Hi-Heel Sneakers"
      },
      {
       "from": "gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16",
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-05-19",
+        "show": "live:grateful-dead:1966-05-19:avalon-ballroom"
+       },
+       "plays_before": 6,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1966-06-01:unknown-location-possibly-owsleys-house-in-watts",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 17,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Indecipherable talking over pa//",
+      "jam, nothing recognisable as a tune. Mostly Phil and Billy (1)",
+      "possibly part of a soundcheck (2)",
+      "jam, similar to track 2",
+      "jam, similar to track 2",
+      "Phil bass jam"
+     ],
+     "show_number": 20,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown Location (possibly Owsley’s house in Watts)"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.446239+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.195023+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "lHg2ZPz2-LIT4cI5xKUPKSv8vfc0N_1mPKRqcVrNyql5gnJEU3Ttp6J0PIoItB-pRzYv_uldchOHRXVMj3WvAg",
+   "revision": 40,
+   "signature": "OhsLDqfqyLrcluvqzF5NVV_GZ_njwxsQwenzx8fGGfF4ivpjaEu1JDuSA8ffDDxFrO5E3Od_h8TRAHY2wWnrAg",
    "subject_key": "live:grateful-dead:1966-06-01:unknown-location-possibly-owsleys-house-in-watts",
-   "updated_at": "2026-10-25T16:41:38.446979"
+   "updated_at": "2026-10-25T17:35:09.195696"
   }
  },
  "recommended": {

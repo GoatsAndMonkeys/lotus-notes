@@ -282,7 +282,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -298,8 +298,8 @@
     "guests": [],
     "next": {
      "date": "1970-11-07",
-     "show": "live:grateful-dead:1970-11-07:capitol-theatre",
-     "venue": "Capitol Theatre"
+     "show": "live:grateful-dead:1970-11-07:capitol-theater",
+     "venue": "Capitol Theater"
     },
     "previous": {
      "date": "1970-11-05",
@@ -436,252 +436,668 @@
     "setlist": [
      {
       "key": "song:grateful-dead:candyman-take-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Candyman take one"
      },
      {
       "key": "song:grateful-dead:candyman-take-two",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Candyman take two"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band-take-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle John's Band take one"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band-take-two",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Uncle John's Band take two"
      },
      {
       "key": "song:grateful-dead:attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-10-24",
+        "show": "live:grateful-dead:1970-10-24:kiel-opera-house"
+       },
+       "plays_before": 14,
+       "total_plays": 58
+      },
       "title": "Attics of My Life"
      },
      {
       "key": "song:grateful-dead:drums-and-bass-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drums and bass tuning"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 17,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 19,
+       "total_plays": 50
+      },
       "title": "Deep Elem Blues"
      },
      {
       "key": "song:grateful-dead:dark-hollow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 11,
+       "total_plays": 38
+      },
       "title": "Dark Hollow"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 29,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:rub",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 4,
+       "total_plays": 12
+      },
       "title": "The Rub"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1970-09-18",
+        "show": "live:grateful-dead:1970-09-18:fillmore-east"
+       },
+       "plays_before": 54,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1970-08-05",
+        "show": "live:grateful-dead:1970-08-05:golden-hall-community-concourse"
+       },
+       "plays_before": 5,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 8,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 47,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:working-man-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 9,
+       "total_plays": 14
+      },
       "title": "Workin' Man Blues"
      },
      {
       "key": "song:grateful-dead:i-dont-know-you",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 10,
+       "total_plays": 17
+      },
       "title": "I Don't Know You"
      },
      {
       "key": "song:grateful-dead:whatcha-gonna-do",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 10,
+       "total_plays": 15
+      },
       "title": "Whatcha Gonna Do"
      },
      {
       "key": "song:grateful-dead:glendale-train",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 5,
+       "total_plays": 13
+      },
       "title": "Glendale Train"
      },
      {
       "key": "song:grateful-dead:portland-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 11,
+       "total_plays": 18
+      },
       "title": "Portland Woman"
      },
      {
       "key": "song:grateful-dead:fair-chance-to-know",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 13,
+       "total_plays": 20
+      },
       "title": "Fair Chance to Know"
      },
      {
       "key": "song:grateful-dead:all-i-ever-wanted",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 6,
+       "total_plays": 9
+      },
       "title": "All I Ever Wanted"
      },
      {
       "key": "song:grateful-dead:truck-driving-man",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 8,
+       "total_plays": 14
+      },
       "title": "Truck Drivin' Man"
      },
      {
       "key": "song:grateful-dead:lodi",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 9,
+       "total_plays": 12
+      },
       "title": "Lodi"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 125
+      },
       "title": "Me and Bobby McGee"
      },
      {
       "key": "song:grateful-dead:louisiana-lady",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 7,
+       "total_plays": 16
+      },
       "title": "Louisiana Lady"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 6,
+       "total_plays": 54
+      },
       "title": "The Weight"
      },
      {
       "key": "song:grateful-dead:honky-tonk-women",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 12,
+       "total_plays": 20
+      },
       "title": "Honky Tonk Woman"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 79,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 97,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 183,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1970-05-07",
+        "show": "live:grateful-dead:1970-05-07:dupont-gymnasium-m-i-t"
+       },
+       "plays_before": 19,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 84,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 87,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 12,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 33,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 14,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 73,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:main-ten",
-      "stats": {},
+      "stats": {
+       "days_since": 152,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1970-06-07",
+        "show": "live:grateful-dead:1970-06-07:fillmore-west"
+       },
+       "plays_before": 4,
+       "total_plays": 6
+      },
       "title": "The Main Ten"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 73,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:alligator",
-      "stats": {},
+      "stats": {
+       "days_since": 119,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1970-07-10",
+        "show": "live:grateful-dead:1970-07-10:fillmore-east"
+       },
+       "plays_before": 55,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:wagging-his-tail-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Waggin' His Tail Jam"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:mountain-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 562,
+       "gap_shows": 156,
+       "last_played": {
+        "date": "1969-04-23",
+        "show": "live:grateful-dead:1969-04-23:the-ark"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Mountain Jam"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1970-09-20",
+        "show": "live:grateful-dead:1970-09-20:fillmore-east"
+       },
+       "plays_before": 45,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop on Tracks)"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-05",
+        "show": "live:grateful-dead:1970-11-05:capitol-theater"
+       },
+       "plays_before": 136,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -689,76 +1105,128 @@
      {
       "from": "gd1970-11-06.aud.evans.3338.sbefail.shnf",
       "key": "song:grateful-dead:fixing-the-monitors",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "fixing the monitors"
      },
      {
       "from": "gd1970-11-06.aud.evans.3338.sbefail.shnf",
       "key": "song:grateful-dead:drums-and-phil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drums & Phil"
      },
      {
       "from": "gd1970-11-06.aud.evans.3338.sbefail.shnf",
       "key": "song:grateful-dead:brokedown-palace-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brokedown Palace tuning"
      },
      {
       "from": "gd1970-11-06.aud.evans.3338.sbefail.shnf",
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 183,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1970-05-07",
+        "show": "live:grateful-dead:1970-05-07:dupont-gymnasium-m-i-t"
+       },
+       "plays_before": 13,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "from": "gd1970-11-06.aud.weinberg.moore-berger.119818.flac16",
       "key": "song:grateful-dead:portion-of-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "portion of jam/"
      },
      {
       "from": "gd1970-11-06.aud.weinberg.moore-berger.119818.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-30",
+        "show": "live:grateful-dead:1970-10-30:gym-suny-early-and-late-shows"
+       },
+       "plays_before": 60,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "from": "gd1970-11-06.aud.weinberg.moore-berger.119818.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      },
      {
       "from": "gd1970-11-06.aud.weinberg.moore-berger.119818.flac16",
       "key": "song:grateful-dead:turn-on-your-lovelight-only-49-secs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Turn On Your Lovelight// (glitch) only 49 sec's"
      }
     ],
     "subject_key": "live:grateful-dead:1970-11-06:capitol-theater",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 238,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Mountain Jam"
+     ],
+     "first_in_archive": [
+      "Candyman take one",
+      "Candyman take two",
+      "Uncle John's Band take one",
+      "Uncle John's Band take two",
+      "Drums and bass tuning",
+      "Me and Bobby McGee",
+      "Waggin' His Tail Jam"
+     ],
+     "show_number": 295,
+     "shows_in_archive": 2097,
      "songs": 50,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.244706+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.212781+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "jjr32nRWs3A9RC0acw6PsynJ8rteLc5XYlnO1NgkevH6_Q88M32yOspHM9pLF4rH2uBdfAoR2V5FvVmLSrZMCA",
+   "revision": 41,
+   "signature": "C6czNqXiuMH4C57WJnSugvkfDE4BMg7N9kiMbJ3HKASVGsYo3JE5Ns0ez_Wbz5PV0o-Nytc5DusnLfalghvkAw",
    "subject_key": "live:grateful-dead:1970-11-06:capitol-theater",
-   "updated_at": "2026-10-25T16:41:40.245952"
+   "updated_at": "2026-10-25T17:35:11.214090"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Main Ten** (1 review): Audience clapping during The Main Ten is enjoyed [15]\n- **Good Lovin'** (1 review): Reviewer says the energy really kicks in at Good Lovin'; starting the listen there is suggested [8]\n- **Alligator** (1 review): Searing guitar leads come in the jam out of Alligator, with the crowd getting into it; Garcia's guitar pops and connects over tribal rhythms in that jam, an intimate yet not quiet moment [5]\n- **Goin' Down the Road Feeling Bad** (1 review): Reviewer says the closing jam alone would have made the night worthwhile [9]\n- **Mountain Jam** (1 review): Reviewer recalled this as the show with the Mountain Jam and focused on the fourth disc, where the heat is [13]\n- The jams are described as tremendously powerful [6]\n\n## The recordings\n\n- **gd70-11-06.aud.warner.17183.sbeok.shnf** (recommended): audience recording; 50 songs; 280 min; rated 4.15/5 by 26 [1]. Said about its sound: Described as a very good audience tape, though EQ adjustment is recommended; Audience recording judged quite unlistenable, though the performance deserves higher marks; Recording is barely listenable; reviewer suggests finding a better copy [8][10][11][14][15]\n- **gd70-11-06.d3new.hanno.19922.sbeok.shnf**: audience recording; 14 songs; 78 min; rated 3.6/5 by 5 [3]\n- **gd1970-11-06.aud.weinberg.moore-berger.119818.flac16**: audience recording; 8 songs; 35 min; rated 3.25/5 by 4 [4]\n- **gd1970-11-06.aud.evans.3338.sbefail.shnf**: audience recording; 35 songs; 211 min; rated 4.2/5 by 10 [2]\n\n## Around the show\n\n- Reviewer attended as their first official Dead show, taken by a brother; they taped only the acoustic set on a portable [9]\n- Includes a soundcheck of Uncle John's Band, Candyman and Attics of My Life, called a rarity [12]\n- Acoustic set runs through the first 1:50 of El Paso, followed by the electric set [1]\n- The Dead played one show per night at the Capitol Theater, Thursday to Sunday, November 5-8, 1970 [2]\n- Village Voice ads listed 8:00 PM shows for the run, billed as featuring NRPS [2]\n- Reviewer rates this the best show of the Capitol run, and pairs it with 6-24-70 for Jerry's evident enjoyment [6]\n- Called the last truly great Pigpen show [8]\n\n## Tapers and lineage\n\n- **gd70-11-06.aud.warner.17183.sbeok.shnf**: taped by Ken Leigh and Dave Tamarkin; transferred by Jack Warner; source: Audience [1]. Also: Reviewer's own tape supplies a song and a half that Ken Leigh's recording missed; Reviewer notes the first half apparently comes from a different source [9][13]\n- **gd70-11-06.d3new.hanno.19922.sbeok.shnf**: taped by Marty Weinberg; transferred by Uli Teute and Hanno Bunjes; source: Audience - Improved Disc 3 Only [3]\n- **gd1970-11-06.aud.weinberg.moore-berger.119818.flac16**: taped by Jerry Moore and Marty Weinberg; transferred by Rob Berger; source: partial: aud reel master > reel, Jerry Moore's copy of Marty Weinberg's master; [4]. Also: Only complete copy is shn 17183, Jack Warner's composite of Ken Lee and Dave Tamarkin cassette recordings [4]\n- **gd1970-11-06.aud.evans.3338.sbefail.shnf**: transferred by Teddy Goodbear; source: Audience [2]",

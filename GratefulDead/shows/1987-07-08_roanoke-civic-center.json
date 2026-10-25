@@ -435,7 +435,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -859,113 +859,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-07-04",
+        "show": "live:grateful-dead:1987-07-04:sullivan-stadium"
+       },
+       "plays_before": 102,
+       "total_plays": 225
+      },
       "title": "Hell In a Bucket"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-06-28",
+        "show": "live:grateful-dead:1987-06-28:alpine-valley-music-theatre"
+       },
+       "plays_before": 286,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1987-04-17",
+        "show": "live:grateful-dead:1987-04-17:irvine-meadows"
+       },
+       "plays_before": 111,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1987-05-10",
+        "show": "live:grateful-dead:1987-05-10:laguna-seca-recreation-area"
+       },
+       "plays_before": 76,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:good-times",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1987-05-03",
+        "show": "live:grateful-dead:1987-05-03:frost-amphitheatre"
+       },
+       "plays_before": 14,
+       "total_plays": 26
+      },
       "title": "Good Times"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-06-30",
+        "show": "live:grateful-dead:1987-06-30:kingswood-music-theater"
+       },
+       "plays_before": 5,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1987-04-11",
+        "show": "live:grateful-dead:1987-04-11:uic-pavilion"
+       },
+       "plays_before": 165,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-06-27",
+        "show": "live:grateful-dead:1987-06-27:alpine-valley-music-theatre"
+       },
+       "plays_before": 204,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-06-30",
+        "show": "live:grateful-dead:1987-06-30:kingswood-music-theater"
+       },
+       "plays_before": 232,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-06-30",
+        "show": "live:grateful-dead:1987-06-30:kingswood-music-theater"
+       },
+       "plays_before": 178,
+       "total_plays": 272
+      },
       "title": "Fire On the Mountain"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-06-30",
+        "show": "live:grateful-dead:1987-06-30:kingswood-music-theater"
+       },
+       "plays_before": 232,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-06-30",
+        "show": "live:grateful-dead:1987-06-30:kingswood-music-theater"
+       },
+       "plays_before": 280,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-07-02",
+        "show": "live:grateful-dead:1987-07-02:silver-stadium"
+       },
+       "plays_before": 230,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-07-07",
+        "show": "live:grateful-dead:1987-07-07:roanoke-civic-center"
+       },
+       "plays_before": 1011,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-07-07",
+        "show": "live:grateful-dead:1987-07-07:roanoke-civic-center"
+       },
+       "plays_before": 414,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-06-21",
+        "show": "live:grateful-dead:1987-06-21:greek-theatre-u-of-california"
+       },
+       "plays_before": 43,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-07-04",
+        "show": "live:grateful-dead:1987-07-04:sullivan-stadium"
+       },
+       "plays_before": 419,
+       "total_plays": 539
+      },
       "title": "Truckin"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1987-04-04",
+        "show": "live:grateful-dead:1987-04-04:the-centrum"
+       },
+       "plays_before": 64,
+       "total_plays": 72
+      },
       "title": "Comes a Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-07-02",
+        "show": "live:grateful-dead:1987-07-02:silver-stadium"
+       },
+       "plays_before": 480,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:black-muddy-river",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-07-02",
+        "show": "live:grateful-dead:1987-07-02:silver-stadium"
+       },
+       "plays_before": 20,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -973,31 +1153,77 @@
      {
       "from": "gd1987-07-08.134871.bltz.flac2496",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1987-05-03",
+        "show": "live:grateful-dead:1987-05-03:frost-amphitheatre"
+       },
+       "plays_before": 22,
+       "total_plays": 36
+      },
       "title": "Good Time Blues"
      },
      {
       "from": "gd1987-07-08.134871.bltz.flac2496",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-07-07",
+        "show": "live:grateful-dead:1987-07-07:roanoke-civic-center"
+       },
+       "plays_before": 671,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1987-07-08.134871.bltz.flac2496",
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-06-26",
+        "show": "live:grateful-dead:1987-06-26:alpine-valley-music-theatre"
+       },
+       "plays_before": 81,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "from": "gd1987-07-08.nak300.koucky.ladner.35399.sbeok.flac16",
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1987-05-03",
+        "show": "live:grateful-dead:1987-05-03:frost-amphitheatre"
+       },
+       "plays_before": 28,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "from": "gd1987-07-08.142149.s2.FOB-schoeps-cmc-mk4-ortf.gastwirt.miller.sirmick.flac1644",
       "key": "song:grateful-dead:lead-in",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5979,
+       "gap_shows": 1136,
+       "last_played": {
+        "date": "1971-02-23",
+        "show": "live:grateful-dead:1971-02-23:capitol-theater-portchester-ny"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "lead in"
      }
     ],
@@ -1005,10 +1231,10 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1357,
-     "shows_in_archive": 1855,
+     "show_number": 1461,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Set I",
@@ -1018,16 +1244,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:04.531913+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.858428+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "ClBjG1QwXaTUJTB4LtMluOf6581yhiBtKOyIkkZTweY_T2Jmye4a4sKmwu24-JcOKRAzxcfjEa5Jd0IuQbg9Aw",
+   "revision": 42,
+   "signature": "UGS8YSsJNaJ9rI4cQnzQTxOm7kOPpuQf4wPoCJZQIj5P9fF_Mbzkjq_ZH7BbB9Nsk-Ni7oyY74pARrcIg5NHDg",
    "subject_key": "live:grateful-dead:1987-07-08:roanoke-civic-center",
-   "updated_at": "2026-10-25T16:42:04.535860"
+   "updated_at": "2026-10-25T17:35:22.859519"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Crazy Fingers** (1 review, 1 other source): The Crazy Fingers performance out of space is greatly superior to the only other time played; Crazy Fingers and Comes a Time are especially good, with reference quality versions of many songs [1][12]\n- **Hell In A Bucket** (1 review): Hell In A Bucket is jacked up from the first note, starting the party in full force [20]\n- **Let It Grow** (1 review): The first set closer is superb and sets up an amazing second set [10]\n- Garcia is on point on his ballads, making the entire show real nice and tasty [19]\n\n## The recordings\n\n- **gd1987-07-08.134871.bltz.flac2496** (recommended): source not stated; 20 songs; 155 min [1]\n- **gd1987-07-08.nak300.koucky.ladner.35399.sbeok.flac16**: soundboard; 19 songs; 149 min; rated 5/5 by 3 [2]. Said about its sound: Beautiful AUD recording with just the right amount of crowd noise to evoke the live experience [10]\n- **gd1987-07-08.sbd.miller.90146.sbeok.flac16**: soundboard; 19 songs; 150 min; rated 3.5/5 by 16 [3]. Said about its sound: The Healy mix sounds more like an audience recording, though it is a great one [18]\n- **gd1987-07-08.164877.senn.me80.hessberg.miller.clugston.flac1648**: audience recording; 19 songs; 154 min; rated 5/5 by 1 [4]\n- **gd1987-07-08.nak300.cohen.105726.sbeok.flac16**: source not stated; 19 songs; 150 min; rated 4.67/5 by 3 [8]. Said about its sound: A nice clean audience tape from a solid show during what is considered a weak year [17]\n\n## Around the show\n\n- The town was unprepared for the masses but handled the crowd well, similar to Hampton [13]\n- The band was happy to be there with Jerry healthy, stretching their arms and having fun [13]\n- The crowd went absolutely nuts in the second set, creating an exciting atmosphere to hear [16]\n- Tickets were hard to come by for this small venue stop in a summer of huge stadium shows [21]\n- The uploader did not attend but considers it one of the best shows they have seen [6]\n- Considered one of the best shows seen, with a superior version of the rare combo [12]\n- Shows taken during breaks from the Dylan tour were usually something special, like this one [15]\n\n## Tapers and lineage\n\n- **gd1987-07-08.134871.bltz.flac2496**: taped by bltz; transferred by bltz; source: Source: Nakamichi CM-300s/2-Mic CP-4 super-directional shotgun capsule -> Sony Walkman Pro/Maxell XLII-S 90 -> JVC TD-W354 -> Zoom H6 96/24 WAV -> Audacity ->… [1]\n- **gd1987-07-08.nak300.koucky.ladner.35399.sbeok.flac16**: taped by Bill Koucky; transferred by Chris Ladner; source: Taper's section at the SBD, Nakamichi 300s > Sony D5 > Maxell MX90 Master Cassettes [2]\n- **gd1987-07-08.sbd.miller.90146.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat -> FLAC [3]\n- **gd1987-07-08.164877.senn.me80.hessberg.miller.clugston.flac1648**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME80 mics > Sony D5M [4]\n- **gd1987-07-08.nak300.cohen.105726.sbeok.flac16**: taped by Dave Cohen; transferred by Dave Cohen; source: 2 Nakamichi CM100s/CP4>Sony TCD5M w/Dolby Maxell MX90s cassettes. 5th row behind Board, DFC (Sec LT5 Row E Seat 5) [8]",

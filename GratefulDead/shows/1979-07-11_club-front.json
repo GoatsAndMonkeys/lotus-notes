@@ -95,7 +95,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -189,22 +189,58 @@
     "setlist": [
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-07-11",
+        "show": "live:grateful-dead:1979-07-11:studio-rehersal-club-front"
+       },
+       "plays_before": 1,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-07-11",
+        "show": "live:grateful-dead:1979-07-11:studio-rehersal-club-front"
+       },
+       "plays_before": 1,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:whatll-you-raise",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-07-11",
+        "show": "live:grateful-dead:1979-07-11:studio-rehersal-club-front"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "What'll You Raise"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-07-11",
+        "show": "live:grateful-dead:1979-07-11:studio-rehersal-club-front"
+       },
+       "plays_before": 1,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      }
     ],
@@ -213,26 +249,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 767,
-     "shows_in_archive": 1855,
+     "show_number": 863,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 37,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.778841+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.026925+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "5-jDyPIedDvWBIRTeGLaFBzxpz04nz2_Ev742exqGnD18H3ByzHOg6bWJJ-rHK7EiXAMlXK4IhqzAj2RMpxYBA",
+   "revision": 38,
+   "signature": "VjYY3LDnR4eZAvxyQNFcbDp9KbBkIgz-1VpxiR8M4QuTXWyvU0BJHP_Uq7iVxbGrEj_2fARRqslgzoZoPARZAA",
    "subject_key": "live:grateful-dead:1979-07-11:club-front",
-   "updated_at": "2026-10-25T16:41:52.779474"
+   "updated_at": "2026-10-25T17:35:16.027321"
   }
  },
  "recommended": {

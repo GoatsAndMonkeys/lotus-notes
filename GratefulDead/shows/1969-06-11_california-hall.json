@@ -106,7 +106,7 @@
      "id": 7,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -121,9 +121,9 @@
     "date": "1969-06-11",
     "guests": [],
     "next": {
-     "date": "1969-06-14",
-     "show": "live:grateful-dead:1969-06-14:monterey-performing-arts-center",
-     "venue": "Monterey Performing Arts Center"
+     "date": "1969-06-13",
+     "show": "live:grateful-dead:1969-06-13:fresno-convention-center",
+     "venue": "Fresno Convention Center"
     },
     "previous": {
      "date": "1969-06-08",
@@ -170,100 +170,216 @@
     "setlist": [
      {
       "key": "song:grateful-dead:let-it-be-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Let It Be Me"
      },
      {
       "key": "song:grateful-dead:silver-threads",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Silver Threads"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:cathys-clown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cathy's Clown"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-08",
+        "show": "live:grateful-dead:1969-06-08:fillmore-west"
+       },
+       "plays_before": 17,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle//"
      },
      {
       "key": "song:grateful-dead:slewfoot",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
       "title": "Slewfoot"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-07",
+        "show": "live:grateful-dead:1969-06-07:fillmore-west"
+       },
+       "plays_before": 1,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:games-people-play",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Games People Play//"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:green-green-grass-of-home",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-06-06",
+        "show": "live:grateful-dead:1969-06-06:fillmore-west"
+       },
+       "plays_before": 2,
+       "total_plays": 8
+      },
       "title": "Green Green Grass Of Home"
      },
      {
       "key": "song:grateful-dead:tiger-by-the-tail",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Tiger By The Tail//"
      },
      {
       "key": "song:grateful-dead:ive-just-seen-a-face",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I've Just Seen A Face"
      },
      {
       "key": "song:grateful-dead:all-i-have-to-do-is-dream",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "All I Have To Do Is Dream"
      },
      {
       "key": "song:grateful-dead:wabash-cannonball",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wabash Cannonball"
      },
      {
       "key": "song:grateful-dead:railroading-across-the-great-divide",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Railroading Across The Great Divide//"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-07",
+        "show": "live:grateful-dead:1969-06-07:fillmore-west"
+       },
+       "plays_before": 66,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-05-29",
+        "show": "live:grateful-dead:1969-05-29:robertson-gym-u-c-s-b"
+       },
+       "plays_before": 38,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:feedback",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1969-05-24",
+        "show": "live:grateful-dead:1969-05-24:seminole-indian-village"
+       },
+       "plays_before": 38,
+       "total_plays": 51
+      },
       "title": "Feed//back"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 22,
+       "total_plays": 57
+      },
       "title": "Bid U Goodnight"
      }
     ],
@@ -271,27 +387,39 @@
     "subject_key": "live:grateful-dead:1969-06-11:california-hall",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 132,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Let It Be Me",
+      "Mama Tried",
+      "Cathy's Clown",
+      "Slewfoot",
+      "Games People Play//",
+      "The Race Is On",
+      "Tiger By The Tail//",
+      "I've Just Seen A Face",
+      "All I Have To Do Is Dream",
+      "Wabash Cannonball",
+      "Railroading Across The Great Divide//"
+     ],
+     "show_number": 157,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "California Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.295848+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.008892+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "60oG38MprCiQrooDG5RX7n6RmE1h-jTU_Ik4pZvWUf5-dwmz53U7dkiMbOPBJ65kckDSxJNZOVuuCpcRbwuPCw",
+   "revision": 40,
+   "signature": "3c_UcbnbbLryq6HtXH9aA_9WrDChexD1swASVoYNITYKsCOkibLmGsA1FMnn0WcWfxBIjr92KaJQQuIBfaYTAw",
    "subject_key": "live:grateful-dead:1969-06-11:california-hall",
-   "updated_at": "2026-10-25T16:41:39.296576"
+   "updated_at": "2026-10-25T17:35:10.009522"
   }
  },
  "recommended": {

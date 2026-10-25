@@ -632,7 +632,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1309,139 +1309,329 @@
     "setlist": [
      {
       "key": "song:grateful-dead:ajaja",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ajaja"
      },
      {
       "key": "song:grateful-dead:akiwowo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Akiwowo"
      },
      {
       "key": "song:grateful-dead:kiyakiya",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Kiyakiya"
      },
      {
       "key": "song:grateful-dead:speaking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "speaking"
      },
      {
       "key": "song:grateful-dead:yembela",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Yembela"
      },
      {
       "key": "song:grateful-dead:ilere",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ilere"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-11",
+        "show": "live:grateful-dead:1987-09-11:capital-centre"
+       },
+       "plays_before": 103,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-13",
+        "show": "live:grateful-dead:1987-09-13:capital-centre"
+       },
+       "plays_before": 237,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-13",
+        "show": "live:grateful-dead:1987-09-13:capital-centre"
+       },
+       "plays_before": 173,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 206,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-09-07",
+        "show": "live:grateful-dead:1987-09-07:providence-civic-center"
+       },
+       "plays_before": 104,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 105,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-09-07",
+        "show": "live:grateful-dead:1987-09-07:providence-civic-center"
+       },
+       "plays_before": 208,
+       "total_plays": 294
+      },
       "title": "Let it Grow"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-09-08",
+        "show": "live:grateful-dead:1987-09-08:providence-civic-center"
+       },
+       "plays_before": 223,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-11",
+        "show": "live:grateful-dead:1987-09-11:capital-centre"
+       },
+       "plays_before": 324,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-09",
+        "show": "live:grateful-dead:1987-09-09:providence-civic-center"
+       },
+       "plays_before": 222,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:devil-with-the-blue-dress-medley",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Devil with the Blue Dress Medley"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1987-08-16",
+        "show": "live:grateful-dead:1987-08-16:town-park"
+       },
+       "plays_before": 234,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 1033,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 693,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 425,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-11",
+        "show": "live:grateful-dead:1987-09-11:capital-centre"
+       },
+       "plays_before": 303,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-13",
+        "show": "live:grateful-dead:1987-09-13:capital-centre"
+       },
+       "plays_before": 129,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-09",
+        "show": "live:grateful-dead:1987-09-09:providence-civic-center"
+       },
+       "plays_before": 429,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:crowd-chant",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 150,
+       "gap_shows": 41,
+       "last_played": {
+        "date": "1987-04-19",
+        "show": "live:grateful-dead:1987-04-19:irvine-meadows"
+       },
+       "plays_before": 8,
+       "total_plays": 20
+      },
       "title": "crowd chant"
      },
      {
@@ -1449,14 +1639,27 @@
       "key": "song:grateful-dead:we-bid-you-goodnight-theme",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We Bid You Goodnight theme"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:black-muddy-river",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 25,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -1464,352 +1667,678 @@
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t01-unknown-opening-act",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t01 Unknown Opening Act"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t02-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t02 Crowd"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t03-touch-of-grey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t03 Touch Of Grey"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t04-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t04 Scarlet Begonias"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t05-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t05 Little Red Rooster"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t06-dire-wolf",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t06 Dire Wolf"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t07-my-brother-esau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t07 My Brother Esau"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t08-high-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t08 High Time"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t09-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t09 Let It Grow"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t10-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t10 Don't Ease Me In"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t11-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t11 Crowd"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t12-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t12 Bertha"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t13-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t13 Greatest Story Ever Told"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t14-devil-with-the-blue-dress",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t14 Devil With The Blue Dress"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t15-good-golly-miss-molly",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t15 Good Golly Miss Molly"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t16-devil-with-the-blue-dress",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t16 Devil With The Blue Dress"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t17-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t17 He's Gone"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t18-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t18 Drums"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t19-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t19 Space"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t20-trucking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t20 Truckin'"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t21-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t21 Wharf Rat"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t22-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t22 Throwing Stones"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t23-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t23 Not Fade Away"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t24-not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t24 Not Fade Away Chant"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t25-going-down-the-road-feeling-bad-coda",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t25 Goin' Down The Road Feeling Bad Coda"
      },
      {
       "from": "gd1987-09-16.141891.fob.akg414.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-16-t26-black-muddy-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-16 t26 Black Muddy River"
      },
      {
       "from": "gd1987-09-16.nak300.damico.90164.sbeok.flac16",
       "key": "song:grateful-dead:olatunji",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "olatunji"
      },
      {
       "from": "gd1987-09-16.nak300.damico.90164.sbeok.flac16",
       "key": "song:grateful-dead:devil-with-the-blue-dress-on",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-09",
+        "show": "live:grateful-dead:1987-09-09:providence-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "devil with the blue dress on"
      },
      {
       "from": "gd1987-09-16.nak300.damico.90164.sbeok.flac16",
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-11",
+        "show": "live:grateful-dead:1987-09-11:capital-centre"
+       },
+       "plays_before": 248,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "from": "gd1987-09-16.sbd.miller.89065.sbeok.flac16",
       "key": "song:grateful-dead:good-golly-miss-molly",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-09",
+        "show": "live:grateful-dead:1987-09-09:providence-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Good Golly Miss Molly"
      },
      {
       "from": "gd1987-09-16.sbd.miller.89065.sbeok.flac16",
       "key": "song:grateful-dead:going-down-the-road-feeling-bad-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Goin' Down The Road Feeling Bad Reprise"
      },
      {
       "from": "gd1987-09-16.154308.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:space-tuning-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space/Tuning/Crowd"
      },
      {
       "from": "gd87-09-16.sbd.hinko.22797.sbeok.shnf",
       "key": "song:grateful-dead:going-down-the-road-feeling-bad-end-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Goin' Down the Road Feelin' Bad End Jam"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-09-08",
+        "show": "live:grateful-dead:1987-09-08:providence-civic-center"
+       },
+       "plays_before": 157,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 545,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 384,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 439,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 441,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 174,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "from": "gd1987-09-16.171788.ultramatrix.miller.flac2496",
       "key": "song:grateful-dead:hey-jude",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 739,
+       "gap_shows": 142,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 2,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "from": "gd1987-09-16.022797.sbd.hinko.sbeok.shnf",
       "key": "song:grateful-dead:gdtrfb-end-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "GDTRFB End Jam > (01:32.43)"
      },
      {
       "from": "gd1987-09-16.nakcm304.suraci.82365.sbeok.flac16",
       "key": "song:grateful-dead:blue-dress",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blue Dress"
      },
      {
       "from": "gd1987-09-16.nakcm304.suraci.82365.sbeok.flac16",
       "key": "song:grateful-dead:blues-dress",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues Dress"
      },
      {
       "from": "gd1987-09-16.nakcm304.suraci.82365.sbeok.flac16",
       "key": "song:grateful-dead:nfa",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 14,
+       "total_plays": 21
+      },
       "title": "NFA"
      },
      {
       "from": "gd1987-09-16.nakcm304.suraci.82365.sbeok.flac16",
       "key": "song:grateful-dead:gdtrfb-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "GDTRFB Reprise"
      },
      {
       "from": "gd1987-09-16.149869.nak700.dyche.flac",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-09-07",
+        "show": "live:grateful-dead:1987-09-07:providence-civic-center"
+       },
+       "plays_before": 73,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1987-09-16.125758.AT835.flac16",
       "key": "song:grateful-dead:gdtrfb-sendoff-black-muddy-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "GDTRFB Sendoff - Black Muddy River"
      },
      {
       "from": "gd87-09-16.schoeps.willy.15206.sbeok.shnf",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1987-08-11",
+        "show": "live:grateful-dead:1987-08-11:red-rocks-amphitheatre"
+       },
+       "plays_before": 91,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:touch",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1803,
+       "gap_shows": 339,
+       "last_played": {
+        "date": "1982-10-09",
+        "show": "live:grateful-dead:1982-10-09:frost-amphitheatre"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Touch"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:scarlet",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 8,
+       "total_plays": 15
+      },
       "title": "Scarlet"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:rooster",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 545,
+       "gap_shows": 110,
+       "last_played": {
+        "date": "1986-03-20",
+        "show": "live:grateful-dead:1986-03-20:hampton-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Rooster"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:dont-ease",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 546,
+       "gap_shows": 111,
+       "last_played": {
+        "date": "1986-03-19",
+        "show": "live:grateful-dead:1986-03-19:hampton-coliseum"
+       },
+       "plays_before": 4,
+       "total_plays": 15
+      },
       "title": "Don't Ease"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:greatest",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1471,
+       "gap_shows": 283,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Greatest"
      },
      {
       "from": "gd1987-09-16.015206.schoeps.bottiglio-willy.sbeok.shnf",
       "key": "song:grateful-dead:not-fade",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1869,
+       "gap_shows": 358,
+       "last_played": {
+        "date": "1982-08-04",
+        "show": "live:grateful-dead:1982-08-04:kiel-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Not Fade"
      }
     ],
     "subject_key": "live:grateful-dead:1987-09-16:madison-square-garden",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1379,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Ajaja",
+      "Akiwowo",
+      "Kiyakiya",
+      "speaking",
+      "Yembela",
+      "Ilere",
+      "Devil with the Blue Dress Medley",
+      "We Bid You Goodnight theme"
+     ],
+     "show_number": 1483,
+     "shows_in_archive": 2097,
      "songs": 27,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.152556+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.068876+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "LzdcL-jpkTyxuFpkyy8pnHrqHl7JVqmJbAPspml9Q4PYwrNOeR6eo0DIe3Npms0amuuWeYOfbcOVqfFp3ZYFCw",
+   "revision": 42,
+   "signature": "MwRl-BDc62dmsEBsTKi52F5j0ccUvGpvXVfTJn5jqA0Bl2cOEsJP4wC3WAXBZtJufQmudtsfQ2pYCkJFDOjhAA",
    "subject_key": "live:grateful-dead:1987-09-16:madison-square-garden",
-   "updated_at": "2026-10-25T16:42:05.155804"
+   "updated_at": "2026-10-25T17:35:23.070597"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Touch of Grey** (3 reviews): Reviewer likes Touch of Grey flowing into Scarlet Begonias as an opener; Reviewer finds this Touch of Grey grounded and skippable, with Jerry sounding bland [21][26][29]\n- **Scarlet Begonias** (2 reviews): Scarlet is livelier than Touch, with Jerry's guitar only getting interesting shortly before the four-minute mark; The crowd reacted excitedly to Scarlet Begonias appearing in an unexpected spot, following Touch of Grey [26][32]\n- **Little Red Rooster** (1 review): Scarlet led into Little Red Rooster; the crowd groaned at an overused song, but the band nailed it [24]\n- **My Brother Esau** (1 review): Reviewer believes this was the only My Brother Esau they ever saw [32]\n- **Bertha** (1 review): Bertha into Greatest Story, Blue Dress, Good Golly and back to Blue Dress is called hot [25]\n- **Greatest Story Ever Told** (1 review): Second-set run of Greatest Story, Good Golly, Blue Dress and back to Good Golly is called awesome [21]\n- **Devil with the Blue Dress Medley** (1 review): Reviewer calls the Good Golly and Devil with the Blue Dress inclusion an oddity of the show [31]\n- **Goin' Down The Road Feelin' Bad** (1 review): Goin' Down the Road ended before Black Muddy River because the crowd kept clapping after Not Fade Away [31]\n\n## The recordings\n\n- **gd1987-09-16.nak300.gidley.115934.flac2448** (recommended): audience recording; 27 songs; 183 min [1]\n- **gd1987-09-16.171964.ultramatrix.miller.flac1648**: soundboard; 23 songs; 157 min [5]\n- **gd1987-09-16.154308.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 24 songs; 158 min [6]\n- **gd1987-09-16.172260.mtx.tobin.flac2496**: matrix (soundboard mixed with audience mics); 23 songs; 156 min [8]\n- **gd87-09-16.schoeps.willy.15206.sbeok.shnf**: audience recording; 22 songs; 154 min; rated 4.33/5 by 3 [17]. Said about its sound: This audience recording is judged about as good as the rather muddy soundboard [32]\n\n## Around the show\n\n- Reviewer worked the Ticketron machine at Scottie's Record Shop in Summit NJ when the run went on sale, getting 50 tickets [31]\n- The New York City Percussion Ensemble opened the show [1]\n- The New York City Percussion Ensemble opened the show [5]\n- The New York City Percussion Ensemble opened the show [8]\n- Jerry's flubbed lyrics here seem to come from exuberance, unlike his usual forgetful nodding; Bobby has almost a night off [22]\n- No Dylan song was played; reviewer says that was the only such night on this tour [23]\n- Reviewer says every Fall '87 show is overshadowed by the 9/18 show [25]\n\n## Tapers and lineage\n\n- **gd1987-09-16.nak300.gidley.115934.flac2448**: taped by Ted Gidley; transferred by AndrewF; source: 24bit/48kHz file set: OTS AUD: 2x Nakamichi CM300 w/CP4 shotguns > Sony TC-D5M > Maxell MX90's, w/no Dolby. Taped by Ted Gidley. [1]. Also: Patches cover tape flips in this Nak300 source, including crowd sound from end of Scarlet to start of Rooster [1]\n- **gd1987-09-16.171964.ultramatrix.miller.flac1648**: transferred by All Transfers and Mastering by Charlie Miller  June 9, 2025; source: Ultramatrix SBD > Cassette Master (TDK SA-X90) [5]. Also: Scott Clugston did pitch correction; Tim Dalton supplied the patch source tape [5]\n- **gd1987-09-16.154308.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [6]. Also: Tim Dalton's AKG 415 source supplies the first 19 seconds of Let It Grow and a patch in Drums into Space [6]\n- **gd1987-09-16.172260.mtx.tobin.flac2496**: transferred by Kevin Tobin [8]. Also: This is a mix created by an archive.org user, converted to FLAC in July 2025 [8]\n- **gd87-09-16.schoeps.willy.15206.sbeok.shnf**: source: AUD (Schoeps CMC 34's)>MC*>DAT>CDEAC/SHN by Willy [17]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1987-09-16 Madison Square Garden, New York, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1987-09-16-madison-square-garden-new-york-ny-usa/) [36]",

@@ -872,7 +872,7 @@
      "id": 41,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -903,8 +903,8 @@
     "guests": [],
     "next": {
      "date": "1985-06-21",
-     "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theater",
-     "venue": "Alpine Valley Music Theater"
+     "show": "live:grateful-dead:1985-06-21:alpine-valley-music-theatre",
+     "venue": "Alpine Valley Music Theatre"
     },
     "previous": {
      "date": "1985-06-15",
@@ -1763,119 +1763,309 @@
      {
       "key": "song:grateful-dead:midnight-hour",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 19,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 304,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 4,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1985-03-29",
+        "show": "live:grateful-dead:1985-03-29:nassau-coliseum"
+       },
+       "plays_before": 328,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 67,
+       "total_plays": 108
+      },
       "title": "My Brother Easu"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 145,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 307,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 132,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 308,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 211,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 80,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 158,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 258,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4649,
+       "gap_shows": 866,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 126,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 412,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 875,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 538,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 222,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-04-14",
+        "show": "live:grateful-dead:1985-04-14:irvine-meadows"
+       },
+       "plays_before": 95,
+       "total_plays": 279
+      },
       "title": "I Need a Miracle"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 267,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 173,
+       "total_plays": 333
+      },
       "title": "Turn on Your Lovelight"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:brokedown-palace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 130,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1883,64 +2073,116 @@
      {
       "from": "gd85-06-16.oade.sacks.7087.sbeok.shnf",
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 23,
+       "total_plays": 45
+      },
       "title": "In the Midnight Hour"
      },
      {
       "from": "gd1985-06-16.nak300.andrewf.127488.flac1644",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 49,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1985-06-16.nak300.andrewf.127488.flac1644",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1263,
+       "gap_shows": 231,
+       "last_played": {
+        "date": "1981-12-31",
+        "show": "live:grateful-dead:1981-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 65,
+       "total_plays": 68
+      },
       "title": "That's It for the Other One"
      },
      {
       "from": "gd1985-06-16.nak300.andrewf.127488.flac1644",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-04-08",
+        "show": "live:grateful-dead:1985-04-08:the-spectrum"
+       },
+       "plays_before": 73,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1985-06-16.nak300.andrewf.127488.flac1644",
       "key": "song:grateful-dead:encore-false-start",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "encore false start"
      },
      {
       "from": "gd1985-06-16.167183.neumann.km84i.hecht.miller.clugston.flac2496",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 133,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      }
     ],
     "subject_key": "live:grateful-dead:1985-06-16:greek-theater-u-of-california",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Cryptical Envelopment"
+     ],
      "first_in_archive": [],
-     "show_number": 1218,
-     "shows_in_archive": 1855,
+     "show_number": 1321,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theater, U. of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.292419+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.585713+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "fC1uR7znd4hWr7sk3SdfDgmY-cdiSIonxpJ46DEYEFxiWqOWxuPNo0x-9CqVDn_U6cbDngkjecqGS6XwWD4bDA",
+   "revision": 31,
+   "signature": "AhttOWYWPWh6ME30WhnGr3Bkz4gBizD2fISNbn3fohsHvNXAExSbZtqxh_mupdEp_E3eFJOnRkS8LFXN6hyHAQ",
    "subject_key": "live:grateful-dead:1985-06-16:greek-theater-u-of-california",
-   "updated_at": "2026-10-25T16:42:00.294669"
+   "updated_at": "2026-10-25T17:35:20.587249"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd85-06-16.sbd.braveman.26080.sbeok.shnf** (recommended): soundboard; 21 songs; 149 min; rated 4.5/5 by 2 [1]\n- **gd85-06-16.oade.sacks.7087.sbeok.shnf**: audience recording; 22 songs; 153 min; rated 4.36/5 by 22 [2]. Said about its sound: The transition from Cryptical to The Other One sounds like it was made by a computer; Vocals have texture and passion, though the bass end lacks the boom of big hall venues [32][39]\n- **gd85-06-16.sbd.barrick.970.sbefail.shnf**: soundboard; 22 songs; 141 min; rated 3.83/5 by 6 [5]. Said about its sound: Vocals and bass are extremely high, making Jerry's guitar washed out and nearly inaudible; The recording has incredible resolution and a unique studio sound, with no crowd noise during songs; Bass is pronounced in Midnight Hour and Bertha, overwhelming Jerry's lead guitar and solo [29][30][38]\n- **gd1985-06-16.167183.neumann.km84i.hecht.miller.clugston.flac2496**: audience recording; 22 songs; 144 min [8]\n- **gd1985-06-16.senn441.mccue.ford.33669.sbeok.flac16**: source not stated; 22 songs; 118 min [10]. Said about its sound: A dying battery affected the last three tracks, causing static and garbled tape sections [10]\n- **gd1985-06-16.152521.sbd.fixed.cm.miller.t.flac16**: soundboard; 20 songs; 151 min; rated 5/5 by 1 [11]\n\n## Around the show\n\n- The first Cryptical Envelopment in thirteen years occurred without any stage commentary from the band [31]\n- Beautiful weather accompanied the 5:00 PM start, marking the 20th anniversary of Phil moving to the area [33]\n- Cryptical Envelopment was dusted off for the first time in fourteen years during this run [35]\n- A cousin described the space as the furthest he ever swam from the shore [40]\n\n## Tapers and lineage\n\n- **gd85-06-16.sbd.braveman.26080.sbeok.shnf**: transferred by jbraveman; source: SBD > Reel Master > DATs [1]\n- **gd85-06-16.oade.sacks.7087.sbeok.shnf**: source: Oade PCM-AUD -- Schoeps MK41 (90 deg ORTF -- Tapers' Section) -> CMC4 ->Oade M118 prototype [2]. Also: The reviewer's original tape was allegedly stolen from a band member, sounding like a band feed [37]\n- **gd85-06-16.sbd.barrick.970.sbefail.shnf**: source: source update: SBD> MVHS> DAT> CD-R [5]\n- **gd1985-06-16.167183.neumann.km84i.hecht.miller.clugston.flac2496**: taped by Chris Hecht; transferred by Scott Clugston, Charlie Miller; source: Chris Hecht's Master Audience Cassettes; Neumann KM84i mics > Sony D5M [8]. Also: Chris Hecht provided the master; Charlie Miller transferred it, using Nakamichi 700 patches for gaps [8]\n- **gd1985-06-16.senn441.mccue.ford.33669.sbeok.flac16**: taped by Adam, Justin & Monica; transferred by Alex Ford; source: (FOB) 2 Sennheiser 441's > Sony D5 > Master Cassettes [10]\n- **gd1985-06-16.152521.sbd.fixed.cm.miller.t.flac16**: taped by Joani Walker and Paul Scotton; transferred by All Transfers and Mastering by Charlie Miller  April 22, 2021; source: SBD > Cassette Master (Nakamichi 550/Maxell XLII-S90) [11]. Also: Joani Walker and Paul Scotton provided tapes; PCM SBD covered flips, with Jones setting pitch correction [11]\n\n## Art and photos\n\n- Poster by www.gdao.org: [Grateful Dead - 20th Anniversary, Greek Theatre, Berkeley, June 14, 15, 16, 1985 · Grateful Dead Archive Online · Gratef](https://www.gdao.org/items/show/377762) [42]",

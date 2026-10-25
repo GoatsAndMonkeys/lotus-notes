@@ -848,7 +848,7 @@
      "id": 41,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -909,8 +909,8 @@
     "guests": [],
     "next": {
      "date": "1985-07-02",
-     "show": "live:grateful-dead:1985-07-02:pittsburgh-civic-arena",
-     "venue": "Pittsburgh Civic Arena"
+     "show": "live:grateful-dead:1985-07-02:civic-arena",
+     "venue": "Civic Arena"
     },
     "previous": {
      "date": "1985-06-30",
@@ -1769,112 +1769,287 @@
     "setlist": [
      {
       "key": "song:grateful-dead:crowd-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 370,
+       "gap_shows": 71,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 4,
+       "total_plays": 20
+      },
       "title": "Crowd/tunning"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-06-14",
+        "show": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 120,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Streets"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 60,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-06-22",
+        "show": "live:grateful-dead:1985-06-22:alpine-valley-music-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 262,
+       "gap_shows": 52,
+       "last_played": {
+        "date": "1984-10-12",
+        "show": "live:grateful-dead:1984-10-12:augusta-civic-center"
+       },
+       "plays_before": 59,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-24",
+        "show": "live:grateful-dead:1985-06-24:river-bend-music-center"
+       },
+       "plays_before": 69,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 57,
+       "total_plays": 155
+      },
       "title": "Staqgger Lee"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-24",
+        "show": "live:grateful-dead:1985-06-24:river-bend-music-center"
+       },
+       "plays_before": 173,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-28",
+        "show": "live:grateful-dead:1985-06-28:hershey-park-stadium"
+       },
+       "plays_before": 46,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 212,
+       "total_plays": 333
+      },
       "title": "Scarlett Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-06-16",
+        "show": "live:grateful-dead:1985-06-16:greek-theater-u-of-california"
+       },
+       "plays_before": 159,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 421,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 203,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 883,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-06-30",
+        "show": "live:grateful-dead:1985-06-30:merriweather-post-pavilion"
+       },
+       "plays_before": 546,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dr-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Dr. Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 225,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-06-24",
+        "show": "live:grateful-dead:1985-06-24:river-bend-music-center"
+       },
+       "plays_before": 352,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 243,
+       "gap_shows": 43,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 25,
+       "total_plays": 32
+      },
       "title": "Satisfaction"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 81,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -1882,352 +2057,621 @@
      {
       "from": "gd1985-07-01.152709.akgc422.davis-holbrook.flac2448",
       "key": "song:grateful-dead:dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-06-22",
+        "show": "live:grateful-dead:1985-06-22:alpine-valley-music-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "from": "gd1985-07-01.152709.akgc422.davis-holbrook.flac2448",
       "key": "song:grateful-dead:encore-1-satisfaction",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Encore 1 (I Can't Get No) Satisfaction"
      },
      {
       "from": "gd1985-07-01.152709.akgc422.davis-holbrook.flac2448",
       "key": "song:grateful-dead:encore2-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Encore 2 It's All Over Now, Baby Blue"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t01 Crowd"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t02-dancing-in-the-streets",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t02 Dancin' In The Streets"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t03-duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t03 Dupree's Diamond Blues"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t04-walking-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t04 Walkin' Blues"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t05-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t05 Jack-A-Roe"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t06-my-brother-esau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t06 My Brother Esau"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t07-stagger-lee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t07 Stagger Lee"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t08-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t08 Let It Grow"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s1t09-keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s1t09 Keep Your Day Job"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t01-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t01 Scarlet Begonias"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t02-fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t02 Fire On The Mountain"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t03-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t03 Playin' In The Band"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t04-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t04 Uncle John's Band"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t05 Drums"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t06 Space"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t07-dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t07 Dear Mr. Fantasy"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t08-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t08 Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t09-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t09 Good Lovin'"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t10-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t10 Encore Break"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t11-satisfaction",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t11 (I Can't Get No) Satisfaction"
      },
      {
       "from": "gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd85-07-01-s2t12-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd85-07-01 s2t12 It's All Over Now, Baby Blue"
      },
      {
       "from": "gd1985-07-01.fob-nak700.koucky-glassberg.gmb.83465.sbeok.flac16",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 18,
+       "total_plays": 25
+      },
       "title": "Dancin In The Streets"
      },
      {
       "from": "gd1985-07-01.fob-nak700.koucky-glassberg.gmb.83465.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-06-15",
+        "show": "live:grateful-dead:1985-06-15:greek-theatre-u-of-california"
+       },
+       "plays_before": 380,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1985-07-01.fob-nak700.koucky-glassberg.gmb.83465.sbeok.flac16",
       "key": "song:grateful-dead:encore-call",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 5,
+       "total_plays": 13
+      },
       "title": "encore call"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t01-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t01 Crowd Tuning"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t02-dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t02 Dancin In The Streets"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t03-duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t03 Duprees Diamond Blues"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t04-walkin-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t04 Walkin Blues"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t05-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t05 Jack A Roe"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t06-my-brother-essau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t06 My Brother Essau"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t07-stagger-lee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t07 Stagger Lee"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t08-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t08 Let It Grow"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s1t09-dayjob",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s1t09 Dayjob"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t01-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t01 Crowd Tuning"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t02-scarlet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t02 Scarlet"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t03-fire",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t03 Fire"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t04-playin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t04 Playin"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t05-uncle-johns",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t05 Uncle Johns"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t06 Drums"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t07 Space"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t08-dear-mr-fantasy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t08 Dear Mr Fantasy"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t09-gtrfb",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t09 GTRFB"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t10-good-lovin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t10 Good Lovin"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t11-satisfaction",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t11 Satisfaction"
      },
      {
       "from": "gd1985-07-01.176684.senn.nd41.strizak.flac2448",
       "key": "song:grateful-dead:gd1985-07-01s2t012-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1985-07-01s2t012 Baby Blue"
      },
      {
       "from": "gd85-07-01.composite.torbjorn.17350.sbeok.shnf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-06-28",
+        "show": "live:grateful-dead:1985-06-28:hershey-park-stadium"
+       },
+       "plays_before": 43,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1985-07-01.139047.sbd.gastwirt.miller.sirmick.sbeok.flac16",
       "key": "song:grateful-dead:i-cant-get-no-satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 372,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1984-06-24",
+        "show": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center"
+       },
+       "plays_before": 12,
+       "total_plays": 16
+      },
       "title": "I Can't Get No) Satisfaction"
      },
      {
       "from": "gd1985-07-01.nak.tonys.79649.sbeok.flac16",
       "key": "song:grateful-dead:satisfcation",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 995,
+       "gap_shows": 184,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Satisfcation"
      },
      {
       "from": "gd1985-07-01.nakcm304.beyerm101.suraci.90242.sbeok.flac24",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "days_since": 94,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1985-03-29",
+        "show": "live:grateful-dead:1985-03-29:nassau-coliseum"
+       },
+       "plays_before": 15,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1985-07-01.nakcm304.beyerm101.suraci.90242.sbeok.flac24",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1985-04-01",
+        "show": "live:grateful-dead:1985-04-01:cumberland-county-civic-center"
+       },
+       "plays_before": 17,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      },
      {
       "from": "gd1985-07-01.118988.BeyerM160.daweez.d5scott.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 76,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      }
     ],
     "subject_key": "live:grateful-dead:1985-07-01:merriweather-post-pavilion",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1226,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Dr. Mr. Fantasy"
+     ],
+     "show_number": 1329,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Merriweather Post Pavilion"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 22,
+   "parent_revision": 34,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.474002+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.697251+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 23,
-   "signature": "7bXDkELSp4ySKxSOf8dDngMg_TQ-WCoJ-5FTROYNTsUdQ0rD2UFTpbiP7_zSRCi596n5KQQ3a31N6uDbFnZMDg",
+   "revision": 35,
+   "signature": "aUW-aiWCU3VrR1fAfsmHBhwJ1VTNIfHkCoJf-Z5KqvNrj3Hf5Jqkjtb9425ma6VgpIhw6a72mW6cuJb5w221DQ",
    "subject_key": "live:grateful-dead:1985-07-01:merriweather-post-pavilion",
-   "updated_at": "2026-10-25T16:42:00.476600"
+   "updated_at": "2026-10-25T17:35:20.699001"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Fire On The Mountain** (2 reviews): Jerry's solos on Fire on the Mountain reach realms rarely traveled by music; Intense Fire on the Mountain performance caused audience to stop dancing and watch with jaws dropped [35][36]\n- **Dancin' In The Streets** (1 review): First set is underrated, with Dancin', Walking Blues, and Let It Grow noted as monsters [31]\n- Reviewer calls this the best Scarlet Begonias to Fire on the Mountain of the eighties [29]\n- Jerry's playing on Scarlet Begonias is described as articulate, punctual, and precise [33]\n\n## The recordings\n\n- **gd1985-07-01.shotgun.cpb.redo.34164.shnf** (recommended): source not stated; 20 songs; 163 min; rated 4/5 by 2 [1]\n- **gd1985-07-01.152709.akgc422.davis-holbrook.flac2448**: source not stated; 20 songs; 162 min [2]. Said about its sound: Entire show suffers from 1985 PA distortion originating from Phil's pickups in his new bass [2]\n- **gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648**: audience recording; 21 songs; 158 min [4]\n- **gd1985-07-01.144157.nak304.guy.pailes.miller.clugston.flac2496**: audience recording; 21 songs; 121 min [7]\n- **gd85-07-01.composite.torbjorn.17350.sbeok.shnf**: soundboard; 19 songs; 160 min; rated 4.66/5 by 28 [8]. Said about its sound: Great sound, typical of the shows from the band's most underrated year [37]\n- **gd85-07-01.oade-schoeps.sacks.25243.sbeok.flacf**: source not stated; 19 songs; 163 min; rated 4.78/5 by 8 [16]. Said about its sound: Typically good audience recording captures the essential sound of the pavilion with minimal chatter [40]\n- **gd85-07-01.oade.sacks.7892.sbefail.shnf**: source not stated; 19 songs; 164 min; rated 4.5/5 by 3 [17]. Said about its sound: Audio sounds nice and distinct from soundboard, offering a different feel [29]\n- **gd85-07-01.sbd.paino.8482.sbeok.shnf**: soundboard; 18 songs; 155 min; rated 4.6/5 by 8 [20]. Said about its sound: First set features crisp, tight, and dominant Jerry playing upon re-listening [38]\n\n## Around the show\n\n- Beautiful day with high audience energy matching the band's performance in the second set [30]\n- One nearby audience member has a contagious laugh, though overall chatter is not too much [40]\n- Reviewer prefers this second set over Hershey Park, Cuyahoga Falls, Saratoga, and the previous Merriweather show [30]\n- Do not mistake this for the previous night; this Scarlet stands out as the highlight [33]\n- Though the 6/30 show was tough to beat, this Scarlet to Fire is a landmark performance [34]\n- Show did not blow mind like Greeks, River Bend, and Hershey Park, but first set was crisp [38]\n\n## Tapers and lineage\n\n- **gd1985-07-01.shotgun.cpb.redo.34164.shnf**: taped by Charles Bandrofcheck; transferred by Charles Bandrofcheck; source: unknown shotgun mics > Sony D6 > Maxell MX 90s (MC) [1]. Also: Re-record of shnid=32596 with azimuth adjustment on SD 4050 and Audacity noise reduction [1]\n- **gd1985-07-01.152709.akgc422.davis-holbrook.flac2448**: taped by Executive Crew; Mike Davis; Kenny Davis; Sean Murtha; Kyle Holbrook; Tom Pinney; John Borg; Gary Steel; transferred by Kyle Holbrook; source: Microphones: AKG C422 (Cardioid) > AKG S42 XY 90º Recorder: Sony TC-D5M Location: Lawn ~250' from stage (just below crest of the hill). This Source: Master… [2]\n- **gd1985-07-01.144156.nak304.guy.pailes.miller.clugston.flac1648**: taped by Mike Guy and Jim Pailes; transferred by Scott Clugston and Charlie Miller; source: Mike Guy & Jim Pailes's Master Audience Cassettes; Nakamichi CM300 mics w/ CP-4 shotgun caps > Sony D5M (Maxell XLIIS-90) [4]. Also: Oade CMC4/MK41 source supplies crowd, noodle patches, and a 6:53 patch in Drums [4]\n- **gd1985-07-01.144157.nak304.guy.pailes.miller.clugston.flac2496**: taped by Mike Guy and Jim Pailes; transferred by Scott Clugston and Charlie Miller; source: Mike Guy & Jim Pailes's Master Audience Cassettes; Nakamichi CM300 mics w/ CP-4 shotgun caps > Sony D5M (Maxell XLIIS-90) [7]. Also: Oade CMC4/MK41 source provides crowd, noodle patches, and a 6:53 patch in Drums [7]\n- **gd85-07-01.composite.torbjorn.17350.sbeok.shnf**: source: Fix of previous sbd shn set [8]\n- **gd85-07-01.oade-schoeps.sacks.25243.sbeok.flacf**: taped by Oade Brothers; transferred by Doug Oade - Darren Sacks; source: Schoeps cmc441 (90deg, 17cm) > Oade M118 > Oade mod SONY PCM-F1 (Oade brothers, via Darrin Sacks) [16]\n- **gd85-07-01.oade.sacks.7892.sbefail.shnf**: source: Oade recording: Schoeps cmc441 (ortf @90 degrees) > Oade M118 > Modified Sony PCM-F1 > DATs >CDs > EAC > SHN (seekable) [17]\n- **gd85-07-01.sbd.paino.8482.sbeok.shnf**: source: SBDmc> ?> DAT> CD> EAC [20]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1985-07-01 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-07-01-merriweather-post-pavilion-columbia-md-usa/) [42]\n- Poster by Brian Baumwoll Grateful Dead: [1985-06-30 Merriweather Post Pavilion, Columbia, MD, USA - Jerry Garcia](https://jerrygarcia.com/show/1985-06-30-merriweather-post-pavilion-columbia-md-usa/) [43]\n- Poster by Worthpoint: [Grateful Dead Traders Vault 7/1/1985 Merriweather Post Pavilion SBD 3CD | #4691607578](https://www.worthpoint.com/worthopedia/grateful-dead-traders-vault-1-1985-4691607578) [44]",

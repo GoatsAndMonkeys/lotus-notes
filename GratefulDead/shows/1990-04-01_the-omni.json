@@ -533,7 +533,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1048,123 +1048,316 @@
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 149,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 72,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:just-a-little-thought",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Just A Little Thought"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 163,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1989-10-20",
+        "show": "live:grateful-dead:1989-10-20:the-spectrum"
+       },
+       "plays_before": 243,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 576,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 357,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 220,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 41,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 186,
+       "gap_shows": 41,
+       "last_played": {
+        "date": "1989-09-27",
+        "show": "live:grateful-dead:1989-09-27:warfield-theater"
+       },
+       "plays_before": 68,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 193,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 486,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 488,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 202,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:man-smart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 149,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-30",
+        "show": "live:grateful-dead:1990-03-30:nassau-coliseum"
+       },
+       "plays_before": 1225,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-30",
+        "show": "live:grateful-dead:1990-03-30:nassau-coliseum"
+       },
+       "plays_before": 885,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 56,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:hey-jude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 27,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 462,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 262,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 527,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 127,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1172,64 +1365,115 @@
      {
       "from": "gd1990-04-01.matrix.sirmick.35168.sbeok.flac16",
       "key": "song:grateful-dead:just-a-little-light",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 15,
+       "total_plays": 21
+      },
       "title": "Just A Little Light"
      },
      {
       "from": "gd1990-04-01.matrix.sirmick.35168.sbeok.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 136,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "from": "gd90-04-01.aud.gardner.3458.sbeok.shnf",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 145,
+       "total_plays": 187
+      },
       "title": "Woman Are Smarter"
      },
      {
       "from": "gd90-04-01.aud.gardner.3458.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 467,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd90-04-01.aud.gardner.3458.sbeok.shnf",
       "key": "song:grateful-dead:hey-jude-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 22,
+       "total_plays": 25
+      },
       "title": "Hey Jude Reprise"
      },
      {
       "from": "gd1990-04-01.fob.unknown.5063.sbeok.shnf",
       "key": "song:grateful-dead:d-s",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "D/S"
      }
     ],
     "subject_key": "live:grateful-dead:1990-04-01:the-omni",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1576,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Just A Little Thought"
+     ],
+     "show_number": 1681,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Omni"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 11,
+   "parent_revision": 23,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.962847+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.359287+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 12,
-   "signature": "Nvu3og_jophiA6oQ1vaqRjSeNJVBDap8pA2Y887TClOIQ3cZIIf-msbDd-FT3Jwso8dvKO8AijSdJUArRYMzDA",
+   "revision": 24,
+   "signature": "SDz0n42uwbw7U774ltxrjZyeg10m9WnaOmjKcF_rJxpbJMZJmZ30Xyd_5dv-LQQ_5KeqDg0Cfsezm9ll6S4iCQ",
    "subject_key": "live:grateful-dead:1990-04-01:the-omni",
-   "updated_at": "2026-10-25T16:42:11.965184"
+   "updated_at": "2026-10-25T17:35:25.360605"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Candyman** (1 review): Reviewer singles out Candyman as the highlight worth hearing the tape for [18]\n- **China Cat Sunflower** (1 review): China Cat into Rider is called killer by this reviewer [18]\n- **Ship Of Fools** (1 review): Ship of Fools is singled out as a standout [18]\n- **Dear Mr. Fantasy** (1 other source): A 2.6-second soundboard cut near 21 seconds in was patched with audience material [2]\n- **Hey Jude** (1 review): Brent's playing on Hey Jude is praised as tearing it up [21]\n- **Truckin'** (1 review): Truckin' is described as fully living up to its name, energetic and tight [21]\n- **Just A Little Light** (1 review): Reviewer's only specific memory of the night is Just A Little Light [19]\n\n## The recordings\n\n- **gd1990-04-01.mtx.hansokolow.97203.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 166 min; rated 5/5 by 2 [1]\n- **gd1990-04-01.matrix.sirmick.35168.sbeok.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 164 min; rated 5/5 by 1 [2]\n- **gd1990-04-01.158174.ultramatrix.miller.flac2496**: soundboard; 22 songs; 162 min [4]\n- **gd90-04-01.aud.gardner.3458.sbeok.shnf**: audience recording; 23 songs; 170 min; rated 4.5/5 by 8 [5]. Said about its sound: Audience tape has decent levels, clear strong vocals, and captures an energized crowd [23]\n- **gd90-04-01.sbd.gorinsky.8512.sbeok.shnf**: soundboard; 22 songs; 157 min; rated 4.4/5 by 15 [8]. Said about its sound: Reviewer found this the best-sounding source of the three-night Atlanta run among tapes they'd tracked down [21]\n\n## Around the show\n\n- Reviewer, at only their second Dead show, wandered the Omni lost until Rex Foundation volunteers helped find the seat [17]\n- Seat numbers for the reviewer's section were on the right-hand wall, which they missed while circling the arena [17]\n- Reviewer attended with Uncle John, but the many Omni shows blur together in memory [19]\n- Reviewer says the tour ended in Atlanta, with only three shows in April [22]\n- Many fans lacked tickets outside the Omni; reviewer eventually bought one from a scalper for $100 [25]\n- Yuppies were irritated by the Deadhead parking lot scene; bumper stickers were passed around outside the CNN building [26]\n- The Omni's gaping ceiling reminded the reviewer of H.R. Giger; the building was later torn down [26]\n- Counterfeit tickets were everywhere at Ted Turner's Omni that night [27]\n- Three songs from this night were used on the Without a Net release [22]\n- Reviewer rates it better than most other Omni audience recordings they own [23]\n- Spring 1990 tour found the band at its best in years, and it shows [23]\n- Reviewer felt this run was less relaxed than the previous year's [26]\n\n## Tapers and lineage\n\n- **gd1990-04-01.mtx.hansokolow.97203.flac16**: transferred by hansokolow; source: matrix of SBD: shnid=87809 and AUD: shnid=3458 by hansokolow using ProTools [1]\n- **gd1990-04-01.matrix.sirmick.35168.sbeok.flac16**: transferred by SirMick; source: Matrix by Sir Mick [2]. Also: Matrix combines a 24-track soundboard mixdown with an audience recording made using Nakamichi 300/CP4 and Sennheiser 441 microphones; Audience source ran about 1.35% slow and was speed-corrected; soundboard speed was assumed correct [2]\n- **gd1990-04-01.158174.ultramatrix.miller.flac2496**: taped by Recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  September 18, 2022; source: Ultramatrix SBD > Cassette Master (TDK SA-X90) [4]. Also: Recorded by Don Pearson and Dan Healy; several masters were used to complete the show [4]\n- **gd90-04-01.aud.gardner.3458.sbeok.shnf**: source: aud MC> DAT> CD-R [5]\n- **gd90-04-01.sbd.gorinsky.8512.sbeok.shnf**: source: 24 track SBD MR>Healy 2 track Mixdown>C>DAT>CDR [8]",

@@ -312,7 +312,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -327,14 +327,14 @@
     "date": "1995-03-23",
     "guests": [],
     "next": {
-     "date": "1995-03-29",
-     "show": "live:grateful-dead:1995-03-29:the-omni",
-     "venue": "The Omni"
+     "date": "1995-03-24",
+     "show": "live:grateful-dead:1995-03-24:charlotte-coliseum",
+     "venue": "Charlotte Coliseum"
     },
     "previous": {
-     "date": "1995-03-19",
-     "show": "live:grateful-dead:1995-03-19:the-spectrum",
-     "venue": "The Spectrum"
+     "date": "1995-03-22",
+     "show": "live:grateful-dead:1995-03-22:charlotte-coliseum",
+     "venue": "Charlotte Coliseum"
     },
     "recommended": {
      "identifier": "gd1995-03-23.142397.dsbd.miller.flac1644",
@@ -526,94 +526,257 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 168,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1994-10-06",
+        "show": "live:grateful-dead:1994-10-06:the-spectrum"
+       },
+       "plays_before": 216,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodleoo"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-03-17",
+        "show": "live:grateful-dead:1995-03-17:the-spectrum"
+       },
+       "plays_before": 93,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1994-12-16",
+        "show": "live:grateful-dead:1994-12-16:sports-arena"
+       },
+       "plays_before": 257,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-03-18",
+        "show": "live:grateful-dead:1995-03-18:the-spectrum"
+       },
+       "plays_before": 392,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1995-02-20",
+        "show": "live:grateful-dead:1995-02-20:delta-center"
+       },
+       "plays_before": 361,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:easy-answers",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 37,
+       "total_plays": 46
+      },
       "title": "Easy Answers"
      },
      {
       "key": "song:grateful-dead:so-many-roads",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 53,
+       "total_plays": 59
+      },
       "title": "So Many Roads"
      },
      {
       "key": "song:grateful-dead:unbroken-chain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 6,
+       "total_plays": 15
+      },
       "title": "Unbroken Chain"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-02-24",
+        "show": "live:grateful-dead:1995-02-24:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 329,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-02-24",
+        "show": "live:grateful-dead:1995-02-24:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 268,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:corrina",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 69,
+       "total_plays": 79
+      },
       "title": "Corrina"
      },
      {
       "key": "song:grateful-dead:matilda",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "Matilda"
      },
      {
       "key": "song:grateful-dead:brent-and-drummers-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 5795,
+       "gap_shows": 1203,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bruce and Drummers Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-03-22",
+        "show": "live:grateful-dead:1995-03-22:charlotte-coliseum"
+       },
+       "plays_before": 1593,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-03-22",
+        "show": "live:grateful-dead:1995-03-22:charlotte-coliseum"
+       },
+       "plays_before": 1253,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:days-between",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-02-26",
+        "show": "live:grateful-dead:1995-02-26:oakland-alameda"
+       },
+       "plays_before": 38,
+       "total_plays": 45
+      },
       "title": "Days Between"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1994-12-16",
+        "show": "live:grateful-dead:1994-12-16:sports-arena"
+       },
+       "plays_before": 436,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:weight",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 235,
+       "gap_shows": 46,
+       "last_played": {
+        "date": "1994-07-31",
+        "show": "live:grateful-dead:1994-07-31:the-palace"
+       },
+       "plays_before": 53,
+       "total_plays": 54
+      },
       "title": "The Weight"
      }
     ],
@@ -621,52 +784,85 @@
      {
       "from": "gd95-03-23.sbd.miller.25273.sbeok.flacf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-03-18",
+        "show": "live:grateful-dead:1995-03-18:the-spectrum"
+       },
+       "plays_before": 624,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1995-03-23.aud.laporte.90975.flac16",
       "key": "song:grateful-dead:bruce-piano-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bruce Piano jam"
      },
      {
       "from": "gd1995-03-23.141183.I-FOB-cmc5-mk4-IIFOB-mk4.ebel.flac1644",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 168,
+       "gap_shows": 32,
+       "last_played": {
+        "date": "1994-10-06",
+        "show": "live:grateful-dead:1994-10-06:the-spectrum"
+       },
+       "plays_before": 211,
+       "total_plays": 215
+      },
       "title": "Mississippi-Half Step"
      },
      {
       "from": "gd1995-03-23.141183.I-FOB-cmc5-mk4-IIFOB-mk4.ebel.flac1644",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-03-19",
+        "show": "live:grateful-dead:1995-03-19:the-spectrum"
+       },
+       "plays_before": 239,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1995-03-23:charlotte-coliseum",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Bruce and Drummers Jam"
+     ],
      "first_in_archive": [],
-     "show_number": 1844,
-     "shows_in_archive": 1855,
+     "show_number": 2060,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Charlotte Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.653221+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.722025+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "u3R4cNNxOuIPrkJAqjUa3luCKxC0ujPCJZBQScrrzFJFo8uj8ryJWtTmkJxDnEjLhnlOCkz78FtACBriBSHVAw",
+   "revision": 31,
+   "signature": "7-vUFcETXGX2Be4zjiShpJwoMvhirouwuq-ar6BIcUWCiC2zGWyB-1stDwqfRNwszpMGoQLsAKZY5TTUVHqcBw",
    "subject_key": "live:grateful-dead:1995-03-23:charlotte-coliseum",
-   "updated_at": "2026-10-25T16:42:19.654225"
+   "updated_at": "2026-10-25T17:35:28.722835"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Matilda** (2 reviews): Hornsby stayed for an extended jam with the drummers after the main band left; Bruce Hornsby filled in for Garcia's struggles with passionate jamming during the song [7][17]\n- **So Many Roads** (1 review): Jerry Garcia displayed renewed passion and bright playing, energized by Bruce's presence [11]\n- **Space** (1 review): Jerry played mystical eastern melodies and sinister darkness on the MIDI keyboard [16]\n\n## The recordings\n\n- **gd1995-03-23.142397.dsbd.miller.flac1644** (recommended): soundboard; 18 songs; 167 min; rated 4/5 by 6 [1]\n- **gd95-03-23.sbd.1369.sbeok.shnf**: soundboard; 18 songs; 166 min; rated 3.16/5 by 36 [3]. Said about its sound: The soundboard recording is criticized for failing to capture the crowd's roar; Cymbals are mixed quite high throughout the recording, possibly due to a specific feed [8][9]\n- **gd1995-03-23.aud.laporte.90975.flac16**: audience recording; 18 songs; 164 min; rated 4/5 by 1 [4]. Said about its sound: A few seconds of audio are missing between specific songs and during Drums [4]\n- **gd95-03-23.sbd.miller.25273.sbeok.flacf**: soundboard; 18 songs; 167 min; rated 3.66/5 by 49 [2]\n\n## Around the show\n\n- Bruce Hornsby played grand piano, adding significant energy to the band's performance [7]\n- Audiences initially doubted the band played Unbroken Chain, having seen it in Philly days earlier [10]\n- Bruce Hornsby heckled the audience and performed a Frankenstein impression while playing keys [13]\n- Jerry Garcia forgot the lyrics to Scarlet Begonias during the performance [15]\n\n## Tapers and lineage\n\n- **gd1995-03-23.142397.dsbd.miller.flac1644**: transferred by Charlie Miller; source: SBD > Dat (44.1k) [1]. Also: Bruce Hornsby played grand piano for the entire show, per uploader notes [1]\n- **gd95-03-23.sbd.1369.sbeok.shnf**: source: SBD> D> cass> D> CD-R> EAC> SHN [3]\n- **gd1995-03-23.aud.laporte.90975.flac16**: taped by Chris LaPorte; transferred by Chris LaPorte; source: Unknown Mic > Unknown Deck > Marantz PMD 430 [4]\n- **gd95-03-23.sbd.miller.25273.sbeok.flacf**: transferred by Charlie Miller; source: Recording Info: Set 1: SBD -> Dat -> Cassette Master -> Dat (44.1k) Set 2: SBD -> Dat (44.1k) Transfer Info: Dat (Sony R500) -> SEK'D Prodif Plus -> Samplitude… [2]",

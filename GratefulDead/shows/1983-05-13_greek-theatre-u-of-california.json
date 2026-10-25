@@ -532,7 +532,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -619,8 +619,8 @@
     "guests": [],
     "next": {
      "date": "1983-05-14",
-     "show": "live:grateful-dead:1983-05-14:greek-theatre-university-of-california",
-     "venue": "Greek Theatre - University of California"
+     "show": "live:grateful-dead:1983-05-14:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "previous": {
      "date": "1983-04-26",
@@ -1057,106 +1057,277 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-04-22",
+        "show": "live:grateful-dead:1983-04-22:veterans-memorial-coliseum"
+       },
+       "plays_before": 152,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-04-23",
+        "show": "live:grateful-dead:1983-04-23:veterans-memorial-coliseum"
+       },
+       "plays_before": 173,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 14,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 109,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1983-01-24",
+        "show": "live:grateful-dead:1983-01-24:stone-house-studio-rehearsals"
+       },
+       "plays_before": 1,
+       "total_plays": 225
+      },
       "title": "Hell In a Bucket"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-25",
+        "show": "live:grateful-dead:1983-04-25:the-spectrum"
+       },
+       "plays_before": 249,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-25",
+        "show": "live:grateful-dead:1983-04-25:the-spectrum"
+       },
+       "plays_before": 96,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-04-22",
+        "show": "live:grateful-dead:1983-04-22:veterans-memorial-coliseum"
+       },
+       "plays_before": 140,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 149,
+       "total_plays": 294
+      },
       "title": "Let it Grow"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-25",
+        "show": "live:grateful-dead:1983-04-25:the-spectrum"
+       },
+       "plays_before": 365,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-04-25",
+        "show": "live:grateful-dead:1983-04-25:the-spectrum"
+       },
+       "plays_before": 368,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-04-20",
+        "show": "live:grateful-dead:1983-04-20:providence-civic-center"
+       },
+       "plays_before": 216,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-04-20",
+        "show": "live:grateful-dead:1983-04-20:providence-civic-center"
+       },
+       "plays_before": 211,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 732,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 396,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 26,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-04-23",
+        "show": "live:grateful-dead:1983-04-23:veterans-memorial-coliseum"
+       },
+       "plays_before": 372,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-04-23",
+        "show": "live:grateful-dead:1983-04-23:veterans-memorial-coliseum"
+       },
+       "plays_before": 237,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-04-22",
+        "show": "live:grateful-dead:1983-04-22:veterans-memorial-coliseum"
+       },
+       "plays_before": 275,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-04-22",
+        "show": "live:grateful-dead:1983-04-22:veterans-memorial-coliseum"
+       },
+       "plays_before": 331,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      }
     ],
@@ -1165,26 +1336,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1075,
-     "shows_in_archive": 1855,
+     "show_number": 1177,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.884875+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.850300+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "JG6NKzW98EHVf8V9nERHthdl3yavqTYQRHHKcrH9PaMUiAiBjCGq5ON6QNrd-aBdr7FlrJeiDdTD7bKHPWU8Bg",
+   "revision": 42,
+   "signature": "Li44XaymYc3ExLRtX3t9Ro0-1G_5lrTFvOZhG9gs3NRF9xZcbzgaN_jM-18QXCPbz9eb9HwVcxc8CFkDRFtXAw",
    "subject_key": "live:grateful-dead:1983-05-13:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:41:55.886486"
+   "updated_at": "2026-10-25T17:35:18.851467"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (1 review): The pre-drums second set is amazing, featuring a great transition into I Know You Rider [17]\n- **I Know You Rider** (1 review): Jerry is ripping it up on a great performance of this song [26]\n- **Eyes of the World** (1 review): Brent's crisp, soulful vocals complement Garcia, making this performance a key indicator of the show's quality [15]\n\n## The recordings\n\n- **gd1983-05-13.sbd.miller.25314.sbeok.shnf** (recommended): soundboard; 19 songs; 184 min; rated 4/5 by 4 [1]\n- **gd1983-05-13.sbd.miller.95059.sbeok.flac16**: soundboard; 19 songs; 184 min; rated 3.4/5 by 5 [2]\n- **gd1983-05-13.167671.neumann.kelley.miller.clugston.flac2496**: audience recording; 19 songs; 177 min [3]\n- **gd1983-05-13.163382.nak304.vita.miller.clugston.flac2496**: audience recording; 19 songs; 175 min [5]\n- **gd1983-05-13.fob.sonyecm220t.keshavan.miller.fix.94514.sbeok.flac16**: source not stated; 19 songs; 176 min; rated 4.71/5 by 7 [7]. Said about its sound: The recording features very nice sound quality, described as one of the better 1983 audience recordings; The recording quality is considered the best audience recording the reviewer has ever heard [16][19]\n- **gd1983-05-13.nak700.mccue.32809.sbeok.flac16**: source not stated; 18 songs; 166 min; rated 4.67/5 by 6 [14]. Said about its sound: Phil is prominent in the mix, and the band is firing on all cylinders [26]\n\n## Tapers and lineage\n\n- **gd1983-05-13.sbd.miller.25314.sbeok.shnf**: transferred by Charlie Miller; source: SBD -> Cassette [1]. Also: Good Lovin' is patched from an unknown generation audience source; no encore due to curfew [1]\n- **gd1983-05-13.sbd.miller.95059.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette -> PCM -> Apogee Ensemble -> AIFF [2]. Also: Sony ECM-220T cassette master supplies Good Lovin'; Set 1 tunings patched from another source [2]\n- **gd1983-05-13.167671.neumann.kelley.miller.clugston.flac2496**: taped by Ken Kelley; transferred by Scott Clugston, Charlie Miller; source: Ken Kelley's Master Audience Cassettes; Neumann mics (unknown model) > JVC KD-2 w/Super ANRS (Maxell XLII-S90) [3]. Also: Sony ECM 220T source supplies a patch in the Eyes of the World to Drums transition [3]\n- **gd1983-05-13.163382.nak304.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Master Audience Cassettes; Nakamichi 300 mics + CP4 capsules > Jim Vita's 1st Generation Cassettes [5]. Also: Sony ECM220t source supplies crowd noise, Cold Rain & Snow start, and most of Drums [5]\n- **gd1983-05-13.fob.sonyecm220t.keshavan.miller.fix.94514.sbeok.flac16**: taped by Rango Keshavan; transferred by Charlie Miller; source: (FOB) Sony ECM-220T -> Cassette Master (Sony TC-D5M/Fuji Metal Tape/Dolby B) [7]\n- **gd1983-05-13.nak700.mccue.32809.sbeok.flac16**: taped by Unknown; transferred by Mark McCue and Alex Ford; source: 2 Nak 700's > Bass Box EQ > Sony D5 > Sony D5 > Maxell MX 90's [14]",

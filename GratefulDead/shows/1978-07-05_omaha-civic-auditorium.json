@@ -275,7 +275,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -411,8 +411,8 @@
     },
     "previous": {
      "date": "1978-07-03",
-     "show": "live:grateful-dead:1978-07-03:st-paul-civic-center-arena",
-     "venue": "St. Paul Civic Center Arena"
+     "show": "live:grateful-dead:1978-07-03:st-paul-civic-center",
+     "venue": "St. Paul Civic Center"
     },
     "recommended": {
      "identifier": "gd1978-07-05.sonyecm54p.wagner.97299.flac16",
@@ -544,121 +544,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1978-05-06",
+        "show": "live:grateful-dead:1978-05-06:patrick-gymnasium-u-of-vermont"
+       },
+       "plays_before": 183,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 226,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-06-25",
+        "show": "live:grateful-dead:1978-06-25:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 100,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 137,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-06-04",
+        "show": "live:grateful-dead:1978-06-04:campus-stadium-uc-santa-barbara"
+       },
+       "plays_before": 116,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 24,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-06-25",
+        "show": "live:grateful-dead:1978-06-25:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 94,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 65,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-05-17",
+        "show": "live:grateful-dead:1978-05-17:uptown-theater"
+       },
+       "plays_before": 59,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 182,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-06-25",
+        "show": "live:grateful-dead:1978-06-25:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 107,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-06-04",
+        "show": "live:grateful-dead:1978-06-04:campus-stadium-uc-santa-barbara"
+       },
+       "plays_before": 62,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 76,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-06-25",
+        "show": "live:grateful-dead:1978-06-25:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 120,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:bass-and-drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1688,
+       "gap_shows": 238,
+       "last_played": {
+        "date": "1973-11-20",
+        "show": "live:grateful-dead:1973-11-20:denver-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bass And Drums"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 370,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 62,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 129,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-05-13",
+        "show": "live:grateful-dead:1978-05-13:the-spectrum"
+       },
+       "plays_before": 243,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:iko-iko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 7,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-07-01",
+        "show": "live:grateful-dead:1978-07-01:arrowhead-stadium"
+       },
+       "plays_before": 148,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-06-25",
+        "show": "live:grateful-dead:1978-06-25:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 196,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      }
     ],
@@ -666,34 +865,45 @@
      {
       "from": "gd78-07-05.sony.wiley.11481.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-05-14",
+        "show": "live:grateful-dead:1978-05-14:providence-civic-center"
+       },
+       "plays_before": 181,
+       "total_plays": 628
+      },
       "title": "Jam"
      }
     ],
     "subject_key": "live:grateful-dead:1978-07-05:omaha-civic-auditorium",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Bass And Drums"
+     ],
      "first_in_archive": [],
-     "show_number": 695,
-     "shows_in_archive": 1855,
+     "show_number": 787,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Omaha Civic Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.111104+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.560616+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "GHOj1bJlOUiq4ge0aPDdk1ZnZ1L7s2aT2rP53DnI6rmGo1BZR-nrZbZXH6bG9j2WoXVe9dVqgUBeNpsHeqyiAg",
+   "revision": 43,
+   "signature": "J5WzmTPRq6Nd7oaEKzI6QyD-oQpDdPKV3z1qTSa0RfRVmX7SoGvqJ78p7c3YW4MBT7q5nqNVvY8wyPE2qEf-CA",
    "subject_key": "live:grateful-dead:1978-07-05:omaha-civic-auditorium",
-   "updated_at": "2026-10-25T16:41:52.113479"
+   "updated_at": "2026-10-25T17:35:15.561320"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **They Love Each Other** (2 reviews): Keith's solos are especially groovy in this 1978 version; Reviewer judges Jerry's guitar work here the best They Love Each Other ever [6][9]\n- **Lazy Lightnin'** (2 reviews): Described as a monster version leading into Supplication; Reviewer calls the Lazy Lightning into Supplication the most intense they have heard [5][6]\n- **Sugaree** (1 review): Reviewer says this Sugaree is probably the best you will ever hear [11]\n- **Ship Of Fools** (1 review): An M-80 was thrown about 1:46 into the song, a memorable moment for attendees [15]\n- **Estimated Prophet** (1 review): Called one of the best 1978 versions, with a ripping, extended jam following a strong Ship of Fools [5]\n- **Iko Iko** (1 review): Reviewer found Iko Iko slightly off [16]\n\n## The recordings\n\n- **gd1978-07-05.sonyecm54p.wagner.97299.flac16** (recommended): source not stated; 22 songs; 172 min; rated 4.33/5 by 3 [1]\n- **gd78-07-05.sony.wiley.11481.sbeok.shnf**: audience recording; 21 songs; 144 min; rated 4/5 by 12 [2]. Said about its sound: Audience recording sounds decent, capable of capturing the show's magic; Clear source; reviewer considers trying a pitch fix [7][8]\n- **gd1978-07-05.fob.knight.motb-0070.91786.flac24**: source not stated; 20 songs; 150 min; rated 4.33/5 by 3 [3]. Said about its sound: Recording was paused between most songs, with crossfades applied; first beats of Sugaree and Beat It On Down The Line missing [3]\n- **gd1978-07-05.fob.knight.motb-0070.91785.flac16**: source not stated; 20 songs; 150 min; rated 3.6/5 by 10 [4]. Said about its sound: Audience recording with full sound, thick bass and good instrument separation, fairly good for its era; Excellent audience sound; Jerry's guitar sounds especially good on Eyes of the World; Recording was paused between most songs, with crossfades applied; first beats of Sugaree and Beat It On Down The Line missing [4][12][16]\n\n## Around the show\n\n- Reviewer's parents recall an M-80 firecracker thrown during Ship of Fools, about 1:46 in [15]\n- First set has the same licks as the Red Rocks run beginning two days later [5]\n- Reviewer finds more charisma here than in the two following Red Rocks shows, though not perfect [6]\n\n## Tapers and lineage\n\n- **gd1978-07-05.sonyecm54p.wagner.97299.flac16**: taped by Bob Wagner; transferred by David Minches; source: 2 Sony ECM-54 Ps >Sony 158 [1]. Also: Encore comes from an alternate source: Senn 441s mono single mic, reel master to PCM; speed corrected by Joe B. Jones [1]\n- **gd78-07-05.sony.wiley.11481.sbeok.shnf**: source: Audience Recording: Sony 54P's [2]. Also: Audience tape using Sony 54P mics into Sony TC-158, then to DAT and CD, via Paul B; seeded by T. Wiley [2]\n- **gd1978-07-05.fob.knight.motb-0070.91786.flac24**: taped by Timothy Knight; transferred by Adam Egert and Derek McCabe; source: Unknown Mircophones => Unknown Sony Tape Deck [Patch] => Nakamichi 550 [Dolby Encode] >> MAC [3]. Also: Taped from the middle of the floor, roughly 15 to 20 feet from the front of stage [3]\n- **gd1978-07-05.fob.knight.motb-0070.91785.flac16**: taped by Timothy Knight; transferred by Adam Egert and Derek McCabe; source: Unknown Mircophones => Unknown Sony Tape Deck [Patch] => Nakamichi 550 [Dolby Encode] >> MAC [4]. Also: Taped from the middle of the floor, roughly 15 to 20 feet from the front of stage [4]\n\n## Art and photos\n\n- Fan art by Paul Pope Intro: [Grateful Dead - July 1978 - The Complete Recordings (2016 12 CD Boxset -includes Booklet, numbered 13940/15000 EX/EX)](https://therecordcentre.com/grateful-dead-july-1978-the-complete-recordings-2016-12-cd-boxset-includes-booklet-numbered-13940-15000-ex-ex/) [23]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - 7/5/78 Omaha Civic Center, Omaha, NE (back… | Flickr](https://www.flickr.com/photos/104729480@N03/27305892076/) [24]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/27305892076/) [25]",

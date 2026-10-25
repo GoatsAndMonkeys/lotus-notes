@@ -364,7 +364,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -410,13 +410,13 @@
     "guests": [],
     "next": {
      "date": "1978-09-15",
-     "show": "live:grateful-dead:1978-09-15:sphinx-theatre",
-     "venue": "Sphinx Theatre"
+     "show": "live:grateful-dead:1978-09-15:gizah-sound-and-light-theater",
+     "venue": "Gizah Sound and Light Theater"
     },
     "previous": {
      "date": "1978-09-13",
-     "show": "live:grateful-dead:1978-09-13:sphinx-theatre",
-     "venue": "Sphinx Theatre"
+     "show": "live:grateful-dead:1978-09-13:gizah-sound-and-light-theater",
+     "venue": "Gizah Sound and Light Theater"
     },
     "recommended": {
      "identifier": "gd1978-09-14.aud.dauria.2054.shnf",
@@ -668,108 +668,273 @@
     "setlist": [
      {
       "key": "song:grateful-dead:anubian-folk-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Anubian Folk Song"
      },
      {
       "key": "song:grateful-dead:upper-and-lower-song-of-egypt",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Upper & Lower Song of Egypt"
      },
      {
       "key": "song:grateful-dead:dead-join-hamza",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dead join Hamza"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 225,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 347,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 101,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 85,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 69,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 228,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 185,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 185,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 110,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 89,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 39,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 244,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 273,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 376,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 68,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-08-31",
+        "show": "live:grateful-dead:1978-08-31:red-rocks-amphitheatre"
+       },
+       "plays_before": 102,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-08-30",
+        "show": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre"
+       },
+       "plays_before": 151,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      }
     ],
@@ -777,30 +942,56 @@
      {
       "from": "gd1978-09-14.sbd.miller.88171.flac16",
       "key": "song:grateful-dead:hamza-el-din",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Hamza el Din Set"
      },
      {
       "from": "gd1978-09-14.sbd.miller.88171.flac16",
       "key": "song:grateful-dead:ollin-arrageed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-09-13",
+        "show": "live:grateful-dead:1978-09-13:gizah-sound-and-light-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 14
+      },
       "title": "Ollin Arrageed"
      },
      {
       "from": "gd1978-09-14.fob.sonyecm280.porray.motb-0107.103625.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-09-02",
+        "show": "live:grateful-dead:1978-09-02:giants-stadium"
+       },
+       "plays_before": 67,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 702,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Anubian Folk Song",
+      "Upper & Lower Song of Egypt",
+      "Dead join Hamza"
+     ],
+     "show_number": 796,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Hamza El-Din"
@@ -809,16 +1000,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 18,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.231125+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.614196+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "TIRpOYiPpQZ0KU43GWA6-BYdWmP6XfRX8RsSOVnIfTy0l6iHcXVhI_7PrDzjTpyGbpYk1TzgovVDgPOkrIHDAw",
+   "revision": 19,
+   "signature": "CRp-p1ZE8484ZE-UVNOMeFQwYIn5A8Mzq1_NvK__zlk5673ZBJy5MYZFVtnnBGcpXPCplBV1m6dZ9lFoPc6fBQ",
    "subject_key": "live:grateful-dead:1978-09-14:gizah-sound-and-light-theater",
-   "updated_at": "2026-10-25T16:41:52.232512"
+   "updated_at": "2026-10-25T17:35:15.615129"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Not Fade Away** (2 reviews): Reached through a nice transition from the opening jam, placed unusually early in the first set; Traditional folk music jam leads into this song in a strong intro [18][19]\n- **Dead join Hamza** (1 other source): This version includes the entire Hamza opener [1]\n- **Scarlet Begonias** (1 review): Reviewer finds Donna's wailing nearly unbearable during this song [19]\n- **Black Peter** (1 review): The band stumbles just before the 'sun comin up' lyrics in this song [13]\n- **Around And Around** (1 other source): Final portion of the song, from 5:46 to the end, was supplied from another source [3]\n- **Ollin Arrageed** (1 review): Opening track runs over half an hour: Hamza el-Din's band, then Jerry and Phil join, then everyone; Jerry shines [18]\n\n## The recordings\n\n- **gd1978-09-14.aud.dauria.2054.shnf** (recommended): audience recording; 20 songs; 177 min [1]. Said about its sound: Microphones were hidden behind a cotton headpiece, so levels may sound muffled in places [1]\n- **gd78-09-14.aud.dauria.6032.sbeok.shnf**: audience recording; 19 songs; 198 min; rated 4/5 by 14 [2]. Said about its sound: Audience recording sound is tolerable, better than many of the reviewer's early tapes [13]\n- **gd1978-09-14.sbd.miller.88171.flac16**: soundboard; 19 songs; 178 min; rated 3/5 by 5 [3]. Said about its sound: Pitch correction was applied using Cool Edit Pro; disc changes are seamless [3]\n- **gd78-09-14.sbd.miller.22169.sbeok.shnf**: soundboard; 18 songs; 180 min; rated 2.8/5 by 5 [4]. Said about its sound: Soundboard from the master reel; hiss barely noticeable, vocals not prominent; Soundboard quality is really good for 1978 [15][19]\n- **gd1978-09-14.165792.acetboy.remaster.flac1644**: audience recording; 18 songs; 152 min [5]\n\n## Around the show\n\n- Stage talk about: Hamza El-Din [1]\n- Reviewer casts the Gizah pyramids setting as a mystical vortex channeling ancient wisdom through Hamza el Din and the band [9]\n- Keith was made to audition for his job, played synths, and Donna is barely audible [13]\n- Reviewer hears many band tears and dropouts, as if musicians struggled to hear each other [17]\n- Attendee teaching in Alexandria recalls a lunar eclipse at the start while Egyptian drummers and chanters performed [20]\n- Drums began, then Phil joined on bass before the band moved into their set [20]\n- Attendee remembers Garcia playing extremely well and Weir being outstanding [20]\n- Hamza El Din is credited with vocals and percussion [5]\n- Reviewer says only the last Egypt night rivals other 1978 Dead shows; the first two nights are sloppy and below average [10]\n- Reviewer found it better than the harsh reviews of this run suggested, despite the challenges of playing so far from home [11]\n- Reviewer finds it only a middling show, perhaps due to nerves and disorientation, but interesting [15]\n- The Dead played the Ollin Arrageed jam several times during Fall 1978 [18]\n\n## Tapers and lineage\n\n- **gd1978-09-14.aud.dauria.2054.shnf**: taped by The Face; transferred by John D'Auria; source: Aud FOB, front row LFC, Sony ECM280 > Sony TC-153 cassette recorder > Sony TC-640 reel to reel [1]\n- **gd78-09-14.aud.dauria.6032.sbeok.shnf**: transferred by John D'Auria; source: Audience Recording: Sony ECM280 [2]. Also: Taped front-of-board, front row, with Sony ECM280 mics into a Sony TC-153 cassette recorder; Transfer chain: cassettes through Yamaha deck, Apogee AD1000, Delta DiO 2496, Samplitude, to SHN; one fewer generation than before [2]\n- **gd1978-09-14.sbd.miller.88171.flac16**: transferred by Charlie Miller and Joe B. Jones; source: SBD -> Master Reel -> Cassette -> Dat (48k) [3]. Also: Source is a front-row cassette master from Sony ECM280 mics, transferred to CD [3]\n- **gd78-09-14.sbd.miller.22169.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard [4]\n- **gd1978-09-14.165792.acetboy.remaster.flac1644**: source: remaster of shn #103626 (MOTB version of Eldon Porray audience)by acetboy [5]. Also: Remaster of an earlier shn, done in ocenaudio and Harrison Mixbus, delivered at CD quality [5]\n\n## Art and photos\n\n- Fan art by Adrian Boot: [1978-09-16 Giza Sound and Light Theater, Cairo, Egypt - Jerry Garcia](https://jerrygarcia.com/show/1978-09-16-giza-sound-and-light-theater-cairo-egypt/) [22]\n- Poster by Grateful Dead: [Grateful Dead Poster - Giza Sound and Light Theater](https://www.dead.net/archives/1978/artwork/poster-giza-sound-and-light-theater) [23]",

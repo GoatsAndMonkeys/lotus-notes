@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -61,9 +61,9 @@
      "venue": "Bob Weir's Studio"
     },
     "previous": {
-     "date": "1975-06-04",
-     "show": "live:grateful-dead:1975-06-04:aces-studio",
-     "venue": "Ace's Studio"
+     "date": "1975-06-05",
+     "show": "live:grateful-dead:1975-06-05:club-front",
+     "venue": "Club Front"
     },
     "recommended": {
      "identifier": "gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16",
@@ -106,34 +106,83 @@
      {
       "incomplete": true,
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 120
+      },
       "title": "Help on the Way"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 120
+      },
       "title": "Help on the Way (multiple takes)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Help on the Way/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 120
+      },
       "title": "Help on the Way"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-06-05",
+        "show": "live:grateful-dead:1975-06-05:club-front"
+       },
+       "plays_before": 4,
+       "total_plays": 120
+      },
       "title": "Help on the Way/jam"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1975-03-26",
+        "show": "live:grateful-dead:1975-03-26:aces"
+       },
+       "plays_before": 3,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      }
     ],
@@ -141,11 +190,13 @@
     "subject_key": "live:grateful-dead:1975-06-05:aces-studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 533,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Help on the Way/banter (multiple takes)"
+     ],
+     "show_number": 620,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Franklin's Tower"
@@ -154,16 +205,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.592949+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.440409+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ou-Q1ofIjbC2vJ-FsbfdB8-NVDsoR7qWxjf0A8fHSnTkXEqi3Z7MjKVPWnikt1QMIge3qmMrL4ga3tNxUkdhCA",
+   "revision": 40,
+   "signature": "7Cie1t2GYGdsCs0543foHSg6IsJYKMZAP0sfe-ew6zXmxc7e-PZJnZ0n-Nd3qsWdPmYbqoyFqbNIOKh9BNlVBA",
    "subject_key": "live:grateful-dead:1975-06-05:aces-studio",
-   "updated_at": "2026-10-25T16:41:48.596107"
+   "updated_at": "2026-10-25T17:35:14.440781"
   }
  },
  "recommended": {

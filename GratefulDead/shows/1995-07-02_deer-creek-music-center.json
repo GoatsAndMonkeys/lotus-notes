@@ -501,7 +501,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -606,8 +606,8 @@
     "date": "1995-07-02",
     "guests": [],
     "next": {
-     "date": "1995-07-06",
-     "show": "live:grateful-dead:1995-07-06:riverport-amphitheatre",
+     "date": "1995-07-05",
+     "show": "live:grateful-dead:1995-07-05:riverport-amphitheatre",
      "venue": "Riverport Amphitheatre"
     },
     "previous": {
@@ -1045,100 +1045,262 @@
     "setlist": [
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 64,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-22",
+        "show": "live:grateful-dead:1995-06-22:knickerbocker-arena"
+       },
+       "plays_before": 147,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 238,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-06-19",
+        "show": "live:grateful-dead:1995-06-19:giants-stadium"
+       },
+       "plays_before": 168,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:broken-arrow",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-06-21",
+        "show": "live:grateful-dead:1995-06-21:knickerbocker-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 35
+      },
       "title": "Broken Arrow"
      },
      {
       "key": "song:grateful-dead:desolation-row",
-      "stats": {},
+      "stats": {
+       "days_since": 265,
+       "gap_shows": 62,
+       "last_played": {
+        "date": "1994-10-10",
+        "show": "live:grateful-dead:1994-10-10:usair-arena"
+       },
+       "plays_before": 59,
+       "total_plays": 60
+      },
       "title": "Desolation Row"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 442,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1995-05-28",
+        "show": "live:grateful-dead:1995-05-28:portland-meadows"
+       },
+       "plays_before": 293,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-06-21",
+        "show": "live:grateful-dead:1995-06-21:knickerbocker-arena"
+       },
+       "plays_before": 332,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-06-21",
+        "show": "live:grateful-dead:1995-06-21:knickerbocker-arena"
+       },
+       "plays_before": 271,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-27",
+        "show": "live:grateful-dead:1995-06-27:the-palace"
+       },
+       "plays_before": 103,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:its-all-too-much",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-27",
+        "show": "live:grateful-dead:1995-06-27:the-palace"
+       },
+       "plays_before": 4,
+       "total_plays": 6
+      },
       "title": "It's All Too Much"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-24",
+        "show": "live:grateful-dead:1995-06-24:robert-f-kennedy-stadium"
+       },
+       "plays_before": 53,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-30",
+        "show": "live:grateful-dead:1995-06-30:three-rivers-stadium"
+       },
+       "plays_before": 1625,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-30",
+        "show": "live:grateful-dead:1995-06-30:three-rivers-stadium"
+       },
+       "plays_before": 1285,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:attics-of-my-life",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-28",
+        "show": "live:grateful-dead:1995-06-28:the-palace"
+       },
+       "plays_before": 57,
+       "total_plays": 58
+      },
       "title": "Attics Of My Life"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-27",
+        "show": "live:grateful-dead:1995-06-27:the-palace"
+       },
+       "plays_before": 613,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1995-05-25",
+        "show": "live:grateful-dead:1995-05-25:memorial-stadium"
+       },
+       "plays_before": 61,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn The Eskimo)"
      }
     ],
@@ -1146,67 +1308,141 @@
      {
       "from": "gd95-07-02.aud.ball.587.sbeok.shnf",
       "key": "song:grateful-dead:attics-of-my-mind",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Attics of My Mind"
      },
      {
       "from": "gd1995-07-02.139737.cmc5-mk4.ebel-varnum.flac1644",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-06-19",
+        "show": "live:grateful-dead:1995-06-19:giants-stadium"
+       },
+       "plays_before": 60,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd1995-07-02.139737.cmc5-mk4.ebel-varnum.flac1644",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-28",
+        "show": "live:grateful-dead:1995-06-28:the-palace"
+       },
+       "plays_before": 261,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1995-07-02.139737.cmc5-mk4.ebel-varnum.flac1644",
       "key": "song:grateful-dead:quinn-the-eskimo",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1995-05-25",
+        "show": "live:grateful-dead:1995-05-25:memorial-stadium"
+       },
+       "plays_before": 35,
+       "total_plays": 36
+      },
       "title": "Quinn The Eskimo"
      },
      {
       "from": "gd1995-07-02.172278.akgc460b.brothers.flac1648",
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-06-25",
+        "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium"
+       },
+       "plays_before": 224,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "from": "gd1995-07-02.monitor-sbd.unknown.74201.sbeok.flac16",
       "key": "song:grateful-dead:space-band-chatter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space / Band Chatter"
      },
      {
       "from": "gd1995-07-02.nak300.holtz.jaz.92522.flac16",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-30",
+        "show": "live:grateful-dead:1995-06-30:three-rivers-stadium"
+       },
+       "plays_before": 52,
+       "total_plays": 55
+      },
       "title": "Drum/space"
      },
      {
       "from": "gd1995-07-02.soundcheck.fm.gmb.91256.flac16",
       "key": "song:grateful-dead:hoochie-coochie-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hoochie Coochie Man"
      },
      {
       "from": "gd1995-07-02.soundcheck.fm.gmb.91256.flac16",
       "key": "song:grateful-dead:death-dont-have-no-mercy-jerry-i-dont-remember",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Death Don't Have No Mercy, Jerry, I don't remember"
      },
      {
       "from": "gd1995-07-02.soundcheck.fm.gmb.91256.flac16",
       "key": "song:grateful-dead:visions-of-johanna",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1995-04-07",
+        "show": "live:grateful-dead:1995-04-07:tampa-stadium"
+       },
+       "plays_before": 8,
+       "total_plays": 10
+      },
       "title": "Visions Of Johanna"
      },
      {
       "from": "gd1995-07-02.soundcheck.fm.gmb.91256.flac16",
       "key": "song:grateful-dead:jesu-joy-and-other-ditties",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jesu Joy and other ditties"
      }
     ],
@@ -1214,26 +1450,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1852,
-     "shows_in_archive": 1855,
+     "show_number": 2093,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Deer Creek Music Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.758471+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:29.011291+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "lOIGhjUmD2N2j_MeFC6FsYg3R0w-y3o_hjnkHt936Vy1eCsXXCPgyW83xsmBFCnaeOrcX0Fv6V1ha78eERROCA",
+   "revision": 39,
+   "signature": "qLe5t4qbyp6IqxKFc_biwXAc-kwdKS99urL6Nbsp2S2XEXz-mKbUq96AEbCiNzNOt5bsJYpoLpG9Nf0mh_D9Aw",
    "subject_key": "live:grateful-dead:1995-07-02:deer-creek-music-center",
-   "updated_at": "2026-10-25T16:42:19.759855"
+   "updated_at": "2026-10-25T17:35:29.012801"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Desolation Row** (2 reviews): Weir was engaged, and Jerry's pitch bending mirrored the out-of-control scene; Bobby sang with a roar, paying special attention to the lyrics during the chaos [19][21]\n\n## The recordings\n\n- **gd1995-07-02.aud.unknown.tetzeli.fix-12578.74417.reflac.flac16** (recommended): audience recording; 18 songs; 148 min; rated 1/5 by 1 [1]\n- **gd95-07-02.aud.unk.12578.sbeok.shnf**: audience recording; 18 songs; 148 min; rated 2.86/5 by 36 [2]. Said about its sound: Two audience copies exist; reviewer asks if they differ or what bootleg CD means; Silver CD split tracks between discs with fades; Quinn faded out at the end; Show sounds dark and strange; people rushing in are audible during Desolation Row [17][18][24]\n- **gd95-07-02.aud.ball.587.sbeok.shnf**: audience recording; 18 songs; 148 min; rated 2.37/5 by 46 [3]. Said about its sound: Cheering is audible during Desolation Row, which the reviewer finds sad and spoiling [26]\n- **gd1995-07-02.172645.senn.me88.greenberg.roeder.miller.clugston.flac1648**: audience recording; 18 songs; 150 min [4]\n- **gd1995-07-02.139737.cmc5-mk4.ebel-varnum.flac1644**: source not stated; 18 songs; 148 min; rated 4.5/5 by 4 [5]\n\n## Around the show\n\n- Gatecrashers caused chaos, yet the band performed with poise and dignity for innocent fans [16]\n- Gate crashing peaked during Desolation Row; this was the reviewer's final Dead show [19]\n- Mayhem began right after Weir sang the riot squad verse in Desolation Row [20]\n- Reviewer felt surreal experience as people rushed over the fence during the song [20]\n- One man counted to three and ran at cops, getting maced while others stayed back [23]\n- House lights stayed on all night due to a death threat against Jerry Garcia [25]\n- Riots and gate crashers led to a sloppy show; the next night was cancelled [25]\n- Police used tear gas during Desolation Row; house lights on due to death threat [4]\n- Reviewer considers it okay for 1995 but notes better shows from that tour exist [18]\n- Show symbolizes 1995 decline, but fans' negative inspiration helped the band turn it on [21]\n\n## Tapers and lineage\n\n- **gd1995-07-02.aud.unknown.tetzeli.fix-12578.74417.reflac.flac16**: taped by unknown; transferred by Bill Tetzeli; source: Unknown AUD>??>Bootleg CD>WAV>SHN>WAV>FLAC [1]\n- **gd95-07-02.aud.unk.12578.sbeok.shnf**: source: Bootleg CD>WAV>SHN [2]. Also: Setlist includes Desolation Row with Weir on acoustic, followed by Scarlet Begonias [2]\n- **gd95-07-02.aud.ball.587.sbeok.shnf**: source: Audience: Unknown Mics [3]\n- **gd1995-07-02.172645.senn.me88.greenberg.roeder.miller.clugston.flac1648**: taped by Jason Greenberg and Terry Roeder; transferred by Jason Greenberg, Charlie Miller, Scott Clugston; source: Master Audience DAT; Sennheiser ME-88 mics (on the lawn) > Sony TC-D7 (16-bit/48k) [4]\n- **gd1995-07-02.139737.cmc5-mk4.ebel-varnum.flac1644**: taped by Pete Ebel and Ryan Varnum; transferred by Pete Ebel; source: flac16/44.1khz Source Info: TS Schoeps CMC 5 MK4-> Sonosax P/S -> Sony D10 Pro II-> DAT. Transfer Info: Dat (Panasonic SV-3700) -> Marantz CDR-615 -> CD (Late… [5]. Also: Recording captured Hoochie Coochie Man, Death Don't Have No Mercy, and Visions Of Johanna [5]\n\n## Art and photos\n\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-07-02 Sun Deer Creek Music Center, Noblesville, IN](https://www.livegrateful.net/post/1278060240099/grateful-dead-1995-07-02-sun-deer-creek) [28]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-07-02 Sun Deer Creek Music Center, Noblesville, IN](https://www.livegrateful.net/post/1278060240099/grateful-dead-1995-07-02-sun-deer-creek) [29]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-07-02 Sun Deer Creek Music Center, Noblesville, IN](https://www.livegrateful.net/post/1278060240099/grateful-dead-1995-07-02-sun-deer-creek) [30]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-07-02 Sun Deer Creek Music Center, Noblesville, IN](https://www.livegrateful.net/post/1278060240099/grateful-dead-1995-07-02-sun-deer-creek) [31]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-07-02 Sun Deer Creek Music Center, Noblesville, IN](https://www.livegrateful.net/post/1278060240099/grateful-dead-1995-07-02-sun-deer-creek) [32]\n- Poster by Robbi Cohn: [1995-07-02 Deer Creek Music Center, Noblesville, IN, USA - Jerry Garcia](https://jerrygarcia.com/show/1995-07-02-deer-creek-music-center-noblesville-in-usa/) [33]",

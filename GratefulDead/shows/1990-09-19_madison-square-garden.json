@@ -502,7 +502,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1073,122 +1073,311 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-09-11",
+        "show": "live:grateful-dead:1990-09-11:the-spectrum"
+       },
+       "plays_before": 426,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-09-11",
+        "show": "live:grateful-dead:1990-09-11:the-spectrum"
+       },
+       "plays_before": 353,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-09-12",
+        "show": "live:grateful-dead:1990-09-12:the-spectrum"
+       },
+       "plays_before": 584,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-09-14",
+        "show": "live:grateful-dead:1990-09-14:madison-square-garden"
+       },
+       "plays_before": 364,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 181,
+       "gap_shows": 41,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 152,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-09-10",
+        "show": "live:grateful-dead:1990-09-10:the-spectrum"
+       },
+       "plays_before": 53,
+       "total_plays": 79
+      },
       "title": "Stuck Inside Of Mobile With The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-09-14",
+        "show": "live:grateful-dead:1990-09-14:madison-square-garden"
+       },
+       "plays_before": 72,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 70,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 186,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-09-15",
+        "show": "live:grateful-dead:1990-09-15:madison-square-garden"
+       },
+       "plays_before": 539,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1990-07-16",
+        "show": "live:grateful-dead:1990-07-16:rich-stadium"
+       },
+       "plays_before": 205,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:playing-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-07-21",
+        "show": "live:grateful-dead:1990-07-21:world-music-theater"
+       },
+       "plays_before": 37,
+       "total_plays": 45
+      },
       "title": "Playing Jam"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-09-15",
+        "show": "live:grateful-dead:1990-09-15:madison-square-garden"
+       },
+       "plays_before": 267,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-09-12",
+        "show": "live:grateful-dead:1990-09-12:the-spectrum"
+       },
+       "plays_before": 247,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-09-18",
+        "show": "live:grateful-dead:1990-09-18:madison-square-garden"
+       },
+       "plays_before": 491,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-09-18",
+        "show": "live:grateful-dead:1990-09-18:madison-square-garden"
+       },
+       "plays_before": 1259,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-09-18",
+        "show": "live:grateful-dead:1990-09-18:madison-square-garden"
+       },
+       "plays_before": 919,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1990-07-14",
+        "show": "live:grateful-dead:1990-07-14:foxboro-stadium"
+       },
+       "plays_before": 282,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-09-15",
+        "show": "live:grateful-dead:1990-09-15:madison-square-garden"
+       },
+       "plays_before": 270,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-09-11",
+        "show": "live:grateful-dead:1990-09-11:the-spectrum"
+       },
+       "plays_before": 373,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:mighty-quinn",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-07-21",
+        "show": "live:grateful-dead:1990-07-21:world-music-theater"
+       },
+       "plays_before": 44,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn The Eskimo)"
      }
     ],
@@ -1196,31 +1385,71 @@
      {
       "from": "gd90-09-19.bk.sacks.9988.sbeok.shnf",
       "key": "song:grateful-dead:stuck-inside-of-mobile",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1990-07-14",
+        "show": "live:grateful-dead:1990-07-14:foxboro-stadium"
+       },
+       "plays_before": 17,
+       "total_plays": 26
+      },
       "title": "Stuck Inside of Mobile"
      },
      {
       "from": "gd90-09-19.bk.sacks.9988.sbeok.shnf",
       "key": "song:grateful-dead:trio-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "TRIO JAM(Bob, Bruce, Jerry)"
      },
      {
       "from": "gd1990-09-19.at835b.laurentus.96927.flac16",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-09-10",
+        "show": "live:grateful-dead:1990-09-10:the-spectrum"
+       },
+       "plays_before": 44,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd1990-09-19.143131.OTS.ECM-909A.Sterry.Beckwith.Noel.Miller.t-flac2496",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-07-21",
+        "show": "live:grateful-dead:1990-07-21:world-music-theater"
+       },
+       "plays_before": 102,
+       "total_plays": 123
+      },
       "title": "Playing in the Band reprise"
      },
      {
       "from": "gd1990-09-19.bk4011.tdarian.french.88969.sbeok.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-09-16",
+        "show": "live:grateful-dead:1990-09-16:madison-square-garden"
+       },
+       "plays_before": 122,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
@@ -1228,26 +1457,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1611,
-     "shows_in_archive": 1855,
+     "show_number": 1716,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 23,
+   "parent_revision": 35,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:13.692198+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.830938+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 24,
-   "signature": "wL7-zvxy3NKuqgnAj_uTwst68WptHTJrhZ2VB3Grt6V5d4417RXYRLqWxgyJUmY8fEM0YAk8ItUWax2KJ9dVCg",
+   "revision": 36,
+   "signature": "MhL2lNGFssL-QmbwHBp7EVdvm_4AYDo1PCnjawOmFx3WhJeMqpgT-lJt6x8yjWxFAoNcR4TX5hRppSGUgT9KBg",
    "subject_key": "live:grateful-dead:1990-09-19:madison-square-garden",
-   "updated_at": "2026-10-25T16:42:13.693899"
+   "updated_at": "2026-10-25T17:35:25.832262"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): First set is top notch, with Jack Straw and Big River played with passion; Jack Straw and Bertha sizzle, while the Help On The Way set closer is described as sick [18][25][28]\n- **Let It Grow** (1 review): Transition into the song is the most outstanding live performance the reviewer ever heard [24]\n\n## The recordings\n\n- **gd1990-09-19.138055.mtx.photoleon.t-flac16** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 185 min; rated 5/5 by 1 [1]\n- **gd1990-09-19.mtx.hansokolow.fix-96157.97641.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 188 min [2]\n- **gd90-09-19.schoeps-fob.wiley.11664.sbeok.shnf**: audience recording; 21 songs; 189 min; rated 4.25/5 by 4 [5]. Said about its sound: Recording captures high energy but has skips and glitches during the peak of the song; Source disk scratches cause mis-tracks and repeats during the song, though the copy is superior [17][20]\n- **gd90-09-19.sbd.jeffm.3373.sbeok.shnf**: soundboard; 19 songs; 169 min; rated 4.33/5 by 6 [13]. Said about its sound: Recording quality is more muffled than many others found on the site, earning three stars [26]\n- **gd90-09-19.sbd.ashley.14674.sbeok.shnf**: soundboard; 20 songs; 169 min; rated 4.21/5 by 14 [14]. Said about its sound: This soundboard transfer features a crisp low end and slightly higher levels than others [19]\n\n## Around the show\n\n- Reviewer misses Brent but notes Bruce fills in nicely for the band [23]\n- Bruce was just breaking in his seat, marking his fourth show as a band member [25]\n- Band started a twenty-minute Let It Grow before switching to Ship of Fools, crushing fans [27]\n- Reviewer considers this performance significantly better than the following night's concert [18]\n\n## Tapers and lineage\n\n- **gd1990-09-19.138055.mtx.photoleon.t-flac16**: transferred by Matrix by Joe Noel; source: flac16/48kHz ; MTX from Audience recording: Recording by Tom Darian; From Section A Row 19, seat 2 FOB - near center; B&K 4011's ORTF -> ProLnk Cables ->… [1]\n- **gd1990-09-19.mtx.hansokolow.fix-96157.97641.flac16**: transferred by hansokolow; source: matrix of DSBD: shnid=85003 and DAUD: shnid=11664 [2]. Also: Matrix uses Charlie Miller's SBD source with analog set one and digital set two; Dave Brotman's FOB Schoeps source was chosen for clarity, with glitches fixed by blending [2]\n- **gd90-09-19.schoeps-fob.wiley.11664.sbeok.shnf**: source: Dave Brotman FOB(15th row, Center)-AUD(Scheops)>DAT>CDR>WAV>SHN [5]\n- **gd90-09-19.sbd.jeffm.3373.sbeok.shnf**: source: SBD> DAT> CDR> WAV> SHN [13]\n- **gd90-09-19.sbd.ashley.14674.sbeok.shnf**: source: Soundboard [14]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1990-09-19 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1990-09-19-grateful-dead-backstage-pass/) [33]",

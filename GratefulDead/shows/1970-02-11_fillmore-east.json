@@ -387,7 +387,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -407,8 +407,8 @@
      "venue": "Ungano's Night Club"
     },
     "previous": {
-     "date": "1970-02-07",
-     "show": "live:grateful-dead:1970-02-07:fillmore-west",
+     "date": "1970-02-08",
+     "show": "live:grateful-dead:1970-02-08:fillmore-west",
      "venue": "Fillmore West"
     },
     "recommended": {
@@ -692,70 +692,182 @@
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-02-06",
+        "show": "live:grateful-dead:1970-02-06:fillmore-west"
+       },
+       "plays_before": 86,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-02-06",
+        "show": "live:grateful-dead:1970-02-06:fillmore-west"
+       },
+       "plays_before": 80,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-02-08",
+        "show": "live:grateful-dead:1970-02-08:fillmore-west"
+       },
+       "plays_before": 32,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-02-06",
+        "show": "live:grateful-dead:1970-02-06:fillmore-west"
+       },
+       "plays_before": 37,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:intro-by-keeva-krystal",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Intro by Keeva Krystal"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-02-08",
+        "show": "live:grateful-dead:1970-02-08:fillmore-west"
+       },
+       "plays_before": 8,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-02-06",
+        "show": "live:grateful-dead:1970-02-06:fillmore-west"
+       },
+       "plays_before": 25,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-02-07",
+        "show": "live:grateful-dead:1970-02-07:fillmore-west"
+       },
+       "plays_before": 42,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-02-07",
+        "show": "live:grateful-dead:1970-02-07:fillmore-west"
+       },
+       "plays_before": 43,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-02-08",
+        "show": "live:grateful-dead:1970-02-08:fillmore-west"
+       },
+       "plays_before": 56,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-02-08",
+        "show": "live:grateful-dead:1970-02-08:fillmore-west"
+       },
+       "plays_before": 96,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 296,
+       "gap_shows": 96,
+       "last_played": {
+        "date": "1969-04-21",
+        "show": "live:grateful-dead:1969-04-21:the-ark"
+       },
+       "plays_before": 10,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-02-08",
+        "show": "live:grateful-dead:1970-02-08:fillmore-west"
+       },
+       "plays_before": 106,
+       "total_plays": 333
+      },
       "title": "Turn on Your Lovelight"
      },
      {
@@ -765,7 +877,16 @@
        "Acoustic"
       ],
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-02-07",
+        "show": "live:grateful-dead:1970-02-07:fillmore-west"
+       },
+       "plays_before": 13,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -773,40 +894,55 @@
      {
       "from": "gd70-02-11.early-late.sbd.sacks.90.sbefail.shnf",
       "key": "song:grateful-dead:intro-by-keeva-krystal-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Intro by Keeva Krystal Not Fade Away"
      },
      {
       "from": "gd1970-02-11.partial.sbd.greenberg-evans.28402.sbeok.flac16",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1970-02-01",
+        "show": "live:grateful-dead:1970-02-01:the-warehouse"
+       },
+       "plays_before": 24,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      }
     ],
     "subject_key": "live:grateful-dead:1970-02-11:fillmore-east",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 187,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Intro by Keeva Krystal"
+     ],
+     "show_number": 233,
+     "shows_in_archive": 2097,
      "songs": 14,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore East"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.718136+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.472631+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "3H9ZUgbwlqp9LX6zZYEYfgXTdU6NJIwYKpaXCVSncqJeCaR73ST49-a0gQUkmyOpDq-hhm1L9FIEpPWsrx5TBw",
+   "revision": 42,
+   "signature": "978eeEn_NVsKSr_41EgFMopERr6k24UizPPP8Lvt1CkBBRLb8JWCKloHE32QrA58zrWE2Ho8fshx84bsn-FsCQ",
    "subject_key": "live:grateful-dead:1970-02-11:fillmore-east",
-   "updated_at": "2026-10-25T16:41:39.719505"
+   "updated_at": "2026-10-25T17:35:10.474607"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Spanish Jam** (1 review): The reviewer claims words cannot do the Spanish Jam performance justice [10]\n\n## The recordings\n\n- **gd1970-02-11.126251.sbd.wolfe-lee-smith.flac16** (recommended): matrix (soundboard mixed with audience mics); 14 songs; 121 min; rated 4.67/5 by 3 [1]\n- **gd1970-02-11.sbd.smith.patched.99154.sbeok.flac16**: soundboard; 14 songs; 120 min; rated 3.6/5 by 10 [2]\n- **gd70-02-11.early-late.sbd.sacks.90.sbefail.shnf**: soundboard; 13 songs; 117 min; rated 4.81/5 by 77 [3]. Said about its sound: The reviewer expresses regret that the Dark Star cut is a huge pity; Despite many musicians, the performance sounds tight and flows well without overstaging; The reviewer describes the Cumberland Blues version as scorching [10][11][14][16][18][19][20]\n- **gd1970-02-11.sbd.warner.patched.28292.sbeok.flac16**: soundboard; 13 songs; 121 min; rated 4.69/5 by 13 [4]\n\n## Around the show\n\n- Peter Green and most Allman Brothers joined the Dead on stage for this section [10]\n- The reviewer describes the collaboration as pure rage and a special time [12]\n- Phil Lesh is highlighted as leading the way during the Spanish Jam [15]\n- The reviewer compares it favorably to their previous poor recording of the jam [12]\n- The reviewer calls it a dress rehearsal for the later Allman tour dates [14]\n- The reviewer notes the show is overshadowed by the February 13-14 performances [16]\n\n## Tapers and lineage\n\n- **gd1970-02-11.126251.sbd.wolfe-lee-smith.flac16**: taped by Pat Lee and Don Wolfe; transferred by Matt Smith; source: SBD MR > DAT (disc 1 and first part of Star, last part lovelight via a DAT transfer so is not from circ. source); MAR > ? > R @ 3 @ ips. (aud patch source used… [1]. Also: Matt remastered the tape using a direct tape head output chain; The transfer method followed advice from Dan Healy for a clean signal [1]\n- **gd1970-02-11.sbd.smith.patched.99154.sbeok.flac16**: transferred by Matt Smith; source: SBD > Reel [2]. Also: Sources include SBD MR, DAT, and audience tape patched by Matt Smith; Don Wolfe provided the audience reel and Pat Lee the second board reel [2]\n- **gd70-02-11.early-late.sbd.sacks.90.sbefail.shnf**: transferred by Darrin Sacks; source: Soundboard [3]. Also: Dark Star has an abrupt splice or cut at approximately 6:57; Lovelight contains a splice at the 30:16 mark [3]\n- **gd1970-02-11.sbd.warner.patched.28292.sbeok.flac16**: transferred by EAC and FLAC encoding by Jack Warner; source: Master soundboard reels > DAT > CD > Plextor PX-708A extraction (EAC v0.95 prebeta 5) > tracking (CD Wave) > sector boundary verification (shntool v2.0.3) >… [4]. Also: Dark Star is patched using a master audience tape source; This source lacks a patch for the Lovelight section [4]",

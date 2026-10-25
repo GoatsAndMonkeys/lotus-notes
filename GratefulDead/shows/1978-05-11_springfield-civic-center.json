@@ -348,7 +348,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -413,7 +413,7 @@
     "previous": {
      "date": "1978-05-10",
      "show": "live:grateful-dead:1978-05-10:veterans-memorial-coliseum",
-     "venue": "Veterans Memorial Coliseum"
+     "venue": "Veterans' Memorial Coliseum"
     },
     "recommended": {
      "identifier": "gd78-05-11.moore.minches.18658.sbeok.shnf",
@@ -635,117 +635,319 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 119,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-05-06",
+        "show": "live:grateful-dead:1978-05-06:patrick-gymnasium-u-of-vermont"
+       },
+       "plays_before": 224,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 105,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 132,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-05-06",
+        "show": "live:grateful-dead:1978-05-06:patrick-gymnasium-u-of-vermont"
+       },
+       "plays_before": 170,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 190,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 131,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 203,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 78,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-10",
+        "show": "live:grateful-dead:1978-05-10:veterans-memorial-coliseum"
+       },
+       "plays_before": 61,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-05-05",
+        "show": "live:grateful-dead:1978-05-05:thompson-arena-dartmouth-college"
+       },
+       "plays_before": 63,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-05-05",
+        "show": "live:grateful-dead:1978-05-05:thompson-arena-dartmouth-college"
+       },
+       "plays_before": 57,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:bobbys-lighting-engineer-rap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby's Lighting Engineer Rap"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 84,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-05-07",
+        "show": "live:grateful-dead:1978-05-07:field-house-rensselaer-polytechnic-institute"
+       },
+       "plays_before": 32,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 95,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-10",
+        "show": "live:grateful-dead:1978-05-10:veterans-memorial-coliseum"
+       },
+       "plays_before": 361,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-05-10",
+        "show": "live:grateful-dead:1978-05-10:veterans-memorial-coliseum"
+       },
+       "plays_before": 55,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 217,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-05-05",
+        "show": "live:grateful-dead:1978-05-05:thompson-arena-dartmouth-college"
+       },
+       "plays_before": 87,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 142,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:werewolves-of-london",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 5,
+       "total_plays": 12
+      },
       "title": "Werewolves Of London"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1978-04-14",
+        "show": "live:grateful-dead:1978-04-14:coliseum-virginia-polytechnic-u"
+       },
+       "plays_before": 127,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -753,40 +955,55 @@
      {
       "from": "gd1978-05-11.sdb.lai.1187.sbefail.shn",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 179,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1978-05-11.147804.2nd.Set.fob.shure.sm57.sublette.miller.clugston.flac2496",
       "key": "song:grateful-dead:weirs-lighting-engineer-rap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Weir's Lighting Engineer Rap"
      }
     ],
     "subject_key": "live:grateful-dead:1978-05-11:springfield-civic-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 686,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bobby's Lighting Engineer Rap"
+     ],
+     "show_number": 778,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Springfield Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 16,
+   "parent_revision": 28,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.991716+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.513788+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 17,
-   "signature": "SZLEI12jedbrfLmdEbttJnMXYwM8OJ17Djwlz5OCgPSXniqwS6uhUtyaf6ocUxJ4FeC6bwhYjMl4CrNDrl6FCA",
+   "revision": 29,
+   "signature": "rO0fsJXKxd7NXIwWZOTYeAjZXpO6xTdfkhrU02yN4hOtuhRuPwVWbVYFeTkLTJBSVHUlXQq3EgN_Q5e391O7CA",
    "subject_key": "live:grateful-dead:1978-05-11:springfield-civic-center",
-   "updated_at": "2026-10-25T16:41:51.993878"
+   "updated_at": "2026-10-25T17:35:15.514593"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancing In The Street** (3 reviews): The strangest moment of the show, with vocals and playing at their most skewed; Bobby's vocals get very weird, even for him, and he makes Donna laugh at one point [8][10][16]\n- **Supplication** (2 reviews): Reviewer singles out Bobby's singing on Looks Like Rain and Supplication as outstanding; Reviewer calls the end of Supplication the best they have heard, with Weir playing ferociously [9][16]\n- **Werewolves Of London** (2 reviews): Reviewer calls it a fine version of the song; Suited Jerry well and made a fun encore, showing the band having a ball [13][19]\n- **Cold Rain And Snow** (1 review): Reviewer praises Jerry's fierce singing on this opening song [9]\n\n## The recordings\n\n- **gd78-05-11.moore.minches.18658.sbeok.shnf** (recommended): audience recording; 23 songs; 188 min; rated 3.92/5 by 13 [1]. Said about its sound: Nice audience recording with Garcia's voice front and center amid the cheering crowd [12]\n- **gd1978-05-11.127386.mtx.dusborne.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 174 min; rated 4.75/5 by 4 [2]\n- **gd1978-05-11.147804.2nd.Set.fob.shure.sm57.sublette.miller.clugston.flac2496**: audience recording; 10 songs; 93 min [6]\n- **gd78-05-11.sbd.miller.16333.sbeok.shnf**: soundboard; 22 songs; 166 min; rated 3.8/5 by 5 [3]\n\n## Around the show\n\n- Known as the mescaline show; tempos, vocals and details are slightly off throughout, with the oddness peaking in Dancing In The Street [8]\n- Reviewer hears the band as heavily on psychedelics during the show, yet still playing fairly smoothly [11]\n- Reviewer theorizes the band's weirdness and abilities came from consuming cannabis before and during the show [14]\n- Reviewer prefers this audience tape to the other circulating audience source; finds 1978 spotty but this show nice [16]\n- Reviewer says this audience tape is better than the other one available on the site [19]\n\n## Tapers and lineage\n\n- **gd78-05-11.moore.minches.18658.sbeok.shnf**: taped by Moore, Maisner, and Spitalny; transferred by David Minches; source: Audience Recording: Nak 700's [1]. Also: Recorded by Moore, Maisner and Spitalny on Nak 700s to Nak 550 to Sony TC-152, from the floor right of center; Transferred from the cassette master by David Minches via Nak Dragon, ART DI/O, Waveterminal 2496, Cool Edit 2000 and mkwACT [1]\n- **gd1978-05-11.127386.mtx.dusborne.flac16**: taped by dusborne; transferred by dusborne; source: 3 Source Matrix from Soundboard (shnid:16333), Audience (shnid:06317) and Audience (shnid:18658) [2]. Also: Front-of-board audience recording on Nak mics to Sony D5, cassette master, then DAT; transferred to CD and FLAC; Drums and space were mostly cut from the DAT; the missing drums section was patched from the circulating soundboard by Matt Vernon [2]\n- **gd1978-05-11.147804.2nd.Set.fob.shure.sm57.sublette.miller.clugston.flac2496**: taped by Kathy Sublette; transferred by Scott Clugston and Charlie Miller; source: Kathy Sublette's Master (FOB) Audience Cassette; Shure SM57 mics > Sony-TC158 > Cassette [6]. Also: Second set comes from Kathy Sublette's backup cassette, transferred by Charlie Miller, because the master tapes were stolen; Weir's Lighting Engineer Rap and a 16:55 Drums > Space patch come from the shnid 18658 Nakamichi 700 source; A six-second patch in the Not Fade Away > Stella Blue transition comes from Matt Vernon's shnid 6317 Nakamichi 700 source [6]\n- **gd78-05-11.sbd.miller.16333.sbeok.shnf**: source: Soundboard [3]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Springfield Civic Center Arena - May 11, 1978](https://www.dead.net/show/may-11-1978) [23]",

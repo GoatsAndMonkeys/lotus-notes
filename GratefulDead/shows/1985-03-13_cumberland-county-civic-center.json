@@ -55,10 +55,24 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://www.cs.cmu.edu/",
+     "id": 4,
+     "kind": "blog",
+     "published_at": null,
+     "quote_or_claim": "Grateful Dead Setlists: 1985 Henry J.",
+     "site": "www.cs.cmu.edu",
+     "title": "Grateful Dead Setlists: 1985",
+     "url": "https://www.cs.cmu.edu/~gdead/85.html",
      "wayback_timestamp": null,
      "wayback_url": null
     }
@@ -76,8 +90,8 @@
     },
     "previous": {
      "date": "1985-03-13",
-     "show": "live:grateful-dead:1985-03-13:berkeley-community-theatre",
-     "venue": "Berkeley Community Theatre"
+     "show": "live:grateful-dead:1985-03-13:berkeley-community-theater",
+     "venue": "Berkeley Community Theater"
     },
     "recommended": {
      "identifier": "gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648",
@@ -120,111 +134,282 @@
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-13",
+        "show": "live:grateful-dead:1985-03-13:berkeley-community-theater"
+       },
+       "plays_before": 143,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:candyman",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 137,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 197,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-10",
+        "show": "live:grateful-dead:1985-03-10:berkeley-community-theater"
+       },
+       "plays_before": 91,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 131,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1984-11-02",
+        "show": "live:grateful-dead:1984-11-02:berkeley-community-theater"
+       },
+       "plays_before": 270,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 137,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 284,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 55,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-09",
+        "show": "live:grateful-dead:1985-03-09:berkeley-community-theater"
+       },
+       "plays_before": 88,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 180,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:iko-iko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 44,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-10",
+        "show": "live:grateful-dead:1985-03-10:berkeley-community-theater"
+       },
+       "plays_before": 253,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 199,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-09",
+        "show": "live:grateful-dead:1985-03-09:berkeley-community-theater"
+       },
+       "plays_before": 90,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-02-18",
+        "show": "live:grateful-dead:1985-02-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 74,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-13",
+        "show": "live:grateful-dead:1985-03-13:berkeley-community-theater"
+       },
+       "plays_before": 852,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-13",
+        "show": "live:grateful-dead:1985-03-13:berkeley-community-theater"
+       },
+       "plays_before": 516,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-09",
+        "show": "live:grateful-dead:1985-03-09:berkeley-community-theater"
+       },
+       "plays_before": 108,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 411,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:day-tripper",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-02-20",
+        "show": "live:grateful-dead:1985-02-20:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 2,
+       "total_plays": 6
+      },
       "title": "Day Tripper"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-03-12",
+        "show": "live:grateful-dead:1985-03-12:berkeley-community-theater"
+       },
+       "plays_before": 222,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -233,26 +418,130 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1195,
-     "shows_in_archive": 1855,
+     "show_number": 1298,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cumberland County Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.722213+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.222021+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "MosvGhlFZw6VNHjaCgbL7qLqKqh20CWVyeLK-GjQsGZ7bQpQR1mZIJXhsJK5mXPp_4AIplCO2a61uRfE6HBHAA",
+   "revision": 41,
+   "signature": "WqbvJVv8LPTOXQqZ8Z-om0gTikv1lmYfrvBIyaCfnQLaJhPm4Ar1w2rW019cqMleyivIcXSthsUZ5zRYmJqsCQ",
    "subject_key": "live:grateful-dead:1985-03-13:cumberland-county-civic-center",
-   "updated_at": "2026-10-25T16:41:59.722985"
+   "updated_at": "2026-10-25T17:35:20.222556"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Playin' In The Band** (1 other source): This Playin' In The Band is inverted, noted as the only inverted one [1]\n\n## The recordings\n\n- **gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648** (recommended): audience recording; 19 songs; 137 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648**: taped by Rob Hunt and Ted Mattes; transferred by Scott Clugston and Charlie Miller; source: Rob Hunt and Ted Mattes' Master Audience Cassettes; Sennheiser 441 mics > Sony D5M [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Rob Hunt and Ted Mattes",
+     "author_url": "https://archive.org/search?query=taper%3A%22Rob%20Hunt%20and%20Ted%20Mattes%22",
+     "credits": [
+      {
+       "name": "Rob Hunt and Ted Mattes",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Rob%20Hunt%20and%20Ted%20Mattes%22"
+      },
+      {
+       "name": "Scott Clugston and Charlie Miller",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Scott%20Clugston%20and%20Charlie%20Miller%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-04-01",
+     "quote_or_claim": "19-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Cumberland County Civic Center on 1985-03-13",
+     "url": "https://archive.org/details/gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "onthebus50",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22onthebus50%22",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2020-04-20",
+     "quote_or_claim": "i was there 31 number inversion lol",
+     "site": "Internet Archive",
+     "title": "Review: wrong date (gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648)",
+     "url": "https://archive.org/details/gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2085 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "gd1985-03-13.149309.senn441.hunt.mattes.miller.clugston.flac1648",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Master cassettes came from Rob Hunt and Ted Mattes; Charlie Miller did the transfer and coordinated the project",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Playin' In The Band",
+      "song_key": "song:grateful-dead:playin-in-the-band",
+      "src": 1,
+      "text": "This Playin' In The Band is inverted, noted as the only inverted one",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1985-03-13:cumberland-county-civic-center"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "d90b93c5892971c1509a5c62a3e11023ea3a43fd467be118e18d0cda52b4defe",
+    "generated_at": "2026-10-25T17:16:25.898923+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "71f204b2a29ec8c5a34c2a39e0affa8605903a2d41e99518001f5c05b22aba94",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.7
+   },
+   "revision": 1,
+   "signature": "JvkK3UC-dj87KEg8KyP_Mx2pq___tMIupWxUwrvfM1TrQPLsDIyDLNoqnVCIumPyRPUphDQ9RABob77eBHMiAg",
+   "subject_key": "live:grateful-dead:1985-03-13:cumberland-county-civic-center",
+   "updated_at": "2026-10-25T17:16:25.901327"
   }
  },
  "recommended": {

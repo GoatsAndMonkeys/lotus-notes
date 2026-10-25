@@ -204,7 +204,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -224,9 +224,9 @@
      "venue": "McArthur Court, University of Oregon"
     },
     "previous": {
-     "date": "1969-05-24",
-     "show": "live:grateful-dead:1969-05-24:seminole-indian-village",
-     "venue": "Seminole Indian Village"
+     "date": "1969-05-29",
+     "show": "live:grateful-dead:1969-05-29:robertson-gym-u-c-s-b",
+     "venue": "Robertson Gym, U.C.S.B."
     },
     "recommended": {
      "identifier": "gd1969-05-30.sbd.miller.87516.sbeok.flac16",
@@ -268,50 +268,131 @@
     "setlist": [
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-29",
+        "show": "live:grateful-dead:1969-05-29:robertson-gym-u-c-s-b"
+       },
+       "plays_before": 41,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-29",
+        "show": "live:grateful-dead:1969-05-29:robertson-gym-u-c-s-b"
+       },
+       "plays_before": 11,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-05-24",
+        "show": "live:grateful-dead:1969-05-24:seminole-indian-village"
+       },
+       "plays_before": 26,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1969-04-18",
+        "show": "live:grateful-dead:1969-04-18:purdue-university"
+       },
+       "plays_before": 7,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-05-23",
+        "show": "live:grateful-dead:1969-05-23:seminole-indian-village"
+       },
+       "plays_before": 62,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1969-04-18",
+        "show": "live:grateful-dead:1969-04-18:purdue-university"
+       },
+       "plays_before": 8,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-05-24",
+        "show": "live:grateful-dead:1969-05-24:seminole-indian-village"
+       },
+       "plays_before": 57,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-05-24",
+        "show": "live:grateful-dead:1969-05-24:seminole-indian-village"
+       },
+       "plays_before": 61,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-05-29",
+        "show": "live:grateful-dead:1969-05-29:robertson-gym-u-c-s-b"
+       },
+       "plays_before": 63,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -320,26 +401,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 125,
-     "shows_in_archive": 1855,
+     "show_number": 150,
+     "shows_in_archive": 2097,
      "songs": 9,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Springer's Inn"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.264857+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.953533+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "cOxgJj0n74XE2MhMfZwwJoHxrkVx0KbQUbWSvDsYs1wcWU0Ob262wY-j3oVNtOqrZQZcnbgwnAZZv3Uf7q1MAQ",
+   "revision": 40,
+   "signature": "WLkYiNGLM0OQfMSAT2JDJlDCjBul2g2dx-8CPUlnBkFUwB7HrAMZ_2mXlqFPnM9NEXXKVqZtP7QY-cgj-D8AAg",
    "subject_key": "live:grateful-dead:1969-05-30:springers-inn",
-   "updated_at": "2026-10-25T16:41:39.265572"
+   "updated_at": "2026-10-25T17:35:09.954247"
   }
  },
  "recommended": {

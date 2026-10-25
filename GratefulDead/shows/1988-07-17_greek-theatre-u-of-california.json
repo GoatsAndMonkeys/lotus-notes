@@ -518,7 +518,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -569,8 +569,8 @@
     },
     "previous": {
      "date": "1988-07-16",
-     "show": "live:grateful-dead:1988-07-16:greek-theater-university-of-california",
-     "venue": "Greek Theater - University of California"
+     "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "recommended": {
      "identifier": "gd1988-07-17.143173.pre-fm.bm.miller.flac1644",
@@ -1002,123 +1002,330 @@
     "setlist": [
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 7,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 105,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1988-04-03",
+        "show": "live:grateful-dead:1988-04-03:hartford-civic-center"
+       },
+       "plays_before": 227,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1988-06-17",
+        "show": "live:grateful-dead:1988-06-17:metropolitan-sports-center"
+       },
+       "plays_before": 203,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 558,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-06-26",
+        "show": "live:grateful-dead:1988-06-26:civic-arena"
+       },
+       "plays_before": 342,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-06-28",
+        "show": "live:grateful-dead:1988-06-28:saratoga-performing-arts-center"
+       },
+       "plays_before": 229,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1988-06-22",
+        "show": "live:grateful-dead:1988-06-22:alpine-valley-music-theatre"
+       },
+       "plays_before": 220,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-16",
+        "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Set Break (KPFA)"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 89,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 7,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 55,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 484,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 235,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-16",
+        "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california"
+       },
+       "plays_before": 1095,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1988-07-16",
+        "show": "live:grateful-dead:1988-07-16:greek-theatre-u-of-california"
+       },
+       "plays_before": 755,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 260,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1988-07-02",
+        "show": "live:grateful-dead:1988-07-02:oxford-plains-speedway"
+       },
+       "plays_before": 31,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:believe-it-or-not",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 3,
+       "total_plays": 9
+      },
       "title": "Believe It Or Not"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 149,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 446,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:not-fade-away",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 446,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:blackbird",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1988-06-23",
+        "show": "live:grateful-dead:1988-06-23:alpine-valley-music-theatre"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Blackbird"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:brokedown-palace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1988-06-30",
+        "show": "live:grateful-dead:1988-06-30:silver-stadium"
+       },
+       "plays_before": 165,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1126,175 +1333,307 @@
      {
       "from": "gd88-07-17.sbd.jeffm.1808.sbeok.shnf",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 99,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd88-07-17.schoeps.gardner.9245.sbeok.shnf",
       "key": "song:grateful-dead:sounds-of-set-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sounds of set break"
      },
      {
       "from": "gd1988-07-17.160879.neumannkm84.holbrook.flac2448",
       "key": "song:grateful-dead:crowd-nfa-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1988-06-28",
+        "show": "live:grateful-dead:1988-06-28:saratoga-performing-arts-center"
+       },
+       "plays_before": 6,
+       "total_plays": 9
+      },
       "title": "crowd NFA chant"
      },
      {
       "from": "gd1988-07-17.160879.neumannkm84.holbrook.flac2448",
       "key": "song:grateful-dead:encore1-blackbird",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Encore1 Blackbird"
      },
      {
       "from": "gd1988-07-17.160879.neumannkm84.holbrook.flac2448",
       "key": "song:grateful-dead:encore2-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1111,
+       "gap_shows": 217,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Encore2 Brokedown Palace"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-01-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 01 Tuning"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-02-box-of-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 02 Box Of Rain"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-03-victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 03 Victim Or The Crime"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-04-crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 04 Crazy Fingers"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-05-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 05 Playin' In The Band"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-06-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 06 Uncle John's Band"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-07-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 07 Drums"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-08-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 08 Space"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-09-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 09 Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-10-all-along-the-watchtower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 10 All Along The Watchtower"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-11-believe-it-or-not",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 11 Believe It Or Not"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-12-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 12 Throwing Stones"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-13-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 13 Not Fade Away"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-14-not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 14 Not Fade Away Chant"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-15-blackbird",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 15 Blackbird"
      },
      {
       "from": "gd1988-07-17.140579.set2.sbd.gans.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s2-16-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s2 16 Brokedown Palace"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-01-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 01 Tuning"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-02-foolish-heart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 02 Foolish Heart"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-03-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 03 Greatest Story Ever Told"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-04-althea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 04 Althea"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-05-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 05 Me & My Uncle"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-06-big-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 06 Big River"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-07-candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 07 Candyman"
      },
      {
       "from": "gd1988-07-17.140511.set1.fob.akg.414btl.pcm.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd88-07-17-s1-08-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-17 s1 08 Let It Grow"
      }
     ],
@@ -1302,26 +1641,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1443,
-     "shows_in_archive": 1855,
+     "show_number": 1548,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:06.520760+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.695813+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "CRfhOpeIX5TQWV6n6SOxXkZMaZYAg64trKVofvGOuedSVt3BpuHzT-hKNjFqBbZmTEOymoQwPMc1nzXkz4DgBQ",
+   "revision": 26,
+   "signature": "sRYI_kVVNpvNUfB1ojfDl-MnP1Qv1KryrhZnWf797kWTYRQ-gH0iqwu8Ug3TFyWbdDHAuRLLqZGMkcRsAmy0DQ",
    "subject_key": "live:grateful-dead:1988-07-17:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:42:06.523150"
+   "updated_at": "2026-10-25T17:35:23.697263"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Althea** (3 reviews): Reviewer finds this Althea very sweet; Described as a monster Althea [15][17][26]\n- **Foolish Heart** (2 reviews): Reviewer calls it an awesome choice to open the show; Reviewer says Jerry's voice needs a couple of minutes to reach proper show-level ripeness in this heavy opener [15][26]\n- **Greatest Story Ever Told** (1 review): Reviewer finds it too mellow and slow [26]\n- **Candyman** (1 review): Reviewer says Jerry's Candyman vocals were never better than here [17]\n- **Let It Grow** (1 review): Reviewer calls this Let It Grow monstrous [19]\n- **Uncle John's Band** (1 review): Named as a standout of the non-stop second set, with Goin' Down the Road and Not Fade Away [15]\n- **All Along The Watchtower** (1 review): Reviewer describes this Watchtower as fast and upbeat [24]\n- **Believe It Or Not** (1 review): Reviewer hears Jerry pleading rather than singing, with playing right on; track labels are mixed up [24]\n\n## The recordings\n\n- **gd1988-07-17.143173.pre-fm.bm.miller.flac1644** (recommended): pre-FM broadcast master; 23 songs; 268 min [1]\n- **gd88-07-17.sbd.jeffm.1808.sbeok.shnf**: soundboard; 22 songs; 154 min; rated 4.45/5 by 11 [3]. Said about its sound: Known flaws: dropouts at 4:34 and 5:06 on disc 2 track 5 [3]\n- **gd1988-07-17.143211.sbd.bm.miller.flac1644**: soundboard; 22 songs; 154 min [5]\n- **gd88-07-17.schoeps.gardner.9245.sbeok.shnf**: source not stated; 22 songs; 166 min; rated 4.7/5 by 10 [6]. Said about its sound: Audience recording sounds so good the reviewer says no soundboard would be needed [25]\n- **gd88-07-17.sbd-matrix.braverman.10081.sbeok.shnf**: matrix (soundboard mixed with audience mics); 21 songs; 150 min; rated 4.63/5 by 19 [9]. Said about its sound: Reviewer calls the matrix a top-shelf recording with premium sound; Big, full, thunderous sound with prominent Phil bass (Modulus) and a great instrument and vocal mix [16][17]\n\n## Around the show\n\n- Reviewer attended with a friend who taped; it was their only Greek show, after a trip from the east coast [19]\n- Hottest July day in both cities: 105F in San Francisco and 97F in Berkeley [20]\n- There is stage banter between Big River and Candyman, and file names are mislabeled [25]\n- Reviewer rates this the hottest show of that summer, with other FM recordings circulating from the same run [19]\n\n## Tapers and lineage\n\n- **gd1988-07-17.143173.pre-fm.bm.miller.flac1644**: taped by David Gans; transferred by Charlie Miller; source: Pre-FM (KPFA Air-Check) > Beta HiFi Master (Sony ES-HG) [1]. Also: Recorded by David Gans at KPFA; this FLAC file set is 16 bit, 44.1 kHz [1]\n- **gd88-07-17.sbd.jeffm.1808.sbeok.shnf**: source: SBD> DAT Master> CDR> EAC> WAV> SHN [3]\n- **gd1988-07-17.143211.sbd.bm.miller.flac1644**: taped by David Gans; transferred by Charlie Miller; source: In-House FM (SBD) > Beta HiFi Master (Sony ES-HG) [5]. Also: Pure soundboard feed without ambient mics, recorded by David Gans at KPFA; 16 bit, 44.1 kHz [5]\n- **gd88-07-17.schoeps.gardner.9245.sbeok.shnf**: taped by Sean Weber-small; transferred by PCM Master-> Sony PCM 601ES -> RME Hammerfall > Soundforge 4.5/CD Architect > CDR by Sean Weber-small; EAC (Plex 8x, see log in individual folders) > Shn via MKW .97 by Bill Gardner; source: 2nd Row Behind Healy (see notes). Schoeps CMC42S (Spaced Omni 10' Split --> Oade Power Supply --> Sony PCM-F1 with Apogee modified A/D filters. [6]\n- **gd88-07-17.sbd-matrix.braverman.10081.sbeok.shnf**: source: Ultramatrix (SBD/AUD mix)> DAT> ?> CD (\"?\" may not be a generation, or it may be. I dunno.) [9]\n\n## Art and photos\n\n- Fan art by Jerry Garcia: [1988-07-17 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1988-07-17-grateful-dead-backstage-pass/) [28]\n- Poster by Jerry Garcia: [1988-07-17 Grateful Dead Ticket - Jerry Garcia](https://jerrygarcia.com/image/1988-07-17-grateful-dead-ticket/) [29]",

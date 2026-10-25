@@ -670,7 +670,7 @@
      "id": 34,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -766,8 +766,8 @@
     },
     "previous": {
      "date": "1984-10-18",
-     "show": "live:grateful-dead:1984-10-18:brendon-byrne-arena",
-     "venue": "Brendon Byrne Arena"
+     "show": "live:grateful-dead:1984-10-18:meadowlands-arena",
+     "venue": "Meadowlands Arena"
     },
     "recommended": {
      "identifier": "gd1984-10-20.aud.morris.108407.flac24",
@@ -1410,116 +1410,300 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1984-10-05",
+        "show": "live:grateful-dead:1984-10-05:charlotte-coliseum"
+       },
+       "plays_before": 297,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-10-14",
+        "show": "live:grateful-dead:1984-10-14:hartford-civic-center"
+       },
+       "plays_before": 194,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 41,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 87,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-10-11",
+        "show": "live:grateful-dead:1984-10-11:augusta-civic-center"
+       },
+       "plays_before": 199,
+       "total_plays": 326
+      },
       "title": "Ramble on Rose"
      },
      {
       "key": "song:grateful-dead:got-to-move-back-or",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "got to move back or"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 58,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 167,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 353,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-10-11",
+        "show": "live:grateful-dead:1984-10-11:augusta-civic-center"
+       },
+       "plays_before": 100,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-10-14",
+        "show": "live:grateful-dead:1984-10-14:hartford-civic-center"
+       },
+       "plays_before": 248,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-09",
+        "show": "live:grateful-dead:1984-10-09:the-centrum"
+       },
+       "plays_before": 193,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-09",
+        "show": "live:grateful-dead:1984-10-09:the-centrum"
+       },
+       "plays_before": 19,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightnin'"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-10-18",
+        "show": "live:grateful-dead:1984-10-18:meadowlands-arena"
+       },
+       "plays_before": 364,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-10-18",
+        "show": "live:grateful-dead:1984-10-18:meadowlands-arena"
+       },
+       "plays_before": 835,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-10-18",
+        "show": "live:grateful-dead:1984-10-18:meadowlands-arena"
+       },
+       "plays_before": 499,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 103,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 401,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-10-11",
+        "show": "live:grateful-dead:1984-10-11:augusta-civic-center"
+       },
+       "plays_before": 236,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-10-14",
+        "show": "live:grateful-dead:1984-10-14:hartford-civic-center"
+       },
+       "plays_before": 41,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "key": "song:grateful-dead:revolution",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-10-09",
+        "show": "live:grateful-dead:1984-10-09:the-centrum"
+       },
+       "plays_before": 6,
+       "total_plays": 12
+      },
       "title": "Revolution"
      }
     ],
@@ -1527,208 +1711,361 @@
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t01-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t01 Bertha"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t02-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t02 Greatest Story Ever Told"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t03-west-la-fadeaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t03 West LA Fadeaway"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t04-cc-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t04 CC Rider"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t05-take-a-step-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t05 Take A Step Back"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t06-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t06 Ramble On Rose"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t07-you-gotta-move-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t07 You Gotta Move Back"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t08-my-brother-esau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t08 My Brother Esau"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t09-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t09 Bird Song"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s1-t10-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s1 t10 Jack Straw"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t01-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t01 Shakedown Street"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t02-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t02 Samson & Delilah"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t03-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t03 He's Gone"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t04-smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t04 Smokestack Lightning"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t05 Drums"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t06 Space"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t07-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t07 The Wheel"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t08-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t08 The Other One"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t09-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t09 Black Peter"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t10-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t10 Turn On Your Lovelight"
      },
      {
       "from": "gd1984-10-20.140928.fob.senn441.ackerman.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd84-10-20-s2-t11-revolution",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-10-20 s2 t11 Revolution"
      },
      {
       "from": "gd1984-10-20.nak300.carpenter.108304.flac2496",
       "key": "song:grateful-dead:move-back",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2541,
+       "gap_shows": 546,
+       "last_played": {
+        "date": "1977-11-05",
+        "show": "live:grateful-dead:1977-11-05:community-war-memorial-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "move back!"
      },
      {
       "from": "gd1984-10-20.nak300.carpenter.108304.flac2496",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 44,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1984-10-20.110063.beyer-senn-daweez.D5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-10-18",
+        "show": "live:grateful-dead:1984-10-18:meadowlands-arena"
+       },
+       "plays_before": 44,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1984-10-20.110063.beyer-senn-daweez.D5scott.flac16",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-10-14",
+        "show": "live:grateful-dead:1984-10-14:hartford-civic-center"
+       },
+       "plays_before": 31,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      },
      {
       "from": "gd1984-10-20.110063.beyer-senn-daweez.D5scott.flac16",
       "key": "song:grateful-dead:take-another-step-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "take another step back!"
      },
      {
       "from": "gd1984-10-20.110063.beyer-senn-daweez.D5scott.flac16",
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-10-14",
+        "show": "live:grateful-dead:1984-10-14:hartford-civic-center"
+       },
+       "plays_before": 165,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "from": "gd1984-10-20.Nak100CP4.Hill.Keo.131798.Flac1644",
       "key": "song:grateful-dead:jack-straw-set-break-announcements",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jack Straw, Set Break, Announcements"
      },
      {
       "from": "gd1984-10-20.Nak100CP4.Hill.Keo.131798.Flac1644",
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 33,
+       "total_plays": 67
+      },
       "title": "(Very Start Cuts In)"
      },
      {
       "from": "gd1984-10-20.168183.beyer.m160.vita.miller.clugston.flac2496",
       "key": "song:grateful-dead:you-gotta-move-back-and-stay-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "You Gotta Move Back.....and Stay Back"
      }
     ],
     "subject_key": "live:grateful-dead:1984-10-20:carrier-dome-syracuse-u",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1178,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "got to move back or"
+     ],
+     "show_number": 1281,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Carrier Dome, Syracuse U"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.493553+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.078114+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "PouBwELLfKuh_uQdVNeUzkKAspR6Gp2LJPem4NYX4wahF3FkmmOaS0WY2YLbqERRDhqQFO897Ct7u-hGDbtKBg",
+   "revision": 33,
+   "signature": "rBibZL2YVkTA83kwntEYVWgWdQb0IKH1j8zBnpH-m41HfUQxTPGb_K1VPt2-Y3LBANAtxg_9dQMUXEakrmPNAg",
    "subject_key": "live:grateful-dead:1984-10-20:carrier-dome-syracuse-u",
-   "updated_at": "2026-10-25T16:41:59.495704"
+   "updated_at": "2026-10-25T17:35:20.079536"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (2 reviews): Attendee calls this specific performance the best Jack Straw they have ever seen or heard; Listener describes this as one of the longest and most badass versions of the song [23][27]\n- **Shakedown Street** (1 review): Second set opener featured Jerry ripping huge wah solos, described as very funky and classic [29]\n\n## The recordings\n\n- **gd1984-10-20.aud.morris.108407.flac24** (recommended): audience recording; 21 songs; 156 min [1]\n- **gd1984-10-20.nak300.carpenter.wise.andrewf.33341.sbeok.flac16**: source not stated; 21 songs; 152 min; rated 4.25/5 by 4 [5]. Said about its sound: Recording is described as really hot and seriously in your face, with brief left channel muffling [5]\n- **gd1984-10-20.154034.mtx.photoleon.flac1644**: matrix (soundboard mixed with audience mics); 19 songs; 158 min; rated 1/5 by 1 [11]\n- **gd1984-10-20.150967.sbd.eaton-latvala.miller.flac1644**: soundboard; 19 songs; 163 min [12]\n- **gd84-10-20.sbd.mattman.15673.sbeok.shnf**: soundboard; 20 songs; 152 min; rated 4.05/5 by 42 [15]. Said about its sound: Review emphasizes hearing the full song composite, including drums and piano, not just licks; Review notes Healy manipulated Garcia's voice with delay, and reverb was clear from the balcony [22][26]\n\n## Around the show\n\n- Weir told the crowd to step back with weary resignation, leading to an angry performance [24]\n- SU student noted front crowd refused to move back, initially making the show a buzzkill [25]\n- Bobby sounded tired and aggravated pleading with the crowd, while Jerry appeared deeply out of it [28]\n- Reviewer flew from Florida to Syracuse specifically to see this show after hearing about new material [30]\n\n## Tapers and lineage\n\n- **gd1984-10-20.aud.morris.108407.flac24**: taped by Bob Morris; source: Nakamichi CM-300 (CP-1) x2 > Cassette Master (Sony TCD5M/Maxell XLII-S C-90) Cassette Master (Nakamichi DR-1) > Korg MR-1000 (1-bit/5.6MHz) > Audiogate… [1]\n- **gd1984-10-20.nak300.carpenter.wise.andrewf.33341.sbeok.flac16**: taped by Ted Carpenter; transferred by Jim Wise and Andrew F.; source: FOB, Nakamichi CM-300's with CP-4 shotgun capsules > Sony TC-D5M > MAC (UD-XLII, no Dolby) [5]\n- **gd1984-10-20.154034.mtx.photoleon.flac1644**: source: Matrix created in Adobe Audition by Joe Noel June 2021 [11]. Also: Source lineage includes a master cassette shared by Anon and an SBD recording by Rob Eaton [11]\n- **gd1984-10-20.150967.sbd.eaton-latvala.miller.flac1644**: transferred by Original Transfer and Mastering by Rob Eaton Additional Mastering by Charlie Miller  November 28, 2020; source: SBD > PCM Master > DAT (Panasonic SV-3700) > DAT (Panasonic SV-3800) [12]. Also: Source is an SBD recording provided by Rob Eaton and Dick Latvala, with small patches [12]\n- **gd84-10-20.sbd.mattman.15673.sbeok.shnf**: source: SBD> CM> DAT> computer processing> CDR> EAC> SHNTOOL> MKWACT [15]\n\n## Art and photos\n\n- Poster by Steve Schneider Grateful Dead: [1984-10-20 Carrier Dome, Syracuse U., Syracuse, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-10-20-carrier-dome-syracuse-u-syracuse-ny-usa/) [35]\n- Fan art by Tim O'Shea: [Grateful Dead Take One Last Step Back in the Carrier Dome: 10/20/84](https://nysmusic.com/2024/10/19/grateful-dead-take-one-last-step-back-in-the-carrier-dome-10-20-84/) [36]\n- Poster by Steve Schneider Grateful Dead: [1984-10-20 Carrier Dome, Syracuse U., Syracuse, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-10-20-carrier-dome-syracuse-u-syracuse-ny-usa/) [37]\n- Poster by Pete Mason: [Revisit the Grateful Dead at the Carrier Dome – October 20, 1984](https://nysmusic.com/2020/05/24/revisit-the-grateful-dead-at-the-carrier-dome-in-october-1984/) [38]\n- Fan art by Tim O'Shea: [Grateful Dead Take One Last Step Back in the Carrier Dome: 10/20/84](https://nysmusic.com/2024/10/19/grateful-dead-take-one-last-step-back-in-the-carrier-dome-10-20-84/) [39]",

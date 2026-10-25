@@ -253,7 +253,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -299,8 +299,8 @@
     "guests": [],
     "next": {
      "date": "1973-05-13",
-     "show": "live:grateful-dead:1973-05-13:iowa-state-fairgrounds",
-     "venue": "Iowa State Fairgrounds"
+     "show": "live:grateful-dead:1973-05-13:des-moines-state-fairgrounds",
+     "venue": "Des Moines State Fairgrounds"
     },
     "previous": {
      "date": "1973-03-31",
@@ -467,172 +467,473 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 79,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 87,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 101,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 64,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 154,
+       "total_plays": 334
+      },
       "title": "Beat It on Down the Line"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 16,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:bobbys-spider-rap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby's Spider Rap"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 27,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:wave-that-flag",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 13,
+       "total_plays": 15
+      },
       "title": "Wave That Flag"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 37,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 44,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 210,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 213,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:you-aint-woman-enough",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 8,
+       "total_plays": 15
+      },
       "title": "You Ain't Woman Enough"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 109,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 42,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 166,
+       "total_plays": 634
+      },
       "title": "Playing in the Band"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-03-26",
+        "show": "live:grateful-dead:1973-03-26:baltimore-civic-center"
+       },
+       "plays_before": 69,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 248,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 30,
+       "total_plays": 215
+      },
       "title": "Mississippi Halfstep"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 70,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 7,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 127,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 26,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 30,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 9,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-03-26",
+        "show": "live:grateful-dead:1973-03-26:baltimore-civic-center"
+       },
+       "plays_before": 96,
+       "total_plays": 125
+      },
       "title": "Me and Bobby McGee"
      },
      {
       "key": "song:grateful-dead:weather-report-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-03-26",
+        "show": "live:grateful-dead:1973-03-26:baltimore-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Weather Report prelude"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-03-30",
+        "show": "live:grateful-dead:1973-03-30:rochester-community-war-memorial"
+       },
+       "plays_before": 15,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:china-doll",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1973-03-22",
+        "show": "live:grateful-dead:1973-03-22:utica-memorial-auditorium"
+       },
+       "plays_before": 7,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 175,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 246,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 68,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1973-02-28",
+        "show": "live:grateful-dead:1973-02-28:salt-palace"
+       },
+       "plays_before": 39,
+       "total_plays": 57
+      },
       "title": "We Bid You Good Night"
      }
     ],
@@ -640,76 +941,140 @@
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 23,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Around"
      },
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 109,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-03-24",
+        "show": "live:grateful-dead:1973-03-24:the-spectrum"
+       },
+       "plays_before": 11,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 14,
+       "total_plays": 18
+      },
       "title": "Bobby McGee"
      },
      {
       "from": "gd1973-04-02.sbd.yerys.00170.sbeok.shnf",
       "key": "song:grateful-dead:wrs-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1973-03-21",
+        "show": "live:grateful-dead:1973-03-21:utica-memorial-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 22
+      },
       "title": "WRS Prelude"
      },
      {
       "from": "gd1973-04-02.sbd.kfpa.16176.sbeok.shnf",
       "key": "song:grateful-dead:you-aint-woman-enough-to-take-my-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "You Ain't Woman Enough To Take My Man"
      },
      {
       "from": "gd1973-04-02.sbd.kfpa.16176.sbeok.shnf",
       "key": "song:grateful-dead:weather-report-suite-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-03-28",
+        "show": "live:grateful-dead:1973-03-28:springfield-civic-center"
+       },
+       "plays_before": 5,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      }
     ],
     "subject_key": "live:grateful-dead:1973-04-02:boston-garden",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 427,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bobby's Spider Rap"
+     ],
+     "show_number": 506,
+     "shows_in_archive": 2097,
      "songs": 34,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.159031+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.436584+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "zLrd7qxbCA_vJY_beVzx1-S5gBM5onN5h6FOTMRNEnjtzOFAmxgJaMf0fnSgCkrEBI73ueqm9_KcI9nsIBUdBw",
+   "revision": 42,
+   "signature": "l-b1mPEtMlmYlGTOeI-4vyDvY9QbFTxGW3MOCRId5mmlI4URNN6b0vP7Kh1ksTYEyzATQ9ZkIdbtrU2KCSAZAw",
    "subject_key": "live:grateful-dead:1973-04-02:boston-garden",
-   "updated_at": "2026-10-25T16:41:46.160914"
+   "updated_at": "2026-10-25T17:35:13.438226"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Here Comes Sunshine** (4 reviews): The jam following this song is unique and noteworthy; The rare Space jam from this song makes the show stand out [6][9][11][13]\n- **Eyes of the World** (2 reviews): The performance is lovely, though not the most impressive of the spring tour; The final five or six minutes of the song are intense [8][11]\n- **Brown-Eyed Women** (1 review): The performance shines with a distinct sweetness during this specific track [6]\n- **Wave That Flag** (1 review): This track is described as lots of fun [13]\n- **Jack Straw** (1 review): This rendition is described as incredible by the listener [6]\n- **Greatest Story Ever Told** (1 review): Donna's singing is considered in key and absolutely smoking [16]\n- **We Bid You Good Night** (1 review): The closing song is great, featuring off-key singing as a perfect ending [8]\n- The listener suggests sinking into this song for seventeen minutes [17]\n\n## The recordings\n\n- **gd73-04-02.sbd.miller.17346.sbeok.shnf** (recommended): soundboard; 34 songs; 216 min; rated 4.47/5 by 30 [1]. Said about its sound: The show is nice in sound quality, song selection, and execution; Sound problems are quickly worked out, resulting in a crisp, perfectly mixed SBD; The recording still sounds fresh, like it was just recorded today [12][16][17]\n- **gd73-04-02.sbd.ashley-bertha.22246.sbeok.shnf**: soundboard; 35 songs; 216 min; rated 4.33/5 by 6 [2]. Said about its sound: This recording has better sound quality than the other available option for the date; The band is in sync and the Wall sounds good tonight; Instruments and vocals are clearer on the original source than this remaster [8][9][10]\n- **gd1973-04-02.sbd.hamilton.00169.sbeok.shnf**: soundboard; 35 songs; 208 min; rated 3.25/5 by 4 [5]. Said about its sound: Sound quality changes between Ramble On Rose and Me and My Uncle; The latter part of the show is of higher generation with more bass; Mix problems exist in Promised Land, with distortion in Deal [5]\n- **gd1973-04-02.sbd.yerys.00170.sbeok.shnf**: soundboard; 35 songs; 208 min; rated 4.17/5 by 6 [3]\n\n## Around the show\n\n- Donna's singing is criticized as off-key, particularly in Greatest Story Ever Told [12]\n\n## Tapers and lineage\n\n- **gd73-04-02.sbd.miller.17346.sbeok.shnf**: source: Soundboard [1]\n- **gd73-04-02.sbd.ashley-bertha.22246.sbeok.shnf**: source: Soundboard [2]\n- **gd1973-04-02.sbd.hamilton.00169.sbeok.shnf**: source: MSR > Cassette > DAT [5]\n- **gd1973-04-02.sbd.yerys.00170.sbeok.shnf**: source: mSR > cassette > DAT > CDR [3]\n\n## Art and photos\n\n- Poster by thecurtainwithblog.blogspot.com: [Grateful Dead - Dave's Picks Vol 21: 1973-04-02 Boston Garden, Boston, MA (2017)](https://thecurtainwithblog.blogspot.com/2017/01/grateful-dead-daves-picks-vol-21-1973.html) [19]\n- Poster by Shakin' Street: [The Grateful Dead – Shake’s Picks 4: Boston Garden, Boston, 4/2/1973](https://shakinstreetblog.wordpress.com/2015/04/29/the-grateful-dead-shakes-picks-4-boston-garden-boston-421973/) [20]",

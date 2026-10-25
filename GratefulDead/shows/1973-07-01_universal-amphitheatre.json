@@ -347,7 +347,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -369,7 +369,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://www.cs.cmu.edu/",
      "id": 23,
@@ -679,117 +679,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 254,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 104,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 70,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 36,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1973-05-13",
+        "show": "live:grateful-dead:1973-05-13:des-moines-state-fairgrounds"
+       },
+       "plays_before": 44,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 53,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 218,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 221,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-06-24",
+        "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum"
+       },
+       "plays_before": 35,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:have-a-safe-and-sane-4th-folks",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Have a safe and sane 4th, folks"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 176,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 26,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-30",
+        "show": "live:grateful-dead:1973-06-30:universal-amphitheatre"
+       },
+       "plays_before": 138,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 9,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 176,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 234,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 215,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-06-22",
+        "show": "live:grateful-dead:1973-06-22:p-n-e-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 98,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 252,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -797,52 +990,85 @@
      {
       "from": "gd73-07-01.aud.lai.178.sbefail.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 15,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1973-07-01.fob.kaslow-todd.motb-0055.88528.flac16",
       "key": "song:grateful-dead:other-one-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "The Other One Tease"
      },
      {
       "from": "gd1973-07-01.fob.kaslow-todd.motb-0055.88528.flac16",
       "key": "song:grateful-dead:space-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 416,
+       "gap_shows": 93,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "from": "gd1973-07-01.set1.sbd.unknown.30362.sbeok.flac16",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-29",
+        "show": "live:grateful-dead:1973-06-29:universal-amphitheatre"
+       },
+       "plays_before": 35,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      }
     ],
     "subject_key": "live:grateful-dead:1973-07-01:universal-amphitheatre",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 437,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Have a safe and sane 4th, folks"
+     ],
+     "show_number": 517,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Universal Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.528486+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.560913+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "b-e6qDH4L5YLDXiceXdOq05AD987kbv2WetUQB8lP_Ip4a98ADxO-L9ChWwgIhIWx3Cd2d5chTFSw552GJehAg",
+   "revision": 44,
+   "signature": "x-9_JCKvTsQ-bGt9O2lK2WfPHTFPLy565A9gnCTae5OoNRMBICr6HeLbCJZsO08pxfIh5Yu1JnfBRNEdokdTAg",
    "subject_key": "live:grateful-dead:1973-07-01:universal-amphitheatre",
-   "updated_at": "2026-10-25T16:41:46.530140"
+   "updated_at": "2026-10-25T17:35:13.562349"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Other One** (1 review, 1 other source): The space jam in this song is characterized as deep and weird; Only the first verse was performed, preceded by an extended instrumental prologue [3][14]\n- **Playing In The Band** (1 review): Reviewer highlights an exceptional performance of this song in the set [12]\n- **Row Jimmy** (1 other source): Recording is cut at 1:15, missing most of the second verse [3]\n- **Loose Lucy** (1 review): Reviewer specifically loves the performance of this song on the tape [17]\n\n## The recordings\n\n- **gd1973-07-01.127232.mtx.seamons.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 174 min; rated 4.6/5 by 5 [1]\n- **gd73-07-01.aud.lai.178.sbefail.shnf**: audience recording; 22 songs; 164 min; rated 4.83/5 by 23 [2]. Said about its sound: Vocals sound slightly muffled, while instruments resemble a modern Neumann onstage mix; Vocals are low but audible; bass needs tweaking to hear Lesh clearly; Garcia's guitar comes across loud and crisp in the recording [9][11][13][20]\n- **gd1973-07-01.fob.kaslow-todd.motb-0055.88528.flac16**: source not stated; 23 songs; 162 min; rated 4.64/5 by 11 [3]\n- **gd1973-07-01.fob.kaslow-todd.motb-0055.88608.flac24**: source not stated; 23 songs; 162 min; rated 3.5/5 by 8 [4]\n\n## Around the show\n\n- Reviewer attended this concert as their first Grateful Dead show, having dosed beforehand [15]\n- The Universal Amphitheatre did not yet have a roof at the time [22]\n- Reviewer preferred this audience recording over the downloaded soundboard recording [18]\n\n## Tapers and lineage\n\n- **gd1973-07-01.127232.mtx.seamons.flac16**: transferred by Hunter Seamons; source: Matrix of SBD (shnid=127028): SBD -> Master Reel -> Sound Devices 744T (24bit/96k) and AUD (shnid=88528): Sony ECM-22P > Sony TC-770 > MAR > ?? [Dolby Encode]… [1]. Also: Original recording used Sony ECM-22P mics and Sony TC-770 recorder [1]\n- **gd73-07-01.aud.lai.178.sbefail.shnf**: source: Audience Recording [2]. Also: Audience recording captured with Sony ECM-22P mics and Sony TC-770 recorder; Tape lineage includes Maxell UD 35-90 reel, DAT, and CDR [2]\n- **gd1973-07-01.fob.kaslow-todd.motb-0055.88528.flac16**: taped by Harv Kaslow and Craig Todd; transferred by Rob Bertrando and A. Egert; source: Sony ECM-22P > Sony TC-770 > MAR > ?? [Dolby Encode] > R1 [3]\n- **gd1973-07-01.fob.kaslow-todd.motb-0055.88608.flac24**: taped by Harv Kaslow and Craig Todd; transferred by Rob Bertrando, Barry Glassberg, A. Egert, J. Waddell; source: Sony ECM-22P > Sony TC-770 > MAR > ?? [Dolby Encode] > R1 [4]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Universal Amphitheatre - Promo](https://www.dead.net/archives/1973/clippings/universal-amphitheatre-promo) [24]\n- Fan art by Grateful Dead: [Grateful Dead Universal Amphitheatre - July 1, 1973](https://www.dead.net/show/july-1-1973) [25]",

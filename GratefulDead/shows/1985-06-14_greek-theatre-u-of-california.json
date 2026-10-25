@@ -852,7 +852,7 @@
      "id": 41,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1756,120 +1756,299 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sgt-peppers-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sgt. Pepper's / Crowd"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 119,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 48,
+       "total_plays": 150
+      },
       "title": "West LA Fadeaway"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 96,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 180,
+       "total_plays": 272
+      },
       "title": "Peggy O"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 62,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:keep-on-growing",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Keep On Growing"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 416,
+       "gap_shows": 77,
+       "last_played": {
+        "date": "1984-04-24",
+        "show": "live:grateful-dead:1984-04-24:veterans-memorial-coliseum"
+       },
+       "plays_before": 54,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 171,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-04-13",
+        "show": "live:grateful-dead:1985-04-13:irvine-meadows"
+       },
+       "plays_before": 336,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 536,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 166,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 419,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 78,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 873,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 536,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 383,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-04-07",
+        "show": "live:grateful-dead:1985-04-07:the-spectrum"
+       },
+       "plays_before": 26,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-21",
+        "show": "live:grateful-dead:1985-04-21:marin-veterans-memorial-auditorium"
+       },
+       "plays_before": 45,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-28",
+        "show": "live:grateful-dead:1985-04-28:frost-amphitheatre"
+       },
+       "plays_before": 444,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:keep-your-day-job",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 43,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -1877,100 +2056,172 @@
      {
       "from": "gd1985-06-14.matrix.chappell.85831.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 378,
+       "total_plays": 628
+      },
       "title": "Jam (Brent w/drummers)"
      },
      {
       "from": "gd85-06-14.oade-schoeps.sacks.24451.sbeok.flacf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-27",
+        "show": "live:grateful-dead:1985-04-27:frost-amphitheatre"
+       },
+       "plays_before": 41,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1985-06-14.152788.OTSNAK300-SGMasterCassetteAnonNoelt-flac1648",
       "key": "song:grateful-dead:stg-peppers-intro-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stg Pepper's intro - tuning"
      },
      {
       "from": "gd85-06-14.sbd.carman.13747.sbeok.shnf",
       "key": "song:grateful-dead:sound-montage",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sound Montage"
      },
      {
       "from": "gd85-06-14.sbd.carman.13747.sbeok.shnf",
       "key": "song:grateful-dead:jam-brent-and-drums-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jam Brent and Drums Jam"
      },
      {
       "from": "gd1985-06-14.nak300.andrewf.130923.flac2448",
       "key": "song:grateful-dead:echo-echo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "echo echo"
      },
      {
       "from": "gd1985-06-14.nak300.andrewf.130923.flac2448",
       "key": "song:grateful-dead:barbed-wire-85",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "barbed wire '85"
      },
      {
       "from": "gd1985-06-14.174160.neumann.km84i.bradt.miller.clugston.flac2496",
       "key": "song:grateful-dead:sgt-peppers-lonely-hearts-club-band-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "SGT. Pepper's Lonely Hearts Club Band/Crowd/Tuning"
      },
      {
       "from": "gd1985-06-14.167248.neumann.km84i.hecht.miller.clugston.flac2496",
       "key": "song:grateful-dead:sgt-peppers-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sgt. Pepper's / Crowd / Tuning"
      },
      {
       "from": "gd1985-06-14.111797.BeyerM160.daweez.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 114,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1985-02-20",
+        "show": "live:grateful-dead:1985-02-20:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 46,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1985-06-14.135615.sbd-new.miller.flac16",
       "key": "song:grateful-dead:space-423-628",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space -> 423-628"
      },
      {
       "from": "gd1985-06-14.141238.s1.unknown.Bryant.Miller.Noel.t-flac1644",
       "key": "song:grateful-dead:technical-difficulties",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1039,
+       "gap_shows": 190,
+       "last_played": {
+        "date": "1982-08-10",
+        "show": "live:grateful-dead:1982-08-10:university-of-iowa"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "technical difficulties"
      }
     ],
     "subject_key": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1216,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Sgt. Pepper's / Crowd",
+      "Keep On Growing"
+     ],
+     "show_number": 1319,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 25,
+   "parent_revision": 37,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.224580+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.549186+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 26,
-   "signature": "voJJSPqoZaDaEnf4qGnfs3dZ47g4BGtrYEn8eMBkw655Arw-I51kw6Fyk6Kd96Whdl5-ad_EkM9BI04g6IM-Dg",
+   "revision": 38,
+   "signature": "6_UZxpwj2NluwtBxe1Y6PHswTyupgXQ7bqgMHNXRbMIy0c_jgsbl7wnnaXHlBxYGD5FX_coChtUHLVr76oYlAA",
    "subject_key": "live:grateful-dead:1985-06-14:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:42:00.227513"
+   "updated_at": "2026-10-25T17:35:20.550751"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Doll** (4 reviews): Listener calls this the best China Doll ever, alongside the post-jam, bringing a smile every time; China Doll is excellent, and Jerry sings some lines in melodic ways never heard elsewhere [30][32][37][38]\n- **Morning Dew** (3 reviews): Morning Dew is a real nice second set opener, and Mickey's Bobby sample is a riot; Morning Dew is among the all-time best, with a ripping solo and powerful, slow build [31][32][37]\n- **Keep On Growing** (2 reviews): Performance stumbles on this track but excels on the Morning Dew to Playin' In The Band transition; The guitar solo in Keep On Growing captivates the listener, making them imagine being Jerry [29][33]\n\n## The recordings\n\n- **gd1985-06-14.148769.nak700.severson.miller.clugston.flac2496** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 176 min [1]\n- **gd1985-06-14.152788.OTSNAK300-SGMasterCassetteAnonNoelt-flac1648**: source not stated; 21 songs; 153 min; rated 5/5 by 1 [4]\n- **gd85-06-14.sbd.carman.13747.sbeok.shnf**: soundboard; 21 songs; 148 min; rated 4.42/5 by 24 [6]. Said about its sound: Recording has good levels and little hiss, though some digital noise appears in the right channel [29]\n- **gd1985-06-14.148768.nak700.severson.miller.clugston.flac1648**: matrix (soundboard mixed with audience mics); 22 songs; 176 min [2]\n\n## Around the show\n\n- The audience of less than 20,000 experienced the show overlooking Berkeley, the bay, and the bridge [35]\n- Equipment problems during the first set caused a short break before the band returned to scorch [36]\n- An equipment break occurred after Hell In A Bucket, interrupting the first set [1]\n- Technical issues in the first set forced a mid-set break before the band returned to play [3]\n- China Doll ends with a percussion jam led by Brent, following an equipment breakdown earlier [4]\n- Stagger Lee and Comes A Time enjoy three and five year resurrections, respectively, on this date [3]\n\n## Tapers and lineage\n\n- **gd1985-06-14.148769.nak700.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Nakamichi 700 mics (135 degrees, x/y pattern, mounted on pole 7' high)(12 rows up from walkway, behind soundboard) >… [1]. Also: The Schoeps CMC4 MK41 source supplies a seven-second patch in the Drums section [1]\n- **gd1985-06-14.152788.OTSNAK300-SGMasterCassetteAnonNoelt-flac1648**: taped by Recorded, Transferred & Mastered by Anon; transferred by Edited & add'l Mastering in Adobe Audition by Joe Noel January 26, 2021; source: Source: Nakamichi 300 shotguns > Sony TC-D5M > Master Cassette (Maxell MX90s, Dolby B On) Location: Taper section; stand 6 to 7 feet high. [4]. Also: Anon shared masters and handled the transfer, with the source being pitch corrected and cross-faded [4]\n- **gd85-06-14.sbd.carman.13747.sbeok.shnf**: source: SBD > DAT > CDR/? [6]. Also: Randy Carman converted the source from CDR to SHN using EAC, CDWave, CoolEditPro, and mkwACT [6]\n- **gd1985-06-14.148768.nak700.severson.miller.clugston.flac1648**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Nakamichi 700 mics (135 degrees, x/y pattern, mounted on pole 7' high)(12 rows up from walkway, behind soundboard) >… [2]\n\n## Art and photos\n\n- Poster by www.gdao.org: [Grateful Dead - 20th Anniversary, Greek Theatre, Berkeley, June 14, 15, 16, 1985 · Grateful Dead Archive Online · Gratef](https://www.gdao.org/items/show/377762) [42]\n- Fan art by Greek Theatre: [Grateful Dead Vintage Concert Photo Fine Art Print from Greek Theatre, Jun 14, 1985 at Wolfgang's](https://www.wolfgangs.com/concert-and-band-photos/grateful-dead/fine-art-print/GRK850614-02.html) [43]",

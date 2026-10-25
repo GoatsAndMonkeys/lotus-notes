@@ -251,7 +251,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -266,9 +266,9 @@
     "date": "1969-07-03",
     "guests": [],
     "next": {
-     "date": "1969-07-07",
-     "show": "live:grateful-dead:1969-07-07:piedmont-park",
-     "venue": "Piedmont Park"
+     "date": "1969-07-04",
+     "show": "live:grateful-dead:1969-07-04:electric-theater",
+     "venue": "Electric Theater"
     },
     "previous": {
      "date": "1969-06-28",
@@ -376,52 +376,142 @@
      {
       "key": "song:grateful-dead:green-green-grass-of-home",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-27",
+        "show": "live:grateful-dead:1969-06-27:veterans-auditorium"
+       },
+       "plays_before": 5,
+       "total_plays": 8
+      },
       "title": "Green Green Grass Of Home"
      },
      {
       "key": "song:grateful-dead:ol-slewfoot",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-06-21",
+        "show": "live:grateful-dead:1969-06-21:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Ol' Slewfoot"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-28",
+        "show": "live:grateful-dead:1969-06-28:veterans-auditorium"
+       },
+       "plays_before": 22,
+       "total_plays": 42
+      },
       "title": "Sittin' On Top Of The World"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-06-21",
+        "show": "live:grateful-dead:1969-06-21:fillmore-east"
+       },
+       "plays_before": 45,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-28",
+        "show": "live:grateful-dead:1969-06-28:veterans-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-28",
+        "show": "live:grateful-dead:1969-06-28:veterans-auditorium"
+       },
+       "plays_before": 24,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-27",
+        "show": "live:grateful-dead:1969-06-27:veterans-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-06-22",
+        "show": "live:grateful-dead:1969-06-22:central-park"
+       },
+       "plays_before": 17,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:he-was-a-friend-of-mine",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-06-14",
+        "show": "live:grateful-dead:1969-06-14:monterey-performing-arts-center"
+       },
+       "plays_before": 14,
+       "total_plays": 19
+      },
       "title": "He Was A Friend Of Mine"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-28",
+        "show": "live:grateful-dead:1969-06-28:veterans-auditorium"
+       },
+       "plays_before": 74,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -429,7 +519,16 @@
      {
       "from": "gd1969-07-03.sbd.miller.92771.sbeok.flac16",
       "key": "song:grateful-dead:slewfoot",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-28",
+        "show": "live:grateful-dead:1969-06-28:veterans-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 9
+      },
       "title": "Slewfoot"
      }
     ],
@@ -437,26 +536,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 139,
-     "shows_in_archive": 1855,
+     "show_number": 165,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Reed's Ranch"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.328482+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.046661+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "JnmEUQB97GQKymD-fiz8-QBh9nYU5mUf-VPd6DnosgcpYy-IctVeSRqNfvQ73d2n8nU16CrxggZk4DdGNNhxDQ",
+   "revision": 40,
+   "signature": "GSyLgsWPtxKyTCMB_xhY4ZrHXbpTSSI1qCFCfT8MbUzXhlKY-8EjuiPNQg9x3F0G89i8i8fCpP57G1wNojTZAQ",
    "subject_key": "live:grateful-dead:1969-07-03:reeds-ranch",
-   "updated_at": "2026-10-25T16:41:39.330081"
+   "updated_at": "2026-10-25T17:35:10.047388"
   }
  },
  "recommended": {

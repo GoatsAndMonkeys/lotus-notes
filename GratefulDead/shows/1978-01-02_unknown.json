@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -105,7 +105,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      }
     ],
@@ -113,27 +117,29 @@
     "subject_key": "live:grateful-dead:1978-01-02:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 648,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Shakedown Street"
+     ],
+     "show_number": 740,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.263779+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.249879+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "_yPbg5ZX9E9kl9wgvEHBOwWBPFE8SPQIYB__aFw0IoBIuKsk36N6yNT8vOazvyh4H_sYJChnKRzalVva2AaZBw",
+   "revision": 40,
+   "signature": "h9DKDmKZIkiKLujRVPyOEiykHQI36FLObOXWXwrWLjd9NLT4ZQBGvrMahCCeetY1VNqYY7d6tBrRiA8FKDiDCg",
    "subject_key": "live:grateful-dead:1978-01-02:unknown",
-   "updated_at": "2026-10-25T16:41:51.265189"
+   "updated_at": "2026-10-25T17:35:15.250272"
   }
  },
  "recommended": {

@@ -371,7 +371,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -735,122 +735,324 @@
     "setlist": [
      {
       "key": "song:grateful-dead:equipment-repairs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Equipment Repairs"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 152,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:more-repairs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "More Repairs"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 40,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 153,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 178,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 40,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:repairs",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2200,
+       "gap_shows": 344,
+       "last_played": {
+        "date": "1971-04-29",
+        "show": "live:grateful-dead:1971-04-29:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Repairs"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 79,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 151,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 171,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 45,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 13,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 54,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 75,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-05",
+        "show": "live:grateful-dead:1977-05-05:veterans-memorial-coliseum"
+       },
+       "plays_before": 18,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 92,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 293,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-04-29",
+        "show": "live:grateful-dead:1977-04-29:the-palladium"
+       },
+       "plays_before": 24,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 100,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-03",
+        "show": "live:grateful-dead:1977-05-03:the-palladium"
+       },
+       "plays_before": 104,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:crowd-jerrys-guitar-is-broke",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd - Jerry's Guitar is Broke!"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -858,52 +1060,79 @@
      {
       "from": "gd77-05-07.sbd.eaton.wizard.26085.sbeok.shnf",
       "key": "song:grateful-dead:fennario",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Fennario (Pretty Peggy-O)"
      },
      {
       "from": "gd77-05-07.sbd.eaton.wizard.26085.sbeok.shnf",
       "key": "song:grateful-dead:repairs-billy-ks-birthday",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Repairs - Billy K's Birthday!"
      },
      {
       "from": "gd77-05-07.sbd.eaton.wizard.26085.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-04",
+        "show": "live:grateful-dead:1977-05-04:the-palladium"
+       },
+       "plays_before": 75,
+       "total_plays": 220
+      },
       "title": "Mississippi Half Step Uptown Toodle-Loo"
      },
      {
       "from": "gd77-05-07.rolfe.weiner.6021.sbeok.shnf",
       "key": "song:grateful-dead:billys-happy-birthday",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Billy's Happy Birthday"
      }
     ],
     "subject_key": "live:grateful-dead:1977-05-07:boston-garden",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 604,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Repairs"
+     ],
+     "first_in_archive": [
+      "Equipment Repairs",
+      "More Repairs",
+      "Crowd - Jerry's Guitar is Broke!"
+     ],
+     "show_number": 696,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.304651+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.936232+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "Hu--SlmCseXBDWHSky_fd1nh2TFEt_grUhYDiDx6oUCGic79graE4WQq7cxVMGaDATXlDb6-oVT41zUKGuieCA",
+   "revision": 43,
+   "signature": "h0FjkZvotHSOzv3uLou6WEkN-VC3Zk8JvQZeVUVk7lAHfrd90pdfVJce_K2yUjRf041CV6H6YXwD7dSbbM7xDg",
    "subject_key": "live:grateful-dead:1977-05-07:boston-garden",
-   "updated_at": "2026-10-25T16:41:50.306994"
+   "updated_at": "2026-10-25T17:35:14.937197"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mississippi Half Step Uptown Toodle-Loo** (2 reviews): Listener identifies this as the best version heard, featuring some of Jerry's best soloing; Reviewer believes the band played the best Mississippi Half Step of their careers on this date [14][20]\n- **Big River** (1 review): The transition from Mississippi Half-Step into Big River sounds like it is about to be disco [12]\n\n## The recordings\n\n- **gd77-05-07.sbd.bertha-ashley.26361.sbeok.shnf** (recommended): soundboard; 24 songs; 196 min; rated 4.97/5 by 30 [1]\n- **gd77-05-07.rolfe.weiner.6021.sbeok.shnf**: audience recording; 21 songs; 193 min; rated 4.3/5 by 10 [3]. Said about its sound: Listener notes the soundboard has great versions of Friend of the Devil, Terrapin, and Wheel [16]\n- **gd1977-05-07.sbd.miller.88525.flac16**: soundboard; 20 songs; 189 min; rated 4.72/5 by 40 [4]\n- **gd77-05-07.sbd.unknown.262.sbefail.shnf**: soundboard; 17 songs; 164 min; rated 4.72/5 by 53 [9]. Said about its sound: Listener describes the audio as perfect, with music bubbling and the song feeling good; Garcia's solo in Big River is so revved up he nearly leaves the drummers behind; Listener praises the sound quality on expensive stereo systems, highlighting the Wheel to Wharf Rat sequence [10][15][19][21]\n\n## Around the show\n\n- Billy's birthday was celebrated during the show, though the band's equipment malfunctioned at showtime [6]\n- Kathy Sublette recorded the show, noting the crowd was rowdy but good natured despite equipment issues [8]\n- Reviewer rates this performance above the next night, citing inspired song choice and best version [11]\n- Reviewer claims this show tops the Cornell performance, citing song selection and a near-reggae Friend of the Devil [13]\n\n## Tapers and lineage\n\n- **gd77-05-07.sbd.bertha-ashley.26361.sbeok.shnf**: source: Soundboard [1]. Also: Jay Ashley remastered the Rob Eaton soundboard source through DAT, editing, and DAW stages [1]\n- **gd77-05-07.rolfe.weiner.6021.sbeok.shnf**: taped by Steve Rolfe; transferred by Noah Weiner; source: Audience Recording: Sony ECM 33P mic > TC-152 deck [3]\n- **gd1977-05-07.sbd.miller.88525.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> PCM -> Dat (44.1k) D [4]. Also: Miller transfer uses a Sony ECM 33P cassette master, with pitch adjusted to match the reel [4]\n- **gd77-05-07.sbd.unknown.262.sbefail.shnf**: source: Soundboard [9]\n\n## Art and photos\n\n- Fan art by Paper Moon, il negozio on-line della tua musica: [GRATEFUL DEAD - Boston Garden, MA 5.7.1977 - Limited Edition Rsd 2023 Exclusive | 0603497838356](https://www.papmoon.com/grateful-dead-boston-garden-ma-5-7-1977-limited-edition-rsd-2023-exclusive_44795.html) [23]\n- Poster by Grateful Dead: [current-page:url:arg:3 | Grateful Dead](https://www.dead.net/tags/boston-garden) [24]\n- Photo by a Flickr member (All rights reserved): [Grateful Dead - May 7 1977 Boston | Caine Schneider | …](https://www.flickr.com/photos/104729480@N03/34357371292/) [25]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/104729480@N03/34357371292/) [26]",

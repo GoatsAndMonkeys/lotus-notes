@@ -218,7 +218,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -388,140 +388,369 @@
      {
       "key": "song:grateful-dead:intro-by-sam-cutler",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "intro by Sam Cutler"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 24,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 36,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 8,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 137,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 140,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 56,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 9,
+       "total_plays": 162
+      },
       "title": "Black-Throated Wind"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 65,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 26,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 82,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 38,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 78,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 177,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 99,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-03-26",
+        "show": "live:grateful-dead:1972-03-26:academy-of-music"
+       },
+       "plays_before": 191,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 162,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:el-paso",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 52,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 162,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-03-26",
+        "show": "live:grateful-dead:1972-03-26:academy-of-music"
+       },
+       "plays_before": 29,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 27,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 97,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia//"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 118,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 76,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 118,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 36,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -529,27 +758,29 @@
     "subject_key": "live:grateful-dead:1972-04-07:wembley-empire-pool",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 339,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "intro by Sam Cutler"
+     ],
+     "show_number": 409,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Wembley Empire Pool"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.991433+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.331949+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "DymHFMQfdJRAT1lm94e3L29_6MgbqM0aKcHEfSDToGUWUHrqC5N8Dd15RkIl_TEpQmLbo3dFfew4Pf1TynJvDQ",
+   "revision": 17,
+   "signature": "d8w_nknRfSpYnObCknduOJaWc39u1qy85nS-qG16SKP23dOPFXUJ6TS8LrOjEofbUFHHx-XYkDzXOC8knWolCA",
    "subject_key": "live:grateful-dead:1972-04-07:wembley-empire-pool",
-   "updated_at": "2026-10-25T16:41:43.993041"
+   "updated_at": "2026-10-25T17:35:12.333093"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd72-04-07.aud.sirmick.31329.sbeok.flacf** (recommended): audience recording; 26 songs; 181 min; rated 1.29/5 by 7 [1]. Said about its sound: One of the two audience masters has about average sound quality; the other is described as worse; Reviewer calls it the worst recording they have heard; advises waiting for a better source; The audience copy is muddy but listenable, and fills the gaps around the board releases [1][11][12]\n- **gd72-04-07.aud.hanno.6161.sbeok.shnf**: audience recording; 23 songs; 181 min; rated 2.36/5 by 22 [2]. Said about its sound: Considered possibly the poorest-sounding Dead recording in circulation; the better of two audience sources is still horrendous; Very poor audience tape that needs heavy equalization to be tolerable; Sounds as if the recorder was left running far from the stage, near the taper's car [3][5][6][7][8][10][13]\n\n## Around the show\n\n- Sam Cutler gave an introduction before the band opened with Greatest Story Ever Told [1]\n- Europe '72 tour shows had a rare quality, so the reviewer wants every one, despite this tape [5]\n\n## Tapers and lineage\n\n- **gd72-04-07.aud.sirmick.31329.sbeok.flacf**: transferred by SIRMick; source: Audience: Unknown Mics (remaster) [1]. Also: This is a remaster of shnid 6161, put together from two audience master recordings [1]\n- **gd72-04-07.aud.hanno.6161.sbeok.shnf**: source: Audience: Unknown Mics [2]\n\n## Art and photos\n\n- Fan art by Newbury Comics: [Wembley Empire Pool, London, England 4/7/1972 Live 5LP Box Set](https://www.newburycomics.com/products/grateful_dead-wembley_empire_pool-_london-_england_4-7-1972_live_5lp_box_set) [16]\n- Fan art by Musical Paradise | CD | DVD | GAMES | BOOKS | ELECTRONICS | MERCHANDISE | CONSOLES: [GRATEFUL DEAD - LIVE AT WEMBLEY EMPIRE POOL LONDON (4/7/72) (5LP LIMITED EDITION VINYL) RSD '22 - Musical Paradise | CD ](https://musicalparadise.com/product/grateful-dead-live-at-wembley-empire-pool-london-4-7-72-5lp-limited-edition-vinyl-rsd-22/) [17]\n- Fan art by Bundle Music: [Grateful Dead - History Of The Grateful Dead Vol. 1 &](https://bundlemusic.com/products/history-of-the-grateful-dead-vol-1-wembley-empire-pool-london-england-4-7-1972-live-5lp-180g) [18]\n- Photo by Caine Schneider (All rights reserved): [Grateful Dead - 4/7/72 Wembley Empire Pool, London, England](https://www.flickr.com/photos/104729480@N03/26793055831/) [19]",

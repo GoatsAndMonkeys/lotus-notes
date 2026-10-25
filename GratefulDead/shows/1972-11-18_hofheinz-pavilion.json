@@ -232,7 +232,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -416,52 +416,142 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-11-15",
+        "show": "live:grateful-dead:1972-11-15:oklahoma-city-music-hall"
+       },
+       "plays_before": 93,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-11-14",
+        "show": "live:grateful-dead:1972-11-14:oklahoma-city-music-hall"
+       },
+       "plays_before": 61,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-11-17",
+        "show": "live:grateful-dead:1972-11-17:century-ii-convention-hall"
+       },
+       "plays_before": 43,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-11-17",
+        "show": "live:grateful-dead:1972-11-17:century-ii-convention-hall"
+       },
+       "plays_before": 87,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-11-15",
+        "show": "live:grateful-dead:1972-11-15:oklahoma-city-music-hall"
+       },
+       "plays_before": 75,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-11-15",
+        "show": "live:grateful-dead:1972-11-15:oklahoma-city-music-hall"
+       },
+       "plays_before": 140,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-10-30",
+        "show": "live:grateful-dead:1972-10-30:ford-auditorium"
+       },
+       "plays_before": 19,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-11-17",
+        "show": "live:grateful-dead:1972-11-17:century-ii-convention-hall"
+       },
+       "plays_before": 154,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-11-14",
+        "show": "live:grateful-dead:1972-11-14:oklahoma-city-music-hall"
+       },
+       "plays_before": 75,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-11-17",
+        "show": "live:grateful-dead:1972-11-17:century-ii-convention-hall"
+       },
+       "plays_before": 109,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -469,7 +559,16 @@
      {
       "from": "gd1972-11-18.sbd-set2.lai.9182.shnf",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1972-10-27",
+        "show": "live:grateful-dead:1972-10-27:veterans-memorial-hall"
+       },
+       "plays_before": 13,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      }
     ],
@@ -477,26 +576,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 399,
-     "shows_in_archive": 1855,
+     "show_number": 477,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hofheinz Pavilion"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.458234+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.140008+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "qPtdApSIFXWaOcaVOTu_ATDHbmSpeDkPphrRA2xKAktJKxqShhC1i3HWbJJMeRvDdhrpNL6uCwH0Skd7sIOsDw",
+   "revision": 17,
+   "signature": "FNPJVjNRzyVSvAs2L3-iharRItiPe8pochsktw5_XeaIvNIvp-1UeusI1bRu_5cFYooCSROAxXWBjpZUXG1SAw",
    "subject_key": "live:grateful-dead:1972-11-18:hofheinz-pavilion",
-   "updated_at": "2026-10-25T16:41:45.459889"
+   "updated_at": "2026-10-25T17:35:13.141326"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Playing In The Band** (8 reviews): Reviewer ranks this Playin' among the top three versions, possibly the best; Highlight of the set: a very intense jam that goes far out with the band firing hard [5][6][7][8][10][11][12][14]\n- **He's Gone** (1 review): Audible flatulence during He's Gone strikes the reviewer as funny [14]\n\n## The recordings\n\n- **gd72-11-18.set2-sbd.cotsman.9002.sbeok.shnf** (recommended): soundboard; 10 songs; 94 min; rated 4.34/5 by 32 [1]. Said about its sound: The tape of He's Gone is clipped in several places, making it harder to listen to; Recording is not perfectly crisp; Sound quality is somewhat hissy [5][7][10][12][15]\n- **gd1972-11-18.sbd-set2.lai.9182.shnf**: soundboard; 10 songs; 94 min; rated 4.4/5 by 10 [2]\n- **gd1972-11-18.123077.sbd.miller.flac16**: soundboard; 10 songs; 95 min; rated 4.33/5 by 9 [3]\n\n## Around the show\n\n- Reviewer says this show was reportedly a favorite of Latvala [6]\n- Reviewer rates this version equal to the 8/27/72 one, but it breaks free earlier and gets spacier [4]\n- Not a typical 1972 Playin'; the song has traveled a long way since the start of the year [6]\n- Reviewer suggests comparing this Playin' with the one played the following night [7]\n- Reviewer thinks this Playin' surpasses the Veneta one; rest of show is judged standard 1972 [10]\n\n## Tapers and lineage\n\n- **gd72-11-18.set2-sbd.cotsman.9002.sbeok.shnf**: source: Soundboard [1]. Also: Only the second set of the show circulates in this soundboard source; Second set only; chain soundboard to MC to cassette to DAT to CD to EAC to SHN, edited and encoded by J. Cotsman [1][5]\n- **gd1972-11-18.sbd-set2.lai.9182.shnf**: source: Owsley MC >> ? >> D >> CD [2]\n- **gd1972-11-18.123077.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette -> Dat [3]\n\n## Art and photos\n\n- Poster by www.merchbar.com: [Grateful Dead 11/18/72 HOFHEINZ PAVILION HOUSTON TX Vinyl Record - 180 Gram Pressing](https://www.merchbar.com/rock-alternative/grateful-dead/grateful-dead-11-18-72-hofheinz-pavilion-houston-tx-vinyl-record-180-gram-pressing) [17]\n- Poster by Red on Black: [THE GRATEFUL DEAD - 11/18/72 HOFHEINZ PAVILION, HOUSTON TX VINYL - ALBUM REVIEW — musomuso.com](https://musomuso.com/news/the-grateful-dead-111872-hofheinz-pavilion-houston-tx-vinyl-album-review) [18]\n- Photo by Caine Schneider (All rights reserved): [Grateful Dead - Houston, Texas 11-18-1972](https://www.flickr.com/photos/104729480@N03/27317357421/) [19]",

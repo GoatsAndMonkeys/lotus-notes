@@ -317,7 +317,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -576,127 +576,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 134,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 161,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 19,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 102,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 124,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 205,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 6,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 165,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 129,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 192,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 78,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 214,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:seastones",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 8,
+       "total_plays": 19
+      },
       "title": "Seastones"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 20,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 110,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-07-25",
+        "show": "live:grateful-dead:1974-07-25:international-amphitheater"
+       },
+       "plays_before": 27,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 300,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 22,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 39,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-part-one",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 13,
+       "total_plays": 15
+      },
       "title": "Weather Report Suite Part One"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 45,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 70,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 25,
+       "total_plays": 329
+      },
       "title": "US Blues"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 225,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 274,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -704,31 +929,76 @@
      {
       "from": "gd74-08-04.sbd.sacks.1574.sbeok.shnf",
       "key": "song:grateful-dead:phil-and-ned",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 4,
+       "total_plays": 14
+      },
       "title": "Phil and Ned"
      },
      {
       "from": "gd74-08-04.sbd.sacks.1574.sbeok.shnf",
       "key": "song:grateful-dead:part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1974-05-19",
+        "show": "live:grateful-dead:1974-05-19:portland-memorial-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 10
+      },
       "title": "Part 1"
      },
      {
       "from": "gd74-08-04.sbd.sacks.1574.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 45,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1974-06-20",
+        "show": "live:grateful-dead:1974-06-20:atlanta-municipal-auditorium"
+       },
+       "plays_before": 22,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1974-08-04.mtx.seamons.100653.sbeok.flac16",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 37,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd1974-08-04.mtx.seamons.100653.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 132,
+       "total_plays": 628
+      },
       "title": "Jam"
      }
     ],
@@ -736,26 +1006,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 506,
-     "shows_in_archive": 1855,
+     "show_number": 589,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Philadelphia Civic Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 14,
+   "parent_revision": 26,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.185832+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.234363+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 15,
-   "signature": "FJ3MMIrU8TeJm8ObDSV8qICMfveWEVTv9t2bq1i0jhs6624GauFmPFwiHwbtMtm09Sax5pbRajkQlGVp3agJCg",
+   "revision": 27,
+   "signature": "H33mlEMoIFu0waOVWjefJNq1zbAbZ36S8LrAm4J0aI7hditCuxRrqQw0g3l_lcReZbi_au_YNuKkrZ7UWDtiAg",
    "subject_key": "live:grateful-dead:1974-08-04:philadelphia-civic-arena",
-   "updated_at": "2026-10-25T16:41:48.187871"
+   "updated_at": "2026-10-25T17:35:14.235515"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Playin' In The Band** (4 reviews): Playin' runs past twenty-five minutes; Reviewer believes this Playin' opens Dick's Picks 31 and calls that first track worth the purchase alone [7][8][14][16]\n- **Weather Report Suite** (2 reviews): Reviewer praises the complete Weather Report Suite as one of the best tunes; Bobby slightly fumbles the suite's intro [16][17]\n- **Bertha** (1 review): Reviewer likes the show opening with Bertha [12]\n- **Peggy-O** (1 review): Reviewer hears the Peggy-O as aching and minimalist [11]\n- **Jack Straw** (1 review): Jack Straw is cohesive and seemed to invite longer stretching out [11]\n- **El Paso** (1 review): Jerry noodles during El Paso [11]\n- **Let It Grow** (1 review): Let It Grow and the jam after it stand out; Keith plays well off Jerry, with about ten minutes of meltdown before Wharf Rat [7]\n- **US Blues** (1 review): Reviewer singles out US Blues as great in 1974 [15]\n\n## The recordings\n\n- **gd74-08-04.aud-moore.weiner.20369.sbeok.shnf** (recommended): audience recording; 25 songs; 233 min; rated 3.88/5 by 8 [1]\n- **gd74-08-04.sbd.sacks.1574.sbeok.shnf**: soundboard; 26 songs; 208 min; rated 4.8/5 by 5 [2]\n- **gd1974-08-04.sbd.unknown.1631.shnf**: soundboard; 26 songs; 208 min [3]. Said about its sound: Jerry's guitar has problems on the first two tracks, Beat It On Down The Line and Roses [3]\n- **gd1974-08-04.aud.moore.weiner.gdADT.9112.sbeok.shnf**: audience recording; 25 songs; 206 min; rated 4.2/5 by 5 [4]. Said about its sound: Reviewer finds it a solid audience recording; Of two audience recordings, this one is clearest and sharpest; the other sounds muffled [12][18]\n- **gd1974-08-04.mtx.seamons.100653.sbeok.flac16**: matrix (soundboard mixed with audience mics); 24 songs; 231 min; rated 4.33/5 by 3 [5]\n\n## Around the show\n\n- Attendee says the Wall of Sound PA took about half the first set to dial in; vocals cleared by the fourth or fifth song [9]\n- Taper sat front row of the balcony, audience right, about halfway back from the stage [5]\n- Reviewer calls this matrix the best version available other than the Dick's Picks release [14]\n- Playin' is very good but not the best of 1974 [17]\n\n## Tapers and lineage\n\n- **gd74-08-04.aud-moore.weiner.20369.sbeok.shnf**: taped by Jerry Moore; transferred by Mark Cohen and Noah Weiner; source: Audience Recording [1]. Also: Jerry Moore taped with two AKG D-1000E mics into a Sony 152 deck, on Maxell cassettes with Dolby B; Mark Cohen made the analog-to-DAT transfer; Noah Weiner converted the DAT to SHN/CD [1]\n- **gd74-08-04.sbd.sacks.1574.sbeok.shnf**: source: Soundboard [2]. Also: Dick's Picks 31 uses part of disc 1 and all of disc 2 from this show [17]\n- **gd1974-08-04.sbd.unknown.1631.shnf**: transferred by Unknown; source: SBD>MR>DAT>CDR [3]\n- **gd1974-08-04.aud.moore.weiner.gdADT.9112.sbeok.shnf**: taped by Jerry Moore; transferred by Noah Weiner; source: AudMC > DAT > WAV > SHN and AudMC > R? > Beta Hi-Fi PCM > CASS > WAV > CD > EAC > SHN [4]. Also: Set one lineage was noted on the DAT; the second-set DAT was lower quality, so its lineage is uncertain; An alternate audience-cassette source patched missing tracks and cuts; taper is assumed to be Jerry Moore [4]\n- **gd1974-08-04.mtx.seamons.100653.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [5]. Also: Source disk came from Bob Fishman; Jerry Moore taped with two AKG mics into a Sony 152 deck; Mics were mounted in a V on a telescoping pole extended six feet, aimed at the proscenium wings [5]\n\n## Art and photos\n\n- Poster by Worthpoint: [Grateful Dead RARE Philadelphia 1974 Concert Poster | #33405429](https://www.worthpoint.com/worthopedia/grateful-dead-rare-philadelphia-1974-concert) [20]\n- Poster by Jerry Garcia: [Grateful Dead Poster 1974-08-04 - Jerry Garcia](https://jerrygarcia.com/image/grateful-dead-poster-1974-08-04-04/) [21]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1974-08-04 Sun Civic Convention Hall Auditorium, Philadelphia, PA](https://www.livegrateful.net/post/1398747154146/grateful-dead-1974-08-04-sun-civic) [22]",

@@ -225,7 +225,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -405,22 +405,43 @@
     "setlist": [
      {
       "key": "song:grateful-dead:ken-babbs-intro",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs Intro (Version One)"
      },
      {
       "key": "song:grateful-dead:no-power-on-the-stage",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "No Power On The Stage"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:im-a-hog-for-you-baby",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "I'm A Hog For You Baby"
      },
      {
@@ -428,244 +449,451 @@
        "Ken Babbs"
       ],
       "key": "song:grateful-dead:im-a-hog-for-you-baby",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "I'm A Hog For You Baby"
      },
      {
       "key": "song:grateful-dead:some-high-powered-rocket-fuel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Some High Powered Rocket Fuel"
      },
      {
       "key": "song:grateful-dead:im-going-to-put-a-spell-on-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I'm Going To Put A Spell On You (PigPen Excerpt)"
      },
      {
       "key": "song:grateful-dead:littering-glowing-ever-flowing-neon-flowing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Littering Glowing, Ever Flowing, Neon flowing (Ken Kesey)"
      },
      {
       "key": "song:grateful-dead:you-people-out-there-listen-to-me-this-is-zoltra-speaking-this-is-a-trap-you-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "You People Out There, Listen To Me -This Is Zoltra Speaking - This Is A Trap - You Fools"
      },
      {
       "key": "song:grateful-dead:acid-music",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Acid Music"
      },
      {
       "key": "song:grateful-dead:people-were-playing-games-with-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "People We're Playing Games With Me"
      },
      {
       "key": "song:grateful-dead:there-it-is-sneaky-little-rascal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "There It Is, Sneaky Little Rascal (Ken Kesey)"
      },
      {
       "key": "song:grateful-dead:caution",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1965-11-03",
+        "show": "live:grateful-dead:1965-11-03:golden-state-studios"
+       },
+       "plays_before": 1,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop On The Tracks)"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:ken-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs"
      },
      {
       "key": "song:grateful-dead:everybody-out-the-test-is-over",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Out - The Test Is Over (Police Announcement)"
      },
      {
       "key": "song:grateful-dead:ken-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs"
      },
      {
       "key": "song:grateful-dead:everybody-out-the-test-is-over-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Out - The Test Is Over 2"
      },
      {
       "key": "song:grateful-dead:did-everybody-enjoy-themselves",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Did Everybody Enjoy Themselves?"
      },
      {
       "key": "song:grateful-dead:yeah-use-your-head-everybody-be-calm-now",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Yeah, Use Your Head - Everybody Be Calm Now (Weir & Kesey)"
      },
      {
       "key": "song:grateful-dead:on-the-road-again-to-get-the-people-on-the-road-go-home-to-your-families",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "On The Road Again to Get The People On The Road - Go Home To Your Families (Weir & Kesey)"
      },
      {
       "key": "song:grateful-dead:arrest-everybody-but-dont-hurt-any-of-the-equipment-star-spangled-banger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Arrest Everybody But Don't Hurt Any Of The Equipment / Star Spangled Banger (Weir & Co)"
      },
      {
       "key": "song:grateful-dead:ken-babbs-intro",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs Intro (Version 2 - Longer/Mono)"
      },
      {
       "key": "song:grateful-dead:no-power-ken-babbs-the-inner-space-race",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "No Power / Ken Babbs / The Inner Space Race (Mono)"
      },
      {
       "key": "song:grateful-dead:no-power-on-the-stage-ken-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "No Power On The Stage / Ken Babbs (Mono)"
      },
      {
       "key": "song:grateful-dead:gaze-upon-it-friends-the-electric-wasteland-no-power-on-the-stage-kenn-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gaze Upon It Friends,The Electric Wasteland / No Power On The Stage / Kenn Babbs (Mono)"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee (Mono)"
      },
      {
       "key": "song:grateful-dead:everybody-out-the-test-is-over-ken-babbs-did-everybody-enjoy-themselves",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Out - The Test Is Over / Ken Babbs / Did Everybody Enjoy Themselves? (Mono)"
      },
      {
       "key": "song:grateful-dead:were-planning-on-having-gigs-in-other-cities",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We're Planning On Having Gigs In Other Cities...... (Mono)"
      },
      {
       "key": "song:grateful-dead:everybody-use-your-head-everybody-be-calm-now",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Use Your Head / Everybody Be Calm Now (Weir & Kesey) (Mono)"
      },
      {
       "key": "song:grateful-dead:we-can-stay-here-until-hell-freezes-over-but-we-have-to-be-turn-everything-off",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We Can Stay Here Until Hell Freezes Over, But We Have To Be Turn Everything Off (Garcia) (Mono)"
      },
      {
       "key": "song:grateful-dead:if-they-kill-it-now-thell-kill-it-forever-if-they-kill-you-now-youre-dead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "If They Kill It Now The'll Kill It Forever, If They Kill You Now, You're Dead! (Mono)"
      },
      {
       "key": "song:grateful-dead:star-spangled-banger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Star Spangled Banger (Mono)"
      },
      {
       "key": "song:grateful-dead:ken-babbs-intro",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs Intro (Version 3 Stereo)"
      },
      {
       "key": "song:grateful-dead:everybody-get-in-tune",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Get In Tune"
      },
      {
       "key": "song:grateful-dead:ken-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs"
      },
      {
       "key": "song:grateful-dead:aint-no-fucking-power-no-place",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ain't No Fuckin' Power No Place"
      },
      {
       "key": "song:grateful-dead:ken-babbs",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Babbs"
      },
      {
       "key": "song:grateful-dead:no-power-on-the-stage-fix-it",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "No Power On The Stage, Fix It"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:everybody-out-the-test-is-over-ken-babbs-did-everybody-enjoy-themselves",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Out - The Test Is Over / Ken Babbs / Did Everybody Enjoy Themselves?"
      },
      {
       "key": "song:grateful-dead:i-see-the-electricial-is-running-down-now-trying-to-get-everything-established",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I See The Electricial Is Running Down Now Trying To Get Everything Established (Ken Babbs)"
      },
      {
       "key": "song:grateful-dead:slim-kesey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Slim Kesey"
      },
      {
       "key": "song:grateful-dead:were-into-emergency-power-now",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We're Into Emergency Power Now (Ken Babbs)"
      },
      {
       "key": "song:grateful-dead:were-planning-on-having-gigs-in-other-cities",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We're Planning On Having Gigs In Other Cities"
      },
      {
       "key": "song:grateful-dead:everybody-use-your-head-everybody-be-calm-now",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Everybody Use Your Head / Everybody Be Calm Now (Weir & Kesey)"
      },
      {
       "key": "song:grateful-dead:we-can-stay-here-until-hell-freezes-over-but-we-have-to-be-turn-everything-off",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We Can Stay Here Until Hell Freezes Over, But We Have To Be Turn Everything Off (Garcia)"
      },
      {
       "key": "song:grateful-dead:if-they-kill-it-now-thell-kill-it-forever-if-they-kill-you-now-youre-dead",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "If They Kill It Now The'll Kill It Forever, If They Kill You Now, You're Dead!"
      },
      {
       "key": "song:grateful-dead:star-spangled-banger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Star Spangled Banger"
      },
      {
       "key": "song:grateful-dead:find-a-harmonica-no-one-seems-to-find-out-how-to-turn-off-this-pa",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Find A Harmonica / No One Seems To Find Out How To Turn Off This PA"
      },
      {
       "key": "song:grateful-dead:is-my-microphone-still-in-operation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Is My Microphone Still In Operation"
      },
      {
       "key": "song:grateful-dead:tastebud-possibly-one-of-these-early-acid-tests",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "TasteBud (Unknown Show 1965 or 1966) Possibly one of these early Acid Tests"
      }
     ],
@@ -673,52 +901,137 @@
      {
       "from": "gd1966-01-08.sbd.bershaw.5410.shnf",
       "key": "song:grateful-dead:stage-chaos-more-power-rap",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Stage Chaos/More Power Rap"
      },
      {
       "from": "gd1966-01-08.sbd.bershaw.5410.shnf",
       "key": "song:grateful-dead:king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "from": "gd1966-01-08.sbd.bershaw.5410.shnf",
       "key": "song:grateful-dead:caution-do-not-step-on-tracks",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Caution: Do Not Step On Tracks"
      },
      {
       "from": "gd1966-01-08.sbd.bershaw.5410.shnf",
       "key": "song:grateful-dead:star-spangled-banner-closing-remarks",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Star Spangled Banner / closing remarks"
      }
     ],
     "subject_key": "live:grateful-dead:1966-01-08:fillmore-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 5,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Ken Babbs Intro (Version One)",
+      "No Power On The Stage",
+      "I'm A King Bee",
+      "Some High Powered Rocket Fuel",
+      "I'm Going To Put A Spell On You (PigPen Excerpt)",
+      "Littering Glowing, Ever Flowing, Neon flowing (Ken Kesey)",
+      "You People Out There, Listen To Me -This Is Zoltra Speaking - This Is A Trap - You Fools",
+      "Acid Music",
+      "People We're Playing Games With Me",
+      "There It Is, Sneaky Little Rascal (Ken Kesey)",
+      "Ken Babbs",
+      "Everybody Out - The Test Is Over (Police Announcement)",
+      "Ken Babbs",
+      "Everybody Out - The Test Is Over 2",
+      "Did Everybody Enjoy Themselves?",
+      "Yeah, Use Your Head - Everybody Be Calm Now (Weir & Kesey)",
+      "On The Road Again to Get The People On The Road - Go Home To Your Families (Weir & Kesey)",
+      "Arrest Everybody But Don't Hurt Any Of The Equipment / Star Spangled Banger (Weir & Co)",
+      "Ken Babbs Intro (Version 2 - Longer/Mono)",
+      "No Power / Ken Babbs / The Inner Space Race (Mono)",
+      "No Power On The Stage / Ken Babbs (Mono)",
+      "Gaze Upon It Friends,The Electric Wasteland / No Power On The Stage / Kenn Babbs (Mono)",
+      "I'm A King Bee (Mono)",
+      "Everybody Out - The Test Is Over / Ken Babbs / Did Everybody Enjoy Themselves? (Mono)",
+      "We're Planning On Having Gigs In Other Cities...... (Mono)",
+      "Everybody Use Your Head / Everybody Be Calm Now (Weir & Kesey) (Mono)",
+      "We Can Stay Here Until Hell Freezes Over, But We Have To Be Turn Everything Off (Garcia) (Mono)",
+      "If They Kill It Now The'll Kill It Forever, If They Kill You Now, You're Dead! (Mono)",
+      "The Star Spangled Banger (Mono)",
+      "Ken Babbs Intro (Version 3 Stereo)",
+      "Everybody Get In Tune",
+      "Ken Babbs",
+      "Ain't No Fuckin' Power No Place",
+      "Ken Babbs",
+      "No Power On The Stage, Fix It",
+      "I'm A King Bee",
+      "Everybody Out - The Test Is Over / Ken Babbs / Did Everybody Enjoy Themselves?",
+      "I See The Electricial Is Running Down Now Trying To Get Everything Established (Ken Babbs)",
+      "Slim Kesey",
+      "We're Into Emergency Power Now (Ken Babbs)",
+      "We're Planning On Having Gigs In Other Cities",
+      "Everybody Use Your Head / Everybody Be Calm Now (Weir & Kesey)",
+      "We Can Stay Here Until Hell Freezes Over, But We Have To Be Turn Everything Off (Garcia)",
+      "If They Kill It Now The'll Kill It Forever, If They Kill You Now, You're Dead!",
+      "The Star Spangled Banger",
+      "Find A Harmonica / No One Seems To Find Out How To Turn Off This PA",
+      "Is My Microphone Still In Operation",
+      "TasteBud (Unknown Show 1965 or 1966) Possibly one of these early Acid Tests"
+     ],
+     "show_number": 6,
+     "shows_in_archive": 2097,
      "songs": 52,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.387760+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.126897+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "dNxWByiToXe3dXLzQt4McoEhBTSe6jtuQsqZlU57kgsrjCI_0IF-2awOU1xfHXIAQn-ubb3pV-PYjEbPTnfdAQ",
+   "revision": 41,
+   "signature": "C9CY1rs0mMvaYbyUG_GYpL9gJw_NCKheFn8Q1jXj5nw7sAKRnZ2Qv1HPP8JULy775dEVFOAuYSOYmZ9W9BPgAA",
    "subject_key": "live:grateful-dead:1966-01-08:fillmore-auditorium",
-   "updated_at": "2026-10-25T16:41:38.388925"
+   "updated_at": "2026-10-25T17:35:09.128150"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Caution (Do Not Stop On The Tracks)** (1 review): The performance of this track is described as pretty good by the listener [3]\n- **Death Don't Have No Mercy** (1 review): The listener highlights this specific song as a great example of classic Dead music [13]\n\n## Setlist highlights\n\n- **I'm A Hog For You Baby**: with Ken Babbs [1]\n\n## The recordings\n\n- **gd1966-01-08.sbd.lestatkatt.106505.flac16** (recommended): soundboard; 52 songs; 78 min; rated 4.47/5 by 17 [1]\n- **gd1966-01-08.sbd.bershaw.5410.shnf**: soundboard; 6 songs; 34 min; rated 3.93/5 by 15 [2]. Said about its sound: Audio quality is inconsistent due to microphone problems, though the recording holds historical value [4]\n\n## Around the show\n\n- Guests: Ken Babbs [1]\n- The band members get silly while performing the national anthem during the show [3]\n- Cops closed the test, and the band sang the anthem from atop a ladder [7]\n- Bobby Weir tells the audience about equipment problems, a rare occurrence in his career [7]\n- The event is identified as the fifth show billed as The Grateful Dead [13]\n- Weir screeches the anthem from a ladder while police shut down the event [14]\n\n## Tapers and lineage\n\n- **gd1966-01-08.sbd.lestatkatt.106505.flac16**: transferred by Michael Lestatkatt; source: SBD > MR> ? [1]. Also: Uploader tracked three separate audio edits from video releases, using the first for best quality; One source was mono for unknown reasons, containing audio missing from other versions [1]\n- **gd1966-01-08.sbd.bershaw.5410.shnf**: transferred by Alan Bershaw; source: Soundboard [2]. Also: This recording is part of a chronological compilation listed in the Tapers Compendium [2]",

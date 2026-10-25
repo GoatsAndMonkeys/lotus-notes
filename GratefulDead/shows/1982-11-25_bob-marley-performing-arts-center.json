@@ -298,7 +298,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -314,8 +314,8 @@
     "guests": [],
     "next": {
      "date": "1982-11-26",
-     "show": "live:grateful-dead:1982-11-26:world-music-festival",
-     "venue": "World Music Festival"
+     "show": "live:grateful-dead:1982-11-26:bob-marley-performing-arts-center",
+     "venue": "Bob Marley Performing Arts Center"
     },
     "previous": {
      "date": "1982-10-17",
@@ -482,85 +482,220 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 246,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 243,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 242,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 31,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:althea",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 147,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 142,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 214,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 175,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 128,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 706,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 370,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 10,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 334,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 205,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 323,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      }
     ],
@@ -568,19 +703,46 @@
      {
       "from": "gd1982-11-25.sbd.fried-lai.speed-corrected-fixed.jterrapin.126243.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 197,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1982-11-25.sbd.fried-lai.speed-corrected-fixed.jterrapin.126243.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 23,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "from": "gd1982-11-25.134119.nak300.schley.flac1644",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-10-17",
+        "show": "live:grateful-dead:1982-10-17:santa-fe-downs"
+       },
+       "plays_before": 31,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      }
     ],
@@ -588,26 +750,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1049,
-     "shows_in_archive": 1855,
+     "show_number": 1146,
+     "shows_in_archive": 2097,
      "songs": 15,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Bob Marley Performing Arts Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.490756+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.557570+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "UHGgfGrNAAPgTe-6h2LLuejAGDx-5D5zC8i846QEZpSntiAl4Gcl3XmOXH7ZoVLcf-GZOYT1JRaCQC9aLpdoBw",
+   "revision": 41,
+   "signature": "WxwWOga8o8_qhi5QOT8vsfILKoZOOFuZ0h7LT1gbawmgjKXIlkIUSoppPqnxigv0Dg_ENlMXr18Fi0enA3MECQ",
    "subject_key": "live:grateful-dead:1982-11-25:bob-marley-performing-arts-center",
-   "updated_at": "2026-10-25T16:41:55.491822"
+   "updated_at": "2026-10-25T17:35:18.558367"
   }
  },
  "recommended": {

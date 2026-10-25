@@ -688,7 +688,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1337,120 +1337,309 @@
     "setlist": [
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 232,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 194,
+       "total_plays": 311
+      },
       "title": "Friend Of the Devil"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 159,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 236,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 66,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 290,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 258,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1982-05-21",
+        "show": "live:grateful-dead:1982-05-21:greek-theatre-u-of-california"
+       },
+       "plays_before": 42,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1982-04-18",
+        "show": "live:grateful-dead:1982-04-18:hartford-civic-center"
+       },
+       "plays_before": 148,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 204,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 19,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-05-23",
+        "show": "live:grateful-dead:1982-05-23:greek-theatre-u-of-california"
+       },
+       "plays_before": 68,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 305,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 680,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-07-28",
+        "show": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre"
+       },
+       "plays_before": 345,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-27",
+        "show": "live:grateful-dead:1982-07-27:red-rocks-amphitheatre"
+       },
+       "plays_before": 356,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-05-28",
+        "show": "live:grateful-dead:1982-05-28:moscone-convention-center"
+       },
+       "plays_before": 190,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 223,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 260,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 316,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:brokedown-palace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 102,
+       "total_plays": 225
+      },
       "title": "Brokedwon Palace"
      }
     ],
@@ -1458,31 +1647,66 @@
      {
       "from": "gd1982-07-29.167229.akg.se5.wiseman.miller.clugston.flac2496",
       "key": "song:grateful-dead:crazy-fingers-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crazy Fingers Jam"
      },
      {
       "from": "gd1982-07-29.135525.aud.lamarre.berger.flac24",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 186,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1982-07-29.142568.Anon.Severson.Weber-Small.Donaldson.Ammons.Noel.t-flac1644",
       "key": "song:grateful-dead:a-crazy-one-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "A Crazy One Jam"
      },
      {
       "from": "gd1982-07-29.156430.beyer.tompkins.flac2448",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-05-28",
+        "show": "live:grateful-dead:1982-05-28:moscone-convention-center"
+       },
+       "plays_before": 47,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1982-07-29.167265.2nd.set.excerpt.sbd.eaton.clugston.flac1648",
       "key": "song:grateful-dead:other-one-space",
-      "stats": {},
+      "stats": {
+       "days_since": 118,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1982-04-02",
+        "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 4,
+       "total_plays": 12
+      },
       "title": "Other One Space//"
      }
     ],
@@ -1490,26 +1714,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1023,
-     "shows_in_archive": 1855,
+     "show_number": 1120,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.100922+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.306874+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "wo3WrlzBed-Qj5i6u1wFe0cpcAjlJ7Zgyn3juta_kgSmystz7EApxUFXWiwDEIOgdsKB8cHE-ltRhvFr7jRoCA",
+   "revision": 42,
+   "signature": "chs6emXfIvlILSkXGgIxsSUhWm_V0gBVvwtmF_Izm5HfTZIxZ1V5gIch_o2dBP0csxLqnRxMCcg2WveHNd15Bg",
    "subject_key": "live:grateful-dead:1982-07-29:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:41:55.102760"
+   "updated_at": "2026-10-25T17:35:18.308599"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Crazy Fingers** (2 reviews): Reviewer believes this is the only time the band tried returning to Crazy Fingers after leaving it; Jerry sings nearly every lyric and plays beautiful leads; the transition into Miracle was creative [31][32]\n- **The Other One** (2 reviews): Reviewer recalls a comic about a fan at these rain-soaked shows, saying an Other One in the rain was legendary; On the 27th, Phil ramped up perfectly into the first crescendo, and the band shredded the tune and stitched it back together [23][26]\n\n## The recordings\n\n- **gd1982-07-29.172806.senn441.clugston.flac2496** (recommended): audience recording; 21 songs; 150 min; rated 5/5 by 2 [1]\n- **gd1982-07-29.167229.akg.se5.wiseman.miller.clugston.flac2496**: audience recording; 22 songs; 151 min [3]\n- **gd1982-07-29.fob.senn421.wise.miller.102569.flac16**: source not stated; 21 songs; 150 min; rated 2/5 by 2 [9]. Said about its sound: Reviewer finds the Wise recording's sound in-your-face and on par with other great 1982 shows [31]\n- **gd1982-07-29.156430.beyer.tompkins.flac2448**: source not stated; 21 songs; 153 min [10]. Said about its sound: No patch exists for the Drums > Space transition, so small fades were added at the track break [10]\n- **gd82-07-29.fob-senn421.wise.4981.sbeok.shnf**: audience recording; 20 songs; 147 min; rated 4.75/5 by 16 [16]. Said about its sound: Reviewer calls this Jim Wise audience recording incredibly good; Jerry's guitar only comes in about halfway through the opening Minglewood; Recording puts you among the crowd, with audible song callouts, but too much chatting and whooping; Recording is imperfect: Bob's rhythm guitar is overwhelmingly loud in the mix, burying Jerry [24][25][28]\n\n## Around the show\n\n- Unusual extended rain for Colorado at this time of year arrived and left with the band, falling across all three shows [27]\n- Reviewer recalls word among heads that without a ticket you wouldn't get into the Rocks, though everyone seemed to get in [31]\n- Reviewer neglected the Red Rocks shows because only audience tapes exist, while August 1982 has excellent soundboards [24]\n- Reviewer thinks this show is better overall than the 27th, though the 27th's second set had the best Other One they'd heard [26]\n- Reviewer sees the night as high-energy 1982 with musical experimentation and several rarities [28]\n- Reviewer says it was the second Other One in three nights and suggests comparing it with 7/27/82 [30]\n\n## Tapers and lineage\n\n- **gd1982-07-29.172806.senn441.clugston.flac2496**: taped by Anon; transferred by Scott Clugston; source: Master Audience Cassettes; Sennheiser 441 mics > Sony D5M (TDK-MA-C90) [1]. Also: Master cassette recording and transfer came from anonymous benefactors; a Wise/Miller Sennheiser 421 source supplies a 0:43 patch in Drums > Space [1]\n- **gd1982-07-29.167229.akg.se5.wiseman.miller.clugston.flac2496**: taped by Scott Wiseman; transferred by Scott Wiseman and Scott Clugston, Charlie Miller; source: Scott Wiseman's Master Audience Cassettes; AKG SE-5E mics with CE-1 cardioid capsules > Sony TC-D5 (Maxell UDXLII 90) [3]\n- **gd1982-07-29.fob.senn421.wise.miller.102569.flac16**: taped by Jim Wise; transferred by Charlie Miller; source: (FOB) Sennheiser 421 -> Cassette Master (Sony TC-D5M/Maxell UDXLII-C90/Dolby B) [9]\n- **gd1982-07-29.156430.beyer.tompkins.flac2448**: taped by Concert recording by Rip Tompkins, & with thanks to Richie Stankiewicz!; transferred by Transferred by Andrew F. 04/2022; source: BeyerDynamic mics > Sony TC-D5M > TDK MA-90s [10]. Also: Possible match to another ID is uncertain; a different patch covers the first 14 seconds of Cold Rain & Snow [10]\n- **gd82-07-29.fob-senn421.wise.4981.sbeok.shnf**: taped by Jim Wise; transferred by Jim Wise; source: Audience Recording: Sennheiser 421's [16]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1982-07-28 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1982-07-28-red-rocks-amphitheatre-morrison-co-usa/) [34]",

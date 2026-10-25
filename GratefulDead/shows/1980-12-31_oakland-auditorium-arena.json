@@ -568,7 +568,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -631,8 +631,8 @@
     },
     "previous": {
      "date": "1980-12-30",
-     "show": "live:grateful-dead:1980-12-30:oakland-auditorium",
-     "venue": "Oakland Auditorium"
+     "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena",
+     "venue": "Oakland Auditorium Arena"
     },
     "recommended": {
      "identifier": "gd1980-12-31.mtx.tobin.105029.flac16",
@@ -1154,195 +1154,504 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 150,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:thank-you-uncle-bobo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Thank You Uncle Bobo!"
      },
      {
       "key": "song:grateful-dead:on-the-road-again",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 22,
+       "total_plays": 44
+      },
       "title": "On The Road Again"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 35,
+       "total_plays": 44
+      },
       "title": "Monkey & The Engineer"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 35,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-12-26",
+        "show": "live:grateful-dead:1980-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 121,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:ive-been-all-around-this-world",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 20,
+       "total_plays": 24
+      },
       "title": "I've Been All Around This World"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 55,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:bird-song",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 91,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:ripple",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-12-06",
+        "show": "live:grateful-dead:1980-12-06:mill-valley-recreation-center"
+       },
+       "plays_before": 41,
+       "total_plays": 48
+      },
       "title": "Ripple"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-12-26",
+        "show": "live:grateful-dead:1980-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 68,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-12-14",
+        "show": "live:grateful-dead:1980-12-14:long-beach-arena"
+       },
+       "plays_before": 134,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-12-26",
+        "show": "live:grateful-dead:1980-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 148,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 23,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster (2)"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 315,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 318,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 217,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 82,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 81,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 80,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 264,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:new-years-countdown",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 366,
+       "gap_shows": 90,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 9
+      },
       "title": "New Years Countdown"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 345,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-12-26",
+        "show": "live:grateful-dead:1980-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-12-26",
+        "show": "live:grateful-dead:1980-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 92,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain (3)"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 155,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:jerry-w-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry w/Drums"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 568,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 238,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 320,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 193,
+       "total_plays": 417
+      },
       "title": "Wharf Rat> (3)"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 220,
+       "total_plays": 425
+      },
       "title": "Around & Around> (3)"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-12-28",
+        "show": "live:grateful-dead:1980-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream (3)"
      },
      {
       "key": "song:grateful-dead:i-cant-get-no",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "I Can't Get No (Satisfaction)"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-12-14",
+        "show": "live:grateful-dead:1980-12-14:long-beach-arena"
+       },
+       "plays_before": 85,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1350,100 +1659,178 @@
      {
       "from": "gd1980-12-31.sbd.tobin.patched.105027.flac16",
       "key": "song:grateful-dead:satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-11-26",
+        "show": "live:grateful-dead:1980-11-26:the-sportatorium"
+       },
+       "plays_before": 1,
+       "total_plays": 32
+      },
       "title": "Satisfaction"
      },
      {
       "from": "gd1980-12-31.aud.anon.motb-0106.104968.flac16",
       "key": "song:grateful-dead:crowd-bob-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd/Bob Story"
      },
      {
       "from": "gd1980-12-31.aud.anon.motb-0106.104968.flac16",
       "key": "song:grateful-dead:crowd-countdown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd/Countdown"
      },
      {
       "from": "gd1980-12-31.aud.anon.motb-0106.104968.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-12-30",
+        "show": "live:grateful-dead:1980-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 244,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1980-12-31.155390.PandP-sbd.gems-tobin.flac16",
       "key": "song:grateful-dead:drums-with-jerry-and-bob",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drums with Jerry and Bob"
      },
      {
       "from": "gd1980-12-31.155424.5-1.tobin.flac1648",
       "key": "song:grateful-dead:jerry-and-bob-with-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry and Bob with Drums"
      },
      {
       "from": "gd1980-12-31.155424.5-1.tobin.flac1648",
       "key": "song:grateful-dead:drusm",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drusm"
      },
      {
       "from": "gd80-12-31.rolfe.vernon.16911.sbeok.shnf",
       "key": "song:grateful-dead:new-years-eve",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "new years eve"
      },
      {
       "from": "gd1980-12-31.nak700.wagner.miller.107822.flac16",
       "key": "song:grateful-dead:midnight-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 366,
+       "gap_shows": 90,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "Midnight Countdown"
      },
      {
       "from": "gd80-12-31.sbd.gorinsky.6391.sbeok.shnf",
       "key": "song:grateful-dead:all-around-this-world",
-      "stats": {},
+      "stats": {
+       "days_since": 62,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1980-10-30",
+        "show": "live:grateful-dead:1980-10-30:radio-city-music-hall"
+       },
+       "plays_before": 6,
+       "total_plays": 7
+      },
       "title": "All Around This World"
      },
      {
       "from": "gd1980-12-31.123336.aud.moore-berger.set3.flac16",
       "key": "song:grateful-dead:countdown",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 731,
+       "gap_shows": 172,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "countdown"
      },
      {
       "from": "gd1980-12-31.123336.aud.moore-berger.set3.flac16",
       "key": "song:grateful-dead:sugar-mongolia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sugar Mongolia"
      }
     ],
     "subject_key": "live:grateful-dead:1980-12-31:oakland-auditorium-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 903,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Thank You Uncle Bobo!",
+      "Jerry w/Drums",
+      "I Can't Get No (Satisfaction)"
+     ],
+     "show_number": 999,
+     "shows_in_archive": 2097,
      "songs": 36,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland Auditorium Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.898206+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.137260+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "ASUFyl_FaeMaAh_OwduMKN-EZ6vTRGiasevUthEDcwFT9lQ_hTYRq9awyKupdm09EUZguiHI7R6PVH5_4OJECQ",
+   "revision": 42,
+   "signature": "4G654FMYwbDnejUn85acrElRktD_a0179sLFkXT9snipY-qnCQd00IgvKsDdOV6LtOL0P0Vq3nRz1nDsIGEjBA",
    "subject_key": "live:grateful-dead:1980-12-31:oakland-auditorium-arena",
-   "updated_at": "2026-10-25T16:41:53.899264"
+   "updated_at": "2026-10-25T17:35:17.138738"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1980-12-31.mtx.tobin.105029.flac16** (recommended): matrix (soundboard mixed with audience mics); 36 songs; 246 min; rated 3.8/5 by 5 [1]. Said about its sound: Reviewer calls the matrix a work of art, praising the mixers' effort; Listener finds the recording smokin' while listening to the third song; Audience noise is so loud that soundboard tracks sound like matrices [16][17][19]\n- **gd1980-12-31.sbd.cousinit.17693.sbefail.shnf**: soundboard; 35 songs; 240 min [3]\n- **gd1980-12-31.155390.PandP-sbd.gems-tobin.flac16**: soundboard; 36 songs; 228 min [6]. Said about its sound: GEMs soundboard ran fast, averaging about 1.2 seconds per minute [6]\n- **gd1980-12-31.155424.5-1.tobin.flac1648**: source not stated; 36 songs; 228 min; rated 5/5 by 1 [7]\n- **gd1980-12-31.nak700.wagner.miller.107822.flac16**: source not stated; 34 songs; 243 min; rated 1.67/5 by 3 [11]. Said about its sound: Acoustic opening set is exceptional, avoiding the usual wash that hurts Phil [26]\n- **gd1980-12-31.GEMS.sbd.108290.flac16**: soundboard; 26 songs; 181 min; rated 5/5 by 1 [14]. Said about its sound: Set two sound is incredible, with newer tunes from 'Go to Heaven' shining [20]\n\n## Around the show\n\n- W. Matt Kelly joined for Little Red Rooster; John Cippolina for Fire On The Mountain [1]\n\n## Tapers and lineage\n\n- **gd1980-12-31.mtx.tobin.105029.flac16**: transferred by Kevin Tobin; source: Matrix mix (SBD/AUD) [1]\n- **gd1980-12-31.sbd.cousinit.17693.sbefail.shnf**: transferred by Cousinit; source: MSR>C [3]. Also: Recording includes segments from Dire Wolf through the first part of To Lay Me Down [3]\n- **gd1980-12-31.155390.PandP-sbd.gems-tobin.flac16**: transferred by Patched and pitch corrected Soundboard by Kevin Tobin; source: Patched and pitch corrected Soundboard [6]. Also: Mixed by an archive user, using GEMs soundboard and removing dead air [6]\n- **gd1980-12-31.155424.5-1.tobin.flac1648**: transferred by 5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin; source: 5.1 LPCM Surround Sound (48k) mixed in Adobe Audition CC 2014 [7]. Also: Mixed by an archive user, with FLAC conversion done on January 23, 2022 [7]\n- **gd1980-12-31.nak700.wagner.miller.107822.flac16**: taped by Bob Wagner; transferred by Charlie Miller; source: (FOB) Nakamichi 700 -> Cassette Master (Sony D5M/TDK SA-X90/Dolby B) [11]. Also: Bob Wagner got in front of the board to capture the difficult venue [26]\n- **gd1980-12-31.GEMS.sbd.108290.flac16**: transferred by Jamie Waddell; source: SBD master cassette > cassette; [14]",

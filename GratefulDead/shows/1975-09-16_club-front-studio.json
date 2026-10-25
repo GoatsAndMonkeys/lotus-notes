@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -114,7 +114,16 @@
     "setlist": [
      {
       "key": "song:grateful-dead:catfish-john",
-      "stats": {},
+      "stats": {
+       "days_since": 258,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Catfish John (take 9)"
      }
     ],
@@ -123,26 +132,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 541,
-     "shows_in_archive": 1855,
+     "show_number": 628,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.680809+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.474338+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "RBxks4ZOUbIB7UgXdbrJ4c4scws5chqSfY7xuDKyLCo8oLrbYxkeyEHZadmxUDLBF9_fUK7hfdu9h5YEicbJCw",
+   "revision": 40,
+   "signature": "zcQdRYyKE5p6YT6BnTSYSM8LGPvpu7GfZDD3qvt-KYslJFafqs0bga_IcP47UzI5hSxvs2dAElAdQNfH1n20Bw",
    "subject_key": "live:grateful-dead:1975-09-16:club-front-studio",
-   "updated_at": "2026-10-25T16:41:48.681754"
+   "updated_at": "2026-10-25T17:35:14.474768"
   }
  },
  "recommended": {

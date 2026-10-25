@@ -307,7 +307,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -384,7 +384,7 @@
     "next": {
      "date": "1978-05-05",
      "show": "live:grateful-dead:1978-05-05:thompson-arena-dartmouth-college",
-     "venue": "Thompson Arena - Dartmouth College"
+     "venue": "Thompson Arena, Dartmouth College"
     },
     "previous": {
      "date": "1978-04-22",
@@ -581,117 +581,301 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 193,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 121,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:staying-alive-tease",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stayin' Alive Tease"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 338,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 174,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 102,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 64,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 168,
+       "total_plays": 360
+      },
       "title": "Brown-eyed Women"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 34,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-22",
+        "show": "live:grateful-dead:1978-04-22:nashville-municipal-auditorium"
+       },
+       "plays_before": 66,
+       "total_plays": 168
+      },
       "title": "Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 75,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-18",
+        "show": "live:grateful-dead:1978-04-18:civic-arena"
+       },
+       "plays_before": 82,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-04-16",
+        "show": "live:grateful-dead:1978-04-16:huntington-civic-center"
+       },
+       "plays_before": 30,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-22",
+        "show": "live:grateful-dead:1978-04-22:nashville-municipal-auditorium"
+       },
+       "plays_before": 184,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-18",
+        "show": "live:grateful-dead:1978-04-18:civic-arena"
+       },
+       "plays_before": 41,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-22",
+        "show": "live:grateful-dead:1978-04-22:nashville-municipal-auditorium"
+       },
+       "plays_before": 355,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 50,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-22",
+        "show": "live:grateful-dead:1978-04-22:nashville-municipal-auditorium"
+       },
+       "plays_before": 214,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-04-14",
+        "show": "live:grateful-dead:1978-04-14:coliseum-virginia-polytechnic-u"
+       },
+       "plays_before": 96,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-19",
+        "show": "live:grateful-dead:1978-04-19:veterans-memorial-hall"
+       },
+       "plays_before": 138,
+       "total_plays": 425
+      },
       "title": "Around//And Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:werewolves-of-london",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-21",
+        "show": "live:grateful-dead:1978-04-21:rupp-arena-lexington-center"
+       },
+       "plays_before": 2,
+       "total_plays": 12
+      },
       "title": "Werewolves of London"
      }
     ],
@@ -699,34 +883,40 @@
      {
       "from": "gd1978-04-24.sbd.mccaw.3296.shnf",
       "key": "song:grateful-dead:drum",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Drum"
      }
     ],
     "subject_key": "live:grateful-dead:1978-04-24:horton-field-house-illinois-state-u",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 680,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Stayin' Alive Tease"
+     ],
+     "show_number": 772,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Horton Field House, Illinois State U."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.884920+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.477553+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "rg36tYhvGhSnMerFU0hjRBIICsciDupBzqK0OGDvYKexZasX8G_5LFz8NXcU2F5IPK74ALehXlUwqod6f0B2Cg",
+   "revision": 39,
+   "signature": "6lWsJlH_uvuQpZMMYm5NdPXKf1ALM-spKTYCMmOSwsMuQbef3riTi74LHkhjwg4CfGsUvuwO4Im7JFV7KghTCQ",
    "subject_key": "live:grateful-dead:1978-04-24:horton-field-house-illinois-state-u",
-   "updated_at": "2026-10-25T16:41:51.888088"
+   "updated_at": "2026-10-25T17:35:15.478332"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Music Never Stopped** (2 reviews): First set features huge versions of Music Never Stopped, Ramble On Rose, and Cassidy; Reviewer calls this the definitive version of the 1970s, closing the first set [11][16]\n- **Werewolves of London** (2 reviews): The encore performance is criticized as an out-of-tune mess; Reviewer identifies this as the worst version of Werewolves of London they have heard [8][15]\n- **Ramble On Rose** (1 review): Bobby lays down a tasty rhythm while Jerry plays with intense energy [8]\n- **Stayin' Alive Tease** (1 review): Reviewer highlights the presence of a Stayin' Alive tease within the first set [7]\n- **Me & My Uncle** (1 review): Bobby delivers almost understated great vocals on this first set tune [12]\n- **Fire on the Mountain** (1 review): Bobby plays dual lead with Jerry, a rare moment of total synchronization [9]\n- **Black Peter** (1 review): A nice bluesy jam exits Black Peter, turning quickly into Around and Around [15]\n\n## The recordings\n\n- **gd78-04-24.sbd.mattman.20605.sbeok.shnf** (recommended): soundboard; 21 songs; 171 min; rated 4.68/5 by 31 [1]\n- **gd1978-04-24.sbd.mccaw.3296.shnf**: soundboard; 20 songs; 168 min; rated 4.77/5 by 13 [2]. Said about its sound: The recording is praised for its clarity and fullness, setting it apart from others [18]\n- **gd1978-04-24.sbd.miller.32899.flac16**: soundboard; 21 songs; 168 min; rated 4.62/5 by 8 [4]. Said about its sound: The source recording does not have any noise reduction applied to it [4]\n- **gd1978-04-24.sbd.miller.97543.sbeok.flac16**: soundboard; 21 songs; 172 min; rated 4.67/5 by 21 [3]\n\n## Around the show\n\n- Bob and Donna goof off before the time change, described as really fun [7]\n- Bobby plays aggressively with two lead guitars, prompting Jerry to compete intensely [17]\n- A Stayin' Alive tease occurs within the Big River performance [3]\n- Reviewer claims this performance is better than any famous 1977 Scarlet-Fire versions [10]\n- Reviewer considers the transition to Fire on the Mountain comparable to May 8, 1977 [12]\n- Reviewer suggests this Fire might be superior to the February 5, 1978 performance [17]\n\n## Tapers and lineage\n\n- **gd78-04-24.sbd.mattman.20605.sbeok.shnf**: source: Soundboard [1]\n- **gd1978-04-24.sbd.mccaw.3296.shnf**: transferred by Mike McCaw; source: MR>?>R>D>Digi96>Soundforge>CDWAV>SHN [2]. Also: Transferred directly from a 1979 DBX encoded reel to DAT, then Digi96 card to hard disk [2]\n- **gd1978-04-24.sbd.miller.32899.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat -> Cassette -> Dat -> CD [4]\n- **gd1978-04-24.sbd.miller.97543.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat (44.1k) [3]\n\n## Art and photos\n\n- Poster by RareVinyl.com: [Grateful Dead Dave's Picks Volume 7: Horton Field House, Illinois State, Normal, IL 4/24/78 2013 US 3-CD set](https://eu.rarevinyl.com/products/grateful-dead-dave-s-picks-volume-7-horton-field-house-illinois-state-normal-il-4-24-78-us-3-cd-album-triple-set-r2532997-790401?view=product-cro-06) [20]\n- Poster by RareVinyl.com: [Grateful Dead Dave's Picks Volume 7: Horton Field House, Illinois State, Normal, IL 4/24/78 2013 US 3-CD set](https://uk.rarevinyl.com/products/grateful-dead-dave-s-picks-volume-7-horton-field-house-illinois-state-normal-il-4-24-78-us-3-cd-album-triple-set-r2532997-790401) [21]\n- Poster by KINGKONG: [Grateful Dead – Dave's Picks, Volume 7 (Horton Field House, Illinois State, Normal, IL • 4/24/78) ■YMR■ | KINGKONG power](https://kkrecords.buyshop.jp/items/74742200) [22]\n- Poster by Ella Jahraus All: [The music never stopped: 50-plus years of campus concerts](https://news.illinoisstate.edu/2023/11/the-music-never-stopped/) [23]",

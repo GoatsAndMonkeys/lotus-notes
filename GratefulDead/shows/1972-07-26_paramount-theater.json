@@ -265,7 +265,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -489,152 +489,417 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 99,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 37,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 47,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 56,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 67,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 161,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 163,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 59,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 60,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 107,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 201,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 21,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 15,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 202,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 22,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 35,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told//"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 44,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-07-18",
+        "show": "live:grateful-dead:1972-07-18:roosevelt-stadium"
+       },
+       "plays_before": 138,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 211,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-07-18",
+        "show": "live:grateful-dead:1972-07-18:roosevelt-stadium"
+       },
+       "plays_before": 138,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-07-21",
+        "show": "live:grateful-dead:1972-07-21:paramount-northwest-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 33,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 104,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 5,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 135,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 93,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 135,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:one-more-saturday",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "One More Saturday"
      }
     ],
@@ -642,40 +907,60 @@
      {
       "from": "gd72-07-26.sbd.clugston.1411.sbeok.shnf",
       "key": "song:grateful-dead:mexican-hat-dance-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1972-04-17",
+        "show": "live:grateful-dead:1972-04-17:tivoli-gardens"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Mexican Hat Dance Tuning"
      },
      {
       "from": "gd72-07-26.sbd.clugston.1411.sbeok.shnf",
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 53,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
     "subject_key": "live:grateful-dead:1972-07-26:paramount-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 365,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "One More Saturday"
+     ],
+     "show_number": 438,
+     "shows_in_archive": 2097,
      "songs": 30,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Paramount Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.679022+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.616504+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "VRu13SkgYCUCwqeBuz_BtuoRDCFJfsDqoTywdbB3-ck86J_FCzXw4-OZbeQ4DhuyV8NhMSIxKindCuvxGXlwCw",
+   "revision": 43,
+   "signature": "DhdDaxoWhnccJu3YJ64coq8zBjZc_1GBNUFt0M3-i3WmzUBJ1EXVj-KwEOMS-_E6Z22M8BTIlROWTflOSnJEAQ",
    "subject_key": "live:grateful-dead:1972-07-26:paramount-theater",
-   "updated_at": "2026-10-25T16:41:44.680426"
+   "updated_at": "2026-10-25T17:35:12.618044"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (2 reviews, 1 other source): Recommended especially for the Dark Star into Comes a Time stretch; Reviewer finds the Dark Star beautiful [4][5][12]\n- **Greatest Story Ever Told//** (1 review): This version has the complete song; the alternate source cut out mid-jam [14]\n- **Comes A Time** (1 review): Reviewer describes a profound, psychedelic-aided listening experience beginning at Dark Star and culminating in Comes a Time [10]\n\n## The recordings\n\n- **gd72-07-26.sbd.popi.8957.sbeok.shnf** (recommended): soundboard; 30 songs; 229 min; rated 4.56/5 by 18 [1]. Said about its sound: Reviewer finds Jerry's voice smooth and the show mellow, relaxed listening for a morning [13]\n- **gd72-07-26.sbd.clugston.1411.sbeok.shnf**: soundboard; 29 songs; 230 min; rated 4.31/5 by 13 [2]. Said about its sound: Reviewer finds the sound clean and good; Vocal mix is too far forward; harmonies bury the instruments, making it hard for this reviewer to listen; Reviewer says the tape speed runs slightly slow, which makes Jerry sound off [5][9][12][14][16]\n- **gd1972-07-26.sbd-patched.long.34803.flac16**: soundboard; 28 songs; 230 min; rated 2.67/5 by 3 [4]\n- **gd1972-07-26.sbd.GEMS.87034.flac16**: soundboard; 28 songs; 231 min; rated 4.57/5 by 7 [3]\n\n## Around the show\n\n- Reviewer recalls the Portland Paramount show while reflecting on digital sharing replacing worn, many-generations-removed cassette copies [7]\n- This was the second of two Paramount Theater shows in Portland, Oregon [19]\n- Reviewer hesitates to give five stars because many great European and fall tour shows exist [8]\n\n## Tapers and lineage\n\n- **gd72-07-26.sbd.popi.8957.sbeok.shnf**: transferred by Seth Kaplan and Popi; source: Soundboard [1]. Also: Missing He's Gone from the original md5 set was patched, probably with a re-extraction of the Clugston seed [1]\n- **gd72-07-26.sbd.clugston.1411.sbeok.shnf**: source: Master Soundboard Reel [2]. Also: Chain: master soundboard reel to PCM to DAT to ZA2 to two CDR generations; DAT seed via Jeff Tiedrich [2]\n- **gd1972-07-26.sbd-patched.long.34803.flac16**: transferred by Andrew Long; source: MR > PCM > DAT > CD > EAC > SHN [4]. Also: Greatest Story was patched from an alternate soundboard source and brightened with iZotope Ozone to match the primary; Primary patch source is shnid 1411; He's Gone was already patched from an alternate source [4]\n- **gd1972-07-26.sbd.GEMS.87034.flac16**: taped by DAT from Todd Evans; transferred by Jamie Waddell; source: MR -> DAT (the DAT is 16-bit; 44.1kHz which could indicate MR->PCM->DAT) [3]",

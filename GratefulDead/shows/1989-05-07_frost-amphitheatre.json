@@ -402,7 +402,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -477,8 +477,8 @@
     "guests": [],
     "next": {
      "date": "1989-05-27",
-     "show": "live:grateful-dead:1989-05-27:oakland-alameda-county-coliseum-stadium",
-     "venue": "Oakland-Alameda County Coliseum Stadium"
+     "show": "live:grateful-dead:1989-05-27:oakland-alameda-county-stadium",
+     "venue": "Oakland-Alameda County Stadium"
     },
     "previous": {
      "date": "1989-05-06",
@@ -795,115 +795,306 @@
     "setlist": [
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-04-30",
+        "show": "live:grateful-dead:1989-04-30:irvine-meadows"
+       },
+       "plays_before": 116,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-04-28",
+        "show": "live:grateful-dead:1989-04-28:irvine-meadows"
+       },
+       "plays_before": 205,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-04-17",
+        "show": "live:grateful-dead:1989-04-17:metropolitan-sports-center"
+       },
+       "plays_before": 340,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-04-09",
+        "show": "live:grateful-dead:1989-04-09:freedom-hall"
+       },
+       "plays_before": 569,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-04-16",
+        "show": "live:grateful-dead:1989-04-16:the-mecca"
+       },
+       "plays_before": 403,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:built-to-last",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-04-29",
+        "show": "live:grateful-dead:1989-04-29:irvine-meadows"
+       },
+       "plays_before": 11,
+       "total_plays": 21
+      },
       "title": "Built To Last"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-04-30",
+        "show": "live:grateful-dead:1989-04-30:irvine-meadows"
+       },
+       "plays_before": 3,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-04-28",
+        "show": "live:grateful-dead:1989-04-28:irvine-meadows"
+       },
+       "plays_before": 231,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-04-13",
+        "show": "live:grateful-dead:1989-04-13:rosemont-horizon"
+       },
+       "plays_before": 26,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-04-17",
+        "show": "live:grateful-dead:1989-04-17:metropolitan-sports-center"
+       },
+       "plays_before": 26,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-04-28",
+        "show": "live:grateful-dead:1989-04-28:irvine-meadows"
+       },
+       "plays_before": 68,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-04-09",
+        "show": "live:grateful-dead:1989-04-09:freedom-hall"
+       },
+       "plays_before": 123,
+       "total_plays": 182
+      },
       "title": "Man Smart-Woman Smarter"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-04-29",
+        "show": "live:grateful-dead:1989-04-29:irvine-meadows"
+       },
+       "plays_before": 251,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:spoonful-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1779,
+       "gap_shows": 358,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "Spoonful Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-05-06",
+        "show": "live:grateful-dead:1989-05-06:frost-amphitheatre"
+       },
+       "plays_before": 1159,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-05-06",
+        "show": "live:grateful-dead:1989-05-06:frost-amphitheatre"
+       },
+       "plays_before": 819,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-04-29",
+        "show": "live:grateful-dead:1989-04-29:irvine-meadows"
+       },
+       "plays_before": 496,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1989-04-08",
+        "show": "live:grateful-dead:1989-04-08:riverfront-arena"
+       },
+       "plays_before": 301,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-04-29",
+        "show": "live:grateful-dead:1989-04-29:irvine-meadows"
+       },
+       "plays_before": 245,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:teddy-bears-picnic",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1284,
+       "gap_shows": 264,
+       "last_played": {
+        "date": "1985-10-31",
+        "show": "live:grateful-dead:1985-10-31:carolina-coliseum-u-of-south-carolina"
+       },
+       "plays_before": 3,
+       "total_plays": 4
+      },
       "title": "Teddy Bear’s Picnic (midi tuning)"
      },
      {
       "key": "song:grateful-dead:knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-04-17",
+        "show": "live:grateful-dead:1989-04-17:metropolitan-sports-center"
+       },
+       "plays_before": 36,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      }
     ],
@@ -911,208 +1102,357 @@
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t01 Crowd"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t02-iko-iko",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t02 Iko Iko"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t03-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t03 Little Red Rooster"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t04-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t04 Bertha"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t05-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t05 Me & My Uncle"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t06-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t06 Mexicali Blues"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t07-built-to-last",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t07 Built To Last"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t08-picasso-moon",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t08 Picasso Moon"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t09-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t09 Bird Song"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t10-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t10 Crowd"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t11-foolish-heart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t11 Foolish Heart"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t12-victim-or-the-crime",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t12 Victim Or The Crime"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t13-crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t13 Crazy Fingers"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t14-man-smart",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t14 Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t15-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t15 He's Gone"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t16-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t16 Drums"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t17-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t17 Space"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t18-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t18 The Other One"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t19-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t19 Black Peter"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t20-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t20 Turn On Your Lovelight"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t21-encore",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t21 Encore"
      },
      {
       "from": "gd1989-05-07.142356.fob.schoeps.cmc4.mk2.mattes.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd89-05-07-t22-knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-05-07 t22 Knockin' On Heavens Door"
      },
      {
       "from": "gd89-05-07.dsbd.stephens.10978.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-04-09",
+        "show": "live:grateful-dead:1989-04-09:freedom-hall"
+       },
+       "plays_before": 442,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd89-05-07.dsbd.stephens.10978.sbeok.shnf",
       "key": "song:grateful-dead:other-one-theme-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Other One Theme Space"
      },
      {
       "from": "gd89-05-07.dsbd.stephens.10978.sbeok.shnf",
       "key": "song:grateful-dead:outtro",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Outtro"
      },
      {
       "from": "gd1989-05-07.141609.sbd.miller.flac2496",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-04-09",
+        "show": "live:grateful-dead:1989-04-09:freedom-hall"
+       },
+       "plays_before": 135,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1989-05-07.sbd.af.3864.shnf",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-04-17",
+        "show": "live:grateful-dead:1989-04-17:metropolitan-sports-center"
+       },
+       "plays_before": 74,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "from": "gd1989-05-07.sbd.af.3864.shnf",
       "key": "song:grateful-dead:black-peter-continued",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Black Peter Continued"
      },
      {
       "from": "gd89-05-07.sbd.gardner.3329.sbefail.shnf",
       "key": "song:grateful-dead:other-one-space",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 872,
+       "gap_shows": 205,
+       "last_played": {
+        "date": "1986-12-17",
+        "show": "live:grateful-dead:1986-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 11,
+       "total_plays": 12
+      },
       "title": "The Other One Space"
      },
      {
       "from": "gd1989-05-07.118277.SonicStudioDSM-1Sx.d5scott.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-04-09",
+        "show": "live:grateful-dead:1989-04-09:freedom-hall"
+       },
+       "plays_before": 131,
+       "total_plays": 187
+      },
       "title": "Woman Are Smarter"
      }
     ],
     "subject_key": "live:grateful-dead:1989-05-07:frost-amphitheatre",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Spoonful Jam",
+      "Teddy Bear’s Picnic (midi tuning)"
+     ],
      "first_in_archive": [],
-     "show_number": 1509,
-     "shows_in_archive": 1855,
+     "show_number": 1614,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Frost Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 26,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:09.445148+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.396775+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "SXZ2uijRvrzO14WGCem8gwEUKvIoMcezZ66HoGX5Uqmzvw7sBjT87gPz6nyngNZ5by5skd_EGDzlQqTmXKwNDA",
+   "revision": 27,
+   "signature": "YBYDZRTylAtM-atN1QS5InxwB7x0soBzHKvLZwuNVwKwUAudhxgj2H55BRUS1MKUfB5uoJX5UOv7EIBUYdOiCA",
    "subject_key": "live:grateful-dead:1989-05-07:frost-amphitheatre",
-   "updated_at": "2026-10-25T16:42:09.449346"
+   "updated_at": "2026-10-25T17:35:24.398069"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Other One** (3 reviews): Healy altered microphone sounds for this song, a common late-80s practice; Space section is described as melty, liquidy, and cool before the midi [11][12][19]\n- **Iko Iko** (2 reviews): Listener describes the opening number as having a kick-ass delivery; Jerry nails the second solo, with vocals giving chills [12][22]\n- **Picasso Moon** (1 review): Reviewer calls this version the worst Picasso Moon performance ever recorded [11]\n- **Bird Song** (1 other source): Uploader notes a really nice set one closer performance [1]\n- **Foolish Heart** (1 review): Friend recommended this version, which the listener considers a great take [14]\n\n## The recordings\n\n- **gd1989-05-07.140949.AA-toaK1-416-flac2448** (recommended): audience recording; 21 songs; 154 min; rated 5/5 by 1 [1]\n- **gd89-05-07.dsbd.stephens.10978.sbeok.shnf**: source not stated; 22 songs; 151 min; rated 4.2/5 by 10 [3]. Said about its sound: Listener praises the sound quality of this specific recording; Listener loves the balanced sound of this board; Recording sprouts legs and crawls along foggy, steamy terrain with wild vibes [14][17][18][19]\n- **gd1989-05-07.sbd.owenbros-tetzeli.fix-3329.34771.reflac.flac16**: soundboard; 19 songs; 151 min [8]\n- **gd1989-05-07.sennme80.wklitz.watson.99567.flac16**: source not stated; 19 songs; 136 min; rated 4.17/5 by 6 [10]. Said about its sound: Clear, upfront sound with amazingly nice bass from the OTS; Slight panning or adjustment happens during Iko Iko [21]\n\n## Around the show\n\n- Listener felt magic flowing from the band on this specific night [15]\n- Band members, especially Jerry, Phil, and drummers, showed great energy [17]\n- Pass is from that night, not May 6, 1989 [24]\n- This soundboard is leagues better than the other source with speaker imbalance [16]\n- This audience recording far surpasses the soundboard version [22]\n- 1988 recordings were much better and used only Toa K1 microphones [1]\n\n## Tapers and lineage\n\n- **gd1989-05-07.140949.AA-toaK1-416-flac2448**: taped by Archival Audio; transferred by Archival Audio; source: Recorded and Mastered by ArchivalAudio, Ian Stoy; Master Audience cassette: Toa K1’s spaced about 30” (Pointed At The Stacks) + Sennheiser 416’s (or Sennheiser… [1]. Also: Tape recorded using a Sony MX-12 mixer, likely grey market [1]\n- **gd89-05-07.dsbd.stephens.10978.sbeok.shnf**: source: DSBD > DAT [3]\n- **gd1989-05-07.sbd.owenbros-tetzeli.fix-3329.34771.reflac.flac16**: transferred by Bill Tetzeli; source: Fix of shnid 3329 [8]. Also: Tuning track merged with d1t10; shntool fixed sector boundaries on CD2; First two songs of set II moved to CD1 for fit [8]\n- **gd1989-05-07.sennme80.wklitz.watson.99567.flac16**: taped by Keith Litzenberger; transferred by M. Watson; source: (ots) Sennheiser ME-80-> Marantz PMD-430 (Dolby B)-> Sony UX-S 90 x2 [10]. Also: Keith taped and M. Watson transferred the cassette to digital accurately [21]\n\n## Art and photos\n\n- Poster by Kirsten Michel: [1989-05-07 Frost Amphitheatre, Palo Alto, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1989-05-07-frost-amphitheatre-palo-alto-ca-usa/) [25]\n- Poster by thecurtainwithblog.blogspot.com: [Grateful Dead - 1989-05-07 Rex Foundation Benefit - Frost Amphitheatre, Palo Alto, CA](https://thecurtainwithblog.blogspot.com/2018/04/grateful-dead-1989-05-07-rex-foundation.html) [26]\n- Poster by www.amazon.co.uk: [Frost Amphitheatre, Palo Alto, California May 7 1989: Amazon.co.uk: CDs & Vinyl](https://www.amazon.co.uk/Frost-Amphitheatre-Palo-Alto-California/dp/B01M9IPJXN) [27]",

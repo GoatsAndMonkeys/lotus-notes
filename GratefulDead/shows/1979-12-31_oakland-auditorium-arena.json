@@ -567,7 +567,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1123,132 +1123,366 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 266,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-12-10",
+        "show": "live:grateful-dead:1979-12-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 64,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 176,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 235,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 239,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 184,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 15,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 235,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:midnight-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 81,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Midnight countdown"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 317,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 286,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 289,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 144,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-11",
+        "show": "live:grateful-dead:1979-12-11:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 85,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 29,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 225,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-11",
+        "show": "live:grateful-dead:1979-12-11:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 21,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 144,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 154,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 482,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 155,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 264,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1979-12-04",
+        "show": "live:grateful-dead:1979-12-04:uptown-theater"
+       },
+       "plays_before": 108,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 25,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 246,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      }
     ],
@@ -1256,31 +1490,74 @@
      {
       "from": "gd1979-12-31.144796.fob.sony.ecm270.severson.miller.clugston.flac2496",
       "key": "song:grateful-dead:new-years-countdown",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 730,
+       "gap_shows": 168,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 9
+      },
       "title": "New Year's Countdown"
      },
      {
       "from": "gd1979-12-31.sonyecm-walker.walker-scotton-miller.88768.flac16",
       "key": "song:grateful-dead:new-years-eve-countdown",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 730,
+       "gap_shows": 168,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "New Year's Eve Countdown"
      },
      {
       "from": "gd1979-12-31.sonyecm-walker.walker-scotton-miller.88768.flac16",
       "key": "song:grateful-dead:bill-graham",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2109,
+       "gap_shows": 340,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Bill Graham"
      },
      {
       "from": "gd1979-12-31.172201.nak700.menke.miller.clugston.flac2496",
       "key": "song:grateful-dead:pa-new-years-countdown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "PA / New Year's Countdown"
      },
      {
       "from": "gd79-12-31.sbd.hinko.17281.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 115,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
@@ -1288,26 +1565,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 812,
-     "shows_in_archive": 1855,
+     "show_number": 908,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland Auditorium Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 16,
+   "parent_revision": 28,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.226057+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.386836+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 17,
-   "signature": "OZsQCaXY_nUWMN-X_l11L8rgMbcMjAHVbt_nOUd0kFPwzq4hcVLf4G_orsr6gIPZ7wd-n6q7LQ22-9oYLkCHDA",
+   "revision": 29,
+   "signature": "2e6DlnTQV17prpPvfz_PnaL59_5q4adKbIQ7SNk1l5t9PDGqFko1DyMJFnNQQlWIBK5dS3JE3jtm1YxTAvVhDA",
    "subject_key": "live:grateful-dead:1979-12-31:oakland-auditorium-arena",
-   "updated_at": "2026-10-25T16:41:53.227405"
+   "updated_at": "2026-10-25T17:35:16.388069"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (2 reviews): Jerry plays the opening Jack Straw with an aggressive attack, signaling a hot night; Strong opener, described as intense and lyrical [21][28]\n- **Franklin's Tower** (2 reviews): Jerry is shaky, perhaps getting only three verses right, and Bobby steps in on mic to rescue it; Jerry forgets nearly all the words [26][27]\n- **I Know You Rider** (1 review): The China Cat into Rider was a nice surprise and a highlight for the reviewer [27]\n- **New Minglewood Blues** (1 review): A third set started with Althea, and Minglewood in that set struck the reviewer as odd [22]\n- **Uncle John's Band** (1 review): Brought back during this run after a couple of years unplayed, but played on three of five nights [22]\n- **Not Fade Away** (1 other source): Not Fade Away, Stella Blue and Sunshine Daydream are marked with an asterisk in the notes; encore was Good Lovin' [1]\n- **Stella Blue** (1 review): Reviewer's personal favorite; played tremendously [28]\n\n## The recordings\n\n- **gd79-12-31.rolfe.vernon.18589.sbeok.shnf** (recommended): audience recording; 26 songs; 220 min; rated 4.25/5 by 8 [1]. Said about its sound: Excellent audience recording balancing crowd energy and playing; during Stella Blue it feels like standing on the arena floor; Fine audience recording by Steve Rolfe, consistent with his other audience tapes from late 1979; Audience tape captures the feeling of being in the room; the reviewer calls it stellar [18][20][21]\n- **gd1979-12-31.144796.fob.sony.ecm270.severson.miller.clugston.flac2496**: audience recording; 26 songs; 225 min [2]\n- **gd1979-12-31.sonyecm-walker.walker-scotton-miller.88768.flac16**: source not stated; 27 songs; 221 min; rated 3.71/5 by 7 [4]. Said about its sound: Fine audience recording by Joani Walker; Phil's big bass notes are captured superbly [25]\n- **gd1979-12-31.154882.akg.se5.wiseman.miller.clugston.flac2496**: audience recording; 26 songs; 209 min [7]\n- **gd79-12-31.sbd.hinko.17281.sbeok.shnf**: matrix (soundboard mixed with audience mics); 24 songs; 207 min; rated 3.5/5 by 8 [12]. Said about its sound: Sounds somewhat fuzzy for a soundboard-sourced matrix recording, falling short of the reviewer's expectations; Matrix sound is only okay [17][23]\n\n## Around the show\n\n- The West Coast crowd is attentive rather than rowdy; there are some vocal flubs in the performance [18]\n- Some minor vocal flubs and messy playing, but the band sounds like they're having fun jamming [21]\n- Reviewer held a ticket but missed the New Year's Eve show due to a bad case of flu [25]\n- Balloon pops and hand claps are heard throughout, especially at the start of the second set, as typical of New Year's [2]\n- John Cipollina plays guitar on Not Fade Away, Stella Blue and Sunshine Daydream [2]\n- Reviewer, who attended the run, found this the least inspired night; the second night was remembered as the hottest [22]\n- Three sets with unusual transitions and songs rarely played that year, but the show itself is far from excellent [23]\n- First and second sets are fairly well played but uninspired; band neither dazzles nor disappoints [25]\n- Reviewer felt the band had an off night with low energy throughout, despite New Year's Eve [27]\n\n## Tapers and lineage\n\n- **gd79-12-31.rolfe.vernon.18589.sbeok.shnf**: taped by Steve Rolfe; source: Audience Recording [1]. Also: Recorded by Steve Rolfe on Nakamichi 700s via Dave Minor, then to D5, DAT and CDR; encoded and patched by Matt Vernon [1]\n- **gd1979-12-31.144796.fob.sony.ecm270.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master (FOB) Audience Cassettes; Sony ECM-270 mics (stand mounted, 35' from stage, several feet left of the free throw circle)> Sony TC-D5… [2]\n- **gd1979-12-31.sonyecm-walker.walker-scotton-miller.88768.flac16**: taped by Joani Walker; transferred by Charlie Miller; source: Sony ECM-250 -> Cassette Master (Sony TC-158/Maxell UDXL-II90) [4]. Also: Walker and Scotton tapes; the Rolfe Nakamichi 700 CD source supplies patches, including a seamless disc change between Set 3 and encore [4]\n- **gd1979-12-31.154882.akg.se5.wiseman.miller.clugston.flac2496**: taped by Scott Wiseman; transferred by Scott Clugston and Charlie Miller; source: Scott Wiseman's Master Audience Cassettes; AKG SE-5E mics with CE-1 cardioid capsules > Sony TC-D5 (Maxell UDXLII 90) [7]\n- **gd79-12-31.sbd.hinko.17281.sbeok.shnf**: source: Soundboard [12]. Also: Matrix source; the full show fits on three discs by combining disc 3 track 2 through disc 4 track 4 [17]",

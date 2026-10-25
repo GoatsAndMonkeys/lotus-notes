@@ -415,7 +415,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -850,133 +850,353 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 139,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 173,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 131,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 168,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 28,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 212,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 27,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 121,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 141,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 143,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 86,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 220,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:phil-and-ned",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-18",
+        "show": "live:grateful-dead:1974-09-18:parc-des-expositions"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "Phil And Ned"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 136,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 24,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 74,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 70,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 119,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 26,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 220,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 138,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 137,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-18",
+        "show": "live:grateful-dead:1974-09-18:parc-des-expositions"
+       },
+       "plays_before": 91,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:happy-birthday-bobby",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Happy Birthday Bobby"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-20",
+        "show": "live:grateful-dead:1974-09-20:palais-des-sports"
+       },
+       "plays_before": 34,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -984,76 +1204,120 @@
      {
       "from": "gd74-10-16.sbd-patched.unknown.222.fails-md5.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-band-start",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playing In The Band - Start"
      },
      {
       "from": "gd74-10-16.sbd-patched.unknown.222.fails-md5.sbeok.shnf",
       "key": "song:grateful-dead:playing-in-the-band-finish",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Playing In The Band - Finish"
      },
      {
       "from": "gd1974-10-16.176619.sony.ecm250.falanga.menke.miller.clugston.flac2496",
       "key": "song:grateful-dead:seastones",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-21",
+        "show": "live:grateful-dead:1974-09-21:palais-des-sports"
+       },
+       "plays_before": 15,
+       "total_plays": 19
+      },
       "title": "Seastones (Phil & Ned)"
      },
      {
       "from": "gd1974-10-16.131539.mtx.dusborne.flac16",
       "key": "song:grateful-dead:deal-aud",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Deal**(AUD"
      },
      {
       "from": "gd74-10-16.sbd.fishman.12577.sbeok.shnf",
       "key": "song:grateful-dead:phils-happy-birthday",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phils Happy Birthday"
      },
      {
       "from": "gd74-10-16.sbd.fishman.12577.sbeok.shnf",
       "key": "song:grateful-dead:deep-meditative-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Deep Meditative Space"
      },
      {
       "from": "gd74-10-16.sbd.fishman.12577.sbeok.shnf",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 23,
+       "total_plays": 115
+      },
       "title": "Going Down the Road"
      },
      {
       "from": "gd1974-10-16.137663.set2.aud.smith.sirmick.sbeok.flac16",
       "key": "song:grateful-dead:encore-break-happy-birthday-bobby-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "encore break/Happy Birthday Bobby/tuning"
      }
     ],
     "subject_key": "live:grateful-dead:1974-10-16:winterland-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 516,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Happy Birthday Bobby"
+     ],
+     "show_number": 599,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.339426+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.319127+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "3CY_O50eHmdVwEX6nk25o4ozz9PoLFHUdYumCz7gYsgTFViczAXxVkdJsInzUjFoin-yqDT5OjMxDimNC1e8Cg",
+   "revision": 43,
+   "signature": "7lzAqTXGiOef1nWIJPbU3g4hXAfrihWxzvsCOMCw0ANN2fh0yeqpqmk8UQ_-9qmYkSaucrkIfq0VEZnuZjgpAA",
    "subject_key": "live:grateful-dead:1974-10-16:winterland-arena",
-   "updated_at": "2026-10-25T16:41:48.343647"
+   "updated_at": "2026-10-25T17:35:14.320488"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mexicali Blues** (1 review): Jerry starts laying fills and alternating riffs, while Phil goes hyperactive [20]\n\n## The recordings\n\n- **gd1974-10-16.131539.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 252 min; rated 5/5 by 2 [1]\n- **gd1974-10-16.sbd.patched.eaton-miller.90145.sbeok.flac16**: soundboard; 25 songs; 249 min; rated 4.25/5 by 4 [2]. Said about its sound: Audience noise is drowned out by the loud music, making the recording good [21]\n- **gd1974-10-16.176619.sony.ecm250.falanga.menke.miller.clugston.flac2496**: audience recording; 25 songs; 235 min [5]\n- **gd1974-10-16.fob.sonyecm250.falenga.motb-0131.107036.flac16**: source not stated; 25 songs; 234 min; rated 3.25/5 by 4 [7]. Said about its sound: Reviewer's audible singing is captured in the first three or four tracks [11]\n\n## Around the show\n\n- Reviewer stood near Louis Falenga, who gestured for silence during the first few songs [11]\n- Reviewer attended four of the five nights, noting all venues were packed [14]\n- Ned Lagin plays electric piano and synthesizer for the Seastones performance [5]\n- Reviewer prefers the soundboard over this audience recording, despite the latter's tolerable quality [14]\n- The album's Ship of Fools is from this night, not October 18, due to electric piano [19]\n- This concert has the best Second Set of the five-day run, despite being the odd one out [20]\n- Reviewer prefers the audience recording because Bob's guitar is inaudible on the soundboard [21]\n\n## Tapers and lineage\n\n- **gd1974-10-16.131539.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by Dusborne; Soundboard (shnid:90145) Recording Info: SBD -> Master Reel -> Dat (44.1k); Transfer Info: Dat (Sony R500) -> SEK'D Prodif Plus ->… [1]\n- **gd1974-10-16.sbd.patched.eaton-miller.90145.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) D [2]. Also: Lineage confirmed accurate; patches from AUD, multitrack, and master reel sources included [2]\n- **gd1974-10-16.176619.sony.ecm250.falanga.menke.miller.clugston.flac2496**: taped by Louis Falanga; transferred by Bob Menke, Charlie Miller, Scott Clugston; source: Louis Falanga's Master Audience Cassettes; Sony ECM 250 mic > Sony TC-110 (Maxell UD C120) [5]\n- **gd1974-10-16.fob.sonyecm250.falenga.motb-0131.107036.flac16**: taped by Louis Falanga; transferred by Bob Menke and David Minches and Derek McCabe; source: Sony ECM 250 >> Sony 110 (mono) >> MAC [7]",

@@ -97,7 +97,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -112,9 +112,9 @@
     "date": "1969-04-17",
     "guests": [],
     "next": {
-     "date": "1969-04-20",
-     "show": "live:grateful-dead:1969-04-20:clark-university",
-     "venue": "Clark University"
+     "date": "1969-04-18",
+     "show": "live:grateful-dead:1969-04-18:purdue-university",
+     "venue": "Purdue University"
     },
     "previous": {
      "date": "1969-04-15",
@@ -161,57 +161,147 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 4,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 28,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-04-13",
+        "show": "live:grateful-dead:1969-04-13:ballroom-u-of-co"
+       },
+       "plays_before": 40,
+       "total_plays": 64
+      },
       "title": "Good Morning Little Schoolgirl"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 53,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 47,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:i-know-its-a-sin",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-04-11",
+        "show": "live:grateful-dead:1969-04-11:university-auditorium-u-arizona"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "I Know It's a Sin"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 47,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-15",
+        "show": "live:grateful-dead:1969-04-15:the-music-box"
+       },
+       "plays_before": 47,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:thats-it-for-the-other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-04-06",
+        "show": "live:grateful-dead:1969-04-06:avalon-ballroom"
+       },
+       "plays_before": 33,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1969-03-02",
+        "show": "live:grateful-dead:1969-03-02:fillmore-west"
+       },
+       "plays_before": 34,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop On Tracks)"
      }
     ],
@@ -220,26 +310,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 111,
-     "shows_in_archive": 1855,
+     "show_number": 133,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Washington University"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.195010+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.854578+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "U_wGLQ35zuyniNemR3ceAKdXLPfeebI-4xJPEpTKk3eZRT5iJtmm5f-3Y1PzmcoHlX_9w3vKRJYk1V7RQPtaDw",
+   "revision": 40,
+   "signature": "3gkfrNlWqTd1trWxcQgPguFakHuKy4teQn28YrW5jQO1o0YqNdyL3n9hZU_RxaVcjbcxbZKjm3jSwqfCE2JgAg",
    "subject_key": "live:grateful-dead:1969-04-17:washington-university",
-   "updated_at": "2026-10-25T16:41:39.195624"
+   "updated_at": "2026-10-25T17:35:09.855195"
   }
  },
  "recommended": {

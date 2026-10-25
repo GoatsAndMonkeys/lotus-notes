@@ -418,7 +418,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -535,14 +535,14 @@
     "date": "1995-06-25",
     "guests": [],
     "next": {
-     "date": "1995-06-30",
-     "show": "live:grateful-dead:1995-06-30:three-rivers-stadium",
-     "venue": "Three Rivers Stadium"
+     "date": "1995-06-27",
+     "show": "live:grateful-dead:1995-06-27:the-palace",
+     "venue": "The Palace"
     },
     "previous": {
-     "date": "1995-06-21",
-     "show": "live:grateful-dead:1995-06-21:knickerbocker-arena",
-     "venue": "Knickerbocker Arena"
+     "date": "1995-06-24",
+     "show": "live:grateful-dead:1995-06-24:robert-f-kennedy-stadium",
+     "venue": "Robert F. Kennedy Stadium"
     },
     "recommended": {
      "identifier": "gd1995-06-25.121122.nak300.dunbar-graves.flac1648",
@@ -854,113 +854,303 @@
     "setlist": [
      {
       "key": "song:grateful-dead:it-takes-a-lot-to-laugh-it-takes-a-train-to-cry",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1196,
+       "gap_shows": 251,
+       "last_played": {
+        "date": "1992-03-16",
+        "show": "live:grateful-dead:1992-03-16:the-spectrum"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "It Takes A Lot to Laugh, It Takes A Train to Cry"
      },
      {
       "key": "song:grateful-dead:rainy-day-women-12-and-35",
-      "stats": {},
+      "stats": {
+       "days_since": 251,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1994-10-17",
+        "show": "live:grateful-dead:1994-10-17:madison-square-garden"
+       },
+       "plays_before": 3,
+       "total_plays": 4
+      },
       "title": "Rainy Day Women 12 & 35"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 175,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 99,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1995-05-29",
+        "show": "live:grateful-dead:1995-05-29:portland-meadows"
+       },
+       "plays_before": 126,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 311,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1995-06-04",
+        "show": "live:grateful-dead:1995-06-04:shoreline-amphitheatre"
+       },
+       "plays_before": 451,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 98,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1995-05-19",
+        "show": "live:grateful-dead:1995-05-19:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 80,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 162,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:rain",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 22,
+       "total_plays": 24
+      },
       "title": "Rain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-18",
+        "show": "live:grateful-dead:1995-06-18:giants-stadium"
+       },
+       "plays_before": 377,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 119,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1995-02-26",
+        "show": "live:grateful-dead:1995-02-26:oakland-alameda"
+       },
+       "plays_before": 239,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 537,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:rolling-and-tumbling",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Rollin' & Tumblin'"
      },
      {
       "key": "song:grateful-dead:samba-in-the-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1995-06-22",
+        "show": "live:grateful-dead:1995-06-22:knickerbocker-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 38
+      },
       "title": "Samba in the Rain"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-24",
+        "show": "live:grateful-dead:1995-06-24:robert-f-kennedy-stadium"
+       },
+       "plays_before": 1621,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-24",
+        "show": "live:grateful-dead:1995-06-24:robert-f-kennedy-stadium"
+       },
+       "plays_before": 1281,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-18",
+        "show": "live:grateful-dead:1995-06-18:giants-stadium"
+       },
+       "plays_before": 416,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-18",
+        "show": "live:grateful-dead:1995-06-18:giants-stadium"
+       },
+       "plays_before": 554,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1995-06-19",
+        "show": "live:grateful-dead:1995-06-19:giants-stadium"
+       },
+       "plays_before": 223,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -968,46 +1158,76 @@
      {
       "from": "gd1995-06-25.fob.schoeps.cooper-howard.braveman.27450.flac16",
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1803,
+       "gap_shows": 387,
+       "last_played": {
+        "date": "1990-07-18",
+        "show": "live:grateful-dead:1990-07-18:deer-creek-music-center"
+       },
+       "plays_before": 15,
+       "total_plays": 16
+      },
       "title": "We Want Phil"
      },
      {
       "from": "gd1995-06-25.Nak300CP4.Baker.Keo.113093.Flac2496",
       "key": "song:grateful-dead:nfa-chant-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 381,
+       "gap_shows": 99,
+       "last_played": {
+        "date": "1994-06-09",
+        "show": "live:grateful-dead:1994-06-09:cal-expo"
+       },
+       "plays_before": 9,
+       "total_plays": 10
+      },
       "title": "NFA Chant/Encore Break"
      },
      {
       "from": "gd1995-06-25.Nak300CP4.Baker.Keo.113093.Flac2496",
       "key": "song:grateful-dead:crowd-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1995-05-28",
+        "show": "live:grateful-dead:1995-05-28:portland-meadows"
+       },
+       "plays_before": 19,
+       "total_plays": 20
+      },
       "title": "Crowd/Tuning (Added From Tape 1)"
      }
     ],
     "subject_key": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "It Takes A Lot to Laugh, It Takes A Train to Cry"
+     ],
      "first_in_archive": [],
-     "show_number": 1850,
-     "shows_in_archive": 1855,
+     "show_number": 2089,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Robert F. Kennedy Stadium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.716189+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.972656+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "ylX01vm6Rx8CXjf3LJbsTAQWUCladLM3MCVrh0m4rdPav0PEaXxqz7TXlzRfvqhQrBc7dF0B5BwubbG-Hz5qBQ",
+   "revision": 28,
+   "signature": "-B_KFRHQXd1G7MXGp0Hmu99aF8KiP8WQdIA5qDBGCSElmeKTFZGIQCpJvvyPWWA5pd5xesDs5rC9NyGHP6wjBw",
    "subject_key": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium",
-   "updated_at": "2026-10-25T16:42:19.717344"
+   "updated_at": "2026-10-25T17:35:28.973886"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (6 reviews): Reviewer calls the opening Shakedown shaky, after which the band found their footing and played solidly; Reviewer hears the Shakedown jam as Bruce nearly pushing the band into Dancing in the Streets [12][15][16][17][18][21]\n- **Rain** (2 reviews): Reviewer thought the Rain run opening the second set was pretty cool [15][16]\n- **Brokedown Palace** (2 reviews): Reviewer finds the Brokedown Palace encore poignant and moving; Reviewer ranks Brokedown among the best of the 90s, with crisp Jerry vocals and a confident solo [13][19]\n- **Jack-A-Roe** (1 review): Reviewer praises Jerry's solos in Jack-a-Roe, Mama Tried into Mexicali, and Loose Lucy [19]\n- **Loose Lucy** (1 review): Reviewer found Loose Lucy drippy [17]\n- **Box of Rain** (1 review): Reviewer says the singer on Box of Rain was awful; Jerry was weak and mostly absent in set one [13]\n- **Ship of Fools** (1 review): Reviewer calls Ship of Fools very solid, and Wharf Rat into Not Fade Away excellent [19]\n- **Wharf Rat** (1 review): Reviewer names Wharf Rat as a highlight; Brokedown was solid [17]\n\n## The recordings\n\n- **gd1995-06-25.121122.nak300.dunbar-graves.flac1648** (recommended): source not stated; 21 songs; 176 min [1]\n- **gd1995-06-25.fob.schoeps.cooper-howard.braveman.27450.flac16**: source not stated; 20 songs; 166 min; rated 3.5/5 by 2 [2]. Said about its sound: Excellent front-of-board recording, very clear, minimal close crowd noise, more low end than the Nak 300 source [2]\n- **gd1995-06-25.fob.akg.unknown.swayne.85340.flac1648**: source not stated; 19 songs; 160 min; rated 4.75/5 by 4 [8]. Said about its sound: Uploader calls the quality amazing for an audience recording; Hornsby on piano [8]\n- **gd95-06-25.sbd.2236.sbefail.shnf**: soundboard; 19 songs; 148 min; rated 3.15/5 by 48 [10]. Said about its sound: Reviewer finds the recording quality somewhat flat; Sound is pretty good, with a little static in places; Recording is very clean, though some cuts sound a bit sharp [11][12][13]\n\n## Around the show\n\n- Bruce Hornsby played piano, but the reviewer still found the show mediocre, though above par for 1995 [11]\n- Hornsby added a nice feel but sat fairly low in the mix; Jerry had very few wrong notes or lyric flubs [12]\n- Reviewer's 129th and last show; Fall Tour tickets then went on sale [18]\n- Reviewer appeared on the videotron during Shakedown while selling t-shirts in the lot [21]\n- Bruce Hornsby played piano throughout; Weir played acoustic on Mama Tried and Mexicali Blues [1]\n- Dylan opened, and Jerry Garcia played guitar on the two Dylan tunes [1]\n- Interactive crowd moments include the We Want Phil and Not Fade Away chants [2]\n- Reviewer says most 1995 shows were two-star performances, and this one rates somewhat above that [11]\n- Wharf Rat was wrecked at the Meadowlands show a week earlier, but was nailed on the 25th [15]\n- Wharf Rat was wrecked at the Meadowlands show a week earlier, but was nailed on the 25th [16]\n- Reviewer calls this the better of the two RFK shows, but still awful [18]\n\n## Tapers and lineage\n\n- **gd1995-06-25.121122.nak300.dunbar-graves.flac1648**: taped by Robert Dunbar; transferred by Bill Graves; source: flac16/48kHz ; Source: Nak 300's > A/D > D7; [1]. Also: Recording is a Nak 300 source, labeled a Boiler in the Basement installment [1]\n- **gd1995-06-25.fob.schoeps.cooper-howard.braveman.27450.flac16**: taped by Tom Cooper and Dave Howard; source: FOB Schoeps mk-4 >kcy >vms021b >d-10pro2 > DATs [2]. Also: About thirty seconds of missing music was patched using another Nak 300 FOB source; Schoeps mics [2]\n- **gd1995-06-25.fob.akg.unknown.swayne.85340.flac1648**: transferred by Scott Swayne; source: FOB AKG 300B/CK91 -> DAT ->DAT [8]. Also: Split-second digital zaps in Brokedown Palace were removed; one or two faint anomalies remain; AKG mics [8]\n- **gd95-06-25.sbd.2236.sbefail.shnf**: transferred by Bill Bina; source: DSBD> DAT> CDR> EAC> shn [10]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Robert F. Kennedy Stadium - June 24, 1995](https://www.dead.net/show/june-24-1995) [27]\n- Poster by Jerry Garcia: [1995-06-25 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1995-06-25-grateful-dead-backstage-pass/) [28]\n- Poster by Robbi Cohn: [1995-06-25 Robert F. Kennedy Stadium, Washington, DC, USA - Jerry Garcia](https://jerrygarcia.com/show/1995-06-25-robert-f-kennedy-stadium-washington-dc-usa/) [29]\n- Poster by Grateful Dead: [Grateful Dead Robert F. Kennedy Stadium - June 24, 1995](https://www.dead.net/show/june-24-1995) [30]",

@@ -403,7 +403,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -737,218 +737,591 @@
     "setlist": [
      {
       "key": "song:grateful-dead:working-man-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 171,
+       "gap_shows": 52,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 14
+      },
       "title": "Workingman's Blues"
      },
      {
       "key": "song:grateful-dead:superman",
-      "stats": {},
+      "stats": {
+       "days_since": 171,
+       "gap_shows": 52,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 8,
+       "total_plays": 10
+      },
       "title": "Superman"
      },
      {
       "key": "song:grateful-dead:truck-driving-man",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 12,
+       "total_plays": 14
+      },
       "title": "Truck Drivin' Man"
      },
      {
       "key": "song:grateful-dead:i-dont-know-you",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 14,
+       "total_plays": 17
+      },
       "title": "I Don't Know You"
      },
      {
       "key": "song:grateful-dead:running-back-to-you",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Runnin' Back To You"
      },
      {
       "key": "song:grateful-dead:down-in-the-boondocks",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Down In The Boondocks"
      },
      {
       "key": "song:grateful-dead:garden-of-eden",
-      "stats": {},
+      "stats": {
+       "days_since": 308,
+       "gap_shows": 80,
+       "last_played": {
+        "date": "1970-06-24",
+        "show": "live:grateful-dead:1970-06-24:capitol-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Garden Of Eden"
      },
      {
       "key": "song:grateful-dead:glendale-train",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 10,
+       "total_plays": 13
+      },
       "title": "Glendale Train"
      },
      {
       "key": "song:grateful-dead:fair-chance-to-know",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 17,
+       "total_plays": 20
+      },
       "title": "Fair Chance To Know"
      },
      {
       "key": "song:grateful-dead:sailing-song",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Sailing Song"
      },
      {
       "key": "song:grateful-dead:connection",
-      "stats": {},
+      "stats": {
+       "days_since": 172,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Connection"
      },
      {
       "key": "song:grateful-dead:henry",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 18,
+       "total_plays": 21
+      },
       "title": "Henry"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 9,
+       "total_plays": 54
+      },
       "title": "The Weight"
      },
      {
       "key": "song:grateful-dead:last-lonely-eagle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 18,
+       "total_plays": 21
+      },
       "title": "Last Lonely Eagle"
      },
      {
       "key": "song:grateful-dead:louisiana-lady",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 13,
+       "total_plays": 16
+      },
       "title": "Louisianna Lady"
      },
      {
       "key": "song:grateful-dead:fun-fun-fun",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Fun, Fun, Fun"
      },
      {
       "key": "song:grateful-dead:honky-tonk-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 17,
+       "total_plays": 20
+      },
       "title": "Honkey Tonk Woman"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 54,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 53,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 28,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1971-04-15",
+        "show": "live:grateful-dead:1971-04-15:allegheny-college"
+       },
+       "plays_before": 9,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:aint-it-crazy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ain't It Crazy"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 10,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 28,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 77,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:ripple",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1971-02-21",
+        "show": "live:grateful-dead:1971-02-21:capitol-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 48
+      },
       "title": "Ripple"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 31,
+       "total_plays": 125
+      },
       "title": "Me & My Bobby McGee"
      },
      {
       "key": "song:grateful-dead:im-a-king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-04-17",
+        "show": "live:grateful-dead:1971-04-17:dillon-gym-princeton-university"
+       },
+       "plays_before": 23,
+       "total_plays": 27
+      },
       "title": "I'm A King Bee"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 27,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-04-25",
+        "show": "live:grateful-dead:1971-04-25:fillmore-east"
+       },
+       "plays_before": 77,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 132,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 13,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 101,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1971-04-14",
+        "show": "live:grateful-dead:1971-04-14:davis-gym-bucknell-university"
+       },
+       "plays_before": 111,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 162,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1971-04-21",
+        "show": "live:grateful-dead:1971-04-21:rhode-island-auditorium"
+       },
+       "plays_before": 133,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 53,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 116,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1971-04-08",
+        "show": "live:grateful-dead:1971-04-08:boston-music-hall"
+       },
+       "plays_before": 124,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 83,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 40,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 83,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      }
     ],
@@ -956,76 +1329,150 @@
      {
       "from": "gd1971-04-28.sbd.unknown.4332.shnf",
       "key": "song:grateful-dead:sailing",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 2,
+       "total_plays": 6
+      },
       "title": "Sailin'"
      },
      {
       "from": "gd1971-04-28.sbd.unknown.4332.shnf",
       "key": "song:grateful-dead:rub",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1971-04-25",
+        "show": "live:grateful-dead:1971-04-25:fillmore-east"
+       },
+       "plays_before": 8,
+       "total_plays": 12
+      },
       "title": "The Rub"
      },
      {
       "from": "gd1971-04-28.sbd.unknown.4332.shnf",
       "key": "song:grateful-dead:king-bee",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-04-17",
+        "show": "live:grateful-dead:1971-04-17:dillon-gym-princeton-university"
+       },
+       "plays_before": 28,
+       "total_plays": 32
+      },
       "title": "King Bee"
      },
      {
       "from": "gd1971-04-28.sbd.unknown.4332.shnf",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1971-04-06",
+        "show": "live:grateful-dead:1971-04-06:manhattan-center"
+       },
+       "plays_before": 6,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      },
      {
       "from": "gd1971-04-28.sbd.miller.106099.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1971-02-20",
+        "show": "live:grateful-dead:1971-02-20:capitol-theater"
+       },
+       "plays_before": 57,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "from": "gd1971-04-28.sbd.miller.106099.flac16",
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-04-26",
+        "show": "live:grateful-dead:1971-04-26:fillmore-east"
+       },
+       "plays_before": 15,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "from": "gd1971-04-28.sbd.gems.102859.flac24",
       "key": "song:grateful-dead:cryptical",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1971-02-20",
+        "show": "live:grateful-dead:1971-02-20:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 12
+      },
       "title": "Cryptical"
      },
      {
       "from": "gd1971-04-28.sbd.frisco.32862.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1971-04-06",
+        "show": "live:grateful-dead:1971-04-06:manhattan-center"
+       },
+       "plays_before": 6,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1971-04-28:fillmore-east",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 286,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Ain't It Crazy"
+     ],
+     "show_number": 350,
+     "shows_in_archive": 2097,
      "songs": 42,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore East"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:42.156595+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.716589+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "6PEGkThFiHiB7Z27UV9aM4WCqLZno3mBfc8-tKDhzeTCcVSQs8zEuDj3xqOZmoxFIvmtky7wYqIKUkOsaPXOBg",
+   "revision": 43,
+   "signature": "LP7EMBXf-SDJC4x4H0HJ1I6U04ZAJm_fUu0NpkKsMHmi4GxLph8BIKmpFuw7QKgYQ8UNcDTdrzVeQxHp6xrCDg",
    "subject_key": "live:grateful-dead:1971-04-28:fillmore-east",
-   "updated_at": "2026-10-25T16:41:42.159982"
+   "updated_at": "2026-10-25T17:35:11.718303"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **I'm A King Bee** (2 reviews): Described as a nasty performance of the song; Bill Kreutzmann's frenetic polyrhythms propel the band while Garcia and Lesh circle [13][17]\n- **Hard To Handle** (2 reviews): Cited as the best version of the song the reviewer has heard; Best version ever, with incredible build-up taking the jam over the top [18][22]\n- **The Other One** (1 review): Rhythms intensify until resembling a crashing locomotive, with Bill Kreutzmann shining [11]\n- **Dark Star** (1 review): Considered the sharpest version of the song ever recorded [15]\n\n## The recordings\n\n- **gd71-04-28.sbd.murphy.2248.sbeok.shnf** (recommended): soundboard; 42 songs; 270 min; rated 4.88/5 by 25 [1]. Said about its sound: Slight popping occurs during the new rider set, otherwise stellar performance; The mix is described as almost perfect with unique energy [13][18]\n- **gd1971-04-28.sbd.kaplan-fink.11257.sbeok.shnf**: soundboard; 26 songs; 204 min [9]\n- **gd1971-04-28.sbd.unknown.4332.shnf**: soundboard; 42 songs; 270 min [2]\n- **gd1971-04-28.sbd.miller.106099.flac16**: soundboard; 25 songs; 280 min; rated 4.88/5 by 17 [3]\n\n## Around the show\n\n- New Riders set opened the show, providing the full feel [20]\n- Tom Constanten appears on stage from Dark Star through Not Fade Away [10]\n- Reviewers call this their personal favorite, more trippy than the April 29th show [11]\n- Identified as the best night of the Fillmore East run [16]\n- Described as epic and better than the Live/Dead album version [21]\n\n## Tapers and lineage\n\n- **gd71-04-28.sbd.murphy.2248.sbeok.shnf**: transferred by Bob Murphy; source: Soundboard [1]. Also: Second half and Wharf Rat lost in a reel-to-reel tape flip; Missing section released on the four-disc Ladies and Gentlemen set; Transferred from MSR tape via Alesis Masterlink to CD-R by Bob Murphy [1][15][19]\n- **gd1971-04-28.sbd.kaplan-fink.11257.sbeok.shnf**: transferred by Seth Kaplan and Alan Fink; source: Truckin'through Bird Song 02:07.38: MSR>Reel>Alesis Masterlink>CDR Bird Song 02:08.70 through end of show: MSR 7 inch(7.5 ips)Revox A 77>Alesis Masterlink>CDR… [9]. Also: Cuts at five minutes due to probable reel flip, cross-faded from source [9]\n- **gd1971-04-28.sbd.unknown.4332.shnf**: transferred by Unknown; source: Workin' Man Blues through the cut in Bird Song: MR>R>CDR the cut in Bird Song through the end: MR>CDR [2]\n- **gd1971-04-28.sbd.miller.106099.flac16**: transferred by Charlie Miller; source: SBD -> Shure Line Mixers -> Advent Advocate Dolby B Unit -> Master Reel (Sony Deck - BASF Tapes - 1/4 Track - 7 1/2 ips) [3]",

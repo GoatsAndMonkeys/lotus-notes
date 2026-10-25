@@ -465,7 +465,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -573,8 +573,8 @@
     },
     "previous": {
      "date": "1978-12-28",
-     "show": "live:grateful-dead:1978-12-28:golden-hall-san-diego-community-concourse",
-     "venue": "Golden Hall - San Diego Community Concourse"
+     "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse",
+     "venue": "Golden Hall, Community Concourse"
     },
     "recommended": {
      "identifier": "gd78-12-30.sbd.miller.18092.sbeok.shnf",
@@ -946,137 +946,380 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-21",
+        "show": "live:grateful-dead:1978-12-21:the-summit"
+       },
+       "plays_before": 234,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 109,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 144,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 202,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 179,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 151,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 23,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-21",
+        "show": "live:grateful-dead:1978-12-21:the-summit"
+       },
+       "plays_before": 49,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 216,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 80,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 193,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 208,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-21",
+        "show": "live:grateful-dead:1978-12-21:the-summit"
+       },
+       "plays_before": 16,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 203,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 206,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-22",
+        "show": "live:grateful-dead:1978-12-22:dallas-county-convention-center-arena"
+       },
+       "plays_before": 97,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-22",
+        "show": "live:grateful-dead:1978-12-22:dallas-county-convention-center-arena"
+       },
+       "plays_before": 49,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 278,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 14,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 403,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:ollin-arrageed",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1978-11-24",
+        "show": "live:grateful-dead:1978-11-24:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "Ollin Arrageed"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 90,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 342,
+       "gap_shows": 73,
+       "last_played": {
+        "date": "1978-01-22",
+        "show": "live:grateful-dead:1978-01-22:mcarthur-court-u-of-oregon"
+       },
+       "plays_before": 158,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 234,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 161,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-27",
+        "show": "live:grateful-dead:1978-12-27:golden-hall-community-concourse"
+       },
+       "plays_before": 163,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-12-16",
+        "show": "live:grateful-dead:1978-12-16:nashville-municipal-auditorium"
+       },
+       "plays_before": 160,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1084,175 +1327,371 @@
      {
       "from": "gd1978-12-30.sbd.miller.tetzeli.fix-18092.34261.reflac.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 101,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1978-12-30.137675.neumankm88.troy.smith.sirmick.sbeok.flac24",
       "key": "song:grateful-dead:crown-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "crown/tuning"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:technincal-weasels-funiculi-funicula",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Technincal Weasels-Funiculi Funicula"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 233,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 124,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 359,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 195,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 106,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 72,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 66,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 12,
+       "total_plays": 28
+      },
       "title": "From The Hearet Of Me"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 91,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 133,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 252,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 137,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 296,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "from": "gd1978-12-30.145348.sony.ecm270.severson.miller.clugston.flac1648",
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-28",
+        "show": "live:grateful-dead:1978-12-28:golden-hall-community-concourse"
+       },
+       "plays_before": 140,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t01-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t01 Jack Straw"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t02-they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t02 They Love Each Other"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t03-mama-tried",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t03 Mama Tried"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t04-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t04 Mexicali Blues"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t05-loser",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t05 Loser"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t06-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t06 Looks Like Rain"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t07-stagger-lee",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t07 Stagger Lee"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t08-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t08 Passenger"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t09-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t09 Tennessee Jed"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t10-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t10 New Minglewood Blues"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t11-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t11 Sugaree"
      },
      {
       "from": "gd1978-12-30.142711.sbd.set1.eaton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd78-12-30-s1t12-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd78-12-30 s1t12 Promised Land"
      }
     ],
@@ -1260,26 +1699,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 730,
-     "shows_in_archive": 1855,
+     "show_number": 825,
+     "shows_in_archive": 2097,
      "songs": 27,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pauley Pavilion"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 17,
+   "parent_revision": 29,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.483342+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.800125+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 18,
-   "signature": "_GtJz9PHglo8kmvIhI4MOAG-wW6EouyhBHLOQtd6Kn_aQcJPKB8sQq_VtJf019g0NFtc7NhlQ6YpjDX9GES3Bw",
+   "revision": 30,
+   "signature": "jV5Hx-L39efEwBqGQ5dnelkM_8UL1MSvEyFh4cOS-YnZ7Idso0sAC0ssCWkgcvGGvkOT0Vo9-f2oP_Xb7GWYCg",
    "subject_key": "live:grateful-dead:1978-12-30:pauley-pavilion",
-   "updated_at": "2026-10-25T16:41:52.485011"
+   "updated_at": "2026-10-25T17:35:15.801267"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (2 reviews): Jam sequence from this song through Around And Around called crazy and sick; Sequence from this song through Shakedown Street described as sick [13][18]\n- **They Love Each Other** (1 review): Reviewer likes this song and prefers the audience copy over soundboards [24]\n- **Looks Like Rain** (1 review): Donna's performance on this track evoked a feeling of being thirty years older [15]\n- **I Need A Miracle** (1 review): Second set described as non-stop partying with no slow songs, starting with this tune [13]\n- **Bertha** (1 review): Transition into Good Lovin' noted for having great energy [18]\n- **Saint Stephen** (1 review): Intro to this song is called the sickest ever for the band [22]\n\n## The recordings\n\n- **gd78-12-30.sbd.miller.18092.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 27 songs; 218 min; rated 4.38/5 by 39 [1]. Said about its sound: Audio quality is poor, though the performance itself is decent; High energy throughout, with everyone sounding giddy, though four audio blips were counted; Reviewer finds fans too harsh on these soundboards, praising the quality [14][15][19]\n- **gd1978-12-30.sbd.miller.tetzeli.fix-18092.34261.reflac.flac16**: soundboard; 27 songs; 217 min; rated 4.5/5 by 2 [3]\n- **gd1978-12-30.145350.sony.ecm270.severson.miller.clugston.flac1648**: matrix (soundboard mixed with audience mics); 27 songs; 220 min [5]\n- **gd1978-12-30.sbd.tonyg.8826.shnf**: soundboard; 27 songs; 210 min; rated 4.4/5 by 5 [10]. Said about its sound: Missing about ten seconds in Stagger Lee and two minutes of vocals in Playin'; Fades at the end of disc two and start of disc three are from source discs [10]\n\n## Around the show\n\n- After a Hamza meltdown, the band shredded Saint Stephen and Not Fade Away [18]\n- Energy at the Pauley Pavilion is highlighted, noting the Winterland closure the next night [24]\n- Hamza El Din joined for percussion and vocals on Goin' Down The Road Feeling Bad [5]\n- Hamza el-Din appeared for Ollin Arrageed, spliced at 3:41 of Stagger Lee [10]\n- Considered one of the better 1978 shows due to range of emotions and fiery energy [17]\n\n## Tapers and lineage\n\n- **gd78-12-30.sbd.miller.18092.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard [1]. Also: Reviewer lost a first or second generation mint copy of this show in 1983; Charlie Miller provided the audience patches for this soundboard transfer [1][17]\n- **gd1978-12-30.sbd.miller.tetzeli.fix-18092.34261.reflac.flac16**: transferred by Bill Tetzeli; source: Fix of shnid 18092 [3]. Also: Transition between CDs 2 and 3 made seamless using CE 2000 and shntool; Charlie Miller provided the overlap data needed to fix the CD transition [3]\n- **gd1978-12-30.145350.sony.ecm270.severson.miller.clugston.flac1648**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Sony ECM-270 mics (left side, first row of seats above bleachers next to railing, even with the soundboard) > Sony… [5]. Also: Neumann SM69 and KM88 sources supplied patches for Fire On The Mountain and Ollin Arrageed [5]\n- **gd1978-12-30.sbd.tonyg.8826.shnf**: transferred by Tony G; source: SBD > MR > PCM > DAT > CDR [10]\n\n## Art and photos\n\n- Poster by Original Concert Posters: [GRATEFUL DEAD Pauley Pavilion UCLA Dec 30 1978 Cardboard CONCERT POSTER](https://originalconcertposters.org/2020/07/grateful-dead-pauley-pavilion-ucla-dec-30-1978-cardboard-concert-poster/) [29]\n- Poster by Original Concert Posters: [GRATEFUL DEAD Pauley Pavilion UCLA Dec 30 1978 Cardboard CONCERT POSTER](https://originalconcertposters.org/2020/07/grateful-dead-pauley-pavilion-ucla-dec-30-1978-cardboard-concert-poster/) [30]\n- Poster by Original Concert Posters: [GRATEFUL DEAD Pauley Pavilion UCLA Dec 30 1978 Cardboard CONCERT POSTER](https://originalconcertposters.org/2020/07/grateful-dead-pauley-pavilion-ucla-dec-30-1978-cardboard-concert-poster/) [31]",

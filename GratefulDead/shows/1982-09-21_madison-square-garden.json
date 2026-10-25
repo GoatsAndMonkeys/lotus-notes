@@ -607,7 +607,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -628,6 +628,20 @@
      "url": "https://jerrygarcia.com/show/1982-09-21-madison-square-garden-new-york-ny-usa/",
      "wayback_timestamp": null,
      "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://jerrygarcia.com/",
+     "id": 33,
+     "kind": "blog",
+     "published_at": "1970-01-01T00:00:00+00:00",
+     "quote_or_claim": "Grateful Dead at Madison Square Garden New York New York NY USA Playing In The Band Crazy Fingers Me And My Uncle Big River West…",
+     "site": "Jerry Garcia",
+     "title": "1982-09-21 Madison Square Garden, New York, NY, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1982-09-21-madison-square-garden-new-york-ny-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
     }
    ],
    "facts": {
@@ -638,8 +652,8 @@
     "guests": [],
     "next": {
      "date": "1982-09-23",
-     "show": "live:grateful-dead:1982-09-23:new-haven-coliseum",
-     "venue": "New Haven Coliseum"
+     "show": "live:grateful-dead:1982-09-23:veterans-memorial-coliseum",
+     "venue": "Veterans' Memorial Coliseum"
     },
     "previous": {
      "date": "1982-09-20",
@@ -1196,129 +1210,331 @@
     "setlist": [
      {
       "key": "song:grateful-dead:introduction-by-john-scher",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Introduction By John Scher"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 363,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 21,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 463,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 284,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 6,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 267,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 240,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-09-11",
+        "show": "live:grateful-dead:1982-09-11:west-palm-beach-auditorium"
+       },
+       "plays_before": 262,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-09-14",
+        "show": "live:grateful-dead:1982-09-14:university-of-virginia"
+       },
+       "plays_before": 355,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-09-14",
+        "show": "live:grateful-dead:1982-09-14:university-of-virginia"
+       },
+       "plays_before": 358,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 3,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 212,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 93,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 208,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-09-14",
+        "show": "live:grateful-dead:1982-09-14:university-of-virginia"
+       },
+       "plays_before": 168,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 700,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 364,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-09-20",
+        "show": "live:grateful-dead:1982-09-20:madison-square-garden"
+       },
+       "plays_before": 4,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 332,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-09-14",
+        "show": "live:grateful-dead:1982-09-14:university-of-virginia"
+       },
+       "plays_before": 202,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-09-15",
+        "show": "live:grateful-dead:1982-09-15:capital-centre"
+       },
+       "plays_before": 321,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-09-17",
+        "show": "live:grateful-dead:1982-09-17:cumberland-county-civic-center"
+       },
+       "plays_before": 189,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1326,184 +1542,305 @@
      {
       "from": "gd1982-09-21.sbd.miller.tetzeli.fix-33684.34754.reflac.flac16",
       "key": "song:grateful-dead:intro",
-      "stats": {},
+      "stats": {
+       "days_since": 44,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1982-08-08",
+        "show": "live:grateful-dead:1982-08-08:alpine-valley-music-theatre"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "intro (John Scher)"
      },
      {
       "from": "gd1982-09-21.sbd.perkins.tetzeli.fix-13306.34723.flac16",
       "key": "song:grateful-dead:china-cat",
-      "stats": {},
+      "stats": {
+       "days_since": 122,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 11,
+       "total_plays": 32
+      },
       "title": "China Cat"
      },
      {
       "from": "gd1982-09-21.sbd.perkins.tetzeli.fix-13306.34723.flac16",
       "key": "song:grateful-dead:rider",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1982-08-01",
+        "show": "live:grateful-dead:1982-08-01:zoo-amphitheater"
+       },
+       "plays_before": 8,
+       "total_plays": 13
+      },
       "title": "Rider"
      },
      {
       "from": "gd1982-09-21.sbd.perkins.tetzeli.fix-13306.34723.flac16",
       "key": "song:grateful-dead:fade",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "fade"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t02-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t02 Playin' In The Band"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t03-crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t03 Crazy Fingers"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t04-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t04 Me & My Uncle"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t05-big-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t05 Big River"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t06-west-la-fadeaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t06 West LA Fadeaway"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t07-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t07 Beat It On Down The Line"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t08-loser",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t08 Loser"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t09-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t09 Looks Like Rain"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t10-china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t10 China Cat Sunflower"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s1t11-i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s1t11 I Know You Rider"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t01-touch-of-grey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t01 Touch Of Grey"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t02-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t02 Samson & Delilah"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t03-high-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t03 High Time"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t04-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t04 Estimated Prophet"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t05-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t05 He's Gone"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t06 Drums"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t07 Space"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t08-throwing-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t08 Throwing Stones"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t09-not-fade-aay",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t09 Not Fade Aay"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t10-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t10 Black Peter"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t11-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t11 Good Lovin'"
      },
      {
       "from": "gd1982-09-21.142918.sbd.healy.streeter.dalton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd82-09-21-s2t12-us-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd82-09-21 s2t12 US Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1982-09-21:madison-square-garden",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1043,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Introduction By John Scher"
+     ],
+     "show_number": 1140,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.390829+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.493473+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "dFb-9VV_q9mS-L38dpyoLeV0NBNQ3Ayu-OpgFo5t1jzFvv5vsXmLHGuu3yz5PQypBySG6JWa2GKDxoRGUdnXDQ",
+   "revision": 41,
+   "signature": "naNOOMEwH-cpytbcpFOql4h1sZr8vuZclsGZha4M3LQVAUpcB7-R_Hc_M3-HgeiSvKO_9yCQfor5cRO4bHN1AQ",
    "subject_key": "live:grateful-dead:1982-09-21:madison-square-garden",
-   "updated_at": "2026-10-25T16:41:55.393077"
+   "updated_at": "2026-10-25T17:35:18.494717"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **West L.A. Fadeaway** (2 reviews): Characterized as mournful, featuring a notable ginger verse; Noted for funky lyrics near the end that make listeners sit up [20][25]\n- **Loser** (2 reviews): Described as melancholy, part of a set full of the band's saddest songs; Described as a killer performance following the West L.A. Fadeaway [20][26]\n- **Crazy Fingers** (1 review): Described as insane and one of the better performances heard recently [25]\n- **He's Gone** (1 review): Identified as a soulful performance within the emotional set [20]\n- Highlighted as the opening song for the New York City show [26]\n\n## The recordings\n\n- **gd1982-09-21.mtx.seamons.97705.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 170 min; rated 4.6/5 by 15 [1]\n- **gd1982-09-21.sbd.miller.33684.sbeok.flac16**: soundboard; 23 songs; 167 min; rated 4.25/5 by 4 [3]\n- **gd1982-09-21.sbd.miller.109209.flac16**: soundboard; 21 songs; 170 min; rated 4.57/5 by 7 [5]\n- **gd1982-09-21.163450.senn441.eaton.miller.clugston.flac2496**: audience recording; 22 songs; 177 min [7]\n- **gd1982-09-21.119147.nak300.chasingwilma.flac16**: source not stated; 22 songs; 169 min; rated 2.5/5 by 2 [12]\n\n## Around the show\n\n- Attendee notes the Garden venue provided significant energy despite security hassles [21]\n- Reviewer claims the entire tour from the South to Portland had no weak nights [21]\n\n## Tapers and lineage\n\n- **gd1982-09-21.mtx.seamons.97705.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [1]. Also: Lineage includes Senn 421s to cassette, then DAT, CD, and FLAC by Charlie Miller; Jim Wise recorded from 18th row center using Sennheiser 421s and Sony TC-D5 [1]\n- **gd1982-09-21.sbd.miller.33684.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat [3]. Also: DAT to CD transfer completed in October 1999, though lineage confirmation is uncertain [3]\n- **gd1982-09-21.sbd.miller.109209.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat [5]. Also: Job B. Jones assisted with the pitch correction for the recording [5]\n- **gd1982-09-21.163450.senn441.eaton.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob, Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master (FOB) Audience Cassettes; Sennheiser 441 mics > Nakamichi 550 (21st row, DFC) [7]. Also: Jim Wise's Sennheiser 421 source supplies a 5:26 patch in the Drums section [7]\n- **gd1982-09-21.119147.nak300.chasingwilma.flac16**: taped by chasingwilma; transferred by chasingwilma; source: nak 300 (fob)> d-5sony> mc [12]. Also: Recording identified as an FOB made by Jim Wise using Sennheiser 421 microphones [27]",

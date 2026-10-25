@@ -382,7 +382,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -440,8 +440,8 @@
     "guests": [],
     "next": {
      "date": "1980-08-31",
-     "show": "live:grateful-dead:1980-08-31:capitol-center",
-     "venue": "Capitol Center"
+     "show": "live:grateful-dead:1980-08-31:capital-centre",
+     "venue": "Capital Centre"
     },
     "previous": {
      "date": "1980-08-29",
@@ -758,131 +758,342 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 113,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 104,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-17",
+        "show": "live:grateful-dead:1980-08-17:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 149,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 166,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-08-21",
+        "show": "live:grateful-dead:1980-08-21:uptown-theater"
+       },
+       "plays_before": 127,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 201,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-08-21",
+        "show": "live:grateful-dead:1980-08-21:uptown-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 56,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 281,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-17",
+        "show": "live:grateful-dead:1980-08-17:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 128,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1980-08-17",
+        "show": "live:grateful-dead:1980-08-17:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 80,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1980-08-20",
+        "show": "live:grateful-dead:1980-08-20:uptown-theater"
+       },
+       "plays_before": 145,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 136,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 165,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 526,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-08-29",
+        "show": "live:grateful-dead:1980-08-29:the-spectrum"
+       },
+       "plays_before": 196,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:more-space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "More Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 277,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 149,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-08-24",
+        "show": "live:grateful-dead:1980-08-24:grand-center"
+       },
+       "plays_before": 332,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-08-21",
+        "show": "live:grateful-dead:1980-08-21:uptown-theater"
+       },
+       "plays_before": 31,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1980-08-23",
+        "show": "live:grateful-dead:1980-08-23:alpine-valley-music-theatre"
+       },
+       "plays_before": 180,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -890,34 +1101,45 @@
      {
       "from": "gd1980-08-30.sbd.fishman.fix-34939.107394.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-08-27",
+        "show": "live:grateful-dead:1980-08-27:pine-knob-music-theater"
+       },
+       "plays_before": 131,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1980-08-30:the-spectrum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 859,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "More Space"
+     ],
+     "show_number": 955,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Spectrum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.556575+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.736108+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "geLE_kiAv1G3NFh9E_K6ncFbL2jfMr2mFMg2r6AK9VUqpGrVi4_tJ_7VOfE609N5tpJlft3AUSulWKvQtERQCg",
+   "revision": 42,
+   "signature": "PJjfIfa6qz8m48Lto6AC8GIzznDqfickxcv-aYF4VS85xRCvHwnxYc2kU__oWqIPjR_mTh2Gdb9xkarSShEBAw",
    "subject_key": "live:grateful-dead:1980-08-30:the-spectrum",
-   "updated_at": "2026-10-25T16:41:53.557431"
+   "updated_at": "2026-10-25T17:35:16.737065"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): Jerry's playing on Jack Straw is a highlight, giving the listener chills; Jack Straw is a powerhouse, hard-hitting version, surprising for 1980 [11][12][19]\n- **Cold Rain and Snow** (1 review): Cold Rain and Snow into Looks Like Rain is outstanding [17]\n- **Fire On The Mountain** (1 review): Scarlet Begonias into Fire On the Mountain is the main reason to get it; Fire's ending peaks high [16]\n- **C.C. Rider** (1 review): C.C. Rider is wild, with Bobby sounding delirious [20]\n- **Eyes of the World** (1 review): In Eyes, around seven minutes in, Jerry keeps pushing rather than winding down before the verse [20]\n\n## The recordings\n\n- **gd1980-08-30.sbd.munder.tetzeli.fix-8875-15408.34939.reflac.flac16** (recommended): soundboard; 24 songs; 175 min; rated 4.4/5 by 5 [1]\n- **gd1980-08-30.175069.sbd.miller.phase-repair.flac1644**: soundboard; 22 songs; 173 min [4]\n- **gd80-08-30.wise.vernon.16039.sbeok.shnf**: audience recording; 22 songs; 178 min; rated 2/5 by 5 [5]. Said about its sound: Audience recording's sound quality is poor and doesn't do the show justice; Reviewer recommends seeking a soundboard or better audience recording than this one; Audience recording is weak; reviewer says better recordings of this show exist [11][12][13]\n- **gd80-08-30.set2-sbd.munder.8775.sbeok.shnf**: soundboard; 14 songs; 104 min; rated 4.44/5 by 15 [8]. Said about its sound: Excellent-sounding soundboard; Brent's playing is understated and Phil is audible throughout; Soundboard sounds excellent, with especially good channel separation [14][20]\n- **gd80-08-30.set1-sbd.munder.15408.sbeok.shnf**: soundboard; 10 songs; 71 min; rated 3/5 by 5 [10]. Said about its sound: Excellent-sounding soundboard; Brent's playing is understated and Phil is audible throughout; Soundboard is a couple generations from perfect but very listenable; Sound is not the best of the available soundboard [15][17][19]\n\n## Around the show\n\n- Attendee recalls it was hot, especially during the first set [13]\n- Attendee remembers the band as mellow and relaxed [14]\n- Attendee remembers the band as mellow and relaxed [15]\n- Bob Weir played most of Jack Straw with a broken guitar string [4]\n\n## Tapers and lineage\n\n- **gd1980-08-30.sbd.munder.tetzeli.fix-8875-15408.34939.reflac.flac16**: transferred by Bill Tetzeli; source: SHNID 15408 and SHNID 8875 [1]. Also: Fix of shnid 8775 with shnid 15408 added at the start, combining two sources into the complete show; Overlap between CDs 2 and 3 had fades; splice was a best guess but sounds smooth [1]\n- **gd1980-08-30.175069.sbd.miller.phase-repair.flac1644**: transferred by All Mastering by Charlie Miller  November 6, 2025; source: Set 1: SBD > Cassette Master > ? > CD Set 2: SBD > Cassette Master > Sonic Solutions > DAT > CD [4]. Also: Vocal phase issue on shnid 110152 was repaired, with pitch correction settings from Joe B. Jones [4]\n- **gd80-08-30.wise.vernon.16039.sbeok.shnf**: taped by Jim Wise; source: Audience Recording: Sennheiser 421's [5]\n- **gd80-08-30.set2-sbd.munder.8775.sbeok.shnf**: source: Soundboard [8]\n- **gd80-08-30.set1-sbd.munder.15408.sbeok.shnf**: source: Soundboard [10]",

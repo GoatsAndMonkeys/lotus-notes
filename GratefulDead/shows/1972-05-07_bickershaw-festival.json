@@ -270,7 +270,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -345,9 +345,9 @@
     "date": "1972-05-07",
     "guests": [],
     "next": {
-     "date": "1972-05-11",
-     "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall",
-     "venue": "Rotterdam Civic Hall"
+     "date": "1972-05-10",
+     "show": "live:grateful-dead:1972-05-10:concertgebouw",
+     "venue": "Concertgebouw"
     },
     "previous": {
      "date": "1972-05-04",
@@ -484,162 +484,436 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 42,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 35,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 90,
+       "total_plays": 334
+      },
       "title": "Beat it On Down the Line"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 18,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 145,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 148,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 20,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 78,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 90,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 46,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 128,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 187,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 31,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 61,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 33,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 46,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 132,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 197,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 168,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 17,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 107,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-04-26",
+        "show": "live:grateful-dead:1972-04-26:jahrhundert-halle"
+       },
+       "plays_before": 156,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 83,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 124,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-05-04",
+        "show": "live:grateful-dead:1972-05-04:olympia-theater"
+       },
+       "plays_before": 46,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:contract",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Contract"
      },
      {
       "key": "song:grateful-dead:truck-driving-man",
-      "stats": {},
+      "stats": {
+       "days_since": 375,
+       "gap_shows": 70,
+       "last_played": {
+        "date": "1971-04-28",
+        "show": "live:grateful-dead:1971-04-28:fillmore-east"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "Truck Driving Man"
      },
      {
       "key": "song:grateful-dead:rainbow",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 554,
+       "gap_shows": 127,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Rainbow"
      },
      {
       "key": "song:grateful-dead:sailing",
-      "stats": {},
+      "stats": {
+       "days_since": 275,
+       "gap_shows": 61,
+       "last_played": {
+        "date": "1971-08-06",
+        "show": "live:grateful-dead:1971-08-06:hollywood-palladium"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Sailing"
      },
      {
       "key": "song:grateful-dead:whatcha-going-to-do",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Whatcha Going to Do"
      },
      {
       "key": "song:grateful-dead:willie-and-the-hand-jive",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Willie & The Hand Jive"
      }
     ],
@@ -647,88 +921,139 @@
      {
       "from": "gd1972-05-07.155550.aud.sirmick.flac16",
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-05-03",
+        "show": "live:grateful-dead:1972-05-03:olympia-theater"
+       },
+       "plays_before": 109,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "from": "gd1972-05-07.155550.aud.sirmick.flac16",
       "key": "song:grateful-dead:baanter-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "baanter/tuning"
      },
      {
       "from": "gd1972-05-07.155550.aud.sirmick.flac16",
       "key": "song:grateful-dead:happy-birthday-billy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Happy Birthday Billy"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t01-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t01 The Other One"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t02-sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t02 Sing Me Back Home"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t04-sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t04 Sugar Magnolia"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t05-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t05 Turn On Your Lovelight"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t06-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t06 Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t07-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t07 Not Fade Away"
      },
      {
       "from": "gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd72-05-07-2p-t08-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd72-05-07 2p t08 One More Saturday Night"
      }
     ],
     "subject_key": "live:grateful-dead:1972-05-07:bickershaw-festival",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 351,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Rainbow"
+     ],
+     "first_in_archive": [
+      "Contract",
+      "Whatcha Going to Do",
+      "Willie & The Hand Jive"
+     ],
+     "show_number": 421,
+     "shows_in_archive": 2097,
      "songs": 32,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Bickershaw Festival"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.222226+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.460459+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "b2Mc77dA0VzPCko7SA0VdhL--n5rg1FYnxOmJB62zJajIma-Lc8Qm6JI6ws1viRgYLCDeWCAf-N4CC5_zLz8Bg",
+   "revision": 41,
+   "signature": "4kQ-3mBzby1CKUJcrvbY5Yx73IlWefI9fB7zRD9S6Sr8PqQ2Dg5R2Kz0igmNSVGW7Zkc6DReRcwLyJJrv0syBA",
    "subject_key": "live:grateful-dead:1972-05-07:bickershaw-festival",
-   "updated_at": "2026-10-25T16:41:44.232492"
+   "updated_at": "2026-10-25T17:35:12.461663"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (4 reviews): Reviewer calls the Dark Star a true beauty and a personal favourite; Dark Star was spacey and lovely, with flares fired into the darkening sky [5][6][14][16]\n- **The Other One** (2 reviews): Someone, possibly Pig, makes odd tuning noises in the middle of The Other One; The Dark Star into Other One stretch is called as good as it gets, a tangible display of the band's power [9][13]\n- **Turn On Your Lovelight** (2 reviews): Reviewer ranks this Lovelight among the tour's best, perhaps in its top five; The Lovelight into Goin' Down the Road into Not Fade Away sequence contains exceptional jams [9][11]\n- **Sing Me Back Home** (1 review): After the intense Other One, Sing Me Back Home feels like church [13]\n- **Not Fade Away** (1 review): Garcia hammers the wah-wah pedal at the start of Not Fade Away [9]\n\n## The recordings\n\n- **gd72-05-07.sbd-aud.clugston.9193.sbeok.shnf** (recommended): soundboard; 32 songs; 262 min; rated 4.53/5 by 34 [1]. Said about its sound: Not the best-sounding show, but the playing is inventive in the spirit of Europe '72; Sound is a little sketchy at first, then settles; The first six or so songs sound very poor, then the quality clears up [5][12][14][16]\n- **gd1972-05-07.155550.aud.sirmick.flac16**: audience recording; 29 songs; 232 min; rated 5/5 by 1 [2]\n- **gd1972-05-07.133598.sbd.set1.miller.flac16**: soundboard; 13 songs; 95 min; rated 5/5 by 3 [3]\n- **gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644**: soundboard; 7 songs; 75 min; rated 5/5 by 1 [4]\n\n## Around the show\n\n- Reviewer was there, sitting beneath the sound tower during the Dark Star [5]\n- During the first set, the smell from the toilets drifted to the stage, and Bob asked the crowd what they were smoking [6]\n- An electric sign displayed a 'happy' message during the show, at a farm site near Wigan [6]\n- Elvis Costello recalls standing in the mud in a soaked poncho at this show [7]\n- Costello was moved most by the band's touching, sad ballads rather than Dark Star [7]\n- Donovan played in the early afternoon while drizzle still fell on the exhausted, damp crowd [8]\n- A firework display took place during Set II, audible on this tape but not on the soundboard [2]\n- New Riders of the Purple Sage opened the show [2]\n- Sugar Magnolia through Not Fade Away forms a whole second amazing set in itself [13]\n\n## Tapers and lineage\n\n- **gd72-05-07.sbd-aud.clugston.9193.sbeok.shnf**: source: Discs 3 & 4 are supplied from a Master Soundboard Reel > DAT source [1]. Also: Discs 1 and 2 come from multiple audience sources; discs 3 and 4 from the master soundboard reel; Discs 1 and 2 compile several audience sources; discs 3 and 4 come from a master soundboard reel transferred to DAT [1][16]\n- **gd1972-05-07.155550.aud.sirmick.flac16**: taped by Simon Phillips, unknown; transferred by Sirmick; source: Multiple audience sources [2]. Also: Compiled from three sources; Simon Phillips' master covers all of Set II, and only one taper is known [2]\n- **gd1972-05-07.133598.sbd.set1.miller.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel (10 inch - 1/2 track) -> Dat/48k [3]\n- **gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644**: taped by Betty Cantor and Tim Dalton; transferred by Scott Clugston and Charlie Miller; source: Partial Set 2 Source Info: Betty's Master Soundboard Reel > PCM > PCM (14-bit)(Sony L-750ESX-HFB tape); Transfer Info: PCM (Sony SL-10)> Sony PCM-601ESD >… [4]\n\n## Art and photos\n\n- Photo by Caine Schneider (All rights reserved): [Grateful Dead - 5/7/72 Bickershaw Festival, Wigan, England](https://www.flickr.com/photos/104729480@N03/26860491615/) [18]\n- Photo by Boo (All rights reserved): [Bickershaw Festival 1972](https://www.flickr.com/photos/14881078@N06/7131687707/) [19]",

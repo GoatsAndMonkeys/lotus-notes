@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -105,7 +105,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:soundfx-for-allah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "SoundFX for Allah"
      }
     ],
@@ -113,27 +117,29 @@
     "subject_key": "live:grateful-dead:1975-04-01:aces-studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 528,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "SoundFX for Allah"
+     ],
+     "show_number": 614,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ace's Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.560758+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.424637+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "I_LZsMAVeM-Vl_71nwcKU4TsIUOUeeh9I7r5BEliTc_QgDXiq27mkQGnM49YL64PWN-O3ZUMcoOD4rAygvA5Dw",
+   "revision": 40,
+   "signature": "-nmT8RB8RABeSZhmxZkfKYQJGeoA37wNZDunyiTmbztW8Verin6VpFlF30Egomc8QY0NpwSntPx8vcq-sXiYAA",
    "subject_key": "live:grateful-dead:1975-04-01:aces-studio",
-   "updated_at": "2026-10-25T16:41:48.561905"
+   "updated_at": "2026-10-25T17:35:14.425054"
   }
  },
  "recommended": {

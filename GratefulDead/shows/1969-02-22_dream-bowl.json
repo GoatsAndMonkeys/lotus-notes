@@ -246,7 +246,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -400,62 +400,170 @@
     "setlist": [
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 3,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:mountains-of-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 3,
+       "total_plays": 14
+      },
       "title": "Mountains of the Moon"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-02-21",
+        "show": "live:grateful-dead:1969-02-21:dream-bowl"
+       },
+       "plays_before": 38,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 39,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 25,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 38,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 39,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 30,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-02-21",
+        "show": "live:grateful-dead:1969-02-21:dream-bowl"
+       },
+       "plays_before": 4,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-02-21",
+        "show": "live:grateful-dead:1969-02-21:dream-bowl"
+       },
+       "plays_before": 32,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-02-21",
+        "show": "live:grateful-dead:1969-02-21:dream-bowl"
+       },
+       "plays_before": 37,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-02-21",
+        "show": "live:grateful-dead:1969-02-21:dream-bowl"
+       },
+       "plays_before": 31,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -463,19 +571,46 @@
      {
       "from": "gd1969-02-22.sbd.vernon.5206.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1969-01-24",
+        "show": "live:grateful-dead:1969-01-24:avalon-ballroom"
+       },
+       "plays_before": 3,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1969-02-22.sbd.vernon.5206.shnf",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-02-07",
+        "show": "live:grateful-dead:1969-02-07:stanley-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1969-02-22.sbd.miller.112691.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-02-15",
+        "show": "live:grateful-dead:1969-02-15:electric-factory"
+       },
+       "plays_before": 27,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      }
     ],
@@ -483,26 +618,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 97,
-     "shows_in_archive": 1855,
+     "show_number": 117,
+     "shows_in_archive": 2097,
      "songs": 12,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Dream Bowl"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.078768+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.752251+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "ozfS5IX4IgTrK-dQPoNKQ1OzNKLX9LwVT2nbMkgsramul5u5-k708bBSJTEgPingeSOtFdTf4Tr7AyUTO6IZDw",
+   "revision": 42,
+   "signature": "sUdrdcxvS4CU_cMYtXeguCJmzaM9AK8iLLcOTndWyQU8xsVJ9nbDD0zL47RFGW85HuvvIHgAfu-ju3wJrzSBCw",
    "subject_key": "live:grateful-dead:1969-02-22:dream-bowl",
-   "updated_at": "2026-10-25T16:41:39.079667"
+   "updated_at": "2026-10-25T17:35:09.753123"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Mountains of the Moon** (1 review): The reviewer describes the performance of this song as fantastic [8]\n\n## The recordings\n\n- **gd1969-02-22.sbd.vernon.5206.shnf** (recommended): soundboard; 12 songs; 110 min; rated 4.22/5 by 9 [1]\n- **gd1969-02-22.sbd.miller.112691.flac16**: soundboard; 9 songs; 114 min; rated 4.62/5 by 24 [2]. Said about its sound: The new remaster is crystal clear, unlike the muddy previous transfers; The reviewer finds this specific version of the song crisp and clean; The jam transitioning into Dark Star is described as haunting and resonant [9][10][11][12]\n\n## Around the show\n\n- Jerry began the song playing acoustic guitar in the wild Vallejo atmosphere [3]\n- Jerry announced the intermission as a chance for the crowd to rest [4]\n- The performance is considered slightly inferior to the Live/Dead version of Dark Star [7]\n\n## Tapers and lineage\n\n- **gd1969-02-22.sbd.vernon.5206.shnf**: transferred by Matt Vernon; source: SBD > MR > R > R > DAT > CDR [1]. Also: Paul B. kindly provided the seed disks for this specific recording transfer [1]\n- **gd1969-02-22.sbd.miller.112691.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) [2]. Also: David Gans and Dick Latvala provided the DAT source for the tape [2]",

@@ -197,7 +197,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -261,42 +261,114 @@
     "setlist": [
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-14",
+        "show": "live:grateful-dead:1969-06-14:monterey-performing-arts-center"
+       },
+       "plays_before": 62,
+       "total_plays": 165
+      },
       "title": "St Stephen"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-06-07",
+        "show": "live:grateful-dead:1969-06-07:fillmore-west"
+       },
+       "plays_before": 12,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:rosemary",
-      "stats": {},
+      "stats": {
+       "days_since": 195,
+       "gap_shows": 63,
+       "last_played": {
+        "date": "1968-12-07",
+        "show": "live:grateful-dead:1968-12-07:bellarmine-college"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Rosemary"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-14",
+        "show": "live:grateful-dead:1969-06-14:monterey-performing-arts-center"
+       },
+       "plays_before": 32,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:mountains-of-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-06-07",
+        "show": "live:grateful-dead:1969-06-07:fillmore-west"
+       },
+       "plays_before": 11,
+       "total_plays": 14
+      },
       "title": "Mountains of the Moon"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-13",
+        "show": "live:grateful-dead:1969-06-13:fresno-convention-center"
+       },
+       "plays_before": 13,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:whats-become-of-the-baby",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "What's Become Of The Baby"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-06-08",
+        "show": "live:grateful-dead:1969-06-08:fillmore-west"
+       },
+       "plays_before": 13,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      }
     ],
@@ -305,26 +377,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 134,
-     "shows_in_archive": 1855,
+     "show_number": 160,
+     "shows_in_archive": 2097,
      "songs": 8,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pacific Recording Studios"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.302321+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.020999+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "EbKhU7CyzTZSdwN2ws2GACgOfMS8pmGXsFArUDxqI4qHASrJPupN3aPXFrnkZTBxPzRSUaSYrmsKeBifP98vCw",
+   "revision": 40,
+   "signature": "cJaqjTbfNaJPfAniTq0sAsrDs8vEcJ3xqSx-OR7nJjLzDKowmMZ7xyHaXJobxHQ33iGrdfEQW3g9_0oCgGIxBQ",
    "subject_key": "live:grateful-dead:1969-06-20:pacific-recording-studios",
-   "updated_at": "2026-10-25T16:41:39.303450"
+   "updated_at": "2026-10-25T17:35:10.021572"
   }
  },
  "recommended": {

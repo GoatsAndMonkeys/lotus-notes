@@ -409,7 +409,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -425,8 +425,8 @@
     "guests": [],
     "next": {
      "date": "1973-06-24",
-     "show": "live:grateful-dead:1973-06-24:memorial-coliseum",
-     "venue": "Memorial Coliseum"
+     "show": "live:grateful-dead:1973-06-24:portland-memorial-coliseum",
+     "venue": "Portland Memorial Coliseum"
     },
     "previous": {
      "date": "1973-06-10",
@@ -743,187 +743,497 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-05-26",
+        "show": "live:grateful-dead:1973-05-26:kezar-stadium"
+       },
+       "plays_before": 105,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 160,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 92,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 106,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 43,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 62,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 21,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 102,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 33,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 22,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 115,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 215,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 218,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 50,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 99,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 172,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 14,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 85,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-05-20",
+        "show": "live:grateful-dead:1973-05-20:stadium-u-c-santa-barbara"
+       },
+       "plays_before": 67,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 133,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 248,
+       "gap_shows": 49,
+       "last_played": {
+        "date": "1972-10-17",
+        "show": "live:grateful-dead:1972-10-17:fox-theatre"
+       },
+       "plays_before": 75,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 74,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-05-20",
+        "show": "live:grateful-dead:1973-05-20:stadium-u-c-santa-barbara"
+       },
+       "plays_before": 80,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 59,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 173,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:nobodys-fault-but-mine-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-05-20",
+        "show": "live:grateful-dead:1973-05-20:stadium-u-c-santa-barbara"
+       },
+       "plays_before": 6,
+       "total_plays": 23
+      },
       "title": "Nobody's Fault But Mine Jam"
      },
      {
       "key": "song:grateful-dead:phil-zone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Phil Zone"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-05-26",
+        "show": "live:grateful-dead:1973-05-26:kezar-stadium"
+       },
+       "plays_before": 112,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-05-26",
+        "show": "live:grateful-dead:1973-05-26:kezar-stadium"
+       },
+       "plays_before": 212,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-06-09",
+        "show": "live:grateful-dead:1973-06-09:robert-f-kennedy-stadium"
+       },
+       "plays_before": 13,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-05-26",
+        "show": "live:grateful-dead:1973-05-26:kezar-stadium"
+       },
+       "plays_before": 212,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 43,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 181,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-05-26",
+        "show": "live:grateful-dead:1973-05-26:kezar-stadium"
+       },
+       "plays_before": 250,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-06-10",
+        "show": "live:grateful-dead:1973-06-10:robert-f-kennedy-stadium"
+       },
+       "plays_before": 71,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -931,244 +1241,406 @@
      {
       "from": "gd1973-06-22.sbd.clugston.5850.sbeok.shnf",
       "key": "song:grateful-dead:biodtl",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1973-03-22",
+        "show": "live:grateful-dead:1973-03-22:utica-memorial-auditorium"
+       },
+       "plays_before": 6,
+       "total_plays": 26
+      },
       "title": "BIODTL"
      },
      {
       "from": "gd1973-06-22.sbd.clugston.5850.sbeok.shnf",
       "key": "song:grateful-dead:llr",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "LLR"
      },
      {
       "from": "gd1973-06-22.sbd.clugston.5850.sbeok.shnf",
       "key": "song:grateful-dead:big-rr-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 601,
+       "gap_shows": 133,
+       "last_played": {
+        "date": "1971-10-30",
+        "show": "live:grateful-dead:1971-10-30:taft-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 8
+      },
       "title": "Big RR Blues"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t01-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t01 Bertha"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t02-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t02 Beat It On Down The Line"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t03-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t03 Deal"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t04-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t04 Mexicali Blues"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t05-box-of-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t05 Box Of Rain"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t06-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t06 Bird Song"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t07-the-race-is-on",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t07 The Race Is On"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t08-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t08 Sugaree"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t09-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t09 Looks Like Rain"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t10-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t10 Row Jimmy"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t11-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t11 Jack Straw"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t12-china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t12 China Cat Sunflower"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t13-i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t13 I Know You Rider"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t14-big-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t14 Big River"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t15-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t15 Tennessee Jed"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t16-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t16 Playin' In The Band"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t17-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t17 Tuning"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t18-here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t18 Here Comes Sunshine"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t19-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t19 Promised Land"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t20-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t20 Brown Eyed Women"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t21-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t21 El Paso"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t22-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t22 Black Peter"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t23-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t23 Greatest Story Ever Told"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t24-big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t24 Big Railroad Blues"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t25-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t25 He's Gone"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t26-trucking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t26 Truckin'"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t27-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t27 The Other One"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t28-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t28 Wharf Rat"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t29-sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t29 Sugar Magnolia"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t30-casey-jones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t30 Casey Jones"
      },
      {
       "from": "gd1973-06-22.140892.sbd.pcm.composite.dalton.miller.clugston.fixv2.flac1644",
       "key": "song:grateful-dead:gd73-06-22-t31-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd73-06-22 t31 Johnny B. Goode"
      },
      {
       "from": "gd73-06-22.aud.weiner.gdADT19.16889.sbeok.shnf",
       "key": "song:grateful-dead:nobodys-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1973-03-31",
+        "show": "live:grateful-dead:1973-03-31:buffalo-memorial-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 6
+      },
       "title": "Nobody's Jam"
      },
      {
       "from": "gd73-06-22.aud.weiner.gdADT19.16889.sbeok.shnf",
       "key": "song:grateful-dead:phil-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Phil Jam"
      }
     ],
     "subject_key": "live:grateful-dead:1973-06-22:p-n-e-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 433,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Phil Zone"
+     ],
+     "show_number": 512,
+     "shows_in_archive": 2097,
      "songs": 35,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "P.N.E. Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 27,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:46.330636+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.515177+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 28,
-   "signature": "2Ndj1HnMThV2dGKsZFADRqpn7emNXjA0QDmjSfwFOgKYXBNwYj0MqJxNjau39nRRiQaJsN0Gtfz4zWlxpv4QCA",
+   "revision": 40,
+   "signature": "vttRRLEyFIeZ81jzLQnAwgrWifF4dLlnzrKu-O7KdxHRDb6KjaiH9-87ElC68XzSEzIk5_cPkRQ51UM4agNnAw",
    "subject_key": "live:grateful-dead:1973-06-22:p-n-e-coliseum",
-   "updated_at": "2026-10-25T16:41:46.333558"
+   "updated_at": "2026-10-25T17:35:13.516986"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (1 review): Nine-minute version features Weir lead, separated sound, and dreamy licks [13]\n- **He's Gone** (1 review): Jam from He's Gone onward is considered as good as it gets [20]\n- **The Other One** (1 review): Jam features Jerry's solo, Phil and Keith's reemergence, and futuristic feel [21]\n\n## The recordings\n\n- **gd1973-06-22.mtx.seamons.92375.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 35 songs; 244 min; rated 4.48/5 by 29 [1]\n- **gd73-06-22.sbd.cribbs.17270.sbeok.shnf**: matrix (soundboard mixed with audience mics); 31 songs; 261 min; rated 4.63/5 by 27 [2]. Said about its sound: Playing feels very loose and relaxed, with Phil standing out particularly; Audience patches fill the holes beautifully in the recording; First two tracks lack pristine Wall of Sound quality [11][16][18]\n- **gd1973-06-22.sbd.clugston.5850.sbeok.shnf**: soundboard; 31 songs; 257 min; rated 5/5 by 2 [3]\n- **gd1973-06-22.sbd.cribbs.88347.flac16**: soundboard; 31 songs; 261 min; rated 5/5 by 1 [4]\n- **gd73-06-22.aud.weiner.gdADT19.16889.sbeok.shnf**: audience recording; 33 songs; 223 min; rated 4.56/5 by 34 [9]. Said about its sound: Audience recording described as rich, nice, and of amazing quality; Extremely good audience tape offers a refreshing perspective compared to soundboards; Soundboard cuts out in the middle of the jam, relying on audience tape [12][14][20][22]\n\n## Around the show\n\n- Phil is creative, Jerry is humble and gentle, others play tightly [15]\n- Band had almost two weeks off before this show to recharge [18]\n\n## Tapers and lineage\n\n- **gd1973-06-22.mtx.seamons.92375.sbeok.flac16**: taped by See Notes; transferred by Hunter Seamons; source: See Notes [1]. Also: Transferred by Charlie Miller using Sony ECM mics, cassette, reel, and CD; Big Railroad Blues, The Other One, and Casey Jones supplied from SBD source [1]\n- **gd73-06-22.sbd.cribbs.17270.sbeok.shnf**: source: Soundboard and Audience composite [2]. Also: Tape owned for years, acquired on advice of a respected Deadhead friend; Composite uses MSR to PCM to DAT to CD for most, MAC for patches [2][11]\n- **gd1973-06-22.sbd.clugston.5850.sbeok.shnf**: transferred by Scott Clugston; source: Master Sounbdoard Reel > PCM > DAT > CDR [3]. Also: Intermittent crackle noise believed present on master reels throughout the first set; Audience reel supplies patch in The Other One and final part of Casey Jones [3]\n- **gd1973-06-22.sbd.cribbs.88347.flac16**: taped by Main source discs provided by Andy Lemieux.; transferred by encoding by Sean Cribbs.; source: MSR>PCM>DAT>CD>EAC>WAV [4]. Also: Patches in The Race Is On and I Know You Rider from MSC source [4]\n- **gd73-06-22.aud.weiner.gdADT19.16889.sbeok.shnf**: source: Audience Recording [9]",

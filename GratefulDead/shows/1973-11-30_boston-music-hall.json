@@ -265,7 +265,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -315,9 +315,9 @@
      "venue": "Boston Music Hall"
     },
     "previous": {
-     "date": "1973-11-25",
-     "show": "live:grateful-dead:1973-11-25:feyline-field",
-     "venue": "Feyline Field"
+     "date": "1973-11-28",
+     "show": "live:grateful-dead:1973-11-28:palace-of-fine-arts",
+     "venue": "Palace of Fine Arts"
     },
     "recommended": {
      "identifier": "gd1973-11-30.124131.mtx.dusborne.flac16",
@@ -449,117 +449,315 @@
     "setlist": [
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 109,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 134,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 74,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 182,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 86,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 87,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 53,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 163,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 37,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 80,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 122,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 195,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 120,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 105,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 53,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 140,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:weather-report-suite",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 16,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 22,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:dark-star-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 8,
+       "total_plays": 21
+      },
       "title": "Dark Star Jam"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 46,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 205,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -567,13 +765,31 @@
      {
       "from": "gd73-11-30.sbd.vernon.8099.sbeok.shnf",
       "key": "song:grateful-dead:weather-report-suite-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 20,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "from": "gd73-11-30.sbd.vernon.8099.sbeok.shnf",
       "key": "song:grateful-dead:weather-report-suite-part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 14,
+       "total_plays": 29
+      },
       "title": "Weather Report Suite Part 1"
      }
     ],
@@ -581,26 +797,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 471,
-     "shows_in_archive": 1855,
+     "show_number": 553,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.324840+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.871757+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "DAME7PGsMbTJNuAcmFoOJbX23Dkbmri4CVvaeTmrVIgIDeHeWAMvgFx0rb8nCR4v70jN_DF8LZXFqB2pQwFpBQ",
+   "revision": 17,
+   "signature": "5MA98xbCQSTse7YcVBxbMrk2cHJnR0yuxBgYfV39ZkpdtKmQG2hHCEz6GTfmHJQWjA1FqSL2R7LZzgqkbpd_Bw",
    "subject_key": "live:grateful-dead:1973-11-30:boston-music-hall",
-   "updated_at": "2026-10-25T16:41:47.326845"
+   "updated_at": "2026-10-25T17:35:13.872833"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Playin' In The Band** (4 reviews): Reviewer finds this Playin' intensely hot, with Garcia playing at a fiery peak; Reviewer calls this Playin' long and engaging [5][6][15][16]\n- **Eyes Of The World** (3 reviews): Eyes builds tension and then breaks loose; reviewer finds it close to their all-time favorite version; Reviewer rates this Eyes among the best of 1973, or of any year [10][15][16]\n- **Morning Dew** (2 reviews): Show opens with a long, beautiful, powerful Morning Dew; Opening Dew is slow and beautiful, stretching time; cowboy songs follow [8][13]\n- **Black Throated Wind** (1 review): Reviewer ranks this Black Throated Wind among the best versions of the song [8]\n- **They Love Each Other** (1 review): Played at a faster tempo, as was usual then; Garcia moves fluidly through the chord changes [6]\n- **Here Comes Sunshine** (1 review): Reviewer calls this Here Comes Sunshine long and engaging [6]\n\n## The recordings\n\n- **gd1973-11-30.124131.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 179 min; rated 4.58/5 by 19 [1]\n- **gd73-11-30.aud.vernon.17277.sbeok.shnf**: audience recording; 21 songs; 163 min; rated 3.91/5 by 11 [3]. Said about its sound: Audience recording has audible hiss and needed the volume turned well up; Audience recording sounds thin and muffled, though the Eyes still carries plenty of energy; Audience recording has a raw quality that the reviewer enjoys [8][9][10][14]\n- **gd73-11-30.sbd.vernon.8099.sbeok.shnf**: soundboard; 23 songs; 175 min; rated 4.62/5 by 13 [2]\n- **gd1973-11-30.155310.aud.partial.flac1644**: audience recording; 7 songs; 44 min [4]\n\n## Around the show\n\n- Reviewer says the show is less legendary than the 12/2 show but has many highlights [15]\n- Reviewer says the show is less legendary than the 12/2 show but has many highlights [16]\n\n## Tapers and lineage\n\n- **gd1973-11-30.124131.mtx.dusborne.flac16**: transferred by Matrix by dusborne; source: 2 source matrix by dusborne; Soundboard (shnid:8099) sbd > ? > CDR > EAC(secure) > mkwact(seekable) and Audience (shnid:17277) Source: AUDMC(unknown mics) > ?… [1]. Also: This date appears on Dick's Picks 14; show information is embedded in the FLAC file headers [1]\n- **gd73-11-30.aud.vernon.17277.sbeok.shnf**: taped by Unknown; source: Audience Recording [3]\n- **gd73-11-30.sbd.vernon.8099.sbeok.shnf**: source: Soundboard [2]\n- **gd1973-11-30.155310.aud.partial.flac1644**: taped by John Petrunis; transferred by Transferred by Andrew F. 01/2022; source: Unknown mono AUD, rescued from ebay with thanks to John Petrunis. [4]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Boston Music Hall - November 30, 1973](https://www.dead.net/show/november-30-1973) [18]\n- Poster by Jerry Garcia: [1973-11-30 Ticket - Jerry Garcia](https://jerrygarcia.com/image/1973-11-30-ticket/) [19]",

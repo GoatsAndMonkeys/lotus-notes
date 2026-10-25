@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -133,92 +133,226 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 342,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 30,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-04-01",
+        "show": "live:grateful-dead:1984-04-01:marin-county-veterans-auditorium"
+       },
+       "plays_before": 113,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 607,
+       "gap_shows": 103,
+       "last_played": {
+        "date": "1982-08-10",
+        "show": "live:grateful-dead:1982-08-10:university-of-iowa"
+       },
+       "plays_before": 52,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:loser",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 259,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-03-28",
+        "show": "live:grateful-dead:1984-03-28:marin-county-veterans-auditorium"
+       },
+       "plays_before": 157,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 389,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 183,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1983-10-08",
+        "show": "live:grateful-dead:1983-10-08:richmond-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 190,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 786,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 450,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-04-07",
+        "show": "live:grateful-dead:1984-04-07:irvine-meadows"
+       },
+       "plays_before": 389,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-04-06",
+        "show": "live:grateful-dead:1984-04-06:aladdin-theater"
+       },
+       "plays_before": 225,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-01-20",
+        "show": "live:grateful-dead:1984-01-20:carrier-dome-syracuse-u"
+       },
+       "plays_before": 162,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:black-muddy-river",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -226,27 +360,30 @@
     "subject_key": "live:grateful-dead:1984-04-08:the-centrum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1129,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Queen Jane Approximately",
+      "Black Muddy River"
+     ],
+     "show_number": 1232,
+     "shows_in_archive": 2097,
      "songs": 16,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Centrum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.041884+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.508147+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ZhjkRoqAlp5zJtSBcvvJ4tfhOJW5-8OyU7xnbHDO73YsFXLSls9fC0_9QInK2hoiTZic4Uv5gdagSBx3aTdoCw",
+   "revision": 41,
+   "signature": "eVqa5Qxbzr9vWjZIsdUqnlgW07S14LpDXXHvgFa8y8SEz3LrxXN00aVmubTy-OOOYksIXnjp8FMfV0vXSq55Ag",
    "subject_key": "live:grateful-dead:1984-04-08:the-centrum",
-   "updated_at": "2026-10-25T16:41:58.042773"
+   "updated_at": "2026-10-25T17:35:19.508594"
   }
  },
  "recommended": {

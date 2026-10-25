@@ -717,7 +717,7 @@
      "id": 36,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -733,6 +733,20 @@
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
      "quote_or_claim": "1987-09-18 Madison Square Garden, New York, NY, USA - Jerry Garcia.",
+     "site": "Jerry Garcia",
+     "title": "1987-09-18 Madison Square Garden, New York, NY, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1987-09-18-madison-square-garden-new-york-ny-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://jerrygarcia.com/",
+     "id": 38,
+     "kind": "blog",
+     "published_at": "1970-01-01T00:00:00+00:00",
+     "quote_or_claim": "",
      "site": "Jerry Garcia",
      "title": "1987-09-18 Madison Square Garden, New York, NY, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1987-09-18-madison-square-garden-new-york-ny-usa/",
@@ -1456,113 +1470,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-16",
+        "show": "live:grateful-dead:1987-09-16:madison-square-garden"
+       },
+       "plays_before": 158,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1987-08-13",
+        "show": "live:grateful-dead:1987-08-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 33,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-16",
+        "show": "live:grateful-dead:1987-09-16:madison-square-garden"
+       },
+       "plays_before": 106,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-16",
+        "show": "live:grateful-dead:1987-09-16:madison-square-garden"
+       },
+       "plays_before": 385,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 333,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 36,
+       "total_plays": 61
+      },
       "title": "When Push Comes to Shove"
      },
      {
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1987-06-27",
+        "show": "live:grateful-dead:1987-06-27:alpine-valley-music-theatre"
+       },
+       "plays_before": 4,
+       "total_plays": 16
+      },
       "title": "We Want Phil!"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 76,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-16",
+        "show": "live:grateful-dead:1987-09-16:madison-square-garden"
+       },
+       "plays_before": 224,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1987-08-18",
+        "show": "live:grateful-dead:1987-08-18:compton-terrace-amphitheatre"
+       },
+       "plays_before": 46,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-09-07",
+        "show": "live:grateful-dead:1987-09-07:providence-civic-center"
+       },
+       "plays_before": 221,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-13",
+        "show": "live:grateful-dead:1987-09-13:capital-centre"
+       },
+       "plays_before": 466,
+       "total_plays": 634
+      },
       "title": "Playin' In the Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-18",
+        "show": "live:grateful-dead:1987-09-18:madison-square-garden"
+       },
+       "plays_before": 1035,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-18",
+        "show": "live:grateful-dead:1987-09-18:madison-square-garden"
+       },
+       "plays_before": 695,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 127,
+       "total_plays": 279
+      },
       "title": "I Need a Miracle"
      },
      {
       "key": "song:grateful-dead:maggies-farm",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1987-07-26",
+        "show": "live:grateful-dead:1987-07-26:anaheim-stadium"
+       },
+       "plays_before": 4,
+       "total_plays": 48
+      },
       "title": "Maggie's Farm"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-09-15",
+        "show": "live:grateful-dead:1987-09-15:madison-square-garden"
+       },
+       "plays_before": 281,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-09-07",
+        "show": "live:grateful-dead:1987-09-07:providence-civic-center"
+       },
+       "plays_before": 348,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 208,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:black-muddy-river",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-09-16",
+        "show": "live:grateful-dead:1987-09-16:madison-square-garden"
+       },
+       "plays_before": 26,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      }
     ],
@@ -1570,121 +1764,226 @@
      {
       "from": "gd1987-09-19.126284.mtx.eichorn.sbeok.t-flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-09-12",
+        "show": "live:grateful-dead:1987-09-12:capital-centre"
+       },
+       "plays_before": 418,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1987-09-19.nak300.gidley.116065.flac2448",
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 114,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "from": "gd1987-09-19.Beyers.Hill.Keo.131608.Flac1644",
       "key": "song:grateful-dead:dont-ease-me-in-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 169,
+       "gap_shows": 52,
+       "last_played": {
+        "date": "1987-04-03",
+        "show": "live:grateful-dead:1987-04-03:the-centrum"
+       },
+       "plays_before": 10,
+       "total_plays": 32
+      },
       "title": "Don't Ease Me In, Set Break"
      },
      {
       "from": "gd1987-09-19.Beyers.Hill.Keo.131608.Flac1644",
       "key": "song:grateful-dead:farm-aid-rap-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Farm Aid Rap/Tuning"
      },
      {
       "from": "gd1987-09-19.137413.sbd.miller.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-09-08",
+        "show": "live:grateful-dead:1987-09-08:providence-civic-center"
+       },
+       "plays_before": 160,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1987-09-19.sbd.painoman.76469.sbeok.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-09-13",
+        "show": "live:grateful-dead:1987-09-13:capital-centre"
+       },
+       "plays_before": 57,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1987-09-19.154312.set2.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:farm-aid-rap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Farm Aid Rap"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t01 Crowd"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t02-crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t02 Crazy Fingers"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t03-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t03 Uncle John's Band"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t04-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t04 Playin' In The Band"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t05 Drums"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t06 Space"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t07-i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t07 I Need A Miracle"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t08-maggies-farm",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t08 Maggie's Farm"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t09-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t09 Black Peter"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t10-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t10 Around & Around"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t11-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t11 Turn On Your Lovelight"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t12-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t12 Encore Break"
      },
      {
       "from": "gd1987-09-19.142211.set2.schoeps.cmc4.mk41.oade.jacobs.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd87-09-19-s2t13-black-muddy-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd87-09-19 s2t13 Black Muddy River"
      }
     ],
@@ -1692,26 +1991,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1381,
-     "shows_in_archive": 1855,
+     "show_number": 1485,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Madison Square Garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.232122+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.099308+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "heNh5HVF4HUCkALpuG7ZSaKDswOqeZZQ_Nm7nggDF5wonIe8N414cv6v0OHE2eevYgih2apO2WmhdHk7SXHgBw",
+   "revision": 43,
+   "signature": "1jjH_JoTU6-dwAx5UWEnZtogqBXC0hq0y1DLJSYVyuvPgLZdh8TdaRE0IK35LNpQc1awAboblHA_B1w47YdoAw",
    "subject_key": "live:grateful-dead:1987-09-19:madison-square-garden",
-   "updated_at": "2026-10-25T16:42:05.237221"
+   "updated_at": "2026-10-25T17:35:23.100814"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **High Time** (1 review): Listener calls High Time real sweet and a highlight, noting an interesting slide solo from Bob [28]\n- **Crazy Fingers** (1 review): Listener describes Crazy Fingers, Uncle John's, and Playin' In The Band as real sweet [24]\n- **Maggie's Farm** (1 review): Listener notes Maggie's Farm rocks, but wished for the other song after it per Bob's direction [25]\n- Listener considers the Playing in the Band performance an overlooked gem [26]\n\n## The recordings\n\n- **gd1987-09-19.126346.mtx-redo.eichorn.sbeok.t-flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 135 min; rated 4.5/5 by 2 [1]\n- **gd1987-09-19.126284.mtx.eichorn.sbeok.t-flac16**: matrix (soundboard mixed with audience mics); 21 songs; 135 min; rated 1/5 by 1 [2]\n- **gd1987-09-19.137413.sbd.miller.flac16**: soundboard; 19 songs; 135 min; rated 1/5 by 1 [6]\n- **gd1987-09-19.sbd.painoman.76469.sbeok.flac16**: soundboard; 19 songs; 137 min; rated 2.75/5 by 4 [8]\n- **gd1987-09-19.176816.senn441.lamarre.miller.clugston.flac2496**: audience recording; 19 songs; 135 min [11]\n- **gd1987-09-19.nak300.pasternak.mallick.105569.flac16**: source not stated; 19 songs; 136 min; rated 5/5 by 1 [14]. Said about its sound: Listener notes lots of bandwidth retained and bright levels, hearing the Garden in its resonant glory [30]\n- **gd1987-09-19.nak300.damico.90485.sbeok.flac16**: source not stated; 19 songs; 134 min; rated 4/5 by 1 [15]. Said about its sound: Listener notes very good recording quality with extremely minor distortion present [26]\n- **gd1987-09-19.nakcm304.suraci.82419.flac16**: source not stated; 19 songs; 131 min; rated 3.25/5 by 4 [18]. Said about its sound: Listener rates the sound as high quality grade A with a perfect mix of crowd and music; Listener rates the sound quality at 4 out of 5 stars [24][25]\n\n## Around the show\n\n- Listener attended their second show, noting the Farm Aid comments were strange at the time [23]\n- Listener recalls bringing their mother and father to this specific show [26]\n- Listener notes Dead Heads in 1987 disliked Black Peter and Around & Around as downers [27]\n- Listener states Miracle, Maggie's Farm, and Black Peter were part of the Farm Aid III TV broadcast [27]\n- Listener describes the venue as filled with the same energy as the night before [30]\n- Uploader notes Maggie's Farm was broadcast on TV for Farm Aid [6]\n- Listener compares the show to the previous night's monster Dew, calling this one outstanding playing [28]\n\n## Tapers and lineage\n\n- **gd1987-09-19.126346.mtx-redo.eichorn.sbeok.t-flac16**: transferred by Roger Eichorn; source: Another Matrix from Source 1: SBD (shnid=76469) SBD>CD>EAC>FLAC; Source 2 (Set 1): AUD (shnid=91977) Taper(s): David Barfield and or David Lane; Source: (OTS)… [1]. Also: Uploader re-released the matrix, claiming it represents a serious improvement over the first version [1]\n- **gd1987-09-19.126284.mtx.eichorn.sbeok.t-flac16**: transferred by Roger Eichorn; source: Matrix from Source 1: SBD (shnid=76469) SBD>CD>EAC>FLAC; Source 2 (Set 1): AUD (shnid=91977) Taper(s): David Barfield and/or David Lane Source: (OTS) Nakamichi… [2]. Also: Uploader admits the release was a huge embarrassing gaffe and redid the matrix on December 16, 2013 [31]\n- **gd1987-09-19.137413.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD > Cassette Master (TDK SA-X90) [6]. Also: Uploader used two sets of masters to make the show complete, with help from Joe B. Jones [6]\n- **gd1987-09-19.sbd.painoman.76469.sbeok.flac16**: transferred by Painoman and Jay Serafin; source: SBD>TAMH*>CD>EAC>FLAC (Most likely SBD>PCM>DAT>CD>EAC>FLAC) [8]. Also: Original CDs were provided by Jay Serafin in 2000, with extraction by PainoMan in 2006 [8]\n- **gd1987-09-19.176816.senn441.lamarre.miller.clugston.flac2496**: taped by Doug Lamarre; transferred by Scott Clugston, Charlie Miller; source: Doug Lamarre's Master Audience Cassettes; Sennheiser 441 mics > Sony D5M [11]. Also: M. Laurentis provided an AT835B source supplying a 0:17 patch in Space [11]\n- **gd1987-09-19.nak300.pasternak.mallick.105569.flac16**: taped by Jon Pasternak; transferred by Jon Pasternak and Dave Mallick; source: Nakamichi CM300's/CP4's>Marantz PMD-420>Cass(m), [14]\n- **gd1987-09-19.nak300.damico.90485.sbeok.flac16**: taped by Joe D'Amico; transferred by Joe D'Amico; source: nak 300 mics w/ cp4 shotguns > sony d-5 D [15]\n- **gd1987-09-19.nakcm304.suraci.82419.flac16**: taped by Tony Suraci; transferred by Tony Suraci; source: Nak CM304's>Sony D5M [18]",

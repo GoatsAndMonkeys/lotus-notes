@@ -134,7 +134,7 @@
      "id": 9,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -150,13 +150,13 @@
     "guests": [],
     "next": {
      "date": "1993-01-24",
-     "show": "live:grateful-dead:1993-01-24:oakland-alameda-county-coliseum-arena",
-     "venue": "Oakland-Alameda County Coliseum Arena"
+     "show": "live:grateful-dead:1993-01-24:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "previous": {
      "date": "1992-12-17",
-     "show": "live:grateful-dead:1992-12-17:oakland-coliseum-arena",
-     "venue": "Oakland Coliseum Arena"
+     "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "recommended": {
      "identifier": "gd1993-01-01.175972.mtx.Volume3.SongsofOurOwn.eichorn.flac1644",
@@ -259,165 +259,431 @@
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 190,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger (06/26/1993)"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 198,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step (05/22/1993)"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 400,
+       "total_plays": 439
+      },
       "title": "Promised Land (10/1/1994)"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 216,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1992-05-30",
+        "show": "live:grateful-dead:1992-05-30:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 124,
+       "total_plays": 133
+      },
       "title": "High Time (03/28/1993)"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 242,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow (09/16/1993)"
      },
      {
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 43,
+       "total_plays": 71
+      },
       "title": "Masterpiece (03/11/1993)"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1012,
+       "gap_shows": 202,
+       "last_played": {
+        "date": "1990-03-26",
+        "show": "live:grateful-dead:1990-03-26:knickerbocker-arena"
+       },
+       "plays_before": 84,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues (10/13/1994)"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 272,
+       "total_plays": 286
+      },
       "title": "Candyman (10/15/1994)"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 135,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway (03/21/1993)"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 336,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women (06/16/1993)"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 193,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1992-06-22",
+        "show": "live:grateful-dead:1992-06-22:star-lake-ampitheater"
+       },
+       "plays_before": 161,
+       "total_plays": 168
+      },
       "title": "It Must Have Been the Roses (03/24/1993)"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 61,
+       "total_plays": 100
+      },
       "title": "Loose Lucy (03/27/1993)"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 275,
+       "total_plays": 294
+      },
       "title": "Let It Grow (09/13/1993)"
      },
      {
       "key": "song:grateful-dead:sugaree",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 353,
+       "total_plays": 372
+      },
       "title": "Sugaree (06/05/1993)"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 218,
+       "total_plays": 246
+      },
       "title": "Music Never Stopped (08/22/1993)"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 225,
+       "total_plays": 240
+      },
       "title": "Ship of Fools (08/22/1993)"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 350,
+       "total_plays": 389
+      },
       "title": "Eyes of the World (05/25/1993)"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 184,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1992-07-01",
+        "show": "live:grateful-dead:1992-07-01:buckeye-lake-music-center"
+       },
+       "plays_before": 200,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance (06/16/1993)"
      },
      {
       "key": "song:grateful-dead:jam-out-of-terrapin",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jam Out of Terrapin (06/23/1993)"
      },
      {
       "key": "song:grateful-dead:drums-and-space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 209,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1992-06-06",
+        "show": "live:grateful-dead:1992-06-06:rich-stadium"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "Drums and Space (10/5/1994)"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1992-12-06",
+        "show": "live:grateful-dead:1992-12-06:compton-terrace-amphitheatre"
+       },
+       "plays_before": 115,
+       "total_plays": 121
+      },
       "title": "China Doll (05/26/1993)"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 240,
+       "total_plays": 267
+      },
       "title": "The Wheel (08/22/1993)"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 340,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah (09/28/1993)"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 473,
+       "gap_shows": 76,
+       "last_played": {
+        "date": "1991-09-16",
+        "show": "live:grateful-dead:1991-09-16:madison-square-garden"
+       },
+       "plays_before": 68,
+       "total_plays": 72
+      },
       "title": "Comes A Time (10/9/1994)"
      },
      {
       "key": "song:grateful-dead:cassidy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 326,
+       "total_plays": 351
+      },
       "title": "Cassidy (07/23/1994)"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 204,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1992-06-11",
+        "show": "live:grateful-dead:1992-06-11:knickerbocker-arena"
+       },
+       "plays_before": 71,
+       "total_plays": 91
+      },
       "title": "Foolish Heart (06/11/1993)"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 232,
+       "total_plays": 272
+      },
       "title": "Throwing Stones (09/22/1993)"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 191,
+       "total_plays": 222
+      },
       "title": "Touch of Grey (09/28/1993)"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 204,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1992-06-11",
+        "show": "live:grateful-dead:1992-06-11:knickerbocker-arena"
+       },
+       "plays_before": 55,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (10/5/1994)"
      },
      {
       "key": "song:grateful-dead:black-muddy-river",
-      "stats": {},
+      "stats": {
+       "days_since": 507,
+       "gap_shows": 90,
+       "last_played": {
+        "date": "1991-08-13",
+        "show": "live:grateful-dead:1991-08-13:cal-expo"
+       },
+       "plays_before": 65,
+       "total_plays": 69
+      },
       "title": "Black Muddy River (07/9/1995)"
      }
     ],
@@ -425,346 +691,813 @@
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:let-the-good-times-roll",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 38,
+       "total_plays": 49
+      },
       "title": "Let the Good Times Roll (03/29/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 586,
+       "total_plays": 634
+      },
       "title": "Playin' In the Band (05/26/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:lazy-river-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 70
+      },
       "title": "Lazy River Road (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 103,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe (03/27/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1992-12-03",
+        "show": "live:grateful-dead:1992-12-03:mcnichols-sports-arena"
+       },
+       "plays_before": 285,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1992-12-03",
+        "show": "live:grateful-dead:1992-12-03:mcnichols-sports-arena"
+       },
+       "plays_before": 240,
+       "total_plays": 272
+      },
       "title": "Peggy-O (03/27/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 198,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1992-06-17",
+        "show": "live:grateful-dead:1992-06-17:charlotte-coliseum"
+       },
+       "plays_before": 302,
+       "total_plays": 312
+      },
       "title": "Mama Tried (06/25/1995)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 290,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil (10/5/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 100,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately (10/14/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 285,
+       "total_plays": 314
+      },
       "title": "Bird Song (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 411,
+       "total_plays": 438
+      },
       "title": "Deal (05/26/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 572,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia (02/21/1995)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 159,
+       "total_plays": 177
+      },
       "title": "Shakedown Street (10/3/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 123,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers (03/24/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:playing-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 204,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1992-06-11",
+        "show": "live:grateful-dead:1992-06-11:knickerbocker-arena"
+       },
+       "plays_before": 44,
+       "total_plays": 45
+      },
       "title": "Playin' Jam (03/24/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 299,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band (10/5/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 364,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:attics-of-my-life",
-      "stats": {},
+      "stats": {
+       "days_since": 203,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1992-06-12",
+        "show": "live:grateful-dead:1992-06-12:knickerbocker-arena"
+       },
+       "plays_before": 37,
+       "total_plays": 58
+      },
       "title": "Attics Of My Life (10/14/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 505,
+       "total_plays": 539
+      },
       "title": "Truckin' (02/21/1995)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:days-between",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 45
+      },
       "title": "The Days Between (03/27/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 564,
+       "total_plays": 601
+      },
       "title": "The Other One (09/29/1994)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 388,
+       "total_plays": 417
+      },
       "title": "Wharf Rat (06/25/1995)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 517,
+       "total_plays": 556
+      },
       "title": "Not Fade Away (06/25/1995)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 126,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream (02/21/95)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:visions-of-johanna",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2446,
+       "gap_shows": 490,
+       "last_played": {
+        "date": "1986-04-22",
+        "show": "live:grateful-dead:1986-04-22:berkeley-community-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 10
+      },
       "title": "Visions of Johanna (02/21/95)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 564,
+       "gap_shows": 98,
+       "last_played": {
+        "date": "1991-06-17",
+        "show": "live:grateful-dead:1991-06-17:giants-stadium"
+       },
+       "plays_before": 29,
+       "total_plays": 36
+      },
       "title": "Playin' (Reprise) (05/26/1993)"
      },
      {
       "from": "gd1993-01-01.175780.vol02.HerAngelsInFlame.eichorn.flac16",
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 289,
+       "gap_shows": 40,
+       "last_played": {
+        "date": "1992-03-18",
+        "show": "live:grateful-dead:1992-03-18:the-spectrum"
+       },
+       "plays_before": 146,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue (10/13/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 187,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1992-06-28",
+        "show": "live:grateful-dead:1992-06-28:deer-creek-music-center"
+       },
+       "plays_before": 95,
+       "total_plays": 120
+      },
       "title": "Help On the Way (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 187,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1992-06-28",
+        "show": "live:grateful-dead:1992-06-28:deer-creek-music-center"
+       },
+       "plays_before": 92,
+       "total_plays": 118
+      },
       "title": "Slipknot (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 187,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1992-06-28",
+        "show": "live:grateful-dead:1992-06-28:deer-creek-music-center"
+       },
+       "plays_before": 208,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower (09/22/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 250,
+       "total_plays": 285
+      },
       "title": "Althea (10/1/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 342,
+       "total_plays": 364
+      },
       "title": "Loser (10/13/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 129,
+       "total_plays": 155
+      },
       "title": "Stagger Lee (03/24/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 255,
+       "total_plays": 278
+      },
       "title": "Row Jimmy (03/16/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 376,
+       "total_plays": 406
+      },
       "title": "Bertha (03/21/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:so-many-roads",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 20,
+       "total_plays": 59
+      },
       "title": "So Many Roads (09/28/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 527,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower (09/28/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 530,
+       "total_plays": 564
+      },
       "title": "I Know You Rider (09/28/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 306,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias (10/14/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1992-12-17",
+        "show": "live:grateful-dead:1992-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 243,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain (10/14/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 187,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1992-06-28",
+        "show": "live:grateful-dead:1992-06-28:deer-creek-music-center"
+       },
+       "plays_before": 37,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie (10/15/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 277,
+       "total_plays": 317
+      },
       "title": "Terrapin Station (10/1/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:standing-on-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 47,
+       "total_plays": 83
+      },
       "title": "Standing On the Moon (09/26/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 198,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket (09/13/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1992-12-02",
+        "show": "live:grateful-dead:1992-12-02:mcnichols-sports-arena"
+       },
+       "plays_before": 297,
+       "total_plays": 337
+      },
       "title": "He's Gone (03/21/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1992-12-11",
+        "show": "live:grateful-dead:1992-12-11:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 156,
+       "total_plays": 190
+      },
       "title": "Iko Iko (03/18/1995)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1992-12-16",
+        "show": "live:grateful-dead:1992-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 302,
+       "total_plays": 340
+      },
       "title": "Stella Blue (03/21/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 193,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1992-06-22",
+        "show": "live:grateful-dead:1992-06-22:star-lake-ampitheater"
+       },
+       "plays_before": 294,
+       "total_plays": 302
+      },
       "title": "Goin' Down the Road Feelin' Bad (03/24/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1992-12-05",
+        "show": "live:grateful-dead:1992-12-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 341,
+       "total_plays": 356
+      },
       "title": "Black Peter (01/24/1993)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1992-12-12",
+        "show": "live:grateful-dead:1992-12-12:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 316,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night (10/1/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1992-12-13",
+        "show": "live:grateful-dead:1992-12-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 242,
+       "total_plays": 264
+      },
       "title": "Morning Dew (03/27/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:liberty",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 60
+      },
       "title": "Liberty (10/14/1994)"
      },
      {
       "from": "gd1993-01-01.175779.vol01.OntheCrestofaWave.eichorn.flac16",
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1992-12-06",
+        "show": "live:grateful-dead:1992-12-06:compton-terrace-amphitheatre"
+       },
+       "plays_before": 200,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace (06/25/95)"
      }
     ],
     "subject_key": "live:grateful-dead:1993-01-01:various",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1773,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Dupree's Diamond Blues (10/13/1994)"
+     ],
+     "first_in_archive": [
+      "Jam Out of Terrapin (06/23/1993)"
+     ],
+     "show_number": 1880,
+     "shows_in_archive": 2097,
      "songs": 30,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Various"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 2,
+   "parent_revision": 14,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:18.970579+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:27.483037+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 3,
-   "signature": "fiU2SjXg4I1xqhhL8AAhJ4Xb3iQ2TdtKG_0An_PWll8Tr7aaYnrMggd1MUSTXiNcmSCWBYBXA3Sw7zZHMiyHBA",
+   "revision": 15,
+   "signature": "q1PcQSw0o3AZp1fT0V_5lFbNe2HLMbiI9eagJa2mYQNWnpXYk-YtpyovXbEW-pZRgudSrQyjOSG04TLO1aJoCA",
    "subject_key": "live:grateful-dead:1993-01-01:various",
-   "updated_at": "2026-10-25T16:42:18.971981"
+   "updated_at": "2026-10-25T17:35:27.484346"
   }
  },
  "recommended": {

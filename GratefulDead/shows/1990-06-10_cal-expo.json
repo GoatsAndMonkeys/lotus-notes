@@ -602,7 +602,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -632,7 +632,7 @@
      "image_url": "https://www.dead.net/sites/g/files/g2000007851/files/styles/merch_image_600_600/public/dead_site_files/images/19900610_1332.jpg?itok=ibdjvWy2",
      "kind": "fanart",
      "published_at": null,
-     "quote_or_claim": "Cal Expo Amphitheatre - June 10, 1990 | Grateful Dead.",
+     "quote_or_claim": "Cal Expo Amphitheatre - June 10, 1990 | Grateful Dead.",
      "site": "Grateful Dead",
      "title": "Grateful Dead Cal Expo Amphitheatre - June 10, 1990",
      "url": "https://www.dead.net/show/june-10-1990",
@@ -653,8 +653,8 @@
     },
     "previous": {
      "date": "1990-06-09",
-     "show": "live:grateful-dead:1990-06-09:cal-expo-amphitheatre",
-     "venue": "Cal Expo Amphitheatre"
+     "show": "live:grateful-dead:1990-06-09:cal-expo",
+     "venue": "Cal Expo"
     },
     "recommended": {
      "identifier": "gd1990-06-10.schoeps.unknown.457.sbefail.shnf",
@@ -1206,119 +1206,307 @@
     "setlist": [
      {
       "key": "song:grateful-dead:deadspace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "dead space"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-29",
+        "show": "live:grateful-dead:1990-03-29:nassau-coliseum"
+       },
+       "plays_before": 350,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-29",
+        "show": "live:grateful-dead:1990-03-29:nassau-coliseum"
+       },
+       "plays_before": 422,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:we-want-phil-chant-its-a-bullshit-lie",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We want Phil chant \"...it's a bullshit lie!"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-30",
+        "show": "live:grateful-dead:1990-03-30:nassau-coliseum"
+       },
+       "plays_before": 219,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 20,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 228,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 12,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 373,
+       "total_plays": 444
+      },
       "title": "Tennesee Jed"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 365,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 109,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 73,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-29",
+        "show": "live:grateful-dead:1990-03-29:nassau-coliseum"
+       },
+       "plays_before": 314,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-05-05",
+        "show": "live:grateful-dead:1990-05-05:cal-state-dominguez-hills"
+       },
+       "plays_before": 530,
+       "total_plays": 634
+      },
       "title": "Playin In The Band"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-05-05",
+        "show": "live:grateful-dead:1990-05-05:cal-state-dominguez-hills"
+       },
+       "plays_before": 83,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      },
      {
       "key": "song:grateful-dead:playing-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 34,
+       "total_plays": 45
+      },
       "title": "Playing Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-09",
+        "show": "live:grateful-dead:1990-06-09:cal-expo"
+       },
+       "plays_before": 1232,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-06-09",
+        "show": "live:grateful-dead:1990-06-09:cal-expo"
+       },
+       "plays_before": 892,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-30",
+        "show": "live:grateful-dead:1990-03-30:nassau-coliseum"
+       },
+       "plays_before": 85,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-05-06",
+        "show": "live:grateful-dead:1990-05-06:cal-state-dominguez-hills"
+       },
+       "plays_before": 21,
+       "total_plays": 83
+      },
       "title": "Standing On The Moon"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-05-06",
+        "show": "live:grateful-dead:1990-05-06:cal-state-dominguez-hills"
+       },
+       "plays_before": 184,
+       "total_plays": 272
+      },
       "title": "Throwin' Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 480,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:last-time",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-05-06",
+        "show": "live:grateful-dead:1990-05-06:cal-state-dominguez-hills"
+       },
+       "plays_before": 5,
+       "total_plays": 71
+      },
       "title": "The Last Time"
      }
     ],
@@ -1326,100 +1514,188 @@
      {
       "from": "gd1990-06-10.142579.FOB.Schoeps.Weber-Small.Mattes.Miler.Noel.t-flac1648",
       "key": "song:grateful-dead:its-a-bullshit-lie",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "its a bullshit lie"
      },
      {
       "from": "gd1990-06-10.142579.FOB.Schoeps.Weber-Small.Mattes.Miler.Noel.t-flac1648",
       "key": "song:grateful-dead:nfa-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-04-03",
+        "show": "live:grateful-dead:1990-04-03:the-omni"
+       },
+       "plays_before": 34,
+       "total_plays": 54
+      },
       "title": "NFA chant"
      },
      {
       "from": "gd1990-06-10.schoeps.wklitz.97059.sbeok.flac16",
       "key": "song:grateful-dead:phil-talks",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Talks"
      },
      {
       "from": "gd1990-06-10.168425.3xnakcm300.ont.flac1644",
       "key": "song:grateful-dead:phil-refutes-rumor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil refutes rumor"
      },
      {
       "from": "gd1990-06-10.168425.3xnakcm300.ont.flac1644",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 183,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1989-12-09",
+        "show": "live:grateful-dead:1989-12-09:great-western-la-forum"
+       },
+       "plays_before": 97,
+       "total_plays": 123
+      },
       "title": "Playing In The Band Reprise"
      },
      {
       "from": "gd90-06-10.sbd-matrix.miller-ladner.6937.sbeok.shnf",
       "key": "song:grateful-dead:we-want-phil-theres-this-rumor-going-round",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "we want phil - 'there's this rumor goin' round...'"
      },
      {
       "from": "gd90-06-10.sbd-matrix.miller-ladner.6937.sbeok.shnf",
       "key": "song:grateful-dead:crazy-fingers-playing-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crazy Fingers Playing Jam"
      },
      {
       "from": "gd90-06-10.sbd-matrix.miller-ladner.6937.sbeok.shnf",
       "key": "song:grateful-dead:more-drums",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1936,
+       "gap_shows": 394,
+       "last_played": {
+        "date": "1985-02-20",
+        "show": "live:grateful-dead:1985-02-20:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "More Drums"
      },
      {
       "from": "gd1990-06-10..mtx.haugh.30361.sbeok.flac16",
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-30",
+        "show": "live:grateful-dead:1990-03-30:nassau-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 16
+      },
       "title": "We want Phil"
      },
      {
       "from": "gd1990-06-10..mtx.haugh.30361.sbeok.flac16",
       "key": "song:grateful-dead:playing-in-the-band-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 237,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1989-10-16",
+        "show": "live:grateful-dead:1989-10-16:meadowlands-arena"
+       },
+       "plays_before": 20,
+       "total_plays": 28
+      },
       "title": "Playing In The Band Jam"
      },
      {
       "from": "gd1990-06-10.111344.NeumannKMF4.daweez.d5scott.flac16",
       "key": "song:grateful-dead:phil",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 633,
+       "gap_shows": 124,
+       "last_played": {
+        "date": "1988-09-15",
+        "show": "live:grateful-dead:1988-09-15:madison-square-garden"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "Phil"
      },
      {
       "from": "gd1990-06-10.111344.NeumannKMF4.daweez.d5scott.flac16",
       "key": "song:grateful-dead:this-could-be-the-last-time",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-05-06",
+        "show": "live:grateful-dead:1990-05-06:cal-state-dominguez-hills"
+       },
+       "plays_before": 4,
+       "total_plays": 12
+      },
       "title": "This Could Be The Last Time"
      }
     ],
     "subject_key": "live:grateful-dead:1990-06-10:cal-expo",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1583,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "dead space",
+      "We want Phil chant \"...it's a bullshit lie!"
+     ],
+     "show_number": 1688,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cal Expo"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 14,
+   "parent_revision": 26,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:12.180345+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.458524+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 15,
-   "signature": "jVZdbFT5kP0djd0olnguXQEeYoFqLaPUGIn55QsoCDJz36sroyiGWEQlv68i6I2ZAc1R6RDWyQ_HV3kvMenQBA",
+   "revision": 27,
+   "signature": "QaIa9sR9yfIlsvx7TTqqIJzexRhw2DLMQLRVLZ-QfNbBVOWcgoqSL_ojSdNZ8ogiXCPilSd_GF8Xzmc47mvCAA",
    "subject_key": "live:grateful-dead:1990-06-10:cal-expo",
-   "updated_at": "2026-10-25T16:42:12.182583"
+   "updated_at": "2026-10-25T17:35:25.460185"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Eyes Of The World** (3 reviews): Eyes is praised as a return to a mellower, 1970s-style version; Eyes was outstanding, part of a 1990 revival of the song credited to the 3/29 show [20][22][24]\n- **Bertha** (1 review): Bertha is described as lightning fast and hot, opening the show [22]\n- **Jack Straw** (1 review): Bertha and Jack Straw are hot, followed by Phil's classic speech, making the opening tracks essential [24]\n- **Picasso Moon** (1 review): Picasso Moon is called underrated, with Jerry sounding inspired [29]\n- **Standing On The Moon** (1 review): Reviewer recalls Standing on the Moon as one of the better versions they saw [23]\n\n## The recordings\n\n- **gd1990-06-10.schoeps.unknown.457.sbefail.shnf** (recommended): source not stated; 22 songs; 187 min; rated 5/5 by 1 [1]\n- **gd1990-06-10.142579.FOB.Schoeps.Weber-Small.Mattes.Miler.Noel.t-flac1648**: source not stated; 22 songs; 159 min; rated 4/5 by 1 [2]\n- **gd1990-06-10.schoeps.wklitz.97059.sbeok.flac16**: source not stated; 21 songs; 159 min; rated 2/5 by 1 [3]\n- **gd1990-06-10.168425.3xnakcm300.ont.flac1644**: source not stated; 21 songs; 160 min [4]\n- **gd1990-06-10.152180.nakcp702.flac2496**: source not stated; 21 songs; 163 min [5]. Said about its sound: Right channel dropped out several times due to cabling; fixed by copying the left channel, making those moments mono; Both channels cut for about 20 seconds at the end of the NFA chant; the silence was edited out [5]\n- **gd90-06-10.sbd-matrix.miller-ladner.6937.sbeok.shnf**: matrix (soundboard mixed with audience mics); 21 songs; 152 min; rated 4.25/5 by 44 [7]. Said about its sound: Matrix recording has remarkable clarity, with just enough audience noise to convey the party atmosphere; Sound quality is excellent; the rest of the performance is average to good; Very clean sound, avoiding the harshness of some other shows, paired with tight playing [19][24][25]\n\n## Around the show\n\n- Phil's \"bullshit lie\" remark is remembered as a classic moment; the reviewer says Cal Expo was one of a kind [19]\n- Sunday afternoon start rather than evening; small, fast hot-air-balloon-like objects floated over Cal Expo during the show [27]\n- Rumors of Phil leaving the band circulated heavily in Oregon before summer tour; small balloons with dancing-bear pictures passed over [28]\n- Phil squashed the rumors of his leaving and then played powerfully all night [29]\n- Eileen Law and the writer told Phil before the show about many calls on the quitting rumor; he promised to end it [30]\n- Phil's announcement came after Jack Straw; the taper drove from San Luis Obispo County and met Bear Owsley in the tapers section [4]\n- Reviewer ranks this and the 9th as the best soundboard/matrix recordings they have heard [19]\n- Called possibly the best show of the Cal Expo, Shoreline and Eugene run, and among the summer's best [22]\n\n## Tapers and lineage\n\n- **gd1990-06-10.schoeps.unknown.457.sbefail.shnf**: taped by Unknown; transferred by unknown; source: daud>>sch mk4>>D>>CD [1]\n- **gd1990-06-10.142579.FOB.Schoeps.Weber-Small.Mattes.Miler.Noel.t-flac1648**: taped by Sean Weber-Small; transferred by Joe Noel and Ted Mattes and Charlie Miller; source: flac16/48kHz ;Sean Weber-Small (FOB) Recording: Schoeps CMC4 MK2 > Oade Power Supply > DAT 48k (Panasonic SV-250). Mics spaced 8' w/ mic stands @ 5' 11\";… [2]\n- **gd1990-06-10.schoeps.wklitz.97059.sbeok.flac16**: taped by Keith Litzenberger; transferred by Keith Litzenberger; source: Schoeps Omni Spaced 27'>Oade?>Technics SV-MD1 in Taper's Section DAT MASTER>Tascam DA-30MKII>Sound Devices 702>Soundforge 9>CDWAV>FLAC (It's likely that my DAT… [3]. Also: DAT likely patched through the lead deck's analog output, since mics weren't the taper's and the Technics lacks digital in; Second set was on a 90-minute DAT; tapes swapped before the encore, so some audience chant is missing [3]\n- **gd1990-06-10.168425.3xnakcm300.ont.flac1644**: taped by OldNeumanntapr; transferred by OldNeumanntapr; source: OTS; Nakamichi CM-300s x3; Two CP-4 Shotgun Capsules + One CP-3 Super Omni Mixed With Radio Shack Mixer >Aiwa HD-X1 DAT >Sony WM-D6C (Patch) [TDK MA110s] [4]. Also: Sony WM-D6C patched into a friend John's Nakamichi CM300x3 rig, later bought by the taper [4]\n- **gd1990-06-10.152180.nakcp702.flac2496**: source: FOB Nakamichi CP-702 omni capsules, 12' spread > custom pre-amp/power supply > Dbx Type II noise reduction encoder > Sony TC-D5 cassette [5]. Also: Master cassette from a setup feeding multiple chained recorders, mastered with Waves L3 Ultramaximizer [5]\n- **gd90-06-10.sbd-matrix.miller-ladner.6937.sbeok.shnf**: source: SBD/Matrix > DAT > CDR > WAV > SHN [7]. Also: A good Schoeps FOB recording of this show is also in circulation [20]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead BGP Laminate, Cal Expo Amphitheatre](https://www.dead.net/archives/1990/artwork/bgp-laminate-cal-expo-amphitheatre) [32]\n- Fan art by Grateful Dead: [Grateful Dead Cal Expo Amphitheatre - June 10, 1990](https://www.dead.net/show/june-10-1990) [33]",

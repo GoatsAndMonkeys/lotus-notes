@@ -442,7 +442,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -822,127 +822,338 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 160,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-05-22",
+        "show": "live:grateful-dead:1977-05-22:the-sportatorium"
+       },
+       "plays_before": 149,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 173,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 186,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 114,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 49,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 238,
+       "gap_shows": 40,
+       "last_played": {
+        "date": "1976-10-02",
+        "show": "live:grateful-dead:1976-10-02:riverfront-arena"
+       },
+       "plays_before": 69,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 8,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 147,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 174,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 64,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 177,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 32,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-05-19",
+        "show": "live:grateful-dead:1977-05-19:fox-theater"
+       },
+       "plays_before": 247,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 19,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 304,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 191,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 105,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-05-19",
+        "show": "live:grateful-dead:1977-05-19:fox-theater"
+       },
+       "plays_before": 247,
+       "total_plays": 634
+      },
       "title": "Playin in the Band"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 139,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-05-21",
+        "show": "live:grateful-dead:1977-05-21:lakeland-civic-center"
+       },
+       "plays_before": 64,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 42,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning (5/8/77)"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-05-25",
+        "show": "live:grateful-dead:1977-05-25:the-mosque"
+       },
+       "plays_before": 36,
+       "total_plays": 127
+      },
       "title": "Supplication (5/8/77)"
      },
      {
       "key": "song:grateful-dead:teddy-good-bear-5-8-77-collage",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Teddy \"Good Bear\" 5/8/77 (long ver.) Collage"
      }
     ],
@@ -950,184 +1161,315 @@
      {
       "from": "gd1977-05-28.mtx.chappell.sb30b.97017.flac16",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1977-03-19",
+        "show": "live:grateful-dead:1977-03-19:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "from": "gd77-05-28.sbd.obv.31952.sbeok.shnf",
       "key": "song:grateful-dead:tune-up",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 2,
+       "total_plays": 6
+      },
       "title": "Tune up (Aud patch)"
      },
      {
       "from": "gd1977-05-28.sbd.ashley-bertha.12827.sbeok.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-05-26",
+        "show": "live:grateful-dead:1977-05-26:baltimore-civic-center"
+       },
+       "plays_before": 39,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t01-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t01 Bertha"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t02-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t02 Good Lovin'"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t03-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t03 Sugaree"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t04-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t04 Jack Straw"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t05-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t05 Row Jimmy"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t06-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t06 New Minglewood Blues"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t07-candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t07 Candyman"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t08-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t08 Passenger"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t09-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t09 Brown Eyed Women"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t10-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t10 Promised Land"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t11-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t11 Samson & Delilah"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t12-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t12 Tennessee Jed"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t13-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t13 Estimated Prophet"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t14-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t14 Playin' In The Band"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t15-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t15 Terrapin Station"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t16-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t16 Drums"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t17-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t17 Not Fade Away"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t18-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t18 Wharf Rat"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t19-playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t19 Playin' In The Band Reprise"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t20-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t20 One More Saturday Night"
      },
      {
       "from": "gd1977-05-28.141832.sony.ecm33p.moore.dalton.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-05-28-t21-us-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-05-28 t21 US Blues"
      },
      {
       "from": "gd1977-05-28.152419.aud.petrunis.flac2448",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1977-04-22",
+        "show": "live:grateful-dead:1977-04-22:the-spectrum"
+       },
+       "plays_before": 1,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1977-05-28.152419.aud.petrunis.flac2448",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1977-05-01",
+        "show": "live:grateful-dead:1977-05-01:the-palladium"
+       },
+       "plays_before": 20,
+       "total_plays": 123
+      },
       "title": "Playin' in the Band Reprise"
      }
     ],
     "subject_key": "live:grateful-dead:1977-05-28:hartford-civic-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 618,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Teddy \"Good Bear\" 5/8/77 (long ver.) Collage"
+     ],
+     "show_number": 710,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hartford Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.727279+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.059206+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "aqfUahVv7ydR1ZkFhKaTZy0Us7Y-w1YXazs3QD_hYxGnHofgcM0UYWCa7qEl-Miwx7-qJNw5KXrjyR-pGQKOAA",
+   "revision": 42,
+   "signature": "OnaTn46Mt-ZiAEl5zmreBBTTuGwqa26-dre7UGSVzalBe7e2Wnm0Sry6qeS1ejeeAzhvTv8KCG9CZICmMBikCA",
    "subject_key": "live:grateful-dead:1977-05-28:hartford-civic-center",
-   "updated_at": "2026-10-25T16:41:50.730527"
+   "updated_at": "2026-10-25T17:35:15.060384"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (3 reviews): Listener calls this one of the better Sugaree performances on that specific tour; Listener calls this performance a thing of beauty and the first set smokes [12][17][19]\n- **Estimated Prophet** (2 reviews): The jam sequence from Estimated Prophet through One More Saturday Night is highlighted; Listener finds Jerry's guitar work in this song smooth, soothing, and floating [12][16]\n- **Jack Straw** (1 review): Listener describes this performance as intense [17]\n- **Playing In The Band** (1 review): Listener describes this version as one of the spacier performances of the song [13]\n\n## The recordings\n\n- **gd77-05-28.sbd.obv.31952.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 26 songs; 193 min; rated 4/5 by 11 [1]\n- **gd1977-05-28.aud.wise.goodbear.77267.sbeok.flac16**: FM broadcast; 24 songs; 200 min; rated 4/5 by 4 [2]\n- **gd1977-05-28.mtx.chappell.sb30b.97017.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 192 min; rated 4.4/5 by 5 [3]\n- **gd77-05-28.sbd.sacks.4983.sbefail.shnf**: soundboard; 20 songs; 188 min; rated 4.76/5 by 34 [4]. Said about its sound: Listener describes the soundboard recording as super sounding and the band as tight; The wonderful quality of the recording enhances the smoothness of the guitar notes; Listener praises the great sound quality of the recording [15][16][20]\n- **gd1977-05-28.sbd.ashley-bertha.12827.sbeok.flac16**: soundboard; 21 songs; 187 min; rated 4.5/5 by 8 [5]\n\n## Around the show\n\n- Listener notes the crowd going nuts as the band jams into Not Fade Away [19]\n- Listener says the first notes of Bertha signal that the show is going to be awesome [23]\n- Listener states this show is no different from other blockbusters on that tour [18]\n- Listener says this show lacks the power and energy of the May 22, 1977 show [19]\n\n## Tapers and lineage\n\n- **gd77-05-28.sbd.obv.31952.sbeok.shnf**: transferred by The Wizard; source: Soundboard patched with Audience [1]. Also: Uploader applied a mild continuous noise filter and equalization to reduce tape hiss; A two-second dropout in Bertha was patched using the audience source [1]\n- **gd1977-05-28.aud.wise.goodbear.77267.sbeok.flac16**: taped by Teddy Goodbear; transferred by Teddy Goodbear; source: Panasonic AM/FM Stereo 'boom box like' w/condenser mics) > CM (Cassette Masters) > various equalizers & editors > CD or DAT [2]. Also: Uploader notes these are not high-quality soundboard sounding tapes [2]\n- **gd1977-05-28.mtx.chappell.sb30b.97017.flac16**: transferred by Chris Chappell; source: Matrix mix (SBD/AUD) [3]. Also: SBD lineage traces from Bettyboard 7-inch master reel to DAT to CDR to Shn; Audience source recorded by Jerry Moore using Sony ECM-33Ps and Sony TC-153 [3]\n- **gd77-05-28.sbd.sacks.4983.sbefail.shnf**: source: Soundboard [4]. Also: Reviewer notes the recording is a Betty Board, which they feel improves the show [14]\n- **gd1977-05-28.sbd.ashley-bertha.12827.sbeok.flac16**: transferred by Jay Ashley; source: SBD>MSR>DAT>CD>>WAV>>DAW(Bertha)>>CDA [5]. Also: Recording was digitally remastered on a custom dual-DAW system nicknamed Bertha; Jack Warner patched reel flips in Bertha and One More Saturday Night from AUD [5]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1977-05-28 Sat Jerry's first of 21 performances at Hartford Civic Center Hartford Civic Center, Hartford, ](https://www.livegrateful.net/post/1378111605008/grateful-dead-1977-05-28-sat-jerrys) [25]",

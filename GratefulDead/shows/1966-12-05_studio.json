@@ -218,7 +218,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -234,8 +234,8 @@
     "guests": [],
     "next": {
      "date": "1967-01-14",
-     "show": "live:grateful-dead:1967-01-14:fillmore-auditorium",
-     "venue": "Fillmore Auditorium"
+     "show": "live:grateful-dead:1967-01-14:polo-field-golden-gate-park",
+     "venue": "Polo Field, Golden Gate Park"
     },
     "previous": {
      "date": "1966-12-01",
@@ -312,47 +312,113 @@
     "setlist": [
      {
       "key": "song:grateful-dead:i-know-your-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "I Know Your Rider"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 12,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:cream-puff-war",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 10,
+       "total_plays": 12
+      },
       "title": "Cream Puff War"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 128,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 42
+      },
       "title": "Sitting on Top of the World"
      },
      {
       "key": "song:grateful-dead:same-thing",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 4,
+       "total_plays": 51
+      },
       "title": "The Same Thing"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 12,
+       "total_plays": 14
+      },
       "title": "Stealin'"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-12-01",
+        "show": "live:grateful-dead:1966-12-01:the-matrix"
+       },
+       "plays_before": 5,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:your-sons-and-daughters",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Your Sons and Daughters"
      },
      {
       "key": "song:grateful-dead:fire-in-the-city",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Fire in the City"
      }
     ],
@@ -360,27 +426,31 @@
     "subject_key": "live:grateful-dead:1966-12-05:studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 31,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "I Know Your Rider",
+      "Your Sons and Daughters",
+      "Fire in the City"
+     ],
+     "show_number": 37,
+     "shows_in_archive": 2097,
      "songs": 9,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.531549+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.279405+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "vqcf_wz7mA8P-71jmI6t4YSZBYADTqhB6He3oGczpZy3W83WlqfMyHa1mcy_UbEA-DeDphau4ysLZJo4lB0rAw",
+   "revision": 40,
+   "signature": "eMEIPBVtrSXKzUPlLd49NGlGBB4kZCABCec_YVDmSElNttVpeRENTKKQKLw5ix6EnwbJfr3se9Pofx-oxDTtCQ",
    "subject_key": "live:grateful-dead:1966-12-05:studio",
-   "updated_at": "2026-10-25T16:41:38.532332"
+   "updated_at": "2026-10-25T17:35:09.280064"
   }
  },
  "recommended": {

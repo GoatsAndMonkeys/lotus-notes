@@ -307,7 +307,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -398,9 +398,9 @@
      "venue": "Dane County Coliseum"
     },
     "previous": {
-     "date": "1979-01-20",
-     "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater",
-     "venue": "Shea's Buffalo Theater"
+     "date": "1979-01-21",
+     "show": "live:grateful-dead:1979-01-21:masonic-temple",
+     "venue": "Masonic Temple"
     },
     "recommended": {
      "identifier": "gd1979-02-03.154522.aud.clugston.flac16",
@@ -592,118 +592,307 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 212,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-01-12",
+        "show": "live:grateful-dead:1979-01-12:the-spectrum"
+       },
+       "plays_before": 110,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 149,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 207,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 186,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1978-11-08",
+        "show": "live:grateful-dead:1978-11-08:capitol-center"
+       },
+       "plays_before": 267,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 34,
+       "last_played": {
+        "date": "1978-11-08",
+        "show": "live:grateful-dead:1978-11-08:capitol-center"
+       },
+       "plays_before": 270,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 110,
+       "total_plays": 430
+      },
       "title": "New MInglewood Blues"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 32,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1979-01-10",
+        "show": "live:grateful-dead:1979-01-10:nassau-coliseum"
+       },
+       "plays_before": 90,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-17",
+        "show": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum"
+       },
+       "plays_before": 101,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-17",
+        "show": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum"
+       },
+       "plays_before": 53,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 98,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-17",
+        "show": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum"
+       },
+       "plays_before": 138,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 416,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 284,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-18",
+        "show": "live:grateful-dead:1979-01-18:providence-civic-center"
+       },
+       "plays_before": 142,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-01-17",
+        "show": "live:grateful-dead:1979-01-17:veterans-memorial-coliseum"
+       },
+       "plays_before": 288,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:one-more-saturday-night",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-20",
+        "show": "live:grateful-dead:1979-01-20:sheas-buffalo-theater"
+       },
+       "plays_before": 162,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -711,7 +900,16 @@
      {
       "from": "gd1979-02-03.set1.sbd.miller.102851.flac16",
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-21",
+        "show": "live:grateful-dead:1979-01-21:masonic-temple"
+       },
+       "plays_before": 157,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      }
     ],
@@ -719,26 +917,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 743,
-     "shows_in_archive": 1855,
+     "show_number": 839,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Market Square Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.608644+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.886418+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "_3gkiijvVRU8DSQTY-4M184SqEqtYLpfXXa5awrjAjoijHn3VEXToNvLUsBmm0QeFrF9mqiKgTfYWvmPhKdjCg",
+   "revision": 42,
+   "signature": "biGpBxmTnbVr-uzmJufRBfYnh0Fu3w6abg042qHfxqwYSyxSr11iskOeNxlLw9TtvYQo_9e9DNjy7wqY6biYDw",
    "subject_key": "live:grateful-dead:1979-02-03:market-square-arena",
-   "updated_at": "2026-10-25T16:41:52.609719"
+   "updated_at": "2026-10-25T17:35:15.887164"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (5 reviews): Reviewer calls the Scarlet>Fire an overlooked gem from Keith's last stretch with the band; Reviewer ranks this Scarlet into Fire among the best ever played [7][9][11][12][15]\n- **Estimated Prophet** (2 reviews): Reviewer enjoys the Estimated Prophet and Eyes of the World pairing; Jerry takes nice turns in Estimated Prophet, rising and falling [13][15]\n- **Wharf Rat** (2 reviews): Jerry's solos in Wharf Rat are ripping, described as face-melting [16][17]\n- **Looks Like Rain** (2 other sources): The soundboard first set places Looks Like Rain after Brown Eyed Women; this audience tape lacks it there; On this soundboard, Looks Like Rain falls between Brown Eyed Women and China Cat Sunflower [1][2]\n- **Promised Land** (1 other source): This recording has sound or PA problems during the opening Promised Land [1]\n- **Mama Tried** (1 other source): Mama Tried segues directly into Mexicali Blues [2]\n- **Fire On The Mountain** (1 review): Fire is played fast, with Jerry's lightning leads and impassioned singing; the segue is striking [15]\n- **The Other One** (1 review): Reviewer calls The Other One excellent, coming out of the drums and space [13]\n\n## The recordings\n\n- **gd1979-02-03.154522.aud.clugston.flac16** (recommended): audience recording; 21 songs; 162 min; rated 5/5 by 3 [1]\n- **gd1979-02-03.set1.sbd.miller.102851.flac16**: soundboard; 12 songs; 76 min; rated 3/5 by 1 [2]\n- **gd1979-02-03.set1.sbd.miller.102445.flac16**: soundboard; 12 songs; 75 min; rated 3/5 by 1 [3]\n- **gd79-02-03.set2-nak.clugston.7116.sbeok.shnf**: audience recording; 11 songs; 96 min; rated 4.77/5 by 30 [5]. Said about its sound: The audience's enthusiasm comes through clearly on the second-set recording; The second-set recording sounds notably better than the first-set recording [11][16]\n- **gd79-02-03.aud.set1.warner.19414.sbeok.shnf**: audience recording; 10 songs; 58 min; rated 3.11/5 by 19 [6]. Said about its sound: The first set audience tape starts terribly for about a track and a half, improves by track three, but stays poor [10]\n\n## Tapers and lineage\n\n- **gd1979-02-03.154522.aud.clugston.flac16**: taped by Unknown; transferred by Scot Clugston; source: Master Audience Cassettes; Unknown Equipment > 1st generation cassettes > .wav 1644 [1]. Also: First-generation cassettes from an anonymous source; adds the missing first set and upgrades the multi-generation audience tape of that set [1]\n- **gd1979-02-03.set1.sbd.miller.102851.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D5) -> Cassette (Sony D5) [2]. Also: Soundboard first set from tapes supplied by David Young and Rich Rothenberg, pitch-corrected with Joe B. Jones's help, upgraded with patches [2]\n- **gd1979-02-03.set1.sbd.miller.102445.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D5) -> Cassette (Sony D5) [3]. Also: Soundboard first set from David Young and Rich Rothenberg tapes, with pitch correction help from Joe B. Jones [3]\n- **gd79-02-03.set2-nak.clugston.7116.sbeok.shnf**: source: Audience Recording: Nakamichi CM700 mics [5]\n- **gd79-02-03.aud.set1.warner.19414.sbeok.shnf**: transferred by Scott Zarnegar and Jack Warner; source: Audience Recording [6]\n\n## Art and photos\n\n- Poster by David Franklin_Perkins Grateful Dead: [1979-02-03 Market Square Arena, Indianapolis, IN, USA - Jerry Garcia](https://jerrygarcia.com/show/1979-02-03-market-square-arena-indianapolis-in-usa/) [24]",

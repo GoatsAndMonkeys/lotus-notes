@@ -251,7 +251,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -375,103 +375,283 @@
     "setlist": [
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-03-01",
+        "show": "live:grateful-dead:1969-03-01:fillmore-west"
+       },
+       "plays_before": 6,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:mountains-of-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-03-01",
+        "show": "live:grateful-dead:1969-03-01:fillmore-west"
+       },
+       "plays_before": 6,
+       "total_plays": 14
+      },
       "title": "Mountains Of The Moon"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 48,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 42,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 47,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 41,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-03-15",
+        "show": "live:grateful-dead:1969-03-15:hilton-hotel"
+       },
+       "plays_before": 1,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1969-03-01",
+        "show": "live:grateful-dead:1969-03-01:fillmore-west"
+       },
+       "plays_before": 6,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 371,
+       "gap_shows": 54,
+       "last_played": {
+        "date": "1968-03-30",
+        "show": "live:grateful-dead:1968-03-30:carousel-ballroom"
+       },
+       "plays_before": 6,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 11,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 46,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 32,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 44,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 46,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 47,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:its-a-sin",
-      "stats": {},
+      "stats": {
+       "days_since": 177,
+       "gap_shows": 39,
+       "last_played": {
+        "date": "1968-10-10",
+        "show": "live:grateful-dead:1968-10-10:the-matrix"
+       },
+       "plays_before": 6,
+       "total_plays": 15
+      },
       "title": "It's A Sin"
      },
      {
       "key": "song:grateful-dead:alligator",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-03-02",
+        "show": "live:grateful-dead:1969-03-02:fillmore-west"
+       },
+       "plays_before": 31,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 32,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:feedback",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 32,
+       "total_plays": 51
+      },
       "title": "Feedback"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 34,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-03-02",
+        "show": "live:grateful-dead:1969-03-02:fillmore-west"
+       },
+       "plays_before": 17,
+       "total_plays": 57
+      },
       "title": "And We Bid You Good Night"
      }
     ],
@@ -479,7 +659,16 @@
      {
       "from": "gd1969-04-05.sbd.squirlin.65.sbeok.shnf",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-04-04",
+        "show": "live:grateful-dead:1969-04-04:avalon-ballroom"
+       },
+       "plays_before": 10,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      }
     ],
@@ -487,26 +676,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 106,
-     "shows_in_archive": 1855,
+     "show_number": 127,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Avalon Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.166910+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.818078+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "EYVIOit2qCE2Yd6LhqlhAvmODUb1d88GdMNSJBgX8sT8Dz8vMn-u0j-FbIdcCkeNs8kb1Yaqbp9b2-xYjDR8Dg",
+   "revision": 41,
+   "signature": "6ii2n5rV5sq8WN9TNM5Q-ggqVLmC7IQgjhv-xAOdYXSXTB2QARnPDiV3yMx0aO5bsVG6XVJQ0G-4RyeRd7b4DA",
    "subject_key": "live:grateful-dead:1969-04-05:avalon-ballroom",
-   "updated_at": "2026-10-25T16:41:39.168220"
+   "updated_at": "2026-10-25T17:35:09.818916"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (3 reviews): Reviewer calls the Star medley the bright spot, with Phil prominent throughout the show; Reviewer says the Dark Star climaxes out of nowhere [7][10][12]\n- **Mountains Of The Moon** (1 review): Segues into Dark Star, creating a hushed atmosphere; both versions are nice but not the band's best [8]\n- **Hard To Handle** (1 review): Reviewer especially likes Jerry's pedal steel playing on this song and on Cosmic Charlie [9]\n- **Cryptical Envelopment** (1 other source): Bobby noodles the opening chords of Weather Report Prelude just before Cryptical Envelopment and again before Alligator [1]\n- **The Eleven** (1 review): The first Eleven stops after the William Tell intro, then abruptly segues into Lovelight; the instrumental section returns later in the set [11]\n- **Alligator** (1 review): Jerry asked the crowd for requests; one man shouted for Alligator and Phil launched into it with bombs [10]\n- **Feedback** (1 review): Reviewer finds the Feedback exceptional, with broad electronic strokes [8]\n\n## The recordings\n\n- **gd69-04-05.sbd.miller.18701.sbesok.shnf** (recommended): soundboard; 20 songs; 130 min; rated 4.57/5 by 53 [1]. Said about its sound: Reviewer calls the soundboard sound excellent; Slight hiss makes the reviewer doubt the lineage is as pure as stated, though it comes from Charlie Miller; Reviewer praises the clean sound quality of the recording [4][7][14]\n- **gd1969-04-05.136650.sbd.reelmaster.dat.sirmick.flac16**: soundboard; 18 songs; 134 min; rated 2/5 by 2 [2]\n- **gd1969-04-05.sbd.squirlin.65.sbeok.shnf**: soundboard; 17 songs; 131 min; rated 3.5/5 by 8 [3]\n\n## Around the show\n\n- Reviewer says they heard these were the last shows at the Avalon Ballroom [6]\n- Reviewer says it was overshadowed by the late-February to early-March Fillmore run, and came before the band's country turn later in 1969 [4]\n- Reviewer would place it in the top 10 of 1969 shows, though they know little of that year [7]\n- Reviewer names the late-February to early-March Fillmore run as one of three peak runs of 1969 [13]\n- Reviewer considers February through May 1969 a peak period for the band [14]\n\n## Tapers and lineage\n\n- **gd69-04-05.sbd.miller.18701.sbesok.shnf**: transferred by Charlie Miller; source: Soundboard [1]\n- **gd1969-04-05.136650.sbd.reelmaster.dat.sirmick.flac16**: taped by Anonomous; transferred by SIRMick; source: Source: Soundboard > Reel Master > Dat (48k) [2]\n- **gd1969-04-05.sbd.squirlin.65.sbeok.shnf**: transferred by squirlin; source: SBD > REEL > REEL > DAT > SP/DIF > HD > SHN [3]",

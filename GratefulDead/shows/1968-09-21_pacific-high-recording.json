@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -45,8 +45,8 @@
     "guests": [],
     "next": {
      "date": "1968-10-08",
-     "show": "live:grateful-dead:1968-10-08:the-matrix-club",
-     "venue": "The Matrix Club"
+     "show": "live:grateful-dead:1968-10-08:the-matrix",
+     "venue": "The Matrix"
     },
     "previous": {
      "date": "1968-09-20",
@@ -93,7 +93,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:clementine-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Clementine Jam"
      }
     ],
@@ -101,27 +105,29 @@
     "subject_key": "live:grateful-dead:1968-09-21:pacific-high-recording",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 71,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Clementine Jam"
+     ],
+     "show_number": 85,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pacific High Recording"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.903622+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.528852+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "8RB2lpvpWEfZ5oTGXpXdBakDjzjo9ryxjjlKYKQhzGQgavGo8Z8T88JuO7lXPOJIdwSI3EcoThQqVzR9PZVdDw",
+   "revision": 40,
+   "signature": "bdIluez4zcWtLeX9yc7gQg3AK_DspE45NDXzuGXTYOdzq4ej8UV5jxeRdMcOdSUG84mhwfzjLKFtPPKpPV_TBQ",
    "subject_key": "live:grateful-dead:1968-09-21:pacific-high-recording",
-   "updated_at": "2026-10-25T16:41:38.904886"
+   "updated_at": "2026-10-25T17:35:09.529357"
   }
  },
  "recommended": {

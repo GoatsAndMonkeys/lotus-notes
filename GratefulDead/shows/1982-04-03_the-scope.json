@@ -496,7 +496,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -602,7 +602,7 @@
     "previous": {
      "date": "1982-04-02",
      "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u",
-     "venue": "Cameron Indoor Stadium, Duke U."
+     "venue": "Cameron Indoor Stadium, Duke U"
     },
     "recommended": {
      "identifier": "gd1982-04-03.142815.sbd.miller.flac2496",
@@ -1034,112 +1034,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-03-13",
+        "show": "live:grateful-dead:1982-03-13:reno-centennial-coliseum"
+       },
+       "plays_before": 94,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-03-13",
+        "show": "live:grateful-dead:1982-03-13:reno-centennial-coliseum"
+       },
+       "plays_before": 158,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-02-20",
+        "show": "live:grateful-dead:1982-02-20:golden-hall-community-concourse"
+       },
+       "plays_before": 168,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 451,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-02-21",
+        "show": "live:grateful-dead:1982-02-21:pauley-pavilion-ucla"
+       },
+       "plays_before": 273,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1982-02-16",
+        "show": "live:grateful-dead:1982-02-16:warfield-theater"
+       },
+       "plays_before": 151,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-03-13",
+        "show": "live:grateful-dead:1982-03-13:reno-centennial-coliseum"
+       },
+       "plays_before": 48,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 125,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 45,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-02-17",
+        "show": "live:grateful-dead:1982-02-17:warfield-theater"
+       },
+       "plays_before": 63,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 131,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 129,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 166,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 119,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-03-13",
+        "show": "live:grateful-dead:1982-03-13:reno-centennial-coliseum"
+       },
+       "plays_before": 194,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-03-13",
+        "show": "live:grateful-dead:1982-03-13:reno-centennial-coliseum"
+       },
+       "plays_before": 198,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1981-12-28",
+        "show": "live:grateful-dead:1981-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 10,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-04-02",
+        "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 659,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-04-02",
+        "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 325,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 317,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-02-21",
+        "show": "live:grateful-dead:1982-02-21:pauley-pavilion-ucla"
+       },
+       "plays_before": 148,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 210,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-03-14",
+        "show": "live:grateful-dead:1982-03-14:recreation-hall-uc-davis"
+       },
+       "plays_before": 178,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -1147,43 +1345,97 @@
      {
       "from": "gd82-04-03.aud.snyder.5314.sbeok.shnf",
       "key": "song:grateful-dead:altghea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Althhea"
      },
      {
       "from": "gd82-04-03.aud.snyder.5314.sbeok.shnf",
       "key": "song:grateful-dead:bobby-banter-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bobby Banter / Crowd / Tuning"
      },
      {
       "from": "gd82-04-03.sennheiser.fishman.23824.sbeok.shnf",
       "key": "song:grateful-dead:fennario",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1792,
+       "gap_shows": 402,
+       "last_played": {
+        "date": "1977-05-07",
+        "show": "live:grateful-dead:1977-05-07:boston-garden"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Fennario"
      },
      {
       "from": "gd82-04-03.sennheiser.fishman.23824.sbeok.shnf",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 327,
+       "gap_shows": 68,
+       "last_played": {
+        "date": "1981-05-11",
+        "show": "live:grateful-dead:1981-05-11:veterans-memorial-coliseum"
+       },
+       "plays_before": 10,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd82-04-03.sennheiser.fishman.23824.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-04-02",
+        "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 294,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1982-04-03.179469.Shure.SM57.Renninger.Carbonetta.Visser.Mattes.flac2496",
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-02-20",
+        "show": "live:grateful-dead:1982-02-20:golden-hall-community-concourse"
+       },
+       "plays_before": 32,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      },
      {
       "from": "gd1982-04-03.nak700.wagner.82757.sbeok.flac16",
       "key": "song:grateful-dead:good-time-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1981-12-28",
+        "show": "live:grateful-dead:1981-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 7,
+       "total_plays": 36
+      },
       "title": "Good Time Blues"
      }
     ],
@@ -1191,26 +1443,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1002,
-     "shows_in_archive": 1855,
+     "show_number": 1099,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Scope"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.811753+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.076605+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "T4KU89RzuvX7UaIUqm6OLUvHQgpCphqLMeq6GaVfU3FiFPuG3-zBgx-Xc7im5fwZZ0_zW_Odl0sTmdmnhsPDCg",
+   "revision": 43,
+   "signature": "6fJJcKWTwy9ajqAMZSg77lkrWdKbSZWyGHDLxru2DjAnuhttEfSNmFLrkdWas_OeJ2S-To3BtoWv_asFiyz_DA",
    "subject_key": "live:grateful-dead:1982-04-03:the-scope",
-   "updated_at": "2026-10-25T16:41:54.813171"
+   "updated_at": "2026-10-25T17:35:18.077740"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Peggy-O** (1 review): Highlights include ornate Scarlet Begonias and an exquisite Peggy-O with strong vocal licks [16]\n- **Scarlet Begonias** (1 review): Reviewer finds the transition to Fire On The Mountain unusually weird and stellar [20]\n- **Eyes Of The World** (1 review): Eyes Of The World is played uptempo and is considered fantastic [23]\n\n## The recordings\n\n- **gd1982-04-03.142815.sbd.miller.flac2496** (recommended): soundboard; 22 songs; 189 min; rated 5/5 by 5 [1]\n- **gd1982-04-03.sbd.miller.96069.sbeok.flac16**: soundboard; 22 songs; 181 min; rated 3.5/5 by 16 [3]. Said about its sound: Recording is imperfect, but the transition into Fire On The Mountain is powerful; Reviewer criticizes the file as mostly audience recording, not a true soundboard; Sound is described as sloppy yet possessing a strange psychedelic undertone throughout [13][17][18][21]\n- **gd1982-04-03.170734.nak700.wagner.miller.clugston.flac2496**: audience recording; 22 songs; 188 min [5]\n- **gd1982-04-03.nak700.wagner.82757.sbeok.flac16**: source not stated; 21 songs; 184 min; rated 3.5/5 by 2 [8]. Said about its sound: Reviewer notes a strange psychedelic undertone despite some sloppy and lazy moments [19]\n\n## Around the show\n\n- Reviewer attended the show at age sixteen, marking their first Grateful Dead concert [15]\n- Believed to be the only Grateful Dead performance at The Scope venue [23]\n- New transfer sounds superior to the reviewer's old second set cassette [24]\n\n## Tapers and lineage\n\n- **gd1982-04-03.142815.sbd.miller.flac2496**: transferred by Charlie Miller; source: SBD > Cassette Master (Sony TC-D5M/TDK MA-C90) [1]. Also: Bob Wagner provided the patch source for the soundboard recording [1]\n- **gd1982-04-03.sbd.miller.96069.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> ? -> Cassette -> CD [3]. Also: Nakamichi 700 cassette master transferred to DAT and CD by Matt Smith [3]\n- **gd1982-04-03.170734.nak700.wagner.miller.clugston.flac2496**: taped by Bob Wagner; transferred by Scott Clugston, Charlie Miller; source: Bob Wagner's Master Audience Cassettes; Nakamichi 700 (w/ Bass EQ) > Sony TC-D5M (Maxell XLIIS/Dolby B) [5]. Also: Craig L. supplied Nakamichi 304 source for patches in CC Rider and Drums [5]\n- **gd1982-04-03.nak700.wagner.82757.sbeok.flac16**: taped by Bob Wagner; transferred by David Minches; source: A:C:D:CD Nak 700s>Sony TC-D5M [8]",

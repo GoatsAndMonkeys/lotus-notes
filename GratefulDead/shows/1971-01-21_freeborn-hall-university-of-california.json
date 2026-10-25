@@ -322,7 +322,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -337,9 +337,9 @@
     "date": "1971-01-21",
     "guests": [],
     "next": {
-     "date": "1971-01-24",
-     "show": "live:grateful-dead:1971-01-24:seattle-center-arena",
-     "venue": "Seattle Center Arena"
+     "date": "1971-01-22",
+     "show": "live:grateful-dead:1971-01-22:lane-community-college",
+     "venue": "Lane Community College"
     },
     "previous": {
      "date": "1970-12-31",
@@ -566,90 +566,243 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 80,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 110,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 10,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 26,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 65,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-12-27",
+        "show": "live:grateful-dead:1970-12-27:legion-stadium"
+       },
+       "plays_before": 76,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 5,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 61,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 94,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:thats-it-for-the-other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 54,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1970-11-21",
+        "show": "live:grateful-dead:1970-11-21:sargent-gym-boston-university"
+       },
+       "plays_before": 39,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 96,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 101,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-12-27",
+        "show": "live:grateful-dead:1970-12-27:legion-stadium"
+       },
+       "plays_before": 74,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 5,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 61,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-12-28",
+        "show": "live:grateful-dead:1970-12-28:legion-stadium"
+       },
+       "plays_before": 94,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -657,19 +810,46 @@
      {
       "from": "gd1971-01-21.153417.sbd.partial.martin.smith.clugston.flac2496",
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 107,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "from": "gd1971-01-21.153417.sbd.partial.martin.smith.clugston.flac2496",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 137,
+       "total_plays": 1630
+      },
       "title": "Drums//"
      },
      {
       "from": "gd1971-01-21.153417.sbd.partial.martin.smith.clugston.flac2496",
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-12-31",
+        "show": "live:grateful-dead:1970-12-31:winterland-arena"
+       },
+       "plays_before": 60,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -677,26 +857,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 256,
-     "shows_in_archive": 1855,
+     "show_number": 316,
+     "shows_in_archive": 2097,
      "songs": 17,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Freeborn Hall, University of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.525432+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.376429+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Ti9DPtJp40YUgdsDFUGJgfTNY6mUPJxI08tvJuCLAo2e53TWKnWbHR_cYTXxlo-ypX9lLv0GCHvBr53sQTarDQ",
+   "revision": 41,
+   "signature": "JRWnju0xgMUlSuIaep3WFY6rGjRrD7xiaUUHb5iDvPHmBF2Iktk7PqFSPU2oouH7-bIqh82FfQXIBjmtUim3Dw",
    "subject_key": "live:grateful-dead:1971-01-21:freeborn-hall-university-of-california",
-   "updated_at": "2026-10-25T16:41:40.528482"
+   "updated_at": "2026-10-25T17:35:11.377538"
   }
  },
  "recommended": {

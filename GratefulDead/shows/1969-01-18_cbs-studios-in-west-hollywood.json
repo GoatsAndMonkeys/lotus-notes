@@ -183,7 +183,7 @@
      "id": 13,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -287,9 +287,9 @@
      "venue": "Avalon Ballroom"
     },
     "previous": {
-     "date": "1968-12-29",
-     "show": "live:grateful-dead:1968-12-29:gulfstream-park-race-track",
-     "venue": "Gulfstream Park Race Track"
+     "date": "1969-01-17",
+     "show": "live:grateful-dead:1969-01-17:civic-auditorium",
+     "venue": "Civic Auditorium"
     },
     "recommended": {
      "identifier": "gd1969-01-18.tv.ukmutt.33931.flac16",
@@ -331,23 +331,49 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hefner-interviews-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hefner interviews Garcia"
      },
      {
       "key": "song:grateful-dead:mountains-of-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1968-12-20",
+        "show": "live:grateful-dead:1968-12-20:shrine-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 14
+      },
       "title": "Mountains of the Moon"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-01-17",
+        "show": "live:grateful-dead:1969-01-17:civic-auditorium"
+       },
+       "plays_before": 20,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:closing-turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Closing / Turn On Your Lovelight (segment)"
      }
     ],
@@ -355,27 +381,30 @@
     "subject_key": "live:grateful-dead:1969-01-18:cbs-studios-in-west-hollywood",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 85,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Hefner interviews Garcia",
+      "Closing / Turn On Your Lovelight (segment)"
+     ],
+     "show_number": 103,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "CBS Studios in West Hollywood"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.012410+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.658193+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "tHL0fiTz_KtKmz0rDqQJSxyYzgxwBy_ytxDjsKWVwGgpS_YSKfbY_-ClTmDY38z_aVunf-g_dAIWdo0YJma-Cg",
+   "revision": 41,
+   "signature": "n5aP9bNKMg--vMQADcMUG76IJnKF5tz6PTdbHSCv42fisdPCjIqBfFoR0U-JVwhtATFgLI-TQAD5V0ggcxwoAA",
    "subject_key": "live:grateful-dead:1969-01-18:cbs-studios-in-west-hollywood",
-   "updated_at": "2026-10-25T16:41:39.013176"
+   "updated_at": "2026-10-25T17:35:09.659098"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **St. Stephen** (2 reviews): The performance of this song skipped several verses, likely due to TV constraints; The song would be perfect if it continued longer [6][9]\n- **Mountains of the Moon** (1 review): The band played a mellow, laid-back version of this song [6]\n\n## Setlist highlights\n\n- **St. Stephen**: cut on the recording [1]\n\n## The recordings\n\n- **gd1969-01-18.tv.ukmutt.33931.flac16** (recommended): source not stated; 4 songs; 11 min; rated 3.45/5 by 11 [1]\n\n## Around the show\n\n- The performance was part of the television program Playboy After Dark [3]\n- Suited 1960s hipsters danced to the band at Hugh Hefner's Playboy After Dark [4]\n- Garcia explained two drummers like serpentines dancing in figure eights to Hefner [5]\n- Hefner was displeased that his female guests checked out the band members [5]\n- Garcia improvised a story about armed people with buck knives when filming started [10]\n- There was a six-month lag between the taping and the television airing [11]\n- The source references a sweet song and asks if the listener will know why [12]\n\n## Tapers and lineage\n\n- **gd1969-01-18.tv.ukmutt.33931.flac16**: source: VHS > Soundforge [1]",

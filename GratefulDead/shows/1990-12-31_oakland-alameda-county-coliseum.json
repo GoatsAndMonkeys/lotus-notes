@@ -535,7 +535,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -586,8 +586,8 @@
     },
     "previous": {
      "date": "1990-12-30",
-     "show": "live:grateful-dead:1990-12-30:oakland-alameda-county-coliseum",
-     "venue": "Oakland-Alameda County Coliseum"
+     "show": "live:grateful-dead:1990-12-30:coliseum-arena",
+     "venue": "Coliseum Arena"
     },
     "recommended": {
      "identifier": "gd1990-12-31.prefm.gans-bucholtz-abrams.GEMS.90102.sbeok.flac16",
@@ -1079,136 +1079,326 @@
     "setlist": [
      {
       "key": "song:grateful-dead:radio-intro-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio Intro/Tuning"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 178,
+       "total_plays": 225
+      },
       "title": "Hell in a Bucket"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 86,
+       "total_plays": 127
+      },
       "title": "Jack-a-Roe"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-12-13",
+        "show": "live:grateful-dead:1990-12-13:mcnichols-sports-arena"
+       },
+       "plays_before": 26,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-12-08",
+        "show": "live:grateful-dead:1990-12-08:compton-terrace-amphitheatre"
+       },
+       "plays_before": 236,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-12-12",
+        "show": "live:grateful-dead:1990-12-12:mcnichols-sports-arena"
+       },
+       "plays_before": 418,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-12-13",
+        "show": "live:grateful-dead:1990-12-13:mcnichols-sports-arena"
+       },
+       "plays_before": 369,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-12-09",
+        "show": "live:grateful-dead:1990-12-09:compton-terrace-amphitheatre"
+       },
+       "plays_before": 263,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1990-10-31",
+        "show": "live:grateful-dead:1990-10-31:wembley-arena"
+       },
+       "plays_before": 376,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:1st-set-recap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "1st set Recap"
      },
      {
       "key": "song:grateful-dead:john-barlow-on-brent-mydlands-death",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "John Barlow on Brent Mydland's death"
      },
      {
       "key": "song:grateful-dead:ken-nordines-flibberdy-jib",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Ken Nordine's Flibberdy Jib"
      },
      {
       "key": "song:grateful-dead:countdown-to-midnight",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Countdown to Midnight"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-12-12",
+        "show": "live:grateful-dead:1990-12-12:mcnichols-sports-arena"
+       },
+       "plays_before": 490,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-12-13",
+        "show": "live:grateful-dead:1990-12-13:mcnichols-sports-arena"
+       },
+       "plays_before": 326,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 197,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-30",
+        "show": "live:grateful-dead:1990-12-30:coliseum-arena"
+       },
+       "plays_before": 1282,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-30",
+        "show": "live:grateful-dead:1990-12-30:coliseum-arena"
+       },
+       "plays_before": 942,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-12-13",
+        "show": "live:grateful-dead:1990-12-13:mcnichols-sports-arena"
+       },
+       "plays_before": 529,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-12-14",
+        "show": "live:grateful-dead:1990-12-14:mcnichols-sports-arena"
+       },
+       "plays_before": 359,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-12-12",
+        "show": "live:grateful-dead:1990-12-12:mcnichols-sports-arena"
+       },
+       "plays_before": 490,
+       "total_plays": 556
+      },
       "title": "Not Fade Away (reprise)"
      },
      {
       "key": "song:grateful-dead:weight",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-12-12",
+        "show": "live:grateful-dead:1990-12-12:mcnichols-sports-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 54
+      },
       "title": "The Weight"
      },
      {
       "key": "song:grateful-dead:2nd-set-recap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "2nd Set Recap"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 369,
+       "gap_shows": 80,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 262,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:radio-credits",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Radio Credits"
      }
     ],
@@ -1216,160 +1406,294 @@
      {
       "from": "gd1990-12-31.127388.nak300.bowen.flac16",
       "key": "song:grateful-dead:nye-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 77,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "NYE Countdown"
      },
      {
       "from": "gd1990-12-31.127388.nak300.bowen.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-12-30",
+        "show": "live:grateful-dead:1990-12-30:coliseum-arena"
+       },
+       "plays_before": 501,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd90-12-31.sbd-satellitefeed.hall.1688.sbeok.shnf",
       "key": "song:grateful-dead:nordine-shenanigans",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Nordine Shenanigans"
      },
      {
       "from": "gd90-12-31.sbd-satellitefeed.hall.1688.sbeok.shnf",
       "key": "song:grateful-dead:new-years-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 77,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 8,
+       "total_plays": 9
+      },
       "title": "New Years Countdown"
      },
      {
       "from": "gd1990-12-31.141868.UltraMatrix.sbd.cm.miller.flac1644",
       "key": "song:grateful-dead:midnight-madness",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 730,
+       "gap_shows": 156,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Midnight Madness"
      },
      {
       "from": "gd1990-12-31.121792.dts.tobin.flac16",
       "key": "song:grateful-dead:new-years-parade",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "New Years Parade"
      },
      {
       "from": "gd1990-12-31.121792.dts.tobin.flac16",
       "key": "song:grateful-dead:hamza-el-din",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4453,
+       "gap_shows": 938,
+       "last_played": {
+        "date": "1978-10-22",
+        "show": "live:grateful-dead:1978-10-22:winterland-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 5
+      },
       "title": "Hamza El-Din"
      },
      {
       "from": "gd1990-12-31.138041.BK4011.Darroch.Ammons.flac1648",
       "key": "song:grateful-dead:midnight-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 77,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 6,
+       "total_plays": 7
+      },
       "title": "Midnight Countdown"
      },
      {
       "from": "gd1990-12-31.126823.FM.flac16",
       "key": "song:grateful-dead:row-jimmy-10-41",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "row Jimmy 10:41"
      },
      {
       "from": "gd1990-12-31.126823.FM.flac16",
       "key": "song:grateful-dead:radio-announcers",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1096,
+       "gap_shows": 239,
+       "last_played": {
+        "date": "1987-12-31",
+        "show": "live:grateful-dead:1987-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "radio announcer"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t01-midnight-countdown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t01 Midnight Countdown"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t02-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t02 Not Fade Away"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t03-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t03 Eyes Of The World"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t04-dark-star",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t04 Dark Star"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t05 Drums"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t06 Space"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t07-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t07 The Other One"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t08-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t08 Wharf Rat"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t09-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t09 Not Fade Away"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t10-not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t10 Not Fade Away Chant"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t11-the-weight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t11 The Weight"
      },
      {
       "from": "gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd90-12-31-s2-t12-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd90-12-31 s2 t12 Johnny B. Goode"
      }
     ],
     "subject_key": "live:grateful-dead:1990-12-31:oakland-alameda-county-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1637,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Radio Intro/Tuning",
+      "1st set Recap",
+      "John Barlow on Brent Mydland's death",
+      "Ken Nordine's Flibberdy Jib",
+      "Countdown to Midnight",
+      "2nd Set Recap",
+      "Radio Credits"
+     ],
+     "show_number": 1742,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland-Alameda County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 11,
+   "parent_revision": 24,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:14.824316+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.055157+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 12,
-   "signature": "HoijjhmMiEzxNL8n6TSSvgoD9zwsXywI6dWNXZ4QPHZfz1erIN2iZVNVSVKR1ft_uobrEj38b1Sa2Fpp5YOqCQ",
+   "revision": 25,
+   "signature": "b3s15iymCBOlWmEcYPhm0BPxyvZmkQuGMQ7sEGc_4ghMUQvVvgJsW3ubdE9e70-UI6EodV9cYtgyZuGkC3tfCA",
    "subject_key": "live:grateful-dead:1990-12-31:oakland-alameda-county-coliseum",
-   "updated_at": "2026-10-25T16:42:14.828038"
+   "updated_at": "2026-10-25T17:35:26.056615"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bird Song** (2 reviews): Reviewer calls it incandescent, with Branford Marsalis sitting in; Jerry's count-off of the song is highlighted as a notable moment [19][27]\n- **Eyes of the World** (2 reviews): Branford Marsalis opens it up with hot playing; Reviewer praises the Eyes with Branford Marsalis [19][28]\n- **Wang Dang Doodle** (1 review): Reviewer names this version as a personal favorite [21]\n- **Not Fade Away** (1 review): Phil's bass playing sounds like Flea's thumb-popping style [19]\n- **Dark Star** (1 review): Fans in line expected another one like the year before, and this one included a second verse [20]\n- **Drums** (1 other source): Hamza El-Din performed during the Drums segment [2]\n\n## The recordings\n\n- **gd1990-12-31.prefm.gans-bucholtz-abrams.GEMS.90102.sbeok.flac16** (recommended): pre-FM broadcast master; 25 songs; 208 min; rated 5/5 by 2 [1]\n- **gd90-12-31.sbd-satellitefeed.hall.1688.sbeok.shnf**: soundboard; 20 songs; 191 min; rated 4.66/5 by 29 [3]. Said about its sound: Reviewer finds the soundboard recording exceptionally crisp; Reviewer rates the recording's sound top notch, though the vocals are less impressive [20][27]\n- **gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496**: matrix (soundboard mixed with audience mics); 12 songs; 120 min [12]. Said about its sound: Odd sounds around Midnight Countdown and the start of Not Fade Away; pops throughout are not recording flaws [12]\n- **gd1990-12-31.127388.nak300.bowen.flac16**: source not stated; 22 songs; 186 min [2]\n\n## Around the show\n\n- KPFA in Berkeley broadcast the show, and fans blasted it from huge speakers across the parking lot [17]\n- Branford Marsalis opened the show with Kevin Eubanks on guitar, then played with the Dead for the second time [20]\n- First New Year's run after losing Brent; Bruce and Branford Marsalis helped fill the gap [22]\n- Reviewer found the Branford set so good they'd have been happy leaving afterward, and praises Kevin Eubanks [22]\n- Reviewer thought the Branford set was nearly as good as the Dead's own [23]\n- Reviewer arrived late with bad seats, then made their way down to Jerry's side of the floor [24]\n- The opening with Branford Marsalis is singled out as the standout part of the show [25]\n- The show closed a tour year of 83 shows, 17 states, six countries and a band member's death [27]\n- Reviewer ranks it among the top three 1990 Eyes, alongside 3/29 and 6/10 [23]\n\n## Tapers and lineage\n\n- **gd1990-12-31.prefm.gans-bucholtz-abrams.GEMS.90102.sbeok.flac16**: transferred by Bob Abrams; source: Pre-FM > DAT > CD > EAC > CD > EAC > FLAC [1]\n- **gd90-12-31.sbd-satellitefeed.hall.1688.sbeok.shnf**: source: Soundboard [3]\n- **gd1990-12-31.140734.set2.akg.c42.ambient.mics.gans.miller.clugston.flac2496**: taped by David Gans; transferred by Charlie Miller and Scott Clugston; source: Master Audience 4 Track Hi-Fi VHS; AKG C42 mics located mid-side of soundboard > 1st gen Hi-Fi VHS (dubbed by David Gans, January 1991) [12]\n- **gd1990-12-31.127388.nak300.bowen.flac16**: taped by Jeff Bowen; transferred by Jeff Bowen; source: Source: Nakamichi CM-300 CP-4 Shotguns > Sony TC-153SD (TDK SA-X Masters); Cassette Masters Transferred: Sony TC-D5M > HHb CDR 800 PRO Via Analog i/o > CD… [2]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1990-12-31 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1990-12-31-grateful-dead-backstage-pass/) [30]\n- Poster by Grateful Dead: [Grateful Dead Oakland Coliseum Arena - December 31, 1990](https://www.dead.net/show/december-31-1990) [31]",

@@ -300,7 +300,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -331,8 +331,8 @@
     "guests": [],
     "next": {
      "date": "1973-03-19",
-     "show": "live:grateful-dead:1973-03-19:nassau-veterans-memorial-coliseum",
-     "venue": "Nassau Veterans Memorial Coliseum"
+     "show": "live:grateful-dead:1973-03-19:nassau-coliseum",
+     "venue": "Nassau Coliseum"
     },
     "previous": {
      "date": "1973-03-15",
@@ -529,127 +529,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-02-28",
+        "show": "live:grateful-dead:1973-02-28:salt-palace"
+       },
+       "plays_before": 202,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-02-28",
+        "show": "live:grateful-dead:1973-02-28:salt-palace"
+       },
+       "plays_before": 204,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 100,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:wave-that-flag",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-02-24",
+        "show": "live:grateful-dead:1973-02-24:university-of-iowa"
+       },
+       "plays_before": 5,
+       "total_plays": 15
+      },
       "title": "Wave That Flag"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 18,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1973-02-09",
+        "show": "live:grateful-dead:1973-02-09:roscoe-maples-pavilion-stanford-u"
+       },
+       "plays_before": 67,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 165
+      },
       "title": "Box of Rain"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 147,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 118,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 92,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-02-22",
+        "show": "live:grateful-dead:1973-02-22:assembly-hall-u-of-il"
+       },
+       "plays_before": 58,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 157,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 71,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1973-02-15",
+        "show": "live:grateful-dead:1973-02-15:dane-county-coliseum"
+       },
+       "plays_before": 98,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-26",
+        "show": "live:grateful-dead:1973-02-26:pershing-municipal-auditorium"
+       },
+       "plays_before": 65,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-26",
+        "show": "live:grateful-dead:1973-02-26:pershing-municipal-auditorium"
+       },
+       "plays_before": 101,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 37,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-26",
+        "show": "live:grateful-dead:1973-02-26:pershing-municipal-auditorium"
+       },
+       "plays_before": 37,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 241,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-02-26",
+        "show": "live:grateful-dead:1973-02-26:pershing-municipal-auditorium"
+       },
+       "plays_before": 159,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 161,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 98,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-03-15",
+        "show": "live:grateful-dead:1973-03-15:nassau-coliseum"
+       },
+       "plays_before": 170,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -657,13 +882,27 @@
      {
       "from": "gd1973-03-16.152003.SonyStereo.ECM.Moskal.t.flac16",
       "key": "song:grateful-dead:bill-graham-intoduction",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Bill Graham Intoduction"
      },
      {
       "from": "gd1973-03-16.152003.SonyStereo.ECM.Moskal.t.flac16",
       "key": "song:grateful-dead:i-know-your-rider",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2293,
+       "gap_shows": 459,
+       "last_played": {
+        "date": "1966-12-05",
+        "show": "live:grateful-dead:1966-12-05:studio"
+       },
+       "plays_before": 1,
+       "total_plays": 13
+      },
       "title": "I Know You Ride"
      }
     ],
@@ -671,26 +910,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 418,
-     "shows_in_archive": 1855,
+     "show_number": 497,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 21,
+   "parent_revision": 33,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.972439+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.322930+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 22,
-   "signature": "jgQlpw3MuViN-F16cjwQP3uesg2iZ3I7C3gxmuHUijpfnx4H2pu4u8Izbhh6E_CtBLGyinyMRUN44ayj1XkeBQ",
+   "revision": 34,
+   "signature": "7mOqF1bcNyYzpQDqocO-koIUpbgQWPpWufD4FMsvh646T15tZarPQ12nOqK2TT2a9Yc4e0ulQIW1fNfrOFeMDg",
    "subject_key": "live:grateful-dead:1973-03-16:nassau-coliseum",
-   "updated_at": "2026-10-25T16:41:45.974359"
+   "updated_at": "2026-10-25T17:35:13.324142"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Box of Rain** (1 review): The performance is described as warm and rich, transcending any interpretation [14]\n- **Row Jimmy** (1 review): Described as the best version heard, characterized as smooth and rich like coffee [11]\n- **Playin' in the Band** (1 review): After the second chorus, Jerry steps on the wah-wah, leading to a twenty-minute jam [9]\n- **Sugar Magnolia** (1 review): Garcia sounds like he is playing pedal steel, fumbling with slide and open strings [16]\n\n## The recordings\n\n- **gd73-03-16.sbd.hamilton-jackson.167.14770.sbefail.shnf** (recommended): soundboard; 25 songs; 204 min; rated 4.57/5 by 30 [1]. Said about its sound: Jerry's guitar-fiddle tone is highlighted as amazing, with the rest of the band following; Sound mix improves after about a song and a half, resulting in a very good recording [7][8]\n- **gd1973-03-16.sbd.cantor.hamilton.167.shnf**: soundboard; 25 songs; 204 min; rated 5/5 by 3 [2]. Said about its sound: Known flaws include static, hum, dropouts, and reel splices due to '73 sound system or waterlogged reels [2]\n- **gd73-03-16.sbd.cribbs.19141.sbeok.shnf**: soundboard; 26 songs; 207 min; rated 4/5 by 10 [3]. Said about its sound: The first disc is finely crisp, while the second is called a religious experience [11]\n- **gd1973-03-16.sbd.miller.79186.sbeok.flac16**: soundboard; 25 songs; 195 min; rated 4.37/5 by 19 [4]. Said about its sound: This version lacks flaws of other sources, offers upgraded sound quality, but has static in Sugar Magnolia [4]\n- **gd1973-03-16.152003.SonyStereo.ECM.Moskal.t.flac16**: source not stated; 26 songs; 191 min [6]. Said about its sound: Quality is better than the previous night, with an improved mix, though the encore degrades [6]\n\n## Around the show\n\n- Billy is described as being in a deep listening state, responding to everyone [8]\n- Audience members threw joints on stage; Jerry told them to stop throwing and just smoke [12]\n- Bill Graham introduces the band as being from San Francisco, despite the New York location [17]\n- Bill Graham introduces the band as being from California, their home state [18]\n- Sons Of Champlin did not play due to lead singer's father's death; New Riders opened [6]\n- This show and the Utica show on the 22nd are named as favorites of the run [9]\n\n## Tapers and lineage\n\n- **gd73-03-16.sbd.hamilton-jackson.167.14770.sbefail.shnf**: source: Soundboard [1]. Also: Set 1 lineage: Betty MSR to PCM, DAT, CDR, EAC, SHN; Set 2: MSR to Reel, DAT, CD, EAC, SHN [1]\n- **gd1973-03-16.sbd.cantor.hamilton.167.shnf**: transferred by James Warner and G. S. Hamilton; source: Set 1: Betty MSR > PCM > DAT > CDR > EAC > SHN and Set 2: MSR > Reel > DAT > CD > EAC > SHN [2]\n- **gd73-03-16.sbd.cribbs.19141.sbeok.shnf**: source: Soundboard [3]\n- **gd1973-03-16.sbd.miller.79186.sbeok.flac16**: transferred by Charlie Miller; source: Set 1: SBD -> Master Reel -> PCM -> Dat (44.1k) DSet 2: SBD -> Master Reel -> Cassette -> Dat (44.1k) D [4]\n- **gd1973-03-16.152003.SonyStereo.ECM.Moskal.t.flac16**: taped by Gerry Moskal; transferred by Gerry Moskal & Brian Mandel; source: Sony Stereo ECM -->SONY TCD126 Location: TBD [6]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Nassau Veterans Memorial Coliseum - March 16, 1973](https://www.dead.net/show/march-16-1973) [20]",

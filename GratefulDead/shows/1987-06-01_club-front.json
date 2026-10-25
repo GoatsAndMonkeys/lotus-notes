@@ -223,7 +223,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -244,8 +244,8 @@
     },
     "previous": {
      "date": "1987-05-10",
-     "show": "live:grateful-dead:1987-05-10:laguna-seca-raceway",
-     "venue": "Laguna Seca Raceway"
+     "show": "live:grateful-dead:1987-05-10:laguna-seca-recreation-area",
+     "venue": "Laguna Seca Recreation Area"
     },
     "recommended": {
      "identifier": "gd1987-06-01.sbd-rehearsals.fraser.97489.shnf",
@@ -317,12 +317,20 @@
     "setlist": [
      {
       "key": "song:grateful-dead:french-girl-blues-stay-away-from-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The French Girl/Blues Stay Away From Me"
      },
      {
       "key": "song:grateful-dead:conversation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Conversation"
      },
      {
@@ -330,167 +338,326 @@
       "notes": [
        "John Hardy Was A Desperate Man"
       ],
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "John Hardy"
      },
      {
       "key": "song:grateful-dead:conversation",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Conversation"
      },
      {
       "key": "song:grateful-dead:instrumental-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3183,
+       "gap_shows": 650,
+       "last_played": {
+        "date": "1978-09-13",
+        "show": "live:grateful-dead:1978-09-13:gizah-sound-and-light-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Instrumental Jam"
      },
      {
       "key": "song:grateful-dead:im-so-lonesome-i-could-cry-blues-stay-away-from-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I'm So Lonesome I Could Cry/Blues Stay Away From Me"
      },
      {
       "key": "song:grateful-dead:times-they-are-a-changing",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "The Times They Are A-Changin'"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1987-03-28",
+        "show": "live:grateful-dead:1987-03-28:hampton-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:man-of-peace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Man Of Peace"
      },
      {
       "key": "song:grateful-dead:ill-be-your-baby-tonight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "I'll Be Your Baby Tonight"
      },
      {
       "key": "song:grateful-dead:ballad-of-ira-hayes",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Ballad Of Ira Hayes"
      },
      {
       "key": "song:grateful-dead:i-want-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "I Want You"
      },
      {
       "key": "song:grateful-dead:ballad-of-a-thin-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 10
+      },
       "title": "Ballad Of A Thin Man"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "days_since": 167,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1986-12-16",
+        "show": "live:grateful-dead:1986-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 79
+      },
       "title": "Stuck Inside Of Mobile With The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:dead-man-dead-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Dead Man, Dead Man"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1149,
+       "gap_shows": 213,
+       "last_played": {
+        "date": "1984-04-08",
+        "show": "live:grateful-dead:1984-04-08:the-centrum"
+       },
+       "plays_before": 1,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:french-girl",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The French Girl"
      },
      {
       "key": "song:grateful-dead:in-the-summertime",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "In The Summertime"
      },
      {
       "key": "song:grateful-dead:man-of-peace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Man Of Peace"
      },
      {
       "key": "song:grateful-dead:union-sundown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Union Sundown"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-04-10",
+        "show": "live:grateful-dead:1987-04-10:uic-pavilion-university-of-illinois"
+       },
+       "plays_before": 103,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      },
      {
       "key": "song:grateful-dead:joey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Joey"
      },
      {
       "key": "song:grateful-dead:if-not-for-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "If Not For You"
      },
      {
       "key": "song:grateful-dead:if-not-for-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "If Not For You"
      },
      {
       "key": "song:grateful-dead:slow-train",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Slow Train"
      },
      {
       "key": "song:grateful-dead:tomorrow-is-a-long-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Tomorrow Is A Long Time"
      },
      {
       "key": "song:grateful-dead:walking-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Walkin' Down The Line"
      },
      {
       "key": "song:grateful-dead:gotta-serve-somebody",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Gotta Serve Somebody"
      },
      {
       "key": "song:grateful-dead:gonna-change-my-way-of-thinking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gonna Change My Way Of Thinking"
      },
      {
       "key": "song:grateful-dead:maggies-farm",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 48
+      },
       "title": "Maggie's Farm"
      },
      {
       "key": "song:grateful-dead:chimes-of-freedom",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Chimes of Freedom"
      },
      {
       "key": "song:grateful-dead:all-i-really-want-to-do",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "All I Really Want To Do"
      },
      {
       "key": "song:grateful-dead:john-brown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "John Brown"
      },
      {
       "key": "song:grateful-dead:heart-of-mine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Heart Of Mine"
      },
      {
       "key": "song:grateful-dead:rolling-in-my-sweet-babys-arms",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Rolling In My Sweet Baby's Arms"
      },
      {
@@ -498,22 +665,38 @@
       "notes": [
        "John Hardy Was A Desperate Man"
       ],
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "John Hardy"
      },
      {
       "key": "song:grateful-dead:ballad-of-frankie-lee-and-judas-priest",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "The Ballad Of Frankie Lee And Judas Priest"
      },
      {
       "key": "song:grateful-dead:john-brown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "John Brown"
      },
      {
       "key": "song:grateful-dead:ill-be-your-baby-tonight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "I'll Be Your Baby Tonight"
      },
      {
@@ -521,205 +704,452 @@
       "notes": [
        "Go Ahead, Baby"
       ],
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Don't Keep Me Waiting Too Long"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 7483,
+       "gap_shows": 1408,
+       "last_played": {
+        "date": "1966-12-05",
+        "show": "live:grateful-dead:1966-12-05:studio"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "Stealin'"
      },
      {
       "key": "song:grateful-dead:i-want-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "I Want You"
      },
      {
       "key": "song:grateful-dead:oh-boy",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1997,
+       "gap_shows": 361,
+       "last_played": {
+        "date": "1981-12-12",
+        "show": "live:grateful-dead:1981-12-12:fiesta-hall-san-mateo-county-fairgrounds"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Oh Boy"
      },
      {
       "key": "song:grateful-dead:tangled-up-in-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Tangled Up In Blue"
      },
      {
       "key": "song:grateful-dead:simple-twist-of-fate",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Simple Twist Of Fate"
      },
      {
       "key": "song:grateful-dead:boy-in-the-bubble",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Boy In The Bubble"
      },
      {
       "key": "song:grateful-dead:heart-of-mine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Heart Of Mine"
      },
      {
       "key": "song:grateful-dead:pledging-my-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pledging My Time"
      },
      {
       "key": "song:grateful-dead:senor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Senor (Tales Of Yankee Power)"
      },
      {
       "key": "song:grateful-dead:wicked-messenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "The Wicked Messenger"
      },
      {
       "key": "song:grateful-dead:watching-the-river-flow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Watching The River Flow"
      },
      {
       "key": "song:grateful-dead:under-your-spell",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Under Your Spell"
      },
      {
       "key": "song:grateful-dead:im-so-lonesome-i-could-cry",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I'm So Lonesome I Could Cry"
      },
      {
       "key": "song:grateful-dead:blues-stay-away-from-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues Stay Away From Me"
      },
      {
       "key": "song:grateful-dead:if-not-for-you",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "If Not For You"
      },
      {
       "key": "song:grateful-dead:ballad-of-frankie-lee-and-judas-priest",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "The Ballad Of Frankie Lee And Judas Priest"
      },
      {
       "key": "song:grateful-dead:senor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Senor (Tales Of Yankee Power)"
      },
      {
       "key": "song:grateful-dead:ill-be-your-baby-tonight",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "I'll Be Your Baby Tonight"
      },
      {
       "key": "song:grateful-dead:im-free",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I'm Free"
      },
      {
       "key": "song:grateful-dead:they-killed-him",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "They Killed Him"
      },
      {
       "key": "song:grateful-dead:pledging-my-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pledging My Time"
      },
      {
       "key": "song:grateful-dead:oh-boy",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1997,
+       "gap_shows": 361,
+       "last_played": {
+        "date": "1981-12-12",
+        "show": "live:grateful-dead:1981-12-12:fiesta-hall-san-mateo-county-fairgrounds"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Oh Boy"
      },
      {
       "key": "song:grateful-dead:introduction-by-david-gans",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Introduction by David Gans"
      },
      {
       "key": "song:grateful-dead:gans-interviewed-by-gary-lambert",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gans interviewed by Gary Lambert"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
-      "stats": {},
+      "stats": {
+       "days_since": 167,
+       "gap_shows": 38,
+       "last_played": {
+        "date": "1986-12-16",
+        "show": "live:grateful-dead:1986-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:more-gans-interview",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "More Gans interview"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 7483,
+       "gap_shows": 1408,
+       "last_played": {
+        "date": "1966-12-05",
+        "show": "live:grateful-dead:1966-12-05:studio"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "Stealin'"
      },
      {
       "key": "song:grateful-dead:gans",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gans"
      },
      {
       "key": "song:grateful-dead:oh-boy",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1997,
+       "gap_shows": 361,
+       "last_played": {
+        "date": "1981-12-12",
+        "show": "live:grateful-dead:1981-12-12:fiesta-hall-san-mateo-county-fairgrounds"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Oh Boy"
      },
      {
       "key": "song:grateful-dead:john-brown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "John Brown"
      },
      {
       "key": "song:grateful-dead:folsom-prison-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Folsom Prison Blues"
      },
      {
       "key": "song:grateful-dead:gotta-serve-somebody",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Gotta Serve Somebody"
      },
      {
       "key": "song:grateful-dead:hideaway-c-c-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Hideaway/C C Rider"
      },
      {
       "key": "song:grateful-dead:gans-conclusion",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gans conclusion"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1987-06-01:club-front",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1342,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Instrumental Jam",
+      "Queen Jane Approximately",
+      "Stealin'",
+      "Oh Boy",
+      "Oh Boy",
+      "Stealin'",
+      "Oh Boy"
+     ],
+     "first_in_archive": [
+      "The French Girl/Blues Stay Away From Me",
+      "Conversation",
+      "John Hardy",
+      "Conversation",
+      "I'm So Lonesome I Could Cry/Blues Stay Away From Me",
+      "The Times They Are A-Changin'",
+      "Man Of Peace",
+      "I'll Be Your Baby Tonight",
+      "The Ballad Of Ira Hayes",
+      "I Want You",
+      "Ballad Of A Thin Man",
+      "Dead Man, Dead Man",
+      "The French Girl",
+      "In The Summertime",
+      "Man Of Peace",
+      "Union Sundown",
+      "Joey",
+      "If Not For You",
+      "If Not For You",
+      "Slow Train",
+      "Tomorrow Is A Long Time",
+      "Walkin' Down The Line",
+      "Gotta Serve Somebody",
+      "Gonna Change My Way Of Thinking",
+      "Maggie's Farm",
+      "Chimes of Freedom",
+      "All I Really Want To Do",
+      "John Brown",
+      "Heart Of Mine",
+      "Rolling In My Sweet Baby's Arms",
+      "John Hardy",
+      "The Ballad Of Frankie Lee And Judas Priest",
+      "John Brown",
+      "I'll Be Your Baby Tonight",
+      "Don't Keep Me Waiting Too Long",
+      "I Want You",
+      "Tangled Up In Blue",
+      "Simple Twist Of Fate",
+      "The Boy In The Bubble",
+      "Heart Of Mine",
+      "Pledging My Time",
+      "Senor (Tales Of Yankee Power)",
+      "The Wicked Messenger",
+      "Watching The River Flow",
+      "Under Your Spell",
+      "I'm So Lonesome I Could Cry",
+      "Blues Stay Away From Me",
+      "If Not For You",
+      "The Ballad Of Frankie Lee And Judas Priest",
+      "Senor (Tales Of Yankee Power)",
+      "I'll Be Your Baby Tonight",
+      "I'm Free",
+      "They Killed Him",
+      "Pledging My Time",
+      "Introduction by David Gans",
+      "Gans interviewed by Gary Lambert",
+      "More Gans interview",
+      "Gans",
+      "John Brown",
+      "Folsom Prison Blues",
+      "Gotta Serve Somebody",
+      "Hideaway/C C Rider",
+      "Gans conclusion"
+     ],
+     "show_number": 1446,
+     "shows_in_archive": 2097,
      "songs": 74,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:03.918784+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.727791+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "HiCDm1GapUTGxpouJV7DEGZZ-dOFpYP3lh7dD3JiMmIfrUfLRqsFilsq5QMkPVJWoUwA6N6DKR74rR2DrNDADA",
+   "revision": 41,
+   "signature": "kVEPPPVXolbSw-cPukKH8F6EocBLNlJkLhBmRdDMDcEI9izwV5OPNbq1qJNtBa5dIGUhzaNhBe8HEzPHd-GKBQ",
    "subject_key": "live:grateful-dead:1987-06-01:club-front",
-   "updated_at": "2026-10-25T16:42:03.920261"
+   "updated_at": "2026-10-25T17:35:22.728721"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The French Girl** (1 review): Jerry on pedal steel makes this track tearful, and Dylan remembers the words [14]\n- **Joey** (1 review): The reviewer notes this version of the song smokes [14]\n\n## The recordings\n\n- **gd1987-06-01.sbd-rehearsals.fraser.97489.shnf** (recommended): soundboard; 74 songs; 318 min; rated 4.45/5 by 47 [1]. Said about its sound: Jerry plays steel guitar on some tracks, though some songs are rough; The recording has great sound quality and contains no jamming [4][5]\n- **gd1987-06-01.147314.sbd.flac1648**: soundboard; 11 songs; 44 min [2]\n\n## Around the show\n\n- Dylan mentioned in Chronicles that the Dead pushed him to revitalize old songs [8]\n- The reviewer lives in San Rafael and finds the music made there magical [12]\n- This material is much better than the commercial Dylan and Dead album [9]\n- Rehearsals seemed more focused and energetic than the live concert release [11]\n\n## Tapers and lineage\n\n- **gd1987-06-01.sbd-rehearsals.fraser.97489.shnf**: source: SBD > MC [1]. Also: Alan Fraser donated soundboard cassettes transferred to DAT, then CD-R [1]\n- **gd1987-06-01.147314.sbd.flac1648**: taped by Unknown; transferred by LTA; source: cassette (soundboard) > DAT > Maxell DM 120 Digital Audio Tape Back Coated (DAT clone 26-11-1996 from Jed) [2]",

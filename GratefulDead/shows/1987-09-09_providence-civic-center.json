@@ -548,7 +548,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1092,129 +1092,322 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hey-pocky-way",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 574,
+       "gap_shows": 108,
+       "last_played": {
+        "date": "1986-02-12",
+        "show": "live:grateful-dead:1986-02-12:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 1,
+       "total_plays": 27
+      },
       "title": "Hey Pocky Way"
      },
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 389,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 82,
+       "total_plays": 150
+      },
       "title": "West LA Fadeaway"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-08-22",
+        "show": "live:grateful-dead:1987-08-22:calaveras-co-fairgrounds"
+       },
+       "plays_before": 12,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-08-22",
+        "show": "live:grateful-dead:1987-08-22:calaveras-co-fairgrounds"
+       },
+       "plays_before": 245,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 247,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1987-07-19",
+        "show": "live:grateful-dead:1987-07-19:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 196,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-08-18",
+        "show": "live:grateful-dead:1987-08-18:compton-terrace-amphitheatre"
+       },
+       "plays_before": 221,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:devil-with-a-blue-dress",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Devil With A Blue Dress"
      },
      {
       "key": "song:grateful-dead:good-golly-miss-molly",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Good Golly Miss Molly"
      },
      {
       "key": "song:grateful-dead:devil-with-a-blue-dress",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Devil With A Blue Dress"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 437,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 439,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 464,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1987-08-11",
+        "show": "live:grateful-dead:1987-08-11:red-rocks-amphitheatre"
+       },
+       "plays_before": 93,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-08",
+        "show": "live:grateful-dead:1987-09-08:providence-civic-center"
+       },
+       "plays_before": 1028,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-09-08",
+        "show": "live:grateful-dead:1987-09-08:providence-civic-center"
+       },
+       "plays_before": 688,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 143,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 38,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-08-22",
+        "show": "live:grateful-dead:1987-08-22:calaveras-co-fairgrounds"
+       },
+       "plays_before": 127,
+       "total_plays": 272
+      },
       "title": "Throwin' Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 428,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-08-23",
+        "show": "live:grateful-dead:1987-08-23:calaveras-co-fairgrounds"
+       },
+       "plays_before": 428,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-08-20",
+        "show": "live:grateful-dead:1987-08-20:park-west-ski-resort"
+       },
+       "plays_before": 22,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn"
      }
     ],
@@ -1222,70 +1415,119 @@
      {
       "from": "gd1987-09-09.151427.senn.me80.hessberg.miller.clugston.flac2496",
       "key": "song:grateful-dead:not-fade-away-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-08-13",
+        "show": "live:grateful-dead:1987-08-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 22,
+       "total_plays": 40
+      },
       "title": "Not Fade Away Chant"
      },
      {
       "from": "gd1987-09-09.156740.nak300.carpenter.flac1644",
       "key": "song:grateful-dead:not-fade-away-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-08-13",
+        "show": "live:grateful-dead:1987-08-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 16,
+       "total_plays": 18
+      },
       "title": "Not Fade Away reprise"
      },
      {
       "from": "gd1987-09-09.156740.nak300.carpenter.flac1644",
       "key": "song:grateful-dead:quinn-the-mighty-eskimo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Quinn the Mighty Eskimo"
      },
      {
       "from": "gd87-09-09.naks.valis-under.6686.sbeok.shnf",
       "key": "song:grateful-dead:devil-with-the-blue-dress-on-good-golly-miss-molly-good-golly-miss-molly",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Devil With The Blue Dress On > Good Golly Miss Molly > > Good Golly Miss Molly"
      },
      {
       "from": "gd87-09-09.naks.valis-under.6686.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1987-07-19",
+        "show": "live:grateful-dead:1987-07-19:autzen-stadium-u-of-oregon"
+       },
+       "plays_before": 416,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1987-09-09.nak300.morris.crazyfingers.106591.flac16",
       "key": "song:grateful-dead:we-want-phil-phil-says-no-business",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We want Phil\", \"Phil says, 'no business'"
      },
      {
       "from": "gd1987-09-09.nak300.morris.crazyfingers.106591.flac16",
       "key": "song:grateful-dead:devil-with-the-blue-dress-on",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Devil with the Blue Dress"
      }
     ],
     "subject_key": "live:grateful-dead:1987-09-09:providence-civic-center",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1374,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Hey Pocky Way"
+     ],
+     "first_in_archive": [
+      "Devil With A Blue Dress",
+      "Good Golly Miss Molly",
+      "Devil With A Blue Dress"
+     ],
+     "show_number": 1478,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Providence Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.058551+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.025018+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "zkGCx3M16QIb_8UP8_P4_F8EWMaG_d_w6CdKYfFrQbn0_2BkgD23v2aHbIL8rhw_qvenKxC2IwWpJfz9nkLFCA",
+   "revision": 43,
+   "signature": "XsUFzBvHgN0jb0hPXapy-P5KTWOiDe6DdsW_4My1l91kpc31eGq4eqrCBRziizdkMf_4BE-rLt1q85Tq7vYJCA",
    "subject_key": "live:grateful-dead:1987-09-09:providence-civic-center",
-   "updated_at": "2026-10-25T16:42:05.060516"
+   "updated_at": "2026-10-25T17:35:23.026315"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (2 reviews): Reviewer rates this among the best 1987 versions of the song; Reviewer urges getting this show's Jack Straw [19][25]\n- **Devil With A Blue Dress** (2 reviews): Reviewer played this Devil into Good Golly Miss Molly at parties, and even non-fans loved it; Reviewer calls this the best Devil into Blue Dress ever played [18][23]\n- **The Wheel** (2 other sources): A Watchtower tease comes out of The Wheel; The space within The Wheel is included in this release [3][5]\n- **Hey Pocky Way** (1 review): Reviewer describes an energetic, breezy opener that wakes them up [27]\n- **Friend Of The Devil** (1 review): Brent's pretty piano playing lifts an otherwise mundane version [27]\n- **Greatest Story Ever Told** (1 other source): It leads into Devil With The Blue Dress, then Good Golly Miss Molly, then back to Devil [1]\n- **Gimme Some Lovin'** (1 other source): A Watchtower tease comes just before Gimme Some Lovin' [4]\n\n## The recordings\n\n- **gd87-09-09.sbd.miller.21014.sbeok.shnf** (recommended): soundboard; 23 songs; 134 min; rated 3.88/5 by 17 [1]. Said about its sound: This soundboard copy sounds much better than the audience tape the reviewer had worn out; Reviewer finds this muffled and not crisp, and recommends another version from the Audio 30 server; Slightly muffled, but still a good soundboard worth having [18][20][22]\n- **gd1987-09-09.sbd.miller.106823.flac16**: soundboard; 23 songs; 135 min; rated 3.5/5 by 8 [3]\n- **gd1987-09-09.151427.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 24 songs; 134 min; rated 1/5 by 1 [4]\n- **gd1987-09-09.176265.senn441.lamarre.miller.clugston.flac2496**: audience recording; 23 songs; 131 min [5]\n- **gd87-09-09.naks.valis-under.6686.sbeok.shnf**: source not stated; 23 songs; 128 min; rated 4/5 by 2 [11]. Said about its sound: Reviewer calls this an excellent audience source [26]\n- **gd87-09-09.sony.dnc.8598.sbeok.shnf**: source not stated; 22 songs; 134 min; rated 4.4/5 by 15 [13]. Said about its sound: Reviewer finds this muffled and not crisp, and recommends another version from the Audio 30 server; Reviewer calls it a nice audience recording; The audience recording is a bit less than superb, but still worth getting [21][23][24]\n\n## Around the show\n\n- Reviewer skipped the Providence shows to attend the Cap Centre show instead [18]\n- After Brent died, a friend gave the reviewer this show as his best Brent tape [19]\n- The band always seemed to enjoy playing in Providence [23]\n- Reviewer says Brent seemed ready to explode at times, and it was a spectacular night for him [24]\n- Reviewer hears the band's return after Jerry recovered, with energy signaling they weren't going anywhere [26]\n- The band played three nights in Providence, which the reviewer finds rare for a band of this stature [27]\n\n## Tapers and lineage\n\n- **gd87-09-09.sbd.miller.21014.sbeok.shnf**: source: Recording Info:SBD -> Cassette Master -> Dat [1]. Also: Soundboard to cassette master, then DAT on a Tascam DA-20mkII, Behringer SRC2000, CD, EAC, Samplitude, and SHN [1]\n- **gd1987-09-09.sbd.miller.106823.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK SA-X90) [3]. Also: This transfer was pitch corrected, with help from Joe B. Jones [3]\n- **gd1987-09-09.151427.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [4]. Also: Andrew F.'s Nakamichi 300 source supplies the first 0:52 of Hey Pocky Way and a 0:32 Drums/Space patch [4]\n- **gd1987-09-09.176265.senn441.lamarre.miller.clugston.flac2496**: taped by Doug Lamarre; transferred by Scott Clugston, Charlie Miller; source: Doug Lamarre's Master Audience Cassettes; Sennheiser 441 mics > Sony D5M [5]. Also: A 0:09 patch in Space comes from the Sennheiser ME-80 source [5]\n- **gd87-09-09.naks.valis-under.6686.sbeok.shnf**: source: Nak 300's > Sony D5 Casette Master > Sound Forge (wav) > Shorten [11]\n- **gd87-09-09.sony.dnc.8598.sbeok.shnf**: transferred by Nak DR1 using Azimuth adjustment > Sony PCMR500 DAT with SBM ON for A>D > Turtle Beach Montego II Digital I/O sound card >CDWav > Shorten; source: OTS > Sony ECM220T mics > Sony TCDM5 Cassette deck > Maxell MX90 tapes NO DOLBY [13]\n\n## Art and photos\n\n- Poster by Ron Delany Grateful Dead: [1987-09-07 Providence Civic Center, Providence, RI, USA - Jerry Garcia](https://jerrygarcia.com/show/1987-09-07-providence-civic-center-providence-ri-usa/) [30]\n- Poster by Robbi Cohn: [1987-09-08 Providence Civic Center, Providence, RI, USA - Jerry Garcia](https://jerrygarcia.com/show/1987-09-08-providence-civic-center-providence-ri-usa/) [31]",

@@ -354,7 +354,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -405,8 +405,8 @@
     },
     "previous": {
      "date": "1968-02-03",
-     "show": "live:grateful-dead:1968-02-03:crystal-ballroom",
-     "venue": "Crystal Ballroom"
+     "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom",
+     "venue": "The Crystal Ballroom"
     },
     "recommended": {
      "identifier": "gd1968-02-14.sbd.douglas-cleef.2267.shnf",
@@ -658,135 +658,336 @@
     "setlist": [
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 8,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 17,
+       "total_plays": 64
+      },
       "title": "Good Morning Little School Girl"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 5,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 3,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:eleven",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 4,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1968-01-17",
+        "show": "live:grateful-dead:1968-01-17:carousel-ballroom"
+       },
+       "plays_before": 4,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 452,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1966-11-19",
+        "show": "live:grateful-dead:1966-11-19:fillmore-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 11,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 12,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 11,
+       "total_plays": 601
+      },
       "title": "The Other One (reprise)"
      },
      {
       "key": "song:grateful-dead:new-potato-caboose",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 14,
+       "total_plays": 28
+      },
       "title": "New Potato Canboose"
      },
      {
       "key": "song:grateful-dead:born-cross-eyed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 8,
+       "total_plays": 14
+      },
       "title": "Born Cross-eyed"
      },
      {
       "key": "song:grateful-dead:spanish-inquisition",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Spanish Inquisition"
      },
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1967-11-10",
+        "show": "live:grateful-dead:1967-11-10:shrine-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:alligator",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 14,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop On Tracks)"
      },
      {
       "key": "song:grateful-dead:alligator-underwater-feedback",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Alligator Underwater Feedback"
      },
      {
       "key": "song:grateful-dead:midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 452,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1966-11-19",
+        "show": "live:grateful-dead:1966-11-19:fillmore-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 96,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1967-11-10",
+        "show": "live:grateful-dead:1967-11-10:shrine-auditorium"
+       },
+       "plays_before": 2,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:alligator",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 57
+      },
       "title": "Alligator (reprise)"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 14,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Step On Tracks)"
      },
      {
       "key": "song:grateful-dead:alligator-underwater-feedback",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Alligator Underwater Feedback"
      }
     ],
@@ -794,76 +995,137 @@
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:neal-casady-dedication",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Neal Casady Dedication"
      },
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 6,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-02-02",
+        "show": "live:grateful-dead:1968-02-02:crystal-ballroom"
+       },
+       "plays_before": 7,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:gator-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Gator Jam"
      },
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1968-01-22",
+        "show": "live:grateful-dead:1968-01-22:eagles-auditorium"
+       },
+       "plays_before": 8,
+       "total_plays": 51
+      },
       "title": "Feedback"
      },
      {
       "from": "gd1968-02-14.sbd.winters.89437.sbeok.flac16",
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 164,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1967-09-03",
+        "show": "live:grateful-dead:1967-09-03:dance-hall"
+       },
+       "plays_before": 6,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "from": "gd1968-02-14.sbd.miller.89676.sbeok.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 7,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "from": "gd1968-02-14.sbd.miller.89676.sbeok.flac16",
       "key": "song:grateful-dead:stage-radio-announcements",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stage/Radio Announcements"
      }
     ],
     "subject_key": "live:grateful-dead:1968-02-14:carousel-ballroom",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 55,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Spanish Inquisition",
+      "Alligator Underwater Feedback",
+      "Alligator Underwater Feedback"
+     ],
+     "show_number": 68,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Carousel Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.743061+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.438044+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "f2eXEtEdFSW1pZPv3I8CAoGseBlRMWihEunNy-0Oo954KKil9fhC-G4E2bdc5Yo_eDxCRDNyUoA6fLwO9qp5BQ",
+   "revision": 43,
+   "signature": "LemdvQC_P_lXlPId_zlBit2MQfM6_mCzgR0ZH2qF5oBJhCEFZTjlv2SY3wz_hX5HURHAHlljiEpmU_Bb-O-iDQ",
    "subject_key": "live:grateful-dead:1968-02-14:carousel-ballroom",
-   "updated_at": "2026-10-25T16:41:38.745962"
+   "updated_at": "2026-10-25T17:35:09.439078"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **New Potato Canboose** (2 reviews): Highlights a rare combo of New Potato, Cross-Eyed, and Spanish Jam; Possibly features the best performance of New Potato ever recorded by the band [9][12]\n- **Morning Dew** (1 review): Questions the source of Morning Dew, noting it is not listed in standard setlists or databases [16]\n- **Turn On Your Lovelight** (1 review): Features a glorious Lovelight with a unique jazzy vocal jam [20]\n- **Alligator** (1 review): The cut in Alligator contains a mountain jam bit essential for comprehending the whole jam [11]\n\n## The recordings\n\n- **gd1968-02-14.sbd.douglas-cleef.2267.shnf** (recommended): soundboard; 24 songs; 170 min; rated 2.5/5 by 2 [1]\n- **gd1968-02-14.sbd.winters.89437.sbeok.flac16**: soundboard; 20 songs; 125 min; rated 2.5/5 by 2 [2]\n- **gd68-02-14.sbd.kaplan.15640.sbeok.shnf**: soundboard; 17 songs; 126 min; rated 4.6/5 by 72 [3]. Said about its sound: Good SBD quality for a 1968 recording, considered a necessary part of the collection; Fat crunchy guitars, manic bass, symbiotic drums, and dominating calliope organ define the acid rock sound; Fabulous SBD quality, uncommon for 1968 recordings, with every song performing at a high level [3][9][10][12][17][18]\n- **gd1968-02-14.sbd.miller.89676.sbeok.flac16**: soundboard; 17 songs; 124 min; rated 3.67/5 by 21 [4]\n\n## Around the show\n\n- Less technically accomplished than 1972-73, but represents the peak of the band's acid rock period [10]\n- Identifies this era as where the band truly made acid jam rock happen, unlike later country suits [15]\n\n## Tapers and lineage\n\n- **gd1968-02-14.sbd.douglas-cleef.2267.shnf**: transferred by Garrett Van Cleef; source: MR>DAT>DAT>CD>EAC>SHN [1]. Also: Some portions from Tuning Break to Midnight Hour may come from the FM broadcast source; Thanks to Jim Douglas for the excellent copy; arrangement via Garrett Van Cleef [1]\n- **gd1968-02-14.sbd.winters.89437.sbeok.flac16**: transferred by Dave Winters; source: SBD>MR>DAT>CD>EAC>SHN>WAV>Cool Edit Pro v2.0>FLAC [2]. Also: Gator Jam splice patched from Anthem CD to fix pitch issues using Cool Edit Pro [2]\n- **gd68-02-14.sbd.kaplan.15640.sbeok.shnf**: transferred by AJL, Tony C., and Seth Kaplan; source: Soundboard [3]\n- **gd1968-02-14.sbd.miller.89676.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> (8 Track) Master Reel -> Dat -> CD -> FLAC [4]. Also: Remastering of shnid=89437, fixing the Alligator Jam patch, levels, and DC offset [4]\n\n## Art and photos\n\n- Poster by zoooma (All rights reserved): [Grateful Dead concert poster - 2/14/68 Carouse…](https://www.flickr.com/photos/zoooma/2264649871/) [22]\n- Poster by uncredited: [the page](https://www.flickr.com/photos/zoooma/2264649871/) [23]",

@@ -244,7 +244,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -259,7 +259,7 @@
      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhq-K7CjW42IFIIMIDRMQrhr_KTfiEXXVwGv9nxBryfjWM3NMSpWweTu1cmA_qzv3yRab9s6_3U2ExAa5mlGszmFpgTjB6yXAOluhu6vOmd5IB4YgZUKOPlUQ49ieXuIcZCLmGzuo5T0E/s1600/Grateful+Dead%252C+BCT+8-22-72.jpg",
      "kind": "poster",
      "published_at": null,
-     "quote_or_claim": "Arizona Jones: Grateful Dead, Berkeley Comm….",
+     "quote_or_claim": "One More Saturday Night Mp3/320k https://mega.nz/#!9c4nkC6T!GIBQ9FVWIR2_-4xPdaAVeCiDCD6vT1FLPWxCfvtqmpU https://mega.nz/#!MVhTXL6J!qk9G08P7Wagc-BmlAEyAlvtncU3zYGJSHKhZ7dWJcwE…",
      "site": "arizjones.blogspot.com",
      "title": "Grateful Dead, Berkeley Community Theatre, Berkeley, CA.  August 1972, three shows.   (SBD)",
      "url": "https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html",
@@ -295,8 +295,8 @@
     },
     "previous": {
      "date": "1972-08-22",
-     "show": "live:grateful-dead:1972-08-22:berkeley-community-theatre",
-     "venue": "Berkeley Community Theatre"
+     "show": "live:grateful-dead:1972-08-22:berkeley-community-theater",
+     "venue": "Berkeley Community Theater"
     },
     "recommended": {
      "identifier": "gd72-08-24.sbd.miller.18093.sbeok.shnf",
@@ -398,117 +398,324 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 60,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 63,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 163,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 165,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 207,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 25,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 109,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 63,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 112,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 205,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 37,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 127,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 140,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 87,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 128,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:sing-me-back-home",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 27,
+       "total_plays": 39
+      },
       "title": "Sing Me Back Home"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 57,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-21",
+        "show": "live:grateful-dead:1972-08-21:berkeley-community-theater"
+       },
+       "plays_before": 98,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -516,7 +723,11 @@
      {
       "from": "gd1972-08-24.156469.sbd.anon.gems.flac16",
       "key": "song:grateful-dead:crowd-and-intro-donna-and-keith",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd and intro Donna and Keith"
      }
     ],
@@ -524,26 +735,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 370,
-     "shows_in_archive": 1855,
+     "show_number": 443,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Berkeley Community Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 7,
+   "parent_revision": 19,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.763773+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.678897+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 8,
-   "signature": "uanMnRC1s_gK4O1wF9_42ydbLkRSDoMoHDLIfg5Jj6Gf-Pr0Rdnqt_nVUbKfpuDmdXe7XYlzjUveiK_83uSkBw",
+   "revision": 20,
+   "signature": "dCglChQt8mmR2deUgIn7g1jot1E5sJd8U5Z51sJ5k8QhY6myETx82vjqT4zdUOKXKqJDU2JkblCrqheL6ATHAg",
    "subject_key": "live:grateful-dead:1972-08-24:berkeley-community-theater",
-   "updated_at": "2026-10-25T16:41:44.766382"
+   "updated_at": "2026-10-25T17:35:12.679979"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (4 reviews): Reviewer calls it long and lusty, with a hauntingly beautiful transition into Morning Dew, a cello-like string sound leading and Phil close behind; Reviewer treats this Dark Star as the definitive version [7][9][12][13]\n- **China Cat Sunflower** (1 review): Reviewer calls this China Cat beautiful [13]\n- **Beat It On Down The Line** (1 review): At its very end, Keith picks out a tune from Guys And Dolls just before Tennessee Jed starts [14]\n- **Playing In The Band** (1 review): Described as long and spacy [4]\n- **Morning Dew** (1 review): Reviewer describes the Dew arrival from Dark Star as slithering and beautiful, and the Dew itself as a monster [7]\n- **Sing Me Back Home** (1 review): Reviewer says it is well done [10]\n\n## The recordings\n\n- **gd72-08-24.sbd.miller.18093.sbeok.shnf** (recommended): soundboard; 23 songs; 201 min; rated 4.53/5 by 30 [1]\n- **gd1972-08-24.156469.sbd.anon.gems.flac16**: soundboard; 24 songs; 203 min; rated 4/5 by 1 [2]. Said about its sound: Restoration was done on the start of Sing Me Back Home, which has issues in all circulating sources; some tuning came from source 18093 [2]\n- **gd1972-08-24.sbd.unknown.151.shnf**: soundboard; 23 songs; 186 min; rated 3.5/5 by 2 [3]. Said about its sound: Slight digital noise over the first line of Sing Me Back Home [3]\n\n## Around the show\n\n- Third of four Berkeley nights; reviewer notes Jerry had brought Bird Song back a few weeks earlier [4]\n- Reviewer says this show displaces 8/21 in their top ten, part of a climb peaking at Veneta on 8/27 [4]\n- Reviewer thinks it is overlooked because the Oregon show came a few days later, calling the band in peak form [5]\n- Reviewer ranks the 24th the best of the post-Europe Berkeley run and says 8/27/72 is in a separate class [6]\n- Reviewer rates both the 24th and 21st above the 27th, and praises Dark Star into Dew [10]\n\n## Tapers and lineage\n\n- **gd72-08-24.sbd.miller.18093.sbeok.shnf**: source: Soundboard [1]. Also: Soundboard to reel to DAT at 48k, with missing songs patched from a soundboard-reel-cassette-generations-DAT chain, via Charlie Miller [1]\n- **gd1972-08-24.156469.sbd.anon.gems.flac16**: transferred by Mastered by Jamie Waddell and  Jim Blackwood Pitch correction by Jason Chastain Listening assistance, track, FLAC, and pack by Steve Gravel; source: Master SBD Reel > DAT from ANON [2]. Also: FLAC from a source aired on Dead Legs on Radio Valenica in March 2022; no extra analog generations in Sugar Magnolia, Greatest Story and Ramble On Rose [2]\n- **gd1972-08-24.sbd.unknown.151.shnf**: taped by Unknown; transferred by Unknown; source: SBD > ? [3]. Also: Shns come from CD-Rs burned from the circulating DAT soundboard; nothing else known about its descent [3]\n\n## Art and photos\n\n- Poster by arizjones.blogspot.com: [Grateful Dead, Berkeley Community Theatre, Berkeley, CA. August 1972, three shows. (SBD)](https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html) [17]\n- Fan art by arizjones.blogspot.com: [Grateful Dead, Berkeley Community Theatre, Berkeley, CA. August 1972, three shows. (SBD)](https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html) [18]",

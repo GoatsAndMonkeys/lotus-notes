@@ -546,7 +546,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1076,104 +1076,284 @@
     "setlist": [
      {
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 85,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 35,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1986-12-28",
+        "show": "live:grateful-dead:1986-12-28:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 181,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 121,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 181,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 90,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 12,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:desolation-row",
-      "stats": {},
+      "stats": {
+       "days_since": 85,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 11,
+       "total_plays": 60
+      },
       "title": "Desolation Row"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 191,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 323,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 427,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 429,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1987-01-29",
+        "show": "live:grateful-dead:1987-01-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 334,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 224,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-24",
+        "show": "live:grateful-dead:1987-03-24:hampton-coliseum"
+       },
+       "plays_before": 976,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-24",
+        "show": "live:grateful-dead:1987-03-24:hampton-coliseum"
+       },
+       "plays_before": 636,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1987-01-29",
+        "show": "live:grateful-dead:1987-01-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 115,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 270,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 335,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 370,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:mighty-quinn",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 12,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn The Eskimo)"
      }
     ],
@@ -1181,151 +1361,276 @@
      {
       "from": "gd1987-03-26.145505.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16",
       "key": "song:grateful-dead:midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 85,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 30,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "from": "gd1987-03-26.145505.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16",
       "key": "song:grateful-dead:quinn-the-eskimo",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 7,
+       "total_plays": 36
+      },
       "title": "Quinn The Eskimo (The Mighty Quinn)"
      },
      {
       "from": "gd1987-03-26.nakcm304.suraci.81450.sbeok.flac16",
       "key": "song:grateful-dead:china-cat",
-      "stats": {},
+      "stats": {
+       "days_since": 86,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 20,
+       "total_plays": 32
+      },
       "title": "Chian Cat"
      },
      {
       "from": "gd1987-03-26.nak300.damico.89168.sbeok.flac16",
       "key": "song:grateful-dead:row-jimmy-row",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1986-12-16",
+        "show": "live:grateful-dead:1986-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 21
+      },
       "title": "row jimmy row"
      },
      {
       "from": "gd1987-03-26.nak300.damico.89168.sbeok.flac16",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1987-01-28",
+        "show": "live:grateful-dead:1987-01-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 65,
+       "total_plays": 76
+      },
       "title": "brother esau"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-01-midnight-hour",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.01.midnight hour"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-02-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.02.cold rain & snow"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-03-cc-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.03.cc rider"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-04-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.04.row jimmy"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-05-my-brother-esau",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.05.my brother esau"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-06-when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.06.when push comes to shove"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-07-desolation-row",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.07.desolation row"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-08-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.08.bird song"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-09-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.09.promised land"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-10-china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.10.china cat sunflower"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-11-i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.11.i know you rider"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-12-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.12.looks like rain"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-13-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.13.he's gone"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-14-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.14.drums"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-15-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.15.space"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-16-i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.16.i need a miracle"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-17-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.17.black peter"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-18-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.18.around & around"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-19-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.19.good lovin'"
      },
      {
       "from": "gd1987-03-26.150711.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870326-20-mighty-quinn",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870326.20.mighty quinn"
      }
     ],
@@ -1333,26 +1638,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1321,
-     "shows_in_archive": 1855,
+     "show_number": 1425,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hartford Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:03.174385+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.515922+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "RqfdL4j4dSwZttLSPXlTcKRgnrCLdA-6uzhWhckEhgY3egWNxBYsoBUJHAdzbhwEbC0IpVMcI-lNtB0fFoWiCg",
+   "revision": 42,
+   "signature": "3artrL3h4ZaOd7W8AkLGA6zD6KCwzWq0SFeDIZuo_KtsiIyoSk1XB1RDd-MMzaRe7-KVhmhQnXWCPGCnDb7KAg",
    "subject_key": "live:grateful-dead:1987-03-26:hartford-civic-center",
-   "updated_at": "2026-10-25T16:42:03.192956"
+   "updated_at": "2026-10-25T17:35:22.517406"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **When Push Comes To Shove** (1 review): One of the finest versions, preventing the first set from dragging [25]\n- **Desolation Row** (1 review): Jerry's fills and harmonies make the song lilt nimbly instead of plodding [18]\n- **Bird Song** (1 review): The performance sends the listener into another world, escaping into the next realm [18]\n- **Looks Like Rain** (1 review): Jerry's sustain and slight distortion at the solo peak are subtle beauty [20]\n\n## The recordings\n\n- **gd1987-03-26.138166.sbd.miller.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 149 min; rated 4.5/5 by 4 [1]. Said about its sound: The low end on this recording is described as absolutely thunderous [1]\n- **gd1987-03-26.145505.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16**: audience recording; 20 songs; 144 min [3]\n- **gd1987-03-26.nakcm304.suraci.81450.sbeok.flac16**: source not stated; 20 songs; 146 min; rated 5/5 by 2 [5]. Said about its sound: Very beginning of Midnight Hour is clipped, and tape flip occurs during Desolation Row [5]\n- **gd87-03-26.mixed.braverman.10923.sbeok.shnf**: soundboard; 20 songs; 140 min; rated 4.36/5 by 38 [13]. Said about its sound: First set tracking speed is too fast, making it nearly unlistenable; Second set has normal pitch and a good audience/soundboard mix; Recording has always felt like a soundboard, though muddled in some areas [16][24][26]\n\n## Around the show\n\n- Reviewer entered with a wrong ticket, describing the night as magical [17]\n- Reviewer calls the venue good but criticizes the recording quality heavily [21]\n- Jerry was clearly bounced back from his coma, playing tight with high energy [23]\n- The 1987 Hartford shows were referred to as the ‘tea-hee fest’ [3]\n- Spring 1987 tour was the strongest since Summer 1985, harkening back to 1982 [23]\n\n## Tapers and lineage\n\n- **gd1987-03-26.138166.sbd.miller.sbeok.flac16**: transferred by Charlie Miller; source: Ultra Matrix SBD > Cassette Master (TDK MA-R90) [1]\n- **gd1987-03-26.145505.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16**: taped by Ray Ackerman; transferred by Charlie Miller and Joe Noel; source: Ray Ackerman’s Master Audience Cassettes; Two x Audio Technica 835b + One x AKG D12e center fill > Realistic 32-1105A, 4 channel stereo mixer > Sony TCD5 (OTS) [3]. Also: Edited and mastered by Joe Noel from 24/96 WAV to 16-bit FLAC [3]\n- **gd1987-03-26.nakcm304.suraci.81450.sbeok.flac16**: taped by Tony Suraci; transferred by Tony Suraci; source: Nak CM304's>Sony D5 [5]\n- **gd87-03-26.mixed.braverman.10923.sbeok.shnf**: source: SBD [13]\n\n## Art and photos\n\n- Fan art by RareVinyl.com: [Grateful Dead Dave's Picks Volume 36: Hartford Civic Center, Hartford, CT 3/26/87 & 3/27/87 - Sealed 2020 US 4-CD set](https://us.rarevinyl.com/products/grateful-dead-dave-s-picks-volume-36-hartford-civic-center-hartford-ct-3-26-87-and-3-27-87-sealed-us-4-cd-album-set-r2607319-866381) [29]\n- Poster by Jerry Garcia: [1987-03-26 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1987-03-26-grateful-dead-backstage-pass/) [30]\n- Fan art by Jake May: [Grateful Dead Prep 3/26/87 and 3/27/87 Shows in Hartford for Archival 'Dave's Picks' Release](https://jambands.com/news/2020/10/15/grateful-dead-prep-3-36-87-and-3-37-87-shows-in-hartford-for-archival-daves-picks-release/) [31]",

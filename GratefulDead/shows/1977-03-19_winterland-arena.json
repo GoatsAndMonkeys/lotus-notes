@@ -396,7 +396,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -760,104 +760,275 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 146,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 109,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-02-27",
+        "show": "live:grateful-dead:1977-02-27:robertson-gym-uc-santa-barbara"
+       },
+       "plays_before": 145,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 156,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 147,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 67,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 90,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 165,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-03-18",
+        "show": "live:grateful-dead:1977-03-18:winterland-arena"
+       },
+       "plays_before": 5,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-03-18",
+        "show": "live:grateful-dead:1977-03-18:winterland-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 239,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-03-18",
+        "show": "live:grateful-dead:1977-03-18:winterland-arena"
+       },
+       "plays_before": 45,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 246,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1976-07-16",
+        "show": "live:grateful-dead:1976-07-16:orpheum-theatre"
+       },
+       "plays_before": 2,
+       "total_plays": 80
+      },
       "title": "Playin' reprise"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 89,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 75,
+       "total_plays": 128
+      },
       "title": "Dancin' in the Street"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 96,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-02-26",
+        "show": "live:grateful-dead:1977-02-26:swing-auditorium"
+       },
+       "plays_before": 27,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-02-27",
+        "show": "live:grateful-dead:1977-02-27:robertson-gym-uc-santa-barbara"
+       },
+       "plays_before": 252,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 133,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-03-18",
+        "show": "live:grateful-dead:1977-03-18:winterland-arena"
+       },
+       "plays_before": 141,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      }
     ],
@@ -865,7 +1036,16 @@
      {
       "from": "gd1977-03-19.139354.soneyecm.ebel.flac1644",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 227,
+       "gap_shows": 22,
+       "last_played": {
+        "date": "1976-08-04",
+        "show": "live:grateful-dead:1976-08-04:roosevelt-stadium"
+       },
+       "plays_before": 10,
+       "total_plays": 25
+      },
       "title": "Dancin In The Streets"
      }
     ],
@@ -873,26 +1053,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 593,
-     "shows_in_archive": 1855,
+     "show_number": 683,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.859900+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.850609+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "3d8QTU__HbD4zkI5cT9fWvGbCmSqGOE-p6Zdh6z4XU9Mo-AsSx7tXbhmqi-2ubxwTvYahKZseQndoFLes770Dw",
+   "revision": 44,
+   "signature": "lyAFwl08oYIv8paeWi0byL8fekJl36rVLJs9Jd6lmi_xcVAAIsEnFFGCVkzDBLd8jhczlJ_RweJRzsXoIVhPDA",
    "subject_key": "live:grateful-dead:1977-03-19:winterland-arena",
-   "updated_at": "2026-10-25T16:41:49.861988"
+   "updated_at": "2026-10-25T17:35:14.851536"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Playin' in the Band** (3 reviews): The sandwich sequence involving Playin' and Samson is highlighted as a standout moment; The first set features interesting combinations, specifically the Playin' to Samson transition [11][14][16]\n- **Eyes of the World** (3 reviews): The second set's Eyes of the World is described as fast and furious; The listener claims this is the best Eyes and Wharf Rat they have ever heard [16][19][21]\n- **Terrapin Station** (2 reviews): The first set's Terrapin and subsequent Playin' sequence is noted as extremely well played; Terrapin is called killer, featuring great interplay between Jerry, Phil, and Keith [13][22]\n- **Estimated Prophet** (1 review): The performance of Estimated Prophet was described as thunderous and distinct from later pairings [11]\n- **Samson & Delilah** (1 review): Jerry's lead in Samson is praised for being raw with no effects or processing [21]\n- **Dancin' in the Street** (1 review): Dancin', Franklin's, and Sugar Mag are highlighted as sizzling moments in the show [18]\n- **Franklin's Tower** (1 review): Franklin's Tower into Sugar Magnolia is described as a sweet closing for the short set [13]\n\n## The recordings\n\n- **gd1977-03-19.152612.sbd.patched.miller.flac1644** (recommended): soundboard; 19 songs; 186 min; rated 5/5 by 2 [1]\n- **gd1977-03-19.174723.sbd.master-reel.phase-repair.miller.flac1644**: soundboard; 19 songs; 186 min [3]. Said about its sound: Terrapin Station exhibits some fluttering, though the issue is noted as not too bad [3]\n- **gd77-03-19.sbd.chinacat.255.sbeok.shnf**: soundboard; 19 songs; 170 min; rated 4.56/5 by 39 [4]. Said about its sound: The recording is praised for its amazing quality and tight, creative execution; The recording is identified as a Betty Board with five-star sound quality; The Terrapin Station recording is noted to have fluttery audio quality issues [4][12][22]\n- **gd1977-03-19.mtx.hansokolow.96856.flac16**: matrix (soundboard mixed with audience mics); 19 songs; 173 min; rated 4.83/5 by 6 [5]. Said about its sound: The AUD source has less than great sound reproduction but captures wonderful crowd energy [5]\n- **gd1977-03-19.139354.soneyecm.ebel.flac1644**: source not stated; 19 songs; 173 min; rated 4/5 by 1 [6]\n\n## Around the show\n\n- The double encore indicates a highly energized crowd and strong band connection that night [20]\n- Many individuals converted to full deadhead status during this specific Winterland performance [20]\n- First set is considered superior to the second set in this performance [11]\n- These March shows are characterized as tightly executed and calm compared to the May run [14]\n- The Uncle John's Band encore is ranked among the best ever, alongside St. Louis [18]\n- This show is considered to blow away the performance from the previous night [19]\n\n## Tapers and lineage\n\n- **gd1977-03-19.152612.sbd.patched.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  June 14, 2021; source: SBD > Reel Master > DAT (44.1k) [1]\n- **gd1977-03-19.174723.sbd.master-reel.phase-repair.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  October 18, 2025; source: SBD > Reel Master > DAT (44.1k) [3]. Also: Bass was out of phase on master reels, requiring stem flipping during the mixdown [3]\n- **gd77-03-19.sbd.chinacat.255.sbeok.shnf**: source: SBD>MR>DAT>DAT>Sonic Solutions>CDR [4]\n- **gd1977-03-19.mtx.hansokolow.96856.flac16**: transferred by hansokolow; source: Matrix mix (SBD/AUD) [5]. Also: Matrix created by hansokolow in ProTools from a friend's DAT collection and SDB source; Charlie Miller suggests Rob Bertrando likely taped the whole run, though unconfirmed in etree DB [5]\n- **gd1977-03-19.139354.soneyecm.ebel.flac1644**: taped by Unknown; transferred by Pete Ebel; source: Sony ECM 280 ->Cassette ->DAT [6]. Also: The setlist includes a double encore of One More Saturday Night and Uncle John's Band [6]\n\n## Art and photos\n\n- Poster by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-03-20 Winterland Arena, San Francisco, CA](https://thecurtainwithblog.blogspot.com/2018/06/grateful-dead-1977-03-20-winterland.html) [24]\n- Poster by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-12-31 Winterland Arena, San Francisco, CA](https://thecurtainwithblog.blogspot.com/2018/06/grateful-dead-1977-12-31-winterland.html) [25]",

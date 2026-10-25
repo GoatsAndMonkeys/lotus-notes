@@ -577,7 +577,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -591,7 +591,7 @@
      "id": 30,
      "kind": "blog",
      "published_at": "1970-01-01T00:00:00+00:00",
-     "quote_or_claim": "52: The Downs at Santa Fe, Santa Fe, NM\" » See an error?",
+     "quote_or_claim": "",
      "site": "Jerry Garcia",
      "title": "1983-09-10 Santa Fe Downs, Santa Fe, NM, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1983-09-10-santa-fe-downs-santa-fe-nm-usa/",
@@ -759,8 +759,8 @@
     },
     "previous": {
      "date": "1983-09-08",
-     "show": "live:grateful-dead:1983-09-08:red-rocks-amphitheatre",
-     "venue": "Red Rocks Amphitheatre"
+     "show": "live:grateful-dead:1983-09-08:red-rocks",
+     "venue": "Red Rocks"
     },
     "recommended": {
      "identifier": "gd1983-09-10.139020.FOB.Beyer.billydee.Sellars.Noel.t.flac24",
@@ -1252,122 +1252,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1983-07-30",
+        "show": "live:grateful-dead:1983-07-30:ventura-county-fairgrounds"
+       },
+       "plays_before": 132,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-09-02",
+        "show": "live:grateful-dead:1983-09-02:boise-pavillion-boise-state-university"
+       },
+       "plays_before": 187,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-09-07",
+        "show": "live:grateful-dead:1983-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 26,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-09-02",
+        "show": "live:grateful-dead:1983-09-02:boise-pavillion-boise-state-university"
+       },
+       "plays_before": 124,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 146,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1983-04-17",
+        "show": "live:grateful-dead:1983-04-17:meadowlands-arena"
+       },
+       "plays_before": 272,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-09-04",
+        "show": "live:grateful-dead:1983-09-04:park-west-ski-resort"
+       },
+       "plays_before": 310,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 263,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-09-07",
+        "show": "live:grateful-dead:1983-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 373,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-09-07",
+        "show": "live:grateful-dead:1983-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 376,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-09-04",
+        "show": "live:grateful-dead:1983-09-04:park-west-ski-resort"
+       },
+       "plays_before": 46,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1983-06-21",
+        "show": "live:grateful-dead:1983-06-21:merriweather-post-pavilion"
+       },
+       "plays_before": 164,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 381,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-08-31",
+        "show": "live:grateful-dead:1983-08-31:silva-hall-hult-center"
+       },
+       "plays_before": 57,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-09-08",
+        "show": "live:grateful-dead:1983-09-08:red-rocks"
+       },
+       "plays_before": 757,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-09-08",
+        "show": "live:grateful-dead:1983-09-08:red-rocks"
+       },
+       "plays_before": 421,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-09-08",
+        "show": "live:grateful-dead:1983-09-08:red-rocks"
+       },
+       "plays_before": 380,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-09-02",
+        "show": "live:grateful-dead:1983-09-02:boise-pavillion-boise-state-university"
+       },
+       "plays_before": 204,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feelin' Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-09-04",
+        "show": "live:grateful-dead:1983-09-04:park-west-ski-resort"
+       },
+       "plays_before": 231,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-08-31",
+        "show": "live:grateful-dead:1983-08-31:silva-hall-hult-center"
+       },
+       "plays_before": 155,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 146,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 117,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 111,
+       "total_plays": 127
+      },
       "title": "Supplication"
      }
     ],
@@ -1375,49 +1573,121 @@
      {
       "from": "gd1983-09-10.162895.nak300-cp4.shields-hughes.flac2496",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1983-08-30",
+        "show": "live:grateful-dead:1983-08-30:silva-hall-hult-center"
+       },
+       "plays_before": 18,
+       "total_plays": 76
+      },
       "title": "Brother Esau //"
      },
      {
       "from": "gd1983-09-10.162895.nak300-cp4.shields-hughes.flac2496",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-09-04",
+        "show": "live:grateful-dead:1983-09-04:park-west-ski-resort"
+       },
+       "plays_before": 45,
+       "total_plays": 187
+      },
       "title": "Woman Are Smarter //"
      },
      {
       "from": "gd1983-09-10.nak300.deadjohn-or-bonner.96920.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 331,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1983-09-10.110915.Sennheiser421s.daweez.D5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-09-08",
+        "show": "live:grateful-dead:1983-09-08:red-rocks"
+       },
+       "plays_before": 7,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1983-09-10.110915.Sennheiser421s.daweez.D5scott.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-09-06",
+        "show": "live:grateful-dead:1983-09-06:red-rocks-amphitheatre"
+       },
+       "plays_before": 216,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1983-09-10.110915.Sennheiser421s.daweez.D5scott.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-09-02",
+        "show": "live:grateful-dead:1983-09-02:boise-pavillion-boise-state-university"
+       },
+       "plays_before": 59,
+       "total_plays": 115
+      },
       "title": "Goin Down The Road"
      },
      {
       "from": "gd1983-09-10.143080.beyerm201.holbrook.flac2448",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-09-04",
+        "show": "live:grateful-dead:1983-09-04:park-west-ski-resort"
+       },
+       "plays_before": 36,
+       "total_plays": 182
+      },
       "title": "Man Smart/Woman Smarter"
      },
      {
       "from": "gd83-09-10.sennheiser.clugston.4860.shnf",
       "key": "song:grateful-dead:other-one-space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-09-08",
+        "show": "live:grateful-dead:1983-09-08:red-rocks"
+       },
+       "plays_before": 6,
+       "total_plays": 12
+      },
       "title": "The Other One Space"
      }
     ],
@@ -1425,26 +1695,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1100,
-     "shows_in_archive": 1855,
+     "show_number": 1202,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Santa Fe Downs"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 10,
+   "parent_revision": 22,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:56.928323+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.161981+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 11,
-   "signature": "OdP83Jk4Heohok221Qu1pM8ymFpn3xOXzXBFZZM37IK4J7aqytEQOJC2EWik14P96O-U33LS75rPHoVbV8r6Bg",
+   "revision": 23,
+   "signature": "hufNGMFTj_Q8E9VLkEEFfwNi-3lqe2KS9RqqgbGD4XUkGSml4xZIjvuHAPAQry-ZLg34G7vOkhPtP0nlGBfUBQ",
    "subject_key": "live:grateful-dead:1983-09-10:santa-fe-downs",
-   "updated_at": "2026-10-25T16:41:56.930163"
+   "updated_at": "2026-10-25T17:35:19.163271"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cold Rain & Snow** (2 reviews, 1 other source): Phil, wearing a huge novelty cowboy hat, stepped to a microphone in the encore and added end harmony vocals; Reviewer remarks on Phil singing on Cold Rain and Snow [6][17][24]\n- **China Doll** (1 review, 1 other source): Reviewer singles out China Doll as awesome, and notes early Lesh singing; A rhythm section jam emerges from China Doll [1][23]\n- **The Music Never Stopped** (1 review): Reviewer calls the opening song killer [20]\n- **They Love Each Other** (1 review): Reviewer praises Jerry's solo as precise, note for note [20]\n- **I Know You Rider** (1 review): China Cat into Rider ran at a quick pace because it was pouring and the band had no cover [28]\n- **Drums** (1 review): Mickey's birthday drum solo coincided with the rainbow growing more intense behind the stage [18]\n\n## The recordings\n\n- **gd1983-09-10.139020.FOB.Beyer.billydee.Sellars.Noel.t.flac24** (recommended): source not stated; 22 songs; 169 min; rated 5/5 by 1 [1]\n- **gd1983-09-10.162895.nak300-cp4.shields-hughes.flac2496**: audience recording; 21 songs; 153 min [3]. Said about its sound: Very clean recording with strong vocals, thick bold bass and good channel separation; set one has bass saturation in Brother Esau [3]\n- **gd1983-09-10.nak300.deadjohn-or-bonner.96920.flac16**: source not stated; 21 songs; 147 min [4]. Said about its sound: Uploader finds superior bass response and Phil bomb handling, preferring it to every circulating version, including the 24/96 MOTB transfer [4]\n- **gd1983-09-10.fob.nak700.wagner.motb-0079.94508.sbeok.flac16**: source not stated; 20 songs; 143 min; rated 4.83/5 by 6 [7]\n- **gd83-09-10.sennheiser.clugston.4860.shnf**: source not stated; 20 songs; 141 min; rated 4.54/5 by 13 [15]. Said about its sound: Described as a decent, warm audience recording, though not top notch, conveying the outdoor energy of crowd and band [20]\n\n## Around the show\n\n- Rain passed during the set break; in the second set a rainbow appeared behind the band as the sun set behind the audience [18]\n- Reviewer, studying computers in Albuquerque, had only seen the Dead indoors before; this outdoor show revived his enthusiasm for Dead shows [19]\n- Reviewer attended both nights, received a tarot death card in the campground, and passed out at the start of The Other One [21]\n- Reviewer mentions green chiles and calls this the great second night of the run [23]\n- Reviewer drove from Boulder for the shows; notes outdoor September shows in New Mexico and after-show antics in Santa Fe [24]\n- Venue had a fort-style perimeter fence and roses attached to nearly every surface; tickets cost $13 [26]\n- Wavy greeted arrivals at the desert camp entrance and directed them to quiet and noisy camping sides [26]\n- The break was long; the band returned when rain stopped, with plastic over stage equipment, and fans danced in mud during set two [28]\n\n## Tapers and lineage\n\n- **gd1983-09-10.139020.FOB.Beyer.billydee.Sellars.Noel.t.flac24**: taped by billydee; transferred by Larry Sellers & the Philly Crew; Joe Noel; source: billydee recording (patched out of): Beyerdynamics 180's > Sony TC-D5M > master audio cassette (FOB); Larry Sellers & the Philly Crew Direct Stream Digital… [1]. Also: Tape pauses were smoothed with crossfades; filler used at the end of billydee's set one cassette [1]\n- **gd1983-09-10.162895.nak300-cp4.shields-hughes.flac2496**: taped by Recording by Les Shields (Recording Guru) and Kevin T. Hughes, AICP, CEP (San Luis Obispo, CA 1981-1985).; transferred by Transfer and mastering by Kevin T. Hughes; source: FOB location – Master Audience Recording produced by a pair of Nak CM300 Microphones w/ CP4 Shotgun Caps > Sony D5 > Sony D6 Recorders > (Master) Maxell MX 90… [3]. Also: Taper used a Nak 300 on an 8-foot mic stand, 12 feet left of center from Healy's board [3]\n- **gd1983-09-10.nak300.deadjohn-or-bonner.96920.flac16**: taped by Dead John or Bonner; source: Nak 300 > Nak 550 > MAC [4]. Also: Fresh transfer of master tapes recorded on a well-maintained Nak 550, in 16-bit/44.1kHz [4]\n- **gd1983-09-10.fob.nak700.wagner.motb-0079.94508.sbeok.flac16**: taped by Bob Wagner; transferred by Adam Egert; source: (FOB) 2 x Nakamichi CM700 => Sony TC-D5m >> MAC [7]. Also: Quoting Bob Wagner: patched tape from Jaime Poris/Jim Olness rig, two or three Nak 700 omni capsules with foam for directionality; Reviewer recorded the show with a small handheld Sony recorder held at arm's length [25][28]\n- **gd83-09-10.sennheiser.clugston.4860.shnf**: source: Sennheiser 441 mics > Technics SV100 PCM> DAT> CDR [15]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Dave's Picks Vol. 52: The Downs at Santa Fe, Santa Fe, NM (9/11/83)](https://store.dead.net/products/daves-picks-vol-52-the-downs-at-santa-fe-santa-fe-nm-9-11-83?variant=42469430067242) [31]\n- Poster by Dennis Larkins: [Grateful Dead Santa Fe Downs NM 1983 D. Larkins Concert Poster](https://concertposterauction.com/Listing/Details/380816/Grateful-Dead-Santa-Fe-Downs-NM-1983-D-Larkins-Concert-Poster) [35]\n- Poster by Dennis Larkins: [Grateful Dead Santa Fe Downs NM 1983 Hand-Colored D. Larkins Concert Poster](https://concertposterauction.com/Listing/Details/1210624/Grateful-Dead-Santa-Fe-Downs-NM-1983-HandColored-D-Larkins-Concert-Poster) [36]\n- Photo by Zoooma (All rights reserved): [Grateful Dead ticket - 9/10/83 Downs at Santa Fe, New Mexico](https://www.flickr.com/photos/9692677@N07/2196317423/) [37]\n- Photo by Zoooma (All rights reserved): [Grateful Dead backstage pass - 9/10/83 Downs of Santa Fe, New Mexico](https://www.flickr.com/photos/9692677@N07/2197122580/) [38]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/9692677@N07/2196317423/) [39]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/9692677@N07/2197122580/) [40]",

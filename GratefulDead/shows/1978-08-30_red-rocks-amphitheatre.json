@@ -310,7 +310,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -345,9 +345,9 @@
      "venue": "Red Rocks Amphitheatre"
     },
     "previous": {
-     "date": "1978-07-08",
-     "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre",
-     "venue": "Red Rocks Amphitheatre"
+     "date": "1978-08-18",
+     "show": "live:grateful-dead:1978-08-18:studio",
+     "venue": "Studio"
     },
     "recommended": {
      "identifier": "gd1978-08-30.145135.sony.ecm270.nak301.severson.miller.clugston.flac1648",
@@ -539,102 +539,264 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 198,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 184,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 193,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-07-03",
+        "show": "live:grateful-dead:1978-07-03:st-paul-civic-center"
+       },
+       "plays_before": 134,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-08-18",
+        "show": "live:grateful-dead:1978-08-18:studio"
+       },
+       "plays_before": 1,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 138,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 184,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-08-18",
+        "show": "live:grateful-dead:1978-08-18:studio"
+       },
+       "plays_before": 1,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-06-04",
+        "show": "live:grateful-dead:1978-06-04:campus-stadium-uc-santa-barbara"
+       },
+       "plays_before": 174,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 78,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 272,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 122,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 373,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-07-08",
+        "show": "live:grateful-dead:1978-07-08:red-rocks-amphitheatre"
+       },
+       "plays_before": 65,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:if-i-had-the-world-to-give",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-08-18",
+        "show": "live:grateful-dead:1978-08-18:studio"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "If I Had The World To Give"
      },
      {
       "key": "song:grateful-dead:iko-iko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-07-05",
+        "show": "live:grateful-dead:1978-07-05:omaha-civic-auditorium"
+       },
+       "plays_before": 8,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 150,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-07-07",
+        "show": "live:grateful-dead:1978-07-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 86,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -643,26 +805,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 698,
-     "shows_in_archive": 1855,
+     "show_number": 792,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.176038+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.588693+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "cVdTf8FjTokw_OdBAEdOc0pwaG2QGYVEeuKj2wV3WDJgAQg7ntCroRtJND_hVsQXvdSvV-lCwAdZAVy4-LRWCQ",
+   "revision": 17,
+   "signature": "B5nnDCqar5wF6KfqeC2u4OKsZfkMgYs3GkNF2tHKmqJYZmxfFkedJcoxPK4aU8Mtfvbau-g_eUXntcLx0YKhDw",
    "subject_key": "live:grateful-dead:1978-08-30:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:41:52.177322"
+   "updated_at": "2026-10-25T17:35:15.589329"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **If I Had The World To Give** (4 reviews): Reviewer says the song was played live only about three times and praises Jerry's playing on it; The band reportedly disliked this song and played it only three times, per The Annotated Grateful Dead Lyrics [7][10][13][14]\n- **Estimated Prophet** (2 reviews): Reviewer finds Estimated Prophet exploratory, and Iko Iko a special treat; The Estimated>Other One>Eyes jam is described as full of small twists and flourishes [16][18]\n- **Iko Iko** (2 reviews): Reviewer says this Iko Iko was paired with another piece as filler on an old tape and has long been a favorite; Reviewer describes the Iko Iko as sitting in a very nice, bouncy groove [7][10]\n- **Sugaree** (1 review): Reviewer calls the Sugaree a monster version that stands out in an otherwise so-so first set [14]\n- **I Need A Miracle** (1 review): Reviewer singles out the Miracle jam, along with World To Give, as the show's highlights [15]\n- **Eyes Of The World** (1 review): Reviewer hears a very relaxed Eyes, with Jerry playing unhurried scales in a jazzy style [16]\n- **Space** (1 review): Drum/space section includes Phil's vocalizing leading into the next song [18]\n\n## The recordings\n\n- **gd1978-08-30.145135.sony.ecm270.nak301.severson.miller.clugston.flac1648** (recommended): audience recording; 18 songs; 196 min; rated 4/5 by 1 [1]\n- **gd78-08-30.aud.wiley.11479.sbeok.shnf**: audience recording; 18 songs; 163 min; rated 2.91/5 by 11 [3]. Said about its sound: Audience tape is only for sentimental use; the taper's conversations with people during the show are audible, and the second-set soundboard likely sounds better; Audience recording is not the cleanest, but audience chatter does not obscure the music; Reviewer says Red Rocks acoustics are poor for taping because sound dissipates, so soundboards are the best option there [8][14][17]\n- **gd78-08-30.set2-sbd.barbella.8038.sbeok.shnf**: soundboard; 12 songs; 123 min; rated 4.18/5 by 17 [4]. Said about its sound: Second-set soundboard is called superb, but set 1 is not of comparable quality; Soundboard is described as very clean, with Jerry's guitar and voice sounding wonderful [9][13]\n- **gd1978-08-30.158131.aud-partial.hicks-fong.flac2448**: audience recording; 11 songs; 86 min [6]\n\n## Around the show\n\n- The band introduced new songs destined for Shakedown Street, including Stagger Lee, I Need A Miracle and If I Had the World to Give [10]\n- Reviewer says Dark Star Orchestra recreated this show at the Showbox in Seattle and recommends that version, which had an encore [8]\n- Reviewer finds the band sluggish, unlike the amazing back-to-back shows at the same venue the previous month [15]\n- Reviewer says this was the first show after the band recorded Shakedown Street, and its laid-back second set was unusual [18]\n\n## Tapers and lineage\n\n- **gd1978-08-30.145135.sony.ecm270.nak301.severson.miller.clugston.flac1648**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Source Info: 1st Set: Mark Severson's Master Audience Cassettes; Sony ECM-270 mics (row 20, seats 73-75)> Sony TC-158SD (Maxell UDXLII) 2nd Set: Mark… [1]. Also: Master cassettes came from Mark Severson; Charlie Miller transferred them, with Wiley's audience source patching short gaps in The Other One and Drums [1]\n- **gd78-08-30.aud.wiley.11479.sbeok.shnf**: source: Audience Recording [3]\n- **gd78-08-30.set2-sbd.barbella.8038.sbeok.shnf**: source: Soundboard [4]. Also: Charlie Miller is credited with the soundboard work; two Drums files are identical except that one runs a couple seconds longer [9]\n- **gd1978-08-30.158131.aud-partial.hicks-fong.flac2448**: taped by concert recording by John Hicks & Dennis Fong; transferred by Transferred by Andrew F. 09/2022; source: Handheld deck (mono) > MAC > 1st-Gen mix tape [6]. Also: Partial audience tape possibly made on a portable Panasonic held at head level; it documents the three new songs; Source is mono and patched with a chunk from ID-11479 covering part of Eyes Of The World [6]\n\n## Art and photos\n\n- Poster by Worthpoint: [Grateful Dead Red Rocks Amphitheater Morrison CO 7/8/78 3 CD CD's | #4595269627](https://www.worthpoint.com/worthopedia/grateful-dead-red-rocks-amphitheater-4595269627) [20]",

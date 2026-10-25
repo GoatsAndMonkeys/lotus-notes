@@ -36,7 +36,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -100,7 +100,16 @@
     "setlist": [
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-09-14",
+        "show": "live:grateful-dead:1990-09-14:madison-square-garden"
+       },
+       "plays_before": 246,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      }
     ],
@@ -109,26 +118,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1613,
-     "shows_in_archive": 1855,
+     "show_number": 1718,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Club Front"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 18,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:13.861172+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.854512+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "86qF0cT5Nl0deaGX7DeBxeOaOfjfAOAXT1PMZhXtbs1TkB2rg3-TM7DA0QkEYwQOVh99AfRBpn97nq8U93_4BQ",
+   "revision": 19,
+   "signature": "_LDeHnxtWxNDbNDSBwdKoMJcqigVqm_2oTGbx6pZrF4_PDQs1AfcrM_L7ZO6g0GI409qNuxp40cb5EyoRKsDBg",
    "subject_key": "live:grateful-dead:1990-09-26:club-front",
-   "updated_at": "2026-10-25T16:42:13.862140"
+   "updated_at": "2026-10-25T17:35:25.854928"
   }
  },
  "recommended": {

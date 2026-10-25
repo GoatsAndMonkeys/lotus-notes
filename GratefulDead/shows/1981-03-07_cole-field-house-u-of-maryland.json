@@ -348,7 +348,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -683,129 +683,336 @@
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 71,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 137,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-04",
+        "show": "live:grateful-dead:1981-03-04:club-front"
+       },
+       "plays_before": 154,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 418,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 248,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1981-02-28",
+        "show": "live:grateful-dead:1981-02-28:uptown-theater"
+       },
+       "plays_before": 146,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 15,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-04",
+        "show": "live:grateful-dead:1981-03-04:club-front"
+       },
+       "plays_before": 39,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 92,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:bird-song",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-04",
+        "show": "live:grateful-dead:1981-03-04:club-front"
+       },
+       "plays_before": 96,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 220,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 268,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:aiko-aiko",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 132,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 6,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 84,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 83,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 250,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 576,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 246,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-02-26",
+        "show": "live:grateful-dead:1981-02-26:uptown-theater"
+       },
+       "plays_before": 290,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 164,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 224,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-05",
+        "show": "live:grateful-dead:1981-03-05:stanley-theater"
+       },
+       "plays_before": 194,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1981-02-28",
+        "show": "live:grateful-dead:1981-02-28:uptown-theater"
+       },
+       "plays_before": 190,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -813,7 +1020,16 @@
      {
       "from": "gd1981-03-07.174923.Bernstein.MasterCassettes.t-flac2496",
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 132,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1980-10-26",
+        "show": "live:grateful-dead:1980-10-26:radio-city-music-hall"
+       },
+       "plays_before": 17,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      }
     ],
@@ -821,26 +1037,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 913,
-     "shows_in_archive": 1855,
+     "show_number": 1009,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cole Field House, U of Maryland"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 21,
+   "parent_revision": 33,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.981734+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.372071+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 22,
-   "signature": "0QMRRCLgDA985uFbLbn756pqdcObKFxvBJH5u8JVi96WsiAHHfUWd-50A0upzaptumM1BCYA-0eAIOYY6kHLBg",
+   "revision": 34,
+   "signature": "GSelyxrKg7ZzrV7NS3qPrnqbH4ODde5xT8itZy4D5331FuhXUhxMtLUtATi0jJ2u2b2zKAtfmGpnuZeZXK3mCA",
    "subject_key": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland",
-   "updated_at": "2026-10-25T16:41:53.982740"
+   "updated_at": "2026-10-25T17:35:17.373078"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bird Song** (3 reviews, 1 other source): The reviewer calls this their favorite version of the song, saying it just smokes; The performance of this song is noted as being great and long [6][8][10][16]\n- **Me and My Uncle** (1 review): The performance of this song is highlighted as exceptionally strong, with Jerry on fire [9]\n- **Deal** (1 review): The ten-minute version of this song ended the first set, played on purpose [12]\n- **Lost Sailor** (1 review): The transition from Lost Sailor to Saint of Circumstance is described as inspired [8]\n\n## The recordings\n\n- **gd1981-03-07.nak700.glassberg.motb.82370.sbeok.flac16** (recommended): source not stated; 23 songs; 179 min; rated 4.2/5 by 15 [1]\n- **gd1981-03-07.128755.senn421.wise.minches.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 167 min [3]\n- **gd81-03-07complete.aud-wise.senn421.22933.sbeok.shnf**: audience recording; 23 songs; 169 min; rated 3.68/5 by 28 [4]. Said about its sound: The recording is nicely balanced with minimal audience noise, sounding better than the live experience [10]\n- **gd1981-03-07.174923.Bernstein.MasterCassettes.t-flac2496**: source not stated; 23 songs; 162 min [6]\n\n## Around the show\n\n- Jerry looked up around the fifteen-minute mark, realizing they were playing a concert [11]\n- Three party members were lost during intermission due to high energy and found the next morning [12]\n- A fan met the band at a DC to NYC gate, and they called the set bad [13]\n- The reviewer attended this show, marking it as their first experience with the band [14]\n- The reviewer listened during a severe thunderstorm in a car beside a river in Maine [16]\n- The reviewer sat front row at Jerry's mic and was left there for three hours [17]\n- It was pouring inside the venue by the final refrain of Looks Like Rain [17]\n- During Aiko, people upstairs formed a circle holding hands and spinning [17]\n\n## Tapers and lineage\n\n- **gd1981-03-07.nak700.glassberg.motb.82370.sbeok.flac16**: taped by Barry Glassberg; transferred by A. Egert and C. Ladner; source: Nakamichi CM700's > Sony TC-D5M > MAC [1]. Also: A tape flip in Deal was patched from a Jim Wise FOB-Sennheiser recording; The lineage includes Sennheiser 421 mics, Sony D5, MC, CD, and EAC [1]\n- **gd1981-03-07.128755.senn421.wise.minches.flac16**: taped by Jim Wise; transferred by David Minches; source: Recording by Jim Wise: Master Audience Cassette; 2 Sennheiser 421s> Sony D-5; Location: set up at the SBD; Transfer and FLAC encoding by David Minches; Dolby B… [3]. Also: The setlist includes songs like Alabama Getaway, Greatest Story Ever Told, and Dire Wolf [3]\n- **gd81-03-07complete.aud-wise.senn421.22933.sbeok.shnf**: taped by Jim Wise; source: Audience Recording: Sennheiser 421's [4]\n- **gd1981-03-07.174923.Bernstein.MasterCassettes.t-flac2496**: taped by Master Cassettes Recorded by Jon Bernstein; transferred by Transfer & Mastered by Ray Ackerman Edited w/ add'l Mastering by Joe Noel October 07, 2025; source: ?? mics > ?? lead deck > ?? Deck > Master Cassettes [6]. Also: Barry Glassberg provided the patch source for the recording [6]\n\n## Art and photos\n\n- Poster by www.cahiersdumusique.com: [Grateful Dead's Most Underrated Year: 1981](http://www.cahiersdumusique.com/2018/10/grateful-deads-most-underrated-year-1981.html) [21]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1981-03-07 Sat Cole Field House, University of Maryland, College Park, MD](https://www.livegrateful.net/post/1356296810562/grateful-dead-1981-03-07-sat-cole-field) [22]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1981-03-07 Sat Cole Field House, University of Maryland, College Park, MD](https://www.livegrateful.net/post/1356296810562/grateful-dead-1981-03-07-sat-cole-field) [23]\n- Fan art by www.cahiersdumusique.com: [Grateful Dead's Most Underrated Year: 1981](http://www.cahiersdumusique.com/2018/10/grateful-deads-most-underrated-year-1981.html) [24]\n- Poster by The Music Never Stopped: [Grateful Dead Live at Cole Field House, U of Maryland on 03/07/1981](https://dayofthedeadshow.home.blog/2019/03/07/grateful-dead-live-at-cole-field-house-u-of-maryland-on-03-07-1981/) [25]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1981-03-07 Sat Cole Field House, University of Maryland, College Park, MD](https://www.livegrateful.net/post/1356296810562/grateful-dead-1981-03-07-sat-cole-field) [26]",

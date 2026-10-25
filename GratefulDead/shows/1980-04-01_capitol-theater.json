@@ -401,7 +401,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -735,126 +735,334 @@
     "setlist": [
      {
       "key": "song:grateful-dead:tune-up",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 816,
+       "gap_shows": 171,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 6
+      },
       "title": "Tuneup"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 237,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 237,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 125,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 390,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 224,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 52,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-03-31",
+        "show": "live:grateful-dead:1980-03-31:capitol-theater"
+       },
+       "plays_before": 85,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-01-13",
+        "show": "live:grateful-dead:1980-01-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 186,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 226,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-03-31",
+        "show": "live:grateful-dead:1980-03-31:capitol-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 287,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 290,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 121,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 121,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 296,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 94,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-12-29",
+        "show": "live:grateful-dead:1979-12-29:winterland-arena"
+       },
+       "plays_before": 219,
+       "total_plays": 628
+      },
       "title": "Jam(1)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-03-31",
+        "show": "live:grateful-dead:1980-03-31:capitol-theater"
+       },
+       "plays_before": 486,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-03-31",
+        "show": "live:grateful-dead:1980-03-31:capitol-theater"
+       },
+       "plays_before": 158,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-12-31",
+        "show": "live:grateful-dead:1979-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 109,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 93,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1979-12-30",
+        "show": "live:grateful-dead:1979-12-30:oakland-auditorium-arena"
+       },
+       "plays_before": 191,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 40,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      }
     ],
@@ -862,40 +1070,50 @@
      {
       "from": "gd80-04-01.sbd.bertha-ashley.26178.sbeok.shnf",
       "key": "song:grateful-dead:instrument-change-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Instrument Change/Tuning"
      },
      {
       "from": "gd1980-04-01.mtx.motb.96454.flac16",
       "key": "song:grateful-dead:promised-land-april-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Promised Land - April Fools!"
      }
     ],
     "subject_key": "live:grateful-dead:1980-04-01:capitol-theater",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Tuneup"
+     ],
      "first_in_archive": [],
-     "show_number": 817,
-     "shows_in_archive": 1855,
+     "show_number": 913,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.262638+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.417909+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "a9vkEA6ochu8H4KA09hh6XQ4rzPj8jDHy5fust49KByca_Vr_CnyBMXJsWv2rbEScDlzoHsIoCrVr2d4u9OmAg",
+   "revision": 41,
+   "signature": "rbT2ghdF6vlR_Q61be03IiY0Nn215uoT2WYpbwotBOqJWjz8E6gyBtZsGioiDRjdgCWjSxZoReWk3fzNF1b1Cg",
    "subject_key": "live:grateful-dead:1980-04-01:capitol-theater",
-   "updated_at": "2026-10-25T16:41:53.263698"
+   "updated_at": "2026-10-25T17:35:16.418826"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Promised Land** (1 review): The first performance of the song is described as a disaster by the reviewer [15]\n- **Candyman** (1 review): The performance of this song is described as sweet after the April Fools gag [16]\n- **Feel Like A Stranger** (1 review): The ending jam is funky, featuring Jerry using a wah pedal effectively [15]\n- **Estimated Prophet** (1 review): Jerry’s solo reaches nice heights, followed by an amazing, smooth band jam [15]\n- **Space** (1 review): Space comes first, melting into trancey drums, then back into Space and Stella Blue [21]\n\n## The recordings\n\n- **gd80-04-01.glassberg.barbella.4742.sbeok.shnf** (recommended): audience recording; 23 songs; 172 min; rated 3/5 by 4 [1]\n- **gd80-04-01.sbd.bertha-ashley.26178.sbeok.shnf**: soundboard; 22 songs; 156 min; rated 4/5 by 28 [2]. Said about its sound: The sound quality is described as sweet for this recording; The recording features full bass and clear vocals, rolling over the listener; Excessive noise reduction creates a chipmunk-like, vocoder-processed tonal quality that is off-putting [17][19][20][22]\n- **gd1980-04-01.171418.nak700.wagner.miller.clugston.flac2496**: audience recording; 21 songs; 169 min; rated 5/5 by 1 [4]\n- **gd1980-04-01.sbd.willy.9670.sbeok.shnf**: soundboard; 21 songs; 155 min; rated 5/5 by 1 [8]\n- **gd80-04-01.sbd.miller.12386.sbeok.shnf**: matrix (soundboard mixed with audience mics); 21 songs; 152 min; rated 3.71/5 by 7 [10]. Said about its sound: Sound quality is good, though the cassette hit past Strager is a minor setback; The recording quality is excellent, elevating the overall show experience significantly [11][12]\n\n## Around the show\n\n- Musicians began the show playing on each other's instruments for a fun effect [11]\n- Bob Weir played keyboards, Brent and Jerry drums, Bill bass, Mickey guitar, Phil lead [14]\n- Jerry and Brent played drums, Bob organ, Billy bass, Phil lead, Mickey rhythm [17]\n- Tickets were impossible to get because the venue was very small [21]\n- For April Fool's, Brent and Jerry played drums; Mickey played rhythm guitar and vocals [3]\n- This copy sounds better than the other SBD, with a fuller low end [16]\n\n## Tapers and lineage\n\n- **gd80-04-01.glassberg.barbella.4742.sbeok.shnf**: taped by Barry Glassberg; source: Audience Recording: NAK 700's [1]. Also: Taper Barry Glassberg used Nak 700, Sony TC D5M, Tascam 112, Sony PCM R-500 [1]\n- **gd80-04-01.sbd.bertha-ashley.26178.sbeok.shnf**: source: Soundboard [2]\n- **gd1980-04-01.171418.nak700.wagner.miller.clugston.flac2496**: taped by Bob Wagner; transferred by Scott Clugston, Charlie Miller; source: Bob Wagner's Master Audience Cassettes; Nakamichi 700 mics > Sony TC-D5M (Maxell XLII-S90) [4]. Also: Nakamichi 700 source supplies a 0:46 patch in the Drums section [4]\n- **gd1980-04-01.sbd.willy.9670.sbeok.shnf**: transferred by Willy; source: SBD>MC>??>CDR [8]. Also: Nak 700 source patches from 5:44 to 6:06 in the He's Gone section; Shakedown Street is from an audience source, with level adjustments in the first few seconds [8]\n- **gd80-04-01.sbd.miller.12386.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard and Audience composite [10]",

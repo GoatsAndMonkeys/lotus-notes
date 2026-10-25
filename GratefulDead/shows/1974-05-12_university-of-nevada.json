@@ -323,7 +323,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -657,131 +657,356 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 114,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 128,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 144,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 126,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-02-24",
+        "show": "live:grateful-dead:1974-02-24:winterland-arena"
+       },
+       "plays_before": 148,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 94,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 191,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 247,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 250,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 174,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 6,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 95,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 4,
+       "total_plays": 168
+      },
       "title": "Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 112,
+       "total_plays": 125
+      },
       "title": "Me And Bobby McGee"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 113,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:tico-tico",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Tico Tico"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 57,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 79,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 49,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 203,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 225,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:mind-left-body-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 161,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 7,
+       "total_plays": 22
+      },
       "title": "Mind Left Body Jam"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-02-24",
+        "show": "live:grateful-dead:1974-02-24:winterland-arena"
+       },
+       "plays_before": 64,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 92,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 5,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 214,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      }
     ],
@@ -789,49 +1014,118 @@
      {
       "from": "gd74-05-12.sbd.sacks.2224.sbeok.shnf",
       "key": "song:grateful-dead:nobodys-fault-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 172,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 4,
+       "total_plays": 13
+      },
       "title": "Nobody's Fault Jam"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:mexicali",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 731,
+       "gap_shows": 144,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 14
+      },
       "title": "Mexicali"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:biodtl",
-      "stats": {},
+      "stats": {
+       "days_since": 161,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 9,
+       "total_plays": 26
+      },
       "title": "BIODTL"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:china",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 616,
+       "gap_shows": 121,
+       "last_played": {
+        "date": "1972-09-03",
+        "show": "live:grateful-dead:1972-09-03:folsom-field-u-of-colorado"
+       },
+       "plays_before": 3,
+       "total_plays": 6
+      },
       "title": "China"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:rider",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-03-23",
+        "show": "live:grateful-dead:1974-03-23:cow-palace"
+       },
+       "plays_before": 5,
+       "total_plays": 13
+      },
       "title": "Rider"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:gset",
-      "stats": {},
+      "stats": {
+       "days_since": 162,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1973-12-01",
+        "show": "live:grateful-dead:1973-12-01:boston-music-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "GSET"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 320,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1973-06-26",
+        "show": "live:grateful-dead:1973-06-26:seattle-center-arena"
+       },
+       "plays_before": 16,
+       "total_plays": 18
+      },
       "title": "Bobby McGee"
      },
      {
       "from": "gd1974-05-12.sbd.matt.22248.shnf",
       "key": "song:grateful-dead:mississippi-1-2-step",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Mississippi 1/2 Step"
      }
     ],
@@ -839,26 +1133,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 485,
-     "shows_in_archive": 1855,
+     "show_number": 568,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "University of Nevada"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.668495+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.021370+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "S7oKIy8m3GR1_HFX_zVfVdoOxjcScE7qIjnurdtoMobOjpW2PRsCcpWdW6__5SRa7-WiAk-ug3XGPVsAfzYlAQ",
+   "revision": 43,
+   "signature": "G0HfqzKvJiKhBmFufpH_tnVlt6EzhNNhKQHMZ3aGDf32bgPllRBlziG-yYrYAdTm3vhS0_QpFykVQRqc6W-5AA",
    "subject_key": "live:grateful-dead:1974-05-12:university-of-nevada",
-   "updated_at": "2026-10-25T16:41:47.672843"
+   "updated_at": "2026-10-25T17:35:14.022777"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Promised Land** (1 review, 1 other source): Mixed badly, with only Bobby's voice and some drums for roughly the first minute; The mix on Promised Land is a mess [1][17]\n- **Mississippi Half-Step Uptown Toodeloo** (1 other source): A digital noise flaw occurs at 1:44 in Mississippi Half Step [4]\n- **The Other One** (1 review): Bobby forgets lyrics to The Other One, as well as words elsewhere in the show [17]\n- **Mind Left Body Jam** (1 review): The jam following The Other One is the Mind Left Body Jam, which was mislabeled [16]\n- **Row Jimmy** (1 review): Reviewer feels Row Jimmy kills the momentum of the Truckin' through Mind Left Body sequence [17]\n- **Nobody's Fault Jam** (1 other source): A Nobody's Fault But Mine jam occurs inside Truckin' [1]\n\n## The recordings\n\n- **gd1974-05-12.150221.sbd.miller.flac1644** (recommended): soundboard; 25 songs; 175 min; rated 3.67/5 by 3 [1]\n- **gd74-05-12.sbd.sacks.2224.sbeok.shnf**: soundboard; 25 songs; 162 min; rated 3.71/5 by 14 [2]. Said about its sound: Reviewer says the sound and mix are very good; Once it settles down, the sound is respectable; Sound is very good once the speakers stopped flying around [10][13][16]\n- **gd1974-05-12.sbd.matt.22248.shnf**: soundboard; 25 songs; 162 min; rated 3.29/5 by 7 [3]\n- **gd1974-05-12.sbd.matrix-dts.tobin.90179.flac16**: matrix (soundboard mixed with audience mics); 9 songs; 75 min; rated 5/5 by 1 [4]. Said about its sound: Described as a very nice Wall-of-Sound-era audience recording [4]\n- **gd1974-05-12.sbd.matrix.tobin.90172.flac16**: matrix (soundboard mixed with audience mics); 9 songs; 75 min; rated 3.67/5 by 3 [5]. Said about its sound: The matrix sounds muffled, as if played under a pillow or in a closet [18]\n\n## Around the show\n\n- Citing McNally's book, a strong Washoe zephyr blew through the outdoor show, spinning the Wall of Sound speakers overhead [11]\n- Show fell on Mother's Day; the wind blew from behind the band toward the audience [12]\n- Very windy day; Garcia reportedly said backstage that the band played scrappy [13]\n- Windy day with the Wall of Sound swaying; the crowd was small [15]\n- Attendee recalls a plane flying over during the jam and dropping something [15]\n- Reviewer finds it a weak performance for 1974: strained vocals, forced jams and low energy [9]\n- Reviewer calls it solid, with the best jam section of any show until 5/19 [14]\n\n## Tapers and lineage\n\n- **gd1974-05-12.150221.sbd.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  June 18, 2020; source: SBD > Reel Master > DAT (44.1k) [1]. Also: Soundboard from reel master to cassette to DAT; audience source patches part of The Other One and Sugar Magnolia [1]\n- **gd74-05-12.sbd.sacks.2224.sbeok.shnf**: source: Soundboard [2]. Also: Master from Darrin Sacks: MSR to cassette to DAT to CDRs to EAC to SHN, previously uncirculated [2]\n- **gd1974-05-12.sbd.matt.22248.shnf**: transferred by Matt; source: MSR>C>DAT>CDRs>EAC>SHN [3]. Also: Copy had zero-padding on track ends; an archive.org user trimmed it, stitched discs in Cool Edit Pro and re-cut tracks in 2003 [3]\n- **gd1974-05-12.sbd.matrix-dts.tobin.90179.flac16**: source: DTS Audio 5.1; SBD (shn id 2224) MSR>C>DAT>CDRs>EAC>SHN + AUD (shn id 10529)AUD>?>CDRs>EAC>SHN Shns supplied by Jack Warner - dts mixing by Kevin Tobin [4]. Also: Matrix DTS mix aligns soundboard and audience sources in Audition 3.0, with a Surcode DTS encode [4]\n- **gd1974-05-12.sbd.matrix.tobin.90172.flac16**: transferred by Kevin Tobin; source: Matrix 2 Source Mix - SBD (shn id 2224) MSR> C> DAT> CDRs> EAC> SHN; via Darrin Sacks + AUD (shn id 10529) Partial 2nd Set; AUD>?>CD; via Jack Warner - matrix… [5]\n\n## Art and photos\n\n- Fan art by SoundCloud: [Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)](https://soundcloud.com/gratefuldead/ship-of-fools-live-at) [22]\n- Poster by Grateful Dead: [Grateful Dead University of Nevada - May 12, 1974](https://www.dead.net/show/may-12-1974) [23]\n- Photo by Tom Carrigan (All rights reserved): [Grateful Dead Wall of Sound University of Nevada Reno 5-12-1974](https://www.flickr.com/photos/151728916@N08/48144262776/) [24]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/151728916@N08/48144262776/) [25]",

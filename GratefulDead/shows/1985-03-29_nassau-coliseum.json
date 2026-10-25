@@ -821,7 +821,7 @@
      "id": 38,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1605,107 +1605,293 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:hampton-coliseum"
+       },
+       "plays_before": 168,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:down-in-the-bottom",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 4,
+       "total_plays": 10
+      },
       "title": "Down In The Bottom"
      },
      {
       "key": "song:grateful-dead:i-aint-superstitious",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 3,
+       "total_plays": 9
+      },
       "title": "I ain't Superstitious"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-03-13",
+        "show": "live:grateful-dead:1985-03-13:berkeley-community-theater"
+       },
+       "plays_before": 225,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:supplication-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1467,
+       "gap_shows": 288,
+       "last_played": {
+        "date": "1981-03-23",
+        "show": "live:grateful-dead:1981-03-23:rainbow-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 15
+      },
       "title": "Supplication Jam"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:hampton-coliseum"
+       },
+       "plays_before": 64,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 327,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 246,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:donaat-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "DonÃÂt Ease Me In"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:hampton-coliseum"
+       },
+       "plays_before": 150,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 70,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "key": "song:grateful-dead:goinaa-down-the-road-feelinaa-bad",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4142,
+       "gap_shows": 754,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "GoinÃÂ Down The Road FeelinÃÂ Bad"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 376,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:baby-what-you-want-me-to-do",
-      "stats": {},
+      "stats": {
+       "days_since": 39,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1985-02-18",
+        "show": "live:grateful-dead:1985-02-18:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 3,
+       "total_plays": 5
+      },
       "title": "Baby What You Want Me to Do?"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 376,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 860,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 524,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 263,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 74,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 240,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1985-03-13",
+        "show": "live:grateful-dead:1985-03-13:berkeley-community-theater"
+       },
+       "plays_before": 128,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1713,160 +1899,314 @@
      {
       "from": "gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 294,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496",
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:hampton-coliseum"
+       },
+       "plays_before": 183,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "from": "gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 71,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496",
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 218,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "from": "gd85-03-29.oade-schoeps.sacks.23475.sbeok.flacf",
       "key": "song:grateful-dead:donat-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "DonÂt Ease Me In"
      },
      {
       "from": "gd85-03-29.oade-schoeps.sacks.23475.sbeok.flacf",
       "key": "song:grateful-dead:goina-down-the-road-feelina-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "GoinÂ Down The Road FeelinÂ Bad"
      },
      {
       "from": "gd85-03-29.oade-schoeps.sacks.23475.sbeok.flacf",
       "key": "song:grateful-dead:throwina-stones",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "ThrowinÂ Stones"
      },
      {
       "from": "gd1985-03-29.112216.BeyerM160.daweez.d5scott.flac16",
       "key": "song:grateful-dead:phil-loves-ny",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Loves NY"
      },
      {
       "from": "gd1985-03-29.112216.BeyerM160.daweez.d5scott.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-03-25",
+        "show": "live:grateful-dead:1985-03-25:springfield-civic-center"
+       },
+       "plays_before": 70,
+       "total_plays": 115
+      },
       "title": "Goin' Down The Road"
      },
      {
       "from": "gd1985-03-29.senn421.mccue.ford.34648.sbeok.flac16",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-24",
+        "show": "live:grateful-dead:1985-03-24:springfield-civic-center"
+       },
+       "plays_before": 59,
+       "total_plays": 182
+      },
       "title": "Man Smart, Women Smarter"
      },
      {
       "from": "gd1985-03-29.150081.akg224.dyche.flac16",
       "key": "song:grateful-dead:phil-loves-new-york",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Loves New York !!"
      },
      {
       "from": "gd1985-03-29.141208.unknown.Bryant.Miller.Noel.t-flac1644",
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 149,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 116,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "from": "gd1985-03-29.152069.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:phil-loves-ny-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Loves NY tuning"
      },
      {
       "from": "gd1985-03-29.145318.aud.lamarre.berger.flac16",
       "key": "song:grateful-dead:aint-superstitious-medley",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Ain't Superstitious* medley"
      },
      {
       "from": "gd1985-03-29.145318.aud.lamarre.berger.flac16",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-03-22",
+        "show": "live:grateful-dead:1985-03-22:hampton-coliseum"
+       },
+       "plays_before": 47,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1985-03-29.145318.aud.lamarre.berger.flac16",
       "key": "song:grateful-dead:you-got-me-running",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "You Got Me Runnin'"
      },
      {
       "from": "gd1985-03-29.aud.morris.106058.sbeok.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 163,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1984-10-17",
+        "show": "live:grateful-dead:1984-10-17:meadowlands-arena"
+       },
+       "plays_before": 49,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1985-03-29.nak300.bmandel.78439.sbeok.shnf",
       "key": "song:grateful-dead:meet-me-in-the-bottom",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Meet Me in the Bottom"
      },
      {
       "from": "gd1985-03-29.nak300.bmandel.78439.sbeok.shnf",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 646,
+       "gap_shows": 122,
+       "last_played": {
+        "date": "1983-06-22",
+        "show": "live:grateful-dead:1983-06-22:city-island"
+       },
+       "plays_before": 14,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1985-03-29.nak300.bmandel.78439.sbeok.shnf",
       "key": "song:grateful-dead:baby-what-you-want",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Baby What You Want"
      },
      {
       "from": "gd1985-03-29.169428.Nassau.Uniondale.NY.nak.300.omni.pzm7.master.tartus.t-flac16",
       "key": "song:grateful-dead:down-in-the-bottom-i-aint-superstitious",
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1984-12-28",
+        "show": "live:grateful-dead:1984-12-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Down In The Bottom-I Ain't Superstitous"
      },
      {
       "from": "gd1985-03-29.124750.chasingwilma.flac24",
       "key": "song:grateful-dead:meet-me-at-the-bottom",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-21",
+        "show": "live:grateful-dead:1985-03-21:hampton-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "meet me at the bottom"
      }
     ],
     "subject_key": "live:grateful-dead:1985-03-29:nassau-coliseum",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1203,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Supplication Jam",
+      "GoinÃÂ Down The Road FeelinÃÂ Bad"
+     ],
+     "first_in_archive": [
+      "DonÃÂt Ease Me In"
+     ],
+     "show_number": 1306,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.878795+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.346828+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "erd8HF6ZyVUAtGJOGrRctuLv6fQsdE4e2Z1yEoEnFhZfJX4e22e1ifm4LzlaPLLHgmpSSg6eL2VE1iYAtMO3Bg",
+   "revision": 17,
+   "signature": "2e9b76rijPj4_uCt5zc12oDKuuaViye1ZXGChLQJ4AIhrgNegnCLApNgmKj9WEn7TsMUTDxAxz_7---17FbwAQ",
    "subject_key": "live:grateful-dead:1985-03-29:nassau-coliseum",
-   "updated_at": "2026-10-25T16:41:59.880896"
+   "updated_at": "2026-10-25T17:35:20.348239"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Cold Rain and Snow** (2 reviews): The crowd can be heard singing along with the band on the chorus of the opener; Audience energy during the opener is striking on the recording [27][28]\n- **Baby What You Want Me to Do?** (1 review): Brent's vocal on this song showcases strong blues playing [32]\n- **Jam** (1 review): The jam before drums features xylophones and recalls the experiments of 1986 [32]\n- **Johnny B. Goode** (1 review): Reviewer says Jerry fades after space and sounds off; the closer rushes like a horse nearing the barn [29]\n- **Supplication** (1 review): Reviewer singles out the Supplication jam as sweet, and also praises Tennessee Jed [31]\n\n## The recordings\n\n- **gd85-03-29.aud.barbella.10493.sbeok.shnf** (recommended): audience recording; 21 songs; 133 min; rated 4/5 by 10 [1]\n- **gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496**: audience recording; 21 songs; 138 min [2]\n- **gd1985-03-29.149308.senn441.hunt.mattes.miller.clugston.flac2496**: audience recording; 21 songs; 137 min [6]\n- **gd1985-03-29.141208.unknown.Bryant.Miller.Noel.t-flac1644**: source not stated; 21 songs; 136 min [12]\n\n## Around the show\n\n- A front-row woman got past security onto the stage, touched Brent's head, and danced before Jerry until escorted off [26]\n- Jerry reacted to the stage-crasher by saying the line about women being smarter, that's right [26]\n- Bob opened the second set asking for a bumper sticker reading that Phil loves New York [30]\n- A woman jumped on stage during this song, as the reviewer, who attended, recalls [30]\n- Matt Kelly sits in on Ain't Superstitious and the Bottom, according to this reviewer [34]\n- Seating was general admission on this tour; a blind man in front of reviewer was ecstatic through set one [35]\n- Mickey hit Matthew Kelly with multiple drum sticks [2]\n- A woman jumped on stage and danced between Bob and Jerry briefly before security escorted her off [2]\n- Reviewer ranks this second among spring 1985 shows, behind the March 31 show [27]\n- Reviewer finds the first set strong enough that the show could have been the year's best until drums [29]\n- Reviewer thinks the band played better the first night and that its sound has more impact; also suggests the 2/20/85 audience tape [32]\n\n## Tapers and lineage\n\n- **gd85-03-29.aud.barbella.10493.sbeok.shnf**: source: AUD>MC>DAT>CDR [1]. Also: Audience recording went microphone to cassette to DAT to CDR, via Raul, seeded to etree by Steve Barbella [1]\n- **gd1985-03-29.165162.nak304.thomas.miller.clugston.flac2496**: taped by Stephen Thomas; transferred by Scott Clugston, Charlie Miller; source: Stephen Thomas' Master Audience Cassettes; Nakamichi 300 mics + CP4 shotguns > Sony D5M [2]. Also: Source from Stephen Thomas's master cassettes, coordinated by Charlie Miller; Oade's Schoeps CMC4 MK source supplies crowd, a Minglewood start, and a Drums patch [2]\n- **gd1985-03-29.149308.senn441.hunt.mattes.miller.clugston.flac2496**: taped by Rob Hunt and Ted Mattes; transferred by Scott Clugston and Charlie Miller; source: Rob Hunt and Ted Mattes' Master Audience Cassettes; Sennheiser 441 mics > Sony D5M [6]\n- **gd1985-03-29.141208.unknown.Bryant.Miller.Noel.t-flac1644**: taped by Robert Bryant; transferred by Charlie Miller and Joe Noel; source: Robert Bryant recording: unknown mics > Cassette Master (Sony TC-D5M); Charlie Miller DSD [12]. Also: File set is 16 bit, converted from 24 bit using MusicConverter with sox [12]",

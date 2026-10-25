@@ -453,7 +453,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -467,7 +467,7 @@
      "id": 26,
      "kind": "blog",
      "published_at": null,
-     "quote_or_claim": "Louis, MO (12/9/79) Soldiers' and Sailors' Memorial Hall, Kansas City, KS (12/10/79) Soldiers' and Sailors' Memorial Hall, Kansas City, KS (12/11/79) Oakland Auditorium Arena, Oakland,…",
+     "quote_or_claim": "",
      "site": "www.cs.cmu.edu",
      "title": "Grateful Dead Setlists: 1979",
      "url": "https://www.cs.cmu.edu/~gdead/79.html",
@@ -931,122 +931,320 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 260,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1979-11-06",
+        "show": "live:grateful-dead:1979-11-06:the-spectrum"
+       },
+       "plays_before": 234,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 383,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 217,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 192,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 134,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 16,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 15,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 20,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 15,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 218,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1979-10-31",
+        "show": "live:grateful-dead:1979-10-31:nassau-coliseum"
+       },
+       "plays_before": 34,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 225,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 177,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 116,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 293,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 466,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-24",
+        "show": "live:grateful-dead:1979-11-24:golden-hall-community-concourse"
+       },
+       "plays_before": 142,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1979-10-31",
+        "show": "live:grateful-dead:1979-10-31:nassau-coliseum"
+       },
+       "plays_before": 265,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 106,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 240,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 154,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -1054,7 +1252,16 @@
      {
       "from": "gd79-11-25.sbd.dan.7192.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-23",
+        "show": "live:grateful-dead:1979-11-23:golden-hall-community-concourse"
+       },
+       "plays_before": 107,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
@@ -1062,26 +1269,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 796,
-     "shows_in_archive": 1855,
+     "show_number": 892,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pauley Pavilion, UCLA"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.061502+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.240868+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "sFxWvLf0H38mywXHUwfFGv9lU_XObtlCEo2tzbojsQgvpTMsMAFd7QyKY-XTdRqkGneXLYtU8Mo4b3UsEynvBQ",
+   "revision": 31,
+   "signature": "qoziDR9Sfu-YzbUCLT4wk1En6M4U0IPeqinxe6-85LUaUv9EY3UWWsS0Cfnq6XHaaUmmIFTJyUtfMATZQwr3Ag",
    "subject_key": "live:grateful-dead:1979-11-25:pauley-pavilion-ucla",
-   "updated_at": "2026-10-25T16:41:53.062772"
+   "updated_at": "2026-10-25T17:35:16.241861"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (3 reviews): The Shakedown jam is strong, with Jerry playing horn-like notes and Brent funky on synths, though not especially tight; Jerry and Brent get really funky in Shakedown, which flows into a standout Bertha [13][16][23]\n- **Tennessee Jed** (2 reviews): Jerry's playing is singled out as wailing on Tennessee Jed, along with Big River, Loser and Althea; Tennessee Jed is described as a phenomenal, big version worth hearing [17][22]\n- **He's Gone** (2 reviews): The He's Gone into The Other One segment is called killer; He's Gone into The Other One is singled out as smokin' [14][23]\n- **Jack Straw** (1 review): Reviewer, whose favorite song is Jack Straw, says this opening version is one they replay repeatedly [24]\n- **Big River** (1 review): Big River is described as incendiary [22]\n- **Althea** (1 review): Reviewer singles out Althea as very strong [14]\n- **Lost Sailor** (1 review): Reviewer says this is the best Lost Sailor they have heard [17]\n- **Stella Blue** (1 review): Reviewer calls this their pick for the best Stella Blue [14]\n\n## The recordings\n\n- **gd79-11-25.sbd.miller.25609.sbeok.shnf** (recommended): soundboard; 22 songs; 172 min; rated 4.5/5 by 28 [1]. Said about its sound: Slight hiss on this copy, but called the best available version at the time; Charlie Miller version said to be a perfect copy with no hiss, better than other 1979 recordings; Sound quality is great, but track numbering seems off: Tennessee Jed appears as d1t2 and d1t3, and d1t1 is tuning [16][19][20][22]\n- **gd79-11-25.sbd.dan.7192.sbeok.shnf**: soundboard; 22 songs; 169 min; rated 4.5/5 by 8 [3]. Said about its sound: Soundboard has short digital noise spikes in several tracks, easily removed with a wave editor; the sound is otherwise terrific; This copy has noise reduction applied, most noticeable between songs; an upgrade was expected [13][15]\n- **gd1979-11-25.sbd.miller.84489.flac16**: soundboard; 22 songs; 172 min; rated 4.33/5 by 18 [4]. Said about its sound: Easy To Love You dropouts were smoothed with crossfades, and numerous static pops were removed with Cool Edit Pro [4]\n- **gd1979-11-25.179232.sbd.miller.flac1648**: soundboard; 22 songs; 171 min [5]\n- **gd1979-11-25.aud.severson.minches.90720.flac1644**: audience recording; 22 songs; 176 min; rated 5/5 by 3 [7]\n\n## Around the show\n\n- Reviewer thinks the second set has the most going on [16]\n- Reviewer calls this their favorite first set, and says the Charlie Miller version of 2004 is much better [17]\n\n## Tapers and lineage\n\n- **gd79-11-25.sbd.miller.25609.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard [1]. Also: A cut in Bertha appears to have been patched; Soundboard to master cassette to PCM to DAT, transferred via Sony R500 DAT, SEK'D Prodif Plus and Samplitude, then SHN; Patch source was a Nakamichi 700 master cassette to reel to CD, possibly one more reel generation, via Charlie Miller [1][23]\n- **gd79-11-25.sbd.dan.7192.sbeok.shnf**: source: Soundboard [3]\n- **gd1979-11-25.sbd.miller.84489.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette -> PCM -> Dat (44.1k) [4]. Also: Patch source discs were provided by David Hollister; patches cover Drums, Space and Bertha, using soundboard master reel MP3 [4]\n- **gd1979-11-25.179232.sbd.miller.flac1648**: transferred by Mastered by Charlie Miller  September 13, 2026; source: SBD > Cassette Master (Maxell UDXL-II/Dolby B) [5]. Also: Combines three sources: a soundboard patch upsampled to match, and an audience patch recorded by Mark Severson [5]\n- **gd1979-11-25.aud.severson.minches.90720.flac1644**: taped by Mark Severson; transferred by David Minches; source: 2 Sony ECM-270s on stand 40' from stage> Sony TC-D5 (2 Maxell UD XL-IIs) [7]. Also: A brief patch near 6:24 uses Bob Menke's recording, made with two Nakamichi CM-700 mics into Sony TC-D5 [7]",

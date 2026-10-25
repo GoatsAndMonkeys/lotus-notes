@@ -368,7 +368,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -685,126 +685,333 @@
     "setlist": [
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 155,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 19,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 13,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 97,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mission-in-the-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1976-06-18",
+        "show": "live:grateful-dead:1976-06-18:capitol-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 5
+      },
       "title": "Mission In The Rain"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 75,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 119,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 21,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 15,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 97,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 21,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 17,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-06-21",
+        "show": "live:grateful-dead:1976-06-21:tower-theatre"
+       },
+       "plays_before": 63,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 229,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:space-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1976-06-10",
+        "show": "live:grateful-dead:1976-06-10:boston-music-hall"
+       },
+       "plays_before": 9,
+       "total_plays": 33
+      },
       "title": "Space Jam"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 11,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 11,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 136,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 170,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 136,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-06-26",
+        "show": "live:grateful-dead:1976-06-26:auditorium-theatre"
+       },
+       "plays_before": 128,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-06-27",
+        "show": "live:grateful-dead:1976-06-27:auditorium-theatre"
+       },
+       "plays_before": 49,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -812,157 +1019,271 @@
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t01-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t01 Tuning"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t02-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t02 Tennessee Jed"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t03-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t03 Cassidy"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t04-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t04 Peggy O"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t05-mama-tried",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t05 Mama Tried"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t06-mission-in-the-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t06 Mission In The Rain"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t07-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t07 Looks Like Rain"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t08-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t08 Brown Eyed Women"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t09-lazy-lightning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t09 Lazy Lightning"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t10-supplication",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t10 Supplication"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t11-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t11 Row Jimmy"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t12-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t12 The Music Never Stopped"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t13-might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t13 Might As Well"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t14-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t14 Samson & Delilah"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t15-candyman",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t15 Candyman"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t16-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t16 Crowd Tuning"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t17-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t17 Playing In The Band"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t18-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t18 The Wheel"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t19-playing-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t19 Playing Reprise"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t20-st-stephen",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t20 St. Stephen"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t21-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t21 Not Fade Away"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t22-st-stephen",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t22 St. Stephen"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t23-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t23 One More Saturday Night"
      },
      {
       "from": "gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16",
       "key": "song:grateful-dead:gd76-06-29-t24-us-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd76-06-29 t24 US Blues"
      },
      {
       "from": "gd1976-06-29.sbd.unknown.2594.shnf",
       "key": "song:grateful-dead:row-jimmy-row",
-      "stats": {},
+      "stats": {
+       "days_since": 734,
+       "gap_shows": 71,
+       "last_played": {
+        "date": "1974-06-26",
+        "show": "live:grateful-dead:1974-06-26:providence-civic-center"
+       },
+       "plays_before": 4,
+       "total_plays": 21
+      },
       "title": "Row Jimmy Row"
      },
      {
       "from": "gd1976-06-29.sbd.unknown.2594.shnf",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-06-28",
+        "show": "live:grateful-dead:1976-06-28:auditorium-theatre"
+       },
+       "plays_before": 264,
+       "total_plays": 1630
+      },
       "title": "Drums"
      }
     ],
@@ -970,26 +1291,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 564,
-     "shows_in_archive": 1855,
+     "show_number": 652,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Auditorium Theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.176042+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.659183+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "bQ1SrewVAA6K5frXROV3Yv6NzxTZpN3QWJp_m6SIsFLxZP9Aw49lJ3FNHKB2fij1deWPSuNuTiPqLB8w9-qfBA",
+   "revision": 42,
+   "signature": "pS8Qov2Fq77j8incFIXfIKaAs89vSAo_xEoEncWimhG2nZXhYe0A4MibqAuSX45vnbIJ0VwU1YOXA13_FaEFAg",
    "subject_key": "live:grateful-dead:1976-06-29:auditorium-theatre",
-   "updated_at": "2026-10-25T16:41:49.179264"
+   "updated_at": "2026-10-25T17:35:14.660368"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Tennessee Jed** (1 review): Listener calls this performance an all-time great version of the song [19]\n- **Row Jimmy** (1 review): Jerry’s pedal steel performance is highlighted as a pure extension of his soul [13]\n\n## The recordings\n\n- **gd76-06-29.sbd.bertha.31144.sbeok.flacf** (recommended): soundboard; 23 songs; 177 min; rated 4.82/5 by 33 [1]\n- **gd76-06-29.sbd.parrillo.1812.sbeok.shnf**: soundboard; 23 songs; 177 min; rated 4.58/5 by 36 [2]. Said about its sound: Recording has a laid-back vibe with good ensemble playing, particularly in the second set; Listener praises the 1976 intros to the song and notes a wonderful sound quality [12][14]\n- **gd1976-06-29.sbd.bertha.ashley.86216.dvdf**: soundboard; 0 songs; 0 min [9]\n- **gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16**: soundboard; 24 songs; 176 min; rated 3.33/5 by 3 [3]\n\n## Around the show\n\n- Listener describes the song as beautiful and notes the second set has a killer feel [11]\n- The performance was broadcast on WXRT-FM radio in Chicago [5]\n- Show is compared to later Orpheum performances, featuring a long, trippy version of the material [16]\n- The 1976 era is characterized by a laid-back, funky groove unlike other periods in the band's history [17]\n\n## Tapers and lineage\n\n- **gd76-06-29.sbd.bertha.31144.sbeok.flacf**: transferred by Jay Ashley; source: Soundboard [1]. Also: Audio transferred from SBD to MR, PCM, DAT, CDA, SHN, and DAW formats [1]\n- **gd76-06-29.sbd.parrillo.1812.sbeok.shnf**: source: Soundboard [2]. Also: Reviewer has possessed a tape copy of the board since the early 1980s [16]\n- **gd1976-06-29.sbd.bertha.ashley.86216.dvdf**: transferred by Jay Ashley; source: Bertha Remaster of the Master Reel Betty Board source [9]. Also: Digitally remastered in June 2005 using a custom dual-DAW system nicknamed Bertha [9]\n- **gd1976-06-29.139633.sbd.betty.gastwirt.miller.clugston.flac16**: taped by Betty Cantor, provided by Rich Gastwirt; transferred by Charlie Miller and Scott Clugston; source: Source Info: 7\" two track Betty reels @ 7 1/2 ips > PCM > DAT; Transfer Info: DAT(Sony PCM-R500)-> Tascam DA-3000-> Adobe Audition-> TLH flac16; Transfer by… [3]\n\n## Art and photos\n\n- Poster by Worthpoint: [THE GRATEFUL DEAD - AUDITORIUM THEATRE, CHICAGO 29TH JUNE 1976 RECORD STORE DAY! | #4849303161](https://www.worthpoint.com/worthopedia/grateful-dead-auditorium-theatre-4849303161) [23]",

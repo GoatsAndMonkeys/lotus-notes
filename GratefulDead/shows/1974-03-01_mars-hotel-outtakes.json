@@ -85,7 +85,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -179,17 +179,29 @@
     "setlist": [
      {
       "key": "song:grateful-dead:pride-of-cucamonga",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Pride Of Cucamonga (x3)"
      },
      {
       "key": "song:grateful-dead:money-money",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Money Money"
      },
      {
       "key": "song:grateful-dead:unbroken-chain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Unbroken Chain"
      },
      {
@@ -197,37 +209,70 @@
       "notes": [
        "acoustic"
       ],
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Unbroken Chain"
      },
      {
       "key": "song:grateful-dead:unbroken-chain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Unbroken Chain"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias-pride-of-cucamonga",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Scarlet Begonias + Pride of Cucamonga"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-24",
+        "show": "live:grateful-dead:1974-02-24:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:money-money",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Money Money"
      },
      {
       "key": "song:grateful-dead:loose-lucy-us-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Loose Lucy + US Blues"
      },
      {
       "key": "song:grateful-dead:crazy-fingers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 156
+      },
       "title": "Crazy Fingers"
      }
     ],
@@ -235,46 +280,83 @@
      {
       "from": "gd1974-03-01.152493.Mars-Hotel-Outtakes-gadsden-cousinit-onemoreshot.shnf",
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 122,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1973-10-30",
+        "show": "live:grateful-dead:1973-10-30:kiel-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "from": "gd1974-03-01.152493.Mars-Hotel-Outtakes-gadsden-cousinit-onemoreshot.shnf",
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 20,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "from": "gd1974-03-01.152493.Mars-Hotel-Outtakes-gadsden-cousinit-onemoreshot.shnf",
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-24",
+        "show": "live:grateful-dead:1974-02-24:winterland-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1974-03-01:mars-hotel-outtakes",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 483,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Pride Of Cucamonga (x3)",
+      "Money Money",
+      "Unbroken Chain",
+      "Unbroken Chain",
+      "Unbroken Chain",
+      "Scarlet Begonias + Pride of Cucamonga",
+      "Money Money",
+      "Loose Lucy + US Blues",
+      "Crazy Fingers"
+     ],
+     "show_number": 566,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Mars Hotel Outtakes"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.619535+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.004080+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "5XtrcL9SLuwAT25cWklsNuPIt-ZRIXA9a7D4C3K18SPJTFnNL7rWKGvA0kObuKYCT_vJ-ksAIsVWbLH6x54cCQ",
+   "revision": 40,
+   "signature": "fJhuv2MsRd4GSC5SMvR1l-NyAKrqa7NuJsC8TdDpxgilC9AW88ZA74Z0arQa5YaILRgNcKi_YbZ9T4JALs3UAw",
    "subject_key": "live:grateful-dead:1974-03-01:mars-hotel-outtakes",
-   "updated_at": "2026-10-25T16:41:47.620991"
+   "updated_at": "2026-10-25T17:35:14.004834"
   }
  },
  "recommended": {

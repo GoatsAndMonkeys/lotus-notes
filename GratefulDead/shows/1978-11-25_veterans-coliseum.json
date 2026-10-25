@@ -167,7 +167,7 @@
      "id": 11,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -231,7 +231,11 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bob-weir-jerrys-sick",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bob Weir - Jerry's sick"
      }
     ],
@@ -239,27 +243,29 @@
     "subject_key": "live:grateful-dead:1978-11-25:veterans-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 720,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bob Weir - Jerry's sick"
+     ],
+     "show_number": 814,
+     "shows_in_archive": 2097,
      "songs": 1,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Veterans Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.431220+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.754377+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "rdZAWVGFbxCoxAsVxvgWOon0DHiQ9_I6WZNfOKZPTtPpOeBEEd6cJAPmZUb1rFOXoTPrnS59q5TB-DKCbNyqCQ",
+   "revision": 40,
+   "signature": "ewmMnewugctOlHX3vWSiVxBkho8X08O4Kjgu4RESHN-mtOkdR46SZN8ArP7BRKX_1Nyuk8dssZP5FHC3fBFMDQ",
    "subject_key": "live:grateful-dead:1978-11-25:veterans-coliseum",
-   "updated_at": "2026-10-25T16:41:52.431971"
+   "updated_at": "2026-10-25T17:35:15.754794"
   }
  },
  "recommended": {

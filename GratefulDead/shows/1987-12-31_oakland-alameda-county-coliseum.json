@@ -460,7 +460,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -506,13 +506,13 @@
     "guests": [],
     "next": {
      "date": "1988-02-13",
-     "show": "live:grateful-dead:1988-02-13:henry-j-kaiser-auditorium",
-     "venue": "Henry J. Kaiser Auditorium"
+     "show": "live:grateful-dead:1988-02-13:henry-j-kaiser-convention-center",
+     "venue": "Henry J Kaiser Convention Center"
     },
     "previous": {
      "date": "1987-12-30",
-     "show": "live:grateful-dead:1987-12-30:oakland-coliseum-arena",
-     "venue": "Oakland Coliseum Arena"
+     "show": "live:grateful-dead:1987-12-30:oakland-alameda-county-coliseum",
+     "venue": "Oakland-Alameda County Coliseum"
     },
     "recommended": {
      "identifier": "gd1987-12-31.140070.sbd.pcm.miller.flac1644",
@@ -914,147 +914,384 @@
     "setlist": [
      {
       "key": "song:grateful-dead:radio-interviews",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Radio Interviews"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-11-13",
+        "show": "live:grateful-dead:1987-11-13:long-beach-arena"
+       },
+       "plays_before": 327,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 98,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1987-09-24",
+        "show": "live:grateful-dead:1987-09-24:the-spectrum"
+       },
+       "plays_before": 338,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-11-06",
+        "show": "live:grateful-dead:1987-11-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 188,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Anow"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-11-14",
+        "show": "live:grateful-dead:1987-11-14:long-beach-arena"
+       },
+       "plays_before": 178,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-11-06",
+        "show": "live:grateful-dead:1987-11-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 40,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 20,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-11-13",
+        "show": "live:grateful-dead:1987-11-13:long-beach-arena"
+       },
+       "plays_before": 206,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-11-13",
+        "show": "live:grateful-dead:1987-11-13:long-beach-arena"
+       },
+       "plays_before": 170,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:radio-interviews",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Radio Interviews"
      },
      {
       "key": "song:grateful-dead:mason-williams-and-friends",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Mason Williams And Friends"
      },
      {
       "key": "song:grateful-dead:radio-interviews",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Radio Interviews"
      },
      {
       "key": "song:grateful-dead:midnight-madness",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 89,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "Midnight Madness"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 118,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-12-27",
+        "show": "live:grateful-dead:1987-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 225,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1987-11-14",
+        "show": "live:grateful-dead:1987-11-14:long-beach-arena"
+       },
+       "plays_before": 195,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-12-30",
+        "show": "live:grateful-dead:1987-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1052,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-12-30",
+        "show": "live:grateful-dead:1987-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 712,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-11-15",
+        "show": "live:grateful-dead:1987-11-15:long-beach-arena"
+       },
+       "plays_before": 465,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-11-13",
+        "show": "live:grateful-dead:1987-11-13:long-beach-arena"
+       },
+       "plays_before": 307,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-12-27",
+        "show": "live:grateful-dead:1987-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 136,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-11-07",
+        "show": "live:grateful-dead:1987-11-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 433,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:radio-announcers",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4666,
+       "gap_shows": 890,
+       "last_played": {
+        "date": "1975-03-23",
+        "show": "live:grateful-dead:1975-03-23:kezar-stadium"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "Radio Announcers"
      },
      {
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-11-07",
+        "show": "live:grateful-dead:1987-11-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 6,
+       "total_plays": 16
+      },
       "title": "We Want Phil"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 116,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-11-15",
+        "show": "live:grateful-dead:1987-11-15:long-beach-arena"
+       },
+       "plays_before": 89,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:banana-boat-song",
-      "stats": {},
+      "stats": {
+       "days_since": 178,
+       "gap_shows": 42,
+       "last_played": {
+        "date": "1987-07-06",
+        "show": "live:grateful-dead:1987-07-06:civic-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "The Banana Boat Song"
      },
      {
       "key": "song:grateful-dead:do-you-wanna-dance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Do You Wanna Dance"
      },
      {
       "key": "song:grateful-dead:knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1987-11-13",
+        "show": "live:grateful-dead:1987-11-13:long-beach-arena"
+       },
+       "plays_before": 14,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      }
     ],
@@ -1062,100 +1299,187 @@
      {
       "from": "gd87-12-31.sbd.ashley.402.sbeok.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 101,
+       "total_plays": 182
+      },
       "title": "Man Smart, Women Smarter"
      },
      {
       "from": "gd1987-12-31.sbd.walker-scotton.miller.85684.sbeok.flac16",
       "key": "song:grateful-dead:new-years-countdown",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 89,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 6,
+       "total_plays": 9
+      },
       "title": "New Years Countdown"
      },
      {
       "from": "gd1987-12-31.164120.ultramatrix.walker.scotton.miller.clugston.flac2496",
       "key": "song:grateful-dead:crowd-tuning-we-want-phil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd/Tuning/We Want Phil"
      },
      {
       "from": "gd1987-12-31.171679.mtx.tobin.flac2448",
       "key": "song:grateful-dead:do-you-want-to-dance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Do You Want To Dance"
      },
      {
       "from": "gd1987-12-31.nak300.gidley.120782.flac2448",
       "key": "song:grateful-dead:happy-new-year",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 730,
+       "gap_shows": 136,
+       "last_played": {
+        "date": "1985-12-31",
+        "show": "live:grateful-dead:1985-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 5,
+       "total_plays": 6
+      },
       "title": "Happy New Year!"
      },
      {
       "from": "gd1987-12-31.nak300.gidley.120782.flac2448",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 104,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1987-09-18",
+        "show": "live:grateful-dead:1987-09-18:madison-square-garden"
+       },
+       "plays_before": 70,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1987-12-31.nak300.gidley.120782.flac2448",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 112,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1987-12-31.nak300.gidley.120782.flac2448",
       "key": "song:grateful-dead:day-o-do-you-wanna-dance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Day-O / Do You Wanna Dance?"
      },
      {
       "from": "gd87-12-31.schoeps.ewing.16436.sbeok.shnf",
       "key": "song:grateful-dead:banana-boat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Banana Boat"
      },
      {
       "from": "gd1987-12-31.171718.5-1.tobin.flac1648",
       "key": "song:grateful-dead:banana-boat-song-day-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Banana Boat Song (Day-O"
      },
      {
       "from": "gd1987-12-31.168712.FM.KSLY.ont.flac1644",
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-12-28",
+        "show": "live:grateful-dead:1987-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 67
+      },
       "title": "(encore, w/The Neville Brothers)"
      },
      {
       "from": "gd1987-12-31.168712.FM.KSLY.ont.flac1644",
       "key": "song:grateful-dead:knocking-on-heavens-door-encore-w-the-neville-brothers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Knockin' On Heaven's Door (encore, w/The Neville Brothers"
      }
     ],
     "subject_key": "live:grateful-dead:1987-12-31:oakland-alameda-county-coliseum",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1398,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Radio Announcers"
+     ],
+     "first_in_archive": [
+      "Radio Interviews",
+      "Radio Interviews",
+      "Mason Williams And Friends",
+      "Radio Interviews",
+      "Do You Wanna Dance"
+     ],
+     "show_number": 1502,
+     "shows_in_archive": 2097,
      "songs": 29,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Oakland-Alameda County Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:05.730004+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.259696+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "iZeuqhpdDiwTDmJWwuukloimF9LOHhfuI-pdemzexW-3dWwCfPgxQKBvKJ2ntDOnGEvN6r1ofzqDlNOkS8CmDw",
+   "revision": 26,
+   "signature": "jc-an4Z23NI60DqXCTikDVs5x4P3-Lu1wEXHEs99U54D9K06qX_icl5-B3AuU9rliebseu8MF6TlDnL8CYBuBQ",
    "subject_key": "live:grateful-dead:1987-12-31:oakland-alameda-county-coliseum",
-   "updated_at": "2026-10-25T16:42:05.732692"
+   "updated_at": "2026-10-25T17:35:23.260880"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Little Red Rooster** (2 reviews): Brent's lead playing on Rooster is praised as jamming; Little Red Rooster was hot [15][25]\n- **Promised Land** (1 review): Promised Land is missing from the video release; the reviewer wondered why Bertha into Cold Rain opened [19]\n- **When I Paint My Masterpiece** (1 review): Brent sings with great force on Masterpiece [16]\n- **Bird Song** (1 review): Bird Song was played very nicely [15]\n- **Uncle John's Band** (1 review): Reviewer found the Uncle John's Band a mess [20]\n\n## The recordings\n\n- **gd1987-12-31.140070.sbd.pcm.miller.flac1644** (recommended): soundboard; 29 songs; 235 min; rated 4/5 by 3 [1]\n- **gd87-12-31.sbd.ashley.402.sbeok.shnf**: soundboard; 22 songs; 162 min; rated 4.12/5 by 8 [2]. Said about its sound: Levels are good and the mix excellent, with slight background noise in the left channel [21]\n- **gd1987-12-31.sbd.walker-scotton.miller.85684.sbeok.flac16**: soundboard; 23 songs; 171 min; rated 3.33/5 by 3 [3]\n- **gd1987-12-31.164120.ultramatrix.walker.scotton.miller.clugston.flac2496**: soundboard; 24 songs; 170 min [4]\n- **gd87-12-31.sbd.patched.etter.23040.sbefail.shnf**: pre-FM broadcast master; 22 songs; 159 min; rated 4.27/5 by 11 [7]. Said about its sound: Reviewer thinks it is a pre-FM source, sounding richer than other soundboards and matching a tape they once owned; Sound is described as very good; Levels are good and the mix excellent, with slight background noise in the left channel [14][16][22]\n\n## Around the show\n\n- The encore with the Neville Brothers is singled out as a reason to download [14]\n- One attendee pictured Jerry as Santa and Mickey Hart as Spock [18]\n- The DVD release omits Promised Land and the Neville encores, except Knockin' [19]\n- On the pay-per-view broadcast, Kesey called Danny Ainge a mean Mormon [20]\n- Reviewer's first bootleg tape of this show was mislabeled as Pittsburgh 87 [23]\n- Reviewer watched the pay-per-view broadcast and taped the whole thing on video [25]\n- Neville Brothers members joined for Man Smart, Iko Iko, Banana Boat Song, and Do You Wanna Dance [1]\n- The Neville Brothers played on the last four songs [3]\n- Uncle John's Band repeats a performance from the same run of shows [19]\n- Reviewer finds the second set starts fine but slopes off, while the first set is a favorite [25]\n\n## Tapers and lineage\n\n- **gd1987-12-31.140070.sbd.pcm.miller.flac1644**: transferred by Charlie Miller; source: Broadcast Mix > PCM (clone off Sony F1 Master) [1]. Also: The show was released commercially on video as Ticket To New Year's [1]\n- **gd87-12-31.sbd.ashley.402.sbeok.shnf**: source: SBD> FM> REEL (TandbergTD20ASE)> WAV> SHN [2]\n- **gd1987-12-31.sbd.walker-scotton.miller.85684.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK MA-XG90) D [3]. Also: Source chain is FM to master reel to CD supplies, from tapes by Paul Scotton and Joani Walker; A patch source was recorded by Jay Ashley [3]\n- **gd1987-12-31.164120.ultramatrix.walker.scotton.miller.clugston.flac2496**: taped by Joani Walker; transferred by Scott Clugston, Charlie Miller, Paul Scotton; source: Joani Walker's Master Ultramatrix Soundboard Cassettes (TDK MA-XG90) [4]\n- **gd87-12-31.sbd.patched.etter.23040.sbefail.shnf**: source: bootleg disc of unknown source (pre-FM?) -- Sound: A+ Secondary source: Jay Ashley's FM reel -- SBD>>FM>>REEL(TandbergTD20ASE)>>WAV>>SHN -- Sound A- see… [7]. Also: Reviewer originally taped the show off the radio in the late 1980s; the tapes were later stolen from their car [16]\n\n## Art and photos\n\n- Fan art by Ron Delany Grateful Dead: [1987-12-31 Oakland-Alameda County Coliseum, Oakland, CA, USA - Jerry Garcia](https://jerrygarcia.com/show/1987-12-31-oakland-alameda-county-coliseum-oakland-ca-usa/) [27]\n- Poster by Jerry Garcia: [1987-12-31 Grateful Dead Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1987-12-31-grateful-dead-backstage-pass/) [28]",

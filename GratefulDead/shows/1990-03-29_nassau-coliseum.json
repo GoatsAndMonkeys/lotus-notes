@@ -855,7 +855,7 @@
      "id": 42,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1848,116 +1848,295 @@
     "setlist": [
      {
       "key": "song:grateful-dead:stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-12-28",
+        "show": "live:grateful-dead:1989-12-28:oakland-alameda-county-coliseum-arena"
+       },
+       "plays_before": 18,
+       "total_plays": 22
+      },
       "title": "Stranger"
      },
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 421,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 349,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:we-want-phil",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 11,
+       "total_plays": 16
+      },
       "title": "We Want Phil"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 253,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 19,
+       "total_plays": 71
+      },
       "title": "Masterpiece"
      },
      {
       "key": "song:grateful-dead:i-think",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I think"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 250,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 363,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sounds-like-eyes",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Sounds like Eyes"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 313,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 327,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 189,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-28",
+        "show": "live:grateful-dead:1990-03-28:nassau-coliseum"
+       },
+       "plays_before": 1223,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-28",
+        "show": "live:grateful-dead:1990-03-28:nassau-coliseum"
+       },
+       "plays_before": 883,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 88,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-12-31",
+        "show": "live:grateful-dead:1989-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 189,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-24",
+        "show": "live:grateful-dead:1990-03-24:knickerbocker-arena"
+       },
+       "plays_before": 198,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 181,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 262,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 45,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      }
     ],
@@ -1965,82 +2144,168 @@
      {
       "from": "gd1990-03-29.mtx.hansokolow.97118.flac16",
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 62,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "from": "gd1990-03-29.nak300.andrewf.83612.flac16",
       "key": "song:grateful-dead:percussion-space",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1997,
+       "gap_shows": 404,
+       "last_played": {
+        "date": "1984-10-09",
+        "show": "live:grateful-dead:1984-10-09:the-centrum"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Percussion Space"
      },
      {
       "from": "gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644",
       "key": "song:grateful-dead:promised-land-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 254,
+       "gap_shows": 49,
+       "last_played": {
+        "date": "1989-07-18",
+        "show": "live:grateful-dead:1989-07-18:alpine-valley-music-theatre"
+       },
+       "plays_before": 9,
+       "total_plays": 23
+      },
       "title": "Promised Land, Set Break"
      },
      {
       "from": "gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644",
       "key": "song:grateful-dead:dark-star-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4106,
+       "gap_shows": 852,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 12,
+       "total_plays": 21
+      },
       "title": "Dark Star>Jam"
      },
      {
       "from": "gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 83,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644",
       "key": "song:grateful-dead:encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-28",
+        "show": "live:grateful-dead:1990-03-28:nassau-coliseum"
+       },
+       "plays_before": 15,
+       "total_plays": 32
+      },
       "title": "Encore Break (End Added From Tape 1)"
      },
      {
       "from": "gd1990-03-29.aud.nawrocki.29191.sbeok.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-28",
+        "show": "live:grateful-dead:1990-03-28:nassau-coliseum"
+       },
+       "plays_before": 115,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1990-03-29.143171.FOB.Schoeps.Mattes.Miller.Noel.REMASTER.t-flac1648",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 15,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      },
      {
       "from": "gd90-03-29.aud-fob.set2.unknown.1317.sbeok.shnf",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 109,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1989-12-10",
+        "show": "live:grateful-dead:1989-12-10:great-western-la-forum"
+       },
+       "plays_before": 37,
+       "total_plays": 55
+      },
       "title": "Drums/Space"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-29:nassau-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1574,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "I think",
+      "Sounds like Eyes"
+     ],
+     "show_number": 1679,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.886623+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.326438+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "TwxtGI5jgKMEcVhOJ8DIak1pXqjYGDWazYoNyis-962hBs-zrpp0PmHPK3R8r0xCBmffKAZlu2QQBjUvIaiYBg",
+   "revision": 42,
+   "signature": "g5TGISpOwd3N7Z0ZbrN1YP6uUYqTj-n1oslelnUkfUqSsozCg-obU-4n8onv0RiFZezd-6xqVt3zJbYf6SNxBA",
    "subject_key": "live:grateful-dead:1990-03-29:nassau-coliseum",
-   "updated_at": "2026-10-25T16:42:11.889002"
+   "updated_at": "2026-10-25T17:35:25.328433"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Bird Song** (3 reviews): Described as potentially one of the best versions of the song ever recorded; Described as downright disgusting, one of the reviewer's favorite performances of the song [32][37][39]\n- **Knockin' On Heaven's Door** (2 reviews): Might be the best version of the song ever recorded; Reviewer's favorite version, noting Jerry's emotional voice makes you cry [34][37]\n- **Eyes of the World** (1 review): Described as legendary, possibly from the Without a Net album [40]\n- **Throwing Stones** (1 review): Described as the best version of the song the reviewer has heard [36]\n\n## The recordings\n\n- **gd1990-03-29.127385.mtx.eichorn.flac16** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 158 min; rated 5/5 by 4 [1]\n- **gd1990-03-29.mtx.hansokolow.97118.flac16**: matrix (soundboard mixed with audience mics); 18 songs; 158 min; rated 4.75/5 by 8 [2]\n- **gd1990-03-29.nak300.andrewf.83612.flac16**: source not stated; 18 songs; 157 min; rated 5/5 by 4 [3]\n- **gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644**: source not stated; 18 songs; 163 min [4]\n- **gd90-03-29.sbd.hinko.24996.sbeok.shnf**: soundboard; 17 songs; 152 min; rated 4.88/5 by 16 [16]. Said about its sound: Sound quality rated five out of five, described as totally smokin; This copy is superior in quality to the other two versions on the site; The show is fluid, flowing with life and intensity, leaving room for improvisation [32][35][36]\n- **gd90-03-29.sbd.miller.26341.sbeok.shnf**: soundboard; 17 songs; 151 min; rated 4.45/5 by 29 [18]. Said about its sound: Described as Jazz Dead, with Dark Star being psychedelic jazz [41]\n- **gd90-03-29.aud-fob.set2.unknown.1317.sbeok.shnf**: matrix (soundboard mixed with audience mics); 9 songs; 104 min; rated 4.53/5 by 34 [29]. Said about its sound: Lacks expected crowd noise, suggesting a matrix source rather than a Schoeps FOB [30]\n\n## Around the show\n\n- Marsalis adds an abstract edge to the performance of Knockin' On Heaven's Door [34]\n- Branford Marsalis adds flair, with the second set described as being on fire [37]\n- Branford Marsalis plays on Birdsong and the entire second set [3]\n- Branford Marsalis plays saxophones on Bird Song, Promised Land, and the second set [4]\n- Considered superior to the Healy 24-track mixdown due to better Phil and audience energy [31]\n\n## Tapers and lineage\n\n- **gd1990-03-29.127385.mtx.eichorn.flac16**: taped by Roger Eichorn; transferred by Roger Eichorn; source: Matrix from SBD (shnid=33925) and AUD (shnid=91347) [1]. Also: Recorded and transferred by Keith Litzenberger using Sennheiser ME-80s and Technics SV-MD1 DAT [1]\n- **gd1990-03-29.mtx.hansokolow.97118.flac16**: transferred by hansokolow; source: matrix of DSBD: shnid=????? and DAUD: shnid=91347 by hansokolow using ProTools [2]. Also: Matrix done by hansokolow in ProTools, transferred from DAT master in Flying Gonz studios [2]\n- **gd1990-03-29.nak300.andrewf.83612.flac16**: taped by Andrew F; transferred by Andrew F.; source: Nakamichi CM300's with CP4 shotgun capsules > Sony TC-D5M > Maxell MX-90's, with Dolby off. Mics on stand aprx 7-feet high, pointed at stacks, set up in… [3]. Also: Tape flips in Birdsong and Dark Star patched using first-gen cassette and ShnID-1317 [3]\n- **gd1990-03-29.AKG451.Berger.Currier.Keo.121843.Flac1644**: taped by B.R. And Mr. Currier; transferred by Rob Berger and Keo; source: Recorded By B.R. And Mr. Currier Recorded From The OTS; AKG451 With Shotguns>AKG 9V Phantom Power Box>Sony TCD-D10 (Rob Berger's)> Sony TCD-D10>(B.R.'s Patch);… [4]. Also: Copies sent from B.R.'s original master DAT and Mr. Berger's initial setup [4]\n- **gd90-03-29.sbd.hinko.24996.sbeok.shnf**: transferred by Darryl Hinko; source: Soundboard (Hinko) [16]\n- **gd90-03-29.sbd.miller.26341.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard (Miller) [18]\n- **gd90-03-29.aud-fob.set2.unknown.1317.sbeok.shnf**: source: Audience (matrix??) [29]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1990-03-29 Nassau Coliseum, Uniondale, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1990-03-29-nassau-coliseum-uniondale-ny-usa/) [43]\n- Poster by Jerry Garcia: [1990-03-30 Nassau Coliseum, Uniondale, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1990-03-30-nassau-coliseum-uniondale-ny-usa/) [44]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1990-03-29 Thu Nassau Veterans Memorial Coliseum, Uniondale, NY](https://www.livegrateful.net/post/1240231749282/1990-03-29-thu-nassau-veterans-memorial) [46]\n- Poster by blackmuddyblog.blogspot.com: [Grateful Dead - 1990-03-29 - Nassau Coliseum - Uniondale NY](https://blackmuddyblog.blogspot.com/2020/03/grateful-dead-1990-03-29-nassau.html) [47]\n- Poster by Jerry Garcia: [1990-03-28 Nassau Coliseum, Uniondale, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1990-03-28-nassau-coliseum-uniondale-ny-usa/) [48]",

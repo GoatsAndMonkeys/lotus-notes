@@ -520,7 +520,7 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -652,8 +652,8 @@
     "guests": [],
     "next": {
      "date": "1980-06-08",
-     "show": "live:grateful-dead:1980-06-08:folsom-field-university-of-colorado",
-     "venue": "Folsom Field, University of Colorado"
+     "show": "live:grateful-dead:1980-06-08:folsom-field-u-of-colorado",
+     "venue": "Folsom Field, U. of Colorado"
     },
     "previous": {
      "date": "1980-06-05",
@@ -1090,123 +1090,321 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 274,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 144,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:el-paso",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 287,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1980-05-08",
+        "show": "live:grateful-dead:1980-05-08:glens-falls-civic-center"
+       },
+       "plays_before": 180,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-05-16",
+        "show": "live:grateful-dead:1980-05-16:nassau-coliseum"
+       },
+       "plays_before": 142,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 79,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 12,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 157,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 201,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 18,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 233,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 234,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1980-05-06",
+        "show": "live:grateful-dead:1980-05-06:rec-hall-penn-state-u"
+       },
+       "plays_before": 114,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:althea",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 39,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 43,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 40,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 228,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 505,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 177,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 270,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-31",
+        "show": "live:grateful-dead:1980-05-31:metropolitan-sports-center"
+       },
+       "plays_before": 171,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-30",
+        "show": "live:grateful-dead:1980-05-30:milwaukee-auditorium"
+       },
+       "plays_before": 253,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
@@ -1214,28 +1412,59 @@
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 34,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:one-more-saturday-night",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 175,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:2nd-encore-break",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "2nd Encore Break"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:u-s-blues",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 132,
+       "total_plays": 329
+      },
       "title": "US Blues"
      }
     ],
@@ -1243,100 +1472,155 @@
      {
       "from": "gd1980-06-07.157131.aud.tompkins.flac2448",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-06-05",
+        "show": "live:grateful-dead:1980-06-05:compton-terrace-amphitheatre"
+       },
+       "plays_before": 125,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t02-jack-straw",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t02 Jack Straw"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t03-friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t03 Friend Of The Devil"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t04-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t04 El Paso"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t05-mama-tried",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t05 Mama Tried"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t06-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t06 Ramble On Rose"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t07-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t07 Passenger"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t08-far-from-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t08 Far From Me"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t09-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t09 New Minglewood Blues"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t10-loser",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t10 Loser"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t11-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t11 Feel Like A Stranger"
      },
      {
       "from": "gd1980-06-07.142842.set1.aud.sterry.beckwith.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd80-06-07-s1t12-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-06-07 s1t12 Deal"
      }
     ],
     "subject_key": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 838,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "2nd Encore Break"
+     ],
+     "show_number": 934,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Folsom Field, U. of Colorado"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 17,
+   "parent_revision": 29,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.425257+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.571107+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 18,
-   "signature": "5wRmHSTvqzSTVqBwCgr3laCtZ-iEJwiMMJZYvOx4vQ_eDPTPHYhH6clG_wlp-bT6U2E66V2-EAGnABGcIsyxAw",
+   "revision": 30,
+   "signature": "7Kih631c27pwCrrg-B-oQovQdT_74ZLB4ENFyWNJaDAJgmexvDNF_YxrecUC5tW6OiI9W_qc0fU9MlLMjqX7BA",
    "subject_key": "live:grateful-dead:1980-06-07:folsom-field-u-of-colorado",
-   "updated_at": "2026-10-25T16:41:53.426586"
+   "updated_at": "2026-10-25T17:35:16.572306"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Feel Like A Stranger** (2 reviews): Reviewer finds this version of Stranger particularly nice; Reviewer describes the Feel Like A Stranger as tight [20][25]\n- **Althea** (2 reviews): Reviewer singles out Althea as a favorite; Reviewer says Althea feels like swimming in the ocean off a tropical island [22][25]\n- **Ramble On Rose** (1 review): Reviewer recommends the audience recording mainly for its Ramble On Rose [15]\n- **New Minglewood Blues** (1 review): Reviewer praises precisely placed notes in New Minglewood Blues, plus a strong organ solo [22]\n- **Deal** (1 review): Deal seems headed for greatness but disappoints by skipping the second solo, according to the reviewer [20]\n\n## The recordings\n\n- **gd1980-06-07.144748.nak700.severson.miller.clugston.flac2496** (recommended): matrix (soundboard mixed with audience mics); 26 songs; 170 min; rated 5/5 by 1 [1]\n- **gd80-06-07.aud.sirmick.31348.sbeok.flacf**: audience recording; 25 songs; 154 min; rated 4.56/5 by 9 [4]. Said about its sound: Reviewer calls the Sirmick audience recording superb and top-notch, preferable to a soundboard; Reviewer calls the sound of this audience recording just okay [19][26]\n- **gd1980-06-07.175816.aud.Langdon.Meyette.LuciferBurns.flac2448**: audience recording; 25 songs; 156 min [5]\n- **gd1980-06-07.157131.aud.tompkins.flac2448**: audience recording; 25 songs; 153 min [6]\n- **gd1980-06-07.SonyECM250.walker-scotton-miller.88451.sbeok.flac16**: source not stated; 25 songs; 160 min; rated 4.09/5 by 11 [9]. Said about its sound: Reviewer says the recording quality is not the best, though the musicianship stands out [22]\n- **gd80-06-07.aud.munder.11533.sbeok.shnf**: audience recording; 24 songs; 146 min; rated 3.4/5 by 5 [12]. Said about its sound: Reviewer says this audience recording sounds like a rough bootleg, and that cleaner-sounding shows exist [16]\n\n## Around the show\n\n- Billed as the 15th anniversary show; on Boulder radio afterward, Weir said the milestone meant nothing to him [17]\n- Attendee recalls dancing on the field over two days of Dead shows; Zevon repeated the same routine both Saturday and Sunday [23]\n- The encore delivered three rock and roll songs in a row, which the reviewer enjoyed [25]\n- A fan drove from NY to Boulder for the weekend [30]\n- Reviewer finds the playing unusually tight and rates 1980 above 1977 for the band [26]\n\n## Tapers and lineage\n\n- **gd1980-06-07.144748.nak700.severson.miller.clugston.flac2496**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; Nakamichi 700 mics (pole mounted at the soundboard)> Sony TC-D5 (Maxell UDXLII) [1]. Also: A 0:16 patch in Drums comes from the Sony ECM-250 source shnid 88451 [1]\n- **gd80-06-07.aud.sirmick.31348.sbeok.flacf**: transferred by SIRMick; source: Audience: Unknown Mics [4]. Also: Disc 1 track 13 was patched from 1:47 to 2:00 using shnid 11533 to fix a stuttering effect; Disc 2 track 5 has a cut of just under a second at 4:14 [4]\n- **gd1980-06-07.175816.aud.Langdon.Meyette.LuciferBurns.flac2448**: taped by Unknown Local Taper/Unknown Equipment; transferred by Wes Meyette; source: Analog Master > 1st Gen (Maxell UD) Langdon Master Series Vol. 28 [5]. Also: Comes from John Langdon's master and first-generation collection; he worked at Merlin's Workshop, an Albuquerque used-record store [5]\n- **gd1980-06-07.157131.aud.tompkins.flac2448**: taped by Richie & Rip.; transferred by Transferred by Andrew F. 06/2022; source: Unknown mics & deck > Maxell XLII's (low-gen or possible master) [6]. Also: Lineage unknown, but it appears to be a master and matches no other current source; Several first-set tech snafus, including in Jack Straw, FOTD, El Paso and Far From Me, were patched from ID-142841; A Hicks/Fong alternate source covers a tape flip in Drums between 6:28 and 7:07 [6]\n- **gd1980-06-07.SonyECM250.walker-scotton-miller.88451.sbeok.flac16**: taped by Recorded By Joani Walker right behind the soundboard; transferred by Charlie Miller; source: Sony ECM-250 -> Cassette Master (Sony TC-158/Maxell UDXLII-C90) [9]\n- **gd80-06-07.aud.munder.11533.sbeok.shnf**: source: Audience Recording [12]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1980-06-07 Sat Folsom Field, University of Colorado Boulder, Boulder, CO](https://www.livegrateful.net/post/1271260654562/grateful-dead-1980-06-07-sat-folsom) [32]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1980-06-07 Sat Folsom Field, University of Colorado Boulder, Boulder, CO](https://www.livegrateful.net/post/1271260654562/grateful-dead-1980-06-07-sat-folsom) [33]\n- Poster by Grateful Dead: [Grateful Dead Folsom Field - June 7, 1980](https://www.dead.net/show/june-7-1980) [34]\n- Poster by Jerry Garcia: [1980-06-08 Folsom Field, U. of Colorado, Boulder, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1980-06-08-folsom-field-u-of-colorado-boulder-co-usa/) [35]",

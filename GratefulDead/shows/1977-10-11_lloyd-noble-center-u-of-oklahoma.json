@@ -354,7 +354,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -405,8 +405,8 @@
     },
     "previous": {
      "date": "1977-10-09",
-     "show": "live:grateful-dead:1977-10-09:mcnichols-arena",
-     "venue": "McNichols Arena"
+     "show": "live:grateful-dead:1977-10-09:mcnichols-sports-arena",
+     "venue": "McNichols Sports Arena"
     },
     "recommended": {
      "identifier": "gd77-10-11.sbd.cotsman.19290.sbeok.shnf",
@@ -658,92 +658,245 @@
     "setlist": [
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 124,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 32,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
-      "stats": {},
+      "stats": {
+       "days_since": 124,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-06-09",
+        "show": "live:grateful-dead:1977-06-09:winterland-arena"
+       },
+       "plays_before": 31,
+       "total_plays": 118
+      },
       "title": "Slipknot"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-09-29",
+        "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater"
+       },
+       "plays_before": 35,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-06",
+        "show": "live:grateful-dead:1977-10-06:activity-center-arizona-state-u"
+       },
+       "plays_before": 193,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-10-01",
+        "show": "live:grateful-dead:1977-10-01:paramount-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-02",
+        "show": "live:grateful-dead:1977-10-02:paramount-theater"
+       },
+       "plays_before": 227,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-02",
+        "show": "live:grateful-dead:1977-10-02:paramount-theater"
+       },
+       "plays_before": 13,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-02",
+        "show": "live:grateful-dead:1977-10-02:paramount-theater"
+       },
+       "plays_before": 162,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-10-02",
+        "show": "live:grateful-dead:1977-10-02:paramount-theater"
+       },
+       "plays_before": 70,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-10-01",
+        "show": "live:grateful-dead:1977-10-01:paramount-theater"
+       },
+       "plays_before": 86,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Streets"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-09",
+        "show": "live:grateful-dead:1977-10-09:mcnichols-sports-arena"
+       },
+       "plays_before": 88,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-09",
+        "show": "live:grateful-dead:1977-10-09:mcnichols-sports-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-06",
+        "show": "live:grateful-dead:1977-10-06:activity-center-arizona-state-u"
+       },
+       "plays_before": 103,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-09",
+        "show": "live:grateful-dead:1977-10-09:mcnichols-sports-arena"
+       },
+       "plays_before": 316,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-10-06",
+        "show": "live:grateful-dead:1977-10-06:activity-center-arizona-state-u"
+       },
+       "plays_before": 199,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-10-07",
+        "show": "live:grateful-dead:1977-10-07:university-of-new-mexico"
+       },
+       "plays_before": 110,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-10-09",
+        "show": "live:grateful-dead:1977-10-09:mcnichols-sports-arena"
+       },
+       "plays_before": 114,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      }
     ],
@@ -752,26 +905,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 631,
-     "shows_in_archive": 1855,
+     "show_number": 723,
+     "shows_in_archive": 2097,
      "songs": 17,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Lloyd Noble Center, U of Oklahoma"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 10,
+   "parent_revision": 22,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.947186+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.140391+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 11,
-   "signature": "Y9fyRdTzN7RejxC6ghQaHzsy3d7aekZCzlx4JmyBKPAzAplv7amo0vhAhy5alTTOJD0Cq_W9IGI81TvaCgrQAw",
+   "revision": 23,
+   "signature": "wZYhdfaHWrDygzUEghmZFrP6_Xh9_-h_9uEKaYSHnyHDR7bakvquxxUpxLADTgw1w89T5pUrpdTDo6LF25M8Bw",
    "subject_key": "live:grateful-dead:1977-10-11:lloyd-noble-center-u-of-oklahoma",
-   "updated_at": "2026-10-25T16:41:50.950784"
+   "updated_at": "2026-10-25T17:35:15.141083"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Let It Grow** (3 reviews): Reviewer ranks the Deal into Let It Grow transition among the best they have heard; Reviewer counts this Let It Grow among the best they have heard [12][16][17]\n- **Help On The Way** (2 reviews): Reviewer says a booming bass drum opens the show and signals a winner; Reviewer says the opening Help>Slipknot>Franklin's sequence begins a little sloppy but tightens up [9][20]\n- **Peggy-O** (2 reviews): Reviewer says Jerry's fingerwork in Peggy-O builds gradually to a crescendo; Reviewer says hearing Jerry sing Peggy-O on this tape, their first bootleg, changed their view of music [18][19]\n- **Dancin' In The Streets** (2 reviews): Reviewer lists this Dancin' In The Streets among their personal favorites; Reviewer names the funky seventeen-minute Dancin' In The Streets jam as the show's highlight [16][18]\n- **Estimated Prophet** (2 reviews): Reviewer calls this Estimated Prophet exceptionally funky and ripping, flowing into a standout Eyes; Reviewer praises the Estimated Prophet into Eyes Of The World sequence as outstanding [12][17]\n- **Not Fade Away** (2 reviews): Reviewer says the band plays Not Fade Away with extra intensity, as if energized; Reviewer calls the Not Fade Away very hot [12][17]\n- **Deal** (1 review): Reviewer singles out the powerful ending of Deal [14]\n\n## The recordings\n\n- **gd77-10-11.sbd.cotsman.19290.sbeok.shnf** (recommended): soundboard; 17 songs; 152 min; rated 4.4/5 by 47 [1]. Said about its sound: Reviewer finds the soundboard near-flawless, with only a few minor glitches in Not Fade Away; Reviewer describes the audio quality as very good, from one of the best taping years; Reviewer says recording quality is outstanding, but Help On The Way is abruptly cut off in this file [10][16][18][20]\n- **gd1977-10-11.152829.sbd.miller.flac16**: soundboard; 17 songs; 152 min; rated 4.5/5 by 2 [3]\n- **gd1977-10-11.152639.aud.lamarre.vernon.sirmick.flac24**: audience recording; 17 songs; 157 min [7]. Said about its sound: Tape damage in one section of Let It Grow was softened by mixing in soundboard [7]\n- **gd1977-10-11.sbd.miller.87514.sbeok.flac16**: soundboard; 17 songs; 152 min; rated 4.25/5 by 8 [2]\n\n## Around the show\n\n- Reviewer calls this the last Help/Slipknot/Franklin's trio until the 1980s and prefers these versions of all three [9]\n- Reviewer thinks Jerry is off and many 1977 shows are better, though the rest of the band is on [14]\n- Reviewer ranks this Eyes as their second favorite, behind the one from 9/11/74 [20]\n\n## Tapers and lineage\n\n- **gd77-10-11.sbd.cotsman.19290.sbeok.shnf**: source: Soundboard [1]. Also: Soundboard source with audience patches, circulated via J. Cotsman, transferred through MR, DAT, CD, EAC to SHN; An updated audience patch was supplied by S. Milewski [1]\n- **gd1977-10-11.152829.sbd.miller.flac16**: transferred by All Transfers and Mastering By Charlie Miller  October 1, 2007; source: SBD -> Master Reel -> Dat (44.1k) [3]. Also: This repatch of an earlier soundboard patches Not Fade Away using Doug Lamarre's source [3]\n- **gd1977-10-11.152639.aud.lamarre.vernon.sirmick.flac24**: taped by Unknown; tape supplied by Doug Lamarre; transferred by SIRMick & Matt Vernon; source: Unknown audience cassettes from the collection of by Doug Lamarre. [7]. Also: Audience-source compilation from two tapes, all files pitch corrected; transfer coordinated by Matt Vernon, sources from Doug Lamarre; A tape flip near the end of Not Fade Away was patched with Charlie Miller's soundboard [7]\n- **gd1977-10-11.sbd.miller.87514.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) D [2]\n\n## Art and photos\n\n- Fan art by Grateful Dead of the Day: [October 11, 1977](https://gratefuldeadoftheday.com/10-11-1977/) [22]\n- Poster by SoundCloud: [Slipknot! (Live at Lloyd Noble Center, Norman, October 11, 1977)](https://soundcloud.com/gratefuldead/slipknot-live-at-lloyd-noble) [23]",

@@ -204,7 +204,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -268,22 +268,43 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jerry-garcia-commentary-with-acid-test-audio",
-      "stats": {},
+      "stats": {
+       "days_since": 539,
+       "gap_shows": 40,
+       "last_played": {
+        "date": "1966-01-08",
+        "show": "live:grateful-dead:1966-01-08:various"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Jerry Garcia commentary with Acid Test audio"
      },
      {
       "key": "song:grateful-dead:jerry-garcia-interview-part-a",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry Garcia Interview - Part A"
      },
      {
       "key": "song:grateful-dead:jerry-garcia-interview-part-b",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry Garcia Interview - Part B"
      },
      {
       "key": "song:grateful-dead:jerry-garcia-interview-part-c",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry Garcia Interview - Part C"
      }
     ],
@@ -291,27 +312,31 @@
     "subject_key": "live:grateful-dead:1967-07-01:710-haight-street-house",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 37,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Jerry Garcia Interview - Part A",
+      "Jerry Garcia Interview - Part B",
+      "Jerry Garcia Interview - Part C"
+     ],
+     "show_number": 46,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "710 Haight Street House"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.563448+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.314751+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "mySEyaBTus4uHcJZY9z4QS1rTQjT2Ja-wlheiOm8ujCHSclVagsBX1d6WNerXuYz-VDkhez297FaSvcl54AGDw",
+   "revision": 40,
+   "signature": "wCf8fTT3udXm1OYwpPmhS8Omv_bdHqvR1uf8r-3i59sP47NrGghCQp9FLlls4yl7KFI8DZFGR5IcI2EcbenkCw",
    "subject_key": "live:grateful-dead:1967-07-01:710-haight-street-house",
-   "updated_at": "2026-10-25T16:41:38.564364"
+   "updated_at": "2026-10-25T17:35:09.315293"
   }
  },
  "recommended": {

@@ -277,7 +277,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -442,14 +442,14 @@
     "date": "1994-07-29",
     "guests": [],
     "next": {
-     "date": "1994-08-01",
-     "show": "live:grateful-dead:1994-08-01:the-palace",
+     "date": "1994-07-31",
+     "show": "live:grateful-dead:1994-07-31:the-palace",
      "venue": "The Palace"
     },
     "previous": {
-     "date": "1994-03-21",
-     "show": "live:grateful-dead:1994-03-21:richfield-coliseum",
-     "venue": "Richfield Coliseum"
+     "date": "1994-07-27",
+     "show": "live:grateful-dead:1994-07-27:riverport-amphitheatre",
+     "venue": "Riverport Amphitheatre"
     },
     "recommended": {
      "identifier": "gd94-07-29.fob-beyer.miller.25582.sbeok.shnf",
@@ -581,114 +581,304 @@
     "setlist": [
      {
       "key": "song:grateful-dead:rain",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1994-07-19",
+        "show": "live:grateful-dead:1994-07-19:deer-creek-music-center"
+       },
+       "plays_before": 17,
+       "total_plays": 24
+      },
       "title": "Rain"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-07-20",
+        "show": "live:grateful-dead:1994-07-20:deer-creek-music-center"
+       },
+       "plays_before": 205,
+       "total_plays": 216
+      },
       "title": "Feel Like a Stranger"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1994-07-17",
+        "show": "live:grateful-dead:1994-07-17:robert-f-kennedy-stadium"
+       },
+       "plays_before": 395,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1994-07-17",
+        "show": "live:grateful-dead:1994-07-17:robert-f-kennedy-stadium"
+       },
+       "plays_before": 84,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1994-07-13",
+        "show": "live:grateful-dead:1994-07-13:franklin-county-airport"
+       },
+       "plays_before": 356,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1994-07-24",
+        "show": "live:grateful-dead:1994-07-24:soldier-field"
+       },
+       "plays_before": 380,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1994-07-13",
+        "show": "live:grateful-dead:1994-07-13:franklin-county-airport"
+       },
+       "plays_before": 273,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:eternity",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1994-07-24",
+        "show": "live:grateful-dead:1994-07-24:soldier-field"
+       },
+       "plays_before": 28,
+       "total_plays": 47
+      },
       "title": "Eternity"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1994-07-26",
+        "show": "live:grateful-dead:1994-07-26:riverport-amphitheatre"
+       },
+       "plays_before": 426,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1994-07-19",
+        "show": "live:grateful-dead:1994-07-19:deer-creek-music-center"
+       },
+       "plays_before": 80,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:i-want-to-tell-you",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1994-07-19",
+        "show": "live:grateful-dead:1994-07-19:deer-creek-music-center"
+       },
+       "plays_before": 3,
+       "total_plays": 7
+      },
       "title": "I Want To Tell You"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-07-20",
+        "show": "live:grateful-dead:1994-07-20:deer-creek-music-center"
+       },
+       "plays_before": 418,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:samba-in-the-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1994-07-26",
+        "show": "live:grateful-dead:1994-07-26:riverport-amphitheatre"
+       },
+       "plays_before": 9,
+       "total_plays": 38
+      },
       "title": "Samba In The Rain"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-07-20",
+        "show": "live:grateful-dead:1994-07-20:deer-creek-music-center"
+       },
+       "plays_before": 325,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1994-07-19",
+        "show": "live:grateful-dead:1994-07-19:deer-creek-music-center"
+       },
+       "plays_before": 220,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1994-07-27",
+        "show": "live:grateful-dead:1994-07-27:riverport-amphitheatre"
+       },
+       "plays_before": 1546,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1994-07-27",
+        "show": "live:grateful-dead:1994-07-27:riverport-amphitheatre"
+       },
+       "plays_before": 1206,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1994-07-20",
+        "show": "live:grateful-dead:1994-07-20:deer-creek-music-center"
+       },
+       "plays_before": 261,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:standing-on-the-moon",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1994-07-17",
+        "show": "live:grateful-dead:1994-07-17:robert-f-kennedy-stadium"
+       },
+       "plays_before": 69,
+       "total_plays": 83
+      },
       "title": "Standing On the Moon"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1994-07-17",
+        "show": "live:grateful-dead:1994-07-17:robert-f-kennedy-stadium"
+       },
+       "plays_before": 322,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:mighty-quinn",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 574,
+       "gap_shows": 131,
+       "last_played": {
+        "date": "1993-01-01",
+        "show": "live:grateful-dead:1993-01-01:various"
+       },
+       "plays_before": 56,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn"
      }
     ],
@@ -696,34 +886,45 @@
      {
       "from": "gd1994-07-29.110975.bk.schmit.sbeok.flac16",
       "key": "song:grateful-dead:walk-on",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1994-07-24",
+        "show": "live:grateful-dead:1994-07-24:soldier-field"
+       },
+       "plays_before": 17,
+       "total_plays": 18
+      },
       "title": "walk on"
      }
     ],
     "subject_key": "live:grateful-dead:1994-07-29:buckeye-lake-music-center",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "The Mighty Quinn"
+     ],
      "first_in_archive": [],
-     "show_number": 1836,
-     "shows_in_archive": 1855,
+     "show_number": 2012,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Buckeye Lake Music Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.574194+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.380528+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "DwHGjOZahluFk4replQ7YnuGI7IPVn3vnJUrml37O9rHeD0g8ZfJMLg0QuX2AgxbCkJC26CX5mNaCICMPyZrDQ",
+   "revision": 17,
+   "signature": "Z1WPP91rcA4t2IbYAG2x9JLX8BYR-ikjeFOMdX2mEG4s8u8y3I4PZdh5AXDOe4oFksC5GwoyNqawfpTxjrseDQ",
    "subject_key": "live:grateful-dead:1994-07-29:buckeye-lake-music-center",
-   "updated_at": "2026-10-25T16:42:19.575228"
+   "updated_at": "2026-10-25T17:35:28.381413"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Foolish Heart** (2 reviews): Reviewer found Foolish Heart great; Garcia sounds exhausted during the Foolish Heart refrain, as if he needed a week of sleep [14][16]\n- **Feel Like a Stranger** (1 review): Reviewer says the jam peaks without Garcia audible [7]\n- **Althea** (1 review): Reviewer got into the venue around the middle of Althea after traffic turned out to be the parking lot filling [9]\n- **Deal** (1 review): Reviewer says Garcia is missing even from Deal, normally a reliable jam tune [7]\n- **Uncle John's Band** (1 review): Reviewer calls the Uncle John's Band in the second set sick [6]\n- **The Mighty Quinn** (1 review): Reviewer thinks the encore Quinn was perfect, possibly the best version the band has played [6]\n\n## The recordings\n\n- **gd94-07-29.fob-beyer.miller.25582.sbeok.shnf** (recommended): audience recording; 21 songs; 192 min; rated 3.86/5 by 21 [1]. Said about its sound: Reviewer finds the recording's sound quality very rich [12]\n- **gd94-07-29.schoeps.dipietro.4078.sbeok.shnf**: audience recording; 22 songs; 181 min; rated 3.47/5 by 30 [3]. Said about its sound: Superb audience capture that conveys the sound of standing in the rain at the show; Front-of-board audience tape has lacking quality, possibly because an umbrella covered the microphones [7][10]\n- **gd1994-07-29.schoeps.evans-gross.GEMS.91193.flac16**: source not stated; 21 songs; 199 min; rated 3.75/5 by 8 [2]\n- **gd1994-07-29.110975.bk.schmit.sbeok.flac16**: source not stated; 22 songs; 184 min; rated 5/5 by 1 [4]\n\n## Around the show\n\n- Phil walked out and waved broadly to the crowd standing in the rain, explaining the Rain opener [6]\n- In-ear monitors worked poorly, so stage banter and song calls leaked over the PA [10]\n- Reviewer says Garcia was barely a presence and Bobby's guitar dominated what is heard [11]\n- Reviewer saw someone overdose in front of them early on, with a security guard shouting for a doctor [13]\n- Reviewer's friend collapsed early in the first set; they dragged him through mud to the medical tent [14]\n- The grounds were wet and muddy when this reviewer arrived late to their first show [15]\n- Foolish Heart into I Want To Tell You was much improved over the 7-21-94 Deer Creek attempt [16]\n- Reviewer ranks it among the better shows of the 1994 east/midwest run, though not amazing [16]\n\n## Tapers and lineage\n\n- **gd94-07-29.fob-beyer.miller.25582.sbeok.shnf**: transferred by Joe Totoraitis and Charlie Miller; source: Audience: Beyer M101 [1]. Also: Front-of-board recording with Beyer M101 omni mics, to Casio DA-7 DAT, then CD, EAC, SHN, by Charlie Miller [1]\n- **gd94-07-29.schoeps.dipietro.4078.sbeok.shnf**: transferred by C. DiPietro; source: Audience: Schoeps MK4's [3]\n- **gd1994-07-29.schoeps.evans-gross.GEMS.91193.flac16**: taped by Todd Evans & Adam Gross; transferred by Todd Evans and Jamie Waddell; source: Schoeps Omnis (on stands spaced 10ft apart) -> Schoeps Active Cables -> Schoeps CMC 3 Mic Body -> Monster M1000 Cable -> Oade Supply -> Monster M1000 Jumper ->… [2]\n- **gd1994-07-29.110975.bk.schmit.sbeok.flac16**: taped by Alan Schmit; transferred by Terry Watts; source: Source: (ORTF/110^/DFC/FOB) B&K 4011s > Neumann BS48i-2 > Modified Sony TCD-D10 Pro > DAT(m); [4]\n\n## Art and photos\n\n- Poster by Robbi Cohn: [1994-07-29 Buckeye Lake Music Center, Hebron, OH, USA - Jerry Garcia](https://jerrygarcia.com/show/1994-07-29-buckeye-lake-music-center-hebron-oh-usa/) [18]\n- Fan art by Grateful Dead: [Grateful Dead Buckeye Lake Music Center - July 29, 1994](https://www.dead.net/show/july-29-1994) [19]\n- Poster by Grateful Dead: [Grateful Dead Buckeye Lake Music Center - July 29, 1994](https://www.dead.net/show/july-29-1994) [20]\n- Poster by Robbi Cohn: [1994-07-29 Buckeye Lake Music Center, Hebron, OH, USA - Jerry Garcia](https://jerrygarcia.com/show/1994-07-29-buckeye-lake-music-center-hebron-oh-usa/) [21]\n- Fan art by Grateful Dead: [Grateful Dead Buckeye Lake Music Center - July 29, 1994](https://www.dead.net/show/july-29-1994) [22]\n- Fan art by Grateful Dead: [Grateful Dead the boys singing (rain) the opener @ buckeye lake music center july 29, 1994](https://www.dead.net/fanphotos/boys-singing-rain-opener-buckeye-lake-music-center-july-29-1994) [23]\n- Photo by Jerry Brown (All rights reserved): [Grateful Dead 1994-07-29 Buckeye Lake Music Center Hebron OH](https://www.flickr.com/photos/52854122@N04/5948129825/) [24]\n- Photo by Jerry Brown (All rights reserved): [Grateful Dead 1994-07-29 Buckeye Lake Music Center Hebron OH](https://www.flickr.com/photos/90954823@N07/9209980627/) [25]",

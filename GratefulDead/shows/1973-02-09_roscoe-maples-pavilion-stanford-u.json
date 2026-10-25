@@ -347,7 +347,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -666,157 +666,386 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 64,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-12-15",
+        "show": "live:grateful-dead:1972-12-15:long-beach-arena"
+       },
+       "plays_before": 75,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 82,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-12-15",
+        "show": "live:grateful-dead:1972-12-15:long-beach-arena"
+       },
+       "plays_before": 235,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 91,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 208,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1972-07-16",
+        "show": "live:grateful-dead:1972-07-16:dillon-stadium"
+       },
+       "plays_before": 11,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:beer-barrel-polka",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 19
+      },
       "title": "Beer Barrel Polka"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 85,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 57,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 110,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunshine"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 150,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:wavy-gravy-chatter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wavy Gravy chatter"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-12-15",
+        "show": "live:grateful-dead:1972-12-15:long-beach-arena"
+       },
+       "plays_before": 196,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-12-15",
+        "show": "live:grateful-dead:1972-12-15:long-beach-arena"
+       },
+       "plays_before": 198,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 94,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dead-battery",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dead battery"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 155,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:china-doll",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 31,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-12-10",
+        "show": "live:grateful-dead:1972-12-10:winterland-arena"
+       },
+       "plays_before": 66,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 19,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:wave-that-flag",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Wave That Flag"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 164,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 114,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 24,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-12-31",
+        "show": "live:grateful-dead:1972-12-31:winterland-arena"
+       },
+       "plays_before": 236,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -824,46 +1053,69 @@
      {
       "from": "gd1973-02-09.134398.sbd.menke-lee-smith.flac16",
       "key": "song:grateful-dead:buzzing-and-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "buzzing & tuning"
      },
      {
       "from": "gd1973-02-09.134398.sbd.menke-lee-smith.flac16",
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "from": "gd1973-02-09.150166.sbd.miller.flac1644",
       "key": "song:grateful-dead:introduction-by-wavy-gravy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Introduction By Wavy Gravy"
      }
     ],
     "subject_key": "live:grateful-dead:1973-02-09:roscoe-maples-pavilion-stanford-u",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 408,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Row Jimmy",
+      "Loose Lucy",
+      "Beer Barrel Polka",
+      "Here Comes Sunshine",
+      "Wavy Gravy chatter",
+      "Dead battery",
+      "They Love Each Other",
+      "Eyes Of The World",
+      "China Doll",
+      "Wave That Flag"
+     ],
+     "show_number": 487,
+     "shows_in_archive": 2097,
      "songs": 31,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Roscoe Maples Pavilion, Stanford U."
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:45.778901+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.231144+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "fjVOzTx4uwwe8U7U0ZzfB8vb80HzAme-DIvQZ1n4W95HwWLL1hkGBBy9wTkkUG0QAYgIG8jDrYROZ4RXOt22DQ",
+   "revision": 41,
+   "signature": "66FRfL2m7b6-SkbnkAur8g6NTQ7zE2mI5-5NuOIOHxvjJ6oW136TyDLbu7-x2sVGKwCbphLi2Ho7OFYER77vCA",
    "subject_key": "live:grateful-dead:1973-02-09:roscoe-maples-pavilion-stanford-u",
-   "updated_at": "2026-10-25T16:41:45.780875"
+   "updated_at": "2026-10-25T17:35:13.232668"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **They Love Each Other** (2 reviews): Reviewer identifies this as their favorite song of the set, alongside early Row Jimmy and Sunshine; Stands out with a funky groove that gets listeners dancing and smiling [16][17]\n- **Row Jimmy** (1 review): Reviewer notes this is the first ever performance of the song [12]\n- **China Cat Sunflower** (1 review): Reviewer highlights the strong performance of this transition and the subsequent Eyes of the World [9]\n- **Big River** (1 review): Reviewer praises the energetic delivery of this track, noting Jerry and Bobby were right on [10]\n- **Box Of Rain** (1 review): Reviewer expresses personal fondness for the Black Throated Wind, Deal, and Me and My Uncle versions [13]\n- **Sugar Magnolia** (1 review): Described as a particularly tasty early version within a second set that is on fire [11]\n\n## The recordings\n\n- **gd73-02-09.sbd.bertha-fink.14939.sbeok.shnf** (recommended): soundboard; 31 songs; 198 min; rated 4.76/5 by 63 [1]\n- **gd1973-02-09.sbd.ashley.12571.shnf**: soundboard; 31 songs; 196 min; rated 4.64/5 by 33 [5]\n- **gd73-02-09.sbd.allred.9888.sbeok.shnf**: soundboard; 32 songs; 194 min; rated 4.51/5 by 66 [6]. Said about its sound: Fantastic sounding recording with Jerry's guitar very high in the mix, sliding down the backbone; Hi-fi lossless download is lively with a lot of funk present, suitable for new fans; Excellent mix with a driving bass drum boom and great overall sound quality [16][18][20]\n- **gd1973-02-09.150166.sbd.miller.flac1644**: soundboard; 30 songs; 207 min; rated 2.67/5 by 3 [8]\n\n## Around the show\n\n- Major technical problems occurred during this first show, yet the band delivered a sparkling performance [15]\n- Technical failures included loss of all tweeters on the first note of Promised Land [5]\n- Technical failures included loss of all tweeters on the first note of Promised Land [7]\n- Many songs were played for the first time, though the set felt slightly unfocused [9]\n- Lacks long winding jams like Dark Star or The Other One, but features sweet versions of Eyes [13]\n- Described as a greatest hits show from 1971 to 1973, lacking long amazing jams [15]\n\n## Tapers and lineage\n\n- **gd73-02-09.sbd.bertha-fink.14939.sbeok.shnf**: source: Soundboard [1]. Also: Original source is rough, but this specific remix is considered excellent by the reviewer; Jay Ashley remastered a previous MR source using a Dual-DAW nicknamed Bertha [1][12]\n- **gd1973-02-09.sbd.ashley.12571.shnf**: transferred by Bertha Remaster by; source: SBD>>MR>>REEL>>DAT>>SS>>CDR>>DAW(Bertha)>>CDA [5]. Also: Digitally remastered in 2002 from a 2 Track Reel via 7.5 IPS reel to DAT [5]\n- **gd73-02-09.sbd.allred.9888.sbeok.shnf**: source: Soundboard [6]\n- **gd1973-02-09.150166.sbd.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  June 19, 2020; source: SBD > Reel Master (7.5ips 1/2trk) > Reel/1 (7.5ips/Dolby B) > DAT/0 (44.1k) [8]. Also: Source is about 10 minutes longer than other versions, with pitch correction by Joe B. Jones [8]\n\n## Art and photos\n\n- Poster by Mason's Children: [February Grateful Dead Show Listening Guides](https://www.gratefuldeadbook.com/post/february-grateful-dead-show-listening-guides) [22]\n- Fan art by @admin: [Grateful Dead X Stanford University X Class Trip Live At Stanford Maples Pavilion On February 9 1973 T-Shirts, hoodie, l](https://theteestudios.com/product/grateful-dead-x-stanford-university-x-class-trip-live-at-stanford-maples-pavilion-on-february-9-1973-t-shirts/) [23]\n- Fan art by @admin: [Grateful Dead X Stanford University X Class Trip Live At Stanford Maples Pavilion On February 9 1973 shirt, hoodie, swea](https://teeslocal.com/product/grateful-dead-x-stanford-university-x-class-trip-live-at-stanford-maples-pavilion-on-february-9-1973-shirt/) [24]",

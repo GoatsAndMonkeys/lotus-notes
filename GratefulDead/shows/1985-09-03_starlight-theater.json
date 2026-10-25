@@ -597,7 +597,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -670,13 +670,13 @@
     "guests": [],
     "next": {
      "date": "1985-09-05",
-     "show": "live:grateful-dead:1985-09-05:red-rocks-ampitheater",
-     "venue": "Red Rocks Ampitheater"
+     "show": "live:grateful-dead:1985-09-05:red-rocks-amphitheatre",
+     "venue": "Red Rocks Amphitheatre"
     },
     "previous": {
      "date": "1985-09-02",
-     "show": "live:grateful-dead:1985-09-02:zoo-ampitheatre",
-     "venue": "Zoo Ampitheatre"
+     "show": "live:grateful-dead:1985-09-02:zoo-amphitheater",
+     "venue": "Zoo Amphitheater"
     },
     "recommended": {
      "identifier": "gd1985-09-03.sbd.miller.34772.flac16",
@@ -1258,119 +1258,309 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-08-24",
+        "show": "live:grateful-dead:1985-08-24:boreal-ridge-ski-resort"
+       },
+       "plays_before": 100,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-07-14",
+        "show": "live:grateful-dead:1985-07-14:ventura-county-fairgrounds"
+       },
+       "plays_before": 203,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 68,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1985-06-27",
+        "show": "live:grateful-dead:1985-06-27:saratoga-performing-arts-center"
+       },
+       "plays_before": 135,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1985-06-25",
+        "show": "live:grateful-dead:1985-06-25:blossom-music-center"
+       },
+       "plays_before": 195,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-07-14",
+        "show": "live:grateful-dead:1985-07-14:ventura-county-fairgrounds"
+       },
+       "plays_before": 212,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-07-14",
+        "show": "live:grateful-dead:1985-07-14:ventura-county-fairgrounds"
+       },
+       "plays_before": 150,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 148,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-08-24",
+        "show": "live:grateful-dead:1985-08-24:boreal-ridge-ski-resort"
+       },
+       "plays_before": 190,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 130,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-08-30",
+        "show": "live:grateful-dead:1985-08-30:southern-star-amphitheater"
+       },
+       "plays_before": 417,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 130,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-07-14",
+        "show": "live:grateful-dead:1985-07-14:ventura-county-fairgrounds"
+       },
+       "plays_before": 244,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:dont-need-love",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 311,
+       "gap_shows": 54,
+       "last_played": {
+        "date": "1984-10-27",
+        "show": "live:grateful-dead:1984-10-27:berkeley-community-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 16
+      },
       "title": "Don't Need Love"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 891,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-09-02",
+        "show": "live:grateful-dead:1985-09-02:zoo-amphitheater"
+       },
+       "plays_before": 554,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:nobodys-fault-but-mine",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 861,
+       "gap_shows": 160,
+       "last_played": {
+        "date": "1983-04-26",
+        "show": "live:grateful-dead:1983-04-26:the-spectrum"
+       },
+       "plays_before": 20,
+       "total_plays": 25
+      },
       "title": "Nobody's Fault But Mine"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-08-24",
+        "show": "live:grateful-dead:1985-08-24:boreal-ridge-ski-resort"
+       },
+       "plays_before": 388,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-07-14",
+        "show": "live:grateful-dead:1985-07-14:ventura-county-fairgrounds"
+       },
+       "plays_before": 29,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightnin'"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 49,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-08-24",
+        "show": "live:grateful-dead:1985-08-24:boreal-ridge-ski-resort"
+       },
+       "plays_before": 177,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 82,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1378,76 +1568,145 @@
      {
       "from": "gd85-09-03.oade-schoeps.sacks.27250.sbeok.flacf",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 47,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd85-09-03.oade-schoeps.sacks.27250.sbeok.flacf",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-07-01",
+        "show": "live:grateful-dead:1985-07-01:merriweather-post-pavilion"
+       },
+       "plays_before": 18,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      },
      {
       "from": "gd1985-09-03.Senn421.Darby.119571.Flac1644",
       "key": "song:grateful-dead:dont-ease-me-in-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 246,
+       "gap_shows": 46,
+       "last_played": {
+        "date": "1984-12-31",
+        "show": "live:grateful-dead:1984-12-31:san-francisco-civic-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 32
+      },
       "title": "Don't Ease Me In, Set Break"
      },
      {
       "from": "gd1985-09-03.Senn421.Darby.119571.Flac1644",
       "key": "song:grateful-dead:lovelight-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 22
+      },
       "title": "Lovelight, Encore Break"
      },
      {
       "from": "gd1985-09-03.153133.akgc422-davis-pinney.holbrook.flac2496",
       "key": "song:grateful-dead:encore-its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 323,
+       "gap_shows": 58,
+       "last_played": {
+        "date": "1984-10-15",
+        "show": "live:grateful-dead:1984-10-15:hartford-civic-center"
+       },
+       "plays_before": 4,
+       "total_plays": 13
+      },
       "title": "Encore It's All Over Now, Baby Blue"
      },
      {
       "from": "gd1985-09-03.123078.sbd.miller.flac16",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 52,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 67,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "from": "gd1985-09-03.150522.Kansas.City.MO.BeyerM160.Peoria.August2020.flac1648",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 21,
+       "total_plays": 55
+      },
       "title": "Drums // Space"
      },
      {
       "from": "gd1985-09-03.schoeps.oade.gems.34668.sbeok.flac1648",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-07-02",
+        "show": "live:grateful-dead:1985-07-02:civic-arena"
+       },
+       "plays_before": 39,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
     "subject_key": "live:grateful-dead:1985-09-03:starlight-theater",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Nobody's Fault But Mine"
+     ],
      "first_in_archive": [],
-     "show_number": 1234,
-     "shows_in_archive": 1855,
+     "show_number": 1337,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Starlight Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.607548+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.787144+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "oNMfkCknr6N8wSKmDuARpgkvPkGQYk4LMnB3_UlR13B38VJTS5qSQT2SvCgQlKJfdN-ylcv97Znjz-LfJmmsAQ",
+   "revision": 42,
+   "signature": "hpw3qTZs8iFEHWfZbB1HVBxSBWeo8LayLa0z9aqEKw_m4732CosqIzvU-RqNjkILxhy6Roo_p7_IwG2pue_eAQ",
    "subject_key": "live:grateful-dead:1985-09-03:starlight-theater",
-   "updated_at": "2026-10-25T16:42:00.609443"
+   "updated_at": "2026-10-25T17:35:20.788539"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Nobody's Fault But Mine** (2 reviews): Very cool post-drums run of this song was highlighted in the second set; Guitar interplay comes through very well on this specific recording [17][21]\n- **Cryptical Envelopment** (1 review): Vocals were shaky, but the music was considered good by the reviewer [16]\n- **Eyes Of The World** (1 review): Excellent performance at a tempo described as neither too fast nor too slow [17]\n- **Don't Need Love** (1 review): Described as a bloody awful song, likely played for a bathroom break [23]\n\n## The recordings\n\n- **gd1985-09-03.sbd.miller.34772.flac16** (recommended): soundboard; 21 songs; 131 min; rated 4.33/5 by 6 [1]\n- **gd1985-09-03.mtx.seamons.94595.sbeok.flac16**: matrix (soundboard mixed with audience mics); 21 songs; 131 min; rated 3/5 by 5 [2]\n- **gd1985-09-03.Senn421.Darby.119571.Flac1644**: matrix (soundboard mixed with audience mics); 21 songs; 127 min [3]\n- **gd1985-09-03.169186.nak700.wagner.miller.clugston.flac2496**: audience recording; 21 songs; 134 min [5]\n- **gd1985-09-03.148576.fob.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 21 songs; 128 min [7]\n- **gd1985-09-03.beyerM160.connor.77197.sbeok.flac16**: source not stated; 21 songs; 126 min; rated 4.5/5 by 2 [9]. Said about its sound: High energy performance with strong guitar work, though Jerry struggled with lyrics [16]\n- **gd1985-09-03.123078.sbd.miller.flac16**: soundboard; 19 songs; 132 min; rated 2/5 by 2 [12]. Said about its sound: Lacks bass compared to other 1985 shows, but pitch issues are mostly corrected [20]\n\n## Around the show\n\n- Listener left high school early to attend with sister and her boyfriend [18]\n- Described as a great nighttime outdoor camping scene that changed the listener's life [18]\n- Crowd huddled to smoke during Drums and Space, aided by a friend's supply [26]\n- Greeks '85 performance of Cryptical was significantly better than the Starlight show [19]\n\n## Tapers and lineage\n\n- **gd1985-09-03.sbd.miller.34772.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette -> Dat -> CD [1]\n- **gd1985-09-03.mtx.seamons.94595.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix mix (SBD/AUD) [2]. Also: Matrix created by Hunter Seamons using Final Cut Pro from Oade sources; SBD transfer by Jim Keith and Todd Campbell; AUD by Oade Brothers [2]\n- **gd1985-09-03.Senn421.Darby.119571.Flac1644**: taped by Mike Darby; transferred by Keo; source: Master Audience Recorded By Mr. Darby; Sennheiser MD421's (PAS/LOC Behind Soundboard/6 Feet High)> Sony TC-D5M,Tapes sony Metallic; Transfer Information:Tascam… [3]. Also: Recording credited to Mr. Darby from his collection of master audiences [3]\n- **gd1985-09-03.169186.nak700.wagner.miller.clugston.flac2496**: taped by Bob Wagner; transferred by Scott Clugston, Charlie Miller; source: Bob Wagner's Master Audience Cassettes; Nakamichi 700 mics > Sony TC-D5M (Maxell XLII-S90) [5]. Also: Oade's Schoeps CMC4 MK41 source supplies a patch in Drums [5]\n- **gd1985-09-03.148576.fob.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston and Charlie Miller; source: Michael Hessberg's Master (FOB) Audience Cassettes; Sennheiser ME-80 mics > Sony D5M [7]. Also: Schoeps CMC4 MK41 source patches crowd, Feel Like A Stranger, and Space [7]\n- **gd1985-09-03.beyerM160.connor.77197.sbeok.flac16**: taped by Charlie Connor; transferred by Charlie Connor; source: FOB (Section 2A Row D Seat 8)>(Jim Vita's)Beyer Dynamic M160's>Sony TCD5M(Charlie Connor's CM - TDK MA90's) [9]\n- **gd1985-09-03.123078.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette -> Dat -> CD [12]",

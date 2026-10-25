@@ -359,7 +359,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -798,46 +798,88 @@
      {
       "key": "song:grateful-dead:bo-diddley",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bo Diddley"
      },
      {
       "key": "song:grateful-dead:im-a-man",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "I'm A Man"
      },
      {
       "key": "song:grateful-dead:ive-seen-them-all",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "I've Seen Them All"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-22",
+        "show": "live:grateful-dead:1972-03-22:academy-of-music"
+       },
+       "plays_before": 82,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:take-it-all-off",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Take It All Off"
      },
      {
       "key": "song:grateful-dead:mona",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Mona"
      },
      {
       "key": "song:grateful-dead:you-know-i-love-you-so",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "You Know I Love You So (Wo Wow Hey Hey)"
      },
      {
       "key": "song:grateful-dead:slow-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Slow Blues (unknown title)"
      },
      {
@@ -845,102 +887,252 @@
        "false start"
       ],
       "key": "song:grateful-dead:pollution",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Pollution"
      },
      {
       "key": "song:grateful-dead:say-boss-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Say Boss Man"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-22",
+        "show": "live:grateful-dead:1972-03-22:academy-of-music"
+       },
+       "plays_before": 82,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:bo-diddley-itis",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bo Diddley-Itis (?)"
      },
      {
       "key": "song:grateful-dead:how-sweet-it-is",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "How Sweet It Is (To Be Loved By You)"
      },
      {
       "key": "song:grateful-dead:are-you-lonely-for-me-baby",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Are You Lonely For Me Baby?"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 68,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 23,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 109,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1971-12-07",
+        "show": "live:grateful-dead:1971-12-07:felt-forum-madison-square-garden"
+       },
+       "plays_before": 15,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightnin'"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1971-12-10",
+        "show": "live:grateful-dead:1971-12-10:fox-theatre"
+       },
+       "plays_before": 39,
+       "total_plays": 42
+      },
       "title": "Sittin' On Top Of The World"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-22",
+        "show": "live:grateful-dead:1972-03-22:academy-of-music"
+       },
+       "plays_before": 34,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 3,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-03-21",
+        "show": "live:grateful-dead:1972-03-21:academy-of-music"
+       },
+       "plays_before": 60,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 22,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 5,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-03-22",
+        "show": "live:grateful-dead:1972-03-22:academy-of-music"
+       },
+       "plays_before": 41,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 74,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:broken-string-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "broken string/tuning"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 154,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-03-23",
+        "show": "live:grateful-dead:1972-03-23:academy-of-music"
+       },
+       "plays_before": 174,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -948,58 +1140,91 @@
      {
       "from": "gd1972-03-25.133592.sbd.miller.flac1644",
       "key": "song:grateful-dead:hey-bo-diddley",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Hey Bo Diddley"
      },
      {
       "from": "gd1972-03-25.133592.sbd.miller.flac1644",
       "key": "song:grateful-dead:wow-wow-hey-hey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wow Wow Hey Hey"
      },
      {
       "from": "gd1972-03-25.133592.sbd.miller.flac1644",
       "key": "song:grateful-dead:unknown-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Unknown Blues"
      },
      {
       "from": "gd1972-03-25.133592.sbd.miller.flac1644",
       "key": "song:grateful-dead:eighteen-children",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Eighteen Children"
      },
      {
       "from": "gd1972-03-25.aud.hanno.horner.22094.sbeok.shnf",
       "key": "song:grateful-dead:dead-air-and-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "dead air & tuning"
      }
     ],
     "subject_key": "live:grateful-dead:1972-03-25:academy-of-music",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 335,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bo Diddley",
+      "I've Seen Them All",
+      "Take It All Off",
+      "Mona",
+      "You Know I Love You So (Wo Wow Hey Hey)",
+      "Slow Blues (unknown title)",
+      "Pollution",
+      "Say Boss Man",
+      "Bo Diddley-Itis (?)",
+      "How Sweet It Is (To Be Loved By You)",
+      "Are You Lonely For Me Baby?",
+      "broken string/tuning"
+     ],
+     "show_number": 405,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Academy of Music"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.946642+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.287114+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "Tj7Hh2iguNuR0saH47Y_3tMq8j9Nj_KJumU-VMcPkiMgheq1zHAIwkS2opGvR8rj7CR9Wr7-qzmFYH1TK_Y6DQ",
+   "revision": 43,
+   "signature": "Ge0R5_n1ClWIrB6n1e8PW_oNiqJQiGCdPZ5gkFGm63sBabr8DTlZXA9OlNQpJLsmxPAJ9ALYEwlPXtlH9FGqDw",
    "subject_key": "live:grateful-dead:1972-03-25:academy-of-music",
-   "updated_at": "2026-10-25T16:41:43.948827"
+   "updated_at": "2026-10-25T17:35:12.288830"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jam** (1 review): Track 6 is a beautiful ten-minute jam that should have been on Dick's Picks 30 [11]\n- **Wow Wow Hey Hey** (1 review): The performance of Wow Wow Hey Hey is described as sublime [11]\n\n## Setlist highlights\n\n- **Pollution**: with false start [1]\n\n## The recordings\n\n- **gd1972-03-25.136684.sbd.sirmick.flac1648** (recommended): soundboard; 28 songs; 217 min; rated 5/5 by 2 [1]\n- **gd1972-03-25.aud.hanno.horner.22094.sbeok.shnf**: audience recording; 24 songs; 139 min; rated 3/5 by 5 [4]. Said about its sound: Listener finds the audio quality inferior to the Dick's Picks 30 release; The recording's sound quality makes the audio difficult to enjoy for listeners; Listener asks if a soundboard recording exists because the audience tape quality is limited [8][11][12]\n- **gd1972-03-25.137696.s1partial.lee.hance.sirmick.sbeok.flac24**: audience recording; 6 songs; 30 min [6]. Said about its sound: A distinct sound change occurred from 2:43 of Pollution to the end of the set [6]\n- **gd1972-03-25.133592.sbd.miller.flac1644**: soundboard; 27 songs; 217 min; rated 4.2/5 by 5 [2]\n\n## Around the show\n\n- Guests: false start [1]\n- Jerry Garcia played pedal steel guitar during the performance of Looks Like Rain [9]\n- The jam section sounded like the band almost transitioned into Truckin' [9]\n- Pigpen delivered some great blues, and Jerry played pedal steel on Looks Like Rain [14]\n- Pigpen fronted the uptempo performance of the cover Next Time You See Me [15]\n- The entire first set appeared to be made up on the spot [18]\n- Bo Diddley was the other artist on the bill for the Hell's Angels party [1]\n\n## Tapers and lineage\n\n- **gd1972-03-25.136684.sbd.sirmick.flac1648**: taped by Anonomous; transferred by SIRMick; source: Source: sbd > master reel > dat (48k) [1]. Also: This is the first time a soundboard of the whole show has been provided [1]\n- **gd1972-03-25.aud.hanno.horner.22094.sbeok.shnf**: transferred by Hanno Bunjes [4]\n- **gd1972-03-25.137696.s1partial.lee.hance.sirmick.sbeok.flac24**: taped by Ken and Judy Lee; transferred by SIRMick and John Jay Hance; source: Source: Audience recording > Sony S95 > Sony TC-124S > cassette Maxell UDXLII (1st gen); Recorded by Ken and Judy Lee; [6]\n- **gd1972-03-25.133592.sbd.miller.flac1644**: transferred by Charlie Miller; source: SBD -> Master Reel -> Apogee AD500 -> Dat (48k) [2]",

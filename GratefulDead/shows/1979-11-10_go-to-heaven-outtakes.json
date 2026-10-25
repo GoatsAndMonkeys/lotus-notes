@@ -85,7 +85,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -106,8 +106,8 @@
     },
     "previous": {
      "date": "1979-11-10",
-     "show": "live:grateful-dead:1979-11-10:chrisler-arena",
-     "venue": "Chrisler Arena"
+     "show": "live:grateful-dead:1979-11-10:crisler-arena",
+     "venue": "Crisler Arena"
     },
     "recommended": {
      "identifier": "gd1979-11-10.137649.sbd.miller.flac24",
@@ -179,42 +179,104 @@
     "setlist": [
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 13,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-10",
+        "show": "live:grateful-dead:1979-11-10:crisler-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 75,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 13,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 18,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-08",
+        "show": "live:grateful-dead:1979-11-08:capital-centre"
+       },
+       "plays_before": 13,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      }
     ],
@@ -222,27 +284,30 @@
     "subject_key": "live:grateful-dead:1979-11-10:go-to-heaven-outtakes",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 793,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Far From Me",
+      "Feel Like A Stranger"
+     ],
+     "show_number": 889,
+     "shows_in_archive": 2097,
      "songs": 8,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Go To Heaven Outtakes"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.038229+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.219536+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "pN_ncr9DK28AUT4ZTivbypO9vpUTrc_di6Wzcdah4ULcJ_mtdSAI0SGtZ8Uhs_VcWGcJIK6duKrTQ5fNvBd4BQ",
+   "revision": 40,
+   "signature": "BU9eJjnWMSwdwFKrWO1DaXtLjBV6kEnw8VK-0L8Sk5k4SQLb6r4aeslktsHgNQ_b4_5gkCXsofBUiq-4lSRHCA",
    "subject_key": "live:grateful-dead:1979-11-10:go-to-heaven-outtakes",
-   "updated_at": "2026-10-25T16:41:53.039186"
+   "updated_at": "2026-10-25T17:35:16.219999"
   }
  },
  "recommended": {

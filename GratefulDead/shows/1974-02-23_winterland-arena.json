@@ -331,7 +331,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -632,177 +632,455 @@
     "setlist": [
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 55,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 78,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 111,
+       "total_plays": 125
+      },
       "title": "Me & Bobby McGee"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 127,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:save-the-roses-save-yourselves",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Save the roses, save yourselves"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 141,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:here-comes-sunshine",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 31,
+       "total_plays": 65
+      },
       "title": "Here Comes Sunhine"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 188,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 146,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 111,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:promised-land",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 111,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 124,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 94,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 62,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 26,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:part-1",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1973-12-02",
+        "show": "live:grateful-dead:1973-12-02:boston-music-hall"
+       },
+       "plays_before": 3,
+       "total_plays": 10
+      },
       "title": "Part 1"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 30,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 54,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 89,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 87,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 283,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 73,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 202,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 240,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 224,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-02-22",
+        "show": "live:grateful-dead:1974-02-22:winterland-arena"
+       },
+       "plays_before": 52,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-12-10",
+        "show": "live:grateful-dead:1973-12-10:charlotte-coliseum"
+       },
+       "plays_before": 105,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:winterland-announcements",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Winterland Concert Announcements"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:casey-jones",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 267,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1973-12-08",
+        "show": "live:grateful-dead:1973-12-08:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 82,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:and-we-bid-you-good-night",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 90,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 42,
+       "total_plays": 57
+      },
       "title": "And We Bid You Goodnight"
      }
     ],
@@ -810,64 +1088,112 @@
      {
       "from": "gd1974-02-23.sbd.miller.115607.flac16",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1973-12-19",
+        "show": "live:grateful-dead:1973-12-19:curtis-hixon-convention-hall"
+       },
+       "plays_before": 23,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd74-02-23.sbd.bertha-ashley.26362.sbeok.shnf",
       "key": "song:grateful-dead:intermission",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1203,
+       "gap_shows": 266,
+       "last_played": {
+        "date": "1970-11-08",
+        "show": "live:grateful-dead:1970-11-08:capitol-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Intermission"
      },
      {
       "from": "gd74-02-23.sbd.bertha-ashley.26362.sbeok.shnf",
       "key": "song:grateful-dead:wrs-prelude-part-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "WRS Prelude > Part 1"
      },
      {
       "from": "gd1974-02-23.sbd.kaplan.serafin.198.shnf",
       "key": "song:grateful-dead:wrs-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 17,
+       "total_plays": 22
+      },
       "title": "WRS Prelude"
      },
      {
       "from": "gd1974-02-23.sbd.kaplan.serafin.198.shnf",
       "key": "song:grateful-dead:wrs-part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-12-18",
+        "show": "live:grateful-dead:1973-12-18:curtis-hixon-convention-hall"
+       },
+       "plays_before": 13,
+       "total_plays": 17
+      },
       "title": "WRS Part 1"
      },
      {
       "from": "gd1974-02-23.sbd.kaplan.serafin.198.shnf",
       "key": "song:grateful-dead:wrs-part-1-cont",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "WRS Part 1, cont"
      }
     ],
     "subject_key": "live:grateful-dead:1974-02-23:winterland-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 481,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Save the roses, save yourselves",
+      "Winterland Concert Announcements"
+     ],
+     "show_number": 564,
+     "shows_in_archive": 2097,
      "songs": 32,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.569554+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.980241+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "KSFLySKAa1K7hve3hEHatcko7miFlqzLbPjnXBNu43kKEXpARnCla_Hy81id1urAQhXsxfSzDrCad2TOhx3lDg",
+   "revision": 44,
+   "signature": "QfD8al6dPmiJxPNOcQ_HHEhnyx7tYGguFfx7eyITEc_F4QeLMfyeJ_2do3vreRIBHNYqbqExBStFc9hFnH_3AA",
    "subject_key": "live:grateful-dead:1974-02-23:winterland-arena",
-   "updated_at": "2026-10-25T16:41:47.571380"
+   "updated_at": "2026-10-25T17:35:13.981603"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Ship Of Fools** (1 review): Jerry brings new leads, making this song and Sugaree shine [10]\n- **He's Gone** (1 review): Listener considers this performance their favorite version of the song ever [8]\n- **The Other One** (1 review): Jam is described as way out there, returning to a gentle swinging Eyes [19]\n- **Weather Report Suite** (1 review): Listener describes this suite as solid, highlighting the second set's action [11]\n\n## The recordings\n\n- **gd1974-02-23.176226.sony.ecm250.falanga.menke.miller.clugston.flac2496** (recommended): audience recording; 32 songs; 210 min [1]\n- **gd74-02-23.sbd.bertha-ashley.26362.sbeok.shnf**: soundboard; 30 songs; 212 min; rated 4.58/5 by 38 [4]. Said about its sound: Flawless remaster level, though a few glitches exist at the master level; First set had shaky sound, forgotten lyrics, and unharmonized vocals; Sound is a little crunchy, acceptable given the recording is over thirty years old [13][15][17]\n- **gd74-02-23.sbd.clugston.3382.sbeok.shnf**: soundboard; 29 songs; 212 min; rated 4.41/5 by 17 [5]. Said about its sound: Vocals could be higher in the mix; some irritating cut-offs at song ends [10]\n- **gd1974-02-23.151722.sbd.miller.flac1644**: soundboard; 28 songs; 214 min; rated 3.75/5 by 4 [6]\n\n## Around the show\n\n- Set two crackles with powerful Winterland energy, allowing the crowd to be heard [13]\n- The Other One contains a Slipknot jam within its structure [3]\n- Review notes the show is often overshadowed by the following night's performance [8]\n\n## Tapers and lineage\n\n- **gd1974-02-23.176226.sony.ecm250.falanga.menke.miller.clugston.flac2496**: taped by Louis Falanga; transferred by Bob Menke, Charlie Miller, Scott Clugston; source: Louis Falanga's Master Audience Cassettes; Sony ECM 250 mic > Sony TC-110 (Maxell UD C120) [1]. Also: Sony ECM 22p source provides patches for Sugaree, Beat It, and others [1]\n- **gd74-02-23.sbd.bertha-ashley.26362.sbeok.shnf**: source: Soundboard [4]\n- **gd74-02-23.sbd.clugston.3382.sbeok.shnf**: source: Soundboard [5]\n- **gd1974-02-23.151722.sbd.miller.flac1644**: transferred by All Transfers and Mastering by Charlie Miller  February 13, 2021; source: SBD > Master Reel > Dat [6]. Also: Fixed version of shnid=115607 where channels were reversed in the original upload; Joe B. Jones helped pitch correct the patch source for the recording [6]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Winterland Arena - October 20, 1974](https://www.dead.net/show/october-20-1974) [21]",

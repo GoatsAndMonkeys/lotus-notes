@@ -258,7 +258,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -427,153 +427,414 @@
     "setlist": [
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-21",
+        "show": "live:grateful-dead:1972-04-21:beat-club"
+       },
+       "plays_before": 65,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 183,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 31,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 2,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 17,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 74,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 142,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 145,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-17",
+        "show": "live:grateful-dead:1972-04-17:tivoli-gardens"
+       },
+       "plays_before": 42,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-04-17",
+        "show": "live:grateful-dead:1972-04-17:tivoli-gardens"
+       },
+       "plays_before": 54,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 86,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 14,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 70,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 87,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-04-14",
+        "show": "live:grateful-dead:1972-04-14:tivoli-theater"
+       },
+       "plays_before": 17,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 124,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 365,
+       "gap_shows": 67,
+       "last_played": {
+        "date": "1971-04-27",
+        "show": "live:grateful-dead:1971-04-27:fillmore-east"
+       },
+       "plays_before": 68,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 183,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 107,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-21",
+        "show": "live:grateful-dead:1972-04-21:beat-club"
+       },
+       "plays_before": 166,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:comes-a-time",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-04-11",
+        "show": "live:grateful-dead:1972-04-11:newcastle-city-hall"
+       },
+       "plays_before": 15,
+       "total_plays": 72
+      },
       "title": "Comes A Time"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 103,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 57,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 44,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1972-04-16",
+        "show": "live:grateful-dead:1972-04-16:stakladen-aarhus-university"
+       },
+       "plays_before": 27,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:two-souls-in-communion",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1972-03-27",
+        "show": "live:grateful-dead:1972-03-27:academy-of-music"
+       },
+       "plays_before": 4,
+       "total_plays": 10
+      },
       "title": "Two Souls In Communion"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1972-03-25",
+        "show": "live:grateful-dead:1972-03-25:academy-of-music"
+       },
+       "plays_before": 155,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 80,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-04-24",
+        "show": "live:grateful-dead:1972-04-24:rheinhalle"
+       },
+       "plays_before": 42,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -581,19 +842,41 @@
      {
       "from": "gd1972-04-26.136637.sbd.mr.sirmickflac1648",
       "key": "song:grateful-dead:zip-a-dee-doo-dah-tuning-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Zip-A-Dee-Doo-Dah tuning/banter"
      },
      {
       "from": "gd1972-04-26.136637.sbd.mr.sirmickflac1648",
       "key": "song:grateful-dead:stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1972-03-28",
+        "show": "live:grateful-dead:1972-03-28:academy-of-music"
+       },
+       "plays_before": 6,
+       "total_plays": 22
+      },
       "title": "The Stranger (Two Souls In Communion)"
      },
      {
       "from": "gd1972-04-26.136637.sbd.mr.sirmickflac1648",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-04-21",
+        "show": "live:grateful-dead:1972-04-21:beat-club"
+       },
+       "plays_before": 194,
+       "total_plays": 1630
+      },
       "title": "Drums"
      }
     ],
@@ -601,26 +884,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 347,
-     "shows_in_archive": 1855,
+     "show_number": 417,
+     "shows_in_archive": 2097,
      "songs": 29,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Jahrhundert Halle"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.095294+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.412835+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "KUeu-w2fo0bSkngNQqkiE7GHwV-6tCgcghdCyYsN9Sw0EtiRW3a84MMb9WCWu7gIKVLfnZISkmHQkABjBY98Dw",
+   "revision": 28,
+   "signature": "GkBCspqnhnNdT7nwIP20jkDMy-csftEuPFZL-MiQw8dr6HkvwzV-ZTdAp9SVZ_7fm_aGoipznd3bETdgy96YCA",
    "subject_key": "live:grateful-dead:1972-04-26:jahrhundert-halle",
-   "updated_at": "2026-10-25T16:41:44.096820"
+   "updated_at": "2026-10-25T17:35:12.414226"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Loser** (1 review): Left off the official release, and Loser is also absent from Europe '72 [7]\n- **The Other One** (1 review): Full-blown, long and roaring version [7]\n\n## The recordings\n\n- **gd1972-04-26.sbd.backus.12884.sbeok.shnf** (recommended): soundboard; 29 songs; 222 min; rated 4.6/5 by 15 [1]\n- **gd72-04-26.sbd.vernon.12849.sbeok.shnf**: soundboard; 14 songs; 79 min; rated 4.83/5 by 6 [3]\n- **gd1972-04-26.sbd.vernon.9197.sbeok.shnf**: soundboard; 13 songs; 74 min; rated 4.57/5 by 21 [4]. Said about its sound: These outtake tracks sound better than the songs that were officially released; This copy of the outtakes has a lot of hiss; Recording has some hiss but is a great soundboard [10][14][15]\n- **gd1972-04-26.136637.sbd.mr.sirmickflac1648**: soundboard; 28 songs; 190 min; rated 5/5 by 1 [2]\n\n## Around the show\n\n- Listing says Casey Jones, but the track is actually El Paso [12]\n- The official release moved the end of the second set onto the first disc's second half, which this reviewer dislikes [5]\n- The official two-CD release split the show and moved tracks from one set to the other [6]\n- The Other One here is stronger than the more restrained versions on 4/11 and 4/16 [7]\n- The date is featured on the Hundred Year Hall release [2]\n\n## Tapers and lineage\n\n- **gd72-04-26.sbd.vernon.12849.sbeok.shnf**: source: Soundboard [3]. Also: Combining the official Hundred Year Hall CD with the outtakes reconstructs the complete, unedited show across four discs [5]\n- **gd1972-04-26.sbd.vernon.9197.sbeok.shnf**: transferred by Matt Vernon; source: SBD>MR>DAT>SS>CDR [4]\n- **gd1972-04-26.136637.sbd.mr.sirmickflac1648**: taped by Anonomous; transferred by SIRMick; source: flac16/48kHz ; Source: Soundboard > Master Reel > Dat (48k) [2]\n\n## Art and photos\n\n- Fan art by Pandora: [Goin' down the Road Feeling Bad (Live at Jahrhundert Halle, Frankfurt, Germany, April 26, 1972) (feat. Merle Saunders)](https://www.pandora.com/artist/grateful-dead/hundred-year-hall-live/goin-down-the-road-feeling-bad-live-at-jahrhundert-halle-frankfurt-germany-april-26-1972-feat-merle-saunders/TRKwk9qV3qj776q) [18]",

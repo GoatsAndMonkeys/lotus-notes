@@ -603,7 +603,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -634,6 +634,20 @@
      "kind": "poster",
      "published_at": "1970-01-01T00:00:00+00:00",
      "quote_or_claim": "1984-06-24 Saratoga Performing Arts Center, Saratoga Springs, NY, USA ....",
+     "site": "Jerry Garcia",
+     "title": "1984-06-24 Saratoga Performing Arts Center, Saratoga Springs, NY, USA - Jerry Garcia",
+     "url": "https://jerrygarcia.com/show/1984-06-24-saratoga-performing-arts-center-saratoga-springs-ny-usa/",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": null,
+     "author_url": "https://jerrygarcia.com/",
+     "id": 33,
+     "kind": "blog",
+     "published_at": "1970-01-01T00:00:00+00:00",
+     "quote_or_claim": "",
      "site": "Jerry Garcia",
      "title": "1984-06-24 Saratoga Performing Arts Center, Saratoga Springs, NY, USA - Jerry Garcia",
      "url": "https://jerrygarcia.com/show/1984-06-24-saratoga-performing-arts-center-saratoga-springs-ny-usa/",
@@ -1177,135 +1191,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1984-04-24",
+        "show": "live:grateful-dead:1984-04-24:veterans-memorial-coliseum"
+       },
+       "plays_before": 111,
+       "total_plays": 128
+      },
       "title": "Dancing In The Streets"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-06-10",
+        "show": "live:grateful-dead:1984-06-10:cal-expo"
+       },
+       "plays_before": 184,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-14",
+        "show": "live:grateful-dead:1984-06-14:red-rocks-amphitheatre"
+       },
+       "plays_before": 234,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 191,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-12",
+        "show": "live:grateful-dead:1984-06-12:red-rocks-amphitheater"
+       },
+       "plays_before": 494,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-12",
+        "show": "live:grateful-dead:1984-06-12:red-rocks-amphitheater"
+       },
+       "plays_before": 336,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 194,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1984-04-21",
+        "show": "live:grateful-dead:1984-04-21:philadelphia-civic-center"
+       },
+       "plays_before": 9,
+       "total_plays": 42
+      },
       "title": "Deal, Set Break"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 83,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-09",
+        "show": "live:grateful-dead:1984-06-09:cal-expo"
+       },
+       "plays_before": 291,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-14",
+        "show": "live:grateful-dead:1984-06-14:red-rocks-amphitheatre"
+       },
+       "plays_before": 397,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-09",
+        "show": "live:grateful-dead:1984-06-09:cal-expo"
+       },
+       "plays_before": 65,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 242,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 810,
+       "total_plays": 1630
+      },
       "title": "Dr..um..s"
      },
      {
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 23,
+       "total_plays": 67
+      },
       "title": "(Middle Added From Set 1 Tape)"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 474,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-12",
+        "show": "live:grateful-dead:1984-06-12:red-rocks-amphitheater"
+       },
+       "plays_before": 395,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-12",
+        "show": "live:grateful-dead:1984-06-12:red-rocks-amphitheater"
+       },
+       "plays_before": 255,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 425,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1984-04-29",
+        "show": "live:grateful-dead:1984-04-29:nassau-coliseum"
+       },
+       "plays_before": 61,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "key": "song:grateful-dead:i-cant-get-no-satisfaction",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 623,
+       "gap_shows": 111,
+       "last_played": {
+        "date": "1982-10-10",
+        "show": "live:grateful-dead:1982-10-10:frost-amphitheatre"
+       },
+       "plays_before": 11,
+       "total_plays": 16
+      },
       "title": "I Can't Get No Satisfaction"
      },
      {
       "key": "song:grateful-dead:",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 23,
+       "total_plays": 67
+      },
       "title": "(Added From Set 1 Tape)"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-13",
+        "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre"
+       },
+       "plays_before": 66,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -1313,58 +1544,106 @@
      {
       "from": "gd1984-06-24.sbd.miller.27449.sbeok.flac16",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-14",
+        "show": "live:grateful-dead:1984-06-14:red-rocks-amphitheatre"
+       },
+       "plays_before": 282,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1984-06-24.sbd.miller.27449.sbeok.flac16",
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-09",
+        "show": "live:grateful-dead:1984-06-09:cal-expo"
+       },
+       "plays_before": 325,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "from": "gd1984-06-24.sbd.miller.27449.sbeok.flac16",
       "key": "song:grateful-dead:satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1984-04-24",
+        "show": "live:grateful-dead:1984-04-24:veterans-memorial-coliseum"
+       },
+       "plays_before": 23,
+       "total_plays": 32
+      },
       "title": "(I Can't Get No) Satisfaction"
      },
      {
       "from": "gd1984-06-24.117800.beyer-senn.daweez.d5scott.flac16",
       "key": "song:grateful-dead:noodling",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 29,
+       "total_plays": 74
+      },
       "title": "noodling"
      },
      {
       "from": "gd1984-06-24.126261.chasingwilma.flac24",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2238,
+       "gap_shows": 479,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 14,
+       "total_plays": 25
+      },
       "title": "dancin in the streets (dropout)"
      }
     ],
     "subject_key": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "I Can't Get No Satisfaction"
+     ],
      "first_in_archive": [],
-     "show_number": 1153,
-     "shows_in_archive": 1855,
+     "show_number": 1256,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Saratoga Performing Arts Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.829538+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.776293+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "wHqIwYTc-kc4j4xRWQIymMsg-d7jVARTZ4_TrR4QK4RFW2mp2yDvH6ElhobS6-riisXaD10M0OQCeEqFdrsMDQ",
+   "revision": 17,
+   "signature": "09davXrnUzYBrn-_aT0WPD_RoAl3Bi3DEBQJKIFPVAx0iX41lIPhLf318ASztJqlrg3EvfQgR98_6k4wkj8yAw",
    "subject_key": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center",
-   "updated_at": "2026-10-25T16:41:58.831681"
+   "updated_at": "2026-10-25T17:35:19.777428"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancing In The Streets** (2 reviews): The opening song was an awesome surprise, though excitement waned as mud deepened; The band opened with a ripping version of this song, keeping the energy high [20][25]\n- **Minglewood Blues** (1 review): This version was very high powered, featuring a hot Jerry jam [28]\n\n## Setlist highlights\n\n- **Ramble On Rose**: cut on the recording [1]\n\n## The recordings\n\n- **gd1984-06-24.132577.Nak100CP4.Hill.Keo.Flac2496** (recommended): audience recording; 24 songs; 152 min [1]\n- **gd1984-06-24.sbd.miller.27449.sbeok.flac16**: soundboard; 21 songs; 154 min; rated 3.75/5 by 20 [3]\n- **gd84-06-24.nak.connor.4628.sbeok.shnf**: audience recording; 21 songs; 148 min; rated 3.83/5 by 23 [4]. Said about its sound: Audience recording sounds great streaming, though audience noise is prominent during quiet sections; Bass lacks definition, but the second set features definitive, expressive performances [18][19]\n- **gd1984-06-24.165037.senn421.vita.miller.clugston.flac2496**: audience recording; 21 songs; 152 min [7]\n- **gd1984-06-24.beyerm88.holbrook.burke.81627.sbeok.flac16**: source not stated; 22 songs; 154 min; rated 4/5 by 1 [10]\n\n## Around the show\n\n- Heavy rain and deep mud made the audience worry about drowning during the show [20]\n- Bobby sprinted across the stage during Bertha while Billy bashed his drum kit [21]\n- The band broke SPAC attendance records with roughly 35,000 to 38,000 people [24]\n- Fans camped out at Saratoga, enduring heavy rain and mud splashing under their shoes [25]\n- The reviewer danced continuously all night, recalling a tent along the road at the hilltop [26]\n- Security held the concrete walkways until halfway through Hell In A Bucket before the crowd broke through [29]\n- This Deal performance has flubs and does not match the June 1985 Greek Theatre version [28]\n- Dancin' In The Streets had not been played since July 7, 1981, a 203-show gap [10]\n\n## Tapers and lineage\n\n- **gd1984-06-24.132577.Nak100CP4.Hill.Keo.Flac2496**: taped by Steve Hill; transferred by Keo; source: Master Audience Recorded By Steve Hill, Transfer By Keo; Nakamichi CM100/CP4 Shotguns > Sony D5, Tapes:Maxell UDXLII 90's; Tapes Labelled:Nakamichi 100 Guns -… [1]. Also: Steve recorded the source; the Hill collection provided masters with tape pauses in the first set [1]\n- **gd1984-06-24.sbd.miller.27449.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat [3]. Also: Nakamichi 300 with CP1 microphone created a cassette master, later transferred to DAT [3]\n- **gd84-06-24.nak.connor.4628.sbeok.shnf**: source: Aud> Nak300> CM> CDR> EAC(Secure Mode)> CDWave(Retracking Only)> Shnv3(MKW ACT) [4]\n- **gd1984-06-24.165037.senn421.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Jim Vita's Master Audience Cassettes; Sennheiser 421 mics > Sony D5M (Maxell UDXLII-S) [7]\n- **gd1984-06-24.beyerm88.holbrook.burke.81627.sbeok.flac16**: taped by Kyle Holbrook; transferred by Tim Burke; source: Beyer M88 > Sony TC-D5M > Maxell MX90 (No Dolby) [10]. Also: Beyer M88 microphone recorded the show; tape flips occurred during several songs [10]\n\n## Art and photos\n\n- Poster by D.King Gallery: [Grateful Dead 6/24/1984 Saratoga Springs NY Backstage Pass](https://www.dking-gallery.com/store/Dead_Pass_840624.html) [31]\n- Poster by Steven Rood Grateful Dead: [1984-06-24 Saratoga Performing Arts Center, Saratoga Springs, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1984-06-24-saratoga-performing-arts-center-saratoga-springs-ny-usa/) [32]",

@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -133,182 +133,392 @@
     "setlist": [
      {
       "key": "song:grateful-dead:changes-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "changes/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:habanera-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Habanera/banter"
      },
      {
       "key": "song:grateful-dead:changes-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "changes/jam"
      },
      {
       "key": "song:grateful-dead:changes-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "changes/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:changes-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "changes/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:jam-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam/banter"
      },
      {
       "key": "song:grateful-dead:jam-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "jam/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blues for Allah/banter (multiple takes)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blues for Allah/banter"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blues for Allah/banter"
      },
      {
       "key": "song:grateful-dead:drums-jam-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drums/jam/banter"
      },
      {
       "key": "song:grateful-dead:drums-jam-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drums/jam/banter"
      },
      {
       "key": "song:grateful-dead:drums-banter-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "drums/banter/drums (multiple takes)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 120
+      },
       "title": "Help on the Way (multiple takes w/banter)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 120
+      },
       "title": "Help on the Way (multiple takes w/banter)"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 120
+      },
       "title": "Help on the Way (multiple takes w/banter)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 140,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 140,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah (melody)"
      },
      {
       "key": "song:grateful-dead:blues-for-allah-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Blues for Allah/banter"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 140,
+       "total_plays": 628
+      },
       "title": "jam"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah"
      },
      {
       "key": "song:grateful-dead:blues-for-allah",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Blues for Allah"
      },
      {
       "key": "song:grateful-dead:slipknot-banter-dead-air-banter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Slipknot! (demo playback) banter/dead air/banter"
      },
      {
       "key": "song:grateful-dead:coffee-brewing-tuning-sage-and-spirit-banter-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "coffee brewing/tuning/Sage & Spirit/banter/tuning"
      },
      {
       "key": "song:grateful-dead:music-never-stopped-banter-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Music Never Stopped/banter/tuning"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped (blues jam)"
      },
      {
       "key": "song:grateful-dead:music-never-stopped-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1975-02-28",
+        "show": "live:grateful-dead:1975-02-28:bob-weirs-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "The Music Never Stopped jam"
      },
      {
       "key": "song:grateful-dead:playback-otis-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "playback/Otis/drums"
      },
      {
       "key": "song:grateful-dead:piano-banter-otis",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "piano/banter/Otis"
      },
      {
       "key": "song:grateful-dead:otis-dropping-dimes",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Otis dropping dimes"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin' (early progressions, multiple takes)"
      }
     ],
@@ -316,27 +526,49 @@
     "subject_key": "live:grateful-dead:1975-03-01:bob-weirs-studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 523,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "changes/banter (multiple takes)",
+      "Habanera/banter",
+      "changes/jam",
+      "changes/banter (multiple takes)",
+      "changes/banter (multiple takes)",
+      "jam/banter",
+      "jam/banter (multiple takes)",
+      "Blues for Allah/banter (multiple takes)",
+      "Blues for Allah/banter",
+      "Blues for Allah/banter",
+      "drums/jam/banter",
+      "drums/jam/banter",
+      "drums/banter/drums (multiple takes)",
+      "Blues for Allah/banter",
+      "Slipknot! (demo playback) banter/dead air/banter",
+      "coffee brewing/tuning/Sage & Spirit/banter/tuning",
+      "The Music Never Stopped/banter/tuning",
+      "The Music Never Stopped (blues jam)",
+      "playback/Otis/drums",
+      "piano/banter/Otis",
+      "Otis dropping dimes"
+     ],
+     "show_number": 607,
+     "shows_in_archive": 2097,
      "songs": 35,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Bob Weir's Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.515477+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.401883+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "XmzSbj-OS-z5q_o8oSByH-2xf_RYWmhZlCLSuV7v8ftVzBSPbkp66XP19Fsh40xisM8TogB4wErVSdEZyJgPBA",
+   "revision": 42,
+   "signature": "AB06Ogb6IsYeWrK_TNvs8XWDjxItmMVyZzlET52YkTBBzBrcFLJCMI5CVnMgQwFgk8gTr-HWj4PbK0DTurqHBA",
    "subject_key": "live:grateful-dead:1975-03-01:bob-weirs-studio",
-   "updated_at": "2026-10-25T16:41:48.519833"
+   "updated_at": "2026-10-25T17:35:14.402566"
   }
  },
  "recommended": {

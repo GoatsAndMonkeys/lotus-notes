@@ -310,7 +310,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -326,8 +326,8 @@
     "guests": [],
     "next": {
      "date": "1976-09-28",
-     "show": "live:grateful-dead:1976-09-28:onondaga-county-war-memorial",
-     "venue": "Onondaga County War Memorial"
+     "show": "live:grateful-dead:1976-09-28:onongada-county-war-memorial",
+     "venue": "Onongada County War Memorial"
     },
     "previous": {
      "date": "1976-09-25",
@@ -524,125 +524,332 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 155,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-08-04",
+        "show": "live:grateful-dead:1976-08-04:roosevelt-stadium"
+       },
+       "plays_before": 61,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-09-23",
+        "show": "live:grateful-dead:1976-09-23:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 204,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 139,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 84,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 103,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 4,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 140,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 27,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 22,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 126,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 30,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 15,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 28,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 22,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 21,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-09-25",
+        "show": "live:grateful-dead:1976-09-25:capital-centre"
+       },
+       "plays_before": 276,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-09-23",
+        "show": "live:grateful-dead:1976-09-23:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 238,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-09-23",
+        "show": "live:grateful-dead:1976-09-23:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 91,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 21,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 22,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 93,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-09-24",
+        "show": "live:grateful-dead:1976-09-24:william-and-mary-college-hall"
+       },
+       "plays_before": 55,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -650,31 +857,67 @@
      {
       "from": "gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2578,
+       "gap_shows": 484,
+       "last_played": {
+        "date": "1969-09-06",
+        "show": "live:grateful-dead:1969-09-06:family-dog-at-the-great-highway"
+       },
+       "plays_before": 1,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16",
       "key": "song:grateful-dead:supplication-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 15
+      },
       "title": "Supplication Jam"
      },
      {
       "from": "gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16",
       "key": "song:grateful-dead:tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 24
+      },
       "title": "Tunning"
      },
      {
       "from": "gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 72,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-07-17",
+        "show": "live:grateful-dead:1976-07-17:orpheum-theatre"
+       },
+       "plays_before": 13,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd76-09-27.aud.parrillo.3821.sbeok.shnf",
       "key": "song:grateful-dead:slipnot",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1976-06-19",
+        "show": "live:grateful-dead:1976-06-19:capitol-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 6
+      },
       "title": "Slipnot!"
      }
     ],
@@ -682,26 +925,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 577,
-     "shows_in_archive": 1855,
+     "show_number": 665,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Community War Memorial Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.442960+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.749799+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "j8BIu96o_BfhZ1G9FNoVVfLNUKOKtUe3g6fRgYyvNvd2c_5GHqyQcbmbvDG25M8gGMJtlyK6H-dWqrZMoAjMCA",
+   "revision": 41,
+   "signature": "CcTU4pkpgJL3JmUXBHg2AQdn5a6qEFgkdtzzawdGRDh_4Bo74AUIfqbhmcXmuxWyvoekBIztmxc_HkPtJWeUAQ",
    "subject_key": "live:grateful-dead:1976-09-27:community-war-memorial-auditorium",
-   "updated_at": "2026-10-25T16:41:49.444746"
+   "updated_at": "2026-10-25T17:35:14.750658"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Brown Eyed Women** (1 review): Jerry flubs a lyric, then compensates with an intense solo ending into Delilah [17]\n\n## The recordings\n\n- **gd1976-09-27.mtx.tobin.87661.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 181 min; rated 3.5/5 by 4 [1]. Said about its sound: Matrix provides a sense of distance and echo resembling the actual concert hall [13]\n- **gd1976-09-27.171281.mtx.seamons.ht177.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 182 min; rated 2.5/5 by 2 [2]. Said about its sound: Phil is low in Promised Land; sound improves after the band addresses a hum; Jerry's guitar and vocals cut out late in Supplication, returning near the end [2]\n- **gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16**: source not stated; 24 songs; 179 min [4]. Said about its sound: New transfer includes U.S. Blues, missing from other sources, and avoids redundant repeats [4]\n- **gd1976-09-27.sbd.miller.87664.sbeok.flac16**: soundboard; 23 songs; 160 min; rated 4/5 by 33 [5]. Said about its sound: Sound quality is described as very crisp and clear throughout the recording; Miller's transfer sounds significantly better than previous copies, rated 9.5 out of 10 [8][10]\n\n## Around the show\n\n- Reviewer watched Dark Star recreate the set, praising the upstate New York jam scene [7]\n- Second set is top tier, while first set songs are less polished than 1977 [8]\n- Reviewer claims this show surpasses the September 25 and 28, 1976 performances [10]\n- Second set ranks with the best classic shows the reviewer has ever heard [11]\n\n## Tapers and lineage\n\n- **gd1976-09-27.mtx.tobin.87661.flac16**: taped by See info file; transferred by Matrix by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (60%-SBD/40%-AUD) [1]. Also: Audition 2.0 reassembled tracks, aligned SBD and AUD sources, and adjusted volumes [1]\n- **gd1976-09-27.171281.mtx.seamons.ht177.flac16**: source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut > Soundtrack Pro > AIFF CD tracking via Audacity > FLAC16 via xACT w/meta-tagging) May 5,… [2]\n- **gd1976-09-27.163759.sony.ecm33.unknown.ebel.flac16**: taped by Unknown; transferred by Transfers and edits by Pete Ebel February 19, 2023; source: FOB Sony ECM-33Ps-> Sony TC-152-> Cassette-> DAT [4]. Also: Pete Ebel transferred a new source with less deck pauses and smoother sound [4]\n- **gd1976-09-27.sbd.miller.87664.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) D [5]",

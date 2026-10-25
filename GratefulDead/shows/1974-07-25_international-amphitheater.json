@@ -232,7 +232,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -304,8 +304,8 @@
     "guests": [],
     "next": {
      "date": "1974-07-27",
-     "show": "live:grateful-dead:1974-07-27:civic-center",
-     "venue": "Civic Center"
+     "show": "live:grateful-dead:1974-07-27:roanoke-civic-center",
+     "venue": "Roanoke Civic Center"
     },
     "previous": {
      "date": "1974-07-21",
@@ -412,124 +412,340 @@
     "setlist": [
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 297,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-06-28",
+        "show": "live:grateful-dead:1974-06-28:boston-garden"
+       },
+       "plays_before": 26,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 100,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 128,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 203,
+       "total_plays": 334
+      },
       "title": "Beat it on Down the Line"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 136,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 158,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 102,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 189,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 75,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 36,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 42,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 67,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 16,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 107,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 18,
+       "total_plays": 168
+      },
       "title": "It Must Have Been the Roses"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 161,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1974-06-23",
+        "show": "live:grateful-dead:1974-06-23:jai-alai-fronton"
+       },
+       "plays_before": 177,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 58,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1974-06-22",
+        "show": "live:grateful-dead:1974-06-22:jai-alai-fronton"
+       },
+       "plays_before": 86,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-06-30",
+        "show": "live:grateful-dead:1974-06-30:springfield-civic-center"
+       },
+       "plays_before": 131,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 21,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 115,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-07-21",
+        "show": "live:grateful-dead:1974-07-21:hollywood-bowl"
+       },
+       "plays_before": 18,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      }
     ],
@@ -537,19 +753,46 @@
      {
       "from": "gd1974-07-25.152924.sbd.gems.remastered.flac16",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-07-19",
+        "show": "live:grateful-dead:1974-07-19:selland-arena"
+       },
+       "plays_before": 34,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd1974-07-25.152924.sbd.gems.remastered.flac16",
       "key": "song:grateful-dead:dark-star-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1974-06-23",
+        "show": "live:grateful-dead:1974-06-23:jai-alai-fronton"
+       },
+       "plays_before": 10,
+       "total_plays": 21
+      },
       "title": "Dark Star Jam"
      },
      {
       "from": "gd1974-07-25.152924.sbd.gems.remastered.flac16",
       "key": "song:grateful-dead:slipknot-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-06-20",
+        "show": "live:grateful-dead:1974-06-20:atlanta-municipal-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "Slipknot! Jam"
      }
     ],
@@ -557,26 +800,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 502,
-     "shows_in_archive": 1855,
+     "show_number": 585,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "International Amphitheater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.114682+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.197849+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "n0fy3KLNGd-xMDeLsyaWdBzsrv7zmCw3nG_C1NaT411CRy2QGvtV2PuU5MyMOcrtYbAGIYyBIwPnLjIbZDRtAg",
+   "revision": 41,
+   "signature": "dyqBwX9lz19pavqj-2Q0eVP1DGoJHhg6TFgb8K3RvXYbYqBN8Wm1BOvavZvWjIE1eAs5It5Qd47D0K7p-L_dDw",
    "subject_key": "live:grateful-dead:1974-07-25:international-amphitheater",
-   "updated_at": "2026-10-25T16:41:48.116547"
+   "updated_at": "2026-10-25T17:35:14.198769"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dark Star** (4 reviews): The Dark Star into Slipknot! jam is what makes the show worth downloading; The Slipknot jam inside Dark Star is singled out for praise [7][10][11][13]\n- **Brown Eyed Women** (1 review): Bass is praised, and Keith's piano accompaniment on the last verse is singled out [6]\n- **Row Jimmy** (1 review): The slide guitar playing on this song is singled out as sweet [6]\n- **Scarlet Begonias** (1 review): Scarlet Begonias is praised as a nice stand-alone version [15]\n- **Ship of Fools** (1 review): The encore was Ship of Fools rather than a typical rollicking closer like Johnny B. Goode or U.S. Blues [11]\n- **Slipknot! Jam** (1 review): The Slipknot emerges during the spacey Dark Star and is singled out as a highlight [14]\n\n## The recordings\n\n- **gd74-07-25.sbd.fink.1072.sbeok.shnf** (recommended): soundboard; 24 songs; 168 min; rated 4/5 by 19 [1]. Said about its sound: Reviewer describes the recording as an audience recording, though the source is listed as a soundboard [14]\n- **gd1974-07-25.152924.sbd.gems.remastered.flac16**: soundboard; 25 songs; 162 min; rated 2.5/5 by 4 [2]. Said about its sound: Distortion and analog pops in the drums were repaired in the Dark Star Jam [2]\n- **gd74-07-25.sbd.miller.12656.sbeok.shnf**: soundboard; 24 songs; 156 min; rated 3.73/5 by 11 [3]. Said about its sound: Recording is very clean with good presence and separation; reviewer heard none of the hiss another reviewer mentioned [7]\n\n## Around the show\n\n- Attendee calls it one of the strangest Dead shows seen in nearly twenty years; Phil Lesh sat down while playing much of the set [11]\n- Phil and Ned appear between Around & Around and Scarlet Begonias [1]\n- First set is solid but doesn't stand out as much as the Fresno show a week earlier or Roosevelt in August [4]\n- Dark Star is one of only a few played in 1974, though the show isn't a must-have in a year full of standouts [7]\n- Capital Centre is the best of this tour, but this show is also really good [10]\n- Reviewer calls this the last truly incredible Dark Star of the 1970s [13]\n\n## Tapers and lineage\n\n- **gd74-07-25.sbd.fink.1072.sbeok.shnf**: source: Soundboard [1]. Also: Soundboard master to cassette to DAT to CD; original seed via Jim Wise, then Jon Miller, Alan J. Fink, Greg Hamilton [1]\n- **gd1974-07-25.152924.sbd.gems.remastered.flac16**: transferred by Remastered by Jim Blackwood Pitch Correction by Jason Chastain; source: SBD -> Vault Master Reel -> Dat -> Sonic Solutions -> CD [2]. Also: Remaster is from source 12656, except Me and My Uncle, which comes from source 1072; it aired on KXCI Tucson in 2021 [2]\n- **gd74-07-25.sbd.miller.12656.sbeok.shnf**: source: Soundboard [3]",

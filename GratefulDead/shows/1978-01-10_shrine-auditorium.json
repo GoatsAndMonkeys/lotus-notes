@@ -317,7 +317,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -353,8 +353,8 @@
     },
     "previous": {
      "date": "1978-01-08",
-     "show": "live:grateful-dead:1978-01-08:golden-hall-san-diego-community-concourse",
-     "venue": "Golden Hall - San Diego Community Concourse"
+     "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse",
+     "venue": "Golden Hall, Community Concourse"
     },
     "recommended": {
      "identifier": "gd1978-01-10.mtx.Rhinotrocity7.motb.95134.flac16",
@@ -547,120 +547,318 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-12-29",
+        "show": "live:grateful-dead:1977-12-29:winterland-arena"
+       },
+       "plays_before": 173,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 168,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 157,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-07",
+        "show": "live:grateful-dead:1978-01-07:golden-hall-community-concourse"
+       },
+       "plays_before": 180,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-07",
+        "show": "live:grateful-dead:1978-01-07:golden-hall-community-concourse"
+       },
+       "plays_before": 327,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 92,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-07",
+        "show": "live:grateful-dead:1978-01-07:golden-hall-community-concourse"
+       },
+       "plays_before": 55,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 79,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-07",
+        "show": "live:grateful-dead:1978-01-07:golden-hall-community-concourse"
+       },
+       "plays_before": 22,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 23,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:deal",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-01-06",
+        "show": "live:grateful-dead:1978-01-06:swing-auditorium"
+       },
+       "plays_before": 168,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 65,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 203,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-12-29",
+        "show": "live:grateful-dead:1977-12-29:winterland-arena"
+       },
+       "plays_before": 57,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 55,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1977-12-27",
+        "show": "live:grateful-dead:1977-12-27:winterland-arena"
+       },
+       "plays_before": 92,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 332,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-01-08",
+        "show": "live:grateful-dead:1978-01-08:golden-hall-community-concourse"
+       },
+       "plays_before": 259,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 117,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 91,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1977-10-11",
+        "show": "live:grateful-dead:1977-10-11:lloyd-noble-center-u-of-oklahoma"
+       },
+       "plays_before": 36,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-01-07",
+        "show": "live:grateful-dead:1978-01-07:golden-hall-community-concourse"
+       },
+       "plays_before": 123,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1977-12-30",
+        "show": "live:grateful-dead:1977-12-30:winterland-arena"
+       },
+       "plays_before": 71,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -669,26 +867,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 652,
-     "shows_in_archive": 1855,
+     "show_number": 744,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Shrine Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.383267+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.274224+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "ievBzrHw3T6XrF4eGM6I84nKVDF5LnQkwBxCfxIsy1tkrWD-ot7vSJiQviRvndqY1BnQhDEB1e2CmwhZ4vBrAA",
+   "revision": 41,
+   "signature": "6e13Rs3mCSl5mncFpABeHUChgWib0Y-8aFTeiK8vqc7LXVCSCGdPqTSUbwjBycSbh9WbxNeXxcEIt1acqfyrAg",
    "subject_key": "live:grateful-dead:1978-01-10:shrine-auditorium",
-   "updated_at": "2026-10-25T16:41:51.384423"
+   "updated_at": "2026-10-25T17:35:15.275034"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Brown Eyed Women** (1 review): Review notes Jerry saved up for a fierce solo in Brown Eyed Women [15]\n- **It Must Have Been The Roses** (1 review): Reviewer loves the second set, citing Roses as their personal favorite version [16]\n- **The Other One** (1 review): Review highlights a great second set jam and a nice mini melt into drums [10]\n\n## The recordings\n\n- **gd1978-01-10.mtx.Rhinotrocity7.motb.95134.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 189 min; rated 4.78/5 by 9 [1]. Said about its sound: Matrix recording is described as crisp, clean, and solid, with sound rated five; Franklin's Tower is tasty, though Jerry's voice remained hagged at the end of set two; Jerry's recovering laryngitis adds trippiness and uniqueness to his moving vocal performance [1][11][15][16]\n- **gd1978-01-10.133619.sbd.miller.flac24**: soundboard; 22 songs; 173 min [2]\n- **gd1978-01-10.aud.Rhinotrocity7.motb-0026.95068.flac16**: audience recording; 22 songs; 166 min; rated 4.43/5 by 7 [4]. Said about its sound: Review calls the recording sweet-sounding, competing with Nashville Auditorium for best 1978 audience tape [6]\n- **gd1978-01-10.133618.sbd.miller.flac16**: soundboard; 22 songs; 173 min [3]\n\n## Around the show\n\n- Band overcame early technical problems to sustain energy throughout the performance [11]\n- Crowd enjoyed Donna's tasty performance of Sunrise, despite the reviewer's usual dislike of her [12]\n- Jerry grinned and sang Bertha's opening, exploding crowd joy after previous laryngitis shows [13]\n- Jerry's vocals show lingering laryngitis effects, but he compensates with determined playing [17]\n\n## Tapers and lineage\n\n- **gd1978-01-10.mtx.Rhinotrocity7.motb.95134.flac16**: taped by Reinhart Hohlwein; transferred by Bob Menke and Derek McCabe and Adam Egert; source: Matrix (See Notes) [1]. Also: Audience source is Maxell UDXL II cassettes from AKG D224Es and Sony TC 158; Transfer path includes Nakamichi CR7a, Korg MR-1000, and Korg AudioGate to 24/96 WAV [1]\n- **gd1978-01-10.133619.sbd.miller.flac24**: transferred by Charlie Miller; source: SBD -> Cassette Master (Dolby B) -> FLAC (24bit/44.1k) [2]. Also: Thanks Matt Smith for his endless contributions to the SBD recording [2]\n- **gd1978-01-10.aud.Rhinotrocity7.motb-0026.95068.flac16**: taped by Reinhart Hohlwein; transferred by Bob Menke and Derek McCabe and Adam Egert; source: 2 x AKG D224E's => Sony TC 158 >> MAC (3 x Maxell UDXL II) [4]. Also: First set tape stopped between songs; no patches applied to this audience version; Matrix version includes crowd patches between songs and a drum solo patch [4]\n- **gd1978-01-10.133618.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Dolby B) -> FLAC (24bit/44.1k) [3]",

@@ -754,7 +754,7 @@
      "id": 36,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -762,7 +762,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://gratefuldeadshirt.org/author/admin/",
      "id": 37,
@@ -792,7 +792,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steven Rood Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 39,
@@ -830,8 +830,8 @@
     "guests": [],
     "next": {
      "date": "1984-07-14",
-     "show": "live:grateful-dead:1984-07-14:greek-theatre-university-of-california",
-     "venue": "Greek Theatre, University of California"
+     "show": "live:grateful-dead:1984-07-14:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "previous": {
      "date": "1984-07-07",
@@ -1539,112 +1539,293 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-07-01",
+        "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater"
+       },
+       "plays_before": 294,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 191,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 187,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-04",
+        "show": "live:grateful-dead:1984-07-04:five-seasons-center"
+       },
+       "plays_before": 84,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 266,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 196,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 48,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 44,
+       "total_plays": 225
+      },
       "title": "Hell in a Bucket"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 73,
+       "total_plays": 114
+      },
       "title": "Might as Well"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 201,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 45,
+       "total_plays": 222
+      },
       "title": "Touch of Grey"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 151,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 51,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 820,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 484,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 100,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-07-01",
+        "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater"
+       },
+       "plays_before": 85,
+       "total_plays": 279
+      },
       "title": "I Need a Miracle"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 178,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 428,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 925,
+       "gap_shows": 176,
+       "last_played": {
+        "date": "1981-12-31",
+        "show": "live:grateful-dead:1981-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 184,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      }
     ],
@@ -1652,88 +1833,160 @@
      {
       "from": "gd1984-07-13.mtx.seamons.105570.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 61,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd1984-07-13.150404.sbd.anon.gems.2444",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 62,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-04",
+        "show": "live:grateful-dead:1984-07-04:five-seasons-center"
+       },
+       "plays_before": 89,
+       "total_plays": 216
+      },
       "title": "Feel Like a Stranger"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 20,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 173,
+       "total_plays": 272
+      },
       "title": "Peggy O"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:stuck-inside-of-mobile",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 26
+      },
       "title": "Stuck Inside of Mobile"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:childhoods-end",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "Childhood's End"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 292,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:matilda",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 7
+      },
       "title": "Mathilda"
      },
      {
       "from": "gd1984-07-13.151689.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-06-27",
+        "show": "live:grateful-dead:1984-06-27:merriweather-post-pavilion"
+       },
+       "plays_before": 161,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "from": "gd1984-07-13.178741.senn421.wiseman.miller.clugston.flac2496",
       "key": "song:grateful-dead:just-have-a-little-patience",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "just have a little patience"
      }
     ],
     "subject_key": "live:grateful-dead:1984-07-13:greek-theatre-u-of-california",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Dark Star"
+     ],
      "first_in_archive": [],
-     "show_number": 1163,
-     "shows_in_archive": 1855,
+     "show_number": 1266,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.072312+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.881105+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Y75C7C2BEB-5VCc6Kbd0SVGthunQdDXxbQD0AUPmWioT2RP0wBFdysvewv0atzBPxFW9NdRiYpShlwONb4lSAQ",
+   "revision": 41,
+   "signature": "dLWe-ZcE5qDzt5Z9Z9ad3bG2KVyicTzFtHm5OpWjZ1VhYoAAF4QLvzex2ZL25T-omvUAr4sGQYUUQlDGzk6xBQ",
    "subject_key": "live:grateful-dead:1984-07-13:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:41:59.075460"
+   "updated_at": "2026-10-25T17:35:19.882518"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (3 reviews): Giant beachball landed in front of Jerry during the buildup; Scarlet, Touch, and Fire played at warp speed with high energy [24][28][31]\n- **Stella Blue** (2 reviews): Giant soap bubble hung over Jerry's head during the final part; Reviewer describes the performance as having plaintiff bleating [24][30]\n- **Dark Star** (2 reviews): Accompanied by a slide show and a shooting star overhead; Reviewer praises the exceptional interplay between all band members [24][34]\n- **The Wheel** (1 review): Jerry's jam from Space into Wheel features bizarre electronic buzzing [27]\n\n## The recordings\n\n- **gd84-07-13.sbd.ferguson.353.sbeok.shnf** (recommended): soundboard; 20 songs; 154 min; rated 4.53/5 by 60 [1]. Said about its sound: Reviewer notes the recording has nice sound quality; Ferguson notes background hiss suggests the source had an analog generation [1][31]\n- **gd1984-07-13.sbd.walker-scotton.miller.96153.sbeok.flac16**: soundboard; 20 songs; 154 min; rated 4.08/5 by 13 [5]\n- **gd1984-07-13.sbd.ferguson.joshd.fix-353.90464.flac16**: soundboard; 20 songs; 155 min; rated 3.5/5 by 10 [6]. Said about its sound: Encore pitch differs from rest of show, requiring separate correction [6]\n- **gd1984-07-13.mtx.seamons.105570.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 155 min; rated 4.42/5 by 12 [2]\n\n## Around the show\n\n- Reviewer suspects band members ingested something during intermission before the second set [29]\n- Listener played tape for people in line at Middletown, NY who missed it [32]\n- Reviewer recalls the most energetic Greek crowd they had ever seen [34]\n- Show occurred on Friday the 13th with a full moon [35]\n- Democratic and Moral Majority conventions were in town that week [35]\n- Shooting star appeared over the stage during the start of Dark Star [4]\n- Reviewer calls the Wheel jam the best they have ever heard [27]\n- Reviewer calls the Dark Star possibly their favorite post-hiatus version [28]\n- Reviewer rates this show better than other Greek Theatre shows that year [29]\n- Reviewer cites this as proof of great music in the mid-80s [30]\n\n## Tapers and lineage\n\n- **gd84-07-13.sbd.ferguson.353.sbeok.shnf**: source: SBD > ? > CDR> DAE (cdparanoia)> SHN [1]. Also: Source lineage includes SBD, unknown, CDR, DAE, and SHN via Mark Ferguson [1]\n- **gd1984-07-13.sbd.walker-scotton.miller.96153.sbeok.flac16**: taped by Joani Walker and Paul Scotton; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D6/Maxell XLII-S90/TDK MA90) [5]. Also: Bertha and Greatest Story Ever Told patched from first generation cassette [5]\n- **gd1984-07-13.sbd.ferguson.joshd.fix-353.90464.flac16**: transferred by Speed Correction by joshd; source: SBD > ? > CDR [6]\n- **gd1984-07-13.mtx.seamons.105570.flac16**: transferred by Hunter Seamons; source: Matrix using Final Cut Pro (FLAC>AIFF>Final Cut>WAV>FLAC) [2]\n\n## Art and photos\n\n- Fan art by gratefuldeadshirt.org: [Grateful Dead Shirt T Shirt Vintage 1984 Greek Theatre UC Berkeley Cal CA GDP L | Grateful Dead Shirt](https://gratefuldeadshirt.org/grateful-dead-shirt-t-shirt-vintage-1984-greek-theatre-uc-berkeley-cal-ca-gdp-l/) [37]\n- Poster by Jerry Garcia: [1984-07-13 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1984-07-13-backstage-pass/) [38]\n- Poster by Steven Rood Grateful Dead: [1984-07-15 Greek Theatre, Berkeley, CA - Jerry Garcia](https://jerrygarcia.com/show/1984-07-15-greek-theatre-berkeley-ca/) [39]\n- Poster by Grateful Dead: [Grateful Dead Greek Theatre - July 13, 1984](https://www.dead.net/show/july-13-1984) [40]",

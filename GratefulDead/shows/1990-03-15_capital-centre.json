@@ -425,7 +425,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -921,118 +921,308 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 420,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 326,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3480,
+       "gap_shows": 710,
+       "last_played": {
+        "date": "1980-09-03",
+        "show": "live:grateful-dead:1980-09-03:springfield-civic-center"
+       },
+       "plays_before": 42,
+       "total_plays": 51
+      },
       "title": "Easy to Love You"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 70,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-12-27",
+        "show": "live:grateful-dead:1989-12-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 219,
+       "total_plays": 285
+      },
       "title": "Althea (1) $"
      },
      {
       "key": "song:grateful-dead:tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 14,
+       "total_plays": 47
+      },
       "title": "Tom Thumb Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 143,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1989-10-23",
+        "show": "live:grateful-dead:1989-10-23:charlotte-coliseum"
+       },
+       "plays_before": 370,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 288,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 262,
+       "total_plays": 326
+      },
       "title": "Don't Ease me In"
      },
      {
       "key": "song:grateful-dead:crowd-sings-happy-bday",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "crowd sings Happy Bday"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 484,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 485,
+       "total_plays": 564
+      },
       "title": "I Know you Rider"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 144,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1989-10-22",
+        "show": "live:grateful-dead:1989-10-22:charlotte-coliseum"
+       },
+       "plays_before": 314,
+       "total_plays": 379
+      },
       "title": "Sampson & Delilah"
      },
      {
       "key": "song:grateful-dead:terrapin",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 82,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "key": "song:grateful-dead:mock-turtle-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Mock Turtle Jam > (2)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 1213,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 873,
+       "total_plays": 1290
+      },
       "title": "space"
      },
      {
       "key": "song:grateful-dead:i-will-take-you-home",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 31,
+       "total_plays": 36
+      },
       "title": "I will take you Home"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 344,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 179,
+       "total_plays": 272
+      },
       "title": "Throwing Stones > (3)"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 476,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:revolution",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1588,
+       "gap_shows": 313,
+       "last_played": {
+        "date": "1985-11-08",
+        "show": "live:grateful-dead:1985-11-08:community-war-memorial-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 12
+      },
       "title": "Revolution"
      }
     ],
@@ -1040,94 +1230,195 @@
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:dont-ease",
-      "stats": {},
+      "stats": {
+       "days_since": 140,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1989-10-26",
+        "show": "live:grateful-dead:1989-10-26:miami-arena"
+       },
+       "plays_before": 10,
+       "total_plays": 15
+      },
       "title": "Don't Ease"
      },
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:happy-birthday-to-phil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Happy Birthday to Phil"
      },
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:samson",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1650,
+       "gap_shows": 328,
+       "last_played": {
+        "date": "1985-09-07",
+        "show": "live:grateful-dead:1985-09-07:red-rocks-amphitheatre"
+       },
+       "plays_before": 6,
+       "total_plays": 8
+      },
       "title": "Samson"
      },
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 75,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 462,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 108,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1990-03-15.28293.sbeok.shnf",
       "key": "song:grateful-dead:take-you-home",
-      "stats": {},
+      "stats": {
+       "days_since": 97,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-12-08",
+        "show": "live:grateful-dead:1989-12-08:great-western-la"
+       },
+       "plays_before": 5,
+       "total_plays": 7
+      },
       "title": "Take You Home"
      },
      {
       "from": "gd1990-03-15.Nak300CP4.Fitzy.Keo.125872.Flac1644",
       "key": "song:grateful-dead:just-like-tom-thumbs-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 17,
+       "total_plays": 60
+      },
       "title": "Just Like Tom Thumb's Blues"
      },
      {
       "from": "gd1990-03-15.Nak300CP4.Fitzy.Keo.125872.Flac1644",
       "key": "song:grateful-dead:dont-ease-me-in-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 248,
+       "gap_shows": 44,
+       "last_played": {
+        "date": "1989-07-10",
+        "show": "live:grateful-dead:1989-07-10:giants-stadium"
+       },
+       "plays_before": 18,
+       "total_plays": 32
+      },
       "title": "Don't Ease Me In, Set Break"
      },
      {
       "from": "gd1990-03-15.Nak300CP4.Fitzy.Keo.125872.Flac1644",
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-02-26",
+        "show": "live:grateful-dead:1990-02-26:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 235,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "from": "gd1990-03-15.Nak300CP4.Fitzy.Keo.125872.Flac1644",
       "key": "song:grateful-dead:encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 32
+      },
       "title": "Encore Break (Added From Set 1 Tape)"
      },
      {
       "from": "gd1990-03-15.senn-hubbard.cpb.83675.flac16",
       "key": "song:grateful-dead:crown-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Crowd/tunng"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-15:capital-centre",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1564,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Easy to Love You",
+      "Revolution"
+     ],
+     "first_in_archive": [
+      "crowd sings Happy Bday",
+      "Mock Turtle Jam > (2)"
+     ],
+     "show_number": 1669,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capital Centre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.597268+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.143984+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "UmGnQCvJieBHZ-FMT7Vwim2CZm3-vSOdPWCIvtnx5JzSvwRgvpwv3_qf5UgerJk1msRbXVpabBbIqBr1NbRDBQ",
+   "revision": 43,
+   "signature": "F-CZhuwzsXMa0sxM94PCqnwRbsXSsdNHVFw09u687hWb40OPTbZh5OqW1jZNdxG2ZU3CWUD1FRY5FBJzc1FxBQ",
    "subject_key": "live:grateful-dead:1990-03-15:capital-centre",
-   "updated_at": "2026-10-25T16:42:11.599042"
+   "updated_at": "2026-10-25T17:35:25.145751"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Terrapin** (2 reviews, 1 other source): The jam appeared to last a very long time, which was considered a positive aspect; The song still evokes a strong physical reaction for the listener sixteen years later [8][13][15]\n- **Easy to Love You** (1 review, 1 other source): The band performed the song after a ten-year hiatus, marking a significant return; This was the first performance of the song since September 3, 1980 [1][21]\n- **Mock Turtle Jam > (2)** (1 review): Jerry and the drums experimented with a specific beat in the jam section [14]\n- **Revolution** (1 other source): This was the first performance of the song since November 8, 1985 [1]\n\n## The recordings\n\n- **gd1990-03-15.AUD.LaPorte.115935.Flac16** (recommended): audience recording; 22 songs; 165 min; rated 5/5 by 2 [1]\n- **gd1990-03-15.28293.sbeok.shnf**: source not stated; 23 songs; 162 min; rated 4.26/5 by 42 [2]. Said about its sound: The audio file felt correct and authentic when the reviewer checked the date; The official three-disc Terrapin Station set offers superior sound quality compared to this recording [16][22]\n- **gd1990-03-15.140985.UltraMatrix.sbd.cm.miller.flac1644**: matrix (soundboard mixed with audience mics); 20 songs; 171 min; rated 4/5 by 1 [6]\n- **gd1990-03-15.142545.OTS.Schoeps.Mattes.Miller.Noel.t-flac1648**: source not stated; 20 songs; 180 min; rated 5/5 by 1 [8]\n- **gd1990-03-15.senn-hubbard.cpb.83675.flac16**: source not stated; 20 songs; 150 min; rated 3.25/5 by 4 [11]\n\n## Around the show\n\n- The reviewer stood in the middle of the Phil Zone during the performance [15]\n- The reviewer praised the performance of Brent, Jerry, Bob, Billy, and Mickey [16]\n- The reviewer was surprised the band did not play Happy Birthday for Phil's 50th [17]\n- A golden glowing halo appeared atop Jerry's head during the second set [19]\n- Maryland police were described as tough, and the reviewer noted the Tom Thumb performance [20]\n- The crowd roared loudly during the 'This place is getting hot' line on Althea [21]\n- Police were brutal, but the band's performance of Revolution hit the spot [23]\n- The show occurred on Phil Lesh's 50th birthday at the Capital Centre [1]\n- The performance served as a warm-up for the historic 1990 Summer Tour [13]\n- The post revisits the previous Spring 1990 tour stop in Landover [27]\n\n## Tapers and lineage\n\n- **gd1990-03-15.AUD.LaPorte.115935.Flac16**: taped by LaPorte; source: Unknown Mic > Unknown Deck > Marantz PMD 430 Tapers Section Floor section 128, row FF, seat 12; Master Cassettes > SB Audigy(line in) > Adobe Audition… [1]\n- **gd1990-03-15.28293.sbeok.shnf**: source: Nak 300's > Sony D-5 (w/dolby B)> Maxell MX cass, Taper's section recorded by Boyd McHugh [2]\n- **gd1990-03-15.140985.UltraMatrix.sbd.cm.miller.flac1644**: transferred by Charlie Miller; source: Ultra Matrix SBD > Cassette Master (TDK MA-X90) [6]. Also: Two sets of masters were used to make the show complete [6]\n- **gd1990-03-15.142545.OTS.Schoeps.Mattes.Miller.Noel.t-flac1648**: taped by Ted Mattes; transferred by Charlie Miller and Joe Noel; source: flac16/48kHz ; Ted Mattes Master Recording: Schoeps CMC5 MMK4 (ORTF) > Aerco m1000 preamp > DAT 48k (Panasonic SV-250); Location: 1st row Tapers Section stand… [8]\n- **gd1990-03-15.senn-hubbard.cpb.83675.flac16**: taped by Jeff Hubbard; transferred by Charles Bandrofcheck; source: Sennheiser 4xx's > Marantz PMDxxx > MC. [11]. Also: The reviewer was unsure if drum sections were cut due to tape running out [11]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1990-03-15 Thu Capital Centre, Landover, MD](https://www.livegrateful.net/post/1249645169917/grateful-dead-1990-03-15-thu-capital) [28]\n- Fan art by Dave Goodwich: [30th Anniversary of The Grateful Dead's Spring 1990 Tour: The Capital Centre, Landover, MD 3/15/90 - Glide Magazine](https://glidemagazine.com/241497/30th-anniversary-of-grateful-deads-spring-1990-tour-3-15-90-the-capital-centre-landover-md/) [29]\n- Poster by Dave Goodwich: [30th Anniversary of The Grateful Dead's Spring 1990 Tour: The Capital Centre, Landover, MD 3/16/90 - Glide Magazine](https://glidemagazine.com/241539/30th-anniversary-of-grateful-deads-spring-1990-tour-3-16-90-the-capital-centre-landover-md/) [30]\n- Fan art by RareVinyl.com: [Grateful Dead Terrapin Station: Capital Centre, Landover, MD 3/15/90 US 3-CD set](https://eu.rarevinyl.com/products/grateful-dead-terrapin-station-capital-centre-landover-md-3-15-90-us-3-cd-album-triple-set-gdcd4055-632430) [31]\n- Fan art by keyboardpiano: [Grateful Dead Terrapin Station Spring 1990 Capital Centre](https://www.keyboardpiano.org/products/grateful-dead-terrapin-station-spring-1990-capital.html) [32]\n- Fan art by jpc.de: [Grateful Dead: Terrapin Station: Live Capital Centre, Landover, MD 3/15/90 (Limited Numbered Edition) (3 CDs)](https://www.jpc.de/jpcng/poprock/detail/-/art/grateful-dead-terrapin-limited/hnum/12552757) [33]",

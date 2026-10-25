@@ -669,7 +669,7 @@
      "id": 33,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -677,7 +677,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://gratefuldeadshirt.org/author/admin/",
      "id": 34,
@@ -692,7 +692,7 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": "Steven Rood Grateful Dead",
      "author_url": "https://jerrygarcia.com/",
      "id": 35,
@@ -720,8 +720,8 @@
     },
     "previous": {
      "date": "1984-07-14",
-     "show": "live:grateful-dead:1984-07-14:greek-theatre-university-of-california",
-     "venue": "Greek Theatre, University of California"
+     "show": "live:grateful-dead:1984-07-14:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "recommended": {
      "identifier": "gd1984-07-15.sbd.walker-scotton.miller.96152.sbeok.flac16",
@@ -1334,111 +1334,291 @@
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 21,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1984-06-24",
+        "show": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center"
+       },
+       "plays_before": 112,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Street"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 164,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 285,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-07-04",
+        "show": "live:grateful-dead:1984-07-04:five-seasons-center"
+       },
+       "plays_before": 170,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 52,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 196,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-07-13",
+        "show": "live:grateful-dead:1984-07-13:greek-theatre-u-of-california"
+       },
+       "plays_before": 45,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:why-dont-we-do-it-in-the-road",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "Why Don't We Do It In The Road"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 392,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-07-06",
+        "show": "live:grateful-dead:1984-07-06:alpine-valley-music-theatre"
+       },
+       "plays_before": 395,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 400,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1984-05-06",
+        "show": "live:grateful-dead:1984-05-06:silva-hall-hult-center"
+       },
+       "plays_before": 194,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:dont-need-love",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 16
+      },
       "title": "Don't Need Love"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-14",
+        "show": "live:grateful-dead:1984-07-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 822,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-14",
+        "show": "live:grateful-dead:1984-07-14:greek-theatre-u-of-california"
+       },
+       "plays_before": 486,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 68,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 62,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 376,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 122,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 234,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -1446,49 +1626,97 @@
      {
       "from": "gd1984-07-15.mtx.seamons.125681.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-07-07",
+        "show": "live:grateful-dead:1984-07-07:alpine-valley-music-theatre"
+       },
+       "plays_before": 237,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1984-07-15.163366.nak700.wagner.miller.clugston.flac2496",
       "key": "song:grateful-dead:uncle-johns-band-reprise",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 675,
+       "gap_shows": 135,
+       "last_played": {
+        "date": "1982-09-09",
+        "show": "live:grateful-dead:1982-09-09:saenger-performing-arts-center"
+       },
+       "plays_before": 9,
+       "total_plays": 13
+      },
       "title": "Uncle John's Band Reprise"
      },
      {
       "from": "gd1984-07-15.154263.nak700.severson.miller.clugston.flac2496",
       "key": "song:grateful-dead:ujb-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "UJB Reprise"
      },
      {
       "from": "gd84-07-15.sbd.ferguson.355.sbeok.shnf",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-07-03",
+        "show": "live:grateful-dead:1984-07-03:starlight-theater"
+       },
+       "plays_before": 38,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd84-07-15.sbd.ferguson.355.sbeok.shnf",
       "key": "song:grateful-dead:not-fade-away-coda",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Not Fade Away Coda"
      },
      {
       "from": "gd1984-07-15.151691.sbd.anon.gems.bandrofcheck.flac16",
       "key": "song:grateful-dead:phil-talks-and-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil talks and Crowd"
      },
      {
       "from": "gd1984-07-15.150406.sbd.anon.gems.2444",
       "key": "song:grateful-dead:e1-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "E1-Brokedown Palace"
      },
      {
       "from": "gd1984-07-15.150406.sbd.anon.gems.2444",
       "key": "song:grateful-dead:e2-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "E2-Johnny B. Goode"
      }
     ],
@@ -1496,26 +1724,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1165,
-     "shows_in_archive": 1855,
+     "show_number": 1268,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:59.127136+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.905339+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "URq-DEg2A2QdC1M_dqFJH8op0V6ymrBIoQiwUqEpfQIASOCX29KQuTlYDr2HFhlB5zjmKbygITNIt9Jy4I4jDw",
+   "revision": 33,
+   "signature": "DSfDi4iR4OLMiO43n2JVrJQaoynkqv8oA4KN62I6wlC7xwVYKra7PHqzMzHCLKihdt01iJb4e7mV0hzT48JCDg",
    "subject_key": "live:grateful-dead:1984-07-15:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:41:59.129752"
+   "updated_at": "2026-10-25T17:35:19.906503"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancin' In The Street** (2 reviews): The opener roars out the gate, signaling the band is fired up and ready to play; Back-to-back jam songs into Bird Song are cited as the best opener witnessed [22][30]\n- **Why Don't We Do It In The Road** (1 review): The performance is described as whimsical and sick, with Jerry's licks smoking in the middle [23]\n- **China Cat Sunflower** (1 review): Audience tapes capture a crowd exclamation as the band jumps directly into the next number [21]\n- **Playing In The Band** (1 review): The jam is both high energy and spacy, topping the charts among 1980s performances [23]\n- **China Doll** (1 review): The performance is very trippy and beautiful, representing the best year for jam exploration [29]\n\n## The recordings\n\n- **gd1984-07-15.sbd.walker-scotton.miller.96152.sbeok.flac16** (recommended): soundboard; 20 songs; 153 min; rated 3.45/5 by 11 [1]\n- **gd1984-07-15.mtx.seamons.125681.flac16**: matrix (soundboard mixed with audience mics); 20 songs; 155 min [2]\n- **gd1984-07-15.165130.senn421.vita.miller.clugston.flac2496**: audience recording; 20 songs; 153 min [3]\n- **gd1984-07-15.165129.senn421.vita.miller.clugston.flac1648**: audience recording; 20 songs; 153 min [4]\n\n## Around the show\n\n- Listeners wondered about the transition after the song, suspecting a possible band split [21]\n- The crowd refused to let the standard encore end the show, forcing the band to return [25]\n- One performer is described as a complete monster, on fire from the opening note to the end [26]\n- The venue temperature reached 104 degrees, with the concrete theater radiating heat everywhere [30]\n- The 13th show often gets praise due to a Dark Star encore, but this one is preferred [22]\n- The reviewer, who attended most 80s Greek shows, agrees the beginning is particularly strong [24]\n- While the 7-13-84 first set is slightly better, this recording is considered sonically superior [31]\n\n## Tapers and lineage\n\n- **gd1984-07-15.sbd.walker-scotton.miller.96152.sbeok.flac16**: taped by Joani Walker and Paul Scotton; transferred by Charlie Miller; source: SBD -> Cassette Master (Sony D6/Maxell XLII-S90) [1]. Also: Tapes provided by Joani Walker and Paul Scotton, with pitch correction help from Joe B. Jones [1]\n- **gd1984-07-15.mtx.seamons.125681.flac16**: transferred by Hunter Seamons; source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut w/EQ > AIFF CD tracking via Audacity > FLAC16 via xACT w/meta-tagging) September 15, 2013 [2]\n- **gd1984-07-15.165130.senn421.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Jim Vita's Master Audience Cassettes; Sennheiser 421 mics > Sony D5M (Maxell XLII-S) [3]\n- **gd1984-07-15.165129.senn421.vita.miller.clugston.flac1648**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Jim Vita's Master Audience Cassettes; Sennheiser 421 mics > Sony D5M (Maxell XLII-S) [4]\n\n## Art and photos\n\n- Fan art by gratefuldeadshirt.org: [Grateful Dead Shirt T Shirt Vintage 1984 Greek Theatre UC Berkeley Cal CA GDP L | Grateful Dead Shirt](https://gratefuldeadshirt.org/grateful-dead-shirt-t-shirt-vintage-1984-greek-theatre-uc-berkeley-cal-ca-gdp-l/) [34]\n- Poster by Steven Rood Grateful Dead: [1984-07-15 Greek Theatre, Berkeley, CA - Jerry Garcia](https://jerrygarcia.com/show/1984-07-15-greek-theatre-berkeley-ca/) [35]",

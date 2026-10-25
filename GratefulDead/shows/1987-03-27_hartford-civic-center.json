@@ -581,7 +581,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1155,94 +1155,256 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1986-12-17",
+        "show": "live:grateful-dead:1986-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 133,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1987-03-03",
+        "show": "live:grateful-dead:1987-03-03:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 213,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 67,
+       "total_plays": 150
+      },
       "title": "West LA Fadeaway"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 158,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1987-01-29",
+        "show": "live:grateful-dead:1987-01-29:san-francisco-civic-auditorium"
+       },
+       "plays_before": 288,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 301,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 100,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1986-12-17",
+        "show": "live:grateful-dead:1986-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 342,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 157,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 79,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1987-03-01",
+        "show": "live:grateful-dead:1987-03-01:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 281,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 182,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-22",
+        "show": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 273,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 263,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-26",
+        "show": "live:grateful-dead:1987-03-26:hartford-civic-center"
+       },
+       "plays_before": 977,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-26",
+        "show": "live:grateful-dead:1987-03-26:hartford-civic-center"
+       },
+       "plays_before": 637,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 266,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1986-07-04",
+        "show": "live:grateful-dead:1986-07-04:rich-stadium"
+       },
+       "plays_before": 213,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 175,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1987-03-02",
+        "show": "live:grateful-dead:1987-03-02:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 252,
+       "total_plays": 290
+      },
       "title": "Johnny B Goode"
      }
     ],
@@ -1250,109 +1412,181 @@
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-01-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.01.alabama getaway"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-02-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.02.greatest story ever told"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-03-west-la-fadeaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.03.west la fadeaway"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-04-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.04.little red rooster"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-05-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.05.brown eyed women"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-06-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.06.beat it on down the line"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-07-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.07.tennessee jed"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-08-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.08.music never stopped"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-09-touch-of-grey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.09.touch of grey"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-10-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.10.samson and delilah"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-11-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.11.cumberland blues"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-12-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.12.estimated prophet"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-13-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.13.eyes of the world"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-14-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.14.drums"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-15-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.15.space"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-16-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.16.uncle john's band"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-17-morning-dew",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.17.morning dew"
      },
      {
       "from": "gd1987-03-27.150712.nak300.flac16.re-mastered",
       "key": "song:grateful-dead:gd19870327-18-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd19870327.18.johnny b goode"
      }
     ],
@@ -1360,26 +1594,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1322,
-     "shows_in_archive": 1855,
+     "show_number": 1426,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hartford Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:03.278227+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.527982+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "n0jGPjyEPUAtLH3oiKmrOhefl0_sSbt6NHgDZrZYB4d7p1yrJh8Pq_EHtQWJOnOfqCIKFI-FbZ0KCH6rwx1TDA",
+   "revision": 42,
+   "signature": "f-bu0rAkk7s4ARcbeUemqoGEfmN9I8CdH0ILPYxr5v6tCd5A6rzu5VKYoWUNIkpoSh6e_Xlj7tk8KJGPrpjbAg",
    "subject_key": "live:grateful-dead:1987-03-27:hartford-civic-center",
-   "updated_at": "2026-10-25T16:42:03.280446"
+   "updated_at": "2026-10-25T17:35:22.529433"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Touch Of Grey** (3 reviews): Garcia raised his fist, signaling his return from coma-land to the crowd; Garcia raised his mighty paw of power multiple times during the performance [18][21][26]\n- **Little Red Rooster** (1 review): Brent's solo used spinning Leslie speakers, nearly blowing the audience's heads off [18]\n- **Beat It On Down The Line** (1 review): Bobby performed a standout version, asking the audience how old they were [21]\n- **Tennessee Jed** (1 review): The band twanged the song to death, which blew the reviewer away [23]\n- **Uncle John's Band** (1 review): The performance was nostalgically pleasing but hardly memorable to the listener [22]\n\n## The recordings\n\n- **gd1987-03-27.140871.UltraMatrix.sbd.cm.miller.flac1644** (recommended): matrix (soundboard mixed with audience mics); 18 songs; 137 min; rated 5/5 by 3 [1]\n- **gd1987-03-27.sbd.miller.95717.sbeok.flac16**: soundboard; 18 songs; 136 min; rated 2.75/5 by 4 [4]. Said about its sound: The matrix SBD is pretty hissy with lots of audience noise [4]\n- **gd1987-03-27.163464.senn.me80.hessberg.miller.clugston.flac2496**: audience recording; 18 songs; 133 min [5]\n- **gd87-03-27.nak.braverman.7343.sbefixed.shnf**: audience recording; 18 songs; 129 min; rated 4.54/5 by 28 [13]. Said about its sound: The venue's vertical architecture gave the sound significant power; The recording has high levels, though the sound is otherwise nice [19][29]\n- **gd1987-03-27.145672.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16**: audience recording; 18 songs; 130 min [14]\n\n## Around the show\n\n- Hartford combined with giggle juice resulted in happy feet for the crowd [14]\n- This performance is one of the reviewer's favorites for that specific song [20]\n- The band was more dynamic with higher emotional peaks than the previous evening [22]\n- Combining the first set of 3/26/87 and second of 3/27/87 would be epic [25]\n\n## Tapers and lineage\n\n- **gd1987-03-27.140871.UltraMatrix.sbd.cm.miller.flac1644**: transferred by Charlie Miller; source: Ultra Matrix SBD > Cassette Master (TDK MA-R90) [1]\n- **gd1987-03-27.sbd.miller.95717.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette [4]\n- **gd1987-03-27.163464.senn.me80.hessberg.miller.clugston.flac2496**: taped by Michael Hessberg; transferred by Scott Clugston, Charlie Miller; source: Michael Hessberg's Master Audience Cassettes; Sennheiser ME80 mics > Sony D5M [5]. Also: Schoeps CMC4 MK41 source supplied a 0:28 patch in the Drums section [5]\n- **gd87-03-27.nak.braverman.7343.sbefixed.shnf**: source: Audience Master Cassette (Nakamichi 300 / Sony D5M) > Nakamichi BX-300 > CD > SHN [13]\n- **gd1987-03-27.145672.ots.at835b.akg.d12e.blend.ackerman.noel.t-flac16**: taped by Ray Ackerman; transferred by Joe Noel; source: Ray Ackerman’s Master Audience Cassettes; Two x Audio Technica 835b + One x AKG D12e center fill > Realistic 32-1105A, 4 channel stereo mixer > Sony TCD5 (OTS) [14]. Also: Joe Noel edited and mastered the file; Ray provided the hi-res upgrade [14]\n\n## Art and photos\n\n- Fan art by RareVinyl.com: [Grateful Dead Dave's Picks Volume 36: Hartford Civic Center, Hartford, CT 3/26/87 & 3/27/87 - Sealed 2020 US 4-CD set](https://us.rarevinyl.com/products/grateful-dead-dave-s-picks-volume-36-hartford-civic-center-hartford-ct-3-26-87-and-3-27-87-sealed-us-4-cd-album-set-r2607319-866381) [31]\n- Fan art by Jake May: [Grateful Dead Prep 3/26/87 and 3/27/87 Shows in Hartford for Archival 'Dave's Picks' Release](https://jambands.com/news/2020/10/15/grateful-dead-prep-3-36-87-and-3-37-87-shows-in-hartford-for-archival-daves-picks-release/) [32]",

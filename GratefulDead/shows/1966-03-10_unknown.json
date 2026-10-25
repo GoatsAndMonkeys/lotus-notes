@@ -55,7 +55,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -119,22 +119,38 @@
     "setlist": [
      {
       "key": "song:grateful-dead:full-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "full song"
      },
      {
       "key": "song:grateful-dead:partial-x-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "partial x 3"
      },
      {
       "key": "song:grateful-dead:full-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "full song"
      },
      {
       "key": "song:grateful-dead:talking",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "talking (very low volume)"
      }
     ],
@@ -142,27 +158,32 @@
     "subject_key": "live:grateful-dead:1966-03-10:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 12,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "full song",
+      "partial x 3",
+      "full song",
+      "talking (very low volume)"
+     ],
+     "show_number": 13,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.423255+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.155006+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Uq9gDaYLbSay-Gm_9CBpyH8izcOauKkwqQ4Cuj1snb7ABc8YA_AhRa3Jd4Gqd6PhgH7f4TPM-cDedCTmMPwSAw",
+   "revision": 40,
+   "signature": "N2R_TPTjmFIn-qXPhK4J9KlgrN80_7Juv-1s2akmTWSZn4SKQOu7zpVqrd6d5SC777ZN-ZhUtXtvF6xuwWHeBA",
    "subject_key": "live:grateful-dead:1966-03-10:unknown",
-   "updated_at": "2026-10-25T16:41:38.423908"
+   "updated_at": "2026-10-25T17:35:09.155596"
   }
  },
  "recommended": {

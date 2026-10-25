@@ -696,7 +696,7 @@
      "id": 35,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -719,14 +719,14 @@
      "wayback_url": null
     },
     {
-     "accessed_at": "2026-10-24",
+     "accessed_at": "2026-10-25",
      "author": null,
      "author_url": "https://www.livegrateful.net/",
      "id": 37,
      "image_url": "https://i.etsystatic.com/isbi/43bc94/6786072601/isbi_fullxfull.6786072601_1lh98v2l.jpg?version=0",
-     "kind": "fanart",
+     "kind": "poster",
      "published_at": null,
-     "quote_or_claim": "Grateful Dead 1990-03-24 [Sat] Knickerbocker Arena, Albany, NY.",
+     "quote_or_claim": "Show Certainty Confirmed Setlist Certainty Confirmed Ticket Price $19.50 Sellout Yes In Attendance 16331 Gross $460,631.00 Previous Post Grateful Dead 1991-03-24 [Sun] Knickerbocker Arena, Albany,…",
      "site": "LiveGRATEFUL.net",
      "title": "Grateful Dead 1990-03-24 [Sat] Knickerbocker Arena, Albany, NY",
      "url": "https://www.livegrateful.net/post/1251622153378/grateful-dead-live-at-knickerbocker",
@@ -1436,114 +1436,295 @@
      {
       "key": "song:grateful-dead:let-the-good-times-roll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 24,
+       "total_plays": 49
+      },
       "title": "Let The Good Times Roll"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-12-08",
+        "show": "live:grateful-dead:1989-12-08:great-western-la"
+       },
+       "plays_before": 65,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-12-08",
+        "show": "live:grateful-dead:1989-12-08:great-western-la"
+       },
+       "plays_before": 64,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 106,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1989-12-08",
+        "show": "live:grateful-dead:1989-12-08:great-western-la"
+       },
+       "plays_before": 180,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 71,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 314,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:desolation-row",
-      "stats": {},
+      "stats": {
+       "days_since": 248,
+       "gap_shows": 44,
+       "last_played": {
+        "date": "1989-07-19",
+        "show": "live:grateful-dead:1989-07-19:alpine-valley-music-theatre"
+       },
+       "plays_before": 32,
+       "total_plays": 60
+      },
       "title": "Desolation Row"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 371,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1989-12-30",
+        "show": "live:grateful-dead:1989-12-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 285,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 526,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 257,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 236,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:mind-left-body-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1970,
+       "gap_shows": 389,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 22
+      },
       "title": "Mind Left Body Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 1219,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 879,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 197,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:all-along-the-watchtower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 56,
+       "total_plays": 129
+      },
       "title": "All Along The Watchtower"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 261,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 477,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 25,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-02-27",
+        "show": "live:grateful-dead:1990-02-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 53,
+       "total_plays": 57
+      },
       "title": "And We Bid You Good Night"
      }
     ],
@@ -1551,88 +1732,175 @@
      {
       "from": "gd90-03-24.sbd.harrell.12791.sbeok.shnf",
       "key": "song:grateful-dead:two-soldiers-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 914,
+       "gap_shows": 187,
+       "last_played": {
+        "date": "1987-09-22",
+        "show": "live:grateful-dead:1987-09-22:the-spectrum"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Two Soldiers Jam"
      },
      {
       "from": "gd1990-03-24.175116.mtx.tobin.flac1648",
       "key": "song:grateful-dead:playing-in-the-bad",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2744,
+       "gap_shows": 536,
+       "last_played": {
+        "date": "1982-09-18",
+        "show": "live:grateful-dead:1982-09-18:boston-garden"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Playihg In The Band"
      },
      {
       "from": "gd1990-03-24.125390.nak-cm300.cp4.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 111,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1990-03-24.125390.nak-cm300.cp4.flac16",
       "key": "song:grateful-dead:encore-break-nfa-crowd-chant",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "encore break/NFA crowd chant"
      },
      {
       "from": "gd1990-03-24.142989.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:nfa-chant",
-      "stats": {},
+      "stats": {
+       "days_since": 231,
+       "gap_shows": 42,
+       "last_played": {
+        "date": "1989-08-05",
+        "show": "live:grateful-dead:1989-08-05:cal-expo"
+       },
+       "plays_before": 31,
+       "total_plays": 54
+      },
       "title": "NFA chant"
      },
      {
       "from": "gd1990-03-24.mtx.haugh.32082.sbeok.shnf",
       "key": "song:grateful-dead:saturday-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 728,
+       "gap_shows": 162,
+       "last_played": {
+        "date": "1988-03-26",
+        "show": "live:grateful-dead:1988-03-26:hampton-coliseum"
+       },
+       "plays_before": 11,
+       "total_plays": 18
+      },
       "title": "Saturday Night"
      },
      {
       "from": "gd1990-03-24.aud.gildey.91828.sbeok.flac16",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 83,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd1990-03-24.aud.gildey.91828.sbeok.flac16",
       "key": "song:grateful-dead:crowd-chant",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 629,
+       "gap_shows": 129,
+       "last_played": {
+        "date": "1988-07-03",
+        "show": "live:grateful-dead:1988-07-03:oxford-plains-speedway"
+       },
+       "plays_before": 12,
+       "total_plays": 20
+      },
       "title": "crowd chant"
      },
      {
       "from": "gd1990-03-24.147572.senn441.boedicker.flac1644",
       "key": "song:grateful-dead:drums-part-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Drums Part 2"
      },
      {
       "from": "gd1990-03-24.AKG451.Berger.Currier.Keo.120742.Flac2496",
       "key": "song:grateful-dead:one-more-saturday-night-set-break",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1435,
+       "gap_shows": 287,
+       "last_played": {
+        "date": "1986-04-19",
+        "show": "live:grateful-dead:1986-04-19:berkeley-community-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 5
+      },
       "title": "One More Saturday Night, Set Break"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-24:knickerbocker-arena",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Mind Left Body Jam"
+     ],
      "first_in_archive": [],
-     "show_number": 1570,
-     "shows_in_archive": 1855,
+     "show_number": 1675,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Knickerbocker Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.739042+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.244569+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "RKTEuK1Cyiztho1ptNBAFR268zKxDINlMPIIa7oh6HShBgRPLaT6A5W1AwQoNMVa6H8yjbxuvhtNiUFiHmipAA",
+   "revision": 43,
+   "signature": "XQY8auDXaOVTzqBDsQ4VYhZkvQi9PcGHwKOb3V1yqxuNQkfMqqC5HQoAbwI0JHD8b5u20ZWpBVW3xKRplLx4BQ",
    "subject_key": "live:grateful-dead:1990-03-24:knickerbocker-arena",
-   "updated_at": "2026-10-25T16:42:11.741640"
+   "updated_at": "2026-10-25T17:35:25.246391"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Loser** (3 reviews): Jerry's guitar solo is described as mind-blowing, causing the venue crowd to go nuts; The jam is called hot, though Jerry misses notes; recording is noted as dank [23][24][27]\n- **Walkin' Blues** (1 other source): Described as the best Walkin' Blues ever, featured on the official release [11]\n\n## The recordings\n\n- **gd1990-03-24.127119.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 159 min; rated 4.71/5 by 7 [1]\n- **gd1990-03-24.156367.UltraMatrix.sbd.cm.miller.flac2496**: soundboard; 20 songs; 160 min [4]\n- **gd1990-03-24.175116.mtx.tobin.flac1648**: matrix (soundboard mixed with audience mics); 20 songs; 160 min [6]\n- **gd90-03-24.sbd.harrell.12791.sbeok.shnf**: soundboard; 20 songs; 158 min; rated 4.38/5 by 8 [2]\n\n## Around the show\n\n- Reviewer stood outside in the rain by a barrel fire; tickets were hard to find [23]\n- Cold upstate New York crowd helped lead the band to a metal-tinged performance [30]\n- It was cold and wet outside, but the first set was outstanding inside [32]\n- Reviewer stood in the fifth row for Stella Blue, experiencing chills [33]\n- First night of a three-show run that formed the live release Dozin' at the Knick [25]\n- Dozin' selected strongest performances; most of this audience recording is considered so-so [26]\n\n## Tapers and lineage\n\n- **gd1990-03-24.127119.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 3 Source Matrix by dusborne; Soundboard (shnid:107873) Recording Info: SBD -> Cassette Master (TDK SA90); Transfer Info: Cassette Master (Nakamichi DR-1) ->… [1]. Also: Date is featured on Dozin' at the Knick; show info embedded in FLAC headers [1]\n- **gd1990-03-24.156367.UltraMatrix.sbd.cm.miller.flac2496**: taped by Recorded by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  April 8, 2022; source: Ultramatrix SBD > Cassette Master (Sony TC-D5M/TDK MA-X90) [4]\n- **gd1990-03-24.175116.mtx.tobin.flac1648**: transferred by SBD + AUD Matrix 2 Source Mix (48/16) by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (48/16) [6]. Also: Mixed by an archive.org user; FLAC conversion performed on November 14, 2025 [6]\n- **gd90-03-24.sbd.harrell.12791.sbeok.shnf**: source: SBD > Dat x 3 > CDR > WAV > SHN [2]\n\n## Art and photos\n\n- Fan art by Grateful Dead: [Grateful Dead Knickerbocker Arena - March 24, 1990](https://www.dead.net/show/march-24-1990) [36]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1990-03-24 Sat Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1251622153378/grateful-dead-live-at-knickerbocker) [37]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1990-03-24 Sat Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1251622153378/grateful-dead-live-at-knickerbocker) [38]",

@@ -127,7 +127,7 @@
      "id": 9,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -142,9 +142,9 @@
     "date": "1966-06-15",
     "guests": [],
     "next": {
-     "date": "1966-07-03",
-     "show": "live:grateful-dead:1966-07-03:fillmore-auditorium",
-     "venue": "Fillmore Auditorium"
+     "date": "1966-07-01",
+     "show": "live:grateful-dead:1966-07-01:unknown-perhaps-fillmore-auditorium",
+     "venue": "Unknown (perhaps Fillmore Auditorium)"
     },
     "previous": {
      "date": "1966-06-01",
@@ -191,43 +191,115 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shes-on-the-road-again",
-      "stats": {},
+      "stats": {
+       "days_since": 110,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1966-02-25",
+        "show": "live:grateful-dead:1966-02-25:ivar-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "SHE'S ON THE ROAD AGAIN"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-03-25",
+        "show": "live:grateful-dead:1966-03-25:troupers-hall"
+       },
+       "plays_before": 5,
+       "total_plays": 84
+      },
       "title": "NEXT TIME YOU SEE ME"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-06-01",
+        "show": "live:grateful-dead:1966-06-01:scorpio-studio-outtakes"
+       },
+       "plays_before": 8,
+       "total_plays": 564
+      },
       "title": "I KNOW YOU RIDER"
      },
      {
       "key": "song:grateful-dead:hey-little-one",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1966-03-25",
+        "show": "live:grateful-dead:1966-03-25:troupers-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 7
+      },
       "title": "HEY LITTLE ONE"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 27,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1966-05-19",
+        "show": "live:grateful-dead:1966-05-19:avalon-ballroom"
+       },
+       "plays_before": 3,
+       "total_plays": 260
+      },
       "title": "COLD RAIN AND SNOW"
      },
      {
       "key": "song:grateful-dead:king-bee",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 110,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1966-02-25",
+        "show": "live:grateful-dead:1966-02-25:ivar-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 32
+      },
       "title": "KING BEE"
      },
      {
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 110,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1966-02-25",
+        "show": "live:grateful-dead:1966-02-25:ivar-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 54
+      },
       "title": "CAUTION"
      },
      {
       "key": "song:grateful-dead:stealing",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-06-01",
+        "show": "live:grateful-dead:1966-06-01:scorpio-studio-outtakes"
+       },
+       "plays_before": 3,
+       "total_plays": 14
+      },
       "title": "STEALIN'"
      }
     ],
@@ -236,10 +308,10 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 18,
-     "shows_in_archive": 1855,
+     "show_number": 21,
+     "shows_in_archive": 2097,
      "songs": 8,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "GDH"
@@ -248,16 +320,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.450659+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.199258+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "lsKwtfGYO-1tPdBQckTe3QMBYtiK4EqjB_61JB89IeWPyzBHgmb66vPBDy2LFMj3V8GcUaxuQHajNxeXMkNdDw",
+   "revision": 40,
+   "signature": "1TAydu0G4keqVc9AGo86sscsoNjziBJ0_M1A5FNlxPZLX5A_xG6v8etsUgQOVhjK0BBpSXziyM6QBTrzobNVDw",
    "subject_key": "live:grateful-dead:1966-06-15:various",
-   "updated_at": "2026-10-25T16:41:38.451324"
+   "updated_at": "2026-10-25T17:35:09.199888"
   }
  },
  "recommended": {

@@ -249,7 +249,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -373,95 +373,257 @@
     "setlist": [
      {
       "key": "song:grateful-dead:good-morning-little-schoolgirl",
-      "stats": {},
+      "stats": {
+       "days_since": 123,
+       "gap_shows": 47,
+       "last_played": {
+        "date": "1969-12-10",
+        "show": "live:grateful-dead:1969-12-10:thelma-theater"
+       },
+       "plays_before": 52,
+       "total_plays": 64
+      },
       "title": "Good Morning Little Schoolgirl"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 47,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-03-24",
+        "show": "live:grateful-dead:1970-03-24:pirates-world"
+       },
+       "plays_before": 41,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-04-03",
+        "show": "live:grateful-dead:1970-04-03:field-house-u-of-cincinnati"
+       },
+       "plays_before": 61,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-04-03",
+        "show": "live:grateful-dead:1970-04-03:field-house-u-of-cincinnati"
+       },
+       "plays_before": 59,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 44,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 96,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 44,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 3,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:deep-elementary-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1970-03-20",
+        "show": "live:grateful-dead:1970-03-20:capitol-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 12
+      },
       "title": "Deep Elementary Blues"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-03-21",
+        "show": "live:grateful-dead:1970-03-21:capitol-theater"
+       },
+       "plays_before": 30,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-03-21",
+        "show": "live:grateful-dead:1970-03-21:capitol-theater"
+       },
+       "plays_before": 41,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-04-03",
+        "show": "live:grateful-dead:1970-04-03:field-house-u-of-cincinnati"
+       },
+       "plays_before": 30,
+       "total_plays": 128
+      },
       "title": "Dancing in the Streets"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 41,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 22,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:its-a-mans-mans-mans-world",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 1,
+       "total_plays": 8
+      },
       "title": "It's A Man's, Man's, Man's World"
      },
      {
       "key": "song:grateful-dead:viola-lee-blues",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-03-21",
+        "show": "live:grateful-dead:1970-03-21:capitol-theater"
+       },
+       "plays_before": 29,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1970-02-14",
+        "show": "live:grateful-dead:1970-02-14:fillmore-east"
+       },
+       "plays_before": 45,
+       "total_plays": 51
+      },
       "title": "Feedback"
      }
     ],
@@ -469,43 +631,101 @@
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:masons-children",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1970-02-28",
+        "show": "live:grateful-dead:1970-02-28:family-dog-at-the-great-highway"
+       },
+       "plays_before": 18,
+       "total_plays": 19
+      },
       "title": "Masons Children"
      },
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-04-09",
+        "show": "live:grateful-dead:1970-04-09:fillmore-west"
+       },
+       "plays_before": 85,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-04-03",
+        "show": "live:grateful-dead:1970-04-03:field-house-u-of-cincinnati"
+       },
+       "plays_before": 29,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-03-21",
+        "show": "live:grateful-dead:1970-03-21:capitol-theater"
+       },
+       "plays_before": 22,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1970-03-24",
+        "show": "live:grateful-dead:1970-03-24:pirates-world"
+       },
+       "plays_before": 96,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "from": "gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644",
       "key": "song:grateful-dead:midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-03-21",
+        "show": "live:grateful-dead:1970-03-21:capitol-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 40
+      },
       "title": "Midnight Hour"
      },
      {
       "from": "gd1970-04-12.143493.aud-Schoolgirl-only.taperchuck3.flac1644",
       "key": "song:grateful-dead:gd1970-04-12-aud-fw-t01-schoolgirl",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd1970-04-12.aud.FW.t01 Schoolgirl"
      }
     ],
@@ -513,26 +733,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 201,
-     "shows_in_archive": 1855,
+     "show_number": 249,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore West"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.868646+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.618153+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "S4ad0AxJs85sDpi4A_mKb0HwTAbuv0h0siG2T7A3TZ_kFgTdWI9sbxR9ifmDTG95jpyCO65qQilRPISzNxH2CQ",
+   "revision": 41,
+   "signature": "aBkXPGzJmSig31KQ48-xublLQFQ2Vk3up-jAzHal4OBtOVcF22TV5kcVXoG6kMvOBExFUqeIIGOQx3kq0xfACA",
    "subject_key": "live:grateful-dead:1970-04-12:fillmore-west",
-   "updated_at": "2026-10-25T16:41:39.869609"
+   "updated_at": "2026-10-25T17:35:10.619193"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Viola Lee Blues** (3 reviews): Reviewer's favorite is the monstrous Viola Lee, with Jerry's guitar standing out; Viola Lee is played quite laid back, unlike the reviewer's preferred versions [5][6][12]\n- **Deep Elementary Blues** (2 reviews): Reviewer names Deep Elem as a personal favorite from this show; Deep Elem is a version like no other, with Jerry feeling the blues [5][14]\n- **Dancing in the Streets** (2 reviews): The Dancin' answers Miles's improvisation with the band's own magic and foreshadows later monster versions; Dancin' has Jerry winding the jam up and down for over seven minutes; around nine minutes resembles Mind Left Body [4][6]\n- **Good Morning Little Schoolgirl** (1 other source): A woman is heard singing from about 7:30, absent from the soundboard; tape opens with audience shouts [3]\n- **I Know You Rider** (1 other source): Deadbase lists High Time after Rider; the audience tape cuts after the band starts moving into it [1]\n- **Uncle John's Band** (1 review): Reviewer calls the electric Uncle John's solo worth downloading by itself [5]\n- **It's A Man's, Man's, Man's World** (1 review): Man's World is good, though other songs are less inspired [12]\n\n## The recordings\n\n- **gd70-04-12.sbd.kaplan.3820.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 18 songs; 114 min; rated 4/5 by 35 [1]. Said about its sound: Sound is good, but Bobby is lost in the mix until the organ quiets; a few faint digiskips in Dancin'; Sound quality is crystal clear; This copy has a three-second gap inserted between tracks, which the reviewer found ruinous [1][6][8][11][12][14][15]\n- **gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644**: matrix (soundboard mixed with audience mics); 15 songs; 114 min [2]\n- **gd1970-04-12.143493.aud-Schoolgirl-only.taperchuck3.flac1644**: audience recording; 1 songs; 18 min [3]\n\n## Around the show\n\n- The Dead shared the bill with Miles Davis, who was then active with recent albums like Bitches Brew and Live Evil [4]\n- Reviewer says Lesh reportedly watched Miles from the side of the stage nightly and was blown away [4]\n- Reviewer speculates that Miles Davis being present that night inspired the band to play far above par [8]\n- The band sounds tired and ready to leave the stage, though the guitars burn at times [14]\n- Reviewer ranks this Dancin' among the finest ever, a peer of the 6/8/69 and 5/2/70 versions [8]\n- Reviewer considers this possibly one of the best concerts of 1970 [13]\n\n## Tapers and lineage\n\n- **gd70-04-12.sbd.kaplan.3820.sbeok.shnf**: taped by Harry Ely; transferred by Seth Kaplan; source: Soundboard patched with Audience [1]. Also: Audience portion covers Casey Jones through Deep Elem; taper believed to be Harry Ely, unverified [1]\n- **gd1970-04-12.149.50th.anniv.radiobroadcast.91.3FM.KXCI.flac1644**: source: Pitch and other corrections of prior source gd70-04-12.sbd-aud.kaplan.3820.sbeok.flac16 [2]. Also: This is a 50th-anniversary radio broadcast version on KXCI Tucson, with small fixes and audio massage by Jamie Waddell [2]\n- **gd1970-04-12.143493.aud-Schoolgirl-only.taperchuck3.flac1644**: taped by Unknown; transferred by Taperchuck3; source: audience > unk gen > xlII 90 dolby C, tape trade Dec 1984. [3]. Also: Schoolgirl-only audience tape was found in the uploader's collection, mislabeled as 07-10-1970 Fillmore East; It differs from SHN 3820, a soundboard patched with a master audience recording [3]",

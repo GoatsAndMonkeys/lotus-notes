@@ -629,7 +629,7 @@
      "id": 31,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1204,122 +1204,333 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 46,
+       "total_plays": 216
+      },
       "title": "Feel Like a Stranger"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1980-12-27",
+        "show": "live:grateful-dead:1980-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 224,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-10",
+        "show": "live:grateful-dead:1981-03-10:madison-square-garden"
+       },
+       "plays_before": 420,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 249,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1981-03-06",
+        "show": "live:grateful-dead:1981-03-06:stanley-theater"
+       },
+       "plays_before": 132,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-12",
+        "show": "live:grateful-dead:1981-03-12:boston-garden"
+       },
+       "plays_before": 18,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 90,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 93,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 319,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 322,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 72,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 138,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 106,
+       "total_plays": 240
+      },
       "title": "Ship of Fools"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 87,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 86,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 581,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-10",
+        "show": "live:grateful-dead:1981-03-10:madison-square-garden"
+       },
+       "plays_before": 252,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 324,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:brahms-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brahms Tease"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 128,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "days_since": 138,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1980-10-27",
+        "show": "live:grateful-dead:1980-10-27:radio-city-music-hall"
+       },
+       "plays_before": 57,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 90,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1980-12-14",
+        "show": "live:grateful-dead:1980-12-14:long-beach-arena"
+       },
+       "plays_before": 240,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-09",
+        "show": "live:grateful-dead:1981-03-09:madison-square-garden"
+       },
+       "plays_before": 283,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 191,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1327,208 +1538,356 @@
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t01 Crowd"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t02-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t02 Feel Like A Stranger"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t03-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t03 Sugaree"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t04-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t04 Me & My Uncle"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t05-big-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t05 Big River"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t06-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t06 Peggy O"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t07-cc-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t07 CC Rider"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t08-althea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t08 Althea"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t09-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t09 Passenger"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t10-china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t10 China Cat Sunflower"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s1-t11-i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s1 t11 I Know You Rider"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t01-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t01 Crowd"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t02-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t02 Alabama Getaway"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t03-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t03 Greatest Story Ever Told"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t04-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t04 Ship Of Fools"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t05-lost-sailor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t05 Lost Sailor"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t06-saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t06 Saint Of Circumstance"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t07-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t07 Drums"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t08-the-other-one-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t08 The Other One Space"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t09-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t09 The Other One"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t10-stella-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t10 Stella Blue"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t11-i-need-a-miracle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t11 I Need A Miracle"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t12-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t12 Bertha"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t13-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t13 Good Lovin'"
      },
      {
       "from": "gd1981-03-14.139797.fob.senn.421.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-03-14-s2-t14-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-14 s2 t14 One More Saturday Night"
      },
      {
       "from": "gd1981-03-14.nak700.glassberg.motb.84826.sbeok.flac16",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 251,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "from": "gd1981-03-14.nak700.glassberg.motb.84826.sbeok.flac16",
       "key": "song:grateful-dead:encore-call",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-10",
+        "show": "live:grateful-dead:1981-03-10:madison-square-garden"
+       },
+       "plays_before": 3,
+       "total_plays": 13
+      },
       "title": "encore call"
      },
      {
       "from": "gd1981-03-14.132757.wise.aud.flac24",
       "key": "song:grateful-dead:set-up",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-13",
+        "show": "live:grateful-dead:1981-03-13:utica-memorial-auditorium"
+       },
+       "plays_before": 8,
+       "total_plays": 16
+      },
       "title": "Set Up"
      },
      {
       "from": "gd1981-03-14.152902.nak500.vita.miller.clugston.flac2496",
       "key": "song:grateful-dead:other-one-space",
-      "stats": {},
+      "stats": {
+       "days_since": 274,
+       "gap_shows": 76,
+       "last_played": {
+        "date": "1980-06-13",
+        "show": "live:grateful-dead:1980-06-13:seattle-center-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 12
+      },
       "title": "Other One Space"
      },
      {
       "from": "gd1981-03-14.152445.beyer201-prescott.holbrook.flac2448",
       "key": "song:grateful-dead:encore-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1064,
+       "gap_shows": 247,
+       "last_played": {
+        "date": "1978-04-15",
+        "show": "live:grateful-dead:1978-04-15:william-and-mary-college-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Encore One More Saturday Night"
      }
     ],
     "subject_key": "live:grateful-dead:1981-03-14:veterans-memorial-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 918,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Brahms Tease"
+     ],
+     "show_number": 1014,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Veterans' Memorial Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.046965+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.424308+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "zBL13fBZkeXPdQbXoYGPs0gs7AmtS1qGQ1z3TabeH13JlPvCV5m57XWr6o5K0DH6t0RlwQfYA79tkfFkjHrRBA",
+   "revision": 39,
+   "signature": "pD-hzHpkpQWCNbul08MN1BSVXG1E-t4kHeDU0ev_dnlXKhaQfihifgkhpelVPZr4_hUQX0O1TMjyosJ_dL22Bg",
    "subject_key": "live:grateful-dead:1981-03-14:veterans-memorial-coliseum",
-   "updated_at": "2026-10-25T16:41:54.048207"
+   "updated_at": "2026-10-25T17:35:17.425717"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Sugaree** (1 review): Reviewer describes the performance of Sugaree as fabulous [28]\n- **Peggy-O** (1 review): Listener highlights Peggy-O, China Cat, Passenger, and Ship of Fools for quality [21]\n- **China Cat Sunflower** (1 review): Highlight was the transition from China Cat Sunflower into I Know You Rider [24]\n- **Stella Blue** (1 review): Prelude features thirty seconds of Bach's Joy of Man's Desiring before the main song [20]\n- **Bertha** (1 review): Bertha features the most upbeat double picking Jerry had done in a while [30]\n\n## The recordings\n\n- **gd81-03-14.aud.hayum.7217.sbeok.shnf** (recommended): audience recording; 24 songs; 168 min; rated 4.5/5 by 12 [1]. Said about its sound: Audio levels fluctuated significantly, becoming very loud at times and very quiet at others; Reviewer notes the mix is good, with Jerry's guitar jumping out clearly [21][22]\n- **gd1981-03-14.nak700.glassberg.motb.84826.sbeok.flac16**: source not stated; 24 songs; 167 min; rated 4.51/5 by 55 [4]\n- **gd1981-03-14.174928.aud.Bernstein.ackerman.noel.flac2496**: audience recording; 22 songs; 161 min [6]\n- **gd1981-03-14.nak700.rolfe.miller.95288.flac24**: source not stated; 23 songs; 167 min; rated 1.67/5 by 3 [7]\n- **gd1981-03-14.157926.fob.nak700.cm.wagner.miller.t.flac1644**: source not stated; 22 songs; 169 min [10]\n\n## Around the show\n\n- Reviewer traveled from Keene State College to attend this final Grateful Dead show [19]\n- Attendees hoped for more magic after seeing the band at the Garden and Boston [24]\n- High energy performance preceded the band's spring 1981 European tour [21]\n- Band seemed to lose energy in the second set compared to the first [23]\n\n## Tapers and lineage\n\n- **gd81-03-14.aud.hayum.7217.sbeok.shnf**: source: Audience Recording [1]. Also: Recording made days after the show using a high-quality setup, still sounding great later; Audio path: Audience tape to CD, then EAC to SHN, via Andy Hayum [1][24]\n- **gd1981-03-14.nak700.glassberg.motb.84826.sbeok.flac16**: taped by Barry Glassberg; transferred by A. Egert and C. Ladner; source: Nakamichi CM700's > Sony TC-D5M > MAC [4]. Also: Glassberg spring 1981 recording transferred by MOTB team is considered the best source [25]\n- **gd1981-03-14.174928.aud.Bernstein.ackerman.noel.flac2496**: taped by Master Cassettes Recorded by Jon Bernstein; transferred by Transfer by Ray Ackerman Edited & Mastered by Joe Noel October 26, 2025; source: ?? mics > ?? lead deck > ?? Deck > Master Cassettes [6]\n- **gd1981-03-14.nak700.rolfe.miller.95288.flac24**: taped by Steve Rolfe; transferred by Charlie Miller; source: (FOB) Nakamichi 700 -> Cassette Master (Sony D5/Maxell UDXL-IIS) [7]\n- **gd1981-03-14.157926.fob.nak700.cm.wagner.miller.t.flac1644**: taped by Bob Wagner; transferred by All Transfers and Mastering by Charlie Miller  August 24, 2022; source: (FOB/8th Row) Nakamichi CM700 > Cassette Master (Sony TC-D5M/Maxell UDXL-IIS) [10]. Also: Bob Wagner's deck run by Barry Glassberg; masters lent by Wagner; patch from Rolfe [10]",

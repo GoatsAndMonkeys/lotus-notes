@@ -510,7 +510,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -617,8 +617,8 @@
     },
     "previous": {
      "date": "1982-05-21",
-     "show": "live:grateful-dead:1982-05-21:greek-theatre-university-of-california",
-     "venue": "Greek Theatre - University of California"
+     "show": "live:grateful-dead:1982-05-21:greek-theatre-u-of-california",
+     "venue": "Greek Theatre, U. Of California"
     },
     "recommended": {
      "identifier": "gd1982-05-22.mtx.seamons.101450.sbeok.flac16",
@@ -1081,128 +1081,335 @@
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 317,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 240,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 157,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 287,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 184,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 158,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-04-14",
+        "show": "live:grateful-dead:1982-04-14:glens-falls-civic-center"
+       },
+       "plays_before": 106,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-04-14",
+        "show": "live:grateful-dead:1982-04-14:glens-falls-civic-center"
+       },
+       "plays_before": 100,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-04-15",
+        "show": "live:grateful-dead:1982-04-15:providence-civic-center"
+       },
+       "plays_before": 286,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-04-14",
+        "show": "live:grateful-dead:1982-04-14:glens-falls-civic-center"
+       },
+       "plays_before": 346,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-04-14",
+        "show": "live:grateful-dead:1982-04-14:glens-falls-civic-center"
+       },
+       "plays_before": 349,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:never-trust-a-woman",
-      "stats": {},
+      "stats": {
+       "days_since": 41,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1982-04-11",
+        "show": "live:grateful-dead:1982-04-11:nassau-coliseum"
+       },
+       "plays_before": 12,
+       "total_plays": 44
+      },
       "title": "Never Trust A Woman"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 123,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 123,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1982-04-15",
+        "show": "live:grateful-dead:1982-04-15:providence-civic-center"
+       },
+       "plays_before": 163,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-05-21",
+        "show": "live:grateful-dead:1982-05-21:greek-theatre-u-of-california"
+       },
+       "plays_before": 672,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-05-21",
+        "show": "live:grateful-dead:1982-05-21:greek-theatre-u-of-california"
+       },
+       "plays_before": 337,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 321,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 221,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 258,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 314,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 38,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-04-14",
+        "show": "live:grateful-dead:1982-04-14:glens-falls-civic-center"
+       },
+       "plays_before": 181,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1210,49 +1417,122 @@
      {
       "from": "gd1982-05-22.165132.sbd.claridge.eaton.miller.flac1648",
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 230,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "from": "gd1982-05-22.nak700.wagner.miller.109336.flac24",
       "key": "song:grateful-dead:i-know-your-rider",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 3354,
+       "gap_shows": 614,
+       "last_played": {
+        "date": "1973-03-16",
+        "show": "live:grateful-dead:1973-03-16:nassau-coliseum"
+       },
+       "plays_before": 2,
+       "total_plays": 13
+      },
       "title": "I Know Your Rider"
      },
      {
       "from": "gd82-05-22.sbd.gorinsky.5215.sbeok.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 16,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1982-05-22.152509.aud-unknown-complete-onemoreshot.flacf",
       "key": "song:grateful-dead:china-cat",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1982-04-09",
+        "show": "live:grateful-dead:1982-04-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 32
+      },
       "title": "China Cat"
      },
      {
       "from": "gd1982-05-22.152509.aud-unknown-complete-onemoreshot.flacf",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 33,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-04-19",
+        "show": "live:grateful-dead:1982-04-19:baltimore-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 187
+      },
       "title": "Woman Smarter"
      },
      {
       "from": "gd1982-05-22.sbd-set2.mtownsend.gems.82532.sbeok.flac16",
       "key": "song:grateful-dead:good-times",
-      "stats": {},
+      "stats": {
+       "days_since": 145,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1981-12-28",
+        "show": "live:grateful-dead:1981-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 4,
+       "total_plays": 26
+      },
       "title": "Good Times"
      },
      {
       "from": "gd1982-05-22.sbd-set2.mtownsend.gems.82532.sbeok.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-05-21",
+        "show": "live:grateful-dead:1982-05-21:greek-theatre-u-of-california"
+       },
+       "plays_before": 300,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1982-05-22.sbd-set2.mtownsend.gems.82532.sbeok.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 167,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1981-12-06",
+        "show": "live:grateful-dead:1981-12-06:rosemont-horizon"
+       },
+       "plays_before": 26,
+       "total_plays": 262
+      },
       "title": "Drumz"
      }
     ],
@@ -1260,26 +1540,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1015,
-     "shows_in_archive": 1855,
+     "show_number": 1112,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Greek Theatre, U. Of California"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 9,
+   "parent_revision": 21,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.984164+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.229045+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 10,
-   "signature": "uZFZ-P78K9_o5DEqJ_O41Muyz_hisyUlkswZdt0EdGSpUHE8NgYhpsrVImEq8dDRruSQpXMR8u-BuxjzvWkbBQ",
+   "revision": 22,
+   "signature": "f0_bRejed1Svo7cW1eQsiFNqoTZPvSR8zGsv7tE0RT9Uo5S37LSuvBypY3JrzOxb6tMvsWqTdAuQlZ9IdgKaDQ",
    "subject_key": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california",
-   "updated_at": "2026-10-25T16:41:54.985696"
+   "updated_at": "2026-10-25T17:35:18.230225"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (2 reviews): Reviewer calls the Jack Straw into Sugaree and the Deal their personal favorite versions ever; Reviewer finds Jack Straw focused but not rock-star level, followed by a casual segue into an easy-listening Sugaree [19][23]\n- **Lazy Lightnin'** (2 reviews): A fan in the crowd repeatedly shouted for Lazy Lightning, and the band then started it, as if answering; The Lazy Lightning into Supplication pairing is described as very tight [17][21]\n- **Cassidy** (1 review): Reviewer wonders whether Cassidy as third song was unusual in 1982, calling it not dramatic but easily digestible [23]\n- **Deal** (1 review): Reviewer calls the Deal top notch and the China-Rider quite good [27]\n- **China Cat Sunflower** (1 review): Reviewer finds the China Cat into Rider run through Not Fade Away in set two truly inspiring [19]\n- **Never Trust A Woman** (1 review): Reviewer's favorite version of Brent's Good Times Blues, very soulful with reverb on his vocal mic [21]\n- **Not Fade Away** (1 review): Not Fade Away jam has flurries of angry playing from Garcia; reviewer says it rivals 11/8/79's version [22]\n\n## The recordings\n\n- **gd1982-05-22.mtx.seamons.101450.sbeok.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 167 min; rated 5/5 by 4 [1]\n- **gd1982-05-22.sbd.miller.96331.sbeok.flac16**: soundboard; 23 songs; 166 min; rated 4/5 by 6 [3]\n- **gd1982-05-22.163529.akg.se5.wiseman.miller.clugston.flac2496**: audience recording; 23 songs; 168 min [4]\n- **gd82-05-22.sbd.gorinsky.5215.sbeok.shnf**: soundboard; 24 songs; 157 min; rated 4.33/5 by 33 [10]. Said about its sound: Reviewer describes the recording quality as excellent; Phil's bass is very clear in the mix of this recording [21][27]\n- **gd1982-05-22.152509.aud-unknown-complete-onemoreshot.flacf**: audience recording; 22 songs; 159 min [11]\n\n## Around the show\n\n- Reviewer says Brent is lively and Bobby seems on form throughout the show [22]\n- Reviewer says the band was high energy from the start of the first set [18]\n- Reviewer notes few photos exist of the tie-dye crowd from 1982, though many survive from the following year [16]\n- Reviewer doesn't usually rate first sets highly, but treats this entire first set as an exception [19]\n\n## Tapers and lineage\n\n- **gd1982-05-22.mtx.seamons.101450.sbeok.flac16**: transferred by Hunter Seamons; source: Matrix by Hunter Seamons using Final Cut Pro (FLAC>AIFF>Final Cut>WAV>FLAC) [1]. Also: Soundboard to Sony TC-D5M cassette master, then DAT, then CD, then FLAC; transfers and mastering by Charlie Miller; Cassette played on Nakamichi Dragon with Dolby B decoding into a Panasonic SV-3700 DAT at 44.1 kHz [1]\n- **gd1982-05-22.sbd.miller.96331.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Sony TC-D5M) -> Dat -> CD [3]. Also: Audience recording with unknown mics front of board, via CD; the only circulating source without digital noise reduction [3]\n- **gd1982-05-22.163529.akg.se5.wiseman.miller.clugston.flac2496**: taped by Scott Wiseman; transferred by Scott Wiseman and Scott Clugston, Charlie Miller; source: Scott Wiseman's Master Audience Cassettes; AKG SE-5E mics with CE-1 cardioid capsules > Sony TC-D5 (Maxell UDXLII 90) [4]. Also: A Nakamichi 300 source from N. Hoey patches short gaps in Cumberland Blues, He's Gone, and the Wharf Rat to Around and Around transition [4]\n- **gd82-05-22.sbd.gorinsky.5215.sbeok.shnf**: source: Soundboard [10]\n- **gd1982-05-22.152509.aud-unknown-complete-onemoreshot.flacf**: source: Unknown FOB Audience source > ? > CD > EAC > FLAC [11]. Also: Audience recording seeded to Dime a Dozen in October 2006, initially missing set one and duplicating part of set two [11]\n\n## Art and photos\n\n- Fan art by arizjones.blogspot.com: [Grateful Dead, The Greek Theater, Berkeley, CA. Three shows May 1982 (SBD)](https://arizjones.blogspot.com/2015/01/grateful-dead-greek-theater-berkeley-ca.html) [30]\n- Poster by Daniel Ziegler: [Grateful Dead Greek Theatre Berkeley 1982 Concert Poster](https://concertposterauction.com/Listing/Details/730262/Grateful-Dead-Greek-Theatre-Berkeley-1982-Concert-Poster) [34]",

@@ -462,7 +462,7 @@
      "id": 21,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -478,13 +478,13 @@
     "guests": [],
     "next": {
      "date": "1984-06-13",
-     "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheater",
-     "venue": "Red Rocks Amphitheater"
+     "show": "live:grateful-dead:1984-06-13:red-rocks-amphitheatre",
+     "venue": "Red Rocks Amphitheatre"
     },
     "previous": {
      "date": "1984-06-10",
-     "show": "live:grateful-dead:1984-06-10:cal-expo-amphitheatre",
-     "venue": "Cal Expo Amphitheatre"
+     "show": "live:grateful-dead:1984-06-10:cal-expo",
+     "venue": "Cal Expo"
     },
     "recommended": {
      "identifier": "gd1984-06-12.nakcm304-mikeg-suraci.suraci.78162.flac16",
@@ -917,116 +917,305 @@
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-04-27",
+        "show": "live:grateful-dead:1984-04-27:providence-civic-center"
+       },
+       "plays_before": 117,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-04-30",
+        "show": "live:grateful-dead:1984-04-30:nassau-coliseum"
+       },
+       "plays_before": 189,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 44,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-04-29",
+        "show": "live:grateful-dead:1984-04-29:nassau-coliseum"
+       },
+       "plays_before": 218,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-05-06",
+        "show": "live:grateful-dead:1984-05-06:silva-hall-hult-center"
+       },
+       "plays_before": 118,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-04-27",
+        "show": "live:grateful-dead:1984-04-27:providence-civic-center"
+       },
+       "plays_before": 132,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 493,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 335,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-04-30",
+        "show": "live:grateful-dead:1984-04-30:nassau-coliseum"
+       },
+       "plays_before": 166,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 287,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:might-as-well",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-10",
+        "show": "live:grateful-dead:1984-06-10:cal-expo"
+       },
+       "plays_before": 68,
+       "total_plays": 114
+      },
       "title": "Might As Well"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 197,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 40,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-05-07",
+        "show": "live:grateful-dead:1984-05-07:silva-hall-hult-center"
+       },
+       "plays_before": 234,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 36,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-05-07",
+        "show": "live:grateful-dead:1984-05-07:silva-hall-hult-center"
+       },
+       "plays_before": 227,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-10",
+        "show": "live:grateful-dead:1984-06-10:cal-expo"
+       },
+       "plays_before": 805,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-06-10",
+        "show": "live:grateful-dead:1984-06-10:cal-expo"
+       },
+       "plays_before": 469,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 394,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 35,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-05-08",
+        "show": "live:grateful-dead:1984-05-08:silva-hall-hult-center"
+       },
+       "plays_before": 254,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 37,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-05-06",
+        "show": "live:grateful-dead:1984-05-06:silva-hall-hult-center"
+       },
+       "plays_before": 294,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-04-27",
+        "show": "live:grateful-dead:1984-04-27:providence-civic-center"
+       },
+       "plays_before": 232,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1984-04-24",
+        "show": "live:grateful-dead:1984-04-24:veterans-memorial-coliseum"
+       },
+       "plays_before": 214,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1034,133 +1223,226 @@
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t01-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t01 Alabama Getaway"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t02-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t02 Greatest Story Ever Told"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t03-friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t03 Friend Of The Devil"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t04-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t04 Little Red Rooster"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t05-big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t05 Big Railroad Blues"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t06-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t06 Me & My Uncle"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t07-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t07 Mexicali Blues"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t08-althea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t08 Althea"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t09-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t09 Looks Like Rain"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s1-t10-might-as-well",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s1 t10 Might As Well"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t01-scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t01 Scarlet Begonias"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t02-touch-of-grey",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t02 Touch Of Grey"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t03-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t03 Estimated Prophet"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t04-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t04 Eyes Of The World"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t05-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t05 Drums"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t06-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t06 Space"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t07-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t07 The Other One"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t08-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t08 Wharf Rat"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t09-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t09 Around & Around"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t10-johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t10 Johnny B. Goode"
      },
      {
       "from": "gd1984-06-12.140182.fob.schoeps.cmc4.mk41.oade.bryant.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd84-06-12-s2-t11-us-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd84-06-12 s2 t11 US Blues"
      },
      {
       "from": "gd1984-06-12.148192.beyerm88.holbrook.flac2448",
       "key": "song:grateful-dead:greatest-story",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-04-30",
+        "show": "live:grateful-dead:1984-04-30:nassau-coliseum"
+       },
+       "plays_before": 27,
+       "total_plays": 45
+      },
       "title": "Greatest Story"
      }
     ],
@@ -1168,26 +1450,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1148,
-     "shows_in_archive": 1855,
+     "show_number": 1251,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.676209+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.722702+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "7ZJUZZf_ZKKEqH4ax_vcrp4rsn1FtA-yRfl8p9GBsg4YBzuXE7lbqCZbAyYrKWgoeMvN9cudRmjzHuSNfTMMAg",
+   "revision": 41,
+   "signature": "93plXRG8beuLicQZO4nu6e5v5185lV43UGghyZyT5-xY-uHRMU8pzaEyRskYPNZZwUQa-AvLrdcX92ovo0grBQ",
    "subject_key": "live:grateful-dead:1984-06-12:red-rocks-amphitheater",
-   "updated_at": "2026-10-25T16:41:58.678284"
+   "updated_at": "2026-10-25T17:35:19.723817"
   }
  },
  "recommended": {

@@ -430,7 +430,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -540,9 +540,9 @@
      "venue": "Robertson Gym, UC Santa Barbara"
     },
     "previous": {
-     "date": "1977-02-17",
-     "show": "live:grateful-dead:1977-02-17:sound-city",
-     "venue": "Sound City"
+     "date": "1977-02-20",
+     "show": "live:grateful-dead:1977-02-20:studio-terrapin-station-outtakes",
+     "venue": "Studio (Terrapin Station Outtakes)"
     },
     "recommended": {
      "identifier": "gd77-02-26.sbd.owen.23808.sbeok.shnf",
@@ -884,118 +884,311 @@
     "setlist": [
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-02-20",
+        "show": "live:grateful-dead:1977-02-20:studio-terrapin-station-outtakes"
+       },
+       "plays_before": 3,
+       "total_plays": 317
+      },
       "title": "Terrapin Station (First One!)"
      },
      {
       "key": "song:grateful-dead:technical-difficulties-tune-up",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Technical Difficulties + Tune Up"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 31,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 66,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-02-20",
+        "show": "live:grateful-dead:1977-02-20:studio-terrapin-station-outtakes"
+       },
+       "plays_before": 2,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet (First One!)"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 162,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 108,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 144,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 238,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 139,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 21,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 238,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-02-20",
+        "show": "live:grateful-dead:1977-02-20:studio-terrapin-station-outtakes"
+       },
+       "plays_before": 42,
+       "total_plays": 379
+      },
       "title": "Sampson And Delilah"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 135,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 164,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 36,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 26,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 25,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 26,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 163,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 88,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-02-20",
+        "show": "live:grateful-dead:1977-02-20:studio-terrapin-station-outtakes"
+       },
+       "plays_before": 74,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Street"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 57,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-12-31",
+        "show": "live:grateful-dead:1976-12-31:cow-palace"
+       },
+       "plays_before": 98,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 140,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 58,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1003,64 +1196,116 @@
      {
       "from": "gd1977-02-26.mtx.seamons-bertrando.110037.flac16",
       "key": "song:grateful-dead:technical-difficulties",
-      "stats": {},
+      "stats": {
+       "days_since": 860,
+       "gap_shows": 75,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 14
+      },
       "title": "Technical Difficulty"
      },
      {
       "from": "gd1977-02-26.mtx.seamons-bertrando.110037.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 134,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 25,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1977-02-26.mtx.seamons-bertrando.110037.flac16",
       "key": "song:grateful-dead:phil-zone",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1345,
+       "gap_shows": 166,
+       "last_played": {
+        "date": "1973-06-22",
+        "show": "live:grateful-dead:1973-06-22:p-n-e-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Phil Zone"
      },
      {
       "from": "gd1977-02-26.sbd.cantor.deibert.83283.flac16",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 135,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 162,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1977-02-26.sbd.steve.253.shnf",
       "key": "song:grateful-dead:techinal-difficulties",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "techinal difficulties"
      },
      {
       "from": "gd1977-02-26.170955.sony.ecm270.menke.miller.clugston.flac1648",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 139,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 17,
+       "total_plays": 123
+      },
       "title": "Playin' In The Band Reprise"
      }
     ],
     "subject_key": "live:grateful-dead:1977-02-26:swing-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 589,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Technical Difficulties + Tune Up"
+     ],
+     "show_number": 679,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Swing Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.621103+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.824137+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "rhCs32LxxFVFSZLQbuWSgxTkg96fUOmyKyFB-YF_3GuKPm5dSrMgx2opPuovVpsgzMHD6AnVUbJrheofLSZmAQ",
+   "revision": 41,
+   "signature": "FX533wXypJcbr69rgjcsn9-b2ds58Ol0YJdWy7qbmD317jSu2-Iz72raxtC7qZjXuEHOoaaOtuiuO2a3lgy6Aw",
    "subject_key": "live:grateful-dead:1977-02-26:swing-auditorium",
-   "updated_at": "2026-10-25T16:41:49.627426"
+   "updated_at": "2026-10-25T17:35:14.825181"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Terrapin Station (First One!)** (1 review): Garcia explores more in the first solo, with guitars having a sharper edge than later versions [18]\n- **Playin' In The Band** (1 review): The rare Playin' In The Band, Wheel, and Playin' In The Band sequence closes Set 1 [14]\n- **Help On The Way** (1 review): Listener identifies the Help On The Way, Slipknot, and Franklin's Tower jam as their favorite part [17]\n- **Franklin's Tower** (1 review): Delightful teases of China Cat appear within the Franklin's Tower section to calm tension [19]\n- **Eyes Of The World** (1 review): Listener highlights a beautiful Keith solo during the Eyes of the World performance [15]\n- Listener notes Jerry performs a great solo during The Deal in the first set [16]\n\n## The recordings\n\n- **gd77-02-26.sbd.owen.23808.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 195 min; rated 4.95/5 by 40 [1]. Said about its sound: Listener states this matrix sounds much better than the other circulating soundboard recording; Listener finds this soundboard much better than old tapes with poor sound quality [20][22]\n- **gd1977-02-26.sbd.wizard.32009.sbefail.shnf**: soundboard; 22 songs; 195 min; rated 4.2/5 by 5 [3]\n- **gd1977-02-26.sbd.cantor.deibert.83283.flac16**: soundboard; 22 songs; 170 min; rated 4.73/5 by 22 [4]. Said about its sound: Sound Forge 5.0 peak normalization applied to 98 percent, preserving tuning and stage chatter [4]\n- **gd1977-02-26.sbd.steve.253.shnf**: soundboard; 23 songs; 170 min; rated 4/5 by 12 [6]. Said about its sound: BettyBoard recording sounds incredible despite a few dropouts and reel changes typical of older shows [6]\n\n## Around the show\n\n- Rick Griffin's mural of a bony clutching the Eternal Scroll was hoisted behind the stage [23]\n- The first liquid bottles appeared on the scene during this specific performance [23]\n- Dropouts noted at one minute fifty-four seconds in Samson and Delilah [6]\n- Listener ranks this performance among their top five shows from the year 1977 [14]\n\n## Tapers and lineage\n\n- **gd77-02-26.sbd.owen.23808.sbeok.shnf**: source: Soundboard [1]. Also: Main source lineage is SBD to MR to DATs, with AUD patches from Sony ECM-280 [1]\n- **gd1977-02-26.sbd.wizard.32009.sbefail.shnf**: transferred by Owen Brothers; source: SBD>MR>DAT>CD [3]. Also: Older soundboard source has better dynamics than the newer highly compressed circulating version; Tunings were restored from a SBD to MR to C to C to CD source [3]\n- **gd1977-02-26.sbd.cantor.deibert.83283.flac16**: taped by Betty Cantor; transferred by Jace and Tim Diebert; source: Betty Soundboard [4]\n\n## Art and photos\n\n- Poster by SONGLYRICS.com: [Grateful Dead – 1977‐02‐26: Swing Auditorium, San Bernardino, CA, USA](https://www.songlyrics.com/grateful-dead/19770226-swing-auditorium-san-bernardino-ca-usa/) [25]\n- Fan art by The Music Never Stopped: [Grateful Dead Live at Swing Auditorium on 02/26/1977](https://dayofthedeadshow.home.blog/2019/02/26/grateful-dead-live-at-swing-auditorium-on-02-26-1977/) [26]\n- Fan art by thecurtainwithblog.blogspot.com: [Grateful Dead - Dave's Picks Vol 29: 1977-02-26 Swing Auditorium, San Bernardino, CA](https://thecurtainwithblog.blogspot.com/2019/02/grateful-dead-daves-picks-vol-29-1977.html) [27]\n- Poster by Amy Harris: [Bob Weir dies at 78; Grateful Dead played San Bernardino twice](https://www.sbsun.com/2026/01/13/bob-weir-dies-at-78-grateful-dead-played-san-bernardino-twice/) [28]\n- Poster by Jerrybase: [Grateful Dead – 1977-02-26](https://jerrybase.com/events/19770226-01) [29]\n- Fan art by thecurtainwithblog.blogspot.com: [Grateful Dead - 1977-02-26 Swing Auditorium, San Bernardino, CA {Betty Board}](https://thecurtainwithblog.blogspot.com/2018/05/grateful-dead-1977-02-26-swing.html) [30]",

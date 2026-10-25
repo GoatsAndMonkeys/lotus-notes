@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -66,8 +66,8 @@
     "guests": [],
     "next": {
      "date": "1975-03-17",
-     "show": "live:grateful-dead:1975-03-17:aces",
-     "venue": "Ace's"
+     "show": "live:grateful-dead:1975-03-17:aces-snack-rehearsal",
+     "venue": "Ace's (SNACK Rehearsal)"
     },
     "previous": {
      "date": "1975-03-01",
@@ -114,72 +114,153 @@
     "setlist": [
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:stronger-than-dirt",
-      "stats": {},
+      "stats": {
+       "days_since": 182,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 1,
+       "total_plays": 10
+      },
       "title": "Stronger Than Dirt"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 46,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:disco-slipknot-take-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Disco Slipknot, take 1"
      },
      {
       "key": "song:grateful-dead:disco-slipknot-take-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Disco Slipknot, take 2"
      },
      {
       "key": "song:grateful-dead:disco-slipknot-take-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Disco Slipknot, take 3"
      },
      {
       "key": "song:grateful-dead:train-kept-a-rolling-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Train Kept A-Rollin' Jam"
      },
      {
       "key": "song:grateful-dead:low-down-payment",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Low Down Payment"
      },
      {
       "key": "song:grateful-dead:hide-away",
-      "stats": {},
+      "stats": {
+       "days_since": 70,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1975-01-01",
+        "show": "live:grateful-dead:1975-01-01:aces-studio"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Hideaway"
      },
      {
       "key": "song:grateful-dead:blues-groove-take-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues Groove, take 1"
      },
      {
       "key": "song:grateful-dead:blues-groove-take-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues Groove, take 2"
      },
      {
       "key": "song:grateful-dead:blues-groove-take-3",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Blues Groove, take 3"
      },
      {
       "key": "song:grateful-dead:lazy-lightnin-take-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Lazy Lightnin', take 1"
      },
      {
       "key": "song:grateful-dead:lazy-lightnin-take-2",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Lazy Lightnin', take 2"
      }
     ],
@@ -187,27 +268,37 @@
     "subject_key": "live:grateful-dead:1975-03-12:aces-studio",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 524,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Disco Slipknot, take 1",
+      "Disco Slipknot, take 2",
+      "Disco Slipknot, take 3",
+      "Train Kept A-Rollin' Jam",
+      "Blues Groove, take 1",
+      "Blues Groove, take 2",
+      "Blues Groove, take 3",
+      "Lazy Lightnin', take 1",
+      "Lazy Lightnin', take 2"
+     ],
+     "show_number": 608,
+     "shows_in_archive": 2097,
      "songs": 14,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Ace's Studio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.524979+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.404296+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "3DlisyY4ARxP4gmd0nOiYbYAVK8Rk_vaDlO2g8083t_IEQseZBol4o1NDml8SRsp6wD-P3-o6HGQxWkpXNoPBA",
+   "revision": 40,
+   "signature": "6tBHavSJizzget5PG2mSi0NC84Ot2vGuBPjQSOX8bwy3lv8ORKmU03AXs16L3EFo16OEOJKq0xU8CfpusI60Cg",
    "subject_key": "live:grateful-dead:1975-03-12:aces-studio",
-   "updated_at": "2026-10-25T16:41:48.527992"
+   "updated_at": "2026-10-25T17:35:14.404818"
   }
  },
  "recommended": {

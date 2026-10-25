@@ -461,7 +461,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -591,8 +591,8 @@
     "guests": [],
     "next": {
      "date": "1981-12-06",
-     "show": "live:grateful-dead:1981-12-06:rosemont-horizon-arena",
-     "venue": "Rosemont Horizon Arena"
+     "show": "live:grateful-dead:1981-12-06:rosemont-horizon",
+     "venue": "Rosemont Horizon"
     },
     "previous": {
      "date": "1981-12-03",
@@ -970,112 +970,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1981-10-15",
+        "show": "live:grateful-dead:1981-10-15:club-melk-weg"
+       },
+       "plays_before": 90,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1981-10-15",
+        "show": "live:grateful-dead:1981-10-15:club-melk-weg"
+       },
+       "plays_before": 278,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-11-29",
+        "show": "live:grateful-dead:1981-11-29:civic-arena"
+       },
+       "plays_before": 182,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-12-03",
+        "show": "live:grateful-dead:1981-12-03:dane-county-coliseum"
+       },
+       "plays_before": 41,
+       "total_plays": 134
+      },
       "title": "CC Rider"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-12-02",
+        "show": "live:grateful-dead:1981-12-02:assembly-hall-u-of-illinois"
+       },
+       "plays_before": 155,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1981-10-15",
+        "show": "live:grateful-dead:1981-10-15:club-melk-weg"
+       },
+       "plays_before": 321,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1981-10-12",
+        "show": "live:grateful-dead:1981-10-12:olympia-halle"
+       },
+       "plays_before": 164,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-12-02",
+        "show": "live:grateful-dead:1981-12-02:assembly-hall-u-of-illinois"
+       },
+       "plays_before": 102,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-11-30",
+        "show": "live:grateful-dead:1981-11-30:hara-arena"
+       },
+       "plays_before": 119,
+       "total_plays": 314
+      },
       "title": "Birdsong"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-11-30",
+        "show": "live:grateful-dead:1981-11-30:hara-arena"
+       },
+       "plays_before": 125,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-11-29",
+        "show": "live:grateful-dead:1981-11-29:civic-arena"
+       },
+       "plays_before": 67,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-12-02",
+        "show": "live:grateful-dead:1981-12-02:assembly-hall-u-of-illinois"
+       },
+       "plays_before": 116,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-12-02",
+        "show": "live:grateful-dead:1981-12-02:assembly-hall-u-of-illinois"
+       },
+       "plays_before": 116,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 144,
+       "gap_shows": 33,
+       "last_played": {
+        "date": "1981-07-14",
+        "show": "live:grateful-dead:1981-07-14:mcnichols-sports-arena"
+       },
+       "plays_before": 106,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 343,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-12-03",
+        "show": "live:grateful-dead:1981-12-03:dane-county-coliseum"
+       },
+       "plays_before": 642,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-12-03",
+        "show": "live:grateful-dead:1981-12-03:dane-county-coliseum"
+       },
+       "plays_before": 308,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 56,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 343,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-12-02",
+        "show": "live:grateful-dead:1981-12-02:assembly-hall-u-of-illinois"
+       },
+       "plays_before": 143,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-11-30",
+        "show": "live:grateful-dead:1981-11-30:hara-arena"
+       },
+       "plays_before": 371,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1981-10-17",
+        "show": "live:grateful-dead:1981-10-17:the-hippodrome"
+       },
+       "plays_before": 205,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -1083,139 +1281,236 @@
      {
       "from": "gd1981-12-05.139179.beyers.craigl.flac2448",
       "key": "song:grateful-dead:playing-in-the-band-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 39,
+       "total_plays": 123
+      },
       "title": "Playin' in the Band Reprise"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t01-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t01 Alabama Getaway"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t02-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t02 Promised Land"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t03-friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t03 Friend Of The Devil"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t04-cc-rider",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t04 CC Rider"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t05-cumberland-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t05 Cumberland Blues"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t06-el-paso",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t06 El Paso"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t07-ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t07 Ramble On Rose"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t08-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t08 Passenger"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t09-bird-song",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t09 Bird Song"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s1t10-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s1t10 Let It Grow"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t01-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t01 Shakedown Street"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t02-lost-sailor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t02 Lost Sailor"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t03-saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t03 Saint Of Circumstance"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t04-big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t04 Big Railroad Blues"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t05-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t05 Playin' In The Band"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t06 Drums"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t07 Space"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t08-the-wheel",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t08 The Wheel"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t09-playing-reprise",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t09 Playin' Reprise"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t10-stella-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t10 Stella Blue"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t11-sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t11 Sugar Magnolia"
      },
      {
       "from": "gd1981-12-05.144086.fob.senn421.streeter.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-12-05-s2t12-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-12-05 s2t12 One More Saturday Night"
      }
     ],
@@ -1223,26 +1518,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 983,
-     "shows_in_archive": 1855,
+     "show_number": 1079,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Market Square Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.612757+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.921798+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "bPBKug00dIcLAOqKqHteHzQoA3YWdr-q1gzlxRvVdiwxiRZxo79WHD9VKg7PbUoXYpY66HgI38TehNl3Y0voCw",
+   "revision": 42,
+   "signature": "9bb46lJ0fkrrQpQWDUqPxQsZ5RH_EDQF71CptcJVIueJuqEl306oXaXAuo4IQ04M7hyYt6G4-WVQYGGrH0t-Bw",
    "subject_key": "live:grateful-dead:1981-12-05:market-square-arena",
-   "updated_at": "2026-10-25T16:41:54.614309"
+   "updated_at": "2026-10-25T17:35:17.922962"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **CC Rider** (1 review, 2 other sources): Reviewer, usually no fan of the song, was won over by this version; The second half is played in double time [6][10][16]\n- **Alabama Getaway** (1 review): Played far beyond any other version the reviewer has heard, changing their opinion of the song [20]\n- **Cumberland Blues** (1 review): The band catches fire around this song in the first set and stays hot [21]\n- **Passenger** (1 review): Also stretched well beyond other versions the reviewer knows, which improved their view of the song [20]\n- **Let It Grow** (1 review): Reviewer calls this a masterpiece, avoiding the minor flaws they usually expect from the song [21]\n- **Shakedown Street** (1 review): Reviewer long loved this version, from an old tape [24]\n- **Lost Sailor** (1 review): Lost Sailor into Saint of Circumstance is described as ripping [19]\n\n## The recordings\n\n- **gd81-12-05.sbd.clugston.5488.sbeok.shnf** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 158 min; rated 4.7/5 by 23 [1]\n- **gd1981-12-05.158836.mtx.seamons.ht149.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 159 min [3]. Said about its sound: Soundboard cuts in Playing jam and Reprise to Stella Blue are patched; levels can sound hot or distorted, but nice overall [3]\n- **gd1981-12-05.153870.nak304.vita.miller.clugston.flac2496**: audience recording; 22 songs; 158 min; rated 5/5 by 1 [6]\n- **gd1981-12-05.sbd.miller.111784.flac16**: soundboard; 22 songs; 159 min; rated 4.12/5 by 17 [2]\n\n## Around the show\n\n- Reviewer says they and about 200 others were dosed at the show, and felt something intense was happening [14]\n- Jerry's voice is in decent shape for this show [20]\n- Bob was thanking the crowd two songs in, as though it were the encore [23]\n- Reviewer wishes an audience recording existed, after reading comments from attendees, though they accept the soundboard [16]\n- Reviewer says the second half of the second set flows especially well, with harmonically perfect segues [18]\n- Reviewer ranks Lost Sailor into Saint among their top ten; Let It Grow is top notch but short [24]\n\n## Tapers and lineage\n\n- **gd81-12-05.sbd.clugston.5488.sbeok.shnf**: source: Soundboard and Audience composite [1]. Also: An audience recording by Doug Mow exists; the poster offered it for upload to archive.org; An audience source supplies Ramble On Rose on disc 1 track 7 [1][22]\n- **gd1981-12-05.158836.mtx.seamons.ht149.flac16**: source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut w/EQ > AIFF CD tracking via Audacity > FLAC16 via xACT w/meta-tagging) December 5, 2022 [3]. Also: Matrix: Jim Vita's recording via Clugston and Charlie Miller patches 2:35 of Drums in the audience source [3]\n- **gd1981-12-05.153870.nak304.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston, Charlie Miller; source: Jim Vita's Master Audience Cassettes; Nakamichi 300 mics + CP4 capsules > Sony D5M (TDK-MA C90) [6]\n- **gd1981-12-05.sbd.miller.111784.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Cassette [2]\n\n## Art and photos\n\n- Poster by @donelichterman: [The Grateful Dead Live: December 5, 1981 at Market Square Arena — A Night of Pure, Unfiltered Musical Fire - The Gratefu](https://thegratefuldeadlive.com/market-square-arena-a-night-of-pure-unfiltered-musical-fire/) [32]\n- Poster by Ron Delany Grateful Dead: [1981-12-05 Market Square Arena, Indianapolis, IN, USA - Jerry Garcia](https://jerrygarcia.com/show/1981-12-05-market-square-arena-indianapolis-in-usa/) [33]",

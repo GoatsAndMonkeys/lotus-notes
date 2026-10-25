@@ -209,7 +209,7 @@
      "id": 14,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -225,13 +225,13 @@
     "guests": [],
     "next": {
      "date": "1970-10-23",
-     "show": "live:grateful-dead:1970-10-23:mcdonough-arena-georgetown-university",
-     "venue": "McDonough Arena - Georgetown University"
+     "show": "live:grateful-dead:1970-10-23:mcdonough-arena-georgetown-u",
+     "venue": "McDonough Arena, Georgetown U."
     },
     "previous": {
-     "date": "1970-10-10",
-     "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college",
-     "venue": "Colden Auditorium - Queens College"
+     "date": "1970-10-11",
+     "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college",
+     "venue": "Marion Shea Auditorium, Paterson State College"
     },
     "recommended": {
      "identifier": "gd1970-10-17.aud.linton.miller.119329.flac16",
@@ -273,104 +273,275 @@
     "setlist": [
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 74,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 80,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 83,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 92,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 24,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 8,
+       "total_plays": 539
+      },
       "title": "Truckin"
      },
      {
       "key": "song:grateful-dead:thats-it-for-the-other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 115,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1970-06-24",
+        "show": "live:grateful-dead:1970-06-24:capitol-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 10,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 30,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:hard-to-handle",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 64,
+       "total_plays": 113
+      },
       "title": "Hard To Handle"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 44,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1970-10-04",
+        "show": "live:grateful-dead:1970-10-04:winterland-arena"
+       },
+       "plays_before": 68,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1970-10-10",
+        "show": "live:grateful-dead:1970-10-10:colden-auditorium-queens-college"
+       },
+       "plays_before": 64,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 109,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 113,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 44,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 3,
+       "total_plays": 302
+      },
       "title": "Going Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-10-11",
+        "show": "live:grateful-dead:1970-10-11:marion-shea-auditorium-paterson-state-college"
+       },
+       "plays_before": 44,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1970-09-19",
+        "show": "live:grateful-dead:1970-09-19:fillmore-east"
+       },
+       "plays_before": 132,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      }
     ],
@@ -379,26 +550,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 232,
-     "shows_in_archive": 1855,
+     "show_number": 289,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cleveland Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.183304+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.157879+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "zFfqtRNqptcND_ujs-kinD-Pkqs_l3C3ept-nFEvRAUEn4_031wkyTfP8O2IHXSJwKG7x1v7SUgnFB1pLcfrBg",
+   "revision": 41,
+   "signature": "eWsPYnNzRdfN-VDduYvN-TqAwxRFMIyOjkbW6uEwRy9ml6i1PDjiW8X4LS-vs6Da_bWMGZwhhdag5GMeNcSwDA",
    "subject_key": "live:grateful-dead:1970-10-17:cleveland-music-hall",
-   "updated_at": "2026-10-25T16:41:40.184037"
+   "updated_at": "2026-10-25T17:35:11.158783"
   }
  },
  "recommended": {

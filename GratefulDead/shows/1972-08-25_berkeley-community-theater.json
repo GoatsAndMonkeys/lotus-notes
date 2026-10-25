@@ -274,7 +274,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -456,83 +456,227 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1972-07-26",
+        "show": "live:grateful-dead:1972-07-26:paramount-theater"
+       },
+       "plays_before": 100,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 42,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 20,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 110,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 81,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:frozen-logger",
-      "stats": {},
+      "stats": {
+       "days_since": 309,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1971-10-21",
+        "show": "live:grateful-dead:1971-10-21:auditorium-theatre"
+       },
+       "plays_before": 6,
+       "total_plays": 9
+      },
       "title": "The Frozen Logger"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 72,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-08-12",
+        "show": "live:grateful-dead:1972-08-12:sacramento-memorial-auditorium"
+       },
+       "plays_before": 71,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 64,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 27,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 113,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 75,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-24",
+        "show": "live:grateful-dead:1972-08-24:berkeley-community-theater"
+       },
+       "plays_before": 128,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-22",
+        "show": "live:grateful-dead:1972-08-22:berkeley-community-theater"
+       },
+       "plays_before": 182,
+       "total_plays": 601
+      },
       "title": "The Other One"
      }
     ],
@@ -540,7 +684,16 @@
      {
       "from": "gd72-08-25.sbd.8474.unknown.sbeok.shnf",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1972-07-25",
+        "show": "live:grateful-dead:1972-07-25:paramount-theater"
+       },
+       "plays_before": 90,
+       "total_plays": 628
+      },
       "title": "Jam"
      }
     ],
@@ -548,26 +701,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 371,
-     "shows_in_archive": 1855,
+     "show_number": 444,
+     "shows_in_archive": 2097,
      "songs": 16,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Berkeley Community Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 18,
+   "parent_revision": 30,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.780926+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.686731+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 19,
-   "signature": "HpvSLsNZYJ0zUfe1HMxh_eNIUi3KYjXhFLYjp5U22ZZtEqecRpHshKq_ozpBWz3qJ-OOhTCm0yZw2eR5ETQpAg",
+   "revision": 31,
+   "signature": "w7ixfpDav9UShgY9tTOIgf-zqLnEqVdgn3gQoEWS1uK3wf6hBTZATwxeRH4dgXyHOlcuAxUUexiGNd-Ds1ftDQ",
    "subject_key": "live:grateful-dead:1972-08-25:berkeley-community-theater",
-   "updated_at": "2026-10-25T16:41:44.782710"
+   "updated_at": "2026-10-25T17:35:12.687779"
   },
   "liner": {
    "body_md": "## The recordings\n\n- **gd1972-08-25.sbd.miller.92840.sbeok.flac16** (recommended): soundboard; 16 songs; 143 min; rated 4.25/5 by 20 [1]\n- **gd1972-08-25.sbd.miller.bertha.94218.flac16**: soundboard; 16 songs; 143 min; rated 4.14/5 by 7 [2]\n- **gd72-08-25.sbd.8474.unknown.sbeok.shnf**: soundboard; 10 songs; 71 min; rated 3.75/5 by 8 [3]\n- **gd72-08-25.sbd.partial.deibert.12751.sbefail.shnf**: soundboard; 7 songs; 46 min; rated 5/5 by 1 [4]\n\n## Around the show\n\n- Jerry addressed the audience, noting Bobby had \"roses for lunch\" during technical issues [9]\n- The band performed a quick hint of this song between technical problems [9]\n- The Dead played a super long show, though the New Riders likely did not perform [13]\n- Bobby started the Weather Report Suite Prelude as the Set 2 tape ran out [1]\n- The reviewer considered this their apex show until 1977, despite others praising August 27, 1972 [9]\n- The reviewer thinks this show is superior to the highly praised August 27, 1972 Veneta performance [16]\n\n## Tapers and lineage\n\n- **gd1972-08-25.sbd.miller.92840.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (48k) [1]. Also: Rob Eaton lent the Dats recorder used to capture this specific song [1]\n- **gd1972-08-25.sbd.miller.bertha.94218.flac16**: transferred by Jay Ashley; source: SBD>>MR>>DAT>>FLAC>>DAW(Bertha)>>Audio DVD>>FLAC [2]. Also: Digitally remastered in 2008 using the Bertha Digital Audio Workstation by an archive.org user [2]\n- **gd72-08-25.sbd.8474.unknown.sbeok.shnf**: source: Soundboard [3]. Also: Partial Set 1 lineage: SBD to MR to PCM to DAT [3]\n- **gd72-08-25.sbd.partial.deibert.12751.sbefail.shnf**: source: Soundboard [4]. Also: Jace's tape transferred via 7\" Betty Board Reel to Fostex D5 optical S/PDIF out; Tim Deibert captured the audio to disk, with some Soundforge editing applied [4]",

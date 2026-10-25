@@ -279,7 +279,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -295,8 +295,8 @@
     "guests": [],
     "next": {
      "date": "1966-06-01",
-     "show": "live:grateful-dead:1966-06-01:unknown-location-possibly-owsleys-house-in-watts",
-     "venue": "Unknown Location (possibly Owsley’s house in Watts)"
+     "show": "live:grateful-dead:1966-06-01:scorpio-studio-outtakes",
+     "venue": "Scorpio Studio Outtakes"
     },
     "previous": {
      "date": "1966-03-25",
@@ -463,92 +463,194 @@
     "setlist": [
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-03-19",
+        "show": "live:grateful-dead:1966-03-19:carthay-studios"
+       },
+       "plays_before": 3,
+       "total_plays": 334
+      },
       "title": "Beat It On Down the Line"
      },
      {
       "key": "song:grateful-dead:standing-on-the-corner",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Standing on the Corner"
      },
      {
       "key": "song:grateful-dead:mindbender",
-      "stats": {},
+      "stats": {
+       "days_since": 138,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1966-01-01",
+        "show": "live:grateful-dead:1966-01-01:studio"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "Mindbender"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-03-19",
+        "show": "live:grateful-dead:1966-03-19:carthay-studios"
+       },
+       "plays_before": 5,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-03-19",
+        "show": "live:grateful-dead:1966-03-19:carthay-studios"
+       },
+       "plays_before": 6,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:i-know-its-a-sin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "I Know It's a Sin"
      },
      {
       "key": "song:grateful-dead:sick-and-tired",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Sick and Tired"
      },
      {
       "key": "song:grateful-dead:cream-puff-war",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 12
+      },
       "title": "Cream Puff War"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 42
+      },
       "title": "Sittin' On Top of the World"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-03-25",
+        "show": "live:grateful-dead:1966-03-25:troupers-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:tastebud",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Tastebud"
      },
      {
       "key": "song:grateful-dead:silver-threads-and-golden-needles",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 16
+      },
       "title": "Silver Threads and Golden Needles"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:you-dont-have-to-ask",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-03-25",
+        "show": "live:grateful-dead:1966-03-25:troupers-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "You Don't Have to Ask"
      },
      {
       "key": "song:grateful-dead:cream-puff-war",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 12
+      },
       "title": "Cream Puff War"
      }
     ],
@@ -556,46 +658,76 @@
      {
       "from": "gd1966-05-19.sbd.miller.106683.flac16",
       "key": "song:grateful-dead:its-a-sin",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-03-19",
+        "show": "live:grateful-dead:1966-03-19:carthay-studios"
+       },
+       "plays_before": 3,
+       "total_plays": 15
+      },
       "title": "It's A Sin"
      },
      {
       "from": "gd1966-05-19.sbd.miller.106683.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1966-05-19.sbd.miller.106683.flac16",
       "key": "song:grateful-dead:come-back-baby",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Come Back Baby"
      }
     ],
     "subject_key": "live:grateful-dead:1966-05-19:avalon-ballroom",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 16,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Standing on the Corner",
+      "It Hurts Me Too",
+      "I Know It's a Sin",
+      "Sick and Tired",
+      "Cream Puff War",
+      "Sittin' On Top of the World",
+      "New Minglewood Blues",
+      "Tastebud",
+      "Silver Threads and Golden Needles",
+      "It's All Over Now Baby Blue",
+      "Good Lovin'",
+      "Cream Puff War"
+     ],
+     "show_number": 18,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Avalon Ballroom"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.440234+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.183627+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "MsUiwdfN5yMdTxSS4uZGX0FD1jaolT5duk-GG3GmyZeQulUUxA75fDMbVbpmWS3K5YvbLruc-TPMZUeMGdE5CQ",
+   "revision": 40,
+   "signature": "CA8NW5Sfbh78gGt6pIf_5o1wWAa3vzxhxXzXlt10JVnm5EZZ6yXYtp0Bo7z40hq1zWrwPfChkcimbtpsPTdZBQ",
    "subject_key": "live:grateful-dead:1966-05-19:avalon-ballroom",
-   "updated_at": "2026-10-25T16:41:38.441116"
+   "updated_at": "2026-10-25T17:35:09.184500"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **It Hurts Me Too** (1 review): Pigpen is noted as being in fine form on this track [6]\n- **Viola Lee Blues** (1 review): Billy's drumming on this song is described as fantastic by the listener [12]\n- **Cream Puff War** (1 review): The source claims this was the first time the band played the song live [15]\n\n## The recordings\n\n- **gd66-05-19.sbd.lestatkat.6516.sbeok.shnf** (recommended): soundboard; 18 songs; 67 min; rated 4.64/5 by 53 [1]. Said about its sound: The recording quality is considered great for a tape made over thirty years ago; The sound is described as excellent for a concert that was thirty-eight years old; The bass drum sound is specifically highlighted as a positive aspect of the recording [6][8][10]\n- **gd1966-05-19.sbd.miller.106828.flac16**: soundboard; 17 songs; 67 min; rated 3.67/5 by 9 [3]\n- **gd1966-05-19.sbd.miller.106683.flac16**: soundboard; 17 songs; 67 min; rated 4.38/5 by 8 [2]\n- **gd66-05-19.sbd.sonicsolutions.82844.flac**: soundboard; 17 songs; 66 min; rated 2.33/5 by 3 [4]\n\n## Tapers and lineage\n\n- **gd66-05-19.sbd.lestatkat.6516.sbeok.shnf**: source: Soundboard [1]. Also: The recording first appeared on a few GDH hours, credited to David Gans; The audio lineage is listed as dat to fm broadcast to cdr to shn [1][7]\n- **gd1966-05-19.sbd.miller.106828.flac16**: transferred by David Gans and Charlie Miller; source: SBD -> Master Reel -> Dat -> Sonic Solutions -> CD [3]. Also: The file is an upgrade to shnid 106683 with minor level adjustments added [3]\n- **gd1966-05-19.sbd.miller.106683.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat -> Sonic Solutions -> CD [2]\n- **gd66-05-19.sbd.sonicsolutions.82844.flac**: source: SBD > Reel > DAT > Sonic Solutions > DAT > DAT > CDR [4]",

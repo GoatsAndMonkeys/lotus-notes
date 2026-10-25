@@ -456,7 +456,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -865,153 +865,391 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-07-04",
+        "show": "live:grateful-dead:1981-07-04:manor-downs"
+       },
+       "plays_before": 302,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1981-05-11",
+        "show": "live:grateful-dead:1981-05-11:veterans-memorial-coliseum"
+       },
+       "plays_before": 229,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 211,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 279,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-07-04",
+        "show": "live:grateful-dead:1981-07-04:manor-downs"
+       },
+       "plays_before": 222,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:keyboard-problems",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "keyboard problems"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 136,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 222,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 28,
+       "total_plays": 134
+      },
       "title": "C.C. Rider"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1981-05-15",
+        "show": "live:grateful-dead:1981-05-15:athletic-center-rutgers-u"
+       },
+       "plays_before": 160,
+       "total_plays": 326
+      },
       "title": "Ramble on Rose"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 114,
+       "total_plays": 294
+      },
       "title": "Let it Grow"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-07-08",
+        "show": "live:grateful-dead:1981-07-08:kiel-auditorium"
+       },
+       "plays_before": 127,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 182,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-07-08",
+        "show": "live:grateful-dead:1981-07-08:kiel-auditorium"
+       },
+       "plays_before": 105,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-07-07",
+        "show": "live:grateful-dead:1981-07-07:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 171,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-07-07",
+        "show": "live:grateful-dead:1981-07-07:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 183,
+       "total_plays": 389
+      },
       "title": "Eyes of the World"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-07-08",
+        "show": "live:grateful-dead:1981-07-08:kiel-auditorium"
+       },
+       "plays_before": 264,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-07-08",
+        "show": "live:grateful-dead:1981-07-08:kiel-auditorium"
+       },
+       "plays_before": 607,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-07-08",
+        "show": "live:grateful-dead:1981-07-08:kiel-auditorium"
+       },
+       "plays_before": 274,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-05-16",
+        "show": "live:grateful-dead:1981-05-16:barton-hall-cornell-u"
+       },
+       "plays_before": 174,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-07-04",
+        "show": "live:grateful-dead:1981-07-04:manor-downs"
+       },
+       "plays_before": 336,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1981-05-11",
+        "show": "live:grateful-dead:1981-05-11:veterans-memorial-coliseum"
+       },
+       "plays_before": 51,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 307,
+       "gap_shows": 81,
+       "last_played": {
+        "date": "1980-09-06",
+        "show": "live:grateful-dead:1980-09-06:state-fairgrounds"
+       },
+       "plays_before": 7,
+       "total_plays": 13
+      },
       "title": "Uncle John's Band Reprise"
      },
      {
       "key": "song:grateful-dead:playing-in-the-band-reprise",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 130,
+       "gap_shows": 37,
+       "last_played": {
+        "date": "1981-03-02",
+        "show": "live:grateful-dead:1981-03-02:cleveland-music-hall"
+       },
+       "plays_before": 35,
+       "total_plays": 123
+      },
       "title": "Playin' in the Band Reprise"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-07-05",
+        "show": "live:grateful-dead:1981-07-05:zoo-amphitheater"
+       },
+       "plays_before": 235,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-07-07",
+        "show": "live:grateful-dead:1981-07-07:kansas-city-municipal-auditorium-arena"
+       },
+       "plays_before": 292,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:casey-jones",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1981-04-30",
+        "show": "live:grateful-dead:1981-04-30:greensboro-coliseum"
+       },
+       "plays_before": 304,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -1019,46 +1257,65 @@
      {
       "from": "gd1981-07-10.152768.nak300.vita.miller.clugston.flac2496",
       "key": "song:grateful-dead:playing-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1981-05-11",
+        "show": "live:grateful-dead:1981-05-11:veterans-memorial-coliseum"
+       },
+       "plays_before": 11,
+       "total_plays": 80
+      },
       "title": "Playin' Reprise"
      },
      {
       "from": "gd1981-07-10.sonyecm.weinberg.laura.14195.sbeok.shnf",
       "key": "song:grateful-dead:brent-tech-problems",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Brent Tech Problems"
      },
      {
       "from": "gd1981-07-10.sonyecm.weinberg.laura.14195.sbeok.shnf",
       "key": "song:grateful-dead:cassidy-brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cassidy, Brown-Eyed Women"
      }
     ],
     "subject_key": "live:grateful-dead:1981-07-10:st-paul-civic-center",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 946,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "keyboard problems"
+     ],
+     "show_number": 1042,
+     "shows_in_archive": 2097,
      "songs": 27,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "St. Paul Civic Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.300865+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.664135+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "-BGGA4Xkj4TpwdubvJwaAFa_y7UdhkO62T5o0YNdVfrjfV_Uw_pIT8TeCBm6PL0yKT3Ky7kTGgt9My0krCZ3DA",
+   "revision": 42,
+   "signature": "b8zYR_eMVqd_V97riolFuk9lICPIBKKh5_gpJATzW3W9cj6rpOwtQo3_rl46yGA-g4xmJQhziSo3hiXC6bSnAw",
    "subject_key": "live:grateful-dead:1981-07-10:st-paul-civic-center",
-   "updated_at": "2026-10-25T16:41:54.302003"
+   "updated_at": "2026-10-25T17:35:17.665382"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Estimated Prophet** (2 reviews): Estimated into Eyes is the reviewer's favorite performance, with a beautiful transition just before Eyes begins; Estimated into Eyes is called very nice [21][24]\n- **Uncle John's Band** (2 reviews): Sequence runs Uncle John's, Playin', China Doll, Uncle John's, Playin'; nearly a palindrome but not exactly; Uncle John's and Playin' are short here, neither reaching ten minutes, so the post-drums set feels standard [13][14]\n- **Casey Jones** (2 reviews): Reviewer attended 16 years of shows and heard Casey Jones only this once; Reviewer predicted months ahead that Casey Jones would be played; friends scoffed, then it happened [17][20]\n- **Brown Eyed Women** (1 review): Brown Eyed Women is called great, and the whole first set rocks [24]\n- **Ramble on Rose** (1 review): Reviewer says no show with both C.C. Rider and Ramble on Rose has failed to sizzle [24]\n- **Don't Ease Me In** (1 review): Reviewer singles out Don't Ease Me In as a powerful highlight [20]\n\n## The recordings\n\n- **gd1981-07-10.135490.aud.bernstein.flac1644** (recommended): audience recording; 27 songs; 181 min [1]\n- **gd1981-07-10.172639.fob.aud.clugston.flac1648**: audience recording; 26 songs; 178 min; rated 4/5 by 1 [2]\n- **gd1981-07-10.176354.aud.bernstein.ackerman.noel.flac2496**: audience recording; 25 songs; 188 min [4]. Said about its sound: Bernstein's recording sounds upfront and centered [4]\n- **gd1981-07-10.152768.nak300.vita.miller.clugston.flac2496**: audience recording; 25 songs; 183 min [5]\n- **gd81-07-10.nak300.munder.7314.sbeok.shnf**: audience recording; 25 songs; 173 min; rated 4.27/5 by 30 [8]. Said about its sound: Reviewer calls it a very good-sounding first-generation audience tape, well beyond merely listenable; Clean audience tape with slightly more high end than the reviewer wanted; Recording of the second set sounds rich, replacing a bad earlier copy [13][14][21][23]\n\n## Around the show\n\n- A Garcia interview recorded in his hotel room before the show circulates and is called a gem [14]\n- Reviewer danced in a hallway and drew odd looks from Minnesotans in attendance [17]\n- Reviewer was a University of Minnesota student attending; left awe struck, though later shows impressed more [18]\n- P.A. static and fireworks can be heard during Samson [1]\n- Setlist is strong but played limply; the 5-11 show has a similar setlist and more interesting jams [15]\n- Reviewer sees it as a throwback show hinting at earlier eras; summer tour was nearing its end [16]\n- Reviewer's favorite of all shows attended; whole second set is great except Althea [20]\n- Reviewer finds the first set stronger than the second [23]\n\n## Tapers and lineage\n\n- **gd1981-07-10.135490.aud.bernstein.flac1644**: taped by Jon Bernstein; transferred by Andrew F.; source: AUD: Unknown mics & lead deck > Sony TC-D5 > Maxell XLII-S 90's. Recording by Jon Bernstein. [1]. Also: Audience recording by Bernstein, with patches from another source in Brown Eyed Women and Drums [1]\n- **gd1981-07-10.172639.fob.aud.clugston.flac1648**: transferred by Scott Clugston; source: Master (FOB) Audience Cassettes; unknown gear (12th row, section C, DFC), (Maxell MX-90) [2]. Also: Master cassette from anonymous benefactors; a Nakamichi 700 source supplies a 4:17 patch in Space, with pitch correction [2]\n- **gd1981-07-10.176354.aud.bernstein.ackerman.noel.flac2496**: taped by Master Cassettes Recorded by Jon Bernstein; transferred by Transfer & Mastering by Ray Ackerman Edited & Processed w/ add'l Mastering by Joe Noel January 25, 2026; source: ?? mics > ?? lead deck > Sony TC-D5 > Master Cassettes (Maxell XLIIS-90's) [4]. Also: Bernstein recording transferred by Ray Ackerman; mics or lead deck unknown, possibly Nak 300s; hand claps removed from patch [4]\n- **gd1981-07-10.152768.nak300.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston and Charlie Miller; source: Jim Vita's Master Audience Cassettes; Nakamichi 300 mics (behind the stage, patched out of John Steinthal)> Sony TC-D5M (Maxell XLII) [5]\n- **gd81-07-10.nak300.munder.7314.sbeok.shnf**: source: Audience Recording: Nak 300/cp1 [8]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1981-07-10 Ticket - Jerry Garcia](https://jerrygarcia.com/image/1981-07-10-ticket/) [26]",

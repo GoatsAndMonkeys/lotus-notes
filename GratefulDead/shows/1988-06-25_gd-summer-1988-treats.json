@@ -78,7 +78,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -142,22 +142,38 @@
     "setlist": [
      {
       "key": "song:grateful-dead:gd88-06-25-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-06-25 Sugaree"
      },
      {
       "key": "song:grateful-dead:gd88-06-25-stuck-inside-of-mobile-with-the-memphis-blues-again",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-06-25 Stuck Inside Of Mobile With The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:gd88-07-31-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-31 Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:gd88-07-31-west-la-fadeaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd88-07-31 West LA Fadeaway"
      }
     ],
@@ -165,11 +181,16 @@
     "subject_key": "live:grateful-dead:1988-06-25:gd-summer-1988-treats",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1435,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "gd88-06-25 Sugaree",
+      "gd88-06-25 Stuck Inside Of Mobile With The Memphis Blues Again",
+      "gd88-07-31 Little Red Rooster",
+      "gd88-07-31 West LA Fadeaway"
+     ],
+     "show_number": 1540,
+     "shows_in_archive": 2097,
      "songs": 4,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "gd88-06-25"
@@ -178,16 +199,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:06.272544+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:23.577971+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "hfm0YKWBvzOMIYI4Utg3DspBdKWn1QapxcIJH90mLeBstt4rlpsbxUpqAHrNtnN4Iv4Ph6kecPuzoOJZ4qLWAw",
+   "revision": 40,
+   "signature": "_BERffRr4g3Lmr5kO5qZk_jZIvKMB1yPcGIq5ZjcTrCAhgY_iO-NFRxzXNfBpMBy5RTm1Qc82E_aPJpCW-vcCQ",
    "subject_key": "live:grateful-dead:1988-06-25:gd-summer-1988-treats",
-   "updated_at": "2026-10-25T16:42:06.273255"
+   "updated_at": "2026-10-25T17:35:23.578458"
   }
  },
  "recommended": {

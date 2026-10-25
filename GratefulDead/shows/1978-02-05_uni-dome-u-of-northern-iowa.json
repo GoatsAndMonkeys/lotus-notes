@@ -411,7 +411,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -821,107 +821,282 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-01-30",
+        "show": "live:grateful-dead:1978-01-30:uptown-theater"
+       },
+       "plays_before": 179,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 176,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 163,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 238,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 195,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 28,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 69,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 97,
+       "total_plays": 311
+      },
       "title": "Friend of the Devil"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-02-03",
+        "show": "live:grateful-dead:1978-02-03:dane-county-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 172,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 91,
+       "total_plays": 379
+      },
       "title": "Samson and Delilah"
      },
      {
       "key": "song:grateful-dead:bobby-joke",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Bobby Joke"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 77,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 272
+      },
       "title": "Fire on the Mountain"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-01-31",
+        "show": "live:grateful-dead:1978-01-31:uptown-theater"
+       },
+       "plays_before": 239,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 340,
+       "total_plays": 1630
+      },
       "title": "drums"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 263,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-02-01",
+        "show": "live:grateful-dead:1978-02-01:uptown-theater"
+       },
+       "plays_before": 121,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 131,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-01-22",
+        "show": "live:grateful-dead:1978-01-22:mcarthur-court-u-of-oregon"
+       },
+       "plays_before": 74,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -929,58 +1104,91 @@
      {
       "from": "gd1978-02-05.151838.s2.aud.lamarre.vernon.sirmick.flac24",
       "key": "song:grateful-dead:tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 288,
+       "gap_shows": 70,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 3,
+       "total_plays": 24
+      },
       "title": "tuniung"
      },
      {
       "from": "gd1978-02-05.151838.s2.aud.lamarre.vernon.sirmick.flac24",
       "key": "song:grateful-dead:weirs-lumberjack-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Weir's lumberjack story"
      },
      {
       "from": "gd78-02-05.sbd.set2.samaritano.19471.sbeok.shnf",
       "key": "song:grateful-dead:weir-story",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1931,
+       "gap_shows": 290,
+       "last_played": {
+        "date": "1972-10-23",
+        "show": "live:grateful-dead:1972-10-23:milwaukee-performing-arts-center"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Weir Story"
      },
      {
       "from": "gd1978-02-05.123360.mtx.set2.dusborne.flac16",
       "key": "song:grateful-dead:bobs-lumberjack-story",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bob's Lumberjack Story"
      },
      {
       "from": "gd1978-02-05.151646.mtx.sb34.chappell.flac16",
       "key": "song:grateful-dead:lumberjack-joke",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "lumberjack joke"
      }
     ],
     "subject_key": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 665,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Bobby Joke"
+     ],
+     "show_number": 757,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Uni Dome, U of Northern Iowa"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.578442+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.364689+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "exNxgn_qKPa9xjepznvBbVoLdXibKXIe5Uw9FnN0YSR5MGQNu-ZTRk1GBJjnmMYsmz9dcHD3XK2VL4luwfzyAg",
+   "revision": 42,
+   "signature": "GIzjt9cvssNeUa01fEbK6AfY3JBOeVbSV6gxMFYqPmZ2qcpJAtTHmXt-9mRBNnheN4FS75BnBMGL1WWd4Q7fCw",
    "subject_key": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa",
-   "updated_at": "2026-10-25T16:41:51.582403"
+   "updated_at": "2026-10-25T17:35:15.365636"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **The Other One** (2 reviews): The performance is described as viciously powerful, prompting requests for superior soundboard recordings; Garcia's trilling through convincing chord changes is highlighted as a particularly nice guitar technique [13][18]\n- **Deal** (1 review): Garcia's solo features four improving verses, described as a masterful storytelling highlight [12]\n- **Around and Around** (1 review): The performance is described as awesome, lifting the listener out of a funk [20]\n\n## The recordings\n\n- **gd1978-02-05.138311.sbd.GEMS.flac16** (recommended): soundboard; 20 songs; 149 min; rated 3.75/5 by 4 [1]\n- **gd1978-02-05.151838.s2.aud.lamarre.vernon.sirmick.flac24**: audience recording; 11 songs; 86 min [2]\n- **gd1978-02-05.151646.mtx.sb34.chappell.flac16**: matrix (soundboard mixed with audience mics); 10 songs; 89 min; rated 2.5/5 by 2 [6]\n- **gd78-02-05.aud.set2.warner.19466.sbeok.shnf**: audience recording; 10 songs; 85 min; rated 4.61/5 by 28 [7]. Said about its sound: The audio is clean, showing minimal quality drop compared to the official Dick's Picks release; The recording quality is criticized as crummy, despite the performance being a standout of the year [14][17]\n\n## Around the show\n\n- Weir forgot the first verse, struggling to regain control from Garcia's extended solo [12]\n- A broken mic caused a bonus jam; Garcia played staccato picks at the roadie [15]\n- This thirty-minute version is considered on par with or exceeding shows from 1977 and 1978 [16]\n- The Scarlet jam is rated better than any 1977 performance the reviewer has heard [19]\n\n## Tapers and lineage\n\n- **gd1978-02-05.138311.sbd.GEMS.flac16**: transferred by Jamie Waddell and Jason Chastain; source: SBD Master Reel > Cassette > DAT; 16 bit 44.1kHz FLAC Level8 SBE Free; Speed Correction and Patching by Jason Chastain in Audition CC; Mastering by Jamie… [1]. Also: Set one is the first digital circulation, while set two appears on Dick's Picks 18 [1]\n- **gd1978-02-05.151838.s2.aud.lamarre.vernon.sirmick.flac24**: taped by Unknown; tape supplied by Doug Lamarre; transferred by SIRMick & Matt Vernon; source: Source: Unknown aud (low gen cassette) - From the collection of Doug Lamarre [2]. Also: Weir's joke was patched from Brian Schley's source, with transfer coordinated by Matt Vernon [2]\n- **gd1978-02-05.151646.mtx.sb34.chappell.flac16**: source: Matrixed (edited, mixed and converted) by Chris Chappell [6]. Also: Joe S's board was chosen over a newer GEMS source due to better tonal match with the Warner AUD [6]\n- **gd78-02-05.aud.set2.warner.19466.sbeok.shnf**: taped by Unknown; source: Audience Recording [7]\n\n## Art and photos\n\n- Fan art by LiveGRATEFUL.net: [GRATEFUL DEAD 1978-02-05 Sun Uni-Dome, University of Northern Iowa, Cedar Falls, IA](https://www.livegrateful.net/post/1239270227193/grateful-dead-1978-02-05-sun-uni-dome) [24]\n- Fan art by Grateful Dead: [Grateful Dead Uni-Dome - February 5, 1978](https://www.dead.net/show/february-5-1978) [25]\n- Fan art by LiveGRATEFUL.net: [GRATEFUL DEAD 1978-02-05 Sun Uni-Dome, University of Northern Iowa, Cedar Falls, IA](https://www.livegrateful.net/post/1239270227193/grateful-dead-1978-02-05-sun-uni-dome) [26]\n- Poster by Grateful Dead: [Grateful Dead Uni-Dome - February 5, 1978](https://www.dead.net/show/february-5-1978) [27]\n- Fan art by LiveGRATEFUL.net: [GRATEFUL DEAD 1978-02-05 Sun Uni-Dome, University of Northern Iowa, Cedar Falls, IA](https://www.livegrateful.net/post/1239270227193/grateful-dead-1978-02-05-sun-uni-dome) [28]",

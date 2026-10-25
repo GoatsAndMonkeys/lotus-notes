@@ -284,7 +284,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -375,8 +375,8 @@
     "guests": [],
     "next": {
      "date": "1977-02-17",
-     "show": "live:grateful-dead:1977-02-17:sound-city",
-     "venue": "Sound City"
+     "show": "live:grateful-dead:1977-02-17:arista-studios",
+     "venue": "Arista Studios"
     },
     "previous": {
      "date": "1976-10-15",
@@ -543,127 +543,334 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 162,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 145,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 107,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 65,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 89,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 143,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 237,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 250,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 87,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 95,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 285,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:good-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 89,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1976-10-03",
+        "show": "live:grateful-dead:1976-10-03:cobo-arena"
+       },
+       "plays_before": 136,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 38,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 50,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 78,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1976-10-14",
+        "show": "live:grateful-dead:1976-10-14:shrine-auditorium"
+       },
+       "plays_before": 97,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 24,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 77,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1976-10-15",
+        "show": "live:grateful-dead:1976-10-15:shrine-auditorium"
+       },
+       "plays_before": 285,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 179,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 92,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1976-09-30",
+        "show": "live:grateful-dead:1976-09-30:mershon-auditorium-osu"
+       },
+       "plays_before": 121,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 83,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1976-10-09",
+        "show": "live:grateful-dead:1976-10-09:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 132,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 804,
+       "gap_shows": 72,
+       "last_played": {
+        "date": "1974-10-19",
+        "show": "live:grateful-dead:1974-10-19:winterland-arena"
+       },
+       "plays_before": 139,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 803,
+       "gap_shows": 71,
+       "last_played": {
+        "date": "1974-10-20",
+        "show": "live:grateful-dead:1974-10-20:winterland-arena"
+       },
+       "plays_before": 44,
+       "total_plays": 57
+      },
       "title": "And We Bid You Good Night"
      }
     ],
@@ -671,7 +878,16 @@
      {
       "from": "gd1976-12-31.152247.aud.petrunis.flac2448",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 82,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1976-10-10",
+        "show": "live:grateful-dead:1976-10-10:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 32,
+       "total_plays": 1290
+      },
       "title": "Space"
      }
     ],
@@ -679,26 +895,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 587,
-     "shows_in_archive": 1855,
+     "show_number": 675,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cow Palace"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:49.584872+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.807912+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "4SG5iUXDgyDl1mB2Cldtq9WOFmX4ORzrvIUwLtr-AY9FzsaqNrsqsg4i6xs2mwfJeA-JUMx5hb2byeVd9_ZZDw",
+   "revision": 43,
+   "signature": "pKdywKvV2LsmU1JfQer2IAV0o-7VXhJjtAMPuoCL0Nj4yrpIcRFcTrs0us1-UOJGUvndqaTeP9RTseXSzJSpDQ",
    "subject_key": "live:grateful-dead:1976-12-31:cow-palace",
-   "updated_at": "2026-10-25T16:41:49.586260"
+   "updated_at": "2026-10-25T17:35:14.808735"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Good Lovin'** (1 review): Starts with a Bo Diddley rhythm to signal the song's arrival [5]\n- **Scarlet Begonias** (1 review): Listener realized something significant was happening halfway through the performance [5]\n\n## The recordings\n\n- **gd1976-12-31.pre-fm-sbd.winters.18524.shnf** (recommended): pre-FM broadcast master; 23 songs; 194 min [1]\n- **gd1976-12-31.152247.aud.petrunis.flac2448**: audience recording; 22 songs; 188 min [2]\n- **gd1976-12-31.fm.hollister.15114.shnf**: FM broadcast; 21 songs; 192 min; rated 4.75/5 by 4 [3]. Said about its sound: Phil sounds thundering in the mix during the over-the-top closer; A sub-second dropout occurs near the start of the FM recording [3][9]\n- **gd1976-12-31.fm.ksan.3863.shnf**: FM broadcast; 21 songs; 181 min; rated 5/5 by 1 [4]. Said about its sound: Instruments have good separation while the band plays the song hard [6]\n\n## Around the show\n\n- Band members agreed on the song choice during the micro drums section [6]\n- Graham rode a float as Father Time; balloons dropped behind the band [7]\n- Jim Haynie and Ken Kesey jumped onto the stage to dance [7]\n\n## Tapers and lineage\n\n- **gd1976-12-31.pre-fm-sbd.winters.18524.shnf**: source: PreFMR (KSAN) > PCM [1]. Also: Jack Warner seeded the pre-FM SBD transfer to the archive in 2003 [1]\n- **gd1976-12-31.152247.aud.petrunis.flac2448**: taped by Concert recording by Rich Petrunis.; transferred by Transferred by Andrew F. 04/2021; source: Mono Sony hand-held recorder (model unknown) > 3x TDK SD C90's (normal bias). Concert recording by Rich Petrunis, standing center floor about 30 feet out from… [2]. Also: John and Rich Petrunis provided the source tapes for this recording [2]\n- **gd1976-12-31.fm.hollister.15114.shnf**: taped by Jay Ashley; transferred by Charlie Miller; source: FM MR>SBM-1>CD>Cool Edit Pro>CD [3]. Also: Reel flips and alternate FM splices occur within the Wharf Rat track [3]\n- **gd1976-12-31.fm.ksan.3863.shnf**: transferred by Aaron Farsworth; source: FM-SB (KSAN-FM)>?>CDA [4]",

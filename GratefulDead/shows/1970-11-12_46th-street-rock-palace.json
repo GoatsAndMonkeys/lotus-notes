@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -133,32 +133,86 @@
     "setlist": [
      {
       "key": "song:grateful-dead:till-the-morning-comes",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1970-10-31",
+        "show": "live:grateful-dead:1970-10-31:gym-s-u-n-y"
+       },
+       "plays_before": 4,
+       "total_plays": 6
+      },
       "title": "Till the Morning Comes"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 87,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 91,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 67,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 77,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1970-11-11",
+        "show": "live:grateful-dead:1970-11-11:46th-street-rock-palace"
+       },
+       "plays_before": 77,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      }
     ],
@@ -167,26 +221,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 243,
-     "shows_in_archive": 1855,
+     "show_number": 301,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "46th Street Rock Palace"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:40.295250+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:11.275799+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "vYLOsQ2DSWVGap-6z8qrjM3sNnxKtu1LfqszVMxTyxsq4IdCjHLG5BXnR4dfptULGkekG44WGKiYgOoYppBCDA",
+   "revision": 40,
+   "signature": "ul6BcwOw3zf9BrymXp5_YdrJ0t9LqzSJp0WO5dwcwyE1e5XWTdvr-zk_6wW1fWD82pdbd4ob7bUTLZoM_YwSBA",
    "subject_key": "live:grateful-dead:1970-11-12:46th-street-rock-palace",
-   "updated_at": "2026-10-25T16:41:40.296275"
+   "updated_at": "2026-10-25T17:35:11.276438"
   }
  },
  "recommended": {

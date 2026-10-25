@@ -462,7 +462,7 @@
      "id": 26,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -886,113 +886,304 @@
     "setlist": [
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1989-02-05",
+        "show": "live:grateful-dead:1989-02-05:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 199,
+       "total_plays": 260
+      },
       "title": "Cold Rain And Snow"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 145,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 63,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1988-12-11",
+        "show": "live:grateful-dead:1988-12-11:long-beach-arena"
+       },
+       "plays_before": 212,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 117,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1988-10-18",
+        "show": "live:grateful-dead:1988-10-18:keifer-lakefront-arena"
+       },
+       "plays_before": 309,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 121,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1988-10-14",
+        "show": "live:grateful-dead:1988-10-14:miami-arena"
+       },
+       "plays_before": 348,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 104,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:how-long-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 6672,
+       "gap_shows": 1295,
+       "last_played": {
+        "date": "1970-11-07",
+        "show": "live:grateful-dead:1970-11-07:capitol-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 5
+      },
       "title": "How Long Blues"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1989-02-10",
+        "show": "live:grateful-dead:1989-02-10:great-western-la-forum"
+       },
+       "plays_before": 67,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 110,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:monkey-and-the-engineer",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2676,
+       "gap_shows": 520,
+       "last_played": {
+        "date": "1981-10-16",
+        "show": "live:grateful-dead:1981-10-16:club-melk-weg"
+       },
+       "plays_before": 42,
+       "total_plays": 44
+      },
       "title": "Monkey And The Engineer"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 151,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1988-09-14",
+        "show": "live:grateful-dead:1988-09-14:madison-square-garden"
+       },
+       "plays_before": 139,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 146,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1988-09-19",
+        "show": "live:grateful-dead:1988-09-19:madison-square-garden"
+       },
+       "plays_before": 213,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 273,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:stuck-inside-of-mobile-with-the-memphis-blues-again",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 31,
+       "total_plays": 79
+      },
       "title": "Stuck In Side Of Mobile With The Memphis Blues Again"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 1138,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 798,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 490,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 244,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 21,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 456,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:knocking-on-heavens-door",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 32,
+       "total_plays": 81
+      },
       "title": "Knockin' On Heaven's Door"
      }
     ],
@@ -1000,106 +1191,181 @@
      {
       "from": "gd1989-02-12.140914.dts.tobin.flac1644",
       "key": "song:grateful-dead:crowd-tuning",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1988-12-31",
+        "show": "live:grateful-dead:1988-12-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 12,
+       "total_plays": 20
+      },
       "title": "Crowd/Tuning (3 min)"
      },
      {
       "from": "gd1989-02-12.fob.french.31265.sbeok.flac24",
       "key": "song:grateful-dead:aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 117,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1988-10-18",
+        "show": "live:grateful-dead:1988-10-18:keifer-lakefront-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 8
+      },
       "title": "Aiko"
      },
      {
       "from": "gd89-02-12.sbd.presley.4680.sbeok.shnf",
       "key": "song:grateful-dead:cold-rain-and-snow-hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Cold Rain & Snow, Hell In A Bucket"
      },
      {
       "from": "gd89-02-12.sbd.presley.4680.sbeok.shnf",
       "key": "song:grateful-dead:memphis-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 24,
+       "total_plays": 65
+      },
       "title": "Memphis Blues"
      },
      {
       "from": "gd89-02-12.lai.429.sbefail.shnf",
       "key": "song:grateful-dead:drums-space",
-      "stats": {},
+      "stats": {
+       "days_since": 149,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1988-09-16",
+        "show": "live:grateful-dead:1988-09-16:madison-square-garden"
+       },
+       "plays_before": 30,
+       "total_plays": 55
+      },
       "title": "Drums, Space"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t01-cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t01 Cold Rain & Snow"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t02-hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t02 Hell In A Bucket"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t03-row-jimmy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t03 Row Jimmy"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t04-beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t04 Beat It On Down The Line"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t05-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t05 Promised Land"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t06-west-la-fadeaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t06 West LA Fadeaway"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t07-how-long-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t07 How Long Blues"
      },
      {
       "from": "gd1989-02-12.139800.s1.schoeps.pcm.oade.bryant.gastwirt.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd89-02-12-s1-t08-gimme-some-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd89-02-12 s1 t08 Gimme Some Lovin'"
      }
     ],
     "subject_key": "live:grateful-dead:1989-02-12:great-western-la-forum",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "How Long Blues",
+      "Monkey And The Engineer"
+     ],
      "first_in_archive": [],
-     "show_number": 1487,
-     "shows_in_archive": 1855,
+     "show_number": 1592,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Great Western LA Forum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 7,
+   "parent_revision": 19,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:08.106250+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.139866+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 8,
-   "signature": "1bSFI5qPcNlW3vRHFFDYsvKfcmrAev2UTDQOJjk5a34AofGB4bCXBbHhrB2xjzwbda0ooxEXz1htRVjQLUY4BQ",
+   "revision": 20,
+   "signature": "AVEI2DXQdthIQp12HfDOhSdfmOzDupw8LdbEXu8vgDQOUmdthjR3bmBTMDRhCrrf09RdZJybFWOtiV7fLKoHBw",
    "subject_key": "live:grateful-dead:1989-02-12:great-western-la-forum",
-   "updated_at": "2026-10-25T16:42:08.109730"
+   "updated_at": "2026-10-25T17:35:24.141214"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Stuck In Side Of Mobile With The Memphis Blues Again** (4 reviews): Weir feigned forgetting the lyrics to coax Dylan into stepping up to sing; Weir sang until the 'two cures' line, refusing the mic; Dylan came up late and took over [16][18][19][25]\n- **Cold Rain And Snow** (1 review): Opener described as fluid but slightly too polite [23]\n- **Monkey And The Engineer** (1 review): Surprised the crowd by appearing for the first time in 17 years [24]\n- **Alabama Getaway** (1 review): Garcia fumbled it slightly, but made up for it with nice playing [18]\n- **The Other One** (1 other source): Kodo drummer Yoshikazu Fujimoto joined the band during Drums and The Other One [2]\n- **Foolish Heart** (1 review): Oddly placed as the closer and, in this reviewer's view, thoroughly botched [19]\n- **Knockin' On Heaven's Door** (1 review): Dylan returned to sing on the closing encore [18]\n\n## The recordings\n\n- **gd1989-02-12.sbd.miller.89200.sbeok.flac16** (recommended): soundboard; 21 songs; 154 min; rated 4.5/5 by 4 [1]\n- **gd1989-02-12.fob.french.31265.sbeok.flac24**: source not stated; 22 songs; 160 min; rated 3/5 by 1 [7]\n- **gd1989-02-12.fob.french.sirmick.76126.sbeok.flac16**: source not stated; 21 songs; 154 min [8]\n- **gd1989-02-12.137005.sbd.miller.flac24**: soundboard; 21 songs; 156 min; rated 4/5 by 1 [2]\n\n## Around the show\n\n- Dylan, reportedly very drunk, joined in, seemed to be steering the setlist, and contributed little at first [16]\n- Dylan sat in from Monkey And The Engineer through the Memphis Blues number [17]\n- Hart's drumming was erratic and off the beat for most of the show, per the reviewer [19]\n- Dylan had said while rehearsing for the 1987 stadium tour that he mainly wanted to play along with the Dead; he seemed to be enjoying himself here, not drunk [20]\n- Parking-lot rumors predicted guests such as Dylan and Stephen Stills; most such rumors were usually wrong [24]\n- A good video of this show is in circulation, according to the reviewer [25]\n- Spencer Davis played guitar and sang on How Long Blues and Gimme Some Lovin' [2]\n- Dylan played guitar and sang from Iko Iko through Memphis Blues, and on the Not Fade Away and Heaven's Door encores [2]\n- This version lacks the excitement and youthful energy of the 1987 versions, according to the reviewer [23]\n\n## Tapers and lineage\n\n- **gd1989-02-12.sbd.miller.89200.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master -> Dat (48k) [1]\n- **gd1989-02-12.fob.french.31265.sbeok.flac24**: taped by Mike French; source: Sean Weber Small rig, Schoeps cmc?? (cardioid caps on mic bodies)ORTF -> Oade pre (m118?) -> Sony F1/Beta rig, line out -> Sony TC-D5M analog cassette master… [7]. Also: Taped from the same spot as the 2-10-89 and 2-11-89 shows and the December 1989 Forum run [7]\n- **gd1989-02-12.fob.french.sirmick.76126.sbeok.flac16**: taped by Mike French; transferred by 16 bit conversion by SirMick; source: Sean Weber Small rig, Schoeps cmc?? (cardioid caps on mic bodies) ORTF -> Oade pre (m118?) -> Sony F1/Beta rig, line out -> Sony TC-D5M analog cassette master… [8]. Also: Same taping spot as the other 1989 Forum shows, including 2-10, 2-11 and the December run; Two recordings were spliced to complete Heaven's Door; the last 2:08 comes from the Neuman source; Transfer downsampled to 16/44.1 with Adobe Audition and dithered with iZotope Ozone; a sub-second track gap was removed [8]\n- **gd1989-02-12.137005.sbd.miller.flac24**: transferred by Charlie Miller; source: SBD -> Cassette Master (TDK SA-X100) [2]",

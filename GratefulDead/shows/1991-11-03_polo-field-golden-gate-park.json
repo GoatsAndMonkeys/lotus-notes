@@ -507,10 +507,25 @@
      "id": 27,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Golden Gate",
+     "author_url": "https://www.wolfgangs.com/",
+     "id": 28,
+     "image_url": "https://images.wolfgangsvault.com/m/xlarge/GGP911103-01-FP/grateful-dead-fine-art-print-nov-3-1991.jpg",
+     "kind": "fanart",
+     "published_at": null,
+     "quote_or_claim": "Grateful Dead Vintage Concert Photo Fine Art Print from Golden Gate ....",
+     "site": "Wolfgang's",
+     "title": "Grateful Dead Vintage Concert Photo Fine Art Print from Golden Gate Park, Nov 3, 1991 at Wolfgang's",
+     "url": "https://www.wolfgangs.com/concert-and-band-photos/grateful-dead/fine-art-print/GGP911103-01.html",
      "wayback_timestamp": null,
      "wayback_url": null
     }
@@ -961,99 +976,224 @@
     "setlist": [
      {
       "key": "song:grateful-dead:wavy-gravy",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2691,
+       "gap_shows": 562,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Wavy Gravy"
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1991-09-21",
+        "show": "live:grateful-dead:1991-09-21:boston-garden"
+       },
+       "plays_before": 189,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-10-27",
+        "show": "live:grateful-dead:1991-10-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 515,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-10-27",
+        "show": "live:grateful-dead:1991-10-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 518,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:wang-dang-doodle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1991-10-28",
+        "show": "live:grateful-dead:1991-10-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 101
+      },
       "title": "Wang Dang Doodle"
      },
      {
       "key": "song:grateful-dead:born-on-the-bayou",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Born On The Bayou"
      },
      {
       "key": "song:grateful-dead:green-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Green River"
      },
      {
       "key": "song:grateful-dead:bad-moon-rising",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Bad Moon Rising"
      },
      {
       "key": "song:grateful-dead:proud-mary",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Proud Mary"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1991-10-31",
+        "show": "live:grateful-dead:1991-10-31:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 496,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:other-one",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1991-10-30",
+        "show": "live:grateful-dead:1991-10-30:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 550,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-10-27",
+        "show": "live:grateful-dead:1991-10-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 377,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:sunshine-daydream",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1991-09-22",
+        "show": "live:grateful-dead:1991-09-22:boston-garden"
+       },
+       "plays_before": 119,
+       "total_plays": 137
+      },
       "title": "Sunshine Daydream"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:forever-young",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Forever Young"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:touch-of-grey",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1991-10-27",
+        "show": "live:grateful-dead:1991-10-27:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 178,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:amazing-grace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4312,
+       "gap_shows": 906,
+       "last_played": {
+        "date": "1980-01-13",
+        "show": "live:grateful-dead:1980-01-13:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Amazing Grace"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:greensleeves",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Greensleeves (Played through PA for Bill Graham)"
      }
     ],
@@ -1061,40 +1201,813 @@
      {
       "from": "gd1991-11-03.AKG451.Darby.117753.Flac1644",
       "key": "song:grateful-dead:closing-comments",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Closing Comments"
      },
      {
       "from": "gd1991-11-03.sbd.bootleg.19292.sbeok.shnf",
       "key": "song:grateful-dead:introduction-by-david-graham",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Introduction By David Graham"
      }
     ],
     "subject_key": "live:grateful-dead:1991-11-03:polo-field-golden-gate-park",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1712,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Wavy Gravy",
+      "Amazing Grace"
+     ],
+     "first_in_archive": [
+      "Born On The Bayou",
+      "Green River",
+      "Bad Moon Rising",
+      "Proud Mary",
+      "Forever Young",
+      "Greensleeves (Played through PA for Bill Graham)"
+     ],
+     "show_number": 1817,
+     "shows_in_archive": 2097,
      "songs": 17,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Polo Field - Golden Gate Park"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:18.025668+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:26.966682+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "n6SsPiunZW9D-_AxyM8SPSqwORKmiDve4t2oDL_9J7mxpwsfKJRaJo9vNp09znic7PqfvNyoUepKwtye8WrLAw",
+   "revision": 17,
+   "signature": "dfRrR2pTbtdBVxHQbtohwGgej6LeGoTuYEVKgjq5F8ruxXgtGugN6GgHE4CzbYmHo-Aca1yda-JBNY2QQFnnAw",
    "subject_key": "live:grateful-dead:1991-11-03:polo-field-golden-gate-park",
-   "updated_at": "2026-10-25T16:42:18.030383"
+   "updated_at": "2026-10-25T17:35:26.967830"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Wang Dang Doodle** (1 other source): John Popper of Blues Traveler played harmonica on Wang Dang Doodle [2]\n- **Born On The Bayou** (1 other source): John Fogerty joined the band from Born On The Bayou through Proud Mary [1]\n- **Truckin'** (1 other source): The Truckin' into Wharf Rat stretch is called excellent [8]\n- **Amazing Grace** (1 other source): Amazing Grace was performed by just Joan Baez and Kris Kristofferson [1]\n\n## Setlist highlights\n\n- **Wavy Gravy**: back after 562 archived shows (2691 days); rare: 3 archived performances [27]\n- **Born On The Bayou**: earliest performance in the archive; legendary: the only archived performance [27]\n- **Green River**: earliest performance in the archive; legendary: the only archived performance [27]\n- **Bad Moon Rising**: earliest performance in the archive; legendary: the only archived performance [27]\n- **Proud Mary**: earliest performance in the archive; legendary: the only archived performance [27]\n- **Forever Young**: earliest performance in the archive; legendary: the only archived performance [27]\n- **Amazing Grace**: back after 906 archived shows (4312 days); mythic rare: 2 archived performances [27]\n- **Greensleeves (Played through PA for Bill Graham)**: earliest performance in the archive; legendary: the only archived performance [27]\n\n## The recordings\n\n- **gd1991-11-03.150807.ultra.miller.flac1648** (recommended): soundboard; 17 songs; 111 min; rated 2.5/5 by 2 [1]\n- **gd1991-11-03.AKG451.Darby.117753.Flac1644**: matrix (soundboard mixed with audience mics); 17 songs; 101 min [2]\n- **gd1991-11-03.fm.kome.34912.sbefail.flac16**: FM broadcast; 14 songs; 88 min; rated 3/5 by 5 [8]. Said about its sound: Crisp-sounding FM copy that mostly avoids an FM character; the reviewer prefers it to other copies listed; Good-quality transfer from an FM broadcast [8][15]\n- **gd1991-11-03.AKG451.Darby.117752.Flac2448**: matrix (soundboard mixed with audience mics); 17 songs; 101 min [3]\n\n## Around the show\n\n- Satriani's set earlier in the day was inspired, according to this attendee who stood near the front [17]\n- The event came together spontaneously on a beautiful California morning, as if word had simply been put out [20]\n- John Popper, Neil Young and CSN were moving, with Ohio a highlight; Fogerty and Jerry worked well together [20]\n- Day featured a long Fogerty set of perhaps 20 songs, followed by two full Grateful Dead sets [20]\n- Attendee in Eugene learned of Bill Graham's death from a friend, who drove them down for the free show in Golden Gate Park [24]\n- Rumors said Jefferson Airplane would play; that did not happen, but the day was still tremendous fun [24]\n- Estimated 350,000 to 500,000 people came although no lineup had been announced [25]\n- Free Graham tribute drew an estimated 300,000 people to Golden Gate Park [26]\n- Reviewer links the Fogerty songs here to Jerry and Bob's May 1989 AIDS benefit set with Fogerty at Oakland Coliseum [19]\n\n## Tapers and lineage\n\n- **gd1991-11-03.150807.ultra.miller.flac1648**: taped by Don Pearson and Dan Healy; transferred by All Transfers and Mastering by Charlie Miller  October 3, 2020; source: UltraMatrix SBD > DAT Master (48k) [1]\n- **gd1991-11-03.AKG451.Darby.117753.Flac1644**: taped by Mike Darby; transferred by Keo; source: Master Audience Recorded By Mr. Darby; AKGC451EB/CK1's (DIN/50 Feet ROC/Behind Soundboard/7 Feet High)> Whirlwind Phantoms>Sony TC-D5M,Tapes:Sony… [2]. Also: Audience recording made with AKG 451 microphones by Darby, who shared the source [2]\n- **gd1991-11-03.fm.kome.34912.sbefail.flac16**: transferred by Dub Irie; source: FM > VHS HiFi (Maxell XL120) [8]\n- **gd1991-11-03.AKG451.Darby.117752.Flac2448**: taped by Mike Darby; transferred by Keo; source: Master Audience Recorded By Mr. Darby; AKGC451EB/CK1's (DIN/50 Feet ROC/Behind Soundboard/7 Feet High)> Whirlwind Phantoms>Sony TC-D5M,Tapes:Sony… [3]\n\n## Art and photos\n\n- Fan art by Golden Gate: [Grateful Dead Vintage Concert Photo Fine Art Print from Golden Gate Park, Nov 3, 1991 at Wolfgang's](https://www.wolfgangs.com/concert-and-band-photos/grateful-dead/fine-art-print/GGP911103-01.html) [28]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Don Pearson and Dan Healy",
+     "author_url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22",
+     "credits": [
+      {
+       "name": "Don Pearson and Dan Healy",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22"
+      },
+      {
+       "name": "All Transfers and Mastering by Charlie Miller  October 3, 2020",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22All%20Transfers%20and%20Mastering%20by%20Charlie%20Miller%20%20October%203%2C%202020%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2020-11-07",
+     "quote_or_claim": "17-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.150807.ultra.miller.flac1648",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Mike Darby",
+     "author_url": "https://archive.org/search?query=taper%3A%22Mike%20Darby%22",
+     "credits": [
+      {
+       "name": "Mike Darby",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Mike%20Darby%22"
+      },
+      {
+       "name": "Keo",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Keo%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2012-01-01",
+     "quote_or_claim": "17-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.AKG451.Darby.117753.Flac1644",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Mike Darby",
+     "author_url": "https://archive.org/search?query=taper%3A%22Mike%20Darby%22",
+     "credits": [
+      {
+       "name": "Mike Darby",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Mike%20Darby%22"
+      },
+      {
+       "name": "Keo",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Keo%22"
+      }
+     ],
+     "id": 3,
+     "kind": "archive_item",
+     "published_at": "2012-01-01",
+     "quote_or_claim": "17-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.AKG451.Darby.117752.Flac2448",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "unknown",
+     "author_url": "https://archive.org/search?query=transferer%3A%22unknown%22",
+     "credits": [
+      {
+       "name": "unknown",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22unknown%22"
+      }
+     ],
+     "id": 4,
+     "kind": "archive_item",
+     "published_at": "2008-05-10",
+     "quote_or_claim": "15-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field - Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Thanks to Bill Reutelhuber for the source Dat",
+     "author_url": "https://archive.org/search?query=taper%3A%22Thanks%20to%20Bill%20Reutelhuber%20for%20the%20source%20Dat%22",
+     "credits": [
+      {
+       "name": "Thanks to Bill Reutelhuber for the source Dat",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Thanks%20to%20Bill%20Reutelhuber%20for%20the%20source%20Dat%22"
+      },
+      {
+       "name": "Charlie Miller",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Charlie%20Miller%22"
+      }
+     ],
+     "id": 5,
+     "kind": "archive_item",
+     "published_at": "2010-05-21",
+     "quote_or_claim": "14-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.miller.107797.flac16",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Don Pearson and Dan Healy",
+     "author_url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22",
+     "credits": [
+      {
+       "name": "Don Pearson and Dan Healy",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22"
+      },
+      {
+       "name": "All Transfers and Mastering by Charlie Miller  October 2, 2020",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22All%20Transfers%20and%20Mastering%20by%20Charlie%20Miller%20%20October%202%2C%202020%22"
+      }
+     ],
+     "id": 6,
+     "kind": "archive_item",
+     "published_at": "2021-02-05",
+     "quote_or_claim": "14-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.151625.sbd.cm.miller.t.flac16",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Don Pearson and Dan Healy",
+     "author_url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22",
+     "credits": [
+      {
+       "name": "Don Pearson and Dan Healy",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Don%20Pearson%20and%20Dan%20Healy%22"
+      },
+      {
+       "name": "All Transfers and Mastering by Charlie Miller  October 2, 2020",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22All%20Transfers%20and%20Mastering%20by%20Charlie%20Miller%20%20October%202%2C%202020%22"
+      }
+     ],
+     "id": 7,
+     "kind": "archive_item",
+     "published_at": "2020-11-07",
+     "quote_or_claim": "14-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.150808.sbd.miller.flac2496",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Dub Irie",
+     "author_url": "https://archive.org/search?query=transferer%3A%22Dub%20Irie%22",
+     "credits": [
+      {
+       "name": "Dub Irie",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Dub%20Irie%22"
+      }
+     ],
+     "id": 8,
+     "kind": "archive_item",
+     "published_at": "2008-05-10",
+     "quote_or_claim": "14-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field - Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Pitch Corrected Audience (48/24) by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%22Pitch%20Corrected%20Audience%20%2848/24%29%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "Pitch Corrected Audience (48/24) by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Pitch%20Corrected%20Audience%20%2848/24%29%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 9,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153785.pitch-corr-aud.darby.tobin.flac16",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Pitch Corrected Audience (44/16) by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%22Pitch%20Corrected%20Audience%20%2844/16%29%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "Pitch Corrected Audience (44/16) by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Pitch%20Corrected%20Audience%20%2844/16%29%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 10,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song AUD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153784.pitch-corr-aud.darby.tobin.flac24",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "SBD + AUD Matrix 2 Source Mix (44/16) by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%22SBD%20%2B%20AUD%20Matrix%202%20Source%20Mix%20%2844/16%29%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "SBD + AUD Matrix 2 Source Mix (44/16) by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22SBD%20%2B%20AUD%20Matrix%202%20Source%20Mix%20%2844/16%29%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 11,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153781.mtx.tobin.flac16",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "SBD + AUD Matrix 2 Source Mix (48/24) by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%22SBD%20%2B%20AUD%20Matrix%202%20Source%20Mix%20%2848/24%29%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "SBD + AUD Matrix 2 Source Mix (48/24) by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22SBD%20%2B%20AUD%20Matrix%202%20Source%20Mix%20%2848/24%29%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 12,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song MTX recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153780.mtx.tobin.flac24",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%225.1%20LPCM%20Surround%20Sound%20Mix%20%2848k%29%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%225.1%20LPCM%20Surround%20Sound%20Mix%20%2848k%29%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 13,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153783.5-1.tobin.flac1648",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "DTS-Audio-CD 5.1 Mix by Kevin Tobin",
+     "author_url": "https://archive.org/search?query=transferer%3A%22DTS-Audio-CD%205.1%20Mix%20by%20Kevin%20Tobin%22",
+     "credits": [
+      {
+       "name": "DTS-Audio-CD 5.1 Mix by Kevin Tobin",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22DTS-Audio-CD%205.1%20Mix%20by%20Kevin%20Tobin%22"
+      }
+     ],
+     "id": 14,
+     "kind": "archive_item",
+     "published_at": "2021-10-08",
+     "quote_or_claim": "14-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Polo Field, Golden Gate Park on 1991-11-03",
+     "url": "https://archive.org/details/gd1991-11-03.153782.dts.tobin.flac16",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "smgarcia",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22smgarcia%22",
+     "claim": "Crisp-sounding FM copy that mostly avoids an FM character; the reviewer prefers it to other copies listed",
+     "id": 15,
+     "kind": "archive_review",
+     "published_at": "2008-08-03",
+     "quote_or_claim": "over the other copies here. Crisp sound, and it doesn't really have that FM feel to it (it kind of does, but it's not bad at all!) Recommend.",
+     "site": "Internet Archive",
+     "title": "Review: Fantastic Upgrade (gd1991-11-03.fm.kome.34912.sbefail.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "cb18201",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22cb18201%22",
+     "id": 16,
+     "kind": "archive_review",
+     "published_at": "2009-03-28",
+     "quote_or_claim": "yeah this is by far the best version on here. great show",
+     "site": "Internet Archive",
+     "title": "Review: :-) (gd1991-11-03.fm.kome.34912.sbefail.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "drifterhatesleafblowers",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22drifterhatesleafblowers%22",
+     "claim": "Satriani's set earlier in the day was inspired, according to this attendee who stood near the front",
+     "id": 17,
+     "kind": "archive_review",
+     "published_at": "2009-05-10",
+     "quote_or_claim": "I took this review from one of the other versions of this concert on the archive. It tells the story Reviewer: timbolimboli - - May 21, 2006 Subject: A very…",
+     "site": "Internet Archive",
+     "title": "Review: Bootleg Review (gd1991-11-03.sbd.bootleg.19292.sbeok.shnf)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "cordedpoodle",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22cordedpoodle%22",
+     "id": 18,
+     "kind": "archive_review",
+     "published_at": "2009-10-15",
+     "quote_or_claim": "Good feelings reign. Welnick sounds good. Beautiful China Cat. Good to great FM sound.",
+     "site": "Internet Archive",
+     "title": "Review: Great Show all around (gd1991-11-03.sbd.bootleg.19292.sbeok.shnf)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Brick Meister",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Brick%20Meister%22",
+     "claim": "Reviewer links the Fogerty songs here to Jerry and Bob's May 1989 AIDS benefit set with Fogerty at Oakland Coliseum",
+     "id": 19,
+     "kind": "archive_review",
+     "published_at": "2010-01-10",
+     "quote_or_claim": "Anyone know how to locate quality recordings of the set Jerry and Bob played with Fogerty at the Aid's Benefit at Oakland Coliseum in May of 1989? The tunes at…",
+     "site": "Internet Archive",
+     "title": "Review: Jerry and Bob with Fogerty at the Coliseum (gd1991-11-03.fm.kome.34912.sbefail.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "spikedriver",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22spikedriver%22",
+     "claim": "The event came together spontaneously on a beautiful California morning, as if word had simply been put out",
+     "id": 20,
+     "kind": "archive_review",
+     "published_at": "2010-09-14",
+     "quote_or_claim": "Excellent recap leafblower. It was a real human event full of emotion . It was quite surreal because it just happened like the old days someone was told to put…",
+     "site": "Internet Archive",
+     "title": "Review: Memorial BG (gd1991-11-03.sbd.bootleg.19292.sbeok.shnf)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "GDAEN",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22GDAEN%22",
+     "id": 21,
+     "kind": "archive_review",
+     "published_at": "2011-01-13",
+     "quote_or_claim": "http://havenvideo.com/viewtopic.php?f=41&t=67473 Fogerty in 89 with JG&BW is at YouTube ... in HD too",
+     "site": "Internet Archive",
+     "title": "Review: Free video of this free concert (gd1991-11-03.sbd.bootleg.19292.sbeok.shnf)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "GDAEN",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22GDAEN%22",
+     "id": 22,
+     "kind": "archive_review",
+     "published_at": "2011-01-13",
+     "quote_or_claim": "http://havenvideo.com/viewtopic.php?f=41&t=67473 Fogerty in 89 with JG&BW is at YouTube ... in HD too",
+     "site": "Internet Archive",
+     "title": "Review: Free video of this free concert (gd1991-11-03.sbd.miller.107797.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.miller.107797.flac16#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "GDAEN",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22GDAEN%22",
+     "id": 23,
+     "kind": "archive_review",
+     "published_at": "2011-01-13",
+     "quote_or_claim": "http://havenvideo.com/viewtopic.php?f=41&t=67473 Fogerty in 89 with JG&BW is at YouTube ... in HD too",
+     "site": "Internet Archive",
+     "title": "Review: Free video of this free concert (gd1991-11-03.fm.kome.34912.sbefail.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "njpg",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22njpg%22",
+     "claim": "Attendee in Eugene learned of Bill Graham's death from a friend, who drove them down for the free show in Golden Gate Park",
+     "id": 24,
+     "kind": "archive_review",
+     "published_at": "2011-02-20",
+     "quote_or_claim": "It was a cold November morning in Eugene when a buddy of mine told me that Bill Graham had died, that there was a free show in Golden Gate the next day, and…",
+     "site": "Internet Archive",
+     "title": "Review: Great time (gd1991-11-03.fm.kome.34912.sbefail.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.fm.kome.34912.sbefail.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "TheProdigalSon",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22TheProdigalSon%22",
+     "claim": "Estimated 350,000 to 500,000 people came although no lineup had been announced",
+     "id": 25,
+     "kind": "archive_review",
+     "published_at": "2012-04-04",
+     "quote_or_claim": "This is the \"Laughter, Love and Music\" concert in memory of Bill Graham who had just died the week before leaving a Heuy Lewis concert along with 3 other…",
+     "site": "Internet Archive",
+     "title": "Review: Free concert to honor Bill Graham (gd1991-11-03.sbd.miller.107797.flac16)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.miller.107797.flac16#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "zdwiel",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22zdwiel%22",
+     "claim": "Free Graham tribute drew an estimated 300,000 people to Golden Gate Park",
+     "id": 26,
+     "kind": "archive_review",
+     "published_at": "2012-11-03",
+     "quote_or_claim": "http://en.wikipedia.org/wiki/Bill_Graham_(promoter)#Death On November 3, 1991, a free concert called \"Laughter, Love and Music\" was held at Golden Gate Park to…",
+     "site": "Internet Archive",
+     "title": "Review: Good Show (gd1991-11-03.sbd.bootleg.19292.sbeok.shnf)",
+     "url": "https://archive.org/details/gd1991-11-03.sbd.bootleg.19292.sbeok.shnf#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 27,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2096 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Golden Gate",
+     "author_url": "https://www.wolfgangs.com/",
+     "id": 28,
+     "image_url": "https://images.wolfgangsvault.com/m/xlarge/GGP911103-01-FP/grateful-dead-fine-art-print-nov-3-1991.jpg",
+     "kind": "fanart",
+     "published_at": null,
+     "quote_or_claim": "Grateful Dead Vintage Concert Photo Fine Art Print from Golden Gate ....",
+     "site": "Wolfgang's",
+     "title": "Grateful Dead Vintage Concert Photo Fine Art Print from Golden Gate Park, Nov 3, 1991 at Wolfgang's",
+     "url": "https://www.wolfgangs.com/concert-and-band-photos/grateful-dead/fine-art-print/GGP911103-01.html",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "gd1991-11-03.fm.kome.34912.sbefail.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 15,
+      "text": "Crisp-sounding FM copy that mostly avoids an FM character; the reviewer prefers it to other copies listed",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 17,
+      "text": "Satriani's set earlier in the day was inspired, according to this attendee who stood near the front",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 19,
+      "text": "Reviewer links the Fogerty songs here to Jerry and Bob's May 1989 AIDS benefit set with Fogerty at Oakland Coliseum",
+      "type": "compare"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 20,
+      "text": "The event came together spontaneously on a beautiful California morning, as if word had simply been put out",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 20,
+      "text": "John Popper, Neil Young and CSN were moving, with Ohio a highlight; Fogerty and Jerry worked well together",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 20,
+      "text": "Day featured a long Fogerty set of perhaps 20 songs, followed by two full Grateful Dead sets",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 24,
+      "text": "Attendee in Eugene learned of Bill Graham's death from a friend, who drove them down for the free show in Golden Gate Park",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 24,
+      "text": "Rumors said Jefferson Airplane would play; that did not happen, but the day was still tremendous fun",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 25,
+      "text": "Estimated 350,000 to 500,000 people came although no lineup had been announced",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 26,
+      "text": "Free Graham tribute drew an estimated 300,000 people to Golden Gate Park",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 26,
+      "text": "Acts supporting the tribute included Santana, Robin Williams, a reunited Journey, John Fogerty and Crosby, Stills, Nash & Young",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Born On The Bayou",
+      "song_key": "song:grateful-dead:born-on-the-bayou",
+      "src": 1,
+      "text": "John Fogerty joined the band from Born On The Bayou through Proud Mary",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Amazing Grace",
+      "song_key": "song:grateful-dead:amazing-grace",
+      "src": 1,
+      "text": "Amazing Grace was performed by just Joan Baez and Kris Kristofferson",
+      "type": "song"
+     },
+     {
+      "recording": "gd1991-11-03.AKG451.Darby.117753.Flac1644",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Audience recording made with AKG 451 microphones by Darby, who shared the source",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Bruce Hornsby did not play with the band at this show",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Wang Dang Doodle",
+      "song_key": "song:grateful-dead:wang-dang-doodle",
+      "src": 2,
+      "text": "John Popper of Blues Traveler played harmonica on Wang Dang Doodle",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 4,
+      "text": "Neil Young played guitar and sang with the band",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 4,
+      "text": "Joan Baez, Graham Nash and Kris Kristofferson all contributed vocals",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Truckin'",
+      "song_key": "song:grateful-dead:trucking",
+      "src": 8,
+      "text": "The Truckin' into Wharf Rat stretch is called excellent",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 8,
+      "text": "The segment with Fogerty is called an all-time classic; the set was focused and well played",
+      "type": "scene"
+     },
+     {
+      "recording": "gd1991-11-03.fm.kome.34912.sbefail.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 8,
+      "text": "Good-quality transfer from an FM broadcast",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1991-11-03:polo-field-golden-gate-park"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 21,
+    "facts_hash": "ff7e73bdbf132d9dc50ddf699c1d1333c33b8047af8ca2f80e55db60920bbd3f",
+    "generated_at": "2026-10-25T17:33:59.627175+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "565056a61bd58cbfdefbe3c0c6598f70061a2af1f42432e4ea7aeb3a98c2f39f",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 23.2
+   },
+   "revision": 1,
+   "signature": "2etuaecNg85EdpQkNKGYC5MAuB_N8gneFGrBjKwp0EacfBCvyrYSI7Zrr4QTKi1Xm575JjnsVSQTqlLeeR6GDA",
+   "subject_key": "live:grateful-dead:1991-11-03:polo-field-golden-gate-park",
+   "updated_at": "2026-10-25T17:33:59.632787"
   }
  },
  "recommended": {

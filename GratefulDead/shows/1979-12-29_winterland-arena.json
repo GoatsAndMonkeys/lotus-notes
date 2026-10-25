@@ -69,7 +69,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -133,158 +133,374 @@
     "setlist": [
      {
       "key": "song:grateful-dead:our-new-name-is-going-to-be-the-just-exactly-perfect-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Our new name is going to be 'The Just Exactly Perfect Band'"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 265,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 131,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 175,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-12-11",
+        "show": "live:grateful-dead:1979-12-11:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 195,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 183,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1979-12-10",
+        "show": "live:grateful-dead:1979-12-10:soldiers-and-sailors-memorial-hall"
+       },
+       "plays_before": 238,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 142,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 208,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 234,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 229,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 245,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 351,
+       "gap_shows": 73,
+       "last_played": {
+        "date": "1979-01-12",
+        "show": "live:grateful-dead:1979-01-12:the-spectrum"
+       },
+       "plays_before": 77,
+       "total_plays": 168
+      },
       "title": "It Must Have Been the Roses"
      },
      {
       "key": "song:grateful-dead:sunrise",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 469,
+       "gap_shows": 107,
+       "last_played": {
+        "date": "1978-09-16",
+        "show": "live:grateful-dead:1978-09-16:gizah-sound-and-light-theater"
+       },
+       "plays_before": 33,
+       "total_plays": 34
+      },
       "title": "Sunrise"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 304,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 285,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-12-27",
+        "show": "live:grateful-dead:1979-12-27:oakland-auditorium-arena"
+       },
+       "plays_before": 288,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:china-doll",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 235,
+       "gap_shows": 51,
+       "last_played": {
+        "date": "1979-05-08",
+        "show": "live:grateful-dead:1979-05-08:rec-hall-penn-state-u"
+       },
+       "plays_before": 33,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 218,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 480,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 263,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 304,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-12-28",
+        "show": "live:grateful-dead:1979-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 81,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-12-26",
+        "show": "live:grateful-dead:1979-12-26:oakland-auditorium-arena"
+       },
+       "plays_before": 161,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1979-12-29:winterland-arena",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 810,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Sunrise"
+     ],
+     "first_in_archive": [
+      "Our new name is going to be 'The Just Exactly Perfect Band'"
+     ],
+     "show_number": 906,
+     "shows_in_archive": 2097,
      "songs": 24,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Winterland Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.211460+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.372755+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "8HWijtaiRApzOnG_ggTfLeA5uoCBTt-zIrWnOa-nw6yNu-_NdHs9Er2vlYMdrNMs1OFpkJT2XHuWMkm9EzaZCw",
+   "revision": 41,
+   "signature": "9vRvdAOA26knl3rOu9lLr9WWFx41cVcPJQZ-ut_hc2WctRuRwOWVvIN59U_o12zh6WJXZJEtMRv_KNuuQI5FAg",
    "subject_key": "live:grateful-dead:1979-12-29:winterland-arena",
-   "updated_at": "2026-10-25T16:41:53.212101"
+   "updated_at": "2026-10-25T17:35:16.373429"
   }
  },
  "recommended": {

@@ -765,7 +765,7 @@
      "id": 37,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1666,125 +1666,318 @@
     "setlist": [
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 165,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 355,
+       "gap_shows": 76,
+       "last_played": {
+        "date": "1989-04-05",
+        "show": "live:grateful-dead:1989-04-05:crisler-arena"
+       },
+       "plays_before": 83,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:just-a-little-light",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 14,
+       "total_plays": 21
+      },
       "title": "Just A Little Light"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 111,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 218,
+       "gap_shows": 39,
+       "last_played": {
+        "date": "1989-08-20",
+        "show": "live:grateful-dead:1989-08-20:uptown-theater"
+       },
+       "plays_before": 173,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:picasso-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 9,
+       "total_plays": 81
+      },
       "title": "Picasso Moon"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1990-03-14",
+        "show": "live:grateful-dead:1990-03-14:capital-centre"
+       },
+       "plays_before": 226,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:blow-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 22,
+       "total_plays": 26
+      },
       "title": "Blow Away"
      },
      {
       "key": "song:grateful-dead:wait-a-minute-rap",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "wait-a-minute rap"
      },
      {
       "key": "song:grateful-dead:blow-away",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 22,
+       "total_plays": 26
+      },
       "title": "Blow Away"
      },
      {
       "key": "song:grateful-dead:built-to-last",
-      "stats": {},
+      "stats": {
+       "days_since": 158,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1989-10-19",
+        "show": "live:grateful-dead:1989-10-19:the-spectrum"
+       },
+       "plays_before": 20,
+       "total_plays": 21
+      },
       "title": "Built To Last"
      },
      {
       "key": "song:grateful-dead:victim-or-the-crime",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 40,
+       "total_plays": 104
+      },
       "title": "Victim Or The Crime"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1990-03-15",
+        "show": "live:grateful-dead:1990-03-15:capital-centre"
+       },
+       "plays_before": 485,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 487,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 135,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 1221,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 881,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1990-03-21",
+        "show": "live:grateful-dead:1990-03-21:copps-coliseum"
+       },
+       "plays_before": 181,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1990-03-22",
+        "show": "live:grateful-dead:1990-03-22:copps-coliseum"
+       },
+       "plays_before": 55,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 83,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1990-03-18",
+        "show": "live:grateful-dead:1990-03-18:hartford-civic-center"
+       },
+       "plays_before": 218,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:brokedown-palace",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1990-03-19",
+        "show": "live:grateful-dead:1990-03-19:hartford-civic-center"
+       },
+       "plays_before": 179,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
@@ -1792,82 +1985,155 @@
      {
       "from": "gd1990-03-26.FM.Fitzy.Keo.126789.Flac1644",
       "key": "song:grateful-dead:set-break-mickey-hart-radio-announcers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Set Break, Mickey Hart/Radio Announcers"
      },
      {
       "from": "gd1990-03-26.FM.Fitzy.Keo.126789.Flac1644",
       "key": "song:grateful-dead:encore-break-radio-announcers",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Encore Break/Radio Announcers"
      },
      {
       "from": "gd1990-03-26.141115.OTS.AKG.Akerman.Miller.Noel.t-flac1648",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 148,
+       "total_plays": 194
+      },
       "title": "Man Smart (Women are Smarter)"
      },
      {
       "from": "gd1990-03-26.122541.mk21.48khz.flac16",
       "key": "song:grateful-dead:women-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 159,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1989-10-18",
+        "show": "live:grateful-dead:1989-10-18:the-spectrum"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Women Smarter"
      },
      {
       "from": "gd1990-03-26.122541.mk21.48khz.flac16",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1990-03-25",
+        "show": "live:grateful-dead:1990-03-25:knickerbocker-arena"
+       },
+       "plays_before": 113,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1990-03-26.sennME80.wklitz.94411.flac16",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 144,
+       "total_plays": 187
+      },
       "title": "Women are Smarter"
      },
      {
       "from": "gd1990-03-26.AKG451.Berger.Currier.Keo.120943.Flac1644",
       "key": "song:grateful-dead:blow-away-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1990-03-16",
+        "show": "live:grateful-dead:1990-03-16:capital-centre"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Blow Away, Set Break"
      },
      {
       "from": "gd1990-03-26.AKG451.Berger.Currier.Keo.120943.Flac1644",
       "key": "song:grateful-dead:morning-dew-encore-break",
-      "stats": {},
+      "stats": {
+       "days_since": 345,
+       "gap_shows": 69,
+       "last_played": {
+        "date": "1989-04-15",
+        "show": "live:grateful-dead:1989-04-15:the-mecca"
+       },
+       "plays_before": 3,
+       "total_plays": 8
+      },
       "title": "Morning Dew, Encore Break"
      },
      {
       "from": "gd1990-03-26.sbd.hollister.7509.shnf",
       "key": "song:grateful-dead:little-light",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1990-02-25",
+        "show": "live:grateful-dead:1990-02-25:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 7,
+       "total_plays": 10
+      },
       "title": "A Little Light"
      }
     ],
     "subject_key": "live:grateful-dead:1990-03-26:knickerbocker-arena",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1572,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "wait-a-minute rap"
+     ],
+     "show_number": 1677,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Knickerbocker Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:11.799269+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:25.286344+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "u457a9WpRJVWUziY-TeZFKbmDN5vh3sRRi_qb71dAHHl-eBznV7FpVjYU9IYk_iv1fVtQjRJzLJeaBDgPfx5AA",
+   "revision": 44,
+   "signature": "GE9cNelMJJUzkoPIu8PtjNgI2g6Mkp8OIPAYFiui56Zo0NhzdqSJduGKDYVaxc2sRFNTMYg2RIllZ1iI0b3IAg",
    "subject_key": "live:grateful-dead:1990-03-26:knickerbocker-arena",
-   "updated_at": "2026-10-25T16:42:11.802194"
+   "updated_at": "2026-10-25T17:35:25.288251"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (2 reviews): Jerry's playing crackled with energy and incredible power in the room; Not the longest version, but every note played with crackling energy [29][31]\n- **Picasso Moon** (1 review): Performance ended in a trainwreck, explaining its exclusion from Dozin' [28]\n- **Row Jimmy** (1 review): Crowd reacts strongly around 2:40 during Jerry's first solo [24]\n- **Blow Away** (1 review): Brent captivates the crowd during the Real Love rap section [24]\n\n## The recordings\n\n- **gd1990-03-26.135063.bltz.flac2496** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 155 min [1]\n- **gd1990-03-26.sennME80.wklitz.94411.flac16**: source not stated; 20 songs; 152 min; rated 4.67/5 by 3 [7]. Said about its sound: Clear vocals and instrument separation; audience and Brent audible even off lead [24]\n- **gd1990-03-26.149395.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: source not stated; 20 songs; 155 min [10]\n- **gd1990-03-26.142991.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648**: source not stated; 20 songs; 155 min [11]\n- **gd1990-03-26.sbd.griesman.6697.sbeok.shnf**: soundboard; 19 songs; 140 min; rated 4.75/5 by 4 [14]. Said about its sound: Sound feels familiar, leading the reviewer to suspect a duplicate; Set one has dead air edited for some reason [14][27]\n- **gd1990-03-26.aud.gidley.91916.sbeok.flac16**: audience recording; 19 songs; 142 min; rated 5/5 by 2 [21]\n- **gd1990-03-26.FM.richp.Keo.112092.Flac1644**: FM broadcast; 20 songs; 154 min; rated 4/5 by 2 [23]. Said about its sound: Pretty awesome sound, suitable for the VHS medium used; Excellent sound quality accompanying a damn good performance [32][33]\n\n## Around the show\n\n- The power in the room that night was incredible [31]\n- Listeners should also obtain the March 24 and 25 shows [25]\n- Considered the weakest of the Albany run, though still strong [29]\n- Overlooked compared to nights one and two, yet has stellar energy [30]\n- Blair's Golden Road magazine named this the least of the three shows [34]\n\n## Tapers and lineage\n\n- **gd1990-03-26.135063.bltz.flac2496**: taped by Richard Berner friends; transferred by bltz; source: First set, Set II Victim, and, after China -> Rider: Richard Berner's B&K 4011's, 110 degrees ORTF, hand-held @ 5' high, Prolink -> Neumann Power Supply ->… [1]. Also: Master rescued from previously unreleased Audience FOB DAT [1]\n- **gd1990-03-26.sennME80.wklitz.94411.flac16**: taped by Keith Litzenberger; transferred by Keith Litzenberger; source: Sennheiser ME-80's>Technics SV-MD1 [7]\n- **gd1990-03-26.149395.FOB.Schoeps.Mattes.Miller.Noel.reMaster.t-flac1648**: taped by Master Digital Audience Recording by Ted Mattes; transferred by Transfer by Charlie Miller Edited & reMastered using Adobe Audition by Joe Noel March 28, 2020; source: rom the Teddy Ballgame Archive - a reMaster of shnid 142991 Source: (FOB) Schoeps CMC4 MK21 (ORTF) > DAT (Panasonic SV-250) Location: Sec 5 Row E Seat 7 [10]. Also: Recorded by Ted Mattes using AKG 460B and CK63 ULS mics [10]\n- **gd1990-03-26.142991.FOB.Schoeps.Mattes.Miller.Noel.t-flac1648**: taped by Ted Mattes; transferred by Charlie Miller and Joe Noel; source: flac16/48kHz ; Ted Mattes Master DAT Recording (FOB): Schoeps CMC4 MK21 (ORTF) > DAT (Panasonic SV-250); Location: Sec 5 Row E Seat 7; Charlie Miller [11]. Also: Ted recorded and shared; Charlie Miller acted as the go-between [11]\n- **gd1990-03-26.sbd.griesman.6697.sbeok.shnf**: transferred by Randy Griesman; source: SBD>?>CD-r [14]. Also: Randy Griesman extracted and shortened the file on December 23, 2001 [14]\n- **gd1990-03-26.aud.gidley.91916.sbeok.flac16**: taped by Ted Gidley; transferred by Andrew F; source: Nakamichi CM300's w/CP-4 shotguns > Sony TC-D5M > Maxell MX-90/100, with no Dolby. Mics on 7-foot stand in front of OTS. [21]. Also: Ted taped the show; quality and setlist are perfect [25]\n- **gd1990-03-26.FM.richp.Keo.112092.Flac1644**: taped by richp; transferred by Keo; source: FM Broadcast (WPYX)Albany,NY>HIFI VHS>1St Generation Cassette Taper Rich P.,Transfer By Keo Original Equipment/VHS Tape/Cassette Transfer Unknown; Transferred… [23]",

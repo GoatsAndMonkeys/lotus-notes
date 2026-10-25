@@ -395,7 +395,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -699,180 +699,467 @@
     "setlist": [
      {
       "key": "song:grateful-dead:intro-by-bill-graham",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Intro by Bill Graham"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 379,
+       "gap_shows": 87,
+       "last_played": {
+        "date": "1970-12-17",
+        "show": "live:grateful-dead:1970-12-17:the-matrix"
+       },
+       "plays_before": 43,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:mr-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 16,
+       "total_plays": 46
+      },
       "title": "Mr. Charlie"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 19,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 79,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:keith-introduced-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Keith introduced/tuning"
      },
      {
       "key": "song:grateful-dead:you-win-again",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 9,
+       "total_plays": 25
+      },
       "title": "You Win Again"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 34,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 29,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 43,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:chinatown-shuffle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 29
+      },
       "title": "Chinatown Shuffle"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 31,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 31,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 130,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 134,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 63,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 69,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 59,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 29,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night (1)"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 93,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 188,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 182,
+       "gap_shows": 42,
+       "last_played": {
+        "date": "1971-07-02",
+        "show": "live:grateful-dead:1971-07-02:fillmore-west"
+       },
+       "plays_before": 6,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 174,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 158,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 46,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1971-11-15",
+        "show": "live:grateful-dead:1971-11-15:austin-municipal-auditorium"
+       },
+       "plays_before": 80,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 68,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:same-thing",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1749,
+       "gap_shows": 356,
+       "last_played": {
+        "date": "1967-03-18",
+        "show": "live:grateful-dead:1967-03-18:winterland-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 51
+      },
       "title": "The Same Thing"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 22,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 90,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 111,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 69,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1971-12-14",
+        "show": "live:grateful-dead:1971-12-14:hill-auditorium"
+       },
+       "plays_before": 111,
+       "total_plays": 556
+      },
       "title": "Not Fade Away (reprise)"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 168,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -880,24 +1167,49 @@
      {
       "from": "gd1971-12-31.142742.sbd.miller.flac1648",
       "key": "song:grateful-dead:stars-and-stripes-forever",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Stars And Stripes Forever"
      },
      {
       "from": "gd71-12-31.fm.lanum.135.sbeok.shnf",
       "key": "song:grateful-dead:mister-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 16,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1971-12-15",
+        "show": "live:grateful-dead:1971-12-15:hill-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 13
+      },
       "title": "Mister Charlie"
      }
     ],
     "subject_key": "live:grateful-dead:1971-12-31:winterland-arena",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 328,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "The Same Thing"
+     ],
+     "first_in_archive": [
+      "Intro by Bill Graham",
+      "Keith introduced/tuning",
+      "Chinatown Shuffle",
+      "Big River"
+     ],
+     "show_number": 398,
+     "shows_in_archive": 2097,
      "songs": 34,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "Bill Graham"
@@ -906,16 +1218,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:43.830442+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.181840+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "SmWH1aKpPat64Lj1QDSYOYuCkcOWDmfOFsaJ9d6KWLaLQgZA99yfxRJDIjwf5lQPTTrzN5sv2igPqCO6dVTiAQ",
+   "revision": 41,
+   "signature": "z-ckf2qJ9xmNIArLlPEjFX2zME6UwhYrWOdDGAuylBPjZ244FGPht6KGApsoQDtfWAl5TE_0twDQyFEzBS5QDA",
    "subject_key": "live:grateful-dead:1971-12-31:winterland-arena",
-   "updated_at": "2026-10-25T16:41:43.833149"
+   "updated_at": "2026-10-25T17:35:12.183117"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancing In The Street** (3 reviews): Weir opens energetically as balloons pop; the reviewer says it was the last one until 1976; Reviewer finds Weir's singing on Dancing In The Street quite charming [10][14][20]\n- **The Other One** (2 reviews): The Other One into Me and My Uncle and back is called the show's highlight; Both Other One segments feature lots of spaced-out jamming [12][13]\n- **Brown Eyed Women** (1 review): Garcia forgets some lyrics in this song [20]\n- **Beat It On Down The Line** (1 review): Reviewer wonders whether the break or extra beat in the intro was intentional [20]\n- **Black Peter** (1 review): A sudden, out-of-nowhere Space leads into Black Peter, a one-of-a-kind transition according to the reviewer [13]\n- **Big River** (1 review): Reviewer, citing Dead List, says this very hot Big River was the first the band ever played [12]\n- **The Same Thing** (1 review): Reviewer defends it as a slinky, very good version, rejecting another reviewer's view of it as a low point [16]\n- **Not Fade Away** (1 review): The Not Fade Away, Goin' Down The Road, Not Fade Away sandwich is called cosmic [14]\n\n## The recordings\n\n- **gd1971-12-31.142687.fm.dalton.miller.sirmick.flac1644** (recommended): FM broadcast; 34 songs; 198 min; rated 5/5 by 3 [1]\n- **gd1971-12-31.168858.fm.ksan.menke.miller.fixed.flac2496**: FM broadcast; 31 songs; 211 min [3]\n- **gd71-12-31.fm.lanum.135.sbeok.shnf**: soundboard; 32 songs; 177 min; rated 4.23/5 by 52 [9]. Said about its sound: Radio station DJ chatter is audible at times throughout the broadcast recording; This copy seems to run fast with a chipmunk-like quality compared with the reviewer's decades-old tape [12][21]\n- **gd1971-12-31.141329.fm.dalton.miller.sirmick.flac1644**: FM broadcast; 33 songs; 197 min; rated 5/5 by 2 [2]\n\n## Around the show\n\n- Stage talk about: Bill Graham [1]\n- Donna Godchaux joins the band for the Casey Jones encore [1]\n- Weir explained the organ and piano were out of tune with each other, causing repeated tuning breaks [3]\n- Donna Jean Godchaux is noted as playing with the band for the first time [3]\n- Reviewer names it their favorite show of 1971, after a turbulent year for the band [10]\n- Reviewer thinks this is the best of the band's several Me and My Uncle sandwiches inside The Other One [13]\n- Reviewer says the 1972 New Year's show is far more mind-blowing than this 1971 one [14]\n- Reviewer calls it the best, tightest New Year's Eve show the band ever played [15]\n\n## Tapers and lineage\n\n- **gd1971-12-31.142687.fm.dalton.miller.sirmick.flac1644**: taped by Tim Dalton; transferred by Charlie Miller and SIRMick; source: Source: KSAN > FM Master reel > cassette > pcm ( Sony ESX HiFi l-750) - Provided by Tim Dalton; Transfer: pcm > Sony SL-10 > Sony PCM-601ESD > Behringer… [1]. Also: Source is the FM broadcast from KSAN San Francisco [1]\n- **gd1971-12-31.168858.fm.ksan.menke.miller.fixed.flac2496**: taped by Recording  by Bob Menke; transferred by Transfer by Bob Menke Mastering by Charlie Miller  September 21, 2024; source: FM (KSAN-FM) > Master Reel (Teac/3.75ips) [3]. Also: KSAN broadcast recording shared by Bob Menke; a Big River dropout was repaired and pitch confirmed by Joe B. Jones [3]\n- **gd71-12-31.fm.lanum.135.sbeok.shnf**: source: Soundboard - FM [9]\n- **gd1971-12-31.141329.fm.dalton.miller.sirmick.flac1644**: taped by Tim Dalton; transferred by Charlie Miller and SIRMick; source: Source: KSAN > FM Master reel > cassette > pcm ( Sony ESX HiFil-750) - Provided by Tim Dalton; Transfer: pcm > Sony SL-10 > Sony PCM-601ESD > Behringer… [2]",

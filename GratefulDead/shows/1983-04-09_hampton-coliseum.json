@@ -590,7 +590,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -606,13 +606,13 @@
     "guests": [],
     "next": {
      "date": "1983-04-10",
-     "show": "live:grateful-dead:1983-04-10:west-virginia-university-coliseum",
-     "venue": "West Virginia University Coliseum"
+     "show": "live:grateful-dead:1983-04-10:morgantown-civic-center",
+     "venue": "Morgantown Civic Center"
     },
     "previous": {
      "date": "1983-03-31",
-     "show": "live:grateful-dead:1983-03-31:warfield-theatre",
-     "venue": "Warfield Theatre"
+     "show": "live:grateful-dead:1983-03-31:warfield-theater",
+     "venue": "Warfield Theater"
     },
     "recommended": {
      "identifier": "gd1983-04-09.mtx.seamons.97109.flac16",
@@ -1135,130 +1135,333 @@
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 270,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 291,
+       "total_plays": 439
+      },
       "title": "The Promised Land"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 9,
+       "total_plays": 150
+      },
       "title": "West L.A. Fadeaway"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 6,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 178,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 249,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-26",
+        "show": "live:grateful-dead:1983-03-26:aladdin-theater"
+       },
+       "plays_before": 239,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 99,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1982-12-31",
+        "show": "live:grateful-dead:1982-12-31:oakland-auditorium-arena"
+       },
+       "plays_before": 266,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 361,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 364,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:help-on-the-way",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 35,
+       "total_plays": 120
+      },
       "title": "Help On The Way"
      },
      {
       "key": "song:grateful-dead:slipknot",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 34,
+       "total_plays": 118
+      },
       "title": "Slipknot!"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 110,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1983-03-27",
+        "show": "live:grateful-dead:1983-03-27:irvine-meadows"
+       },
+       "plays_before": 336,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Smokestack Lightnin' Jam"
      },
      {
       "key": "song:grateful-dead:other-one-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 587,
+       "gap_shows": 111,
+       "last_played": {
+        "date": "1981-08-30",
+        "show": "live:grateful-dead:1981-08-30:compton-terrace-amphitheatre"
+       },
+       "plays_before": 22,
+       "total_plays": 38
+      },
       "title": "The Other One Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 719,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 383,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1983-03-31",
+        "show": "live:grateful-dead:1983-03-31:warfield-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 15,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1983-03-25",
+        "show": "live:grateful-dead:1983-03-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 209,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 197,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 14,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1983-03-26",
+        "show": "live:grateful-dead:1983-03-26:aladdin-theater"
+       },
+       "plays_before": 220,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:satisfaction",
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1982-12-28",
+        "show": "live:grateful-dead:1982-12-28:oakland-auditorium-arena"
+       },
+       "plays_before": 19,
+       "total_plays": 32
+      },
       "title": "(I Can't Get No) Satisfaction"
      }
     ],
@@ -1266,94 +1469,174 @@
      {
       "from": "gd1983-04-09.163634.senn441.neumann.u87.miller.clugston.flac2496",
       "key": "song:grateful-dead:smokestack-tease",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Smokestack tease"
      },
      {
       "from": "gd1983-04-09.163634.senn441.neumann.u87.miller.clugston.flac2496",
       "key": "song:grateful-dead:other-one-tease",
-      "stats": {},
+      "stats": {
+       "days_since": 372,
+       "gap_shows": 65,
+       "last_played": {
+        "date": "1982-04-02",
+        "show": "live:grateful-dead:1982-04-02:cameron-indoor-stadium-duke-u"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Other One tease"
      },
      {
       "from": "gd1983-04-09.141613.beyerm201.executive-crew.holbrook.flac2448",
       "key": "song:grateful-dead:smokestack-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Smokestack Jam"
      },
      {
       "from": "gd1983-04-09.141613.beyerm201.executive-crew.holbrook.flac2448",
       "key": "song:grateful-dead:encore-satisfaction",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 692,
+       "gap_shows": 128,
+       "last_played": {
+        "date": "1981-05-17",
+        "show": "live:grateful-dead:1981-05-17:onongada-county-war-memorial"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "encore Satisfaction"
      },
      {
       "from": "gd83-04-09.senn421.cribbs.9199.sbeok.shnf",
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 4032,
+       "gap_shows": 758,
+       "last_played": {
+        "date": "1972-03-25",
+        "show": "live:grateful-dead:1972-03-25:academy-of-music"
+       },
+       "plays_before": 16,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "from": "gd1983-04-09.135191.Unk-Hill.Keo.Flac2496",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 3,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1983-04-09.135191.Unk-Hill.Keo.Flac2496",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1983-03-30",
+        "show": "live:grateful-dead:1983-03-30:warfield-theater"
+       },
+       "plays_before": 202,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1983-04-09.135191.Unk-Hill.Keo.Flac2496",
       "key": "song:grateful-dead:i-know-you-rider-set-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "I Know You Rider, Set Break"
      },
      {
       "from": "gd1983-04-09.135191.Unk-Hill.Keo.Flac2496",
       "key": "song:grateful-dead:spoonful-smokestack-lightning-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Spoonful/Smokestack Lightning Jam"
      },
      {
       "from": "gd1983-04-09.137037.s2.nak300.schley.flac2448",
       "key": "song:grateful-dead:spoonful-smokestack-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Spoonful-Smokestack Jam"
      },
      {
       "from": "gd1983-04-09.137037.s2.nak300.schley.flac2448",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1983-03-29",
+        "show": "live:grateful-dead:1983-03-29:warfield-theater"
+       },
+       "plays_before": 53,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      }
     ],
     "subject_key": "live:grateful-dead:1983-04-09:hampton-coliseum",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1062,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "The Other One Jam"
+     ],
+     "first_in_archive": [
+      "Smokestack Lightnin' Jam"
+     ],
+     "show_number": 1164,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.630958+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.669169+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "J9tnEQcaMsEjOqdvjL0nT68yph20Ja6XKC9-1XEVgSQIku5tYRokaoL58kyaiWnr0Zdx8XNcgJ3CRJxTGIb6Dw",
+   "revision": 42,
+   "signature": "zbcCqVIZBOn4njP-WrzV3hQJLNP8kWBJkF0YTCX7PpFPkwptNxUnu4s00vEdnawabUgSdgSHWPbAEbl-78AEBg",
    "subject_key": "live:grateful-dead:1983-04-09:hampton-coliseum",
-   "updated_at": "2026-10-25T16:41:55.632551"
+   "updated_at": "2026-10-25T17:35:18.670553"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **West L.A. Fadeaway** (1 review): Jerry has a sick tone on this track [22]\n- **Goin' Down The Road Feeling Bad** (1 review): Jerry skipped Black Peter solo to play this song, which rips [21]\n- **Smokestack Lightning** (1 review): Played without lyrics; a real treat but frustrating for the listener [18]\n\n## The recordings\n\n- **gd1983-04-09.mtx.seamons.97109.flac16** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 141 min; rated 4/5 by 1 [1]\n- **gd1983-04-09.163634.senn441.neumann.u87.miller.clugston.flac2496**: audience recording; 23 songs; 148 min [2]\n- **gd83-04-09.sbd.miller.27703.sbeok.shnf**: matrix (soundboard mixed with audience mics); 22 songs; 141 min; rated 4.27/5 by 22 [6]. Said about its sound: Vocals are sweet, everyone on key, and mix has great separation; Brent set too loud in Brown Eyed Women on this board [23][28]\n- **gd1983-04-09.sbd.miller.93145.sbeok.flac16**: soundboard; 22 songs; 140 min; rated 3.62/5 by 8 [7]\n- **gd83-04-09.senn421.cribbs.9199.sbeok.shnf**: source not stated; 22 songs; 140 min; rated 3.25/5 by 8 [10]\n- **gd1983-04-09.145467.fob.nak700.cohen.miller.clugston.flac2496**: audience recording; 21 songs; 144 min [13]\n\n## Around the show\n\n- First show the reviewer traveled to see; trip considered well worth it [18]\n- Jerry plays Bob's Black Throated Wind lick repeatedly before Black Peter [22]\n- Reviewer's wife attended her first show; they danced and enjoyed it [24]\n- Phil dropped bombs, a tradition for Hampton; no other venue got it twice [24]\n- Reviewer was 17 on first road trip; Hampton described as a spaceship [26]\n- Phil on 6-string came out early; intimate scene with maybe fifty people [26]\n- College students in Boston excited about Help>Slip>Franklins, first East Coast in years [28]\n- House lights came on after One More Saturday Night; missed start of Satisfaction [4]\n- First set rated better than remembered; second set fizzled out [20]\n\n## Tapers and lineage\n\n- **gd1983-04-09.mtx.seamons.97109.flac16**: transferred by Matrix by Hunter Seamons; source: Matrix of SBD (shnid=93145):AUD (shnid=14190): [1]\n- **gd1983-04-09.163634.senn441.neumann.u87.miller.clugston.flac2496**: taped by Rob Eaton; transferred by Rob, Eaton, Scott Clugston, Charlie Miller; source: Rob Eaton's Master (FOB) Audience Cassettes; (2) Sennheiser 441's (left + right) + (1) Neumann U87 (center) > Nakamichi 550 [2]. Also: Rob Eaton recorded and transferred; Bob Wagner provided Nakamichi 700 source [2]\n- **gd83-04-09.sbd.miller.27703.sbeok.shnf**: source: SBD> Master Cassette> Reel> Dat (48k) [6]\n- **gd1983-04-09.sbd.miller.93145.sbeok.flac16**: transferred by Charlie Miller; source: SBD -> Master Cassette [7]. Also: Sennheiser 441 to cassette to DAT to CD; remaster of shnid=27703 [7]\n- **gd83-04-09.senn421.cribbs.9199.sbeok.shnf**: source: Senn 421 mics > Sony TC-D5 > MAC > DAT > CD [10]. Also: New Charlie Miller SBD seed exists; audience tapes capture intensity [21]\n- **gd1983-04-09.145467.fob.nak700.cohen.miller.clugston.flac2496**: taped by Mark Cohen; transferred by Scott Clugston and Charlie Miller; source: Mark Cohen's Master (FOB) Audience Cassettes; Nakamichi 700 mics > Sony D5 [13]",

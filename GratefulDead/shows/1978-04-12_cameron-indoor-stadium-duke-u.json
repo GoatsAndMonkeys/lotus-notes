@@ -544,7 +544,7 @@
      "id": 30,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -650,13 +650,13 @@
     "guests": [],
     "next": {
      "date": "1978-04-14",
-     "show": "live:grateful-dead:1978-04-14:cassell-coliseum-virginia-polytechnic-institute-and-state-university",
-     "venue": "Cassell Coliseum - Virginia Polytechnic Institute and State University"
+     "show": "live:grateful-dead:1978-04-14:coliseum-virginia-polytechnic-u",
+     "venue": "Coliseum, Virginia Polytechnic U"
     },
     "previous": {
      "date": "1978-04-11",
-     "show": "live:grateful-dead:1978-04-11:fox-theatre",
-     "venue": "Fox Theatre"
+     "show": "live:grateful-dead:1978-04-11:fox-theater",
+     "venue": "Fox Theater"
     },
     "recommended": {
      "identifier": "gd1978-04-12.134566.mtx.tobin.flac16",
@@ -1178,112 +1178,310 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 211,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 106,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-02-04",
+        "show": "live:grateful-dead:1978-02-04:milwaukee-auditorium"
+       },
+       "plays_before": 221,
+       "total_plays": 334
+      },
       "title": "Beat It on Down the Line"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 54,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 127,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 186,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:funiculi-funicula",
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1977-12-31",
+        "show": "live:grateful-dead:1977-12-31:winterland-arena"
+       },
+       "plays_before": 6,
+       "total_plays": 26
+      },
       "title": "Funiculi Funicula"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 122,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-11",
+        "show": "live:grateful-dead:1978-04-11:fox-theater"
+       },
+       "plays_before": 72,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-04-07",
+        "show": "live:grateful-dead:1978-04-07:the-sportatorium"
+       },
+       "plays_before": 167,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 59,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 53,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:bertha",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-11",
+        "show": "live:grateful-dead:1978-04-11:fox-theater"
+       },
+       "plays_before": 182,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-11",
+        "show": "live:grateful-dead:1978-04-11:fox-theater"
+       },
+       "plays_before": 180,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 63,
+       "total_plays": 168
+      },
       "title": "It Must Have Been the Roses"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 64,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-04-08",
+        "show": "live:grateful-dead:1978-04-08:veterans-memorial-coliseum"
+       },
+       "plays_before": 112,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-11",
+        "show": "live:grateful-dead:1978-04-11:fox-theater"
+       },
+       "plays_before": 347,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1978-02-05",
+        "show": "live:grateful-dead:1978-02-05:uni-dome-u-of-northern-iowa"
+       },
+       "plays_before": 240,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-04-06",
+        "show": "live:grateful-dead:1978-04-06:curtis-hixon-convention-hall"
+       },
+       "plays_before": 123,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 134,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-04-10",
+        "show": "live:grateful-dead:1978-04-10:fox-theater"
+       },
+       "plays_before": 77,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1291,25 +1489,46 @@
      {
       "from": "gd1978-04-12.169012.mtx.seamons.ht172.flac16",
       "key": "song:grateful-dead:turn-down-the-lights",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Turn Down The Lights"
      },
      {
       "from": "gd1978-04-12.169012.mtx.seamons.ht172.flac16",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-04-11",
+        "show": "live:grateful-dead:1978-04-11:fox-theater"
+       },
+       "plays_before": 57,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1978-04-12.169012.mtx.seamons.ht172.flac16",
       "key": "song:grateful-dead:rhythm-devils",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "Rhythm Devils"
      },
      {
       "from": "gd1978-04-12.141776.sbd.betty.dalton.miller.sirmick.flac1644",
       "key": "song:grateful-dead:turn-down-the-house-lights-dummy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Turn down the house lights, dummy"
      }
     ],
@@ -1317,26 +1536,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 672,
-     "shows_in_archive": 1855,
+     "show_number": 764,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Cameron Indoor Stadium, Duke U"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:51.704356+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.413162+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "K79UoMz0LYStympA9zeCmfnkCcVajN2RkKrUgxnWUnwSTL3CHGzPqKL5uCTbq3-Ht6wPiZCOcsvAsdLg7UDiBA",
+   "revision": 39,
+   "signature": "9E48OKDoLsPz5yfpf4COa9p_k0YYhJHxntyeMBimPBWkKEEXSZB9_p-NJVMNVGT2rYmWv4maHQjhELIePq9yDQ",
    "subject_key": "live:grateful-dead:1978-04-12:cameron-indoor-stadium-duke-u",
-   "updated_at": "2026-10-25T16:41:51.706744"
+   "updated_at": "2026-10-25T17:35:15.414415"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (1 review): Garcia's vocals are inaudible and his guitar playing is tentative and lacking brilliance [18]\n- **Dire Wolf** (1 review): Vocals fade out for most of the song, but the instrumental part is strong [24]\n- **Peggy-O** (1 review): The reviewer considers this the best version of the song they have heard [19]\n- **Row Jimmy** (1 review): The reviewer calls this the finest performance of the song ever recorded [25]\n- **Lazy Lightnin** (1 review): The transition into Supplication is described as utterly ferocious [27]\n- **Truckin'** (1 review): The reviewer calls this the best performance of the song of all time [21]\n- **Minglewood Blues** (1 review): The reviewer describes the performance as hot and highly energetic [28]\n\n## The recordings\n\n- **gd1978-04-12.134566.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 193 min; rated 5/5 by 2 [1]\n- **gd1978-04-12.169012.mtx.seamons.ht172.flac16**: matrix (soundboard mixed with audience mics); 23 songs; 194 min [3]. Said about its sound: Initial vocal issues in the soundboard are restored using Bob Wagner's audience recording; Clicks and static-like pops were removed during Peggy-O, Row Jimmy, and Loser [3]\n- **gd1978-04-12.148071.fob.sony.54p.wagner.miller.clugston.flac2496**: audience recording; 23 songs; 198 min [5]\n- **gd1978-04-12.155360.5-1.tobin.flac1648**: source not stated; 22 songs; 193 min [8]\n- **gd78-04-12.sbd.ashley-bertha.14085.sbeok.shnf**: soundboard; 22 songs; 174 min; rated 4.7/5 by 43 [9]. Said about its sound: The wood paneling in the small venue creates excellent acoustics for the recording; There are few sound glitches in the beginning, but the recording quality is high [22][28]\n- **gd78-04-12.sbd.henry.11476.sbeok.shnf**: soundboard; 22 songs; 174 min; rated 3.5/5 by 4 [14]. Said about its sound: Vocals are missing for the first two songs, but the mix improves significantly later [19]\n\n## Around the show\n\n- Bobby and Jerry step back and launch at microphones in sync during the crescendo [20]\n- A Duke student filmed the concert, and Jerry played with Ramrod on drums [21]\n\n## Tapers and lineage\n\n- **gd1978-04-12.134566.mtx.tobin.flac16**: transferred by Kevin Tobin; source: Matrix 2 Source Mix - SBD (shnid=107256) Recording Info:SBD -> Master Reel -> PCM -> Dat (44.1k); Transfer Info:Dat (Sony R500) -> Sound Devices 744T ->… [1]. Also: The matrix mixes soundboard and audience sources, using video audio for specific patches [1]\n- **gd1978-04-12.169012.mtx.seamons.ht172.flac16**: source: Matrix by Hunter Seamons using Final Cut Pro (FLAC > AIFF > Final Cut > Soundtrack Pro > AIFF CD tracking via Audacity > FLAC16 via xACT w/meta-tagging)… [3]\n- **gd1978-04-12.148071.fob.sony.54p.wagner.miller.clugston.flac2496**: taped by Bob Wagner; transferred by Scott Clugston and Charlie Miller; source: Bob Wagner's Master (FOB) Audience Cassettes; Sony 54P mics > Sony TC-158 (Maxell UDXLII-C90) [5]\n- **gd1978-04-12.155360.5-1.tobin.flac1648**: transferred by 5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin; source: 5.1 LPCM Surround Sound (48k) mixed in Adobe Audition CC 2014 [8]. Also: The file was mixed by an archive.org user and converted to FLAC in 2022 [8]\n- **gd78-04-12.sbd.ashley-bertha.14085.sbeok.shnf**: source: Soundboard [9]\n- **gd78-04-12.sbd.henry.11476.sbeok.shnf**: source: Soundboard [14]\n\n## Art and photos\n\n- Poster by www.soundstreet.us: [Grateful Dead at Duke 04/12/78 | Soundstreet.us](http://www.soundstreet.us/grateful-dead-at-duke-041278/) [31]\n- Fan art by gd.lnk.to: [Grateful Dead - U.S. Blues - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78](https://gd.lnk.to/USBLive78) [32]\n- Poster by Doug Collette: [Grateful Dead's 'Duke '78' Uncovers Complete Cameron Indoor Stadium Durham, NC 4/12/78 Show (ALBUM REVIEW) - Glide Magaz](https://glidemagazine.com/305243/grateful-deads-duke-78-uncovers-complete-cameron-indoor-stadium-durham-nc-4-12-78-show-album-review/) [33]\n- Poster by www.soundstreet.us: [Grateful Dead at Duke 04/12/78 | Soundstreet.us](http://www.soundstreet.us/grateful-dead-at-duke-041278/) [34]\n- Fan art by Grateful Dead: [Grateful Dead Duke University 4/12/78](https://www.dead.net/duke-university-4-12-78) [35]\n- Fan art by Grateful Dead: [Grateful Dead Duke University 4/12/78](https://www.dead.net/duke-university-4-12-78) [36]",

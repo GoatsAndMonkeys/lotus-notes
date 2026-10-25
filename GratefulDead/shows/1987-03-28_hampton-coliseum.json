@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -114,104 +114,279 @@
     "setlist": [
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 113,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 272,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1986-06-29",
+        "show": "live:grateful-dead:1986-06-29:alpine-valley-music-theatre"
+       },
+       "plays_before": 140,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:box-of-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 63,
+       "total_plays": 165
+      },
       "title": "Box Of Rain"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-03-26",
+        "show": "live:grateful-dead:1987-03-26:hartford-civic-center"
+       },
+       "plays_before": 13,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1987-01-28",
+        "show": "live:grateful-dead:1987-01-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 9,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1987-01-28",
+        "show": "live:grateful-dead:1987-01-28:san-francisco-civic-auditorium"
+       },
+       "plays_before": 137,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:when-i-paint-my-masterpiece",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 149
+      },
       "title": "When I Paint My Masterpiece"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-03-26",
+        "show": "live:grateful-dead:1987-03-26:hartford-civic-center"
+       },
+       "plays_before": 192,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-27",
+        "show": "live:grateful-dead:1987-03-27:hartford-civic-center"
+       },
+       "plays_before": 158,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-27",
+        "show": "live:grateful-dead:1987-03-27:hartford-civic-center"
+       },
+       "plays_before": 80,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 98,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 164,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 410,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-27",
+        "show": "live:grateful-dead:1987-03-27:hartford-civic-center"
+       },
+       "plays_before": 978,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1987-03-27",
+        "show": "live:grateful-dead:1987-03-27:hartford-civic-center"
+       },
+       "plays_before": 638,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 439,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 208,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1987-03-23",
+        "show": "live:grateful-dead:1987-03-23:hampton-coliseum"
+       },
+       "plays_before": 110,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1987-03-24",
+        "show": "live:grateful-dead:1987-03-24:hampton-coliseum"
+       },
+       "plays_before": 413,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:mighty-quinn",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1987-03-26",
+        "show": "live:grateful-dead:1987-03-26:hartford-civic-center"
+       },
+       "plays_before": 13,
+       "total_plays": 62
+      },
       "title": "The Mighty Quinn (Quinn the Eskimo)"
      }
     ],
@@ -219,27 +394,29 @@
     "subject_key": "live:grateful-dead:1987-03-28:hampton-coliseum",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1323,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "When I Paint My Masterpiece"
+     ],
+     "show_number": 1427,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Hampton Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:03.305214+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.537604+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "-GPUo76DSiX-YxsNGPgXSkYZSRr8ib6vhqTSKxHa6RSVBB2Vi7-UZtSuNiX0JHl9D3LevnqrWrHaPNNxCEhCAQ",
+   "revision": 41,
+   "signature": "xE3lAbetq69FSqF8rciPrnis1sHpeIH3SdqwChZ0HPsR4KtACzgjZSq5FkUug1lLdcx3rSXBL-d-vh2CWwC7Ag",
    "subject_key": "live:grateful-dead:1987-03-28:hampton-coliseum",
-   "updated_at": "2026-10-25T16:42:03.306804"
+   "updated_at": "2026-10-25T17:35:22.538186"
   }
  },
  "recommended": {

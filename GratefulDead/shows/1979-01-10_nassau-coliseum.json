@@ -438,7 +438,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -772,125 +772,332 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 209,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 125,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 146,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 204,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 218,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 153,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 27,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 257,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1978-12-19",
+        "show": "live:grateful-dead:1978-12-19:state-fairgrounds-coliseum"
+       },
+       "plays_before": 130,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 51,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-12-30",
+        "show": "live:grateful-dead:1978-12-30:pauley-pavilion"
+       },
+       "plays_before": 180,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 89,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 16,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:i-need-a-miracle",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 19,
+       "total_plays": 279
+      },
       "title": "I Need A Miracle"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 205,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 211,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 181,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 408,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 94,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-01-08",
+        "show": "live:grateful-dead:1979-01-08:madison-square-garden"
+       },
+       "plays_before": 140,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1978-12-31",
+        "show": "live:grateful-dead:1978-12-31:winterland-arena"
+       },
+       "plays_before": 160,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-01-07",
+        "show": "live:grateful-dead:1979-01-07:madison-square-garden"
+       },
+       "plays_before": 167,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-01-05",
+        "show": "live:grateful-dead:1979-01-05:the-spectrum"
+       },
+       "plays_before": 143,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -898,13 +1105,26 @@
      {
       "from": "gd1979-01-10.132236.aud.fob.nak.cm-300.gatto-wise.flac16",
       "key": "song:grateful-dead:set-up",
-      "stats": {},
+      "stats": {
+       "days_since": 246,
+       "gap_shows": 53,
+       "last_played": {
+        "date": "1978-05-09",
+        "show": "live:grateful-dead:1978-05-09:onongada-county-war-memorial"
+       },
+       "plays_before": 1,
+       "total_plays": 16
+      },
       "title": "Set Up"
      },
      {
       "from": "gd1979-01-10.132236.aud.fob.nak.cm-300.gatto-wise.flac16",
       "key": "song:grateful-dead:dire-wolf-digi-zap",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Dire Wolf* digi zap"
      }
     ],
@@ -912,26 +1132,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 735,
-     "shows_in_archive": 1855,
+     "show_number": 830,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.531781+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.831856+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "uVx3ufGevsggc17fptYKAC-uy3SbW_4dlwpvagJ3VN_5WNUGUaeReQAQj2cb-LtW9mbE1_RxnQwX5JhbrWnADA",
+   "revision": 41,
+   "signature": "JULz67ErQ57nTmofTjxOG7t3d2lcTzsrCjwIFoWG08Rb1i9ndNnkNFVk4ocNRBYcNUbXkplySkz2FzQYHoqRBw",
    "subject_key": "live:grateful-dead:1979-01-10:nassau-coliseum",
-   "updated_at": "2026-10-25T16:41:52.533332"
+   "updated_at": "2026-10-25T17:35:15.832722"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Loser** (1 review): Loser transitioning into The Music Never Stopped was described as a ripping performance [11]\n- **Dark Star** (1 review): Dark Star sounded stiff and march-like, as if drummers forgot how to jazz it up [20]\n\n## The recordings\n\n- **gd1979-01-10.sonyecm-wagner.minches.77328.flac16** (recommended): audience recording; 23 songs; 199 min; rated 2.71/5 by 7 [1]\n- **gd1979-01-10.sony-senn.wagner.miller.113114.flac16**: source not stated; 23 songs; 200 min; rated 5/5 by 11 [2]\n- **gd1979-01-10.157175.fob.3MicMix.wagner.miller.t.flac1644**: source not stated; 23 songs; 201 min [4]\n- **gd79-01-10.gatto.kempka.307.sbeok.shnf**: audience recording; 23 songs; 177 min; rated 4.43/5 by 35 [6]. Said about its sound: The recording features great sound quality, opening and closing with Chuck Berry songs; Instruments are clear, but vocals are very much missed, sounding like standing 100 rows away [14][16]\n\n## Around the show\n\n- The audience witnessed a spaceship descend during the jam, scrambling their psychedelic souls [15]\n- The band played without pyrotechnics, which were popular then, yet still blew the listener away [19]\n- Fans scrambled from the nosebleed section to the floor when Dark Star began [21]\n- The second set was compared to Winterland caliber and presaged the Wynton show ten years later [11]\n\n## Tapers and lineage\n\n- **gd1979-01-10.sonyecm-wagner.minches.77328.flac16**: taped by Bob Wagner; transferred by David Minches; source: Master Audience Cassette; 2 Sony ECM-4 Ps w/ Senn 421 blend> Sony 158 [1]\n- **gd1979-01-10.sony-senn.wagner.miller.113114.flac16**: taped by Bob Wagner; transferred by Charlie Miller; source: (FOB) Sony 54P + (1) Sennheiser 441 -> Namakichi 550 -> Cassette Master (Sony TC-158SD/Maxell UDXLII-S90/Dolby B) [2]. Also: Bob Wagner lent his masters, and Joe B. Jones assisted with pitch correction [2]\n- **gd1979-01-10.157175.fob.3MicMix.wagner.miller.t.flac1644**: taped by Bob Wagner; transferred by All Transfers and Mastering by Charlie Miller  June 25, 2022; source: (FOB) (2)Sony 54P + (1)Sennheiser 441 > Namakichi 550 > Cassette Master (Sony TC-158SD/Maxell UDXLII-S90/Dolby B) [4]. Also: Bob Wagner provided masters, and Joe B. Jones helped with the previous project version [4]\n- **gd79-01-10.gatto.kempka.307.sbeok.shnf**: taped by Keith Gatto; source: Audience Recording: Nak 300's [6]",

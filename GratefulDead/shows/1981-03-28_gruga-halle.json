@@ -312,7 +312,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -343,8 +343,8 @@
     "guests": [],
     "next": {
      "date": "1981-04-25",
-     "show": "live:grateful-dead:1981-04-25:the-stone",
-     "venue": "The Stone"
+     "show": "live:grateful-dead:1981-04-25:berkeley-community-theater",
+     "venue": "Berkeley Community Theater"
     },
     "previous": {
      "date": "1981-03-24",
@@ -571,117 +571,319 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 74,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 140,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-23",
+        "show": "live:grateful-dead:1981-03-23:rainbow-theater"
+       },
+       "plays_before": 226,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 423,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-20",
+        "show": "live:grateful-dead:1981-03-20:rainbow-theatre"
+       },
+       "plays_before": 273,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 51,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 32,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 93,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-20",
+        "show": "live:grateful-dead:1981-03-20:rainbow-theatre"
+       },
+       "plays_before": 223,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-03-20",
+        "show": "live:grateful-dead:1981-03-20:rainbow-theatre"
+       },
+       "plays_before": 271,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-23",
+        "show": "live:grateful-dead:1981-03-23:rainbow-theater"
+       },
+       "plays_before": 175,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 108,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 161,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 144,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-03-23",
+        "show": "live:grateful-dead:1981-03-23:rainbow-theater"
+       },
+       "plays_before": 326,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 586,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 586,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 295,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 199,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 228,
+       "total_plays": 425
+      },
       "title": "Around and Around"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 285,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-03-21",
+        "show": "live:grateful-dead:1981-03-21:rainbow-theater"
+       },
+       "plays_before": 193,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      },
      {
       "key": "song:grateful-dead:backstage-stuff",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "backstage stuff"
      }
     ],
@@ -689,196 +891,310 @@
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-01-intro-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 01 Intro Tuning"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-02-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 02 Alabama Getaway"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-03-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 03 Greatest Story Ever Told"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-04-sugaree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 04 Sugaree"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-05-me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 05 Me & My Uncle"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-06-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 06 Mexicali Blues"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-07-shakedown-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 07 Shakedown Street"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-08-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 08 Little Red Rooster"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-09-althea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 09 Althea"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-10-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 10 Looks Like Rain"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-11-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 11 Deal"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-12-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 12 Crowd Tuning"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-13-samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 13 Samson & Delilah"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-14-ship-of-fools",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 14 Ship Of Fools"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-15-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 15 Estimated Prophet"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-16-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 16 He's Gone"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-17-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 17 The Other One"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-18-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 18 Drums"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-19-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 19 Not Fade Away"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-20-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 20 Wharf Rat"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-21-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 21 Around & Around"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-22-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 22 Good Lovin'"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-23-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 23 Encore Break"
      },
      {
       "from": "gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648",
       "key": "song:grateful-dead:gd81-03-28-24-one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-03-28 24 One More Saturday Night"
      },
      {
       "from": "gd1981-03-28.136977.FM-UK.flac24",
       "key": "song:grateful-dead:gd-preface-uk-announcer",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "GD Preface UK announcer"
      },
      {
       "from": "gd1981-03-28.136977.FM-UK.flac24",
       "key": "song:grateful-dead:gd-preface-german-mc-and-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "GD Preface German MC & Tuning"
      },
      {
       "from": "gd1981-03-28.136977.FM-UK.flac24",
       "key": "song:grateful-dead:me-and-my-uncle-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Me and My Uncle - Mexicali Blues"
      },
      {
       "from": "gd1981-03-28.136977.FM-UK.flac24",
       "key": "song:grateful-dead:postcript-uk-announcer",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Postscript UK Announcer"
      }
     ],
     "subject_key": "live:grateful-dead:1981-03-28:gruga-halle",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 923,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "backstage stuff"
+     ],
+     "show_number": 1019,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Gruga Halle"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 20,
+   "parent_revision": 32,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.082231+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.459415+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 21,
-   "signature": "RDkoZuENjk48v7g0WyYLJwf1U-HwR46Q4yDb6V1pEULk7GIesUgWPJ4n0aEl4IDyaKF9pLZuGZzBT0r2ZCPiCQ",
+   "revision": 33,
+   "signature": "RXX4qxB5Y26hLCLcpcjansW8XUyOOVzAO661ROunABlCMF3W-veCUkocA1yiFYoxVthqBLOMwlsWCstqxlgEDg",
    "subject_key": "live:grateful-dead:1981-03-28:gruga-halle",
-   "updated_at": "2026-10-25T16:41:54.083075"
+   "updated_at": "2026-10-25T17:35:17.460409"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Greatest Story Ever Told** (1 review): Garcia shaped his solos deliberately through his effects during a slick performance [10]\n- **Sugaree** (1 review): The performance was called the best 1980s Sugaree, described as incredibly sweet [17]\n- **Little Red Rooster** (1 review): Brent was noted for playing the organ terrifically well on Little Red Rooster [12]\n- **Deal** (1 review): Garcia played Other One-style solos during a strong version of Deal [10]\n- **Drums** (1 review): The jamming following the drums was described as incredibly sick [11]\n\n## The recordings\n\n- **gd81-03-28.fm.hanno.3306.sbefail.shnf** (recommended): soundboard; 23 songs; 200 min; rated 3.95/5 by 39 [1]. Said about its sound: The recording quality was criticized as lousy, despite a nice Shakedown Street; The audio is tinny and echoey, though slightly better than the June 21, 1984 recording [13][16]\n- **gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648**: FM broadcast; 24 songs; 196 min; rated 5/5 by 1 [2]\n- **gd1981-03-28.fm.hajo.franka.85958.flac16**: FM broadcast; 22 songs; 196 min; rated 4.33/5 by 3 [5]\n- **gd1981-03-28.136977.FM-UK.flac24**: FM broadcast; 24 songs; 193 min [3]\n\n## Around the show\n\n- Pete Townshend joined the band for Not Fade Away, Wharf Rat, and Around and Around [9]\n- Townshend was only distinctly audible on Not Fade Away, adding little else [16]\n- The Grugahalle in Essen was rocking, and the band played well outside the USA [19]\n- Flying Karamazov Brothers were on stage during the Drums segment [5]\n\n## Tapers and lineage\n\n- **gd81-03-28.fm.hanno.3306.sbefail.shnf**: source: Soundboard - FM [1]. Also: Stereo FM source transferred to reel master, DAT, CDWAV, and CDR via Hanno Bunjes [1]\n- **gd1981-03-28.140323.fm.eaton.miller.clugston.flac1648**: taped by Rob Eaton; transferred by Charlie Miller and Scott Clugston; source: Master FM Cassette > Dat 16/48 [2]\n- **gd1981-03-28.fm.hajo.franka.85958.flac16**: taped by HaJo; transferred by franka; source: FM (live broadcast) > Revox A76 Tuner > Revox A77 (1/2 track, 3 1/2 ips, TDK LX 35) [5]. Also: Pete Townshend played guitar from Not Fade Away through Around and Around [5]\n- **gd1981-03-28.136977.FM-UK.flac24**: source: Recording [3]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1981-03-28 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1981-03-28-backstage-pass/) [21]",

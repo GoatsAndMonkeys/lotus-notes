@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -105,12 +105,30 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 17,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-03-30",
+        "show": "live:grateful-dead:1980-03-30:capitol-theater"
+       },
+       "plays_before": 26,
+       "total_plays": 235
+      },
       "title": "Saint of Circumstance"
      }
     ],
@@ -119,26 +137,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 818,
-     "shows_in_archive": 1855,
+     "show_number": 914,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "NBC Studios"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.269582+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.423951+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "u8uh_S_u7RUh-z_RJDAWxgtAB1R2-a1_pxcdG27yd9gIXZHxcLhO9kK9Mk0acdQTiblNZZXazRTfKTbRJo4sCw",
+   "revision": 40,
+   "signature": "a2XcYtDjFJqg6_tLo4ydRNxf4u9f44bVVjsDONVd8qt7j6nhO-yS9gRe0B3Uz54WB1qRU8PCasNtPVNm0K7mAA",
    "subject_key": "live:grateful-dead:1980-04-05:nbc-studios",
-   "updated_at": "2026-10-25T16:41:53.270104"
+   "updated_at": "2026-10-25T17:35:16.424392"
   }
  },
  "recommended": {

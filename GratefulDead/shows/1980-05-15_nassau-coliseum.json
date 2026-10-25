@@ -447,7 +447,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -483,8 +483,8 @@
     },
     "previous": {
      "date": "1980-05-14",
-     "show": "live:grateful-dead:1980-05-14:nassau-veterans-memorial-coliseum",
-     "venue": "Nassau Veterans Memorial Coliseum"
+     "show": "live:grateful-dead:1980-05-14:nassau-coliseum",
+     "venue": "Nassau Coliseum"
     },
     "recommended": {
      "identifier": "gd1980-05-15.aud.long.34721.sbeok.sbeok.flac16",
@@ -827,129 +827,336 @@
      {
       "key": "song:grateful-dead:jack-straw",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-12",
+        "show": "live:grateful-dead:1980-05-12:boston-garden"
+       },
+       "plays_before": 272,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:franklins-tower",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1980-05-04",
+        "show": "live:grateful-dead:1980-05-04:baltimore-civic-center"
+       },
+       "plays_before": 67,
+       "total_plays": 234
+      },
       "title": "Franklin's Tower"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-11",
+        "show": "live:grateful-dead:1980-05-11:cumberland-county-civic-center"
+       },
+       "plays_before": 98,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-11",
+        "show": "live:grateful-dead:1980-05-11:cumberland-county-civic-center"
+       },
+       "plays_before": 135,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-12",
+        "show": "live:grateful-dead:1980-05-12:boston-garden"
+       },
+       "plays_before": 90,
+       "total_plays": 122
+      },
       "title": "Lazy Lightning"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-12",
+        "show": "live:grateful-dead:1980-05-12:boston-garden"
+       },
+       "plays_before": 84,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 105,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:far-from-me",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1980-05-12",
+        "show": "live:grateful-dead:1980-05-12:boston-garden"
+       },
+       "plays_before": 9,
+       "total_plays": 79
+      },
       "title": "Far From Me"
      },
      {
       "key": "song:grateful-dead:feel-like-a-stranger",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 13,
+       "total_plays": 216
+      },
       "title": "Feel Like A Stranger"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 230,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 33,
+       "total_plays": 285
+      },
       "title": "// Althea"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 38,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 35,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-11",
+        "show": "live:grateful-dead:1980-05-11:cumberland-county-civic-center"
+       },
+       "plays_before": 86,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 226,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 311,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 159,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 499,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 171,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1980-05-10",
+        "show": "live:grateful-dead:1980-05-10:hartford-civic-center"
+       },
+       "plays_before": 268,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1980-05-11",
+        "show": "live:grateful-dead:1980-05-11:cumberland-county-civic-center"
+       },
+       "plays_before": 165,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1980-05-07",
+        "show": "live:grateful-dead:1980-05-07:barton-hall-cornell-u"
+       },
+       "plays_before": 251,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1980-05-14",
+        "show": "live:grateful-dead:1980-05-14:nassau-coliseum"
+       },
+       "plays_before": 28,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      }
     ],
@@ -957,79 +1164,143 @@
      {
       "from": "gd1980-05-15.150726.fob.nak700.wagner.miller.clugston.flac24",
       "key": "song:grateful-dead:set-i-crowd",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "Set I crowd"
      },
      {
       "from": "gd1980-05-15.150726.fob.nak700.wagner.miller.clugston.flac24",
       "key": "song:grateful-dead:set-ii-crowd",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2798,
+       "gap_shows": 476,
+       "last_played": {
+        "date": "1972-09-16",
+        "show": "live:grateful-dead:1972-09-16:boston-music-hall"
+       },
+       "plays_before": 1,
+       "total_plays": 5
+      },
       "title": "Set II crowd"
      },
      {
       "from": "gd1980-05-15.150726.fob.nak700.wagner.miller.clugston.flac24",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 959,
+       "gap_shows": 209,
+       "last_played": {
+        "date": "1977-09-29",
+        "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t01-kbfh-id-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t01 KBFH ID Tuning"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t02-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t02 Alabama Getaway"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t03-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t03 Promised Land"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t04-terrapin-station",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t04 Terrapin Station"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t05-playing-in-the-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t05 Playin' In The Band"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t06-uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t06 Uncle John's Band"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t07-feel-like-a-stranger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t07 Feel Like A Stranger"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t08-althea",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t08 Althea"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t09-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t09 New Minglewood Blues"
      },
      {
       "from": "gd1980-05-15.16.144275.fm.kbfh.beckwith.smith.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd80-05-15-16-kbfh-t10-brokedown-palace",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd80-05-15.16 KBFH t10 Brokedown Palace"
      }
     ],
@@ -1037,26 +1308,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 831,
-     "shows_in_archive": 1855,
+     "show_number": 927,
+     "shows_in_archive": 2097,
      "songs": 23,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 12,
+   "parent_revision": 24,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.387078+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.533416+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 13,
-   "signature": "9ek-NBjZyDV6a7Z9_MxpzAvg35Rqn4YfPmX3rA4TJPnvrf6uvFoDC2AoKFcf_3nSDtg1y99MzQL9M6HYoysYAg",
+   "revision": 25,
+   "signature": "0_q3VvRc46U3_8vjI3yYsYVyw7G9r2f6AKMq8TcvuhVMW7MS2Gz667EgiVpZ1imMYjaXEBmH_Zx252lukOZ6AA",
    "subject_key": "live:grateful-dead:1980-05-15:nassau-coliseum",
-   "updated_at": "2026-10-25T16:41:53.388226"
+   "updated_at": "2026-10-25T17:35:16.534486"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): Reviewer's first live Grateful Dead show after nine years of listening; Jack Straw hit hard and made them a devoted fan; Reviewer names Jack Straw as one of the show's strong points [15][19][21]\n- **Terrapin Station** (2 reviews, 1 other source): Reviewer loved this Terrapin from the King Biscuit Flour Hour radio broadcast; The King Biscuit broadcast Terrapin is called one of the best the reviewer has heard [1][12][13]\n- **Peggy-O** (2 reviews): Reviewer names Peggy-O as one of the show's strong points; Reviewer remembers a beautiful Peggy-O [19][21]\n- **// Althea** (2 reviews): Reviewer finds Althea stupendously weak, lacking the muscle it should have had; The Althea through Sailor, Saint, Terrapin, Playin' and Uncle John's run is ranked among the band's best jams [19][22]\n- **Cassidy** (1 other source): Cassidy's final portion, from 4:20 onward, is supplied by the shnid 34721 source [5]\n- **Lazy Lightning** (1 review): Lazy Lightning into Supplication is singled out as high energy [23]\n- **Feel Like A Stranger** (1 review): Feel Like A Stranger is singled out as high energy [23]\n- **Playin' In The Band** (1 review): The Playin' into Uncle John's Band segment is described as memorable [13]\n\n## The recordings\n\n- **gd1980-05-15.aud.long.34721.sbeok.sbeok.flac16** (recommended): audience recording; 23 songs; 158 min [1]\n- **gd1980-05-15.150726.fob.nak700.wagner.miller.clugston.flac24**: source not stated; 24 songs; 159 min [2]\n- **gd1980-05-15.sbd.cantor.miller.93426.sbeok.flac16**: soundboard; 22 songs; 152 min; rated 3.33/5 by 6 [5]. Said about its sound: Soundboard sounds good overall, though it has some rough patches; Soundboard is described as extremely crisp and well played [17][22]\n- **gd1980-05-15.150725.fob.nak700.wagner.clugston.miller.flac16**: source not stated; 24 songs; 159 min [3]\n\n## Around the show\n\n- Reviewer and a friend, Peter, bought first-row tickets for this show [21]\n- Brent's voice sounds high here and clashes with Jerry's; it later became deeper and bluesier [17]\n\n## Tapers and lineage\n\n- **gd1980-05-15.aud.long.34721.sbeok.sbeok.flac16**: transferred by Andrew Long; source: AUD MC > DAT > CDR > EAC > Cool Edit 2K > CDWave > SHN [1]. Also: Audience source (Schlissel, shnid 12790) patched with FM material, from shnid 34685, taken via cassette and Sony TC-D5M deck; Minor glitches were repaired with a pencil tool, and iZotope Ozone adjusted the FM patches' sound [1]\n- **gd1980-05-15.150726.fob.nak700.wagner.miller.clugston.flac24**: taped by Bob Wagner; transferred by Scott Clugston and Charlie Miller; source: FOB Nakamichi CM700 > Cassette Master (Maxell UDXLII) [2]. Also: FM-broadcast based transfer mastered by Scott Clugston and Charlie Miller, with pitch correction applied; Uncle John's Band is patched using shnid 126082 [2]\n- **gd1980-05-15.sbd.cantor.miller.93426.sbeok.flac16**: taped by Betty Cantor; transferred by Charlie Miller; source: SBD -> Cassette Master [5]. Also: Soundboard transfer from Betty's recording mix, using DATs lent by Rob Eaton; the mix changes numerous times; The shnid 34721 supplement comes from unknown mics to cassette master to DAT to CD [5]\n- **gd1980-05-15.150725.fob.nak700.wagner.clugston.miller.flac16**: taped by Recorded by Bob Wagner; transferred by Mastered by Scott Clugston and Charlie Miller; source: FOB Nakamichi CM700 > Cassette Master (Maxell UDXLII) [3]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead Nassau Veterans Memorial Coliseum - May 15, 1980](https://www.dead.net/show/may-15-1980) [25]",

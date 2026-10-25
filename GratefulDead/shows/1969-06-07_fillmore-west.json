@@ -225,7 +225,7 @@
      "id": 15,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -407,57 +407,151 @@
     "setlist": [
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:duprees-diamond-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-06-01",
+        "show": "live:grateful-dead:1969-06-01:avalon-ballroom"
+       },
+       "plays_before": 11,
+       "total_plays": 86
+      },
       "title": "Dupree's Diamond Blues"
      },
      {
       "key": "song:grateful-dead:mountains-of-the-moon",
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 14
+      },
       "title": "Mountains Of The Moon"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-05",
+        "show": "live:grateful-dead:1969-06-05:fillmore-west"
+       },
+       "plays_before": 65,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-05",
+        "show": "live:grateful-dead:1969-06-05:fillmore-west"
+       },
+       "plays_before": 59,
+       "total_plays": 165
+      },
       "title": "Saint Stephen"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-05",
+        "show": "live:grateful-dead:1969-06-05:fillmore-west"
+       },
+       "plays_before": 63,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:sitting-on-top-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-05",
+        "show": "live:grateful-dead:1969-06-05:fillmore-west"
+       },
+       "plays_before": 16,
+       "total_plays": 42
+      },
       "title": "Sitting On Top Of The World"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-05-31",
+        "show": "live:grateful-dead:1969-05-31:mcarthur-court-university-of-oregon"
+       },
+       "plays_before": 21,
+       "total_plays": 260
+      },
       "title": "Cold Rain and Snow"
      },
      {
       "key": "song:grateful-dead:doing-that-rag",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1969-06-05",
+        "show": "live:grateful-dead:1969-06-05:fillmore-west"
+       },
+       "plays_before": 30,
+       "total_plays": 41
+      },
       "title": "Doin' That Rag"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-06",
+        "show": "live:grateful-dead:1969-06-06:fillmore-west"
+       },
+       "plays_before": 15,
+       "total_plays": 637
+      },
       "title": "Me and My Uncle"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-06-06",
+        "show": "live:grateful-dead:1969-06-06:fillmore-west"
+       },
+       "plays_before": 67,
+       "total_plays": 333
+      },
       "title": "Turn on Your Lovelight"
      }
     ],
@@ -465,34 +559,40 @@
      {
       "from": "gd1969-06-07.132685.sbd.reels.wise.flac16",
       "key": "song:grateful-dead:turn-on-your-love-light-w-janis",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Turn On Your Love light w/Janis"
      }
     ],
     "subject_key": "live:grateful-dead:1969-06-07:fillmore-west",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 130,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Dire Wolf"
+     ],
+     "show_number": 155,
+     "shows_in_archive": 2097,
      "songs": 11,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Fillmore West"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.284963+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.999222+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "f8P7pxpcnNKZOiAYiL1V2tJjbl72tduzZGWTVZpscB9aAvA0OB-f-HD1_V3r4FVk5BYUFmvmz78kAbmvq4V3CA",
+   "revision": 42,
+   "signature": "s_tJMGc8ScFRAlCvzpvOnOnGkpcm1say04Y1itku9Lofaee5v5z_VsgB8nvkXKIKTOyrSPra2kasPNI5JbEuDg",
    "subject_key": "live:grateful-dead:1969-06-07:fillmore-west",
-   "updated_at": "2026-10-25T16:41:39.286676"
+   "updated_at": "2026-10-25T17:35:10.000126"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Turn on Your Lovelight** (1 review, 1 other source): Besides Janis, Jerry's soloing on Lovelight is singled out as exceptionally good; Janis Joplin's vocals on Lovelight are first heard at 4:20 [1][7]\n- **Me and My Uncle** (1 review): Jerry's playing sounds particularly beautiful on Me and My Uncle [9]\n- Garcia's playing is fresh, nimble and focused, with double-stops; band interplay is tight and dynamics shift often [8]\n\n## The recordings\n\n- **gd69-06-07.sbd.kaplan.9074.sbeok.shnf** (recommended): soundboard; 11 songs; 93 min; rated 4.18/5 by 33 [1]. Said about its sound: Disc 2 (Me & My Uncle, Lovelight) seems to come from a different source; Uncle sounds digitally staticky, Lovelight like multi-generation analog; Sound quality is poor: very hissy, with no dynamic range; Recording is hissy, better than the 2/2/69 tape; Me & My Uncle sounds as if recorded in a tin can [4][6][7][13]\n- **gd1969-06-07.132685.sbd.reels.wise.flac16**: soundboard; 11 songs; 94 min; rated 2.33/5 by 6 [2]\n\n## Around the show\n\n- Janis Joplin joins the band on Lovelight about four and a half minutes into the song [3]\n- Reviewer sees this as near the peak of Garcia's creativity, before the later endless noodling and recycled riffs [8]\n- Reviewer laments that Janis was recorded live with the band only a few times [11]\n\n## Tapers and lineage\n\n- **gd69-06-07.sbd.kaplan.9074.sbeok.shnf**: transferred by A.J. Fink and Seth Kaplan; source: Soundboard [1]. Also: Most circulating copies derive from a Beta Hi-Fi copy of first-generation reels from the early 90s, with a Dark Star restart glitch; A.J. Fink did extraction, retracking, editing and SHN encoding, patching the Dark Star restart and resampling pitch [1]\n- **gd1969-06-07.132685.sbd.reels.wise.flac16**: transferred by Jim Wise; source: Composite from 3 different source reels; Editing(Adobe Audition CC)-FLAC encoding(dBpoweramp)-Tagging(Tag & Re-name)-Processing (izotope oZone 6) by Jim Wise [2]\n\n## Art and photos\n\n- Photo by a Flickr member (All rights reserved): [gd1969-06-07front](https://www.flickr.com/photos/38838560@N04/4957749694/) [18]\n- Photo by a Flickr member (All rights reserved): [gd1969-06-07back](https://www.flickr.com/photos/38838560@N04/4957748914/) [19]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/38838560@N04/4957749694/) [20]\n- Photo by uncredited: [the page](https://www.flickr.com/photos/38838560@N04/4957748914/) [21]",

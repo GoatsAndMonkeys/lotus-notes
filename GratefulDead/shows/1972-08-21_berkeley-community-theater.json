@@ -368,7 +368,7 @@
      "id": 22,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -425,7 +425,7 @@
      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhq-K7CjW42IFIIMIDRMQrhr_KTfiEXXVwGv9nxBryfjWM3NMSpWweTu1cmA_qzv3yRab9s6_3U2ExAa5mlGszmFpgTjB6yXAOluhu6vOmd5IB4YgZUKOPlUQ49ieXuIcZCLmGzuo5T0E/s1600/Grateful+Dead%252C+BCT+8-22-72.jpg",
      "kind": "poster",
      "published_at": null,
-     "quote_or_claim": "Arizona Jones: Grateful Dead, Berkeley Comm….",
+     "quote_or_claim": "One More Saturday Night Mp3/320k https://mega.nz/#!9c4nkC6T!GIBQ9FVWIR2_-4xPdaAVeCiDCD6vT1FLPWxCfvtqmpU https://mega.nz/#!MVhTXL6J!qk9G08P7Wagc-BmlAEyAlvtncU3zYGJSHKhZ7dWJcwE…",
      "site": "arizjones.blogspot.com",
      "title": "Grateful Dead, Berkeley Community Theatre, Berkeley, CA.  August 1972, three shows.   (SBD)",
      "url": "https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html",
@@ -456,8 +456,8 @@
     "guests": [],
     "next": {
      "date": "1972-08-22",
-     "show": "live:grateful-dead:1972-08-22:berkeley-community-theatre",
-     "venue": "Berkeley Community Theatre"
+     "show": "live:grateful-dead:1972-08-22:berkeley-community-theater",
+     "venue": "Berkeley Community Theater"
     },
     "previous": {
      "date": "1972-08-20",
@@ -744,127 +744,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 24,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 18,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 40,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 37,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 62,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-07-26",
+        "show": "live:grateful-dead:1972-07-26:paramount-theater"
+       },
+       "plays_before": 162,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-07-26",
+        "show": "live:grateful-dead:1972-07-26:paramount-theater"
+       },
+       "plays_before": 164,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 205,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 59,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 107,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:stella-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 8,
+       "total_plays": 340
+      },
       "title": "Stella Blue"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 110,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 35,
+       "total_plays": 360
+      },
       "title": "Brown Eyed Women"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-07-26",
+        "show": "live:grateful-dead:1972-07-26:paramount-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 204,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-12",
+        "show": "live:grateful-dead:1972-08-12:sacramento-memorial-auditorium"
+       },
+       "plays_before": 37,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-12",
+        "show": "live:grateful-dead:1972-08-12:sacramento-memorial-auditorium"
+       },
+       "plays_before": 46,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1972-07-26",
+        "show": "live:grateful-dead:1972-07-26:paramount-theater"
+       },
+       "plays_before": 139,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 70,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 373,
+       "gap_shows": 80,
+       "last_played": {
+        "date": "1971-08-14",
+        "show": "live:grateful-dead:1971-08-14:berkeley-community-theater"
+       },
+       "plays_before": 5,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-12",
+        "show": "live:grateful-dead:1972-08-12:sacramento-memorial-auditorium"
+       },
+       "plays_before": 53,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 127,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1972-08-12",
+        "show": "live:grateful-dead:1972-08-12:sacramento-memorial-auditorium"
+       },
+       "plays_before": 5,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 97,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1972-08-20",
+        "show": "live:grateful-dead:1972-08-20:san-jose-civic-auditorium"
+       },
+       "plays_before": 56,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -872,7 +1097,16 @@
      {
       "from": "gd1972-08-21.139581.sbd.miller.sirmick.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1972-07-22",
+        "show": "live:grateful-dead:1972-07-22:paramount-northwest-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      }
     ],
@@ -880,26 +1114,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 368,
-     "shows_in_archive": 1855,
+     "show_number": 441,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Berkeley Community Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:44.733903+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:12.657828+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "Gu-M_Jk0eV6HG33o5O75pVj4kc426jiLHzCAKOvj2sAjzUsOVg07iKujZFd-G0w1i8CcPmVBBrgmpTkltIZ6AA",
+   "revision": 42,
+   "signature": "DQOhuqlr9XsFhIgLgnkVp_mbgp6t9mEnIjwDmbyj3Ao59Fv6mVXEsSeOHks5XicU6kdS5Q-IsCXkgA08ffu_Cg",
    "subject_key": "live:grateful-dead:1972-08-21:berkeley-community-theater",
-   "updated_at": "2026-10-25T16:41:44.735778"
+   "updated_at": "2026-10-25T17:35:12.659228"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **China Cat Sunflower** (2 reviews): Reviewer specifically recommends checking out the performance of China Cat Sunflower; The transition from China Cat to I Know You Rider is called amazing [16][21]\n- **Black Throated Wind** (1 review): Black Throated Wind is described as full of energy [21]\n- **Greatest Story Ever Told** (1 review): Reviewer usually dislikes Donna but loves her performance on this specific track [10]\n- **Dark Star** (1 review): The transition from Dark Star into El Paso is described as fantastic [10]\n- **El Paso** (1 review): El Paso and Deal are highlighted for their interesting transitions [18]\n\n## The recordings\n\n- **gd72-08-21.sbd.hamilton.150.sbeok.shnf** (recommended): soundboard; 25 songs; 184 min; rated 4.67/5 by 52 [1]. Said about its sound: Reviewer states the recording exemplifies what a recording is supposed to sound like; Reviewer describes the recording quality as stunning and the performance as intense; Reviewer notes the recording has a nice listenable tone [11][15][16][17]\n- **gd1972-08-21.171736.mtx.tobin.flac1648**: matrix (soundboard mixed with audience mics); 24 songs; 175 min [4]\n- **gd1972-08-21.139581.sbd.miller.sirmick.flac16**: soundboard; 25 songs; 186 min; rated 5/5 by 3 [2]\n- **gd1972-08-21.139581.sbd.miller.sirmick.fixed.flac16**: soundboard; 25 songs; 186 min; rated 5/5 by 1 [3]\n\n## Around the show\n\n- Phil and Billy resisted Jerry's attempt to transition into Morning Dew [12]\n- Phil shut down Jerry's attempt to play Morning Dew after Dark Star [15]\n- Reviewer thinks this show is overshadowed by the August 27th performance [10]\n- Reviewer previously ranked this show highly until hearing the August 24th performance [12]\n- Friend of the Devil and Mississippi Half Step echo the upcoming September shows [18]\n\n## Tapers and lineage\n\n- **gd72-08-21.sbd.hamilton.150.sbeok.shnf**: source: Soundboard [1]. Also: Signal chain: MR to PCM, DAT, CD, EAC, SHN via Hollister and Hamilton [1]\n- **gd1972-08-21.171736.mtx.tobin.flac1648**: transferred by Kevin Tobin; source: SBD + AUD Matrix 2 Source Mix (48/16) [4]. Also: Mixed by an archive.org user, converted to FLAC in June 2025 [4]\n- **gd1972-08-21.139581.sbd.miller.sirmick.flac16**: taped by Betty Cantor-Jackson; transferred by Charlie Miller and SIRMick; source: Source: SBD > Master Reels @ 7.5ips (10 Inch half-track ) > PCM > DAT (44.1k) - Recorded by Betty Cantor-Jackson, provided by Charlie Miller; Transfer: Dat >… [2]\n- **gd1972-08-21.139581.sbd.miller.sirmick.fixed.flac16**: transferred by Charlie Miller and SIRMick; source: Source: SBD > Master Reels @ 7.5ips (10 Inch half-track ) > PCM > DAT (44.1k) - Recorded by Betty Cantor-Jackson, provided by Charlie Miller; Transfer: Dat >… [3]\n\n## Art and photos\n\n- Poster by arizjones.blogspot.com: [Grateful Dead, Berkeley Community Theatre, Berkeley, CA. August 1972, three shows. (SBD)](https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html) [26]\n- Fan art by arizjones.blogspot.com: [Grateful Dead, Berkeley Community Theatre, Berkeley, CA. August 1972, three shows. (SBD)](https://arizjones.blogspot.com/2015/10/grateful-dead-berkeley-community.html) [27]",

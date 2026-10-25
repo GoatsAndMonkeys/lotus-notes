@@ -956,7 +956,7 @@
      "id": 45,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -970,7 +970,7 @@
      "id": 46,
      "kind": "reddit",
      "published_at": null,
-     "quote_or_claim": "r/gratefuldead - This flyer announces the Grateful Dead's \"Annual Spring Party!\" r/gratefuldead - This flyer announces the Grateful Dead's \" ...",
+     "quote_or_claim": "Grateful Dead - 4/7/85 - The Spectrum - Philadelphia, PA · Comments Section · 1985-04-07 @ The Spectrum, Philadelphia, PA, USA · 1985-04-06 @ The…",
      "site": "Reddit · r/gratefuldead",
      "title": "Grateful Dead - 4/7/85 - The Spectrum - Philadelphia, PA - Reddit",
      "url": "https://www.reddit.com/r/gratefuldead/comments/1sevcwa/grateful_dead_4785_the_spectrum_philadelphia_pa/",
@@ -2081,102 +2081,264 @@
      {
       "key": "song:grateful-dead:why-dont-we-do-it-in-the-road",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 155,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1984-11-03",
+        "show": "live:grateful-dead:1984-11-03:berkeley-community-theater"
+       },
+       "plays_before": 4,
+       "total_plays": 7
+      },
       "title": "Why Don't We Do It In The Road"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 131,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:c-c-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1985-03-31",
+        "show": "live:grateful-dead:1985-03-31:cumberland-county-civic-center"
+       },
+       "plays_before": 95,
+       "total_plays": 134
+      },
       "title": "C C Rider"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1985-04-01",
+        "show": "live:grateful-dead:1985-04-01:cumberland-county-civic-center"
+       },
+       "plays_before": 174,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 159,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1984-10-30",
+        "show": "live:grateful-dead:1984-10-30:berkeley-community-theater"
+       },
+       "plays_before": 117,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 334,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 105,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 257,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:she-belongs-to-me",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1985-04-04",
+        "show": "live:grateful-dead:1985-04-04:providence-civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 10
+      },
       "title": "She Belongs To Me"
      },
      {
       "key": "song:grateful-dead:man-smart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 73,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-06",
+        "show": "live:grateful-dead:1985-04-06:the-spectrum"
+       },
+       "plays_before": 866,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1985-04-06",
+        "show": "live:grateful-dead:1985-04-06:the-spectrum"
+       },
+       "plays_before": 530,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:gimme-some-loving",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 3,
+       "total_plays": 90
+      },
       "title": "Gimme Some Lovin'"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 380,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1985-03-28",
+        "show": "live:grateful-dead:1985-03-28:nassau-coliseum"
+       },
+       "plays_before": 25,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightnin'"
      },
      {
       "key": "song:grateful-dead:morning-dew",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 158,
+       "gap_shows": 26,
+       "last_played": {
+        "date": "1984-10-31",
+        "show": "live:grateful-dead:1984-10-31:berkeley-community-theater"
+       },
+       "plays_before": 165,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 441,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:keep-your-day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 41,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -2184,49 +2346,106 @@
      {
       "from": "gd85-04-07.sbd.sacks.3346.sbeok.shnf",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1985-03-27",
+        "show": "live:grateful-dead:1985-03-27:nassau-coliseum"
+       },
+       "plays_before": 129,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd85-04-07.sbd.sacks.3346.sbeok.shnf",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 72,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "from": "gd85-04-07.sbd.sacks.3346.sbeok.shnf",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 39,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1985-04-07.169904.matrix.miksis.sacks.hunt.mattes.clugston.flac1648",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1985-04-03",
+        "show": "live:grateful-dead:1985-04-03:providence-civic-center"
+       },
+       "plays_before": 61,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "from": "gd1985-04-07.145488.aud.lamarre.berger.flac16",
       "key": "song:grateful-dead:do-it-in-the-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Do It In The Road"
      },
      {
       "from": "gd1985-04-07.145488.aud.lamarre.berger.flac16",
       "key": "song:grateful-dead:half-step-mississippi-uptown",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Half Step Mississippi Uptown"
      },
      {
       "from": "gd1985-04-07.124835.chasingwilma.flac24",
       "key": "song:grateful-dead:dancin-in-the-streets",
-      "stats": {},
+      "stats": {
+       "days_since": 180,
+       "gap_shows": 37,
+       "last_played": {
+        "date": "1984-10-09",
+        "show": "live:grateful-dead:1984-10-09:the-centrum"
+       },
+       "plays_before": 16,
+       "total_plays": 25
+      },
       "title": "dancin in the streets"
      },
      {
       "from": "gd1985-04-07.141212.s1.unknown.Bryant.Miller.Noel.t-flac1644",
       "key": "song:grateful-dead:hiya-kids",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "hiya kids"
      }
     ],
@@ -2234,26 +2453,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1209,
-     "shows_in_archive": 1855,
+     "show_number": 1312,
+     "shows_in_archive": 2097,
      "songs": 18,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Spectrum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 31,
+   "parent_revision": 43,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:00.047301+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:20.452237+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 32,
-   "signature": "xnAGKTVkzpdA365kRrBsDzb1zd-OhyNfY5eFOj0iFeJXs4_NgvkoaBmhCzeRtUaNI0SDO06ws2Qo9gF1kZQMBg",
+   "revision": 44,
+   "signature": "7VB0xViKjD5v2OFqej0oCDQgz6Lm39FRrllXdUOMzsR7cmwnceSdT1PDR4dlm6PYvMXzljVl7daPwoZOp6EsDg",
    "subject_key": "live:grateful-dead:1985-04-07:the-spectrum",
-   "updated_at": "2026-10-25T16:42:00.049878"
+   "updated_at": "2026-10-25T17:35:20.453973"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **She Belongs To Me** (1 review): Garcia's cracking voice conveys emotional fragility in the second reading of the lyrics [37]\n\n## The recordings\n\n- **gd1985-04-07.132713.mtx.dusborne.flac16** (recommended): matrix (soundboard mixed with audience mics); 18 songs; 142 min; rated 4/5 by 2 [1]\n- **gd1985-04-07.118484.sbd.healy.damico.flac16**: soundboard; 18 songs; 140 min; rated 3.36/5 by 11 [2]. Said about its sound: Clear soundboard recording includes Matrix sound at appropriate moments; One channel is phase-inverted, producing a strange sound until corrected in DAW [32][39]\n- **gd1985-04-07.169904.matrix.miksis.sacks.hunt.mattes.clugston.flac1648**: matrix (soundboard mixed with audience mics); 18 songs; 140 min [3]\n- **gd1985-04-07.169900.sbd.patched.pitched.remaster.sacks.keith.miksis.flac1648**: soundboard; 18 songs; 140 min [4]\n- **gd1985-04-07.139542.5-1.tobin.flac1648**: matrix (soundboard mixed with audience mics); 18 songs; 141 min [5]\n- **gd1985-04-07.senn-hubbard.bandrofcheck.81454.flac16**: source not stated; 18 songs; 139 min; rated 2/5 by 1 [14]. Said about its sound: This specific recording is flat by an entire semitone [38]\n- **gd1985-04-07.senn421.cohen.103429.flac16**: source not stated; 17 songs; 132 min; rated 5/5 by 1 [28]. Said about its sound: Best available audience recording; muddy low end but well-blended vocals and even EQ [35]\n\n## Around the show\n\n- Phil mocked Bobby's early 70s greeting, launching the crowd into excitement [32]\n- Reviewer recalls intense energy from this three-show run as a high school senior [33]\n- Stunning performance after the band resuscitated the song following a 19-year absence [41]\n- Reviewer prefers the final night of the run over this Philadelphia show [42]\n\n## Tapers and lineage\n\n- **gd1985-04-07.132713.mtx.dusborne.flac16**: transferred by Matrix by Dave Usborne; source: 2 Source Matrix by Dusborne; Soundboard(shinid:003346) CSBD>DAT>CDR>EAC>SHN and Audience(shinid:128613) Schoeps CMC441s (90deg, 17cm) > Oade M118 > Oade mod… [1]\n- **gd1985-04-07.118484.sbd.healy.damico.flac16**: taped by Dan Healy; transferred by Joe D'Amico; source: Soundboard 1st Gen Tape > Tascam 122 mk lll > Korg Mr-1000 > Audio Gate > Cool Edit > Traders Little Helper; Taper: Dan Healy; Editing: Joe D'amico [2]. Also: Nak 300 mics to Sony D-5, sourced from Etree [2]\n- **gd1985-04-07.169904.matrix.miksis.sacks.hunt.mattes.clugston.flac1648**: transferred by Created by Brian Miksis January 15, 2025; source: SBD/AUD Matrix: Final Cut Pro (16b/48k) > Izotope RX Advanced > Peak Pro > xAct > FLAC/16 [3]. Also: Patched and remastered using sources from Sacks, Keith, D'Amico, Hunt, and Mattes [3]\n- **gd1985-04-07.169900.sbd.patched.pitched.remaster.sacks.keith.miksis.flac1648**: transferred by Mastering by Brian Miksis January 15, 2025; source: Final Cut Pro (16b/48k) > Izotope RX Advanced > Peak Pro > xAct > FLAC/16 [4]. Also: Three soundboard sources combined to create a 100% complete, remastered recording [4]\n- **gd1985-04-07.139542.5-1.tobin.flac1648**: transferred by 5.1 LPCM Surround Sound Mix (48k) by Kevin Tobin; source: flac16/48kHz; 5.1 LPCM Surround Sound (48k) - SBD (shnid = 118484) Soundboard 1st Gen Tape > Tascam 122 mk lll > Korg Mr-1000 > Audio Gate > Cool Edit >… [5]. Also: Mixed by an archive.org user, converted to FLAC in October 2017 [5]\n- **gd1985-04-07.senn-hubbard.bandrofcheck.81454.flac16**: taped by Jeff Hubbard; transferred by Charles Bandrofcheck; source: Sennheiser 4xx's > Marantz PMDxxx > MC. [14]\n- **gd1985-04-07.senn421.cohen.103429.flac16**: taped by Dave Cohen; transferred by Dave Cohen; source: Just to the right of the Board Sennheisser 421s>Sony TCD5M>Sony WMD6 Maxell XLII cassette masters. Dolby B was used on the Master Cassettes. [28]",

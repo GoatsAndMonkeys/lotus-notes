@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -107,12 +107,20 @@
     "setlist": [
      {
       "key": "song:grateful-dead:side-a",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Side A"
      },
      {
       "key": "song:grateful-dead:side-b",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Side B"
      }
     ],
@@ -120,27 +128,30 @@
     "subject_key": "live:grateful-dead:1980-06-01:unknown",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 836,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Side A",
+      "Side B"
+     ],
+     "show_number": 932,
+     "shows_in_archive": 2097,
      "songs": 2,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Unknown"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.413646+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.560623+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "5Rq2-Da84Y-texrZgdBUWLJzt4UO8Z4cie4bblos9nIR0UOd_dNqoNgsXEix5d9IgiFUfgmfAhIHaYr--TGbAA",
+   "revision": 40,
+   "signature": "IJ7yYMKwCOEMYIJ3oNpBwhNWKbJ8lF-zESuWylzoDDGrbcM5qA1H0RVg1jBFTF9qsskx1jcNWKjcjofcW4CHDw",
    "subject_key": "live:grateful-dead:1980-06-01:unknown",
-   "updated_at": "2026-10-25T16:41:53.414076"
+   "updated_at": "2026-10-25T17:35:16.560984"
   }
  },
  "recommended": {

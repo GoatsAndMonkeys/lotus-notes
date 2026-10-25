@@ -609,7 +609,7 @@
      "id": 32,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -695,8 +695,8 @@
     "guests": [],
     "next": {
      "date": "1989-04-03",
-     "show": "live:grateful-dead:1989-04-03:pittsburgh-civic-arena",
-     "venue": "Pittsburgh Civic Arena"
+     "show": "live:grateful-dead:1989-04-03:civic-arena",
+     "venue": "Civic Arena"
     },
     "previous": {
      "date": "1989-03-31",
@@ -1283,117 +1283,306 @@
     "setlist": [
      {
       "key": "song:grateful-dead:iko-iko",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-03-31",
+        "show": "live:grateful-dead:1989-03-31:greensboro-coliseum"
+       },
+       "plays_before": 112,
+       "total_plays": 190
+      },
       "title": "Iko Iko"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 56,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1989-02-05",
+        "show": "live:grateful-dead:1989-02-05:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 200,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1989-02-12",
+        "show": "live:grateful-dead:1989-02-12:great-western-la-forum"
+       },
+       "plays_before": 214,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1988-12-28",
+        "show": "live:grateful-dead:1988-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 121,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:we-can-run",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 6,
+       "total_plays": 24
+      },
       "title": "We Can Run"
      },
      {
       "key": "song:grateful-dead:brown-eyed-women",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 299,
+       "total_plays": 360
+      },
       "title": "Brown-Eyed Women"
      },
      {
       "key": "song:grateful-dead:queen-jane-approximately",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 34,
+       "total_plays": 137
+      },
       "title": "Queen Jane Approximately"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 55,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1989-02-06",
+        "show": "live:grateful-dead:1989-02-06:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 360,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 113,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1988-12-10",
+        "show": "live:grateful-dead:1988-12-10:long-beach-arena"
+       },
+       "plays_before": 184,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 133,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 120,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:foolish-heart",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1989-03-28",
+        "show": "live:grateful-dead:1989-03-28:the-omni"
+       },
+       "plays_before": 23,
+       "total_plays": 91
+      },
       "title": "Foolish Heart"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-03-31",
+        "show": "live:grateful-dead:1989-03-31:greensboro-coliseum"
+       },
+       "plays_before": 1143,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-03-31",
+        "show": "live:grateful-dead:1989-03-31:greensboro-coliseum"
+       },
+       "plays_before": 803,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 175,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:dear-mr-fantasy",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 112,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1988-12-11",
+        "show": "live:grateful-dead:1988-12-11:long-beach-arena"
+       },
+       "plays_before": 43,
+       "total_plays": 62
+      },
       "title": "Dear Mr. Fantasy"
      },
      {
       "key": "song:grateful-dead:hey-jude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 112,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1988-12-11",
+        "show": "live:grateful-dead:1988-12-11:long-beach-arena"
+       },
+       "plays_before": 17,
+       "total_plays": 30
+      },
       "title": "Hey Jude"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 195,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1988-09-19",
+        "show": "live:grateful-dead:1988-09-19:madison-square-garden"
+       },
+       "plays_before": 357,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 54,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1989-02-07",
+        "show": "live:grateful-dead:1989-02-07:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 269,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 241,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-02-10",
+        "show": "live:grateful-dead:1989-02-10:great-western-la-forum"
+       },
+       "plays_before": 117,
+       "total_plays": 155
+      },
       "title": "It's All Over Now, Baby Blue"
      }
     ],
@@ -1401,85 +1590,206 @@
      {
       "from": "gd1989-04-02.135455.LPCM5-1.bhp.flac1648",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 128,
+       "total_plays": 187
+      },
       "title": "Women are Smarter"
      },
      {
       "from": "gd1989-04-02.135455.LPCM5-1.bhp.flac1648",
       "key": "song:grateful-dead:hey-jude-refrain",
-      "stats": {},
+      "stats": {
+       "days_since": 192,
+       "gap_shows": 29,
+       "last_played": {
+        "date": "1988-09-22",
+        "show": "live:grateful-dead:1988-09-22:madison-square-garden"
+       },
+       "plays_before": 5,
+       "total_plays": 10
+      },
       "title": "Hey Jude Refrain"
      },
      {
       "from": "gd1989-04-02.135455.LPCM5-1.bhp.flac1648",
       "key": "song:grateful-dead:1-lpcm-surround-sound-mixed-in-adobe-audition-cc-2014-using-the-following-sources",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "1 LPCM Surround Sound (48k) mixed in Adobe Audition CC 2014 using the following sources"
      },
      {
       "from": "gd1989-04-02.134822.bk4011.fob.jbraveman.flac16",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 50,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1989-02-11",
+        "show": "live:grateful-dead:1989-02-11:great-western-la-forum"
+       },
+       "plays_before": 132,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1989-04-02.nak300.pasternak.89780.sbeok.flac16",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 163,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1988-10-21",
+        "show": "live:grateful-dead:1988-10-21:reunion-arena"
+       },
+       "plays_before": 103,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1989-04-02.151419.OTS.AKG.Ackerman.Noel.t-flac1644",
       "key": "song:grateful-dead:hey-jude-reprise",
-      "stats": {},
+      "stats": {
+       "days_since": 164,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1988-10-20",
+        "show": "live:grateful-dead:1988-10-20:the-summit"
+       },
+       "plays_before": 12,
+       "total_plays": 25
+      },
       "title": "Hey Jude Reprise"
      },
      {
       "from": "gd1989-04-02.149268.sennheiser.ebel.x.flac2496",
       "key": "song:grateful-dead:all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 95,
+       "gap_shows": 14,
+       "last_played": {
+        "date": "1988-12-28",
+        "show": "live:grateful-dead:1988-12-28:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 38,
+       "total_plays": 61
+      },
       "title": "All Over Now"
      },
      {
       "from": "gd1989-04-02.149268.sennheiser.ebel.x.flac2496",
       "key": "song:grateful-dead:queen-jane",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 15,
+       "total_plays": 57
+      },
       "title": "Queen Jane"
      },
      {
       "from": "gd1989-04-02.149268.sennheiser.ebel.x.flac2496",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1989-03-31",
+        "show": "live:grateful-dead:1989-03-31:greensboro-coliseum"
+       },
+       "plays_before": 82,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1989-04-02.149268.sennheiser.ebel.x.flac2496",
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 72,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "from": "gd1989-04-02.149268.sennheiser.ebel.x.flac2496",
       "key": "song:grateful-dead:baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1989-02-10",
+        "show": "live:grateful-dead:1989-02-10:great-western-la-forum"
+       },
+       "plays_before": 31,
+       "total_plays": 47
+      },
       "title": "Baby Blue"
      },
      {
       "from": "gd89-04-02.beyerM88.connor.29734.sbeok.shnf",
       "key": "song:grateful-dead:aiko-aiko",
-      "stats": {},
+      "stats": {
+       "days_since": 166,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1988-10-18",
+        "show": "live:grateful-dead:1988-10-18:keifer-lakefront-arena"
+       },
+       "plays_before": 71,
+       "total_plays": 114
+      },
       "title": "Aiko Aiko"
      },
      {
       "from": "gd89-04-02.beyerM88.connor.29734.sbeok.shnf",
       "key": "song:grateful-dead:hey-jude-finale",
-      "stats": {},
+      "stats": {
+       "days_since": 164,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1988-10-20",
+        "show": "live:grateful-dead:1988-10-20:the-summit"
+       },
+       "plays_before": 8,
+       "total_plays": 15
+      },
       "title": "Hey Jude Finale"
      },
      {
       "from": "gd89-04-02.beyer.wiley.9206.sbeok.shnf",
       "key": "song:grateful-dead:we-can-run-but-we-cant-hide",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1989-03-27",
+        "show": "live:grateful-dead:1989-03-27:the-omni"
+       },
+       "plays_before": 4,
+       "total_plays": 19
+      },
       "title": "We Can Run But We Can't Hide"
      }
     ],
@@ -1487,26 +1797,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1493,
-     "shows_in_archive": 1855,
+     "show_number": 1598,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Civic Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 17,
+   "parent_revision": 29,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:08.281436+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:24.202511+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 18,
-   "signature": "19S0H9z_bX_CO0aULg3OTa_OGrl5f3a_2fyk7JjwqXmSDZVDRONjHlZgQqmmlMgDOGePMXmCu51qzB_LFzjtBg",
+   "revision": 30,
+   "signature": "X92YRUYYC5vJg34M3DqRX-W3P5PpGZ-eBk9pnUN6LHYqcp01CNQvzCHctcLHEHKKIGcMTAJZJmt-cXYX7KXyAQ",
    "subject_key": "live:grateful-dead:1989-04-02:civic-arena",
-   "updated_at": "2026-10-25T16:42:08.287122"
+   "updated_at": "2026-10-25T17:35:24.204151"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (2 reviews): Band put the pedal down on Shakedown Street until Baby Blue; Shakedown Street is a real monster with lots of hot jams throughout [22][31]\n- **Dear Mr. Fantasy** (2 reviews): Jerry lays Dear Mr. Fantasy to waste in the second set; Shakedown and Dear Mr. Fantasy are out of this world highlights [27][30]\n- **Foolish Heart** (1 review): Jerry strummed Foolish Heart before Bobby finished Women Are Smarter, shrugging with a grin [26]\n\n## The recordings\n\n- **gd1989-04-02.147793.sbd.ultramatrix.miller.flac2496** (recommended): soundboard; 21 songs; 149 min [1]\n- **gd1989-04-02.135455.LPCM5-1.bhp.flac1648**: matrix (soundboard mixed with audience mics); 21 songs; 145 min [3]\n- **gd1989-04-02.nak300.pasternak.89780.sbeok.flac16**: source not stated; 21 songs; 146 min; rated 4.4/5 by 5 [8]\n- **gd1989-04-02.nak300.bleich.sirmick.96554.sbeok.flac16**: source not stated; 21 songs; 143 min; rated 5/5 by 1 [9]\n- **gd89-04-02.beyer.wiley.9206.sbeok.shnf**: audience recording; 21 songs; 135 min; rated 4.5/5 by 8 [15]. Said about its sound: High levels and clear guitars, though a bit swirly, capture the power [27]\n\n## Around the show\n\n- Riot police on horses and gate crashers marked the beginning of the end [21]\n- Excited fan hugged reviewer and gave a crystal for his first Brown-Eyed Women [22]\n- Reviewer missed this show but attended the next day's performance in Pittsburgh [23]\n- Reviewer was shut out of the show due to a riot and cold night [24]\n- Riots, cops, and gate-crashers occurred during this monster first night of the run [31]\n\n## Tapers and lineage\n\n- **gd1989-04-02.147793.sbd.ultramatrix.miller.flac2496**: taped by Don Pearson and Dan Healy; transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-XG90) [1]\n- **gd1989-04-02.135455.LPCM5-1.bhp.flac1648**: transferred by Kevin Tobin; source: flac16/48kHz ; 5.1 LPCM Surround Sound (48k) - SBD (shnid=17177) Matrix>DAT>CDR>EAC>SHN>WAV>CE2K>SHNTOOL>MKWACT. Editing/Seeding: MattMan + AUD (shn id 89780)… [3]. Also: 5.1 LPCM surround mix created by an archive.org user in January 2016 [3]\n- **gd1989-04-02.nak300.pasternak.89780.sbeok.flac16**: taped by Jon Pasternak; transferred by Andrew F; source: Nakamichi CM300/CP4's > Marantz PMD-420, front row of OTS. [8]. Also: First notes of Queen Jane clipped due to tape-flip; patched from another source [8]\n- **gd1989-04-02.nak300.bleich.sirmick.96554.sbeok.flac16**: taped by John Bleich; transferred by SIRMick; source: Nakamichi 300 shotguns > Sony WM-D6 > 2 x Maxell SII-S (from Section 9F, Row TT, Seat 8) [9]. Also: Recorded on Beyer M88s to Sony TCD5M, then Nak DR-10 and Midiman A/D; First few seconds of Queen Jane Approximately missing due to tape flip after Brown Eyed Women [9]\n- **gd89-04-02.beyer.wiley.9206.sbeok.shnf**: source: AUD(Beyer M-88Âs>Sony TC-D5)>MC>DAT>CDR [15]. Also: Friend sent tapes from a hotel party after being blown out at the show [28]",

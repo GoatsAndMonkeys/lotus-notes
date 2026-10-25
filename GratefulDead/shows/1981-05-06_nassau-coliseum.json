@@ -563,7 +563,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1131,127 +1131,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-05-05",
+        "show": "live:grateful-dead:1981-05-05:glens-falls-civic-center"
+       },
+       "plays_before": 78,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 143,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 44,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1981-03-23",
+        "show": "live:grateful-dead:1981-03-23:rainbow-theater"
+       },
+       "plays_before": 153,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-05-02",
+        "show": "live:grateful-dead:1981-05-02:the-spectrum"
+       },
+       "plays_before": 130,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 43,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:little-red-rooster",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 35,
+       "total_plays": 280
+      },
       "title": "Little Red Rooster"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 60,
+       "gap_shows": 16,
+       "last_played": {
+        "date": "1981-03-07",
+        "show": "live:grateful-dead:1981-03-07:cole-field-house-u-of-maryland"
+       },
+       "plays_before": 155,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 226,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 64,
+       "gap_shows": 20,
+       "last_played": {
+        "date": "1981-03-03",
+        "show": "live:grateful-dead:1981-03-03:cleveland-music-hall"
+       },
+       "plays_before": 102,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-05-01",
+        "show": "live:grateful-dead:1981-05-01:hampton-coliseum"
+       },
+       "plays_before": 109,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-05-01",
+        "show": "live:grateful-dead:1981-05-01:hampton-coliseum"
+       },
+       "plays_before": 273,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-05-02",
+        "show": "live:grateful-dead:1981-05-02:the-spectrum"
+       },
+       "plays_before": 194,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:high-time",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1981-03-24",
+        "show": "live:grateful-dead:1981-03-24:rainbow-theater"
+       },
+       "plays_before": 87,
+       "total_plays": 133
+      },
       "title": "High Time"
      },
      {
       "key": "song:grateful-dead:lost-sailor",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 92,
+       "total_plays": 157
+      },
       "title": "Lost Sailor"
      },
      {
       "key": "song:grateful-dead:saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1981-05-04",
+        "show": "live:grateful-dead:1981-05-04:the-spectrum"
+       },
+       "plays_before": 91,
+       "total_plays": 235
+      },
       "title": "Saint Of Circumstance"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-05-01",
+        "show": "live:grateful-dead:1981-05-01:hampton-coliseum"
+       },
+       "plays_before": 146,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:caution-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 359,
+       "gap_shows": 100,
+       "last_played": {
+        "date": "1980-05-12",
+        "show": "live:grateful-dead:1980-05-12:boston-garden"
+       },
+       "plays_before": 18,
+       "total_plays": 19
+      },
       "title": "Caution Jam"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-05-05",
+        "show": "live:grateful-dead:1981-05-05:glens-falls-civic-center"
+       },
+       "plays_before": 22,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-05-05",
+        "show": "live:grateful-dead:1981-05-05:glens-falls-civic-center"
+       },
+       "plays_before": 592,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-05-05",
+        "show": "live:grateful-dead:1981-05-05:glens-falls-civic-center"
+       },
+       "plays_before": 260,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-05-01",
+        "show": "live:grateful-dead:1981-05-01:hampton-coliseum"
+       },
+       "plays_before": 328,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1981-02-26",
+        "show": "live:grateful-dead:1981-02-26:uptown-theater"
+       },
+       "plays_before": 176,
+       "total_plays": 302
+      },
       "title": "Goin' Down The Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1981-05-01",
+        "show": "live:grateful-dead:1981-05-01:hampton-coliseum"
+       },
+       "plays_before": 201,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-05-02",
+        "show": "live:grateful-dead:1981-05-02:the-spectrum"
+       },
+       "plays_before": 287,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1981-05-05",
+        "show": "live:grateful-dead:1981-05-05:glens-falls-civic-center"
+       },
+       "plays_before": 118,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      }
     ],
@@ -1259,175 +1484,306 @@
      {
       "from": "gd1981-05-06.150430.aud.schley.flac2448",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1981-05-02",
+        "show": "live:grateful-dead:1981-05-02:the-spectrum"
+       },
+       "plays_before": 152,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1981-05-06.150430.aud.schley.flac2448",
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1981-04-30",
+        "show": "live:grateful-dead:1981-04-30:greensboro-coliseum"
+       },
+       "plays_before": 257,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "from": "gd1981-05-06.150430.aud.schley.flac2448",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 69,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1981-02-26",
+        "show": "live:grateful-dead:1981-02-26:uptown-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1981-05-06.150430.aud.schley.flac2448",
       "key": "song:grateful-dead:wated-li-dude",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Wated LI Dude"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t01-crowd-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t01 Crowd Tuning"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t02-alabama-getaway",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t02 Alabama Getaway"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t03-greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t03 Greatest Story Ever Told"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t04-they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t04 They Love Each Other"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t05-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t05 Cassidy"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t06-jack-a-roe",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t06 Jack-A-Roe"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t07-little-red-rooster",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t07 Little Red Rooster"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t08-dire-wolf",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t08 Dire Wolf"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t09-looks-like-rain",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t09 Looks Like Rain"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t10-big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t10 Big Railroad Blues"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t11-let-it-grow",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t11 Let It Grow"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s1-t12-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s1 t12 Deal"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t01-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t01 New Minglewood Blues"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t02-high-time",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t02 High Time"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t03-lost-sailor",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t03 Lost Sailor"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t04-saint-of-circumstance",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t04 Saint Of Circumstance"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t05-hes-gone",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t05 He's Gone"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t06-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t06 Drums"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t07-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t07 Space"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t08-the-other-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t08 The Other One"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t09-going-down-the-road-feeling-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t09 Goin' Down the Road Feeling Bad"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t10-wharf-rat",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t10 Wharf Rat"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t11-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t11 Good Lovin'"
      },
      {
       "from": "gd1981-05-06.140903.senn421.wise.minches.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t12-dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t12 Don't Ease Me In"
      },
      {
       "from": "gd1981-05-06.139786.set2.fob.unknown.streeter.miller.clugston.flac2496",
       "key": "song:grateful-dead:gd81-05-06-s2-t09-going-down-the-road",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd81-05-06 s2 t09 Going Down The Road"
      }
     ],
@@ -1435,26 +1791,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 930,
-     "shows_in_archive": 1855,
+     "show_number": 1026,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nassau Coliseum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:54.150960+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:17.525126+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "jl_lvI7JjqIIwbKjjH1WDbt49_1MyLJa_YW0aXc2T15lb3jNoMA6d3yRmjq1Pw511kexQ6xmmFVCzQDCRNE2AA",
+   "revision": 28,
+   "signature": "1USw6D1Ly1HlRswlzdbZOTVJAAOc7i8IGNeBv00lIUxFG6v7LPtZ4cyQwSdbq--JtjTWvdRJu3kfG65Cwd8yDw",
    "subject_key": "live:grateful-dead:1981-05-06:nassau-coliseum",
-   "updated_at": "2026-10-25T16:41:54.152139"
+   "updated_at": "2026-10-25T17:35:17.526455"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **He's Gone** (2 reviews): The jam after He's Gone is singled out as great; The band takes off after He's Gone [16][19]\n- **Spanish Jam** (1 review, 1 other source): The Spanish Jam startled this attendee, who did not recognize it then; Thread highlights the Caution/Spanish Jam from this show as face-melting [18][29]\n- **Jack-A-Roe** (1 review): Reviewer calls Jerry's Jack-A-Roe the best ever [26]\n- **Little Red Rooster** (1 review): Jerry shows great sustain in Little Red Rooster [26]\n- **High Time** (1 review): High Time is called impeccable, the reviewer's finest version [20]\n\n## The recordings\n\n- **gd81-05-06.glassberg.vernon.17697.sbeok.shnf** (recommended): audience recording; 25 songs; 177 min; rated 4.24/5 by 33 [1]. Said about its sound: Recorded front-of-board-area audience tape described as having a killer sound; Audience recording described as sparkling; Reviewer says it sounds as if taped in a Nassau Coliseum bathroom, poor quality [19][20][21][23][24][27]\n- **gd1981-05-06.144700.fob.nak700.severson.miller.clugston.flac1648**: audience recording; 25 songs; 179 min; rated 5/5 by 1 [2]\n- **gd1981-05-06.152950.nak500.vita.miller.clugston.flac2496**: audience recording; 25 songs; 173 min [3]\n- **gd1981-05-06.150430.aud.schley.flac2448**: audience recording; 25 songs; 174 min [5]. Said about its sound: Nice floor-sourced audience recording that differs from other circulating audience tapes [5]\n\n## Around the show\n\n- Reviewer attended the show and was bewildered at the time by the Spanish Jam, not knowing what it was [18]\n- Reviewer, aged 17, walked from Hempstead bus terminal; a pre-show 'head' balanced sneakers and a champagne bottle on his nose [26]\n- He's Gone was dedicated to IRA hunger striker Bobby Sands [2]\n- Reviewer notes the show was released as a Dick's Pick [16]\n- Reviewer prefers this audience tape's sound to the dry soundboard released as a Dick's Pick [19]\n- Reviewer compared side by side with the Dick's Picks version; finds this tape has more spice and cannot be compared [24]\n- Reviewer thinks the show deserved its Dick's Pick release; second set has very fast Jerry guitar [27]\n\n## Tapers and lineage\n\n- **gd81-05-06.glassberg.vernon.17697.sbeok.shnf**: taped by Barry Glassberg; source: Audience Recording: Nak 700's [1]. Also: Taped by Barry Glassberg up front by the board with Nakamichi 700s into a Sony TC-D5M, Dolby on; Passed via Mark Cohen and John Steinthal, encoded by Matt Vernon; supersedes an earlier shn set from the same source [1]\n- **gd1981-05-06.144700.fob.nak700.severson.miller.clugston.flac1648**: taped by Mark Severson; transferred by Scott Clugston and Charlie Miller; source: Mark Severson's Master Audience Cassettes; (3) x Nakamichi 700 mics (left/right cardioids, omni center - on a handheld pole 30' from stage in the penalty box)>… [2]\n- **gd1981-05-06.152950.nak500.vita.miller.clugston.flac2496**: taped by Jim Vita; transferred by Scott Clugston and Charlie Miller; source: Jim Vita's Master Audience Cassettes; Nakamichi DM-500 mics > Sony D5M (Maxell UDXLII) [3]. Also: Good Lovin' and the Don't Ease Me In encore come from a first-generation cassette [3]\n- **gd1981-05-06.150430.aud.schley.flac2448**: taped by Brian Schley; transferred by Andrew F.; source: Unknown mics & lead deck > Sony TC-D5 > Maxell XLII-S 90's. [5]. Also: Source had tape flips, mic-cable drops, crowd intrusion and fully paused-out Drums, all patched from another source [5]",

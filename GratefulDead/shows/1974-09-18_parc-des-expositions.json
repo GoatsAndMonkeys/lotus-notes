@@ -295,7 +295,7 @@
      "id": 19,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -524,132 +524,353 @@
     "setlist": [
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1974-09-09",
+        "show": "live:grateful-dead:1974-09-09:alexandra-palace"
+       },
+       "plays_before": 135,
+       "total_plays": 342
+      },
       "title": "Uncle JohnÃÂ´s Band"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 171,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:friend-of-the-devil",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 646,
+       "gap_shows": 112,
+       "last_played": {
+        "date": "1972-12-11",
+        "show": "live:grateful-dead:1972-12-11:winterland-arena"
+       },
+       "plays_before": 55,
+       "total_plays": 311
+      },
       "title": "Friend Of The Devil"
      },
      {
       "key": "song:grateful-dead:black-throated-wind",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 104,
+       "total_plays": 162
+      },
       "title": "Black Throated Wind"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 25,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 166,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 83,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 210,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 129,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:race-is-on",
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 15,
+       "last_played": {
+        "date": "1974-06-26",
+        "show": "live:grateful-dead:1974-06-26:providence-civic-center"
+       },
+       "plays_before": 42,
+       "total_plays": 68
+      },
       "title": "The Race Is On"
      },
      {
       "key": "song:grateful-dead:to-lay-me-down",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 14,
+       "total_plays": 72
+      },
       "title": "To Lay Me Down"
      },
      {
       "key": "song:grateful-dead:playing-in-the-bad",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "PlayinÃÂ´ In The Band"
      },
      {
       "key": "song:grateful-dead:phil-and-ned",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 9,
+       "total_plays": 14
+      },
       "title": "Phil And ned"
      },
      {
       "key": "song:grateful-dead:loose-lucy",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 29,
+       "total_plays": 100
+      },
       "title": "Loose Lucy"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 116,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1974-09-10",
+        "show": "live:grateful-dead:1974-09-10:alexandra-palace"
+       },
+       "plays_before": 8,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 306,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 67,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:china-doll",
-      "stats": {},
+      "stats": {
+       "days_since": 49,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1974-07-31",
+        "show": "live:grateful-dead:1974-07-31:dillon-stadium"
+       },
+       "plays_before": 26,
+       "total_plays": 121
+      },
       "title": "China Doll"
      },
      {
-      "key": "song:grateful-dead:heaa-s-gone",
-      "stats": {},
+      "key": "song:grateful-dead:heaas-gone",
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "HeÃÂ´s Gone"
      },
      {
       "key": "song:grateful-dead:truckinaa",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "TruckinÃÂ´"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 207,
+       "gap_shows": 31,
+       "last_played": {
+        "date": "1974-02-23",
+        "show": "live:grateful-dead:1974-02-23:winterland-arena"
+       },
+       "plays_before": 241,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:caution-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1663,
+       "gap_shows": 356,
+       "last_played": {
+        "date": "1970-02-28",
+        "show": "live:grateful-dead:1970-02-28:family-dog-at-the-great-highway"
+       },
+       "plays_before": 12,
+       "total_plays": 19
+      },
       "title": "Caution Jam"
      },
      {
       "key": "song:grateful-dead:ship-of-fools",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 24,
+       "total_plays": 240
+      },
       "title": "Ship Of Fools"
      },
      {
       "key": "song:grateful-dead:johnny-b-goode",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 90,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 32,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -657,64 +878,120 @@
      {
       "from": "gd1974-09-18.sbd.miller.20675.shnf",
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1974-09-11",
+        "show": "live:grateful-dead:1974-09-11:alexandra-palace"
+       },
+       "plays_before": 218,
+       "total_plays": 634
+      },
       "title": "Playing In The Band"
      },
      {
       "from": "gd1974-09-18.sbd.miller.20675.shnf",
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 78,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "from": "gd1974-09-18.sbd.miller.20675.shnf",
       "key": "song:grateful-dead:trucking",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1974-09-14",
+        "show": "live:grateful-dead:1974-09-14:olympia-halle"
+       },
+       "plays_before": 218,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "from": "gd1974-09-18.sbd.snchk.miller.32292.sbeok.flac16",
       "key": "song:grateful-dead:jerry-space",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry Space"
      },
      {
       "from": "gd1974-09-18.sbd.snchk.miller.32292.sbeok.flac16",
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 51,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1974-07-29",
+        "show": "live:grateful-dead:1974-07-29:capitol-centre"
+       },
+       "plays_before": 141,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "from": "gd1974-09-18.sbd.snchk.miller.32292.sbeok.flac16",
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 53,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1974-07-27",
+        "show": "live:grateful-dead:1974-07-27:roanoke-civic-center"
+       },
+       "plays_before": 54,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      }
     ],
     "subject_key": "live:grateful-dead:1974-09-18:parc-des-expositions",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 513,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Friend Of The Devil",
+      "Caution Jam"
+     ],
+     "first_in_archive": [
+      "PlayinÃÂ´ In The Band",
+      "HeÃÂ´s Gone",
+      "TruckinÃÂ´"
+     ],
+     "show_number": 596,
+     "shows_in_archive": 2097,
      "songs": 26,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Parc des Expositions"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:48.295304+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.298788+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "3cVg3O3odq6K12wgocY3-S_j89n6Hd0tVjEW1RtXfuDftgTeDM3DYVzV5QOMjlprXm1SxgGf1ZCIF1w1cGnTAA",
+   "revision": 43,
+   "signature": "hFT_oI7Cpsj-8iqx37jZHsa4Vzo4GHNraVPwITM56Y-GOyLiMzTjnSL5pNcwlgygwgVaZHyyrnemlt9KYUPTBg",
    "subject_key": "live:grateful-dead:1974-09-18:parc-des-expositions",
-   "updated_at": "2026-10-25T16:41:48.296760"
+   "updated_at": "2026-10-25T17:35:14.299885"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- Phil's performance on this song is highlighted as a standout moment [14]\n- The long, drawn-out Eyes of the World jam is cited as inspired [15]\n- The space funk riff in this song rivals Parliament and prototypes the Shakedown lick [18]\n\n## The recordings\n\n- **gd74-09-18.sbd.miller.20732.sbeok.shnf** (recommended): soundboard; 26 songs; 209 min; rated 4.78/5 by 27 [1]. Said about its sound: The playing is described as very tight and exciting with no weak tracks; Bass is strong, but vocals are initially weak until the band finds itself; The middle offering is preferred; the first has lower guitar, the third hollow vocals [7][8][9][10][15]\n- **gd74-09-18.sbd.bertha-ashley.21925.sbeok.shnf**: soundboard; 26 songs; 209 min; rated 4.77/5 by 13 [3]. Said about its sound: The recording is crystal clear with tight band chemistry; The sound is missing something in the midrange but is better than the 9/20/74 show [16][17]\n- **gd1974-09-18.sbd.miller.20675.shnf**: soundboard; 26 songs; 209 min; rated 4.75/5 by 20 [2]\n- **gd1974-09-18.sbd.jeffm.3398.shnf**: soundboard; 24 songs; 178 min; rated 5/5 by 1 [4]\n\n## Around the show\n\n- Jerry starts both sets, which the reviewer notes as a clue [7]\n- The Bertha re-master is considered a far superior sound source than this recording [11]\n- The first disc's polish is compared to the first disc from 11/11/73 [18]\n\n## Tapers and lineage\n\n- **gd74-09-18.sbd.miller.20732.sbeok.shnf**: transferred by Charlie Miller; source: Soundboard [1]\n- **gd74-09-18.sbd.bertha-ashley.21925.sbeok.shnf**: source: Soundboard [3]\n- **gd1974-09-18.sbd.miller.20675.shnf**: transferred by Charlie Miller; source: SBD -> Rm -> Dat -> Sonic Solutions -> CD -> EAC -> SHN [2]\n- **gd1974-09-18.sbd.jeffm.3398.shnf**: transferred by DAE(EAC) and SHN Encoding By Jeff M.; source: SBD>MR>?>DAT>CDR>EAC>SHN [4]\n\n## Art and photos\n\n- Poster by @donelichterman: [Don’s Pick This Week is from the Parc des Expositions on 09-19-1974 - The Grateful Dead Live](https://thegratefuldeadlive.com/dons-pick-this-week-uis-from-the-parc-des-expositions-on-09-19-1974/) [20]",

@@ -427,7 +427,7 @@
      "id": 24,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -539,9 +539,9 @@
      "author_url": "https://www.dead.net/",
      "id": 32,
      "image_url": "https://www.dead.net/sites/g/files/g2000007851/files/styles/merch_image_600_600/public/dead_site_files/images/19870130_1266.jpg?itok=E2lk1Pq8",
-     "kind": "fanart",
+     "kind": "poster",
      "published_at": null,
-     "quote_or_claim": "San Francisco Civic Auditorium - January 29, 1987 | Grateful Dead.",
+     "quote_or_claim": "San Francisco Civic Auditorium - January 29, 1987 | Grateful Dead.",
      "site": "Grateful Dead",
      "title": "Grateful Dead San Francisco Civic Auditorium - January 29, 1987",
      "url": "https://www.dead.net/show/january-29-1987-0",
@@ -557,13 +557,13 @@
     "guests": [],
     "next": {
      "date": "1987-01-29",
-     "show": "live:grateful-dead:1987-01-29:san-francisco-civic-center",
-     "venue": "San Francisco Civic Center"
+     "show": "live:grateful-dead:1987-01-29:san-francisco-civic-auditorium",
+     "venue": "San Francisco Civic Auditorium"
     },
     "previous": {
-     "date": "1986-12-31",
-     "show": "live:grateful-dead:1986-12-31:kaiser-convention-center",
-     "venue": "Kaiser Convention Center"
+     "date": "1987-01-01",
+     "show": "live:grateful-dead:1987-01-01:backstage",
+     "venue": "Backstage"
     },
     "recommended": {
      "identifier": "gd1987-01-28.135159.sur5-1.tobin.flac1648",
@@ -905,121 +905,314 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 43,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1986-12-16",
+        "show": "live:grateful-dead:1986-12-16:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 117,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:get-back",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Get Back"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 290,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1986-04-13",
+        "show": "live:grateful-dead:1986-04-13:irvine-meadows"
+       },
+       "plays_before": 190,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:walking-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 564,
+       "gap_shows": 82,
+       "last_played": {
+        "date": "1985-07-13",
+        "show": "live:grateful-dead:1985-07-13:ventura-county-fairgrounds"
+       },
+       "plays_before": 8,
+       "total_plays": 148
+      },
       "title": "Walkin' Blues"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 205,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1986-07-07",
+        "show": "live:grateful-dead:1986-07-07:robert-f-kennedy-stadium"
+       },
+       "plays_before": 136,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 299,
+       "gap_shows": 30,
+       "last_played": {
+        "date": "1986-04-04",
+        "show": "live:grateful-dead:1986-04-04:hartford-civic-center"
+       },
+       "plays_before": 103,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1986-12-28",
+        "show": "live:grateful-dead:1986-12-28:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 179,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 88,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:bird-song",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1986-12-27",
+        "show": "live:grateful-dead:1986-12-27:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 189,
+       "total_plays": 314
+      },
       "title": "Bird Song"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 377,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:when-push-comes-to-shove",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 7,
+       "total_plays": 61
+      },
       "title": "When Push Comes To Shove"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 279,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:black-muddy-river",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 5,
+       "total_plays": 69
+      },
       "title": "Black Muddy River"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1986-12-28",
+        "show": "live:grateful-dead:1986-12-28:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 222,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:spoonful",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 281,
+       "gap_shows": 24,
+       "last_played": {
+        "date": "1986-04-22",
+        "show": "live:grateful-dead:1986-04-22:berkeley-community-theater"
+       },
+       "plays_before": 19,
+       "total_plays": 54
+      },
       "title": "Spoonful"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 966,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 42,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1986-12-17",
+        "show": "live:grateful-dead:1986-12-17:oakland-alameda-county-coliseum"
+       },
+       "plays_before": 407,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 261,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1986-12-28",
+        "show": "live:grateful-dead:1986-12-28:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 266,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1986-12-27",
+        "show": "live:grateful-dead:1986-12-27:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 333,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 31,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1986-12-28",
+        "show": "live:grateful-dead:1986-12-28:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 468,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 245,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1027,52 +1220,86 @@
      {
       "from": "gd1987-01-28.140689.ultramatrix.sbd.miller.flac2496",
       "key": "song:grateful-dead:soonful",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Soonful"
      },
      {
       "from": "gd1987-01-28.nak300.andrewf.119326.flac2448",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1986-12-30",
+        "show": "live:grateful-dead:1986-12-30:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 64,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1987-01-28.nak300.andrewf.119326.flac2448",
       "key": "song:grateful-dead:mini-jam",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1247,
+       "gap_shows": 218,
+       "last_played": {
+        "date": "1983-08-30",
+        "show": "live:grateful-dead:1983-08-30:silva-hall-hult-center"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Mini-jam"
      },
      {
       "from": "gd87-01-28.sbd.leeds.17073.sbeok.shnf",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1986-12-31",
+        "show": "live:grateful-dead:1986-12-31:henry-j-kaiser-convention-center"
+       },
+       "plays_before": 627,
+       "total_plays": 1290
+      },
       "title": "Space"
      }
     ],
     "subject_key": "live:grateful-dead:1987-01-28:san-francisco-civic-auditorium",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1310,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Get Back"
+     ],
+     "show_number": 1414,
+     "shows_in_archive": 2097,
      "songs": 22,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "San Francisco Civic Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 15,
+   "parent_revision": 27,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:02.704340+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:22.409799+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 16,
-   "signature": "fWP_gFkxc-kU8hwTgs-2s3bAzCAWPuV0H0kpBhYc-Y30BacWvR0YMx3W_sC2TrkyYfFl9rw_BsD8bX3bHglvCA",
+   "revision": 28,
+   "signature": "XcYDuIKFsNHe1ZSpbGfoy0iEe2Eo9AE3EkYgWidTPxtXH5I_LmbkzobMoyqgimbpGG6-8dH3s8ldRFIzUzyBAQ",
    "subject_key": "live:grateful-dead:1987-01-28:san-francisco-civic-auditorium",
-   "updated_at": "2026-10-25T16:42:02.705969"
+   "updated_at": "2026-10-25T17:35:22.411041"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Shakedown Street** (1 review): Reviewer found Jerry's first verse of the opener poor and could not listen further [17]\n- **Get Back** (1 review): Vocals on Get Back sounded comical, with Healy's heavy vocal effects giving a chipmunk or Darth Vader tone [15]\n- **It Must Have Been The Roses** (1 review): Reviewer found this version excellent, and was glad Jerry was playing again; Healy's effects made Bobby sound metallic [18]\n- **Bird Song** (1 review): Jerry sounded off on guitar and vocals; the opening chords lacked vibrancy and Brent seemed to need to lead [17]\n- **Around And Around** (1 review): Reviewer calls it possibly the worst ever: slurred, forgotten lyrics, band unsure how to start, Jerry barely audible [19]\n\n## The recordings\n\n- **gd1987-01-28.135159.sur5-1.tobin.flac1648** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 165 min; rated 4.5/5 by 2 [1]\n- **gd1987-01-28.sbd.walker-scotton.miller.83286.flac16**: soundboard; 22 songs; 165 min; rated 2.41/5 by 32 [5]\n- **gd1987-01-28.140689.ultramatrix.sbd.miller.flac2496**: soundboard; 22 songs; 167 min; rated 4/5 by 1 [2]\n- **gd1987-01-28.135157.mtx.tobin.flac16**: matrix (soundboard mixed with audience mics); 22 songs; 165 min; rated 3.5/5 by 2 [3]\n\n## Around the show\n\n- Band was trying to pull itself together after Jerry's diabetic coma; the show came before the spring tour [13]\n- After set one, Jerry shouted back at a fan that it was bad, and later apologized to Phil and Mickey backstage [14]\n- Whole band played poorly, though fans were happy to have Jerry back onstage [21]\n- Attendee says band seemed lost in a long first set and the second set ended without direction [23]\n- Night one was worse than 1/29 and 1/30, and fell short of the December 1986 shows [23]\n\n## Tapers and lineage\n\n- **gd1987-01-28.135159.sur5-1.tobin.flac1648**: transferred by Kevin Tobin; source: flac16/48kHz ; 5.1 LPCM Surround Sound (48k) - SBD (shnid=83286) SBD -> Cassette Master (Maxell MX90/Sony D5) Transfer Info: Cassette Master (Tascam 122mkII)… [1]. Also: This is a 5.1 surround mix made by an archive.org user, converted to FLAC in February 2016 [1]\n- **gd1987-01-28.sbd.walker-scotton.miller.83286.flac16**: transferred by Charlie Miller; source: SBD -> Cassette Master (Maxell MX90/Sony D5) [5]. Also: Tapes came from Paul Scotton and Joani Walker; 90 seconds of dead air was removed from the first set [5]\n- **gd1987-01-28.140689.ultramatrix.sbd.miller.flac2496**: transferred by Charlie Miller; source: UltraMatrix SBD > Cassette Master (TDK MA-R90) [2]\n- **gd1987-01-28.135157.mtx.tobin.flac16**: transferred by Kevin Tobin; source: Matrix 2 Source Mix - SBD (shnid=83286) SBD -> Cassette Master (Maxell MX90/Sony D5) Transfer Info: Cassette Master (Tascam 122mkII) -> Apogee MiniMe… [3]\n\n## Art and photos\n\n- Poster by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - January 28, 1987](https://www.dead.net/show/january-28-1987) [31]\n- Fan art by Grateful Dead: [Grateful Dead San Francisco Civic Auditorium - January 29, 1987](https://www.dead.net/show/january-29-1987-0) [32]",

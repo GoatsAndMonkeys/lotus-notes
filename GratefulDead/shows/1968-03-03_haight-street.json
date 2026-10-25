@@ -244,7 +244,7 @@
      "id": 16,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -383,32 +383,81 @@
     "setlist": [
      {
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1968-02-02",
+        "show": "live:grateful-dead:1968-02-02:crystal-ballroom"
+       },
+       "plays_before": 23,
+       "total_plays": 34
+      },
       "title": "Viola Lee Blues"
      },
      {
       "key": "song:grateful-dead:smokestack-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 351,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1967-03-18",
+        "show": "live:grateful-dead:1967-03-18:winterland-arena"
+       },
+       "plays_before": 3,
+       "total_plays": 64
+      },
       "title": "Smokestack Lightning"
      },
      {
       "key": "song:grateful-dead:politics",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Politics"
      },
      {
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-14",
+        "show": "live:grateful-dead:1968-02-14:carousel-ballroom"
+       },
+       "plays_before": 5,
+       "total_plays": 333
+      },
       "title": "Turn On Your Love Light"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 29,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1968-02-03",
+        "show": "live:grateful-dead:1968-02-03:the-crystal-ballroom"
+       },
+       "plays_before": 10,
+       "total_plays": 58
+      },
       "title": "Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-02-14",
+        "show": "live:grateful-dead:1968-02-14:carousel-ballroom"
+       },
+       "plays_before": 13,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      }
     ],
@@ -416,27 +465,29 @@
     "subject_key": "live:grateful-dead:1968-03-03:haight-street",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 56,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Politics"
+     ],
+     "show_number": 69,
+     "shows_in_archive": 2097,
      "songs": 6,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Haight Street"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.772421+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.445945+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "LwyULVJGWGbjmAnukFly69L8h30nTgbqmLDIs_R-7Mw4mEt9JODdQvW4aIPQkE3IiG6SBalRt0fNuegQvBBkAA",
+   "revision": 41,
+   "signature": "tl4GMivXN1bBfox-ErPQeQwKUzziEzxxZ1U7EmosmUV9yijj6UPmyfX5u4FrydF5ujwyFlfSaGxG-mnBWvXNBw",
    "subject_key": "live:grateful-dead:1968-03-03:haight-street",
-   "updated_at": "2026-10-25T16:41:38.773868"
+   "updated_at": "2026-10-25T17:35:09.446567"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Viola Lee Blues** (1 review): The twenty-one-minute performance is described as pure energy [5]\n- **Turn On Your Love Light** (1 review): Bobby's last verse is considered the best he ever performed on the song [14]\n\n## The recordings\n\n- **gd68-03-03.aud.vernon.9374.sbeok.shnf** (recommended): audience recording; 6 songs; 59 min; rated 4.47/5 by 32 [1]. Said about its sound: Sound quality is poor, but the band is really on fire; Speed change in the song was addressed during the mastering process [1][11]\n- **gd68-03-03.aud.jools.19904.sbeok.shnf**: audience recording; 5 songs; 59 min; rated 3.67/5 by 15 [2]. Said about its sound: Background noise includes a man blowing a whistle, creating a manic feel [9]\n- **gd1968-03-03.aud.finney.5809.sbeok.shnf**: audience recording; 4 songs; 54 min; rated 3.8/5 by 5 [3]\n\n## Around the show\n\n- The show was completely impromptu, famously known as the \"Flatbed Truck\" performance [5]\n- The band drove a flatbed truck into the middle of Haight Street [6]\n- The crowd went nuts the entire time during the performance [10]\n- City shut down Haight Street after a riot; band set up without permits [12]\n- Commune members from the \"Good Earth\" helped set up the equipment [13]\n- Taper remembers the closer was Dancing In The Streets [3]\n\n## Tapers and lineage\n\n- **gd68-03-03.aud.vernon.9374.sbeok.shnf**: taped by Steve Brown; transferred by Lance Michel, Raoul Duke, and Matt Vernon; source: Audience [1]. Also: Steve Brown taped it using an old Uher and cheap microphone [6]\n- **gd68-03-03.aud.jools.19904.sbeok.shnf**: transferred by Julian (Jools) Elliott; source: Audience [2]. Also: Steve Brown traveled from LA to record Cream, then the Dead [8]\n- **gd1968-03-03.aud.finney.5809.sbeok.shnf**: source: DHH pre-FM [3]. Also: Master tape incomplete due to low batteries; David Gans played the timed portion [3]\n\n## Art and photos\n\n- Poster by LUV4MUSIC!: [Spotlight On What I Am Listening To: Grateful Dead - Haight Street, San Francisco, CA 1968-03-03 SBD? - LUV4MUSIC!](https://www.luv4music.org/2026/03/03/spotlight-on-what-i-am-listening-to-grateful-dead-haight-street-san-francisco-ca-1968-03-03-sbd/) [17]",

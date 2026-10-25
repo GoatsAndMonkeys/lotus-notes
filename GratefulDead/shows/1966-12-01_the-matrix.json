@@ -286,7 +286,7 @@
      "id": 18,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -527,37 +527,90 @@
     "setlist": [
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1966-11-18",
+        "show": "live:grateful-dead:1966-11-18:fillmore-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:betty-and-dupree",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Betty & Dupree"
      },
      {
       "key": "song:grateful-dead:next-time-you-see-me",
-      "stats": {},
+      "stats": {
+       "days_since": 13,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1966-11-18",
+        "show": "live:grateful-dead:1966-11-18:fillmore-auditorium"
+       },
+       "plays_before": 12,
+       "total_plays": 84
+      },
       "title": "Next Time You See Me"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 14,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:big-boss-man",
-      "stats": {},
+      "stats": {
+       "days_since": 124,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1966-07-30",
+        "show": "live:grateful-dead:1966-07-30:p-n-e-garden-auditorium"
+       },
+       "plays_before": 4,
+       "total_plays": 79
+      },
       "title": "Big Boss Man"
      },
      {
       "key": "song:grateful-dead:one-kind-favor",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 7,
+       "total_plays": 8
+      },
       "title": "One Kind Favor"
      },
      {
       "key": "song:grateful-dead:alice-d-millionaire",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Alice D. Millionaire"
      },
      {
@@ -565,7 +618,16 @@
       "notes": [
        "false start"
       ],
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
@@ -573,87 +635,220 @@
       "notes": [
        "2"
       ],
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:cream-puff-war",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 9,
+       "total_plays": 12
+      },
       "title": "Cream Puff War"
      },
      {
       "key": "song:grateful-dead:you-dont-love-me",
-      "stats": {},
+      "stats": {
+       "days_since": 122,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1966-08-01",
+        "show": "live:grateful-dead:1966-08-01:various"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "You Don't Love Me"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-11-19",
+        "show": "live:grateful-dead:1966-11-19:fillmore-auditorium"
+       },
+       "plays_before": 10,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:it-hurts-me-too",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 3,
+       "total_plays": 58
+      },
       "title": "It Hurts Me Too"
      },
      {
       "key": "song:grateful-dead:on-the-road-again",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 44
+      },
       "title": "On The Road Again"
      },
      {
       "key": "song:grateful-dead:look-over-yonder-wall",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Look Over Yonder Wall"
      },
      {
       "key": "song:grateful-dead:my-own-fault",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "My Own Fault"
      },
      {
       "key": "song:grateful-dead:been-down-so-long",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Been Down So Long"
      },
      {
       "key": "song:grateful-dead:cold-rain-and-snow",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 11,
+       "total_plays": 260
+      },
       "title": "Cold Rain & Snow"
      },
      {
       "key": "song:grateful-dead:viola-lee-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 12,
+       "total_plays": 34
+      },
       "title": "Viola Lee Bues"
      },
      {
       "key": "song:grateful-dead:deep-elem-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 50
+      },
       "title": "Deep Elum Blues"
      },
      {
       "key": "song:grateful-dead:something-on-your-mind",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Something On Your Mind"
      },
      {
       "key": "song:grateful-dead:big-boy-pete",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 11
+      },
       "title": "Big Boy Pete"
      },
      {
       "key": "song:grateful-dead:death-dont-have-no-mercy",
-      "stats": {},
+      "stats": {
+       "days_since": 257,
+       "gap_shows": 19,
+       "last_played": {
+        "date": "1966-03-19",
+        "show": "live:grateful-dead:1966-03-19:carthay-studios"
+       },
+       "plays_before": 5,
+       "total_plays": 48
+      },
       "title": "Death Don't Have No Mercy"
      },
      {
       "key": "song:grateful-dead:lindy",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Lindy"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1966-11-19",
+        "show": "live:grateful-dead:1966-11-19:fillmore-auditorium"
+       },
+       "plays_before": 7,
+       "total_plays": 128
+      },
       "title": "Dancin' In The Streets"
      },
      {
@@ -661,12 +856,30 @@
       "notes": [
        "3"
       ],
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:merry-go-round-broke-down",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 7
+      },
       "title": "The Merry-Go-Round Broke Down"
      },
      {
@@ -676,7 +889,11 @@
        "Bonus Track",
        "Lossy Source"
       ],
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Tapers Section"
      }
     ],
@@ -684,70 +901,116 @@
      {
       "from": "gd1966-12-01.sbd.32800.shnf",
       "key": "song:grateful-dead:we-cant-agree-on-the-words",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "We Can't Agree on the Words"
      },
      {
       "from": "gd1966-12-01.sbd.32800.shnf",
       "key": "song:grateful-dead:yonders-wall",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Yonder's Wall"
      },
      {
       "from": "gd1966-12-01.sbd.32800.shnf",
       "key": "song:grateful-dead:down-so-long",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1966-11-29",
+        "show": "live:grateful-dead:1966-11-29:the-matrix"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Down So Long"
      },
      {
       "from": "gd66-12-01.sbd.ladner.8575.sbeok.shnf",
       "key": "song:grateful-dead:look-on-yonder-wall",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Look on Yonder's Wall"
      },
      {
       "from": "gd66-12-01.sbd.ladner.8575.sbeok.shnf",
       "key": "song:grateful-dead:deep-elementary-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 12
+      },
       "title": "Deep Elementary Blues"
      },
      {
       "from": "gd1966-12-01.150269.ANON.gems.flac1644",
       "key": "song:grateful-dead:look-over-yonders-wall",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Look Over Yonder's Wall"
      },
      {
       "from": "gd66-12-01.sbd.sirmick.26968.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 125,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1966-07-29",
+        "show": "live:grateful-dead:1966-07-29:p-n-e-garden-auditorium"
+       },
+       "plays_before": 3,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1966-12-01:the-matrix",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 30,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "Betty & Dupree",
+      "Alice D. Millionaire",
+      "On The Road Again",
+      "Look Over Yonder Wall",
+      "My Own Fault",
+      "Deep Elum Blues",
+      "Tapers Section"
+     ],
+     "show_number": 36,
+     "shows_in_archive": 2097,
      "songs": 28,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Matrix"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 23,
+   "parent_revision": 34,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.521402+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.273539+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 24,
-   "signature": "R4TtEDTXJsZdCwZPXzi8WuFoNdrw3dxwbQ9n0gi0_2lrGYmL7klulE8bUFLqIP4FjsoIpmfIw9F_QBIm0SCgCg",
+   "revision": 35,
+   "signature": "rTvXwrHOD_1--nPpFXvJQ10cntn2pUjGHRhQ09rz8JeaFbdzEGidXbhj6w8zw5nd2TUu2CcFzA5bFXRwkz93Cg",
    "subject_key": "live:grateful-dead:1966-12-01:the-matrix",
-   "updated_at": "2026-10-25T16:41:38.522905"
+   "updated_at": "2026-10-25T17:35:09.274493"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Me & My Uncle** (1 review): Highlights one of the first times the band played this song, noting high energy [17]\n\n## The recordings\n\n- **gd1966-12-01.149985.sbd.pnp.lestakatt.flac1644** (recommended): soundboard; 28 songs; 177 min; rated 4.5/5 by 2 [1]\n- **gd66-12-01.sbd.ladner.8575.sbeok.shnf**: soundboard; 26 songs; 134 min; rated 3.94/5 by 18 [3]. Said about its sound: Reviewer notes the classic mid-60s Dead sound, though quality is merely acceptable for the era; Sound quality is poor, but the performance sounds more like the Animals than the Dead [6][12]\n- **gd66-12-01.sbd.sirmick.26968.sbeok.shnf**: soundboard; 26 songs; 133 min; rated 3.73/5 by 30 [5]. Said about its sound: This cleaned-up version is considerably less noisy than the previous copy of the show; The Cream Puff War track is corrupted, forcing the listener to use an MP3 instead [13][16]\n- **gd1966-12-01.sbd.32800.shnf**: soundboard; 27 songs; 148 min; rated 3.22/5 by 9 [2]\n\n## Around the show\n\n- Believes Paul Butterfield plays harmonica on this track, as he does on his first album [10]\n- Explains Deep Elem was a Dallas area with live music venues and brothels in the 1920s-30s [11]\n- The Grateful Dead were booked for four nights, November 28 through December 1, 1966 [4]\n\n## Tapers and lineage\n\n- **gd1966-12-01.149985.sbd.pnp.lestakatt.flac1644**: transferred by Pitch Correction and minor editing/crossfading. Fixed by Michael Lestatkatt.; source: SBD>MR>RR>C>DAT [1]. Also: Pitch corrected in 2014 but never shared; original source details cannot be confirmed by the uploader [1]\n- **gd66-12-01.sbd.ladner.8575.sbeok.shnf**: transferred by C.M.; source: Soundboard [3]. Also: A lower-generation Viola Lee recording from this show masquerades as the first song from March 12, 1966; Signal path: SBD to RM to Reel to Dat to CD to wav to shnv3 [3][15]\n- **gd66-12-01.sbd.sirmick.26968.sbeok.shnf**: transferred by SIRMick; source: Soundboard [5]\n- **gd1966-12-01.sbd.32800.shnf**: source: SBD>MR>RR>C>DAT [2]\n\n## Art and photos\n\n- Poster by Crimson Records: [GRATEFUL DEAD - Two Days At The Matrix 1966 - Crimson Records](https://crimsonrecords.com.ar/product/grateful-dead-two-days-at-the-matrix-1966/) [22]",

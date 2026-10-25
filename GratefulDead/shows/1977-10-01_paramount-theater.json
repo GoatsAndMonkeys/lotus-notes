@@ -338,7 +338,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -389,8 +389,8 @@
     },
     "previous": {
      "date": "1977-09-29",
-     "show": "live:grateful-dead:1977-09-29:paramount-theatre",
-     "venue": "Paramount Theatre"
+     "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater",
+     "venue": "Paramount Northwest Theater"
     },
     "recommended": {
      "identifier": "gd1977-10-01.123211.sbd.miller.flac16",
@@ -612,114 +612,304 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-09-03",
+        "show": "live:grateful-dead:1977-09-03:raceway-park"
+       },
+       "plays_before": 177,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 81,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 115,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1977-06-08",
+        "show": "live:grateful-dead:1977-06-08:winterland-arena"
+       },
+       "plays_before": 176,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:dire-wolf",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 85,
+       "total_plays": 239
+      },
       "title": "Dire Wolf"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 48,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-09-29",
+        "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater"
+       },
+       "plays_before": 160,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:passenger",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 105
+      },
       "title": "Passenger"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 181,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-09-03",
+        "show": "live:grateful-dead:1977-09-03:raceway-park"
+       },
+       "plays_before": 52,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:peggy-o",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 272
+      },
       "title": "Peggy-O"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 56,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:bertha",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 165,
+       "total_plays": 406
+      },
       "title": "Bertha"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 155,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "days_since": 136,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1977-05-18",
+        "show": "live:grateful-dead:1977-05-18:fox-theater"
+       },
+       "plays_before": 52,
+       "total_plays": 168
+      },
       "title": "It Must Have Been The Roses"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-09-29",
+        "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:eyes-of-the-world",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 101,
+       "total_plays": 389
+      },
       "title": "Eyes Of The World"
      },
      {
       "key": "song:grateful-dead:dancing-in-the-street",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 132,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1977-05-22",
+        "show": "live:grateful-dead:1977-05-22:the-sportatorium"
+       },
+       "plays_before": 85,
+       "total_plays": 128
+      },
       "title": "Dancing In The Street"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-09-29",
+        "show": "live:grateful-dead:1977-09-29:paramount-northwest-theater"
+       },
+       "plays_before": 311,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 197,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1078,
+       "gap_shows": 115,
+       "last_played": {
+        "date": "1974-10-19",
+        "show": "live:grateful-dead:1974-10-19:winterland-arena"
+       },
+       "plays_before": 83,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 111,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      }
     ],
@@ -727,166 +917,265 @@
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-01-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 01 Promised Land"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-02-they-love-each-other",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 02 They Love Each Other"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-03-mexicali-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 03 Mexicali Blues"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-04-dire-wolf",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 04 Dire Wolf"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-05-cassidy",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 05 Cassidy"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-06-deal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 06 Deal"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-07-passenger",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 07 Passenger"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-08-tennessee-jed",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 08 Tennessee Jed"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-09-new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 09 New Minglewood Blues"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-10-peggy-o",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 10 Peggy O"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-11-the-music-never-stopped",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 11 The Music Never Stopped"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-12-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 12 Tuning"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-13-bertha",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 13 Bertha"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-14-good-loving",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 14 Good Lovin'"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-15-it-must-have-been-the-roses",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 15 It Must Have Been The Roses"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-16-estimated-prophet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 16 Estimated Prophet"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-17-eyes-of-the-world",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 17 Eyes Of The World"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-18-dancing-in-the-street",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 18 Dancin' In The Street"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-19-drums",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 19 Drums"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-20-not-fade-away",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 20 Not Fade Away"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-21-black-peter",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 21 Black Peter"
      },
      {
       "from": "gd1977-10-01.140578.sbd.betty.patched.smith.miller.clugston.flac1644",
       "key": "song:grateful-dead:gd77-10-01-22-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "gd77-10-01 22 Around & Around"
      },
      {
       "from": "gd77-10-01.sbd.unknown.277.sbeok.shnf",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-09-28",
+        "show": "live:grateful-dead:1977-09-28:paramount-northwest-theater"
+       },
+       "plays_before": 43,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      }
     ],
     "subject_key": "live:grateful-dead:1977-10-01:paramount-theater",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Black Peter"
+     ],
      "first_in_archive": [],
-     "show_number": 626,
-     "shows_in_archive": 1855,
+     "show_number": 718,
+     "shows_in_archive": 2097,
      "songs": 21,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Paramount Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 26,
+   "parent_revision": 38,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.865609+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.108795+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 27,
-   "signature": "rlS_qK9sg2fbDu4mTFLpPsDWZgsmmiFvQSf-0zMPZswE6tmfOKOCtgXXsNhdzdG7VbzJa9HgKo-Gr9WrWkH7AQ",
+   "revision": 39,
+   "signature": "hET6_nSaB8vyLMG52TCaInxk3G2qoq80grARpj1zNZb00BADPILLjF_tmzCX0wF9WulSdN1J2TcCr0OpemexDg",
    "subject_key": "live:grateful-dead:1977-10-01:paramount-theater",
-   "updated_at": "2026-10-25T16:41:50.867794"
+   "updated_at": "2026-10-25T17:35:15.109731"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Dancing In The Street** (2 reviews): The performance is described as a total surprise, following a silky transition from Eyes of the World; The version is particularly great, though noted to be shorter than most other renditions [15][16]\n- **Dire Wolf** (1 review): This is identified as the first instance of the band playing the song in an uptempo style [14]\n- **Eyes Of The World** (1 review): The performance of this song is described as very peppy [17]\n\n## The recordings\n\n- **gd1977-10-01.123211.sbd.miller.flac16** (recommended): soundboard; 21 songs; 163 min; rated 4.5/5 by 4 [1]\n- **gd1977-10-01.sbd.cantor.gmb.86234.sbeok.flac16**: soundboard; 21 songs; 156 min; rated 4.42/5 by 12 [3]\n- **gd77-10-01.sbd.unknown.277.sbeok.shnf**: soundboard; 21 songs; 147 min; rated 4.12/5 by 8 [4]. Said about its sound: A pop is audible in the recording at approximately the one minute thirty-three mark; Significant audio cuts affect Promised Land and They Love Each Other, with the former suffering sound problems; The recording features a crispy Betty board sound quality [9][11][13]\n- **gd1977-10-01.sbd.cantor.ashley-bertha.10689.sbeok.shnf**: soundboard; 21 songs; 147 min; rated 3/5 by 3 [5]. Said about its sound: The recording has excessive bass, requiring EQ adjustments for most home systems to handle properly; Scratchy distortion is present, possibly caused by Jerry’s refurbished guitar kicking out its newness; The audio is too heavy for a small Sony shelf system, though it should sound incredible on better equipment [18][19]\n\n## Around the show\n\n- Reviewer calls this show essential, comparing it favorably to the October 2, 1977 performance [8]\n- This show is seen as a warm-up, lacking the long jams found in the October 2 performance [13]\n- The performance is viewed as the start of momentum leading to the October 29, 1977 peak [15]\n- The show is considered as good as, or better than, the vaunted Barton Hall performance [17]\n\n## Tapers and lineage\n\n- **gd1977-10-01.123211.sbd.miller.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> PCM -> Dat [1]. Also: Most static in the Estimated Prophet section of the recording has been cleaned up [1]\n- **gd1977-10-01.sbd.cantor.gmb.86234.sbeok.flac16**: taped by Betty Cantor; transferred by Original WBOTB DATs procured & circulated in 1996 by Jace Crouch and Tim Deibert. Thanks to trailmix for providing the lineaged master DAT  for transfer..Transferred and mastered by ChrisL.; source: Betty Board (see comments) [3]. Also: Source is a 7-inch two-track BBD reel transferred via PCM501ES and Fostex D5 to DAT [3]\n- **gd77-10-01.sbd.unknown.277.sbeok.shnf**: source: Soundboard [4]\n- **gd1977-10-01.sbd.cantor.ashley-bertha.10689.sbeok.shnf**: transferred by Bertha Remaster of the Betty Board source; source: SBD>>MR>>PCM>>DAT>>CDA>>DAW(Bertha)>>CDA [5]. Also: Digitally remastered on April 16, 2002, using a custom dual-DAW setup nicknamed Bertha [5]\n\n## Art and photos\n\n- Poster by George Alper Grateful Dead: [1977-10-01 Paramount Theater, Portland, OR, USA - Jerry Garcia](https://jerrygarcia.com/show/1977-10-01-paramount-theater-portland-or-usa/) [21]\n- Poster by Jerry Garcia: [1977-10-01 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1977-10-01-backstage-pass/) [22]",

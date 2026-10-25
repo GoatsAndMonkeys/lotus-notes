@@ -480,7 +480,7 @@
      "id": 25,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -585,14 +585,14 @@
     "date": "1995-06-21",
     "guests": [],
     "next": {
-     "date": "1995-06-25",
-     "show": "live:grateful-dead:1995-06-25:robert-f-kennedy-stadium",
-     "venue": "Robert F. Kennedy Stadium"
+     "date": "1995-06-22",
+     "show": "live:grateful-dead:1995-06-22:knickerbocker-arena",
+     "venue": "Knickerbocker Arena"
     },
     "previous": {
-     "date": "1995-06-15",
-     "show": "live:grateful-dead:1995-06-15:franklin-county-airport",
-     "venue": "Franklin County Airport"
+     "date": "1995-06-19",
+     "show": "live:grateful-dead:1995-06-19:giants-stadium",
+     "venue": "Giants Stadium"
     },
     "recommended": {
      "identifier": "gd1995-06-21.fob.schoeps.sisler.stephens.76664.sbeok.flac1648",
@@ -965,111 +965,278 @@
      {
       "key": "song:grateful-dead:down-in-the-boondocks-tuning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Down In The Boondocks Tuning"
      },
      {
       "key": "song:grateful-dead:just-exactly-perfectly",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Just Exactly Perfectly\""
      },
      {
       "key": "song:grateful-dead:hell-in-a-bucket",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 223,
+       "total_plays": 225
+      },
       "title": "Hell In A Bucket"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 90,
+       "gap_shows": 25,
+       "last_played": {
+        "date": "1995-03-23",
+        "show": "live:grateful-dead:1995-03-23:charlotte-coliseum"
+       },
+       "plays_before": 362,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:take-me-to-the-river",
-      "stats": {},
+      "stats": {
+       "days_since": 81,
+       "gap_shows": 18,
+       "last_played": {
+        "date": "1995-04-01",
+        "show": "live:grateful-dead:1995-04-01:pyramid-arena"
+       },
+       "plays_before": 1,
+       "total_plays": 4
+      },
       "title": "Take Me To The River"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 24,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1995-05-28",
+        "show": "live:grateful-dead:1995-05-28:portland-meadows"
+       },
+       "plays_before": 277,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:broken-arrow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 33,
+       "total_plays": 35
+      },
       "title": "Broken Arrow"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 435,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:down-in-the-boondocks-tuning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Down In The Boondocks Tuning"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1995-05-26",
+        "show": "live:grateful-dead:1995-05-26:memorial-stadium"
+       },
+       "plays_before": 331,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1995-05-26",
+        "show": "live:grateful-dead:1995-05-26:memorial-stadium"
+       },
+       "plays_before": 270,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-05-20",
+        "show": "live:grateful-dead:1995-05-20:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 181,
+       "total_plays": 182
+      },
       "title": "Man Smart, Woman Smarter"
      },
      {
       "key": "song:grateful-dead:its-all-too-much",
-      "stats": {},
+      "stats": {
+       "days_since": 87,
+       "gap_shows": 23,
+       "last_played": {
+        "date": "1995-03-26",
+        "show": "live:grateful-dead:1995-03-26:the-omni"
+       },
+       "plays_before": 2,
+       "total_plays": 6
+      },
       "title": "It's All Too Much"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1995-06-03",
+        "show": "live:grateful-dead:1995-06-03:shoreline-amphitheatre"
+       },
+       "plays_before": 632,
+       "total_plays": 634
+      },
       "title": "Playin' In The Band"
      },
      {
       "key": "song:grateful-dead:supplication-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1407,
+       "gap_shows": 295,
+       "last_played": {
+        "date": "1991-08-14",
+        "show": "live:grateful-dead:1991-08-14:cal-expo"
+       },
+       "plays_before": 14,
+       "total_plays": 15
+      },
       "title": "Supplication Jam"
      },
      {
       "key": "song:grateful-dead:drums",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-19",
+        "show": "live:grateful-dead:1995-06-19:giants-stadium"
+       },
+       "plays_before": 1618,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1995-06-19",
+        "show": "live:grateful-dead:1995-06-19:giants-stadium"
+       },
+       "plays_before": 1278,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:easy-answers",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1995-06-02",
+        "show": "live:grateful-dead:1995-06-02:shoreline-amphitheatre"
+       },
+       "plays_before": 44,
+       "total_plays": 46
+      },
       "title": "Easy Answers"
      },
      {
       "key": "song:grateful-dead:walk-me-out-in-the-morning-dew",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2833,
+       "gap_shows": 601,
+       "last_played": {
+        "date": "1987-09-18",
+        "show": "live:grateful-dead:1987-09-18:madison-square-garden"
+       },
+       "plays_before": 2,
+       "total_plays": 3
+      },
       "title": "Walk Me Out In The) Morning Dew"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1995-05-24",
+        "show": "live:grateful-dead:1995-05-24:memorial-stadium"
+       },
+       "plays_before": 327,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      }
     ],
@@ -1077,100 +1244,192 @@
      {
       "from": "gd1995-06-21.fob.schoeps.sisler.stephens.76663.sbeok.flac16",
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-05-20",
+        "show": "live:grateful-dead:1995-05-20:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 263,
+       "total_plays": 264
+      },
       "title": "(Walk Me Out In The) Morning Dew"
      },
      {
       "from": "gd1995-06-21.141512.OTS.AKG.Ackerman.Miller.Noel.t-flac.1648",
       "key": "song:grateful-dead:technical-difficulties",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 2479,
+       "gap_shows": 528,
+       "last_played": {
+        "date": "1988-09-06",
+        "show": "live:grateful-dead:1988-09-06:capital-centre"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "technical difficulties"
      },
      {
       "from": "gd1995-06-21.141512.OTS.AKG.Ackerman.Miller.Noel.t-flac.1648",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-05-20",
+        "show": "live:grateful-dead:1995-05-20:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 193,
+       "total_plays": 194
+      },
       "title": "Man Smart (Women are Smarter)"
      },
      {
       "from": "gd1995-06-21.aud.unknown.larson.35122.flac16",
       "key": "song:grateful-dead:supplication-jam-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Supplication Jam/Jam"
      },
      {
       "from": "gd1995-06-21.bk4021.120371.flac1648",
       "key": "song:grateful-dead:women-smarter",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1811,
+       "gap_shows": 390,
+       "last_played": {
+        "date": "1990-07-06",
+        "show": "live:grateful-dead:1990-07-06:cardinal-stadium"
+       },
+       "plays_before": 6,
+       "total_plays": 7
+      },
       "title": "Women Smarter"
      },
      {
       "from": "gd1995-06-21.bk4021.120371.flac1648",
       "key": "song:grateful-dead:drumz",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1995-06-15",
+        "show": "live:grateful-dead:1995-06-15:franklin-county-airport"
+       },
+       "plays_before": 258,
+       "total_plays": 262
+      },
       "title": "Drumz"
      },
      {
       "from": "gd1995-06-21.148797.nak300-cp4.boedicker.flac1644",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1995-05-26",
+        "show": "live:grateful-dead:1995-05-26:memorial-stadium"
+       },
+       "plays_before": 35,
+       "total_plays": 36
+      },
       "title": "Playing"
      },
      {
       "from": "gd1995-06-21.141999.walsh.suraci.at835.flac1648",
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1995-05-20",
+        "show": "live:grateful-dead:1995-05-20:sam-boyd-silver-bowl-u-n-l-v"
+       },
+       "plays_before": 186,
+       "total_plays": 187
+      },
       "title": "Women are Smarter"
      },
      {
       "from": "gd1995-06-21.sndchk.fm.gmb.91352.flac16",
       "key": "song:grateful-dead:vince-on-piano-solo",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Vince on piano solo"
      },
      {
       "from": "gd1995-06-21.sndchk.fm.gmb.91352.flac16",
       "key": "song:grateful-dead:all-join-tuning",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "All join tuning"
      },
      {
       "from": "gd1995-06-21.sndchk.fm.gmb.91352.flac16",
       "key": "song:grateful-dead:vince-leads-rehearsal",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Vince leads rehearsal"
      },
      {
       "from": "gd1995-06-21.sndchk.fm.gmb.91352.flac16",
       "key": "song:grateful-dead:jerry-we-could-probably-handle-it",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry, \"we could probably handle it"
      }
     ],
     "subject_key": "live:grateful-dead:1995-06-21:knickerbocker-arena",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 1849,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Supplication Jam",
+      "Walk Me Out In The) Morning Dew"
+     ],
+     "first_in_archive": [
+      "Down In The Boondocks Tuning",
+      "Just Exactly Perfectly\"",
+      "Down In The Boondocks Tuning"
+     ],
+     "show_number": 2086,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Knickerbocker Arena"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 16,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:42:19.703567+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:28.941804+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "04zihlZdMcZDZn2_QVfojVOPtB9O7wZ817uwi1sJJWLoWwzx-2DhFrvXA1Rr2Xtb-ypJl3HK9QuW-5BF9il7BA",
+   "revision": 17,
+   "signature": "09vMqavub29vQToRwk8cjwaFVWQDfN1yNhMj-HhmOnpSbcqW98s5JhPqqD_B5D4n5l6gEqt1SUUsvaUfWWZjBw",
    "subject_key": "live:grateful-dead:1995-06-21:knickerbocker-arena",
-   "updated_at": "2026-10-25T16:42:19.704919"
+   "updated_at": "2026-10-25T17:35:28.943291"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Scarlet Begonias** (2 reviews): Reviewer recalls shaky sets and flubbed verses in Scarlet Begonias; Reviewer judges the Scarlet>Fire excellent [18][23]\n- **Walk Me Out In The) Morning Dew** (2 reviews): Reviewer says the Morning Dew was so powerful it blew the roof off the building; Reviewer hears Jerry pouring his heart out in Morning Dew, playing as though it might be his last [14][16]\n- **Just Exactly Perfectly\"** (1 other source): Down in the Boondocks tuning is played while striding toward Just Exactly Perfect [3]\n- **Row Jimmy** (1 review): Reviewer calls this a very good Row Jimmy [23]\n- **Fire On The Mountain** (1 review): Reviewer praises the Scarlet to Fire transition for about two minutes of exceptional musical space [24]\n- **Supplication Jam** (1 review): Reviewer was pleased to see Supplication played, and thought Scarlet was almost good [22]\n- **U.S. Blues** (1 review): Jerry nearly gets through U.S. Blues without botching the lyrics [16]\n\n## The recordings\n\n- **gd1995-06-21.fob.schoeps.sisler.stephens.76664.sbeok.flac1648** (recommended): source not stated; 20 songs; 163 min; rated 3.67/5 by 3 [1]\n- **gd1995-06-21.141512.OTS.AKG.Ackerman.Miller.Noel.t-flac.1648**: audience recording; 18 songs; 156 min; rated 5/5 by 1 [3]\n- **gd95-06-21.naks.5971.sbeok.shnf**: audience recording; 17 songs; 163 min; rated 3.14/5 by 37 [5]. Said about its sound: Audience recording sounds good, with clear low end that brings out Phil's bass; Reviewer finds the audience recording good in sound quality, despite disliking the performance; Reviewer describes the shn files as exceptionally good: flat across the range, muscular lows, soaring highs [16][17][19][24]\n- **gd1995-06-21.148797.nak300-cp4.boedicker.flac1644**: source not stated; 17 songs; 160 min [8]. Said about its sound: Tape flip after Row Jimmy lost no music; some wow and flutter affects second-set tuning and part of Scarlet Begonias [8]\n\n## Around the show\n\n- Between sets Jerry stood with his back to the crowd for about 20 minutes, fiddling with his guitar rig, puzzling fans [18]\n- Reviewer says Jerry stood at the equipment stack because he was angrily berating a tech [20]\n- Standing behind the stage, reviewer heard a fan scream abuse at Bobby not to play Easy Answers as it began [22]\n- Reviewer, who attended, reads Jerry's fretting over his equipment as a sign he badly wanted to sound good [23]\n- First set runs about 50 minutes; second set and encore run roughly 95 minutes [5]\n- Uploader sat about ten rows up beside Vince Welnick's side of the stage, bringing his girlfriend to her first Dead shows [8]\n- Reviewer finds the show far tighter and better than the sloppy 1995 norm, calling it the last of the real Dead [14]\n- Reviewer calls it a below-average 1995 show, among the worst heard, with Jerry in poor form throughout [17]\n- Uploader notes this was the final Man Smart (Woman Are Smarter) and the final Supplication Jam, last played 08-14-91 [3]\n\n## Tapers and lineage\n\n- **gd1995-06-21.fob.schoeps.sisler.stephens.76664.sbeok.flac1648**: taped by Dan Sisler; transferred by Dan Stephens; source: Schoeps MK4 > Reutelhuber P/S > Denon DTR-80P > Sony TCD-D7 [1]\n- **gd1995-06-21.141512.OTS.AKG.Ackerman.Miller.Noel.t-flac.1648**: taped by Ray Ackerman; transferred by Charlie Miller and Joe Noel; source: flac16/48kHz ; Master Audience Recording & Transfer by Ray Ackerman: AKG 460B/CK63 ULS > AKG B18 phantom power unit > Panasonic SV250 > DAT (OTS); Transfer… [3]\n- **gd95-06-21.naks.5971.sbeok.shnf**: transferred by Dan Stephens; source: Audience: Nakamichi 300's w/CP-4 caps [5]. Also: Taped with Nakamichi 300s and CP-4 caps into a modified Sony TCD-D7; transferred via Tascam DA-20mkII, SBLive, to SHN by Dan Stephens [5]\n- **gd1995-06-21.148797.nak300-cp4.boedicker.flac1644**: taped by Andy Trate; transferred by Dave Boedicker; source: Source:Nakamichi 300 Mics W/CP4 Shotguns>Sony TC-D5M Cassette Deck(Lead Deck)>Sony Wm-D6C Cassette Deck>2 Casssette Master Tapes(Maxell XL-2-S 90 Minute… [8]. Also: Taper skipped recording; friend Andy used the uploader's Nakamichi 300 CP-4 mics and deck while the owner sat in the audience [8]\n\n## Art and photos\n\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-06-21 Wed Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1274792122800/grateful-dead-1995-06-21-wed) [26]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-06-21 Wed Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1274792122800/grateful-dead-1995-06-21-wed) [27]\n- Fan art by LiveGRATEFUL.net: [Grateful Dead 1995-06-21 Wed Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1274792122800/grateful-dead-1995-06-21-wed) [28]\n- Poster by LiveGRATEFUL.net: [Grateful Dead 1995-06-21 Wed Knickerbocker Arena, Albany, NY](https://www.livegrateful.net/post/1274792122800/grateful-dead-1995-06-21-wed) [29]\n- Fan art by Grateful Dead: [Grateful Dead Knickerbocker Arena - June 21, 1995](https://www.dead.net/show/june-21-1995) [30]\n- Poster by Robbi Cohn: [1995-06-22 Knickerbocker Arena, Albany, NY, USA - Jerry Garcia](https://jerrygarcia.com/show/1995-06-22-knickerbocker-arena-albany-ny-usa/) [31]",

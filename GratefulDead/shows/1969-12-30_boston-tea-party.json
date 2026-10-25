@@ -260,7 +260,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -291,8 +291,8 @@
     "guests": [],
     "next": {
      "date": "1969-12-31",
-     "show": "live:grateful-dead:1969-12-31:boston-tea-party",
-     "venue": "Boston Tea Party"
+     "show": "live:grateful-dead:1969-12-31:home-recordings",
+     "venue": "Home Recordings"
     },
     "previous": {
      "date": "1969-12-29",
@@ -429,127 +429,352 @@
     "setlist": [
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 20,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:mama-tried",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 27,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:new-speedway-boogie",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-26",
+        "show": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u"
+       },
+       "plays_before": 2,
+       "total_plays": 54
+      },
       "title": "New Speedway Boogie"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 30,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 12,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 41,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:in-the-midnight-hour",
-      "stats": {},
+      "stats": {
+       "days_since": 58,
+       "gap_shows": 17,
+       "last_played": {
+        "date": "1969-11-02",
+        "show": "live:grateful-dead:1969-11-02:family-dog-at-the-great-highway"
+       },
+       "plays_before": 9,
+       "total_plays": 45
+      },
       "title": "In The Midnight Hour"
      },
      {
       "key": "song:grateful-dead:cumberland-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 12,
+       "total_plays": 229
+      },
       "title": "Cumberland Blues"
      },
      {
       "key": "song:grateful-dead:cryptical-envelopment",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 72,
+       "total_plays": 131
+      },
       "title": "Cryptical Envelopment"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 72,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1969-12-21",
+        "show": "live:grateful-dead:1969-12-21:fillmore-auditorium"
+       },
+       "plays_before": 77,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:cosmic-charlie",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1969-12-11",
+        "show": "live:grateful-dead:1969-12-11:thelma-theater"
+       },
+       "plays_before": 21,
+       "total_plays": 47
+      },
       "title": "Cosmic Charlie"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-26",
+        "show": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u"
+       },
+       "plays_before": 5,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:masons-children",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 4,
+       "total_plays": 19
+      },
       "title": "Mason's Children"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 37,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 35,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:dark-star",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1969-12-26",
+        "show": "live:grateful-dead:1969-12-26:mcfarlin-auditorium-s-m-u"
+       },
+       "plays_before": 89,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:alligator",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 45,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 72,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1969-12-20",
+        "show": "live:grateful-dead:1969-12-20:fillmore-auditorium"
+       },
+       "plays_before": 83,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1969-12-29",
+        "show": "live:grateful-dead:1969-12-29:boston-tea-party"
+       },
+       "plays_before": 43,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:we-bid-you-goodnight-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "We Bid You Goodnight Jam"
      },
      {
       "key": "song:grateful-dead:alligator",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 45,
+       "total_plays": 57
+      },
       "title": "Alligator"
      },
      {
       "key": "song:grateful-dead:feedback",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 41,
+       "total_plays": 51
+      },
       "title": "Feedback"
      },
      {
       "key": "song:grateful-dead:and-we-bid-you-good-night",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 27,
+       "total_plays": 57
+      },
       "title": "We Bid You Goodnight"
      }
     ],
@@ -557,31 +782,72 @@
      {
       "from": "gd1969-12-30.sbd.unknown.4575.sbefail.shnf",
       "key": "song:grateful-dead:caution",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1969-12-12",
+        "show": "live:grateful-dead:1969-12-12:thelma-theater"
+       },
+       "plays_before": 39,
+       "total_plays": 54
+      },
       "title": "Caution (Do Not Stop On Tracks)"
      },
      {
       "from": "gd69-12-30.sbd.miller.28469.sbeok.shnf",
       "key": "song:grateful-dead:bid-you-goodnight-jam",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 2
+      },
       "title": "Bid You Goodnight Jam"
      },
      {
       "from": "gd69-12-30.sbd.miller.28469.sbeok.shnf",
       "key": "song:grateful-dead:alligator-reprise",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 591,
+       "gap_shows": 136,
+       "last_played": {
+        "date": "1968-05-18",
+        "show": "live:grateful-dead:1968-05-18:santa-clara-county-fairgrounds"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Alligator Reprise"
      },
      {
       "from": "gd69-12-30.sbd.miller.28469.sbeok.shnf",
       "key": "song:grateful-dead:caution-jam",
-      "stats": {},
+      "stats": {
+       "days_since": 248,
+       "gap_shows": 70,
+       "last_played": {
+        "date": "1969-04-26",
+        "show": "live:grateful-dead:1969-04-26:electric-theater"
+       },
+       "plays_before": 8,
+       "total_plays": 19
+      },
       "title": "Caution Jam"
      },
      {
       "from": "gd1969-12-30.sbd.unknown.15372.sbeok.shnf",
       "key": "song:grateful-dead:thats-it-for-the-other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1969-12-19",
+        "show": "live:grateful-dead:1969-12-19:fillmore-auditorium"
+       },
+       "plays_before": 43,
+       "total_plays": 68
+      },
       "title": "That's It For The Other One//"
      }
     ],
@@ -589,26 +855,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 174,
-     "shows_in_archive": 1855,
+     "show_number": 211,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Tea Party"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:39.620642+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:10.313273+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "Vdk0fmG6jlK-AgplQut2r5dPCnQBIM7R5B-lRt2aGvhJGq2movPVMw0cFeAo8I4VA5YunwUnpV6LsYBp1MPgCg",
+   "revision": 41,
+   "signature": "HUHtiarATUQMsh1VnDXYbgqJOzHJW43E_12D9wKguCdSi4DNKsALhUrrh9j2Fc6CWSAmI-NdtoCf8b8zqQVhBg",
    "subject_key": "live:grateful-dead:1969-12-30:boston-tea-party",
-   "updated_at": "2026-10-25T16:41:39.621668"
+   "updated_at": "2026-10-25T17:35:10.314928"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Black Peter** (2 reviews): Reviewer judges this the best Black Peter of 1969, and it gets very intense; Reviewer calls the Black Peter superb [9][16]\n- **New Speedway Boogie** (1 review): Reviewer calls the New Speedway Boogie superb [16]\n- **The Other One** (1 other source): The Other One cuts out in the second verse, likely just before a segue into the Cryptical reprise [1]\n- **The Eleven** (1 review): Around 10:15 The Eleven morphs into a fantastic jam, then a sweet And We Bid You Goodnight into a quick Alligator [11]\n- **Alligator** (1 review): Alligator unexpectedly turns into The Eleven, then returns in shortened form, leading to Caution and Feedback [9]\n\n## The recordings\n\n- **gd69-12-30.sbd.cotsman.14037.sbeok.shnf** (recommended): soundboard; 25 songs; 169 min; rated 3.67/5 by 6 [1]. Said about its sound: Pretty good soundboard quality overall, though there are some bad cuts; Dark Star is cut off at the end; Sound is somewhat rough; adjusting the EQ helps [1][5][9][11]\n- **gd1969-12-30.sbd.unknown.4575.sbefail.shnf**: soundboard; 26 songs; 174 min; rated 3/5 by 4 [2]. Said about its sound: High-quality soundboard recording [16]\n- **gd69-12-30.sbd.miller.28469.sbeok.shnf**: soundboard; 25 songs; 162 min; rated 3.8/5 by 15 [3]. Said about its sound: Reviewer calls this an A+ soundboard [8]\n- **gd1969-12-30.sbd.unknown.15372.sbeok.shnf**: soundboard; 22 songs; 174 min; rated 2.57/5 by 7 [4]\n\n## Around the show\n\n- Reviewer notes this was the original Boston Tea Party venue [13]\n- Overlooked because it sits in the shadow of the classic 12-31-69 New Year's Eve show [8]\n\n## Tapers and lineage\n\n- **gd69-12-30.sbd.cotsman.14037.sbeok.shnf**: transferred by T.S. Cotsman and J. Cotsman; source: Soundboard [1]. Also: Uploader suspects the lineage may extend further back than documented [1]\n- **gd1969-12-30.sbd.unknown.4575.sbefail.shnf**: transferred by Unknown; source: SBD>?>DAT>CDR [2]\n- **gd69-12-30.sbd.miller.28469.sbeok.shnf**: source: Recording Info: SBD -> Cass Master (Ampex C-90 Master Cass/no dolby) -> Cass (Tascam 122mkIII Cass 1st Gen) -> Dat (Technics 3800/44.1k) Transfer Info: Dat… [3]. Also: Charlie Miller worked on this transfer [10]\n- **gd1969-12-30.sbd.unknown.15372.sbeok.shnf**: transferred by Unknown; source: SBD>MC>C>D>CD>SHN [4]\n\n## Art and photos\n\n- Fan art by Crimson Records: [GRATEFUL DEAD - Boston Tea Party '69, December 30 - Crimson Records](https://crimsonrecords.com.ar/product/grateful-dead-boston-tea-party/) [18]",

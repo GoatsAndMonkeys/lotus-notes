@@ -421,7 +421,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -452,8 +452,8 @@
     "guests": [],
     "next": {
      "date": "1979-11-08",
-     "show": "live:grateful-dead:1979-11-08:capitol-center",
-     "venue": "Capitol Center"
+     "show": "live:grateful-dead:1979-11-08:capital-centre",
+     "venue": "Capital Centre"
     },
     "previous": {
      "date": "1979-11-05",
@@ -771,101 +771,272 @@
      {
       "key": "song:grateful-dead:alabama-getaway",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 1,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 225,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 233,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 380,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1979-11-02",
+        "show": "live:grateful-dead:1979-11-02:nassau-coliseum"
+       },
+       "plays_before": 228,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 121,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:easy-to-love-you",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 11,
+       "total_plays": 51
+      },
       "title": "Easy To Love You"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 173,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:jack-a-roe",
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1979-09-02",
+        "show": "live:grateful-dead:1979-09-02:augusta-civic-center"
+       },
+       "plays_before": 20,
+       "total_plays": 127
+      },
       "title": "Jack-A-Roe"
      },
      {
       "key": "song:grateful-dead:jack-straw",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 258,
+       "total_plays": 492
+      },
       "title": "Jack Straw"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 214,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 72,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 298,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 65,
+       "gap_shows": 13,
+       "last_played": {
+        "date": "1979-09-02",
+        "show": "live:grateful-dead:1979-09-02:augusta-civic-center"
+       },
+       "plays_before": 83,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 136,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 157,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:u-s-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1979-11-04",
+        "show": "live:grateful-dead:1979-11-04:civic-center"
+       },
+       "plays_before": 115,
+       "total_plays": 329
+      },
       "title": "U.S. Blues"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 237,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:casey-jones",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 291,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      }
     ],
@@ -873,25 +1044,61 @@
      {
       "from": "gd79-11-06.sbd.miller.29735.flac16",
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1979-11-05",
+        "show": "live:grateful-dead:1979-11-05:the-spectrum"
+       },
+       "plays_before": 460,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "from": "gd79-11-06.sbd.miller.29735.flac16",
       "key": "song:grateful-dead:black-peter",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1979-11-01",
+        "show": "live:grateful-dead:1979-11-01:nassau-coliseum"
+       },
+       "plays_before": 125,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "from": "gd1979-11-06.sbd.stankiewicz.125957.flac1644",
       "key": "song:grateful-dead:terrapin",
-      "stats": {},
+      "stats": {
+       "days_since": 61,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1979-09-06",
+        "show": "live:grateful-dead:1979-09-06:madison-square-garden"
+       },
+       "plays_before": 15,
+       "total_plays": 103
+      },
       "title": "Terrapin"
      },
      {
       "from": "gd79-11-06.sbd.clugston.2417.sbeok.shnf",
       "key": "song:grateful-dead:mexicali",
-      "stats": {},
+      "stats": {
+       "days_since": 179,
+       "gap_shows": 28,
+       "last_played": {
+        "date": "1979-05-11",
+        "show": "live:grateful-dead:1979-05-11:billerica-forum"
+       },
+       "plays_before": 5,
+       "total_plays": 14
+      },
       "title": "Mexicali"
      }
     ],
@@ -899,26 +1106,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 789,
-     "shows_in_archive": 1855,
+     "show_number": 885,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "The Spectrum"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:53.007460+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:16.191092+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "FpTfjk7asTNRgcLGDJaj2MTZ_4mLOG1YL9glDEBV4t2dLooewxzOWtppv1rG8PaVOX3gKifVALziWfsfHJg7CA",
+   "revision": 42,
+   "signature": "8NY9jau1NrBtsyD1tuXjsrbWT3lCd8GpyGzIm7jkXsv7PPE6BtylQtppWZq7fvATCJb9a4B7FyYOUhxA4AIWAw",
    "subject_key": "live:grateful-dead:1979-11-06:the-spectrum",
-   "updated_at": "2026-10-25T16:41:53.008647"
+   "updated_at": "2026-10-25T17:35:16.192124"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Jack Straw** (3 reviews): Closes the first set in fine form; Lesh ends the jam with huge, deep bass bombs [12][13][18]\n- **Jack-A-Roe** (2 reviews): Played with fire, and Jerry's guitar tone is top-notch; Has a solid groove [12][16]\n- **Candyman** (1 review): Cited as evidence that Jerry comes very close to nailing each song [22]\n- **Looks Like Rain** (1 review): Reviewer calls this the best version ever; Bobby sings with unmatched passion and Jerry answers with sweet licks [12]\n- **Terrapin Station** (1 review): The Terrapin leading into Playin' is very mellow [14]\n- **Playin' in the Band** (1 review): Blasts out of Terrapin into cosmic territory, with Brent adding freaked-out synth textures [14]\n- **Black Peter** (1 review): A killer version that lands you back on solid ground after the Playin' space [14]\n\n## The recordings\n\n- **gd1979-11-06.150953.sbd.newhouse.miller.flac2496** (recommended): soundboard; 19 songs; 158 min [1]\n- **gd79-11-06.sbd.miller.29735.flac16**: soundboard; 18 songs; 155 min; rated 5/5 by 5 [2]. Said about its sound: Sound and mix are extremely good, judged better than the other source [22]\n- **gd79-11-06.sbd.clugston.2417.sbeok.shnf**: soundboard; 18 songs; 156 min; rated 4.19/5 by 21 [4]. Said about its sound: Soundboard quality is excellent, and the reviewer recommends boosting the bass [13]\n- **gd1979-11-06.151467.sbd.cm.newhouse.miller.t.flac16**: soundboard; 18 songs; 158 min [7]\n\n## Around the show\n\n- Fall 1979 was a hot stretch; Brent's B3, synth and piano refreshed the band, and this is the reviewer's most replayed show [15]\n- Along with 5/9/79, this Jack Straw is ranked the best ever [16]\n- Reviewer credits the era's lineup, with Brent and fully matured double drumming, over the earlier Keith and Donna sound [16]\n- Suggests hearing Jack Straw from Chicago, 8/20/80, before declaring this show the best [17]\n\n## Tapers and lineage\n\n- **gd1979-11-06.150953.sbd.newhouse.miller.flac2496**: taped by Elliot Newhouse; transferred by All Transfers and Mastering by Charlie Miller  November 25, 2020; source: SBD > Cassette Master (Nakamichi 550/TDK-SA90) [1]. Also: Made from Elliot Newhouse's cassette masters, with a Rob Eaton patch source and Joe B. Jones's pitch correction settings [1]\n- **gd79-11-06.sbd.miller.29735.flac16**: transferred by Charlie Miller; source: Soundboard [2]. Also: Soundboard to cassette master (Sony TCD5M, UDXL-II tape), then DAT on Panasonic SV3800 at 48k; transferred and edited by Charlie Miller [2]\n- **gd79-11-06.sbd.clugston.2417.sbeok.shnf**: source: Soundboard [4]\n- **gd1979-11-06.151467.sbd.cm.newhouse.miller.t.flac16**: taped by Elliot Newhouse; transferred by All Transfers and Mastering by Charlie Miller  November 25, 2020; source: SBD > Cassette Master (Nakamichi 550/TDK-SA90) [7]. Also: Newhouse cassette masters with Rob Eaton patch and Joe B. Jones pitch settings; 24-bit source 150953 converted to 16-bit, 44.1k [7]\n\n## Art and photos\n\n- Fan art by Music on TIDAL: [Grateful Dead - Road Trips Vol. 1 No. 1: New Haven Coliseum, New Haven, CT 10/25/79 / The Spectrum, Philadelphia, PA 11/](https://tidal.com/album/24742054) [24]",

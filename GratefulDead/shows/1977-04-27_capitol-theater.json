@@ -350,7 +350,7 @@
      "id": 20,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -365,13 +365,13 @@
     "date": "1977-04-27",
     "guests": [],
     "next": {
-     "date": "1977-04-30",
-     "show": "live:grateful-dead:1977-04-30:the-palladium",
+     "date": "1977-04-29",
+     "show": "live:grateful-dead:1977-04-29:the-palladium",
      "venue": "The Palladium"
     },
     "previous": {
-     "date": "1977-04-25",
-     "show": "live:grateful-dead:1977-04-25:capitol-theater",
+     "date": "1977-04-26",
+     "show": "live:grateful-dead:1977-04-26:capitol-theater",
      "venue": "Capitol Theater"
     },
     "recommended": {
@@ -594,101 +594,267 @@
     "setlist": [
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-22",
+        "show": "live:grateful-dead:1977-04-22:the-spectrum"
+       },
+       "plays_before": 167,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 40,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1977-03-18",
+        "show": "live:grateful-dead:1977-03-18:winterland-arena"
+       },
+       "plays_before": 73,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 93,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 165,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:el-paso",
-      "stats": {},
+      "stats": {
+       "days_since": 5,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1977-04-22",
+        "show": "live:grateful-dead:1977-04-22:the-spectrum"
+       },
+       "plays_before": 213,
+       "total_plays": 398
+      },
       "title": "El Paso"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 108,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:new-minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 37,
+       "total_plays": 430
+      },
       "title": "New Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 147,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:music-never-stopped",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 40,
+       "total_plays": 246
+      },
       "title": "The Music Never Stopped"
      },
      {
       "key": "song:grateful-dead:estimated-prophet",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 11,
+       "total_plays": 402
+      },
       "title": "Estimated Prophet"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 57,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 7,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:good-loving",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 140,
+       "total_plays": 439
+      },
       "title": "Good Lovin'"
      },
      {
       "key": "song:grateful-dead:ramble-on-rose",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1977-04-23",
+        "show": "live:grateful-dead:1977-04-23:springfield-civic-center"
+       },
+       "plays_before": 106,
+       "total_plays": 326
+      },
       "title": "Ramble On Rose"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 50,
+       "total_plays": 379
+      },
       "title": "Samson & Delilah"
      },
      {
       "key": "song:grateful-dead:terrapin-station",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 10,
+       "total_plays": 317
+      },
       "title": "Terrapin Station"
      },
      {
       "key": "song:grateful-dead:morning-dew",
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-02-27",
+        "show": "live:grateful-dead:1977-02-27:robertson-gym-uc-santa-barbara"
+       },
+       "plays_before": 123,
+       "total_plays": 264
+      },
       "title": "Morning Dew"
      },
      {
       "key": "song:grateful-dead:dj-banter-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "DJ Banter/Encore Break"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:johnny-b-goode",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 59,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1977-02-27",
+        "show": "live:grateful-dead:1977-02-27:robertson-gym-uc-santa-barbara"
+       },
+       "plays_before": 107,
+       "total_plays": 290
+      },
       "title": "Johnny B. Goode"
      }
     ],
@@ -696,36 +862,64 @@
      {
       "from": "gd1977-04-27.fm.moore.berger.98429.flac24",
       "key": "song:grateful-dead:mississippi-half-step",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1977-04-26",
+        "show": "live:grateful-dead:1977-04-26:capitol-theater"
+       },
+       "plays_before": 76,
+       "total_plays": 215
+      },
       "title": "Mississippi Half Step"
      },
      {
       "from": "gd1977-04-27.fm.moore.berger.98429.flac24",
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1977-04-25",
+        "show": "live:grateful-dead:1977-04-25:capitol-theater"
+       },
+       "plays_before": 30,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "from": "gd1977-04-27.fm.doinker.91889.flac16",
       "key": "song:grateful-dead:scarlet-begonias-fire-on-the-mountain-good-lovin",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Scarlet Begonias/Fire On The Mountain/Good Lovin"
      },
      {
       "from": "gd1977-04-27.fm.doinker.91889.flac16",
       "key": "song:grateful-dead:announcer",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Announcer"
      }
     ],
     "subject_key": "live:grateful-dead:1977-04-27:capitol-theater",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 598,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "DJ Banter/Encore Break"
+     ],
+     "show_number": 689,
+     "shows_in_archive": 2097,
      "songs": 19,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [
      "DJ"
@@ -734,16 +928,16 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 23,
+   "parent_revision": 35,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:50.027276+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:14.887954+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 24,
-   "signature": "5fhoarEurV7tLalyCvMQHBkkaFbm8eLTxcV0yviyatDAAHiQmS7IRX_s-ouDmVAbcb1k3z116lT1_8forPFWCQ",
+   "revision": 36,
+   "signature": "hDFRNtkkQWRo3nVg8gw8qhdZi0-JJA7t6KGNW1aWbG5dPX3NbA_sARvbpYYG-UZphADzgUUCDhQe60QKx22uCQ",
    "subject_key": "live:grateful-dead:1977-04-27:capitol-theater",
-   "updated_at": "2026-10-25T16:41:50.029652"
+   "updated_at": "2026-10-25T17:35:14.888782"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Morning Dew** (3 reviews): The reviewer calls this the best version of Morning Dew they have ever heard; The Morning Dew performance rivals many great versions from the year 1977 [12][14][15]\n- **Fire On The Mountain** (1 review): Garcia has amazing moments on Fire On The Mountain, Estimated Prophet, and Morning Dew [19]\n\n## The recordings\n\n- **gd1977-04-27.167535.fm.glassberg.smith.clugston.flac2496** (recommended): FM broadcast; 19 songs; 181 min; rated 2/5 by 1 [1]\n- **gd1977-04-27.fm.moore.berger.98429.flac24**: FM broadcast; 18 songs; 175 min; rated 5/5 by 2 [3]. Said about its sound: Light broadcast static is present during the third track of disc one [3]\n- **gd77-04-27.sbd.samaritano.20331.sbefail.shnf**: soundboard; 18 songs; 171 min; rated 4.21/5 by 38 [5]. Said about its sound: The band frequently jacked up audience microphones between songs, affecting the recording; Excessive jacking of audience microphones between songs is described as aversive; The sound quality is definitely better than the reviewer's terrible tape version [9][12][14][15][18]\n- **gd1977-04-27.167534.fm.glassberg.smith.clugston.flac1648**: FM broadcast; 19 songs; 181 min; rated 2/5 by 1 [2]\n\n## Around the show\n\n- Stage talk about: DJ [1]\n- Richard from WNEW narrated the broadcast, knowing more about Grand Funk than the Dead [9]\n- A black and white video shows Jerry playing guitar with unusual excitement [16]\n- The reviewer questions if the circulating black and white video is from this night or the previous [17]\n- Jerry smokes during the performance of Sugaree [18]\n- The reviewer considers this the best Grateful Dead concert they have ever witnessed [8]\n- The show is much better than the April 23, 1977 performance, which got rave reviews [18]\n\n## Tapers and lineage\n\n- **gd1977-04-27.167535.fm.glassberg.smith.clugston.flac2496**: taped by Barry Glassberg; transferred by Matt Smith;Scott Clugston; source: Barry Glassberg's Master FM Reel (Pioneer TX9500 tuner > TEAC A3300S Reel @ 7 1/2 ips, Maxell UD180B) > 1st Generation Reel @ 3 3/4 ips [1]. Also: Joe B. Jones assisted with the pitch correction for the recording [1]\n- **gd1977-04-27.fm.moore.berger.98429.flac24**: taped by Jerry Moore; transferred by Rob Berger; source: FM reel master [3]. Also: The uploader doubts a pre-FM source exists from WNEW, though one is listed in the database [3]\n- **gd77-04-27.sbd.samaritano.20331.sbefail.shnf**: transferred by Joe Samaritano; source: Soundboard [5]. Also: Dan Lynch provided the DAT seed; Joe Samaritano provided the DAT patch and handled the transfer; The reviewer originally recorded the show live off FM radio, a favorite leg tape [5][13]\n- **gd1977-04-27.167534.fm.glassberg.smith.clugston.flac1648**: taped by Barry Glassberg; transferred by Matt Smith;Scott Clugston; source: Barry Glassberg's Master FM Reel (Pioneer TX9500 tuner > TEAC A3300S Reel @ 7 1/2 ips, Maxell UD180B) > 1st Generation Reel @ 3 3/4 ips [2]",

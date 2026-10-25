@@ -265,7 +265,7 @@
      "id": 17,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -296,8 +296,8 @@
     "guests": [],
     "next": {
      "date": "1978-12-17",
-     "show": "live:grateful-dead:1978-12-17:fox-theatre",
-     "venue": "Fox Theatre"
+     "show": "live:grateful-dead:1978-12-17:fox-theater",
+     "venue": "Fox Theater"
     },
     "previous": {
      "date": "1978-12-15",
@@ -434,102 +434,282 @@
     "setlist": [
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-24",
+        "show": "live:grateful-dead:1978-11-24:capitol-theater"
+       },
+       "plays_before": 191,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
-      "stats": {},
+      "stats": {
+       "days_since": 30,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1978-11-16",
+        "show": "live:grateful-dead:1978-11-16:uptown-theater"
+       },
+       "plays_before": 230,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-13",
+        "show": "live:grateful-dead:1978-12-13:curtis-hixon-convention-hall"
+       },
+       "plays_before": 103,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 355,
+       "total_plays": 637
+      },
       "title": "Me And My Uncle"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 191,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 17,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 148,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-12-13",
+        "show": "live:grateful-dead:1978-12-13:curtis-hixon-convention-hall"
+       },
+       "plays_before": 213,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-11-20",
+        "show": "live:grateful-dead:1978-11-20:cleveland-music-hall"
+       },
+       "plays_before": 69,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 26,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1978-11-20",
+        "show": "live:grateful-dead:1978-11-20:cleveland-music-hall"
+       },
+       "plays_before": 63,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 94,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-11-24",
+        "show": "live:grateful-dead:1978-11-24:capitol-theater"
+       },
+       "plays_before": 46,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:samson-and-delilah",
-      "stats": {},
+      "stats": {
+       "days_since": 23,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1978-11-23",
+        "show": "live:grateful-dead:1978-11-23:capital-centre"
+       },
+       "plays_before": 116,
+       "total_plays": 379
+      },
       "title": "Samson And Delilah"
      },
      {
       "key": "song:grateful-dead:from-the-heart-of-me",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-15",
+        "show": "live:grateful-dead:1978-12-15:boutwell-auditorium"
+       },
+       "plays_before": 7,
+       "total_plays": 28
+      },
       "title": "From The Heart Of Me"
      },
      {
       "key": "song:grateful-dead:hes-gone",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 102,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-15",
+        "show": "live:grateful-dead:1978-12-15:boutwell-auditorium"
+       },
+       "plays_before": 396,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:other-one",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 276,
+       "total_plays": 601
+      },
       "title": "The Other One"
      },
      {
       "key": "song:grateful-dead:wharf-rat",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 134,
+       "total_plays": 417
+      },
       "title": "Wharf Rat"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-12-12",
+        "show": "live:grateful-dead:1978-12-12:jai-alai-fronton"
+       },
+       "plays_before": 160,
+       "total_plays": 425
+      },
       "title": "Around And Around"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 28,
+       "gap_shows": 8,
+       "last_played": {
+        "date": "1978-11-18",
+        "show": "live:grateful-dead:1978-11-18:uptown-theater"
+       },
+       "plays_before": 159,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -537,7 +717,16 @@
      {
       "from": "gd1978-12-16.sonyecm250-dolbyb.walker-scotton.miller.82211.sbeok.flac16",
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-12-15",
+        "show": "live:grateful-dead:1978-12-15:boutwell-auditorium"
+       },
+       "plays_before": 84,
+       "total_plays": 1290
+      },
       "title": "Space"
      }
     ],
@@ -545,26 +734,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 723,
-     "shows_in_archive": 1855,
+     "show_number": 818,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Nashville Municipal Auditorium"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 30,
+   "parent_revision": 42,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.442807+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.767076+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 31,
-   "signature": "bUMCktffn4zw2orHm87ENztX4BIGi9YCqUmQdrJRLrYGovLmtmdEbkPD19YDoddPMYwGjiBmdnKXqY41V88cCA",
+   "revision": 43,
+   "signature": "0hZ_8OfXh1Tfrlo_KUqBYLa7n9yuU2MVxMUMCT8JrXs5k5U2igB7JrBafBJ1Utvk8riZ8xoJnVW5h7NgM44xAA",
    "subject_key": "live:grateful-dead:1978-12-16:nashville-municipal-auditorium",
-   "updated_at": "2026-10-25T16:41:52.443690"
+   "updated_at": "2026-10-25T17:35:15.767688"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Stagger Lee** (1 review): Jerry and Bobby's slide work in the first set is highlighted, especially in Stagger Lee [9]\n- **He's Gone** (1 review): The He's Gone performance is identified as the standout moment of the second set [5]\n\n## The recordings\n\n- **gd78-12-16.wagner.wiley.9482.sbeok.shnf** (recommended): audience recording; 20 songs; 187 min; rated 4/5 by 3 [1]\n- **gd1978-12-16.sonyecm250-dolbyb.walker-scotton.miller.82211.sbeok.flac16**: source not stated; 21 songs; 184 min; rated 4.6/5 by 5 [2]\n- **gd1978-12-16.sonyecm250-no-dolby.walker-scotton.miller.82212.sbeok.flac16**: source not stated; 21 songs; 184 min; rated 4.28/5 by 96 [3]. Said about its sound: Microphones are positioned centrally, offering great levels and high-end clarity despite distance; The show features a jerky rhythm and Donna in good form, though not innovative [8][13]\n- **gd1978-12-16.aud.stephens.8841.sbeok.shnf**: audience recording; 20 songs; 167 min [4]\n\n## Around the show\n\n- The crowd was described as mellow for a Saturday night performance [5]\n- A friend attended his first show, snoring comfortably with feet up on the rail [6]\n- The venue was not full, with reams of unsold tickets visible at the window [15]\n- The recording quality matches a previous Mississippi show, likely taped by the same person [5]\n- The performance is considered one of the tightest displays of symbiotic jamming [8]\n\n## Tapers and lineage\n\n- **gd78-12-16.wagner.wiley.9482.sbeok.shnf**: taped by Robert Wagner; source: Audience Recording: Nak 300's [1]. Also: Taped on Nak 300s, transferred to Sony TC-158, then MC, DAT, and CDR [1]\n- **gd1978-12-16.sonyecm250-dolbyb.walker-scotton.miller.82211.sbeok.flac16**: transferred by Charlie Miller; source: (FOB) Sony ECM250 -> Cassette Master (Maxell UD-XLII/Dolby B) D [2]. Also: Taped on Nakamichi 300, with fades and gaps between almost every song fixed [2]\n- **gd1978-12-16.sonyecm250-no-dolby.walker-scotton.miller.82212.sbeok.flac16**: taped by Joani Walker and Paul Scotton; transferred by Charlie Miller; source: (FOB) Sony ECM 250 -> Cassette Master (Maxell UD-XLII/Dolby B) D [3]\n- **gd1978-12-16.aud.stephens.8841.sbeok.shnf**: source: AUD, unknown mics: CM > 1C > DAT [4]. Also: A tape flip during Drums caused an indeterminable amount of missing audio [4]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1978-12-16 Nashville Municipal Auditorium, Nashville, TN, USA - Jerry Garcia](https://jerrygarcia.com/show/1978-12-16-nashville-municipal-auditorium-nashville-tn-usa/) [18]",

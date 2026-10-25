@@ -78,7 +78,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -94,8 +94,8 @@
     "guests": [],
     "next": {
      "date": "1978-11-13",
-     "show": "live:grateful-dead:1978-11-13:music-hall",
-     "venue": "Music Hall"
+     "show": "live:grateful-dead:1978-11-13:boston-music-hall",
+     "venue": "Boston Music Hall"
     },
     "previous": {
      "date": "1978-10-22",
@@ -142,83 +142,176 @@
     "setlist": [
      {
       "key": "song:grateful-dead:minglewood-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-10-22",
+        "show": "live:grateful-dead:1978-10-22:winterland-arena"
+       },
+       "plays_before": 72,
+       "total_plays": 377
+      },
       "title": "Minglewood Blues"
      },
      {
       "key": "song:grateful-dead:stagger-lee",
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-10-21",
+        "show": "live:grateful-dead:1978-10-21:winterland-arena"
+       },
+       "plays_before": 7,
+       "total_plays": 155
+      },
       "title": "Stagger Lee"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-10-17",
+        "show": "live:grateful-dead:1978-10-17:winterland-arena"
+       },
+       "plays_before": 137,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 22,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1978-10-17",
+        "show": "live:grateful-dead:1978-10-17:winterland-arena"
+       },
+       "plays_before": 195,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 314,
+       "gap_shows": 66,
+       "last_played": {
+        "date": "1977-12-29",
+        "show": "live:grateful-dead:1977-12-29:winterland-arena"
+       },
+       "plays_before": 266,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 314,
+       "gap_shows": 66,
+       "last_played": {
+        "date": "1977-12-29",
+        "show": "live:grateful-dead:1977-12-29:winterland-arena"
+       },
+       "plays_before": 269,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:its-all-over-now",
-      "stats": {},
+      "stats": {
+       "days_since": 19,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1978-10-20",
+        "show": "live:grateful-dead:1978-10-20:winterland-arena"
+       },
+       "plays_before": 27,
+       "total_plays": 169
+      },
       "title": "It's All Over Now"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1555,
+       "gap_shows": 212,
+       "last_played": {
+        "date": "1974-08-06",
+        "show": "live:grateful-dead:1974-08-06:roosevelt-stadium"
+       },
+       "plays_before": 60,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 18,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1978-10-21",
+        "show": "live:grateful-dead:1978-10-21:winterland-arena"
+       },
+       "plays_before": 143,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1978-10-22",
+        "show": "live:grateful-dead:1978-10-22:winterland-arena"
+       },
+       "plays_before": 188,
+       "total_plays": 438
+      },
       "title": "Deal"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:grateful-dead:1978-11-08:capitol-center",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Don't Ease Me In"
+     ],
      "first_in_archive": [],
-     "show_number": 710,
-     "shows_in_archive": 1855,
+     "show_number": 804,
+     "shows_in_archive": 2097,
      "songs": 10,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Capitol Center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:52.356210+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:15.695982+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "WaMNv-knQOmQVBsHD5oxCa6_vgu56-hj-wtIteGZ8qbs4RsKg8QzhgEk7irk87FrVpCEU1k7mooLvxL4kxqmBw",
+   "revision": 41,
+   "signature": "GgD_qDjdAcP4gNuONW-8-iW8bvWBmiY7Z4jq6MJO6JOhCBTC8VwCHSCIAz8VkIzctQ6sc7Ry2vfCZUaBpGDSCQ",
    "subject_key": "live:grateful-dead:1978-11-08:capitol-center",
-   "updated_at": "2026-10-25T16:41:52.356922"
+   "updated_at": "2026-10-25T17:35:15.696755"
   }
  },
  "recommended": {

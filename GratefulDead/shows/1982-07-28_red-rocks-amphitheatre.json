@@ -548,7 +548,7 @@
      "id": 28,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -1047,140 +1047,366 @@
     "setlist": [
      {
       "key": "song:grateful-dead:shakedown-street",
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-05-23",
+        "show": "live:grateful-dead:1982-05-23:greek-theatre-u-of-california"
+       },
+       "plays_before": 74,
+       "total_plays": 177
+      },
       "title": "Shakedown Street"
      },
      {
       "key": "song:grateful-dead:beat-it-on-down-the-line",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 104,
+       "gap_shows": 11,
+       "last_played": {
+        "date": "1982-04-15",
+        "show": "live:grateful-dead:1982-04-15:providence-civic-center"
+       },
+       "plays_before": 263,
+       "total_plays": 334
+      },
       "title": "Beat It On Down The Line"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 164,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 174,
+       "total_plays": 232
+      },
       "title": "They Love Eachother"
      },
      {
       "key": "song:grateful-dead:mama-tried",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 229,
+       "total_plays": 312
+      },
       "title": "Mama Tried"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 304,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:big-railroad-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 101,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "1982-04-18",
+        "show": "live:grateful-dead:1982-04-18:hartford-civic-center"
+       },
+       "plays_before": 111,
+       "total_plays": 181
+      },
       "title": "Big Railroad Blues"
      },
      {
       "key": "song:grateful-dead:lazy-lightning",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 107,
+       "total_plays": 122
+      },
       "title": "Lazy Lightnin'"
      },
      {
       "key": "song:grateful-dead:supplication",
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 101,
+       "total_plays": 127
+      },
       "title": "Supplication"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 289,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:women-are-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 22,
+       "total_plays": 187
+      },
       "title": "Women Are Smarter"
      },
      {
       "key": "song:grateful-dead:althea",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 139,
+       "total_plays": 285
+      },
       "title": "Althea"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 66,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1982-05-23",
+        "show": "live:grateful-dead:1982-05-23:greek-theatre-u-of-california"
+       },
+       "plays_before": 134,
+       "total_plays": 294
+      },
       "title": "Let it Grow"
      },
      {
       "key": "song:grateful-dead:hes-gone",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 67,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1982-05-22",
+        "show": "live:grateful-dead:1982-05-22:greek-theatre-u-of-california"
+       },
+       "plays_before": 164,
+       "total_plays": 337
+      },
       "title": "He's Gone"
      },
      {
       "key": "song:grateful-dead:trucking",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 322,
+       "total_plays": 539
+      },
       "title": "Truckin'"
      },
      {
       "key": "song:grateful-dead:jam-without-jerry",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 346,
+       "gap_shows": 69,
+       "last_played": {
+        "date": "1981-08-16",
+        "show": "live:grateful-dead:1981-08-16:mcarthur-court-u-of-oregon"
+       },
+       "plays_before": 1,
+       "total_plays": 3
+      },
       "title": "Jam without Jerry"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-07-27",
+        "show": "live:grateful-dead:1982-07-27:red-rocks-amphitheatre"
+       },
+       "plays_before": 679,
+       "total_plays": 1630
+      },
       "title": "Drums//"
      },
      {
       "key": "song:grateful-dead:drums-continued",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 992,
+       "gap_shows": 231,
+       "last_played": {
+        "date": "1979-11-09",
+        "show": "live:grateful-dead:1979-11-09:community-war-memorial-auditorium"
+       },
+       "plays_before": 1,
+       "total_plays": 9
+      },
       "title": "Drums continued"
      },
      {
       "key": "song:grateful-dead:space",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1982-07-27",
+        "show": "live:grateful-dead:1982-07-27:red-rocks-amphitheatre"
+       },
+       "plays_before": 344,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:spanish-jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 102,
+       "gap_shows": 10,
+       "last_played": {
+        "date": "1982-04-17",
+        "show": "live:grateful-dead:1982-04-17:hartford-civic-center"
+       },
+       "plays_before": 33,
+       "total_plays": 61
+      },
       "title": "Spanish Jam"
      },
      {
       "key": "song:grateful-dead:jam",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 304,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 325,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:black-peter",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1982-07-25",
+        "show": "live:grateful-dead:1982-07-25:compton-terrace-amphitheatre"
+       },
+       "plays_before": 196,
+       "total_plays": 356
+      },
       "title": "Black Peter"
      },
      {
       "key": "song:grateful-dead:sugar-magnolia",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 383,
+       "total_plays": 615
+      },
       "title": "Sugar Magnolia"
      },
      {
       "key": "song:grateful-dead:its-all-over-now-baby-blue",
-      "stats": {},
+      "stats": {
+       "days_since": 11,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1982-07-17",
+        "show": "live:grateful-dead:1982-07-17:ventura-county-fairgrounds"
+       },
+       "plays_before": 37,
+       "total_plays": 155
+      },
       "title": "It's All Over Now Baby Blue"
      }
     ],
@@ -1188,46 +1414,70 @@
      {
       "from": "gd82-07-28.fob-senn421.wise.4980.sbefail.shnf",
       "key": "song:grateful-dead:man-smart-woman-smarter",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 18,
+       "total_plays": 182
+      },
       "title": "Man Smart Woman Smarter"
      },
      {
       "from": "gd1982-07-28.167176.senn421.wiseman.miller.clugston.flac1648",
       "key": "song:grateful-dead:man-smart",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1982-07-18",
+        "show": "live:grateful-dead:1982-07-18:ventura-county-fairgrounds"
+       },
+       "plays_before": 22,
+       "total_plays": 194
+      },
       "title": "Man Smart (Woman Smarter)"
      },
      {
       "from": "gd1982-07-28.138613.beyerm201.holbrook.flac2448",
       "key": "song:grateful-dead:space-spanish-jam-and",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Space-> Spanish Jam-> &"
      }
     ],
     "subject_key": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre",
     "summary": {
-     "bustouts": [],
+     "bustouts": [
+      "Drums continued"
+     ],
      "first_in_archive": [],
-     "show_number": 1022,
-     "shows_in_archive": 1855,
+     "show_number": 1119,
+     "shows_in_archive": 2097,
      "songs": 25,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Red Rocks Amphitheatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 29,
+   "parent_revision": 41,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:55.082871+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:18.296070+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 30,
-   "signature": "9lKn9U5LUAUl0W3ciBkJIjDqGshGvBoFRQ5KYR1MSuTXhRHorN6FcZj5TxDJAUgu2ia2nXwzzDTay7pz07OODg",
+   "revision": 42,
+   "signature": "KL8izf3LOe635f8yRbwfcD5lnA0Vyu-AHexyYI6dx4dEGolmYojbEIt12mwkhoEVreI_FNAqi_4dPsygOLVfCQ",
    "subject_key": "live:grateful-dead:1982-07-28:red-rocks-amphitheatre",
-   "updated_at": "2026-10-25T16:41:55.084562"
+   "updated_at": "2026-10-25T17:35:18.297212"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Big Railroad Blues** (1 review): Jerry's riffs on Big Railroad Blues are highlighted [24]\n- **Let it Grow** (1 review): Rare set II Let It Grow is a top 80s performance [24]\n- **He's Gone** (1 review): He's Gone is really wonderful [19]\n- **Truckin'** (1 review): Bobby sings alternate lyrics about Sweet Jane's sex change in Truckin' [27]\n\n## The recordings\n\n- **gd1982-07-28.sbd.browning-feinberg.32707.sbeok.flac16** (recommended): soundboard; 25 songs; 164 min; rated 3.15/5 by 13 [1]. Said about its sound: Rain storm caused sound problems, with guitars dropping in and out; Light static appears in the right channel at a few spots [1]\n- **gd82-07-28.fob-senn421.wise.4980.sbefail.shnf**: audience recording; 22 songs; 163 min; rated 4.28/5 by 29 [2]. Said about its sound: Bob and Brent's piano created a jangly sound throughout the performance; The crowd tape is very good, slightly less than the previous day's; Sound bounces off Red Rocks walls to perfection on this recording [18][19][25][26][27]\n- **gd1982-07-28.167176.senn421.wiseman.miller.clugston.flac1648**: audience recording; 22 songs; 168 min; rated 5/5 by 1 [3]\n- **gd1982-07-28.172642.senn421.clugston.flac2496**: audience recording; 22 songs; 171 min [4]\n\n## Around the show\n\n- Many people looked for tickets or tried to smuggle themselves in [16]\n- Rain fell during all three nights, making tickets easier to obtain [18]\n- Tapers experienced serious stressing at the start of the tape [19]\n- Band played with Stephen for a minute before Not Fade Away [20]\n- Half of Red Rocks' back half lit up at the tease [20]\n- Garcia delivered a hot jam on Shakedown Street [22]\n- Heads hung out at the Red Rocks amphitheatre before show time [22]\n- Rain washed the audience pure for a few hours [23]\n- This show has better balance among instruments than the following night [27]\n\n## Tapers and lineage\n\n- **gd1982-07-28.sbd.browning-feinberg.32707.sbeok.flac16**: taped by Cassettes provided by Joey Browning and Jake Feinberg; source: Soundboard of unknown lineage > ? > Cassette. [1]. Also: First five seconds of Shakedown patched from LMA audience source [1]\n- **gd82-07-28.fob-senn421.wise.4980.sbefail.shnf**: taped by Jim Wise; transferred by Jim Wise; source: Audience Recording: Sennheiser 421's [2]. Also: Hosted by Mike Lai with checksums differing from previous shn set [2]\n- **gd1982-07-28.167176.senn421.wiseman.miller.clugston.flac1648**: taped by Scott Wiseman; transferred by Scott Clugston, Charlie Miller; source: Scott Wiseman's Master Audience Cassettes; AKG SE-5E mics with CE-1 cardioid capsules > Sony TC-D5 (Maxell UDXLII 90) [3]. Also: Jim Wise provided Sennheiser 421 source for patches and crowd noise; Frank Streeter provided Nakamichi 700 source for Althea and crowd [3]\n- **gd1982-07-28.172642.senn421.clugston.flac2496**: transferred by Scott Clugston; source: Master (FOB, near lip of stage)) Audience Cassettes; Sennheiser 421 mics > Sony D5M (TDK-MA-C90) [4]. Also: Anonymous benefactors provided master cassette recording and transfer; Jim Wise and Charlie Miller provided Sennheiser 421 patches [4]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1982-07-28 Red Rocks Amphitheatre, Morrison, CO, USA - Jerry Garcia](https://jerrygarcia.com/show/1982-07-28-red-rocks-amphitheatre-morrison-co-usa/) [29]",

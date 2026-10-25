@@ -399,7 +399,7 @@
      "id": 23,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -748,164 +748,439 @@
     "setlist": [
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1973-11-14",
+        "show": "live:grateful-dead:1973-11-14:san-diego-sports-arena"
+       },
+       "plays_before": 119,
+       "total_plays": 628
+      },
       "title": "Jam (Rip It Up?....Blue Suede Shoes?)"
      },
      {
       "key": "song:grateful-dead:blue-suede-shoes",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Blue Suede Shoes//"
      },
      {
       "key": "song:grateful-dead:working-man-blues",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 848,
+       "gap_shows": 194,
+       "last_played": {
+        "date": "1971-08-06",
+        "show": "live:grateful-dead:1971-08-06:hollywood-palladium"
+       },
+       "plays_before": 13,
+       "total_plays": 14
+      },
       "title": "Workingman's Blues"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 106,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:sugaree",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 122,
+       "total_plays": 372
+      },
       "title": "Sugaree"
      },
      {
       "key": "song:grateful-dead:mexicali-blues",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 135,
+       "total_plays": 452
+      },
       "title": "Mexicali Blues"
      },
      {
       "key": "song:grateful-dead:tennessee-jed",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 120,
+       "total_plays": 444
+      },
       "title": "Tennessee Jed"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 55,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:china-cat-sunflower",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 238,
+       "total_plays": 561
+      },
       "title": "China Cat Sunflower"
      },
      {
       "key": "song:grateful-dead:i-know-you-rider",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 241,
+       "total_plays": 564
+      },
       "title": "I Know You Rider"
      },
      {
       "key": "song:grateful-dead:big-river",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 81,
+       "total_plays": 399
+      },
       "title": "Big River"
      },
      {
       "key": "song:grateful-dead:brokedown-palace",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 51,
+       "total_plays": 225
+      },
       "title": "Brokedown Palace"
      },
      {
       "key": "song:grateful-dead:weather-report-suite-prelude",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 21,
+       "total_plays": 44
+      },
       "title": "Weather Report Suite Prelude"
      },
      {
       "key": "song:grateful-dead:let-it-grow",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 23,
+       "total_plays": 294
+      },
       "title": "Let It Grow"
      },
      {
       "key": "song:grateful-dead:casey-jones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 263,
+       "total_plays": 316
+      },
       "title": "Casey Jones"
      },
      {
       "key": "song:grateful-dead:around-and-around",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 50,
+       "total_plays": 425
+      },
       "title": "Around & Around"
      },
      {
       "key": "song:grateful-dead:they-love-each-other",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 38,
+       "total_plays": 232
+      },
       "title": "They Love Each Other"
      },
      {
       "key": "song:grateful-dead:clear-the-aisles",
-      "stats": {},
+      "stats": {
+       "days_since": 434,
+       "gap_shows": 99,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Clear the Aisles"
      },
      {
       "key": "song:grateful-dead:me-and-my-uncle",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 276,
+       "total_plays": 637
+      },
       "title": "Me & My Uncle"
      },
      {
       "key": "song:grateful-dead:clear-the-aisles",
-      "stats": {},
+      "stats": {
+       "days_since": 434,
+       "gap_shows": 99,
+       "last_played": {
+        "date": "1972-09-23",
+        "show": "live:grateful-dead:1972-09-23:palace-theater"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
       "title": "Clear the Aisles"
      },
      {
       "key": "song:grateful-dead:dont-ease-me-in",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 54,
+       "total_plays": 326
+      },
       "title": "Don't Ease Me In"
      },
      {
       "key": "song:grateful-dead:me-and-bobby-mcgee",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 106,
+       "total_plays": 125
+      },
       "title": "Me & Bobby McGee"
      },
      {
       "key": "song:grateful-dead:mississippi-half-step",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 47,
+       "total_plays": 215
+      },
       "title": "Mississippi Half-Step"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 196,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:uncle-johns-band",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 124,
+       "total_plays": 342
+      },
       "title": "Uncle John's Band"
      },
      {
       "key": "song:grateful-dead:playin-in-the-band",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 196,
+       "total_plays": 634
+      },
       "title": "Playin' in the Band"
      },
      {
       "key": "song:grateful-dead:row-jimmy",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 54,
+       "total_plays": 278
+      },
       "title": "Row Jimmy"
      },
      {
       "key": "song:grateful-dead:greatest-story-ever-told",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 89,
+       "total_plays": 290
+      },
       "title": "Greatest Story Ever Told"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 84,
+       "gap_shows": 27,
+       "last_played": {
+        "date": "1973-09-08",
+        "show": "live:grateful-dead:1973-09-08:nassau-coliseum"
+       },
+       "plays_before": 154,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "key": "song:grateful-dead:going-down-the-road-feeling-bad",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 124,
+       "total_plays": 302
+      },
       "title": "Going Down the Road Feeling Bad"
      },
      {
       "key": "song:grateful-dead:one-more-saturday-night",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1973-11-25",
+        "show": "live:grateful-dead:1973-11-25:feyline-field"
+       },
+       "plays_before": 101,
+       "total_plays": 345
+      },
       "title": "One More Saturday Night"
      }
     ],
@@ -913,172 +1188,353 @@
      {
       "from": "gd1973-12-01.sbd.miller.112205.flac16",
       "key": "song:grateful-dead:weather-report-suite",
-      "stats": {},
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1973-11-30",
+        "show": "live:grateful-dead:1973-11-30:boston-music-hall"
+       },
+       "plays_before": 17,
+       "total_plays": 43
+      },
       "title": "Weather Report Suite"
      },
      {
       "from": "gd1973-12-01.sbd.miller.112205.flac16",
       "key": "song:grateful-dead:mississippi-half-step-uptown-toodeloo",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 44,
+       "total_plays": 220
+      },
       "title": "Mississippi Half-Step Uptown Toodeloo"
      },
      {
       "from": "gd1973-12-01.158194.aud.maloney.flac16",
       "key": "song:grateful-dead:audience",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 1017,
+       "gap_shows": 233,
+       "last_played": {
+        "date": "1971-02-18",
+        "show": "live:grateful-dead:1971-02-18:capitol-theater"
+       },
+       "plays_before": 2,
+       "total_plays": 12
+      },
       "title": "Audience"
      },
      {
       "from": "gd1973-12-01.sbd.gardner.4337.shnf",
       "key": "song:grateful-dead:wrs-prelude",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 14,
+       "total_plays": 22
+      },
       "title": "WRS Prelude"
      },
      {
       "from": "gd1973-12-01.sbd.gardner.4337.shnf",
       "key": "song:grateful-dead:wrs-part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1973-11-23",
+        "show": "live:grateful-dead:1973-11-23:county-coliseum"
+       },
+       "plays_before": 11,
+       "total_plays": 17
+      },
       "title": "WRS Part 1"
      },
      {
       "from": "gd1973-12-01.aud.degen.110781.flac1644",
       "key": "song:grateful-dead:weather-report-suite-part-one",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1973-11-21",
+        "show": "live:grateful-dead:1973-11-21:denver-coliseum"
+       },
+       "plays_before": 3,
+       "total_plays": 15
+      },
       "title": "Weather Report Suite Part One"
      },
      {
       "from": "gd1973-12-01.aud.degen.110781.flac1644",
       "key": "song:grateful-dead:human-rattlesnake",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "human rattlesnake"
      },
      {
       "from": "gd1973-12-01.aud.degen.110781.flac1644",
       "key": "song:grateful-dead:this-lame-trip",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "this lame trip"
      },
      {
       "from": "gd1973-12-01.aud.degen.110781.flac1644",
       "key": "song:grateful-dead:your-poor-tired-feet",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "your poor tired feet"
      },
      {
       "from": "gd1973-12-01.aud.degen.110781.flac1644",
       "key": "song:grateful-dead:going-down-the-road",
-      "stats": {},
+      "stats": {
+       "days_since": 32,
+       "gap_shows": 12,
+       "last_played": {
+        "date": "1973-10-30",
+        "show": "live:grateful-dead:1973-10-30:kiel-auditorium"
+       },
+       "plays_before": 20,
+       "total_plays": 115
+      },
       "title": "Goin' Down the Road"
      },
      {
       "from": "gd1973-12-01.aud.maloney.98049.flac16",
       "key": "song:grateful-dead:intro-tune-ups-the-promised-land",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "INTRO/TUNE UPS/THE PROMISED LAND"
      },
      {
       "from": "gd1973-12-01.aud.maloney.98049.flac16",
       "key": "song:grateful-dead:weather-report-suite-prelude-suite-part-one",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "WEATHER REPORT/SUITE PRELUDE/SUITE PART ONE"
      },
      {
       "from": "gd73-12-01.aud.vernon.18094.sbeok.shnf",
       "key": "song:grateful-dead:weather-report-suite-prelude-and-part-1",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 3
+      },
       "title": "Weather Report Suite Prelude & Part 1"
      },
      {
       "from": "gd73-12-01.aud.vernon.18094.sbeok.shnf",
       "key": "song:grateful-dead:human-rattlesnake-banter-around-and-around",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Human rattlesnake banter Around And Around"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:china-cat",
-      "stats": {},
+      "stats": {
+       "days_since": 372,
+       "gap_shows": 73,
+       "last_played": {
+        "date": "1972-11-24",
+        "show": "live:grateful-dead:1972-11-24:dallas-memorial-auditorium"
+       },
+       "plays_before": 5,
+       "total_plays": 32
+      },
       "title": "China Cat"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:ikyr",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 569,
+       "gap_shows": 130,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "IKYR"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:part-1",
-      "stats": {},
+      "stats": {
+       "days_since": 71,
+       "gap_shows": 21,
+       "last_played": {
+        "date": "1973-09-21",
+        "show": "live:grateful-dead:1973-09-21:the-spectrum"
+       },
+       "plays_before": 1,
+       "total_plays": 10
+      },
       "title": "Part 1"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:half-step",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 13
+      },
       "title": "Half-Step"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:playing",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 461,
+       "gap_shows": 108,
+       "last_played": {
+        "date": "1972-08-27",
+        "show": "live:grateful-dead:1972-08-27:old-renaissance-faire-grounds"
+       },
+       "plays_before": 4,
+       "total_plays": 36
+      },
       "title": "Playin'"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:ujb",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 569,
+       "gap_shows": 130,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "UJB"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:gset",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 4
+      },
       "title": "GSET"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:nfa",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 557,
+       "gap_shows": 125,
+       "last_played": {
+        "date": "1972-05-23",
+        "show": "live:grateful-dead:1972-05-23:the-strand-lyceum"
+       },
+       "plays_before": 1,
+       "total_plays": 21
+      },
       "title": "NFA"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:gdtrfb",
-      "stats": {},
+      "stats": {
+       "days_since": 441,
+       "gap_shows": 103,
+       "last_played": {
+        "date": "1972-09-16",
+        "show": "live:grateful-dead:1972-09-16:boston-music-hall"
+       },
+       "plays_before": 5,
+       "total_plays": 37
+      },
       "title": "GDTRFB"
      },
      {
       "from": "gd1973-12-01.sbd.clugston.4972.sbefail.shnf",
       "key": "song:grateful-dead:omsn",
-      "stats": {},
+      "stats": {
+       "bustout": true,
+       "days_since": 569,
+       "gap_shows": 130,
+       "last_played": {
+        "date": "1972-05-11",
+        "show": "live:grateful-dead:1972-05-11:rotterdam-civic-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 4
+      },
       "title": "OMSN"
      }
     ],
     "subject_key": "live:grateful-dead:1973-12-01:boston-music-hall",
     "summary": {
-     "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 472,
-     "shows_in_archive": 1855,
+     "bustouts": [
+      "Workingman's Blues"
+     ],
+     "first_in_archive": [
+      "Blue Suede Shoes//"
+     ],
+     "show_number": 554,
+     "shows_in_archive": 2097,
      "songs": 31,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Boston Music Hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 40,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:47.345414+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:13.879236+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "MHOKsZV-SjTx_zkf1nbD58M1dbaV7Sau7ORdb4qk5iavR_UhQNh7NJTSx6aUWnup81tHC1QPytu2qsqJT2zhDA",
+   "revision": 41,
+   "signature": "3KHqrXXJL222Fxkx-f2T7jR2k50zRXlbufqJJQQA874VDcQGNiK4zT-gBFALkAUAJzfCO8zNWA7Rzq6ip4UODw",
    "subject_key": "live:grateful-dead:1973-12-01:boston-music-hall",
-   "updated_at": "2026-10-25T16:41:47.348958"
+   "updated_at": "2026-10-25T17:35:13.881008"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Casey Jones** (1 review): Listener specifically enjoys the way this song sounded in 1973 [15]\n- **Clear the Aisles** (1 review): Listener calls the first part of this song the greatest banter ever [10]\n- **Uncle John's Band** (1 review): Listener highlights healthy feedback and space in the final minutes [10]\n\n## The recordings\n\n- **gd1973-12-01.sbd.clugston.6648.sbefail.shnf** (recommended): soundboard; 31 songs; 205 min; rated 4.33/5 by 9 [1]. Said about its sound: Listener describes the soundboard recording as clear and crisp; Listener rates the sound quality of the recording as very good; A one-second static burst occurs at the four-minute mark of Big River [1][10][14]\n- **gd1973-12-01.sbd.miller.112205.flac16**: soundboard; 28 songs; 226 min; rated 3.6/5 by 10 [2]\n- **gd1973-12-01.aud.degen.110781.flac1644**: audience recording; 29 songs; 198 min; rated 3/5 by 1 [6]. Said about its sound: Listener finds the current transfer sounds better than their early 80s cassettes [16]\n- **gd1973-12-01.aud.maloney.98049.flac16**: audience recording; 25 songs; 234 min; rated 3.5/5 by 4 [7]\n\n## Around the show\n\n- Cops tried clearing aisles; a lead officer waved from the stage [13]\n- Band continued playing as lights came on, ignoring the disturbance [13]\n- Donna sat out the show to give birth to her son, Boombox [20]\n- Bobby screamed at audience members dancing in the aisles during Uncle [20]\n- Phil calmly swayed heads back to seats after the Uncle segment [20]\n- Listener realized they were a fan, not a true Deadhead, at this show [3]\n- Listener was amazed by the size of the Wall of Sound stage [3]\n\n## Tapers and lineage\n\n- **gd1973-12-01.sbd.clugston.6648.sbefail.shnf**: transferred by Scott Clugston; source: Master Soundboard Reels > PCM > DAT> CDR [1]. Also: Listener speculates the first three tracks are likely sound checks; Uploader preserved a segue between Half-Step and Playin' in the Band [1][14]\n- **gd1973-12-01.sbd.miller.112205.flac16**: transferred by Charlie Miller; source: SBD -> Master Reel -> Dat (44.1k) [2]. Also: Uploader notes all disc changes in the set are seamless [2]\n- **gd1973-12-01.aud.degen.110781.flac1644**: taped by Bill Degen. This transfer is 1st Gen cassettes, kindly provided by Tim Friend.; transferred by Transfer by Andrew F.; source: FOB AUD Source: Unknown equipment > MAC. [6]. Also: Recording derives from Bill Degen's reels, transferred in the early 80s [16]\n- **gd1973-12-01.aud.maloney.98049.flac16**: source: AUDIENCE ANALOG MASTER>CDR [7]. Also: Joe Maloney made this specific audience recording available for download [7]",

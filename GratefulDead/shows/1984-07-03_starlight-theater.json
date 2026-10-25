@@ -560,7 +560,7 @@
      "id": 29,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -596,8 +596,8 @@
     },
     "previous": {
      "date": "1984-07-01",
-     "show": "live:grateful-dead:1984-07-01:pine-knob-music-theatre",
-     "venue": "Pine Knob Music Theatre"
+     "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater",
+     "venue": "Pine Knob Music Theater"
     },
     "recommended": {
      "identifier": "gd1984-07-03.139105.pcm.sbd.miller.flac1644",
@@ -1089,104 +1089,284 @@
     "setlist": [
      {
       "key": "song:grateful-dead:alabama-getaway",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 119,
+       "total_plays": 146
+      },
       "title": "Alabama Getaway"
      },
      {
       "key": "song:grateful-dead:promised-land",
-      "stats": {},
+      "stats": {
+       "days_since": 10,
+       "gap_shows": 6,
+       "last_played": {
+        "date": "1984-06-23",
+        "show": "live:grateful-dead:1984-06-23:city-island"
+       },
+       "plays_before": 302,
+       "total_plays": 439
+      },
       "title": "Promised Land"
      },
      {
       "key": "song:grateful-dead:candyman",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-06-24",
+        "show": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center"
+       },
+       "plays_before": 192,
+       "total_plays": 286
+      },
       "title": "Candyman"
      },
      {
       "key": "song:grateful-dead:cassidy",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 195,
+       "total_plays": 351
+      },
       "title": "Cassidy"
      },
      {
       "key": "song:grateful-dead:west-l-a-fadeaway",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 37,
+       "total_plays": 150
+      },
       "title": "West LA Fadeaway"
      },
      {
       "key": "song:grateful-dead:my-brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 50,
+       "total_plays": 108
+      },
       "title": "My Brother Esau"
      },
      {
       "key": "song:grateful-dead:loser",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-27",
+        "show": "live:grateful-dead:1984-06-27:merriweather-post-pavilion"
+       },
+       "plays_before": 265,
+       "total_plays": 364
+      },
       "title": "Loser"
      },
      {
       "key": "song:grateful-dead:looks-like-rain",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 290,
+       "total_plays": 426
+      },
       "title": "Looks Like Rain"
      },
      {
       "key": "song:grateful-dead:deal",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 327,
+       "total_plays": 438
+      },
       "title": "Deal"
      },
      {
       "key": "song:grateful-dead:scarlet-begonias",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 200,
+       "total_plays": 333
+      },
       "title": "Scarlet Begonias"
      },
      {
       "key": "song:grateful-dead:touch-of-grey",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 43,
+       "total_plays": 222
+      },
       "title": "Touch Of Grey"
      },
      {
       "key": "song:grateful-dead:fire-on-the-mountain",
-      "stats": {},
+      "stats": {
+       "days_since": 12,
+       "gap_shows": 7,
+       "last_played": {
+        "date": "1984-06-21",
+        "show": "live:grateful-dead:1984-06-21:kingswood-music-theater"
+       },
+       "plays_before": 150,
+       "total_plays": 272
+      },
       "title": "Fire On The Mountain"
      },
      {
       "key": "song:grateful-dead:jam",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-01",
+        "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater"
+       },
+       "plays_before": 353,
+       "total_plays": 628
+      },
       "title": "Jam"
      },
      {
       "key": "song:grateful-dead:dont-need-love",
-      "stats": {},
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "1984-06-26",
+        "show": "live:grateful-dead:1984-06-26:merriweather-post-pavilion"
+       },
+       "plays_before": 6,
+       "total_plays": 16
+      },
       "title": "Don't Need Love"
      },
      {
       "key": "song:grateful-dead:drums",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-01",
+        "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater"
+       },
+       "plays_before": 816,
+       "total_plays": 1630
+      },
       "title": "Drums"
      },
      {
       "key": "song:grateful-dead:space",
-      "stats": {},
+      "stats": {
+       "days_since": 2,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1984-07-01",
+        "show": "live:grateful-dead:1984-07-01:pine-knob-music-theater"
+       },
+       "plays_before": 480,
+       "total_plays": 1290
+      },
       "title": "Space"
      },
      {
       "key": "song:grateful-dead:wheel",
-      "stats": {},
+      "stats": {
+       "days_since": 4,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "1984-06-29",
+        "show": "live:grateful-dead:1984-06-29:blossom-music-center"
+       },
+       "plays_before": 99,
+       "total_plays": 267
+      },
       "title": "The Wheel"
      },
      {
       "key": "song:grateful-dead:throwing-stones",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-27",
+        "show": "live:grateful-dead:1984-06-27:merriweather-post-pavilion"
+       },
+       "plays_before": 60,
+       "total_plays": 272
+      },
       "title": "Throwing Stones"
      },
      {
       "key": "song:grateful-dead:not-fade-away",
-      "stats": {},
+      "stats": {
+       "days_since": 6,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1984-06-27",
+        "show": "live:grateful-dead:1984-06-27:merriweather-post-pavilion"
+       },
+       "plays_before": 374,
+       "total_plays": 556
+      },
       "title": "Not Fade Away"
      },
      {
       "encore": true,
       "key": "song:grateful-dead:keep-your-day-job",
       "set_index": 1,
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 28,
+       "total_plays": 57
+      },
       "title": "Keep Your Day Job"
      }
     ],
@@ -1194,31 +1374,66 @@
      {
       "from": "gd84-07-03.aud.willy.14909.sbeok.shnf",
       "key": "song:grateful-dead:brother-esau",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 37,
+       "total_plays": 76
+      },
       "title": "Brother Esau"
      },
      {
       "from": "gd1984-07-03.150307.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:crowd-nfa",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Crowd NFA"
      },
      {
       "from": "gd1984-07-03.150307.beyerm88.holbrook.flac1644",
       "key": "song:grateful-dead:day-job",
-      "stats": {},
+      "stats": {
+       "days_since": 3,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "1984-06-30",
+        "show": "live:grateful-dead:1984-06-30:indianapolis-sports-and-music-center"
+       },
+       "plays_before": 27,
+       "total_plays": 54
+      },
       "title": "Day Job"
      },
      {
       "from": "gd1984-07-03.FOB.Senn421.Darby.118238.Flac1644",
       "key": "song:grateful-dead:deal-set-break",
-      "stats": {},
+      "stats": {
+       "days_since": 9,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "1984-06-24",
+        "show": "live:grateful-dead:1984-06-24:saratoga-performing-arts-center"
+       },
+       "plays_before": 10,
+       "total_plays": 42
+      },
       "title": "Deal/Set Break"
      },
      {
       "from": "gd1984-07-03.FOB.Senn421.Darby.118238.Flac1644",
       "key": "song:grateful-dead:not-fade-away-encore-break",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 6
+      },
       "title": "Not Fade Away/Encore Break"
      }
     ],
@@ -1226,26 +1441,26 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 1159,
-     "shows_in_archive": 1855,
+     "show_number": 1262,
+     "shows_in_archive": 2097,
      "songs": 20,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Starlight Theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 13,
+   "parent_revision": 25,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:58.946045+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:19.834901+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 14,
-   "signature": "8w73VDXqO7oSnkJyADdPdKF4ktjABC95nFjRP-Z8_EvFcaUFUv2ItE99mwrxB3dcmF63smT-IKHAaQL83QeCDw",
+   "revision": 26,
+   "signature": "WsM-fALL1hq6OvyCWbqkHRNJ9t0jGRPMYuZ2P5yoxrn6DXrWHq4qOKtKF14zfH9gVR38HAPdqoCkNFKHBrsBCg",
    "subject_key": "live:grateful-dead:1984-07-03:starlight-theater",
-   "updated_at": "2026-10-25T16:41:58.947895"
+   "updated_at": "2026-10-25T17:35:19.835948"
   },
   "liner": {
    "body_md": "## What listeners single out\n\n- **Alabama Getaway** (1 review, 1 other source): Alabama Getaway into Promised Land is called proud and powerful, with unusual energy for songs often played; Healy's PA mix is way off for the first minute of Alabama Getaway [14][17]\n- **Cassidy** (1 review): Cassidy closes with a nice jam at the end [18]\n- **West LA Fadeaway** (1 review): Phil plays heavy, booming bass lines throughout West L.A. Fadeaway [17]\n- **Deal** (1 review): Deal features Jerry playing fuzzed-out solos as his big turn at the end [18]\n- **Scarlet Begonias** (1 review): The pre-drums Scarlet>Touch>Fire is very energetic and tight, described as the meat of the show [18]\n- **Touch Of Grey** (1 review): The Scarlet into Touch transition is sweet: Jerry starts it and Brent joins in memorably [20]\n- **Don't Need Love** (1 other source): Jerry leaves after Fire and does not play on the Jam into Don't Need Love [14]\n- **Throwing Stones** (1 review): Bobby laughs at himself after a dyslexic slip of the words in Throwing Stones [22]\n\n## The recordings\n\n- **gd1984-07-03.139105.pcm.sbd.miller.flac1644** (recommended): soundboard; 20 songs; 155 min; rated 4/5 by 2 [1]\n- **gd1984-07-03.163309.nak304.thomas.miller.clugston.flac2496**: audience recording; 20 songs; 146 min [10]\n- **gd1984-07-03.nak301.suraci.dalessandro.77440.sbeok.flac16**: source not stated; 20 songs; 146 min; rated 4/5 by 2 [13]. Said about its sound: Audience recording where crowd noise is buried within the music rather than overwhelming it; reviewer calls it a masterpiece [26]\n- **gd84-07-03.aud.willy.14909.sbeok.shnf**: audience recording; 20 songs; 148 min; rated 4.47/5 by 15 [2]\n\n## Around the show\n\n- Jerry left early in the second set, leaving Brent without company on stage after the Scarlet>Touch>Fire stretch [17]\n- Starlight is a small outdoor amphitheater with lawn and pavilion, holding over 7000, with castle-style structures on the sides [21]\n- Midwest summer 1984 crowds were wild, with a heavy Shakedown Street vending scene outside [21]\n- Reviewer ranks this Scarlet>Touch>Fire possibly the best, above the 7/13 version, and also cites a great one from 8/30/85 [20]\n- The venue's setup and vibe are compared to Pine Knob [21]\n- Scarlet>Touch>Fire combinations are rare, and 1984-85 set lists are appreciated for creativity and oddball choices [23]\n- Reviewer considers this probably their favorite show of the 1984 tour, citing the Scarlet/Touch/Fire/Don't Need Love run [24]\n\n## Tapers and lineage\n\n- **gd1984-07-03.139105.pcm.sbd.miller.flac1644**: transferred by Charlie Miller; source: SBD > PCM [1]\n- **gd1984-07-03.163309.nak304.thomas.miller.clugston.flac2496**: taped by Stephen Thomas; transferred by Scott Clugston, Charlie Miller; source: Stephen Thomas' Master Audience Cassettes; Nakamichi 300 mics + CP4 capsules > Sony D5M [10]\n- **gd1984-07-03.nak301.suraci.dalessandro.77440.sbeok.flac16**: taped by Tony Suraci; Eugene D'alessandro; transferred by Tony Suraci; source: Nakamichi CM300's(with CP1 Caps/pointed)>Sony D5M(XLIIS)Location: FOB/DFC Stand at 7 Feet/Pointed at Stacks [13]\n- **gd84-07-03.aud.willy.14909.sbeok.shnf**: source: AUD>MC>??>DAT>CDR [2]\n\n## Art and photos\n\n- Poster by Jerry Garcia: [1984-07-03 Backstage Pass - Jerry Garcia](https://jerrygarcia.com/image/1984-07-03-backstage-pass/) [30]",

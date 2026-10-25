@@ -172,7 +172,7 @@
      "id": 10,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1855 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -188,13 +188,13 @@
     "guests": [],
     "next": {
      "date": "1968-11-22",
-     "show": "live:grateful-dead:1968-11-22:veterans-hall",
-     "venue": "Veterans Hall"
+     "show": "live:grateful-dead:1968-11-22:columbus-veterans-hall",
+     "venue": "Columbus Veterans Hall"
     },
     "previous": {
-     "date": "1968-11-01",
-     "show": "live:grateful-dead:1968-11-01:silver-dollar-fair",
-     "venue": "Silver Dollar Fair"
+     "date": "1968-11-06",
+     "show": "live:grateful-dead:1968-11-06:alembic-studios",
+     "venue": "Alembic Studios"
     },
     "recommended": {
      "identifier": "gd1968-11-06.StudioRehearsals.GEMS.82393.flac16",
@@ -296,154 +296,300 @@
     "setlist": [
      {
       "key": "song:grateful-dead:lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 3,
+       "total_plays": 123
+      },
       "title": "Lovelight"
      },
      {
       "key": "song:grateful-dead:dark-star",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 20,
+       "total_plays": 223
+      },
       "title": "Dark Star"
      },
      {
       "key": "song:grateful-dead:first-notes-of-st-stephen",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "first notes of St. Stephen"
      },
      {
       "key": "song:grateful-dead:st-stephen-attempt-into-william-tell-transition",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "St. Stephen attempt into William Tell Transition"
      },
      {
       "key": "song:grateful-dead:st-stephen-attempt-into-william-tell-transition",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "St. Stephen attempt into William Tell Transition"
      },
      {
       "key": "song:grateful-dead:st-stephen-attempt-into-william-tell-transition",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "St. Stephen attempt into William Tell Transition"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 14,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:william-tell",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
       "title": "William Tell"
      },
      {
       "key": "song:grateful-dead:fast-aborted-eleven",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "fast aborted Eleven"
      },
      {
       "key": "song:grateful-dead:jerry-describes-william-tell-transition",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Jerry Describes William Tell transition"
      },
      {
       "key": "song:grateful-dead:burp-jerry-plays-the-drums-to-show-billy-triplets",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Burp! (sounds like Phil)...Jerry plays the Drums to Show Billy Triplets"
      },
      {
       "incomplete": true,
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 14,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:st-stephen-starts-with",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "St. Stephen - starts with"
      },
      {
       "key": "song:grateful-dead:youll-tell-by-this-lick-2-3-4",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "you'll tell by this lick...2-3-4"
      },
      {
       "key": "song:grateful-dead:stephen-verses-explained-by-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Stephen Verses explained by Garcia"
      },
      {
       "key": "song:grateful-dead:saint-stephen",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 14,
+       "total_plays": 165
+      },
       "title": "St. Stephen"
      },
      {
       "key": "song:grateful-dead:hey-could-we-have-some-more-monitors-please-more-monitor-turn-the-monitors-up",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "hey could we have some more monitors please...more monitor..turn the monitors up"
      },
      {
       "key": "song:grateful-dead:3-4-st-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "3-4.... St Stephen (complete)"
      },
      {
       "key": "song:grateful-dead:william-tell",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
       "title": "William Tell(complete finally)"
      },
      {
       "key": "song:grateful-dead:eleven",
-      "stats": {},
+      "stats": {
+       "days_since": 0,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "1968-11-06",
+        "show": "live:grateful-dead:1968-11-06:alembic-studios"
+       },
+       "plays_before": 19,
+       "total_plays": 93
+      },
       "title": "The Eleven"
      },
      {
       "key": "song:grateful-dead:every-time-bullshit-every-time-it-happens-every-time-man",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "every time..bullshit.. every time..It happens every time man?"
      },
      {
       "key": "song:grateful-dead:last-notes-of-stephen",
       "segue": true,
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "last notes of Stephen"
      },
      {
       "key": "song:grateful-dead:transition-work-into-the-eleven-ends-with-i12thats-the-trouble-with-having-schitzophrenic-drummersi12-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "transition work into The Eleven. Ends with, ï¿½thats the trouble with having schitzophrenic drummersï¿½- Garcia"
      },
      {
       "key": "song:grateful-dead:eleven-practiced",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "The Eleven Practiced"
      },
      {
       "key": "song:grateful-dead:garcia-is-not-giving-up",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Garcia is NOT giving up!"
      },
      {
       "key": "song:grateful-dead:phil-says-i12on-the-subdivisions-of-the-eleven-we-are-dropping-ones-all-over-the-place-we-are-dropping-the-beat-i12-they-practice",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil says... ï¿½on the subdivisions of the Eleven, we are dropping ONES all over the place..we are dropping the beat.ï¿½ They practice"
      },
      {
       "key": "song:grateful-dead:so-play-yer-lick-play-yer-whole-licki12-garcia-eleven-practiced-garcia-says-i12-im-sorry-you-got-it-right-ii12m-fucking-upi12",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "so play yer lick, play yer whole lickï¿½ Garcia...Eleven Practiced. Garcia says,ï¿½ Im sorry; you got it right..Iï¿½m fucking upï¿½"
      },
      {
       "key": "song:grateful-dead:phil-leads-the-beat-with-a-thumping-bass-big-i12awwww-fucki12-from-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Phil Leads The Beat with a thumping Bass. Big.. ï¿½awwww fuckï¿½ from Garcia"
      },
      {
       "key": "song:grateful-dead:band-discusses-the-practice-session-and-tries-it-once-more-i12youi12ll-notice-its-not-exactly-eveni12-garcia",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
       "title": "Band discusses the practice session and tries it once more. ï¿½youï¿½ll notice its not exactly evenï¿½- Garcia (speaking of the polyrhythmic nature of The Eleven)"
      }
     ],
@@ -451,40 +597,77 @@
      {
       "from": "gd1968-11-06.154387.studios.rehearsals.miller.t.flac16",
       "key": "song:grateful-dead:turn-on-your-lovelight",
-      "stats": {},
+      "stats": {
+       "days_since": 17,
+       "gap_shows": 3,
+       "last_played": {
+        "date": "1968-10-20",
+        "show": "live:grateful-dead:1968-10-20:greek-theatre-u-of-california"
+       },
+       "plays_before": 14,
+       "total_plays": 333
+      },
       "title": "Turn On Your Lovelight"
      },
      {
       "from": "gd1968-11-06.154387.studios.rehearsals.miller.t.flac16",
       "key": "song:grateful-dead:william-tell-bridge",
-      "stats": {},
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 5
+      },
       "title": "William Tell Bridge"
      }
     ],
     "subject_key": "live:grateful-dead:1968-11-06:pacific-high-recording",
     "summary": {
      "bustouts": [],
-     "first_in_archive": [],
-     "show_number": 79,
-     "shows_in_archive": 1855,
+     "first_in_archive": [
+      "first notes of St. Stephen",
+      "St. Stephen attempt into William Tell Transition",
+      "St. Stephen attempt into William Tell Transition",
+      "St. Stephen attempt into William Tell Transition",
+      "William Tell",
+      "fast aborted Eleven",
+      "Jerry Describes William Tell transition",
+      "Burp! (sounds like Phil)...Jerry plays the Drums to Show Billy Triplets",
+      "St. Stephen - starts with",
+      "you'll tell by this lick...2-3-4",
+      "Stephen Verses explained by Garcia",
+      "hey could we have some more monitors please...more monitor..turn the monitors up",
+      "3-4.... St Stephen (complete)",
+      "William Tell(complete finally)",
+      "every time..bullshit.. every time..It happens every time man?",
+      "last notes of Stephen",
+      "transition work into The Eleven. Ends with, ï¿½thats the trouble with having schitzophrenic drummersï¿½- Garcia",
+      "The Eleven Practiced",
+      "Garcia is NOT giving up!",
+      "Phil says... ï¿½on the subdivisions of the Eleven, we are dropping ONES all over the place..we are dropping the beat.ï¿½ They practice",
+      "so play yer lick, play yer whole lickï¿½ Garcia...Eleven Practiced. Garcia says,ï¿½ Im sorry; you got it right..Iï¿½m fucking upï¿½",
+      "Phil Leads The Beat with a thumping Bass. Big.. ï¿½awwww fuckï¿½ from Garcia",
+      "Band discusses the practice session and tries it once more. ï¿½youï¿½ll notice its not exactly evenï¿½- Garcia (speaking of the polyrhythmic nature of The Eleven)"
+     ],
+     "show_number": 94,
+     "shows_in_archive": 2097,
      "songs": 29,
-     "stats_complete": false
+     "stats_complete": true
     },
     "talk_about": [],
     "venue": "Pacific High Recording"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 28,
+   "parent_revision": 39,
    "provenance": {
-    "complete_collection": false,
-    "generated_at": "2026-10-25T16:41:38.970455+00:00",
+    "complete_collection": true,
+    "generated_at": "2026-10-25T17:35:09.579768+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 29,
-   "signature": "WcXmTTKSfwtpaOXdiZvXPeuJwZUjjr56EtEkSHaRQVQp4BAtKAz4U5_3SB2_CEQmICdf8hL1qmLq48bLaQeiBQ",
+   "revision": 40,
+   "signature": "_WjyP0-2d_jbCl3k0cxz1w1wKF4mqTmarhsiTlalTmZIiS_C_1WIhjQtTXCgYc2tsM12UZj21zeMrwV2BsQSCQ",
    "subject_key": "live:grateful-dead:1968-11-06:pacific-high-recording",
-   "updated_at": "2026-10-25T16:41:38.972683"
+   "updated_at": "2026-10-25T17:35:09.580704"
   }
  },
  "recommended": {
