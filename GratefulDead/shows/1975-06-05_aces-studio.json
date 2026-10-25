@@ -215,6 +215,103 @@
    "signature": "7Cie1t2GYGdsCs0543foHSg6IsJYKMZAP0sfe-ew6zXmxc7e-PZJnZ0n-Nd3qsWdPmYbqoyFqbNIOKh9BNlVBA",
    "subject_key": "live:grateful-dead:1975-06-05:aces-studio",
    "updated_at": "2026-10-25T17:35:14.440781"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Help on the Way**: cut on the recording [2]\n- **Help on the Way/banter (multiple takes)**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16** (recommended): soundboard; 6 songs; 47 min [1]. Said about its sound: Track 5 fades near 1:30, then has a cut at 4:29; the amount of missing material is unknown [1]\n\n## Around the show\n\n- Stage talk about: Franklin's Tower [1]\n- Material is rehearsal work on Help on the Way, Slipknot, Franklin's Tower, and Stronger Than Dirt, with notes placing it at Ace's [1]\n\n## Tapers and lineage\n\n- **gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16**: taped by Tim Dalton; transferred by Joe Noel and Charlie Miller; source: Soundboard -> ? -> PCM [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Tim Dalton",
+     "author_url": "https://archive.org/search?query=taper%3A%22Tim%20Dalton%22",
+     "credits": [
+      {
+       "name": "Tim Dalton",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Tim%20Dalton%22"
+      },
+      {
+       "name": "Joe Noel and Charlie Miller",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Joe%20Noel%20and%20Charlie%20Miller%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2019-03-23",
+     "quote_or_claim": "6-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Ace's Studio on 1975-06-05",
+     "url": "https://archive.org/details/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Material is rehearsal work on Help on the Way, Slipknot, Franklin's Tower, and Stronger Than Dirt, with notes placing it at Ace's",
+      "type": "scene"
+     },
+     {
+      "recording": "gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "PCM source came from Tim Dalton; Joe Noel edited and mastered it, released as a 16-bit FLAC soundboard transfer",
+      "type": "lineage"
+     },
+     {
+      "recording": "gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Track 5 fades near 1:30, then has a cut at 4:29; the amount of missing material is unknown",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1975-06-05:aces-studio"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a892f6a44da1ab68f1167bc8f139c9e4de49bc55f1b05b241e0123f6ddd6d795",
+    "generated_at": "2026-10-25T18:58:50.093835+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "ba9cc690cbf0b166871b2035a2ae24ccaa81e3d2f6aaa6d9f504a175beffadcf",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.1
+   },
+   "revision": 1,
+   "signature": "WAwTdp7OhxP8t4HGUXwhR3WcDuOysdL2QFaBJHgUWwdUk5IKGJw8V8BS1g4_AXDCWBC7Kh--kYSU8wfHHMNUAQ",
+   "subject_key": "live:grateful-dead:1975-06-05:aces-studio",
+   "updated_at": "2026-10-25T18:58:50.096747"
   }
  },
  "recommended": {

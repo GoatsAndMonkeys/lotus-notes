@@ -416,7 +416,7 @@
    "updated_at": "2026-10-25T17:35:22.483562"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **gd1987-03-22.138632.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 18 songs; 136 min; rated 1.5/5 by 2 [1]\n\n## Around the show\n\n- Hamza El Din played hand drums and vocals; Jose Lorenzo played shakers and bells [1]\n- Art Neville played Hammond B3 and sang; Charles Neville played cowbell and soprano sax [1]\n\n## Tapers and lineage\n\n- **gd1987-03-22.138632.mtx.tobin.flac16**: transferred by Kevin Tobin; source: Set 2 Unknown: FOB Schoeps CMC44 > Sony PCM-F1 > PCM master > DAT at 44.1 kHz; John Ammons [1]. Also: SBD and audience matrix mix, converted to FLAC in June 2017 by a user [1]",
+   "body_md": "## The recordings\n\n- **gd1987-03-22.138632.mtx.tobin.flac16** (recommended): matrix (soundboard mixed with audience mics); 18 songs; 136 min; rated 1.5/5 by 2 [1]\n\n## Around the show\n\n- Guests listed: Hamza El Din on hand drum and vocals, Jose Lorenzo on shakers and hand bells, plus Art and Charles Neville on organ, vocals, cowbell and soprano sax [1]\n\n## Tapers and lineage\n\n- **gd1987-03-22.138632.mtx.tobin.flac16**: transferred by Kevin Tobin; source: Set 2 Unknown: FOB Schoeps CMC44 > Sony PCM-F1 > PCM master > DAT at 44.1 kHz; John Ammons [1]. Also: Matrix mixing a soundboard source with an audience source, two sources in all, mixed by an archive.org user; FLAC conversion done on 22 June 2017 by Trader Little Helper [1]",
    "citations": [
     {
      "accessed_at": "2026-10-24",
@@ -477,7 +477,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 1633 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "GratefulDead collection, Live Music Archive",
      "url": "https://archive.org/details/GratefulDead",
@@ -489,28 +489,28 @@
    "facts": {
     "claims": [
      {
-      "recording": null,
+      "recording": "gd1987-03-22.138632.mtx.tobin.flac16",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Hamza El Din played hand drums and vocals; Jose Lorenzo played shakers and bells",
-      "type": "scene"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "Art Neville played Hammond B3 and sang; Charles Neville played cowbell and soprano sax",
-      "type": "scene"
+      "text": "Matrix mixing a soundboard source with an audience source, two sources in all, mixed by an archive.org user",
+      "type": "lineage"
      },
      {
       "recording": "gd1987-03-22.138632.mtx.tobin.flac16",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "SBD and audience matrix mix, converted to FLAC in June 2017 by a user",
+      "text": "FLAC conversion done on 22 June 2017 by Trader Little Helper",
       "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Guests listed: Hamza El Din on hand drum and vocals, Jose Lorenzo on shakers and hand bells, plus Art and Charles Neville on organ, vocals, cowbell and soprano sax",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -518,24 +518,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "abef1fefe3457a845fb4c444361aa5badea38dacd2dd8e5da902247aed6d5e58",
-    "generated_at": "2026-10-25T16:09:14.163282+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "0cf22200b31774530e89361a82db19de19f302c6d9a5fde2e0db42d0f767a4df",
+    "generated_at": "2026-10-25T18:18:42.444870+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "91a832f658689464b7740f3d7f427b757bde24568fbee7715c30a213dacaf542",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 61.0
+    "seconds": 7.3
    },
-   "revision": 1,
-   "signature": "EXwZpZKCfTu5SCD7lWZIKWYhb4JuzaRrgFkd3ReMFf9vTLTNqRrlePgjpDMJ2XDU020xqXWovMKifR-71MtrBA",
+   "revision": 2,
+   "signature": "nsPMZZRxOReGwbSPp29E6JGRjVDTcovOSVEis1EUAkw1EC8wD-xi_Gou0o5z1aMOXTuSm4y2AweHr-y9cb1NAA",
    "subject_key": "live:grateful-dead:1987-03-22:henry-j-kaiser-convention-center",
-   "updated_at": "2026-10-25T16:09:14.191233"
+   "updated_at": "2026-10-25T18:18:42.448201"
   }
  },
  "recommended": {

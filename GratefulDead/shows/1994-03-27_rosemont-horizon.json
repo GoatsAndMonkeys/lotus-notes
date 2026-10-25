@@ -381,6 +381,135 @@
    "signature": "smlvPM7Mu6axhh407p6DPs8XLpxGPQWEfrJveyhEl01ncSlaJg-0tTOc2fnmvrDZC_eOdutbzmGxQrBLwdgzAw",
    "subject_key": "live:grateful-dead:1994-03-27:rosemont-horizon",
    "updated_at": "2026-10-25T17:35:28.150061"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- **Me&My Uncle** (1 other source): Me & My Uncle runs directly into Mexicali Blues, according to the uploader's notes [1]\n- **Uncle John’s Band** (1 other source): Uncle John's Band leads into a jam before Drums, per the uploader's notes [1]\n\n## The recordings\n\n- **gd1994-03-17.139336.akgc391.cohen-lee.flac1644** (recommended): source not stated; 17 songs; 140 min [1]\n\n## Around the show\n\n- The reviewer says the venue is Nassau Coliseum [2]\n- The reviewer thinks the first set on this recording seems to come from a different show [2]\n\n## Tapers and lineage\n\n- **gd1994-03-17.139336.akgc391.cohen-lee.flac1644**: taped by Dave Cohen and Justin Lee; transferred by Dave Cohen; source: flac16 44.1khz Source: AKG C391 ORTF in first row OTS 8 foot stand > Teac DAP20 @ 16/48. [1]. Also: The file identifier for this recording names AKG C391 microphones and Cohen-Lee [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Dave Cohen and Justin Lee",
+     "author_url": "https://archive.org/search?query=taper%3A%22Dave%20Cohen%20and%20Justin%20Lee%22",
+     "credits": [
+      {
+       "name": "Dave Cohen and Justin Lee",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Dave%20Cohen%20and%20Justin%20Lee%22"
+      },
+      {
+       "name": "Dave Cohen",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Dave%20Cohen%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2017-09-16",
+     "quote_or_claim": "17-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Grateful Dead Live at Rosemont Horizon on 1994-03-27",
+     "url": "https://archive.org/details/gd1994-03-17.139336.akgc391.cohen-lee.flac1644",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "sbrew",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22sbrew%22",
+     "claim": "The reviewer says the venue is Nassau Coliseum",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2017-10-29",
+     "quote_or_claim": "The venue is Nassau Coliseum. The First set seems to be from another show.",
+     "site": "Internet Archive",
+     "title": "Review: Mismatched venue and first set (gd1994-03-17.139336.akgc391.cohen-lee.flac1644)",
+     "url": "https://archive.org/details/gd1994-03-17.139336.akgc391.cohen-lee.flac1644#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-25",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 2097 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "GratefulDead collection, Live Music Archive",
+     "url": "https://archive.org/details/GratefulDead",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Me&My Uncle",
+      "song_key": "song:grateful-dead:me-and-my-uncle",
+      "src": 1,
+      "text": "Me & My Uncle runs directly into Mexicali Blues, according to the uploader's notes",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Uncle John’s Band",
+      "song_key": "song:grateful-dead:uncle-johns-band",
+      "src": 1,
+      "text": "Uncle John's Band leads into a jam before Drums, per the uploader's notes",
+      "type": "song"
+     },
+     {
+      "recording": "gd1994-03-17.139336.akgc391.cohen-lee.flac1644",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The file identifier for this recording names AKG C391 microphones and Cohen-Lee",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The reviewer says the venue is Nassau Coliseum",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The reviewer thinks the first set on this recording seems to come from a different show",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:grateful-dead:1994-03-27:rosemont-horizon"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 5,
+    "facts_hash": "4752826f34aec6dfb485fe88c92772e42e03c4d327191f95c5d4b695ddfc4e25",
+    "generated_at": "2026-10-25T18:50:16.439334+00:00",
+    "model": "claude-sonnet-5-5",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "f9fead41b34c839573beb8d5287646469263015950b20d619225beaeeddde7d6",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 8.8
+   },
+   "revision": 1,
+   "signature": "u_xXPcBw5bkOYPqnrwFmWFjhS2vhp9UB8qsUflUt-TJAoLeVRpI3BPKK_xz2y3-ru36HIIFvwmZn5B4mnmL5BA",
+   "subject_key": "live:grateful-dead:1994-03-27:rosemont-horizon",
+   "updated_at": "2026-10-25T18:50:16.442397"
   }
  },
  "recommended": {
