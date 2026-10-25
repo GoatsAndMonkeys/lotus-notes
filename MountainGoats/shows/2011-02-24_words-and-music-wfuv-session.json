@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -125,7 +125,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 52
+       "total_plays": 51
       },
       "title": "Liza Forever Minelli"
      },
@@ -205,8 +205,8 @@
       "Birth of Serpents",
       "Damn These Vampires"
      ],
-     "show_number": 152,
-     "shows_in_archive": 467,
+     "show_number": 150,
+     "shows_in_archive": 463,
      "songs": 8,
      "stats_complete": true
     },
@@ -215,19 +215,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.235086+00:00",
+    "generated_at": "2026-10-24T22:01:49.326345+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "bCIuNM1wFLVGGqu-TOCcCxfp1lPFfJn3N-zKmw2XN_opDXZE_WA0ZmRg9-nJ9bpnmXhUaKPDc4FARLf6hy_-Ag",
+   "revision": 6,
+   "signature": "F0XpHkVbDwexzOG2X_lZtifDXP4_7MWtpDSp08CLHoC_rwN6yQMgNlNHfiqEMW_Tr-uOqK38dx1g6Djmh05ICg",
    "subject_key": "live:mountain-goats:2011-02-24:words-and-music-wfuv-session",
-   "updated_at": "2026-10-23T22:48:28.235277"
+   "updated_at": "2026-10-24T22:01:49.326817"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Intro (over Age of Kings)**: back after 31 archived shows (1080 days); rare: 14 archived performances [2]\n- **Interview 1**: rare: 7 archived performances [2]\n- **Interview 2**: rare: 7 archived performances [2]\n- **Interview 3**: back after 31 archived shows (1080 days); rare: 5 archived performances [2]\n- **Interview 4**: back after 56 archived shows (1648 days); mythic rare: 2 archived performances [2]\n- Earliest performances in the archive: Liza Forever Minelli, Birth of Serpents, Damn These Vampires [2]\n\n## The recordings\n\n- **tmg2011-02-24** (recommended): source not stated; 8 songs; 32 min [1]\n\n## Tapers and lineage\n\n- **tmg2011-02-24**: Recorded for radio promotion of the upcoming album All Eternals Deck [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -236,7 +236,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-01-18",
-     "quote_or_claim": "Radio session in promotion of the Mountain Goat's upcoming album, All Eternals Deck, originally recorded on February 24th, 2011.",
+     "quote_or_claim": "8-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Words and Music - WFUV session on 2011-02-24",
      "url": "https://archive.org/details/tmg2011-02-24",
@@ -251,7 +251,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 152 of 467 in the archive's collection for this performer. Previous archived show: 2010-12-14 at Castro Theater.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -261,28 +261,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg2011-02-24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded for radio promotion of the upcoming album All Eternals Deck",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2011-02-24:words-and-music-wfuv-session"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "a8e268796bb1efcdcd1992918ab43dd7c2d54f94c30db4c516cd2d6449d9ef2b",
-    "generated_at": "2026-10-24T13:02:05.582347+00:00",
+    "generated_at": "2026-10-24T22:00:56.137442+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "7df4606b34ba42b638401ed69608ea847d9dc58faebe5c7b84ccda97aebfda46",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "1d0e497a44532efbd57298d2fc0762f8a14639af3396d8b08d24b73051bdb671",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 37.5
+    "seconds": 6.2
    },
-   "revision": 1,
-   "signature": "ys4qTNAYuJEdDzB14H4qtvkaBVfBPK3f9xsRfKc6TqB_4c0q5eRisgVfaEnCilceggDx-_GNVj1ZSuI4apJ6BQ",
+   "revision": 2,
+   "signature": "kG4dZdScXeiKXjcg8AVDdgXLY053AJQ-6fnE6KFIeLU-3Slf9CpfNR2_W0QfAmQ-FKu2Me1JUKqHcsc0QZFzDw",
    "subject_key": "live:mountain-goats:2011-02-24:words-and-music-wfuv-session",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T13:02:05.586540"
+   "updated_at": "2026-10-24T22:00:56.138897"
   }
  },
  "recommended": {

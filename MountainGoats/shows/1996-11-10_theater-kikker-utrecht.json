@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -109,7 +109,7 @@
       "mountain1"
      ],
      "show_number": 12,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 1,
      "stats_complete": true
     },
@@ -118,19 +118,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.089826+00:00",
+    "generated_at": "2026-10-24T22:01:48.934649+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "5bK5Kmbo31hQcCu3vN2TltoamWhD6JSsHhPwytbsZ3YIsl8bCVfP_6GCnT9eAKLlXyEIdKyhViFYmzy8mYrxBg",
+   "revision": 5,
+   "signature": "s8L3q89qck-PAqXO4Ic9HjdIK62jroE_sdD49IfI51cEAMnnPzvU1lkl0NevMw_t3lnN7lCOWLzoZ_oaJyfgDw",
    "subject_key": "live:mountain-goats:1996-11-10:theater-kikker-utrecht",
-   "updated_at": "2026-10-23T22:48:28.089996"
+   "updated_at": "2026-10-24T22:01:48.935164"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **mountain1**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tmg1996-11-10** (recommended): source not stated; 1 songs; 62 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -139,7 +139,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2025-05-11",
-     "quote_or_claim": "The setlist includes a song named mountain1, which is the first in the archive and the only archived performance.",
+     "quote_or_claim": "1-song unlabelled recording (filenames setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Theater Kikker, Utrecht  on 1996-11-10",
      "url": "https://archive.org/details/tmg1996-11-10",
@@ -154,7 +154,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The previous archived show was on 1996-11-09 at Zwijnzicht, Dordrecht.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -164,30 +164,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:1996-11-10:theater-kikker-utrecht"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "ac75b1492b691aaab6e7002452ce367f327004d6e2002673f840dd83fc3a21d7",
-    "generated_at": "2026-10-24T00:34:05.071351+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T22:00:19.965075+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "b7ce7bbc18a15716a9a444060c42f5b33847ac6d4614cc7f5071b56c5d47969f",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "names not in the facts or sources (do not guess): netherlands"
-    ],
-    "seconds": 166.3
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "Ks2F58cH52lICshW9ymJC1O-YwpE5I6mhaHRpp1dBdIa5hU2fnB1C9l2n4cCKYCXY3k2CtzmIt2NhlTtfi7mDQ",
+   "revision": 2,
+   "signature": "ie7JXXaF-SE6-iEuhBy3Hcl1q-Vk3TTsHiQUPTE3FUE2pzlNKZFygTjd65FZMtVakJDU1JoThrEoa25nMquhBA",
    "subject_key": "live:mountain-goats:1996-11-10:theater-kikker-utrecht",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:34:05.072723"
+   "updated_at": "2026-10-24T22:00:19.966445"
   }
  },
  "recommended": {

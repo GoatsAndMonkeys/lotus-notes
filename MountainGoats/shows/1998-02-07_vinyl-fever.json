@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -189,7 +189,7 @@
         "show": "live:mountain-goats:1997-12-06:the-empty-bottle"
        },
        "plays_before": 7,
-       "total_plays": 38
+       "total_plays": 37
       },
       "title": "The Recognition Scene"
      },
@@ -279,7 +279,7 @@
       "Going to Bogata"
      ],
      "show_number": 19,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 13,
      "stats_complete": true
     },
@@ -288,19 +288,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.095109+00:00",
+    "generated_at": "2026-10-24T22:01:48.956316+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "ZyVy0aeF8ddqHSyPCwt51nbbTrjpgjarvpH_3wWWm3Nm3vy3LjfnCIZ-4OcYW4kfwsR0uxZ2hjDUGD3eldI4Cg",
+   "revision": 6,
+   "signature": "8YfRfVGDDiZxj_ig_otyYmZJqq1hYyfoodv2z1X6IFIdGl2O3YoYWmkO2L-gbgaTCziVDWudiEY7diZptwqkDQ",
    "subject_key": "live:mountain-goats:1998-02-07:vinyl-fever",
-   "updated_at": "2026-10-23T22:48:28.095334"
+   "updated_at": "2026-10-24T22:01:48.956959"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Going to Alaska** (1 review): Listener calls it one of their first and greatest songs [2]\n\n## Setlist highlights\n\n- **Going to Alaska**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Alpha in Tauris**: earliest performance in the archive; rare: 11 archived performances [3]\n- **Edvard Munch**: mythic rare: 2 archived performances [3]\n- **Going to Bolivia**: rare: 13 archived performances [3]\n- **Sept 19 Triple X Love! Love!**: rare: 12 archived performances [3]\n- **Ontario**: rare: 9 archived performances [3]\n- **Fresh Berries For You**: rare: 6 archived performances [3]\n- **Going to Dade County**: earliest performance in the archive; legendary: the only archived performance [3]\n- Earliest performances in the archive: Going to Bogata [3]\n\n## The recordings\n\n- **tmg1998-02-07.aud.128mp3** (recommended): audience recording; 13 songs; 37 min; rated 1/5 by 1 [1]. Said about its sound: Audio was unlistenable due to popping and skipping [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -309,7 +309,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-13",
-     "quote_or_claim": "The recording is an audience capture of 13 songs lasting 37 minutes, rated 1/5 by one listener, and includes the setlist with specific rarity stats for each song.",
+     "quote_or_claim": "13-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Vinyl Fever on 1998-02-07",
      "url": "https://archive.org/details/tmg1998-02-07.aud.128mp3",
@@ -321,7 +321,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener review states that 'Going to Alaska' is a classic but the recording was unlistenable due to popping and skipping audio.",
+     "claim": "Listener calls it one of their first and greatest songs",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-02-10",
@@ -340,7 +340,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 19 of 467 in the archive for the performer, and the previous archived show was on February 6, 1998, at Cow Haus.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -350,28 +350,47 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Going to Alaska",
+      "song_key": "song:mountain-goats:going-to-alaska",
+      "src": 2,
+      "text": "Listener calls it one of their first and greatest songs",
+      "type": "song"
+     },
+     {
+      "recording": "tmg1998-02-07.aud.128mp3",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Audio was unlistenable due to popping and skipping",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1998-02-07:vinyl-fever"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "5b4857f13aeed19d1f2f657f51ef9066e88aae89f8624cb5217cf7e290b750e6",
-    "generated_at": "2026-10-24T00:48:34.497004+00:00",
+    "generated_at": "2026-10-24T21:52:12.634367+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "d0597e493a0c495cc7d29aa15db2aaf3926cd819f879c9188acbd83df282660d",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "fc000890881103e696819f382ee2da878d42197839feaf2fb0df8e798e145cd8",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 80.3
+    "seconds": 9.2
    },
-   "revision": 1,
-   "signature": "uUmALIabCXrRoFFbihJ1UvUhNpkV5ketxGN6X7YOXORzfWYeGEwARFNYcdGcdTpBvlkn8yT5Z4FZQeCvfr4gBw",
+   "revision": 2,
+   "signature": "2ibtpK-sOCGC-45mMUg9h3MZhC3nZf627sBgbNaMXQ0MULy9kyX1nyg7RCKVMHUfIhegedjaip3zm6dStUvlCw",
    "subject_key": "live:mountain-goats:1998-02-07:vinyl-fever",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:48:34.499433"
+   "updated_at": "2026-10-24T21:52:12.635075"
   }
  },
  "recommended": {

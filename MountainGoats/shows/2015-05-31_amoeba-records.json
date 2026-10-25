@@ -36,7 +36,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -251,8 +251,8 @@
       "Against Pollution"
      ],
      "first_in_archive": [],
-     "show_number": 208,
-     "shows_in_archive": 467,
+     "show_number": 206,
+     "shows_in_archive": 463,
      "songs": 10,
      "stats_complete": true
     },
@@ -263,19 +263,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.284641+00:00",
+    "generated_at": "2026-10-24T22:01:49.509410+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "eznN-UrfK6K4QW2V4eS4T8_T868l0J8SWQnRs6foEyLwI7LuQalN3fEmdPFta-mkmh77VlVCu45WO_Cq2IvTDg",
+   "revision": 7,
+   "signature": "tZz9gFBYOHY8wQui5Bwp3-6clcn_RaklDmX7XF483nT0j9wC1zrlBWtmf1hxdIO9p0nAG5zAEtFLKxWZ5-0UBg",
    "subject_key": "live:mountain-goats:2015-05-31:amoeba-records",
-   "updated_at": "2026-10-23T22:48:28.284849"
+   "updated_at": "2026-10-24T22:01:49.510025"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Attention All Pickpockets**: back after 43 archived shows (1435 days); rare: 14 archived performances [2]\n- **Alpha in Tauris**: rare: 11 archived performances [2]\n- **Absolute Lithops Effect**: rare: 9 archived performances [2]\n- **Old College Try**: back after 37 archived shows (1117 days) [2]\n- **The Ballad of Bull Ramos**: rare: 4 archived performances [2]\n- **Against Pollution**: back after 58 archived shows (2006 days) [2]\n\n## The recordings\n\n- **MountainGoats2015-05-31** (recommended): source not stated; 10 songs; 29 min [1]\n\n## Around the show\n\n- Stage talk about: Animal Mask [1]\n\n## Tapers and lineage\n\n- **MountainGoats2015-05-31**: taped by martins [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -291,7 +291,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-06-04",
-     "quote_or_claim": "The setlist includes Alpha Rats Nest, Attention All Pickpockets, Alpha in Tauris, Animal Mask, Absolute Lithops Effect, Maybe Sprout Wings, Old College Try, Elijah, The Ballad of Bull Ramos, and Against Pollution, with banter for Animal…",
+     "quote_or_claim": "10-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Amoeba Records on 2015-05-31",
      "url": "https://archive.org/details/MountainGoats2015-05-31",
@@ -306,7 +306,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The show is the 208th of 467 in the archive, followed a May 29, 2015 show in Seattle, and provides rarity statistics for specific songs including bustouts and rare performance counts.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -316,28 +316,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2015-05-31:amoeba-records"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "6ce7de5e13789cd419f0e8a438e233b981c517d71401327e16d09d2998ffb7e2",
-    "generated_at": "2026-10-24T09:01:25.846426+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:44:36.206650+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "f4a023a825a059efbd1467f3980e2151f2aaabf3c169cdbdd16a2e9a8889a142",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 41.6
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "LaT6SuQD2zI5Q5TVDiyxrb4_U9-d4MJHYEkyXufbJvGPkt0_38AUT23LaGhKJKnHDa-cYkw1FUqOYfP7MyLXAA",
+   "revision": 2,
+   "signature": "jdemGRum6iK8WHMN0yh72RhVspCHi3OVUcph7J4owzVBx626XKmuNCPFeAdAJ2Et3jnq6-H3_cH8hFggfuTwAQ",
    "subject_key": "live:mountain-goats:2015-05-31:amoeba-records",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:01:25.850905"
+   "updated_at": "2026-10-24T21:44:36.207558"
   }
  },
  "recommended": {

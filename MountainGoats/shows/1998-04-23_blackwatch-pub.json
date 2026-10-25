@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -126,7 +126,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 10
+       "total_plays": 9
       },
       "title": "Terror Song (Furniture Huschle cover)"
      },
@@ -149,7 +149,7 @@
         "show": "live:mountain-goats:1998-02-06:cow-haus"
        },
        "plays_before": 2,
-       "total_plays": 31
+       "total_plays": 30
       },
       "title": "There Will Be No Divorce"
      },
@@ -232,7 +232,7 @@
       "Badger Song (The Extra Glenns)"
      ],
      "show_number": 21,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 9,
      "stats_complete": true
     },
@@ -241,19 +241,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.096522+00:00",
+    "generated_at": "2026-10-24T22:01:48.962907+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "qHr5GrqZQtYMpb6itrXnLUpyZmvjE76itflEVfcRgYrYoGLiJftY3li_lIPcR37pL5ZCZAgZsdY87kPsGuAvAQ",
+   "revision": 6,
+   "signature": "G9Vs9CKXMPJhjNNDyB5MbkXb0Omf4B8UAR1Bmd0Gjtqgr2NeEOioOBqFZ0ZniW3Ox9CXmuhjzMAQLRIUuuY1Bg",
    "subject_key": "live:mountain-goats:1998-04-23:blackwatch-pub",
-   "updated_at": "2026-10-23T22:48:28.096720"
+   "updated_at": "2026-10-24T22:01:48.964034"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **There Will Be No Divorce** (1 review): Listener calls this the best sung song, written for his then wife [2]\n\n## Setlist highlights\n\n- **Shower**: rare: 7 archived performances [3]\n- **Terror Song (Furniture Huschle cover)**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Poltergeist**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Horseradish Road**: rare: 14 archived performances; with Counting Song For Bitter Children [3]\n- **Badger Song (The Extra Glenns)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **My Favorite Things**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **tmg1998-04-23.aud.128mp3** (recommended): audience recording; 9 songs; 31 min; rated 4/5 by 1 [1]\n\n## Around the show\n\n- Guests: Counting Song For Bitter Children [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -262,7 +262,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-13",
-     "quote_or_claim": "The recording is an audience capture of nine songs lasting 31 minutes, rated 4/5 by one listener, and includes the specified setlist.",
+     "quote_or_claim": "9-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Blackwatch Pub on 1998-04-23",
      "url": "https://archive.org/details/tmg1998-04-23.aud.128mp3",
@@ -274,7 +274,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener review of the recommended recording states the performer sounded happy and that 'There Will Be No Divorce' was a best-sung song written for his then wife.",
+     "claim": "Listener calls this the best sung song, written for his then wife",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-02-11",
@@ -293,7 +293,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 21 of 467 in the archive, and the previous archived show was on 1998-04-12 at Brownie's.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -303,28 +303,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "There Will Be No Divorce",
+      "song_key": "song:mountain-goats:there-will-be-no-divorce",
+      "src": 2,
+      "text": "Listener calls this the best sung song, written for his then wife",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1998-04-23:blackwatch-pub"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "320a812131644b97b28fef075e5317d9bdd1576248f4fe87dbef2cce92fbbf7c",
-    "generated_at": "2026-10-24T00:51:04.003878+00:00",
+    "generated_at": "2026-10-24T21:50:11.774361+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "f7c4dbce1938019e1c8f7e3a33caf79c85ccd3f1ae089a893e81a0ab323f44f8",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "e83042f165db213a6436257ed88f436224bc9e3e6e17d86c8fb2dfa00ecaaccb",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 70.0
+    "seconds": 6.6
    },
-   "revision": 1,
-   "signature": "8V1UJ4Jg6TOGuQ2-tMr-4cLlZztjga1jB8QTX0BazIcmV2suLB1Q8MaEBH_3bBvbv-GO7odshkvrUn0P0H_bBA",
+   "revision": 2,
+   "signature": "EYWr_kGNJ_EuoDOusck2kI4oIhfkNbxIzvUz5VshZ9w-0oBVUJxrnMGt-MKf6RC60DoJ4BCG97CpXmvmKo41Dg",
    "subject_key": "live:mountain-goats:1998-04-23:blackwatch-pub",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:51:04.006605"
+   "updated_at": "2026-10-24T21:50:11.777560"
   }
  },
  "recommended": {

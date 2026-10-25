@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -125,7 +125,7 @@
         "show": "live:mountain-goats:2009-06-14:farm-sanctuary"
        },
        "plays_before": 43,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -165,8 +165,8 @@
       "Isaiah 45:23",
       "Ezekiel 7 and the Permanent Efficacy of Grace"
      ],
-     "show_number": 145,
-     "shows_in_archive": 467,
+     "show_number": 143,
+     "shows_in_archive": 463,
      "songs": 5,
      "stats_complete": true
     },
@@ -175,19 +175,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.209913+00:00",
+    "generated_at": "2026-10-24T22:01:49.312544+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "XsIC7Lthk6TEdcES-pimiR7EyZgEBzX10ZWGF5qkSZaQmPCKkHJPduoWqIQgoA4HjKdR5Rdbvi5TuI1N6oX8Dw",
+   "revision": 7,
+   "signature": "WGzpaNeyGVdPKtzNh9MYnEaqYziVlhbaw-9kl6vHvV1kATWSp4P2Ph9_ccxqqnfWNME0sgzq5bUYroFGl37jBA",
    "subject_key": "live:mountain-goats:2009-11-07:the-current-minnesota-public-radio-session",
-   "updated_at": "2026-10-23T22:48:28.210098"
+   "updated_at": "2026-10-24T22:01:49.313037"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Isaiah 45:23**: earliest performance in the archive; rare: 13 archived performances [2]\n- **Interview 1**: back after 24 archived shows (606 days); rare: 7 archived performances [2]\n- **Interview 2**: back after 24 archived shows (606 days); rare: 7 archived performances [2]\n- Earliest performances in the archive: Ezekiel 7 and the Permanent Efficacy of Grace [2]\n\n## The recordings\n\n- **tmg2009-11-07-radio** (recommended): source not stated; 5 songs; 25 min [1]\n\n## Around the show\n\n- Radio session recorded to promote the album The Life of the World to Come [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -196,7 +196,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-01-18",
-     "quote_or_claim": "The recording is a radio session for The Current on Minnesota Public Radio, recorded on November 7, 2009, in promotion of the album The Life of the World to Come.",
+     "quote_or_claim": "5-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at The Current - Minnesota Public Radio session on 2009-11-07",
      "url": "https://archive.org/details/tmg2009-11-07-radio",
@@ -211,7 +211,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The setlist includes Isaiah 45:23 (13 archived performances), Interview 1 (first in 24 shows, 606 days, 7 archived performances), No Children, Interview 2 (first in 24 shows, 606 days, 7 archived performances), and Ezekiel 7 and the…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -221,28 +221,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Radio session recorded to promote the album The Life of the World to Come",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2009-11-07:the-current-minnesota-public-radio-session"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "5545cb036fdb8924da0b4684c487c11c0a47e1b6cf049581570617b2d9029a37",
-    "generated_at": "2026-10-24T12:43:49.746510+00:00",
+    "generated_at": "2026-10-24T22:01:15.770308+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "fe876d3219ac8f719c0cd072fb5ecda2fb3b776197e97c5247c58404ed4349b2",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "ec29c31a4da5cb19a91012d04686d44e7888b6e82b80ecc476803111df75bbea",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 45.8
+    "seconds": 5.8
    },
-   "revision": 1,
-   "signature": "AF-DY07XhBEZVKpIvnClEMjwFDRw3UebY3-RMBe0IkIGoDT04agKlfLQZ5e6qM4lXP0TM5_OnQBXGnP9YeUKCA",
+   "revision": 2,
+   "signature": "Yh24fpNMsO0Ju_yBi0l8vGUgj48EjY_6b2Ad4MOHE9GcbB772mtBhY-PqYKXJPCzP2HfVl30RL_BSEEWaenGDA",
    "subject_key": "live:mountain-goats:2009-11-07:the-current-minnesota-public-radio-session",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:43:49.748109"
+   "updated_at": "2026-10-24T22:01:15.772565"
   }
  },
  "recommended": {

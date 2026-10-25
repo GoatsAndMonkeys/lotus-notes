@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -149,8 +149,8 @@
         "date": "2012-10-27",
         "show": "live:mountain-goats:2012-10-27:the-vic-theatre"
        },
-       "plays_before": 70,
-       "total_plays": 313
+       "plays_before": 69,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -190,8 +190,8 @@
      "first_in_archive": [
       "Lakeside Apartment View"
      ],
-     "show_number": 180,
-     "shows_in_archive": 467,
+     "show_number": 178,
+     "shows_in_archive": 463,
      "songs": 6,
      "stats_complete": true
     },
@@ -200,16 +200,88 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.258624+00:00",
+    "generated_at": "2026-10-24T22:01:49.399239+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "eCpzMooav0XGaXERNQ_lc_Tmn1bo2BGfzDotZ8MB9uM7clySlUKe2OiSXd2cWEV15cF8v8SlV3qSD3zBcNi3Ag",
+   "revision": 6,
+   "signature": "VhUhw4MW-w11Vswbuzyg89vZ6EgVvHJyCjpyYgWFlSy3WFNfiX0xUb8DnjsDnTNOXb_E0j1u32jQ8IH_omxTCQ",
    "subject_key": "live:mountain-goats:2012-11-04:keith-albee-theatre",
-   "updated_at": "2026-10-23T22:48:28.258820"
+   "updated_at": "2026-10-24T22:01:49.399759"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Lakeside Apartment View**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Rotten Stinking Mouthpiece**: rare: 8 archived performances [2]\n\n## The recordings\n\n- **mtngoats2012-11-04.fm.flac16** (recommended): FM broadcast; 6 songs; 25 min [1]\n\n## Tapers and lineage\n\n- **mtngoats2012-11-04.fm.flac16**: taped by tom; transferred by tom; source: FM > Hafler DH330 tuner > Tascam DR-40 > wav (16/44.1) [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-23",
+     "author": "tom",
+     "author_url": "https://archive.org/search?query=taper%3A%22tom%22",
+     "credits": [
+      {
+       "name": "tom",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22tom%22"
+      },
+      {
+       "name": "tom",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22tom%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2013-08-28",
+     "quote_or_claim": "6-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Mountain Goats Live at Keith-Albee Theatre on 2012-11-04",
+     "url": "https://archive.org/details/mtngoats2012-11-04.fm.flac16",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-23",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "MountainGoats collection, Live Music Archive",
+     "url": "https://archive.org/details/MountainGoats",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [],
+    "format": "liner-3",
+    "show": "live:mountain-goats:2012-11-04:keith-albee-theatre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
+    "facts_hash": "d9de69ada7a11f03d8cc3619580d160aa842b832c5ce677f76f81c89d93fad60",
+    "generated_at": "2026-10-24T21:52:33.077257+00:00",
+    "model": null,
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 0.0
+   },
+   "revision": 1,
+   "signature": "JAtJGwyQWfJsosmBjbyhx-xXLvjmgMH8KJX0Rez43ehbhiIp3Yw83KgPWKU16CvM5DqLOoxmqaJEIWbjKHxnDA",
+   "subject_key": "live:mountain-goats:2012-11-04:keith-albee-theatre",
+   "updated_at": "2026-10-24T21:52:33.078197"
   }
  },
  "recommended": {

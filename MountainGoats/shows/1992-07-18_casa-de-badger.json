@@ -57,7 +57,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -155,7 +155,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 3
+       "total_plays": 2
       },
       "title": "In the Cane Fields"
      }
@@ -172,7 +172,7 @@
       "In the Cane Fields"
      ],
      "show_number": 1,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 5,
      "stats_complete": true
     },
@@ -181,19 +181,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.080413+00:00",
+    "generated_at": "2026-10-24T22:01:48.889937+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "VQyGiIpLchhKOQY019sjlEH9Pye0NXwbUPZYIFZakMM1_AJkJj9c_6ewHz-mjdB-2emw-bnpBGnIgicQqwxuAA",
+   "revision": 5,
+   "signature": "zFynzFDVLt5o7iYIdniaop6B8v85opVapQeG3AOkVlCI1ZqOgdTszqquT7xKK7ISOmhSsbRwmpbGp2_E3-10DQ",
    "subject_key": "live:mountain-goats:1992-07-18:casa-de-badger",
-   "updated_at": "2026-10-23T22:48:28.081178"
+   "updated_at": "2026-10-24T22:01:48.892767"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Going to Mexico** (1 review): This track is identified as the strongest performance within the short set [3]\n\n## Setlist highlights\n\n- **Moon Song**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Going to Chino**: earliest performance in the archive; rare: 6 archived performances [4]\n- **Going to Mexico**: earliest performance in the archive; rare: 6 archived performances [4]\n- **Going to Wisconsin**: earliest performance in the archive; legendary: the only archived performance [4]\n- **In the Cane Fields**: earliest performance in the archive; rare: 3 archived performances [4]\n\n## The recordings\n\n- **tmg1992-07-18.aud.160mp3** (recommended): audience recording; 5 songs; 12 min; rated 4.5/5 by 2 [1]. Said about its sound: Audio quality is considered excellent given the early date of the capture [3]\n\n## Around the show\n\n- John lists a late April 1992 date as the first official show [1]\n\n## Tapers and lineage\n\n- **tmg1992-07-18.aud.160mp3**: The file originates from the well-known Butter archives collection [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -202,7 +202,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-07",
-     "quote_or_claim": "The uploader describes the recording as very early from the Butter archives, noting John lists the first official show as late April 1992.",
+     "quote_or_claim": "5-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Casa de Badger on 1992-07-18",
      "url": "https://archive.org/details/tmg1992-07-18.aud.160mp3",
@@ -214,7 +214,6 @@
      "accessed_at": "2026-10-23",
      "author": "MrSomnolent",
      "author_url": "https://archive.org/search?query=reviewer%3A%22MrSomnolent%22",
-     "claim": "A listener review of the recommended recording describes it as very clean and a gem.",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2015-11-21",
@@ -222,7 +221,7 @@
      "site": "Internet Archive",
      "title": "Review: Short but good performance (tmg1992-07-18.aud.160mp3)",
      "url": "https://archive.org/details/tmg1992-07-18.aud.160mp3#reviews",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -230,7 +229,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener review of the recommended recording notes it is the earliest on the archive, has great quality, lacks later famous songs, and identifies Going to Mexico as the best track.",
+     "claim": "Audio quality is considered excellent given the early date of the capture",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2016-01-20",
@@ -249,7 +248,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 1 of 467 in the archive's collection for the performer, and the song stats indicate Moon Song and Going to Wisconsin are the only archived performances, while Going to Chino and Going to Mexico have 6, and In the Cane Fields…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -259,30 +258,63 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg1992-07-18.aud.160mp3",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Audio quality is considered excellent given the early date of the capture",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": "Going to Mexico",
+      "song_key": "song:mountain-goats:going-to-mexico",
+      "src": 3,
+      "text": "This track is identified as the strongest performance within the short set",
+      "type": "song"
+     },
+     {
+      "recording": "tmg1992-07-18.aud.160mp3",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The file originates from the well-known Butter archives collection",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John lists a late April 1992 date as the first official show",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1992-07-18:casa-de-badger"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 4,
     "facts_hash": "8bd266a856443667f1836ded79598ac7108ca67bb4d4131b6fa4447d71a3f742",
-    "generated_at": "2026-10-24T00:05:36.261075+00:00",
+    "generated_at": "2026-10-24T21:33:44.798568+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "b07c487291d53bcb0d868cd8506afda2a6c8a57a41b420c6831da10d4e64524c",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "names not in the facts or sources (do not guess): darnielle"
-    ],
-    "seconds": 593.4
+    "prompt_sha256": "f480df9e9edf08173f7a0cf5ed21c4e697917d2034799b1258736da47cdc6824",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 14.5
    },
-   "revision": 2,
-   "signature": "oR8nmaPntuco7RYkCIF7itXyCEfqtOjoj09jdPAPkYTV3Ah0xp2c1MGCS206VUQRm67JKEMzy0fON322UHwdDA",
+   "revision": 3,
+   "signature": "IcsQu27IUWAewsiUndLMkVhDOqKirKPbSZi8n6Iso7szlVzyEzP1gf7U_HwmSgXOWiJGMkfndAVE1xHRWtfyBQ",
    "subject_key": "live:mountain-goats:1992-07-18:casa-de-badger",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:05:36.267188"
+   "updated_at": "2026-10-24T21:33:44.799879"
   }
  },
  "recommended": {

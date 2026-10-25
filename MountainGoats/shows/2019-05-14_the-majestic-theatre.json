@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -113,7 +113,7 @@
         "show": "live:mountain-goats:2019-05-08:mr-smalls-theatre"
        },
        "plays_before": 5,
-       "total_plays": 48
+       "total_plays": 47
       },
       "title": "Clemency for the Wizard King"
      },
@@ -355,8 +355,8 @@
         "date": "2019-05-08",
         "show": "live:mountain-goats:2019-05-08:mr-smalls-theatre"
        },
-       "plays_before": 81,
-       "total_plays": 119
+       "plays_before": 79,
+       "total_plays": 117
       },
       "title": "See America Right"
      },
@@ -388,7 +388,7 @@
         "show": "live:mountain-goats:2019-05-08:mr-smalls-theatre"
        },
        "plays_before": 137,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      }
@@ -400,8 +400,8 @@
       "Whole Wide World"
      ],
      "first_in_archive": [],
-     "show_number": 278,
-     "shows_in_archive": 467,
+     "show_number": 276,
+     "shows_in_archive": 463,
      "songs": 20,
      "stats_complete": true
     },
@@ -410,19 +410,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.353506+00:00",
+    "generated_at": "2026-10-24T22:01:49.709425+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "mWcUdZuJFOPpBjGt8t_Lih8e4rh8aOAN6ufBP5yxLl724zpT_zARCFofFvNbukiV3WV0IED_hqsYSD19jsxrDQ",
+   "revision": 7,
+   "signature": "VXo5cCYoSxIKDS5SCwXXr4J8Fm9cShsl_XBtjvZxLoma_qs3kTUF35rF90OfWSvgc2CsbVdSFJ9hTk7hFtspCQ",
    "subject_key": "live:mountain-goats:2019-05-14:the-majestic-theatre",
-   "updated_at": "2026-10-23T22:48:28.353759"
+   "updated_at": "2026-10-24T22:01:49.710105"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Whole Wide World**: back after 27 archived shows (526 days) [2]\n- **Insurance Fraud #2**: rare: 5 archived performances [2]\n\n## The recordings\n\n- **tmg2019-05-14** (recommended): source not stated; 20 songs; 99 min [1]\n\n## Tapers and lineage\n\n- **tmg2019-05-14**: taped by Liz Hamilton; transferred by Liz Hamilton [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -443,7 +443,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2019-05-23",
-     "quote_or_claim": "The performance took place at The Majestic Theatre in Madison, WI on Tuesday 14 May 2019.",
+     "quote_or_claim": "20-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at The Majestic Theatre on 2019-05-14",
      "url": "https://archive.org/details/tmg2019-05-14",
@@ -458,7 +458,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Insurance Fraud #2 is rare with 5 archived performances.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -468,30 +468,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2019-05-14:the-majestic-theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 0,
     "facts_hash": "3e76763748f7612789b448ea2f83c2da00706c835fc75f99c619a9382f2d9c2d",
-    "generated_at": "2026-10-24T12:21:38.745100+00:00",
+    "generated_at": "2026-10-24T21:36:29.666399+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "16da3227fc6ad12339c8bb44ef37fb877fb4e25ea6b9f5747fdbad1319974fb4",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sentence without a source marker: 'Mountain Goats performed a full-length set at The Majestic Theatre in Madison, W'"
-    ],
-    "seconds": 107.0
+    "prompt_sha256": "30e15fb8ff12379e19f5d6040bcadc5fa94b291493168a0ca2ab8d4edd5dc977",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 5.7
    },
-   "revision": 1,
-   "signature": "C8_w3JxME602iYdxyXQjAoX1TFntLaL3jVQkKOPX9EEusNQb2L7MUGp22GHJYpOUS8x1OS8aKxDG5x7DVW5kDQ",
+   "revision": 2,
+   "signature": "zo3-0mn7m37nfZbhVGCzG1eudbsCxqtQa1Q7_t3pPixkwm0boHVP3YxCenqE1W2Rk7rCNx6CPMQbvhPq95wWBQ",
    "subject_key": "live:mountain-goats:2019-05-14:the-majestic-theatre",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:21:38.749796"
+   "updated_at": "2026-10-24T21:36:29.667489"
   }
  },
  "recommended": {

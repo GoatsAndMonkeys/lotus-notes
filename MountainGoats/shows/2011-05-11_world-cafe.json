@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -101,7 +101,7 @@
         "show": "live:mountain-goats:2011-04-14:ottobar"
        },
        "plays_before": 10,
-       "total_plays": 52
+       "total_plays": 51
       },
       "title": "Liza Forever Minelli"
      },
@@ -167,8 +167,8 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 162,
-     "shows_in_archive": 467,
+     "show_number": 160,
+     "shows_in_archive": 463,
      "songs": 5,
      "stats_complete": true
     },
@@ -177,19 +177,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.244555+00:00",
+    "generated_at": "2026-10-24T22:01:49.360166+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "Ucsvb_eCLB92fJr670vlkVAw-cIW2j4R3FamPga-X5fsqxh_PxzXrnSKWfI0xL-lsqXjkHykh6QKvS5govTsAA",
+   "revision": 6,
+   "signature": "NJi9bSV-RhQ0vguyGkR_jhOw7129CJ0rBbPSvjCGx51NC0sC8FHs7wKxmWMFYMMLJDkE4wkaIMrewQ6i3wTMAA",
    "subject_key": "live:mountain-goats:2011-05-11:world-cafe",
-   "updated_at": "2026-10-23T22:48:28.244731"
+   "updated_at": "2026-10-24T22:01:49.360900"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Interview 1**: rare: 7 archived performances [2]\n- **Interview 2**: rare: 7 archived performances [2]\n\n## The recordings\n\n- **tmg2011-05-11** (recommended): source not stated; 5 songs; 18 min [1]\n\n## Around the show\n\n- Radio session promoting the album All Eternals Deck [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -198,7 +198,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-01-18",
-     "quote_or_claim": "The recording is an 18-minute radio session of 5 songs recorded on May 11, 2011, at the World Cafe in promotion of the album All Eternals Deck.",
+     "quote_or_claim": "5-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at World Cafe on 2011-05-11",
      "url": "https://archive.org/details/tmg2011-05-11",
@@ -213,7 +213,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 162 of 467 in the archive for the performer, following a show on April 14, 2011, at Ottobar, and the songs 'Interview 1' and 'Interview 2' are rare with only 7 archived performances each.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -223,28 +223,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Radio session promoting the album All Eternals Deck",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2011-05-11:world-cafe"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "23a40791612544da8f495fb062df261cc251ae7becaf71aff0bd2cb930fc212e",
-    "generated_at": "2026-10-24T13:01:28.076825+00:00",
+    "generated_at": "2026-10-24T22:01:09.931185+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "4f4074af9efab33f44ec7741fd4ec73edc6ccfdbcdfe1814763105fcfb8a0c64",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "2ea868f78b62fbabb1d7afd038a15e013d6a83ccb26fe63f727042f68b7dc97d",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 39.5
+    "seconds": 5.0
    },
-   "revision": 1,
-   "signature": "xTvEv5NDa3BeJS0s-xqP6Gp464wkO5gXeMU9C8ZjjWxvpBrAX3ykuRTbTGYQc5RSnI1CCr6d-pbz-NsT-RxUAA",
+   "revision": 2,
+   "signature": "cMg6cOl9KXKLQ7cwH3pVgtRSgouppXf-i0arOzImB6baOCkjgSUDz7duG5xsVAClMzTwCqsLTf-ZUMGBPF1aCQ",
    "subject_key": "live:mountain-goats:2011-05-11:world-cafe",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T13:01:28.080200"
+   "updated_at": "2026-10-24T22:01:09.933665"
   }
  },
  "recommended": {

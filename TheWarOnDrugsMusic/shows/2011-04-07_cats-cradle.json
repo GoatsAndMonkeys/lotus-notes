@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 75 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "TheWarOnDrugsMusic collection, Live Music Archive",
      "url": "https://archive.org/details/TheWarOnDrugsMusic",
@@ -122,11 +122,16 @@
       "title": "not sure"
      },
      {
-      "key": "song:the-war-on-drugs-music:baby-missles",
+      "key": "song:the-war-on-drugs-music:baby-missiles",
       "stats": {
-       "first_in_archive": true,
-       "plays_before": 0,
-       "total_plays": 10
+       "days_since": 4,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2011-04-03",
+        "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
+       },
+       "plays_before": 2,
+       "total_plays": 36
       },
       "title": "Baby Missles"
      },
@@ -140,7 +145,7 @@
         "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
        },
        "plays_before": 3,
-       "total_plays": 22
+       "total_plays": 23
       },
       "title": "Buenos Aires Beach"
      },
@@ -154,7 +159,7 @@
         "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
        },
        "plays_before": 2,
-       "total_plays": 41
+       "total_plays": 40
       },
       "title": "Brothers"
      },
@@ -199,8 +204,8 @@
         "date": "2011-04-03",
         "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
        },
-       "plays_before": 1,
-       "total_plays": 27
+       "plays_before": 2,
+       "total_plays": 30
       },
       "title": "Comin' Through"
      },
@@ -214,7 +219,7 @@
         "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
        },
        "plays_before": 3,
-       "total_plays": 33
+       "total_plays": 32
       },
       "title": "Arms Like Boulders"
      }
@@ -225,12 +230,11 @@
      "bustouts": [],
      "first_in_archive": [
       "not sure",
-      "Baby Missles",
       "I Wish I Was There",
       "not sure"
      ],
      "show_number": 4,
-     "shows_in_archive": 75,
+     "shows_in_archive": 73,
      "songs": 9,
      "stats_complete": true
     },
@@ -239,16 +243,124 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-24T18:50:21.612774+00:00",
+    "generated_at": "2026-10-25T06:01:16.046191+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "Oz_f15F78_I0tAJ6PZvVlXWEPIyYfcRTOBkLzgGHcQhJiezwvN8hnoQ4etJbl56I8F3yaExACGeXTuNDkASlAg",
+   "revision": 2,
+   "signature": "VILHer0-XY4O3uLne-JJdcERDUfvWNFF2rt1qHIB5OIYC02_1f0k30CclHJqQ553VlVucJAN-vCQdE7hA6nzCg",
    "subject_key": "live:the-war-on-drugs-music:2011-04-07:cats-cradle",
-   "updated_at": "2026-10-24T18:50:21.613171"
+   "updated_at": "2026-10-25T06:01:16.046422"
+  },
+  "liner": {
+   "body_md": "## What listeners single out\n\n- The first track on the recording is identified as the song Best Night [2]\n- The seventh track on the recording is identified as the song It's Your Destiny [2]\n\n## Setlist highlights\n\n- **not sure**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Taking the Farm**: rare: 11 archived performances [3]\n- **I Wish I Was There**: earliest performance in the archive; legendary: the only archived performance [3]\n- **not sure**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **wod2011-04-07** (recommended): source not stated; 9 songs; 48 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **wod2011-04-07**: taped by Dan Schram [1]. Also: LMA recorded the audio, maintaining their typical quality standards for this release [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Dan Schram",
+     "author_url": "https://archive.org/search?query=taper%3A%22Dan%20Schram%22",
+     "credits": [
+      {
+       "name": "Dan Schram",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Dan%20Schram%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2011-07-25",
+     "quote_or_claim": "9-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Music Live at Cat's Cradle on 2011-04-07",
+     "url": "https://archive.org/details/wod2011-04-07",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Davo Love",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Davo%20Love%22",
+     "claim": "LMA recorded the audio, maintaining their typical quality standards for this release",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2011-11-20",
+     "quote_or_claim": "Track 1 is Best Night, and track 7 is It's Your Destiny. Really good recording and concert, up to LMA's usual standard.",
+     "site": "Internet Archive",
+     "title": "Review: Missing Titles (wod2011-04-07)",
+     "url": "https://archive.org/details/wod2011-04-07#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "TheWarOnDrugsMusic collection, Live Music Archive",
+     "url": "https://archive.org/details/TheWarOnDrugsMusic",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "wod2011-04-07",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "LMA recorded the audio, maintaining their typical quality standards for this release",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The first track on the recording is identified as the song Best Night",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The seventh track on the recording is identified as the song It's Your Destiny",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:the-war-on-drugs-music:2011-04-07:cats-cradle"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "d2e64c456ba1d042245d2b4dbef0d84bd6d737f4a84a4df10e640352b789ae9a",
+    "generated_at": "2026-10-25T06:35:38.566334+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "90018f85a00ca84daef182883575c99d6c7fe009bb9ebf61bf7b541cc039570b",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 11.9
+   },
+   "revision": 1,
+   "signature": "-eTEc2W9lMp829CZGYZbrafZ2WbpvQ2b4wTUQmZfNQMDYba_ZTTXJGxtgaOy6TbrbbdNdR0ZxmRMdiQUp9x0AQ",
+   "subject_key": "live:the-war-on-drugs-music:2011-04-07:cats-cradle",
+   "updated_at": "2026-10-25T06:35:38.567177"
   }
  },
  "recommended": {

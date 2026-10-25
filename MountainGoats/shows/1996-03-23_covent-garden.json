@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -179,7 +179,7 @@
         "show": "live:mountain-goats:1996-03-20:the-garage"
        },
        "plays_before": 2,
-       "total_plays": 31
+       "total_plays": 30
       },
       "title": "Nine Black Poppies"
      },
@@ -207,7 +207,7 @@
         "show": "live:mountain-goats:1996-03-20:the-garage"
        },
        "plays_before": 4,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going to Georgia"
      }
@@ -223,7 +223,7 @@
       "The Bad Doctor"
      ],
      "show_number": 8,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 9,
      "stats_complete": true
     },
@@ -232,19 +232,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.087029+00:00",
+    "generated_at": "2026-10-24T22:01:48.923298+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "s-fpjxythkP_cRPoXg2wG3GV4I4Jw6IOADwpeUewZSBq2GiC86lS89Mud0jnvJWw0i8p65E1FskE_225XWZ9Cg",
+   "revision": 5,
+   "signature": "yXQ_2pCwq0K4rYkq_YVKM2M-1wRvSjfq7IvvToaZ7-ADRMXvVVocHLiHRQTScJNtOwqVkt0Lj_Z_cZfr52YGBQ",
    "subject_key": "live:mountain-goats:1996-03-23:covent-garden",
-   "updated_at": "2026-10-23T22:48:28.087237"
+   "updated_at": "2026-10-24T22:01:48.924241"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Ghosts** (1 review): Ghosts appears in the archive for the first time here and is a top ten song [2]\n\n## Setlist highlights\n\n- **Night of the Mules**: earliest performance in the archive; rare: 6 archived performances [3]\n- **Ghosts**: earliest performance in the archive; rare: 7 archived performances [3]\n- **The Irony Engine (Franklin Bruno cover)**: rare: 3 archived performances [3]\n- **Are You Cleaning Off the Stone?**: earliest performance in the archive; legendary: the only archived performance [3]\n- **The Bad Doctor**: earliest performance in the archive; rare: 4 archived performances [3]\n\n## The recordings\n\n- **tmg1996-03-23.aud.128mp3** (recommended): audience recording; 9 songs; 27 min; rated 5/5 by 1 [1]. Said about its sound: Audio quality is ideal for the era, sounding just like one of his cassettes [2]\n\n## Around the show\n\n- Crowd was loud enough to feel their presence but never drowned out John [2]\n\n## Tapers and lineage\n\n- **tmg1996-03-23.aud.128mp3**: This is a partial show from the Butter archives, missing the first half [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -253,7 +253,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-11",
-     "quote_or_claim": "The recording is a partial show from the Butter archives, missing the first half, and includes the setlist with specific song rarities.",
+     "quote_or_claim": "9-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Covent Garden on 1996-03-23",
      "url": "https://archive.org/details/tmg1996-03-23.aud.128mp3",
@@ -265,7 +265,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener rated the recording 5/5, praising the cassette-like audio quality, the balance of crowd noise, and highlighting Ghosts and The Sign.",
+     "claim": "Audio quality is ideal for the era, sounding just like one of his cassettes",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-01-21",
@@ -284,7 +284,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 8 of 467 in the archive's collection for Mountain Goats.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -294,30 +294,63 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg1996-03-23.aud.128mp3",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Audio quality is ideal for the era, sounding just like one of his cassettes",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Crowd was loud enough to feel their presence but never drowned out John",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Ghosts",
+      "song_key": "song:mountain-goats:ghosts",
+      "src": 2,
+      "text": "Ghosts appears in the archive for the first time here and is a top ten song",
+      "type": "song"
+     },
+     {
+      "recording": "tmg1996-03-23.aud.128mp3",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "This is a partial show from the Butter archives, missing the first half",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1996-03-23:covent-garden"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 4,
     "facts_hash": "a7b913ee66b9336d8bafcff052e1ca1acd70e40fd4278ec89e5af064ddbbb565",
-    "generated_at": "2026-10-24T00:23:47.861865+00:00",
+    "generated_at": "2026-10-24T21:51:25.082360+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "855c55ad2f6ea9a64720e71c6a07d0462d2d5a532bd13e34bf682eb2ec978538",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "copied from a source, paraphrase instead: 'the crowd was loud enough to feel their presence but'"
-    ],
-    "seconds": 130.8
+    "prompt_sha256": "6a2ebaa4773172d4133c45d6fb900c0ae3b97d707810142c9b1a4e91fddbecde",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 16.2
    },
-   "revision": 1,
-   "signature": "kSSCxlAKo7dr8CUyYLrL6EKj-LiXL0rFTZhZIspJSo2RyMrZ79yxdn2QSjfC-TBaQb7g7xi9SNc-WyeY7CtsDA",
+   "revision": 2,
+   "signature": "UzyLClc4MEoz7QegfE2gcR-lqGm9kvLgnggLDp5Z5XhqUwyixEs4eCrlYgExCz0x5V0hLQO4sV_rvkhpmeHAAw",
    "subject_key": "live:mountain-goats:1996-03-23:covent-garden",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:23:47.864797"
+   "updated_at": "2026-10-24T21:51:25.085214"
   }
  },
  "recommended": {

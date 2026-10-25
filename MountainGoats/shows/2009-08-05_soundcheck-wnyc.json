@@ -50,7 +50,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -139,8 +139,8 @@
       "1 Samuel 15 23",
       "Genesis 30 3"
      ],
-     "show_number": 144,
-     "shows_in_archive": 467,
+     "show_number": 142,
+     "shows_in_archive": 463,
      "songs": 2,
      "stats_complete": true
     },
@@ -149,19 +149,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.209371+00:00",
+    "generated_at": "2026-10-24T22:01:49.310892+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "raVL6ZujPQIcP3kc3LV3QVyWQ933_Orx8wspV3cbpdiln5_mgroRzzoARCo85wVw-FYJa8sRG1kNmVnPAkSXDA",
+   "revision": 5,
+   "signature": "x8LCmLI5IuOH1VYpwX9QARMh8ZSjl_J950M6Nm9UQa1Qij_thZ4_OyiAusIT2a4dCuzwGhAGGfil6A9unx7kAw",
    "subject_key": "live:mountain-goats:2009-08-05:soundcheck-wnyc",
-   "updated_at": "2026-10-23T22:48:28.209551"
+   "updated_at": "2026-10-24T22:01:49.311516"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Genesis 30 3**: earliest performance in the archive; rare: 11 archived performances [3]\n- Earliest performances in the archive: 1 Samuel 15 23 [3]\n\n## The recordings\n\n- **tmg2009-08-05.radio** (recommended): source not stated; 2 songs; 19 min [1]\n\n## Around the show\n\n- John conducted a WNYC interview promoting The Life of the World to Come [1]\n- Miranda Cuckson joined John on violin for two songs [1]\n- Listener corrected the date to 2009-10-05, citing a WNYC story link [2]\n\n## Tapers and lineage\n\n- **tmg2009-08-05.radio**: taped by Jimbers [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -177,7 +177,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2021-03-05",
-     "quote_or_claim": "John does an interview with WNYC promoting The Life of the World to Come and plays two songs with Miranda Cuckson on violin.",
+     "quote_or_claim": "2-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Soundcheck WNYC on 2009-08-05",
      "url": "https://archive.org/details/tmg2009-08-05.radio",
@@ -189,7 +189,7 @@
      "accessed_at": "2026-10-23",
      "author": "zerbrechen",
      "author_url": "https://archive.org/search?query=reviewer%3A%22zerbrechen%22",
-     "claim": "A listener review questioned the date, suggesting it was 2009-10-05 instead of 2005-08-05, and linked to a WNYC story.",
+     "claim": "Listener corrected the date to 2009-10-05, citing a WNYC story link",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2021-03-05",
@@ -208,7 +208,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 144 of 467 in the archive's collection for Mountain Goats, and the previous archived show was on 2009-06-14 at Farm Sanctuary.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -218,30 +218,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John conducted a WNYC interview promoting The Life of the World to Come",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Miranda Cuckson joined John on violin for two songs",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Listener corrected the date to 2009-10-05, citing a WNYC story link",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2009-08-05:soundcheck-wnyc"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "c3d3d4f8cd2535803e99714d864065dcc21bc71803a809be199d5c97fc81498d",
-    "generated_at": "2026-10-24T12:43:03.919614+00:00",
+    "generated_at": "2026-10-24T22:00:03.431598+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "6baaa1cdc6d9b41b39867dcf7f280c2ab4300b4b10239c596daace892d5a9702",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "names not in the facts or sources (do not guess): darnielle"
-    ],
-    "seconds": 80.6
+    "prompt_sha256": "e2ef67e81c8ad66e7086b28f9dd0f8612493b6cd2728bc681cd31a546314a7ef",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 13.0
    },
-   "revision": 1,
-   "signature": "f08-oeH3jOE81d0Vgr0RiqlJUX88oYQe3Pdol0FJCcGoxaVlJ8SI3Rvz_EYSj4SwW7IuUArYnRGkHsUGa8LpCA",
+   "revision": 2,
+   "signature": "q8WIkLyErB_YzlzxxyRhGrxgnRkiucgAXR8Xr1p8UHW9wCxk-XAiEP-AEQjriDMGy1bWgCIS79BPKJ33uIJ9AQ",
    "subject_key": "live:mountain-goats:2009-08-05:soundcheck-wnyc",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:43:03.921378"
+   "updated_at": "2026-10-24T22:00:03.439595"
   }
  },
  "recommended": {

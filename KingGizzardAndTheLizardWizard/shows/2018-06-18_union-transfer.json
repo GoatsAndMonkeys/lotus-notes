@@ -437,6 +437,126 @@
    "signature": "zFTutt9NQvjkXkVHS1Bv74hGDpGDxwiOm108rGR6nF9SCK7Qdwg6ZzPutl6WyUSrlZAt3URR_LztCv0cnp8hCA",
    "subject_key": "live:king-gizzard-and-the-lizard-wizard:2018-06-18:union-transfer",
    "updated_at": "2026-10-24T19:18:30.892303"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Altered Beast I**: rare: 11 archived performances [2]\n- **Deserted Dunes Welcome Weary Feet**: rare: 12 archived performances [2]\n- **The Castle in the Air**: rare: 13 archived performances [2]\n- **Some Context**: rare: 5 archived performances [2]\n\n## The recordings\n\n- **kglw2018-06-18.SchoepsMK41.Burns.Flac24** (recommended): source not stated; 20 songs; 81 min [1]\n\n## Around the show\n\n- The venue, Union Transfer, has a stated capacity of 1,200 people [3]\n\n## Tapers and lineage\n\n- **kglw2018-06-18.SchoepsMK41.Burns.Flac24**: taped by Joe Burns; transferred by jakezen72; source: SP-CMC-8 (AT-U853A cardioids) > SP-SPSB-4 battery box > Sony PCM-M10 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Joe Burns",
+     "author_url": "https://archive.org/search?query=taper%3A%22Joe%20Burns%22",
+     "credits": [
+      {
+       "name": "Joe Burns",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Joe%20Burns%22"
+      },
+      {
+       "name": "jakezen72",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22jakezen72%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2026-05-22",
+     "quote_or_claim": "20-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at Union Transfer on 2018-06-18",
+     "url": "https://archive.org/details/kglw2018-06-18.SchoepsMK41.Burns.Flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 249 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "KingGizzardAndTheLizardWizard collection, Live Music Archive",
+     "url": "https://archive.org/details/KingGizzardAndTheLizardWizard",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://kglw.net/",
+     "claim": "The venue, Union Transfer, has a stated capacity of 1,200 people",
+     "id": 3,
+     "kind": "blog",
+     "published_at": null,
+     "quote_or_claim": "Venue capacity: 1,200 Website: https://www.utphilly.com/ Date Venue Artist 2018-06-18 Union Transfer King Gizzard & the Lizard Wizard KGLW.net ...the most current and comprehensive resource for…",
+     "site": "KGLW.net",
+     "title": "Union Transfer, Philadelphia, PA, USA - KGLW.net",
+     "url": "https://kglw.net/venues/union-transfer-philadelphia-pa-usa",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://ijustreadaboutthat.com/author/debraski/",
+     "id": 4,
+     "kind": "blog",
+     "published_at": "2018-06-19T03:26:36+00:00",
+     "quote_or_claim": "I Just Read About That… A story and a song every day since Jan 2010 Feeds: Posts Comments King Gizzard and the Lizard Wizard (Union…",
+     "site": "I Just Read About That...",
+     "title": "King Gizzard and the Lizard Wizard (Union Transfer, Philadelphia, PA, June 18, 2018)",
+     "url": "https://ijustreadaboutthat.com/2018/06/18/king-gizzard-and-the-lizard-wizard-union-transfer-philadelphia-pa-june-18-2018/",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "kglw2018-06-18.SchoepsMK41.Burns.Flac24",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded with Schoeps SP-CMC-8 cardioids into Sony PCM-M10, transferred to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The venue, Union Transfer, has a stated capacity of 1,200 people",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:king-gizzard-and-the-lizard-wizard:2018-06-18:union-transfer"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 2,
+    "facts_hash": "83fb0b383f19fb555c6e275824befe4a0a146bdf7a2f790f7531c3274b4520b0",
+    "generated_at": "2026-10-25T05:29:51.535949+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "9ee99849ec715b89b77377e910f2f58073202f1f83eeca80f02d8bd60b8b4741",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 15.6
+   },
+   "revision": 1,
+   "signature": "XRDjVSXMJAokeSUPtQmkrcoH3pEeXiqvUbXjBopgAZp1DorMJOJK3EPJlSqJwj-0h8OfGEU-5DeXHOfJ2g1fDQ",
+   "subject_key": "live:king-gizzard-and-the-lizard-wizard:2018-06-18:union-transfer",
+   "updated_at": "2026-10-25T05:29:51.536559"
   }
  },
  "recommended": {

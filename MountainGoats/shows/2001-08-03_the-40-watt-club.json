@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -264,7 +264,7 @@
         "show": "live:mountain-goats:2001-06-23:bottom-of-the-hill"
        },
        "plays_before": 2,
-       "total_plays": 18
+       "total_plays": 17
       },
       "title": "Alphonse Mambo"
      },
@@ -306,7 +306,7 @@
         "show": "live:mountain-goats:2001-06-23:bottom-of-the-hill"
        },
        "plays_before": 9,
-       "total_plays": 31
+       "total_plays": 30
       },
       "title": "Nine Black Poppies"
      },
@@ -320,7 +320,7 @@
         "show": "live:mountain-goats:2001-07-19:capitol-theater-olympia-wa"
        },
        "plays_before": 3,
-       "total_plays": 88
+       "total_plays": 87
       },
       "title": "The Best Ever Death Metal Band In Denton"
      },
@@ -334,7 +334,7 @@
         "show": "live:mountain-goats:2001-07-19:capitol-theater-olympia-wa"
        },
        "plays_before": 15,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going To Georgia"
      },
@@ -361,7 +361,7 @@
       "Going To Utrecht"
      ],
      "show_number": 30,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 18,
      "stats_complete": true
     },
@@ -370,19 +370,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.102836+00:00",
+    "generated_at": "2026-10-24T22:01:48.987513+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "DHG7GMwC3DngbODV7Wy5gaE-Kaeb3fy-WuXOffN5setdCYz_RgJuFVRYn_VOc0SYMhQfkzQaDFCNvqogDRibBQ",
+   "revision": 6,
+   "signature": "YCHNQ3sun1_amYyrIt7l3KQFvnQRLGFVddQKMK7qSlMVLrSfx9tFsAvX53sBlKLHVysy7yoIgfjyHeqbcYbGCA",
    "subject_key": "live:mountain-goats:2001-08-03:the-40-watt-club",
-   "updated_at": "2026-10-23T22:48:28.103081"
+   "updated_at": "2026-10-24T22:01:48.988270"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Going To Georgia** (1 review): The reviewer identifies this track as the best played song of the night [2]\n\n## Setlist highlights\n\n- **Going To Bolivia**: rare: 13 archived performances [3]\n- **The Plague**: rare: 8 archived performances [3]\n- **Going To Utrecht**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Waving At You**: rare: 12 archived performances [3]\n- **Weekend In Western Illinois**: rare: 12 archived performances [3]\n- **Alpha Double Negative: Going to Catalina**: rare: 12 archived performances [3]\n- **Poltergeist**: rare: 10 archived performances [3]\n\n## The recordings\n\n- **tmg2001-08-03.aud.192mp3** (recommended): audience recording; 18 songs; 56 min; rated 4/5 by 1 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -391,7 +391,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-16",
-     "quote_or_claim": "The recording is an audience capture of 18 songs lasting 56 minutes from the August 3, 2001 show at The 40 Watt Club in Athens, GA, and is rated 4/5 by one listener.",
+     "quote_or_claim": "18-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at The 40 Watt Club on 2001-08-03",
      "url": "https://archive.org/details/tmg2001-08-03.aud.192mp3",
@@ -403,7 +403,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener review describes the recording as good and identifies 'Going To Georgia' as the best played song.",
+     "claim": "The reviewer identifies this track as the best played song of the night",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-02-17",
@@ -422,7 +422,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 30 of 467 in the archive for Mountain Goats, following a July 19, 2001 show in Olympia, WA, and provides rarity statistics indicating 'Going To Bolivia' has 13 archived performances, 'The Plague' has 8, 'Going To Utrecht' is…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -432,28 +432,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Going To Georgia",
+      "song_key": "song:mountain-goats:going-to-georgia",
+      "src": 2,
+      "text": "The reviewer identifies this track as the best played song of the night",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2001-08-03:the-40-watt-club"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "e3b5351ee02b7508dd8272bcbc9a9068df5948d99a3f5482269e9378012803cc",
-    "generated_at": "2026-10-24T01:10:45.995773+00:00",
+    "generated_at": "2026-10-24T21:52:39.840386+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "de299b88a6b5577ccc7794fc7a679465c24da50a11528ffb89694448d6aa8dc9",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "d25a97e46b324a0e47899bbb10e7095fff7e9fde0adfbd6571813ed12b0eb440",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 89.1
+    "seconds": 6.8
    },
-   "revision": 1,
-   "signature": "bYNZo36u2tUhKODpvFDXEuWIYonK14we5ER7GW9exobI-XQlfHzOsOA0qF4RV7FTw0_8v6k9GRJweVpb33JFDw",
+   "revision": 2,
+   "signature": "8uR8ZbYyxWQhe-YYE_zvjg5ya9mcGMpDYrwK9hcXfiiHW72Eozuty_TBAv_73QkW3pGXHzGeLieVJ9z06tKMAA",
    "subject_key": "live:mountain-goats:2001-08-03:the-40-watt-club",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T01:10:45.996926"
+   "updated_at": "2026-10-24T21:52:39.841943"
   }
  },
  "recommended": {

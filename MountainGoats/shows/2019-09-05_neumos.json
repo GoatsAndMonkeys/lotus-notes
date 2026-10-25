@@ -10,9 +10,35 @@
    "citations": [
     {
      "accessed_at": "2026-10-23",
+     "author": "tungol",
+     "author_url": "https://archive.org/search?query=taper%3A%22tungol%22",
+     "credits": [
+      {
+       "name": "tungol",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22tungol%22"
+      },
+      {
+       "name": "roffels",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22roffels%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-03-21",
+     "quote_or_claim": "26-song AUD recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Mountain Goats Live at Neumos, Seattle Washington on 2019-09-05",
+     "url": "https://archive.org/details/tmg2019-09-05.AUD",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
-     "id": 1,
+     "id": 2,
      "kind": "archive_item",
      "published_at": "2019-09-06",
      "quote_or_claim": "4-song unlabelled recording (tags setlist)",
@@ -26,10 +52,10 @@
      "accessed_at": "2026-10-23",
      "author": "Music Lotus (computed)",
      "author_url": null,
-     "id": 2,
+     "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -44,9 +70,9 @@
     "date": "2019-09-05",
     "guests": [],
     "next": {
-     "date": "2019-09-05",
-     "show": "live:mountain-goats:2019-09-05:neumos-seattle-washington",
-     "venue": "Neumos, Seattle Washington"
+     "date": "2019-09-07",
+     "show": "live:mountain-goats:2019-09-07:mcdonald-theatre",
+     "venue": "McDonald Theatre"
     },
     "previous": {
      "date": "2019-09-04",
@@ -54,10 +80,41 @@
      "venue": "The Showbox, Seattle WA"
     },
     "recommended": {
-     "identifier": "tmg2019-09-05.soloset",
-     "reason": "only recording; 4 songs"
+     "identifier": "tmg2019-09-05.AUD",
+     "reason": "most complete (26 songs; next best 4); audience recording; lineage documented; lossless files (tiebreak only)"
     },
     "recordings": [
+     {
+      "added": "2021-03-21",
+      "coverage": "Seattle, WA",
+      "creator": "Mountain Goats",
+      "date": "2019-09-05",
+      "duration_s": 7647,
+      "formats": [
+       "Flac"
+      ],
+      "identifier": "tmg2019-09-05.AUD",
+      "incomplete_songs": 0,
+      "lineage": "TASCAM DR-40 24-bit WAV 44.1KHZ - Izotope (loudness, crowd noise reduction)-Audacity-16-bit 44.1KHZ flac",
+      "lossless": true,
+      "rank": 1,
+      "rank_reason": "most complete (26 songs; next best 4); audience recording; lineage documented; lossless files (tiebreak only)",
+      "rating": null,
+      "reviews": 0,
+      "setlist_shifted": 1,
+      "setlist_source": "description",
+      "songs": 26,
+      "source": "AUD",
+      "source_type": "AUD",
+      "stream_only": false,
+      "subject_key": "ia:tmg2019-09-05.AUD",
+      "taper": "tungol",
+      "title": "Mountain Goats Live at Neumos, Seattle Washington on 2019-09-05",
+      "tracks": 27,
+      "transferer": "roffels",
+      "url": "https://archive.org/details/tmg2019-09-05.AUD",
+      "venue": "Neumos, Seattle Washington"
+     },
      {
       "added": "2019-09-06",
       "coverage": "Seattle, WA",
@@ -71,8 +128,7 @@
       "incomplete_songs": 0,
       "lineage": "",
       "lossless": false,
-      "rank": 1,
-      "rank_reason": "only recording; 4 songs",
+      "rank": 2,
       "rating": null,
       "reviews": 0,
       "setlist_shifted": 0,
@@ -92,7 +148,35 @@
     ],
     "setlist": [
      {
-      "key": "song:mountain-goats:black-pear-tree",
+      "key": "song:mountain-goats:coroners-gambit",
+      "stats": {
+       "days_since": 48,
+       "gap_shows": 5,
+       "last_played": {
+        "date": "2019-07-19",
+        "show": "live:mountain-goats:2019-07-19:union-transfer"
+       },
+       "plays_before": 10,
+       "total_plays": 17
+      },
+      "title": "The Coroner's Gambit"
+     },
+     {
+      "key": "song:mountain-goats:you-or-your-memory",
+      "stats": {
+       "days_since": 120,
+       "gap_shows": 9,
+       "last_played": {
+        "date": "2019-05-08",
+        "show": "live:mountain-goats:2019-05-08:mr-smalls-theatre"
+       },
+       "plays_before": 54,
+       "total_plays": 123
+      },
+      "title": "You or Your Memory"
+     },
+     {
+      "key": "song:mountain-goats:moon-over-goldsboro",
       "stats": {
        "days_since": 8,
        "gap_shows": 2,
@@ -100,10 +184,100 @@
         "date": "2019-08-28",
         "show": "live:mountain-goats:2019-08-28:metro-music-hall"
        },
-       "plays_before": 12,
-       "total_plays": 25
+       "plays_before": 35,
+       "total_plays": 46
       },
-      "title": "05Black Pear Tree"
+      "title": "Moon Over Goldsboro"
+     },
+     {
+      "key": "song:mountain-goats:in-league-with-dragons",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 15,
+       "total_plays": 30
+      },
+      "title": "In League With Dragons"
+     },
+     {
+      "key": "song:mountain-goats:sax-rohmer-1",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 19,
+       "total_plays": 51
+      },
+      "title": "Sax Rohmer #1"
+     },
+     {
+      "key": "song:mountain-goats:wear-black",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 29,
+       "total_plays": 65
+      },
+      "title": "Wear Black"
+     },
+     {
+      "key": "song:mountain-goats:in-the-cane-fields",
+      "stats": {
+       "bustout": true,
+       "days_since": 9910,
+       "gap_shows": 283,
+       "last_played": {
+        "date": "1992-07-18",
+        "show": "live:mountain-goats:1992-07-18:casa-de-badger"
+       },
+       "plays_before": 1,
+       "total_plays": 2
+      },
+      "title": "In the Cane Fields"
+     },
+     {
+      "key": "song:mountain-goats:solidarity-forever",
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 9
+      },
+      "title": "Solidarity Forever"
+     },
+     {
+      "key": "song:mountain-goats:dark-as-a-dungeon",
+      "stats": {
+       "bustout": true,
+       "days_since": 630,
+       "gap_shows": 35,
+       "last_played": {
+        "date": "2017-12-14",
+        "show": "live:mountain-goats:2017-12-14:holocene"
+       },
+       "plays_before": 5,
+       "total_plays": 9
+      },
+      "title": "Dark as a Dungeon"
+     },
+     {
+      "key": "song:mountain-goats:palisades-park",
+      "stats": {
+       "first_in_archive": true,
+       "plays_before": 0,
+       "total_plays": 1
+      },
+      "title": "Palisades Park"
      },
      {
       "key": "song:mountain-goats:enoch-18-14",
@@ -116,48 +290,238 @@
         "show": "live:mountain-goats:2018-05-29:old-town-school-of-folk-music"
        },
        "plays_before": 11,
-       "total_plays": 17
+       "total_plays": 16
       },
-      "title": "04Enoch 18:14"
+      "title": "Enoch 18:14"
      },
      {
-      "key": "song:mountain-goats:in-the-cane-fields",
+      "key": "song:mountain-goats:black-pear-tree",
       "stats": {
-       "bustout": true,
-       "days_since": 9910,
-       "gap_shows": 285,
+       "days_since": 8,
+       "gap_shows": 2,
        "last_played": {
-        "date": "1992-07-18",
-        "show": "live:mountain-goats:1992-07-18:casa-de-badger"
+        "date": "2019-08-28",
+        "show": "live:mountain-goats:2019-08-28:metro-music-hall"
+       },
+       "plays_before": 12,
+       "total_plays": 24
+      },
+      "title": "Black Pear Tree"
+     },
+     {
+      "key": "song:mountain-goats:waylon-jennings-live",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 14,
+       "total_plays": 52
+      },
+      "title": "Waylon Jennings Live!"
+     },
+     {
+      "key": "song:mountain-goats:clemency-for-the-wizard-king",
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "2019-08-29",
+        "show": "live:mountain-goats:2019-08-29:pink-garter-theatre"
+       },
+       "plays_before": 10,
+       "total_plays": 47
+      },
+      "title": "Clemency for the Wizard King"
+     },
+     {
+      "key": "song:mountain-goats:have-to-explode",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 32,
+       "total_plays": 43
+      },
+      "title": "Have to Explode"
+     },
+     {
+      "key": "song:mountain-goats:younger",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 16,
+       "total_plays": 54
+      },
+      "title": "Younger"
+     },
+     {
+      "key": "song:mountain-goats:broom-people",
+      "stats": {
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "2019-08-29",
+        "show": "live:mountain-goats:2019-08-29:pink-garter-theatre"
+       },
+       "plays_before": 39,
+       "total_plays": 81
+      },
+      "title": "Broom People"
+     },
+     {
+      "key": "song:mountain-goats:liza-forever-minnelli",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 29,
+       "total_plays": 51
+      },
+      "title": "Liza Forever Minnelli"
+     },
+     {
+      "key": "song:mountain-goats:sicilian-crest",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 14,
+       "total_plays": 32
+      },
+      "title": "Sicilian Crest"
+     },
+     {
+      "key": "song:mountain-goats:an-antidote-for-strychnine",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
        },
        "plays_before": 1,
-       "total_plays": 3
+       "total_plays": 12
       },
-      "title": "01In The Cane Fields"
+      "title": "An Antidote for Strychnine"
      },
      {
-      "key": "song:mountain-goats:solidarity-forever",
+      "key": "song:mountain-goats:game-shows-touch-our-lives",
       "stats": {
-       "first_in_archive": true,
-       "plays_before": 0,
+       "days_since": 7,
+       "gap_shows": 1,
+       "last_played": {
+        "date": "2019-08-29",
+        "show": "live:mountain-goats:2019-08-29:pink-garter-theatre"
+       },
+       "plays_before": 51,
+       "total_plays": 70
+      },
+      "title": "Game Shows Touch Our Lives"
+     },
+     {
+      "key": "song:mountain-goats:song-for-dennis-brown",
+      "stats": {
+       "bustout": true,
+       "days_since": 640,
+       "gap_shows": 36,
+       "last_played": {
+        "date": "2017-12-04",
+        "show": "live:mountain-goats:2017-12-04:harvester-performance-center"
+       },
+       "plays_before": 34,
+       "total_plays": 56
+      },
+      "title": "Song for Dennis Brown"
+     },
+     {
+      "key": "song:mountain-goats:best-ever-death-metal-band-out-of-denton",
+      "stats": {
+       "days_since": 47,
+       "gap_shows": 4,
+       "last_played": {
+        "date": "2019-07-20",
+        "show": "live:mountain-goats:2019-07-20:union-transfer"
+       },
+       "plays_before": 70,
+       "total_plays": 87
+      },
+      "title": "The Best Ever Death Metal Band in Denton"
+     },
+     {
+      "key": "song:mountain-goats:foreign-object",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 33,
+       "total_plays": 40
+      },
+      "title": "Foreign Object"
+     },
+     {
+      "key": "song:mountain-goats:this-year",
+      "stats": {
+       "days_since": 1,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2019-09-04",
+        "show": "live:mountain-goats:2019-09-04:the-showbox-seattle-wa"
+       },
+       "plays_before": 139,
+       "total_plays": 311
+      },
+      "title": "This Year"
+     },
+     {
+      "key": "song:mountain-goats:going-invisible-2",
+      "stats": {
+       "days_since": 8,
+       "gap_shows": 2,
+       "last_played": {
+        "date": "2019-08-28",
+        "show": "live:mountain-goats:2019-08-28:metro-music-hall"
+       },
+       "plays_before": 4,
        "total_plays": 10
       },
-      "title": "02Solidarity Forever"
+      "title": "Going Invisible 2"
      }
     ],
     "setlist_extra": [],
     "subject_key": "live:mountain-goats:2019-09-05:neumos",
     "summary": {
      "bustouts": [
-      "04Enoch 18:14",
-      "01In The Cane Fields"
+      "In the Cane Fields",
+      "Dark as a Dungeon",
+      "Enoch 18:14",
+      "Song for Dennis Brown"
      ],
      "first_in_archive": [
-      "02Solidarity Forever"
+      "Solidarity Forever",
+      "Palisades Park"
      ],
-     "show_number": 287,
-     "shows_in_archive": 467,
-     "songs": 4,
+     "show_number": 285,
+     "shows_in_archive": 463,
+     "songs": 26,
      "stats_complete": true
     },
     "talk_about": [],
@@ -165,19 +529,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.361337+00:00",
+    "generated_at": "2026-10-24T22:01:49.730560+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "HWf9SwmVDuzTLF5zYC3OnjhnQU1ijq0NbyonvPldpjykISrLzQjCgAQKcI93ih-eIwBXG5ERitzN6yIDgnLwDQ",
+   "revision": 5,
+   "signature": "vNdS8XXWxXApvtgXc4I94szY25JXi7IN4mC1thIYqwnTvfT8lw2197HfEzaEvCQTAqxh10qPunX2RbQa0gHQCg",
    "subject_key": "live:mountain-goats:2019-09-05:neumos",
-   "updated_at": "2026-10-23T22:48:28.361536"
+   "updated_at": "2026-10-24T22:01:49.731856"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **04Enoch 18:14**: back after 24 archived shows (464 days) [2]\n- **01In The Cane Fields**: back after 285 archived shows (9910 days); rare: 3 archived performances [2]\n- **02Solidarity Forever**: earliest performance in the archive; rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2019-09-05.soloset** (recommended): source not stated; 4 songs; 14 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -186,7 +550,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2019-09-06",
-     "quote_or_claim": "The recording is a solo set at Neumo's in Seattle on September 5, 2019, containing four songs and 14 minutes of audio, with a setlist including 05Black Pear Tree, 04Enoch 18:14, 01In The Cane Fields, and 02Solidarity Forever.",
+     "quote_or_claim": "4-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Neumo's on 2019-09-05",
      "url": "https://archive.org/details/tmg2019-09-05.soloset",
@@ -201,7 +565,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This was the 287th of 467 archived shows, following a show at The Showbox on September 4, 2019, and provides song rarity statistics such as bustouts and performance counts.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -211,35 +575,244 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2019-09-05:neumos"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "f3a7d04f2c501ed04a18eeaa1549904f9d1979c61cef415a4b9ae8ee2c3891d7",
-    "generated_at": "2026-10-24T09:33:04.149287+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:57:44.167840+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "5de125a9e35a83fec6322ee15f87fe7f2395ef02eae1e0200b4c560617a7b2b4",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 41.3
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "UydfqgQUWbCxWimBOZ-orXSURqwNgs-OC30ZadXUY9AYSHp_oMDp-1TS2eCh3YVNUq6zWnX63nUUasxn4rJADA",
+   "revision": 2,
+   "signature": "BwivAi1eOBusbjtuOe1E3SUKgwx21mc_W_GI5iTjhVnYApZWEp5E319iSyqUYY49LZmym4iwfhW9vAvg_So7Bg",
    "subject_key": "live:mountain-goats:2019-09-05:neumos",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:33:04.154139"
+   "updated_at": "2026-10-24T21:57:44.170635"
   }
  },
  "recommended": {
-  "identifier": "tmg2019-09-05.soloset",
-  "reason": "only recording; 4 songs"
+  "identifier": "tmg2019-09-05.AUD",
+  "reason": "most complete (26 songs; next best 4); audience recording; lineage documented; lossless files (tiebreak only)"
  },
  "recordings": [
+  {
+   "body_md": "Audience recording; 26 songs; 127 min; taped by tungol; transferred by roffels. [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-23",
+     "author": "tungol",
+     "author_url": "https://archive.org/search?query=taper%3A%22tungol%22",
+     "credits": [
+      {
+       "name": "tungol",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22tungol%22"
+      },
+      {
+       "name": "roffels",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22roffels%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2021-03-21",
+     "quote_or_claim": "26-song AUD recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "Mountain Goats Live at Neumos, Seattle Washington on 2019-09-05",
+     "url": "https://archive.org/details/tmg2019-09-05.AUD",
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "added": "2021-03-21",
+    "coverage": "Seattle, WA",
+    "creator": "Mountain Goats",
+    "date": "2019-09-05",
+    "duration_s": 7647,
+    "entries": [
+     {
+      "raw": "The Coroner's Gambit",
+      "song": true,
+      "title": "The Coroner's Gambit"
+     },
+     {
+      "raw": "You or Your Memory",
+      "song": true,
+      "title": "You or Your Memory"
+     },
+     {
+      "raw": "Moon Over Goldsboro",
+      "song": true,
+      "title": "Moon Over Goldsboro"
+     },
+     {
+      "raw": "In League With Dragons",
+      "song": true,
+      "title": "In League With Dragons"
+     },
+     {
+      "raw": "Sax Rohmer #1",
+      "song": true,
+      "title": "Sax Rohmer #1"
+     },
+     {
+      "raw": "Wear Black",
+      "song": true,
+      "title": "Wear Black"
+     },
+     {
+      "raw": "In the Cane Fields",
+      "song": true,
+      "title": "In the Cane Fields"
+     },
+     {
+      "raw": "Solidarity Forever ^",
+      "song": true,
+      "title": "Solidarity Forever"
+     },
+     {
+      "raw": "Dark as a Dungeon @",
+      "song": true,
+      "title": "Dark as a Dungeon"
+     },
+     {
+      "raw": "Palisades Park #",
+      "song": true,
+      "title": "Palisades Park"
+     },
+     {
+      "raw": "Enoch 18:14",
+      "song": true,
+      "title": "Enoch 18:14"
+     },
+     {
+      "raw": "Black Pear Tree",
+      "song": true,
+      "title": "Black Pear Tree"
+     },
+     {
+      "raw": "Waylon Jennings Live!",
+      "song": true,
+      "title": "Waylon Jennings Live!"
+     },
+     {
+      "raw": "Clemency for the Wizard King",
+      "song": true,
+      "title": "Clemency for the Wizard King"
+     },
+     {
+      "raw": "Have to Explode",
+      "song": true,
+      "title": "Have to Explode"
+     },
+     {
+      "raw": "Younger",
+      "song": true,
+      "title": "Younger"
+     },
+     {
+      "raw": "Broom People",
+      "song": true,
+      "title": "Broom People"
+     },
+     {
+      "raw": "Liza Forever Minnelli",
+      "song": true,
+      "title": "Liza Forever Minnelli"
+     },
+     {
+      "raw": "Sicilian Crest",
+      "song": true,
+      "title": "Sicilian Crest"
+     },
+     {
+      "raw": "An Antidote for Strychnine",
+      "song": true,
+      "title": "An Antidote for Strychnine"
+     },
+     {
+      "raw": "Game Shows Touch Our Lives",
+      "song": true,
+      "title": "Game Shows Touch Our Lives"
+     },
+     {
+      "raw": "Song for Dennis Brown",
+      "song": true,
+      "title": "Song for Dennis Brown"
+     },
+     {
+      "raw": "The Best Ever Death Metal Band in Denton",
+      "song": true,
+      "title": "The Best Ever Death Metal Band in Denton"
+     },
+     {
+      "raw": "Foreign Object",
+      "song": true,
+      "title": "Foreign Object"
+     },
+     {
+      "raw": "This Year",
+      "song": true,
+      "title": "This Year"
+     },
+     {
+      "raw": "Going Invisible 2",
+      "song": true,
+      "title": "Going Invisible 2"
+     }
+    ],
+    "formats": [
+     "Flac"
+    ],
+    "identifier": "tmg2019-09-05.AUD",
+    "incomplete_songs": 0,
+    "lineage": "TASCAM DR-40 24-bit WAV 44.1KHZ - Izotope (loudness, crowd noise reduction)-Audacity-16-bit 44.1KHZ flac",
+    "lossless": true,
+    "rank": 1,
+    "rank_reason": "most complete (26 songs; next best 4); audience recording; lineage documented; lossless files (tiebreak only)",
+    "rating": null,
+    "recommended": true,
+    "reviews": 0,
+    "setlist_shifted": 1,
+    "setlist_source": "description",
+    "show": "live:mountain-goats:2019-09-05:neumos",
+    "songs": 26,
+    "source": "AUD",
+    "source_type": "AUD",
+    "stream_only": false,
+    "subject_key": "ia:tmg2019-09-05.AUD",
+    "taper": "tungol",
+    "title": "Mountain Goats Live at Neumos, Seattle Washington on 2019-09-05",
+    "tracks": 27,
+    "transferer": "roffels",
+    "url": "https://archive.org/details/tmg2019-09-05.AUD",
+    "venue": "Neumos, Seattle Washington"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "recording",
+   "parent_revision": 2,
+   "provenance": {
+    "generated_at": "2026-10-24T22:01:49.731283+00:00",
+    "pipeline": "lotus.notes.facts"
+   },
+   "revision": 3,
+   "signature": "EdrOzX4ydhO9IP1fIKjTVc9YgI8QpEGQT9yppC7CdDQEdc0gqXApCmcDJ8OGUqHUXzQ-0jFOgsRW4fUrXQiPCA",
+   "subject_key": "ia:tmg2019-09-05.AUD",
+   "updated_at": "2026-10-24T22:01:49.734485"
+  },
   {
    "body_md": "Source not stated; 4 songs; 14 min. [1]",
    "citations": [
@@ -293,10 +866,9 @@
     "incomplete_songs": 0,
     "lineage": "",
     "lossless": false,
-    "rank": 1,
-    "rank_reason": "only recording; 4 songs",
+    "rank": 2,
     "rating": null,
-    "recommended": true,
+    "recommended": false,
     "reviews": 0,
     "setlist_shifted": 0,
     "setlist_source": "tags",
@@ -315,15 +887,15 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "recording",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "generated_at": "2026-10-23T17:26:55.556092+00:00",
+    "generated_at": "2026-10-24T22:01:49.733735+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "ixEna9LdpDGA9IUPwnTMvzLq9jXvb2xZbkazLgDgclmd_KGCuVFuSFW_zNqJbHB3ccW-8oy4sm7G51lwtFLGAA",
+   "revision": 2,
+   "signature": "ogH41NEHG5d13kdWdOT_XwT37IMJwFm1j7AQmGXgprY_2kby_NKPXlaVVPZwNkHBF4ZBIUv3k3-7kqOoHEXIBw",
    "subject_key": "ia:tmg2019-09-05.soloset",
-   "updated_at": "2026-10-23T17:26:55.556400"
+   "updated_at": "2026-10-24T22:01:49.736245"
   }
  ],
  "subject_key": "live:mountain-goats:2019-09-05:neumos",

@@ -338,6 +338,122 @@
    "signature": "cBzo_yBKJz1BrbR3gE68uvHf0ct7YfSqIf3yJuh6UuAgEh77wppb06zgbVxioLIjUaIfxJd8dQ0S21bfeMfSBw",
    "subject_key": "live:king-gizzard-and-the-lizard-wizard:2022-10-04:roseland-theater",
    "updated_at": "2026-10-24T18:07:37.415239"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Inner Cell**: back after 25 archived shows (1089 days) [4]\n- **Loyalty**: back after 25 archived shows (1089 days) [4]\n- **Horology**: back after 25 archived shows (1089 days) [4]\n- **Blame It On The Weather**: rare: 12 archived performances [4]\n- Earliest performances in the archive: Magma [4]\n\n## The recordings\n\n- **kglw2022-10-04.aud.flac24** (recommended): audience recording; 13 songs; 98 min [1]. Said about its sound: Most tracks appear cut off with missing duration information in the file; Native player fails to play most songs, possibly due to checksum errors [2][3]\n\n## Tapers and lineage\n\n- **kglw2022-10-04.aud.flac24**: taped by DaFunkySquirrel; source: Zoom H4n Pro > SanDisk Extreme Plus 32GB SDHC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "DaFunkySquirrel",
+     "author_url": "https://archive.org/search?query=taper%3A%22DaFunkySquirrel%22",
+     "credits": [
+      {
+       "name": "DaFunkySquirrel",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22DaFunkySquirrel%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-10-10",
+     "quote_or_claim": "13-song AUD recording (description setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at Roseland Theater on 2022-10-04",
+     "url": "https://archive.org/details/kglw2022-10-04.aud.flac24",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "y0rt",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22y0rt%22",
+     "claim": "Most tracks appear cut off with missing duration information in the file",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2022-10-11",
+     "quote_or_claim": "Are the majority of the tracks cut off? Maybe they didn't upload correctly? The affected tracks seem to not have durations shown.",
+     "site": "Internet Archive",
+     "title": "Review: Great Recording, but... (kglw2022-10-04.aud.flac24)",
+     "url": "https://archive.org/details/kglw2022-10-04.aud.flac24#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Evander_G",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Evander_G%22",
+     "claim": "Native player fails to play most songs, possibly due to checksum errors",
+     "id": 3,
+     "kind": "archive_review",
+     "published_at": "2022-10-14",
+     "quote_or_claim": "Downloading the flac24 files works, but something happened with the native player and most songs can't be played. Maybe the checksum is off?",
+     "site": "Internet Archive",
+     "title": "Review: Wont play natively (kglw2022-10-04.aud.flac24)",
+     "url": "https://archive.org/details/kglw2022-10-04.aud.flac24#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 4,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 249 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "KingGizzardAndTheLizardWizard collection, Live Music Archive",
+     "url": "https://archive.org/details/KingGizzardAndTheLizardWizard",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "kglw2022-10-04.aud.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Most tracks appear cut off with missing duration information in the file",
+      "type": "sound"
+     },
+     {
+      "recording": "kglw2022-10-04.aud.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Native player fails to play most songs, possibly due to checksum errors",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:king-gizzard-and-the-lizard-wizard:2022-10-04:roseland-theater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 2,
+    "facts_hash": "962059ef25097d36283804963263431e0177d2588da826555bec1411e98cbac5",
+    "generated_at": "2026-10-25T01:56:45.341078+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "4e06928947b6b8bb6c2b85ce498e3ac235da8cb1b24d530a94873cd193775b0d",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 8.7
+   },
+   "revision": 1,
+   "signature": "YdTZK9OoQDksWVPExRd07Zyg7dEKtCAJ44XuZ8mJgiQbk-BiS5MY4wJit_Sw4oobo1xxuDWo-faukKJAjSBwBw",
+   "subject_key": "live:king-gizzard-and-the-lizard-wizard:2022-10-04:roseland-theater",
+   "updated_at": "2026-10-25T01:56:45.341796"
   }
  },
  "recommended": {

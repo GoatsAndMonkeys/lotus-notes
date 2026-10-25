@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -206,8 +206,8 @@
         "date": "2012-12-17",
         "show": "live:mountain-goats:2012-12-17:showbox-at-the-market-seattle"
        },
-       "plays_before": 27,
-       "total_plays": 30
+       "plays_before": 26,
+       "total_plays": 29
       },
       "title": "It Froze Me"
      },
@@ -327,8 +327,8 @@
         "date": "2017-06-02",
         "show": "live:mountain-goats:2017-06-02:the-fillmore"
        },
-       "plays_before": 64,
-       "total_plays": 229
+       "plays_before": 63,
+       "total_plays": 227
       },
       "title": "Up the Wolves"
      },
@@ -369,8 +369,8 @@
         "date": "2017-06-02",
         "show": "live:mountain-goats:2017-06-02:the-fillmore"
        },
-       "plays_before": 101,
-       "total_plays": 313
+       "plays_before": 100,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -412,7 +412,7 @@
         "show": "live:mountain-goats:2017-06-02:the-fillmore"
        },
        "plays_before": 106,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -441,8 +441,8 @@
       "Crazy on You",
       "Improv"
      ],
-     "show_number": 236,
-     "shows_in_archive": 467,
+     "show_number": 234,
+     "shows_in_archive": 463,
      "songs": 24,
      "stats_complete": true
     },
@@ -451,19 +451,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 7,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.311677+00:00",
+    "generated_at": "2026-10-24T22:01:49.579951+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "7aJwJkidpQ-4AWHmbrZb2h9AQf-SvfFv8rz2uMW-iHi6-qvReOFCquL6uQyb7WBnWqwhXkB9HqRqUb8bap-pCg",
+   "revision": 8,
+   "signature": "nQC0jiqybRdP4d21yU_3bmGStuS06Z1GAekRxT1XO_P4U4tORJyuk7HGfKTZnNL5ypoBZxizt3v6eHlPfWeeAg",
    "subject_key": "live:mountain-goats:2017-06-05:showbox-seattle-washington",
-   "updated_at": "2026-10-23T22:48:28.311953"
+   "updated_at": "2026-10-24T22:01:49.580788"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Crazy on You**: earliest performance in the archive; legendary: the only archived performance [2]\n- **It Froze Me**: back after 52 archived shows (1631 days) [2]\n- **Improv**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2017-06-05.AUD** (recommended): audience recording; 24 songs; 119 min [1]. Said about its sound: Izotope loudness applied; Audacity midside decode mixed with original, track cuts [1]\n\n## Tapers and lineage\n\n- **tmg2017-06-05.AUD**: taped by Tungol; transferred by roffels; source: AUD [1]. Also: Tascam IM2 mic, iPhone 5s, Tascam PCM recorder MKII v1.0.0 used for capture [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -484,7 +484,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2021-06-27",
-     "quote_or_claim": "The recording was captured by Tungol using a Tascam IM2, iPhone 5s, and Tascam PCM recorder MKII, and mastered by Roffels.",
+     "quote_or_claim": "24-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Showbox, Seattle Washington on 2017-06-05",
      "url": "https://archive.org/details/tmg2017-06-05.AUD",
@@ -499,7 +499,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 236 of 467 in the archive's collection for Mountain Goats, following a previous show at the Fillmore on June 2, 2017.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -509,30 +509,47 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg2017-06-05.AUD",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Tascam IM2 mic, iPhone 5s, Tascam PCM recorder MKII v1.0.0 used for capture",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2017-06-05.AUD",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Izotope loudness applied; Audacity midside decode mixed with original, track cuts",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2017-06-05:showbox-seattle-washington"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "ec5684fce7ac711b0e69cee084ceecada9159bad06219b7aa1ccc14d773ec0d8",
-    "generated_at": "2026-10-24T09:20:59.651526+00:00",
+    "generated_at": "2026-10-24T21:55:51.941471+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "dfa6204e25d2af8d9cba1b825499ef6bc857810d1528bc3bbd8e127f811237e5",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sentence without a source marker: 'Mountain Goats performed a full band set at the Showbox in Seattle, Washington, '"
-    ],
-    "seconds": 105.5
+    "prompt_sha256": "1fc97e72e97c97b38484de59d41a423eeb9545b9195a18eb9f1313cb99f98c84",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 10.8
    },
-   "revision": 1,
-   "signature": "rhOi3YiqHPm22mK6qSDjVqgMuMtM82iL9rufhYssc7P5tT608UUNWFj32PCiDqRR-DpArYajrcgSj1YqAlL-AQ",
+   "revision": 2,
+   "signature": "nH_j-UFGeFptkxsY4C1DQpxlza9bIHhd8PTFQkL28oQyaS0oxRqXCgKyqQqWxPgnDygrPt1QaRQM9Wm3lWLuCg",
    "subject_key": "live:mountain-goats:2017-06-05:showbox-seattle-washington",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:20:59.655403"
+   "updated_at": "2026-10-24T21:55:51.943487"
   }
  },
  "recommended": {

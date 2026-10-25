@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -119,7 +119,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 38
+       "total_plays": 37
       },
       "title": "The Recognition Scene"
      },
@@ -200,7 +200,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going To Georgia"
      },
@@ -283,7 +283,7 @@
       "The Sign (Ace of Base cover)"
      ],
      "show_number": 2,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 17,
      "stats_complete": true
     },
@@ -292,19 +292,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.082525+00:00",
+    "generated_at": "2026-10-24T22:01:48.899839+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "IloRR7AhigEdpgPGiQnz_MJjiPcIGZ4HH-Q2elTrjjRGOCv6riVFZTmvH59yE9XWJUHwd5eAu4b886rcE93qAw",
+   "revision": 5,
+   "signature": "3tv5NW759gTjXW-t2c8zmC7eCuqW9Kf3sJG8vdcnRCR6iHJ32b_qdrWxiuX3NuO7MXEovaE0VMoc_BQ95eusDg",
    "subject_key": "live:mountain-goats:1995-01-15:the-chameleon",
-   "updated_at": "2026-10-23T22:48:28.082816"
+   "updated_at": "2026-10-24T22:01:48.901014"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **The Recognition Scene** (1 review): Listener ranked this track among their top ten Mountain Goats songs [2]\n\n## Setlist highlights\n\n- **November Love Song**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Sept 19th Triple X Love! Love!**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Casetino's Nursery**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Pure Heat**: earliest performance in the archive; rare: 6 archived performances [3]\n- **Going To Bristol**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Going To Palestine**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Downtown Seoul**: earliest performance in the archive; rare: 12 archived performances [3]\n- **Going To Bolivia**: earliest performance in the archive; rare: 13 archived performances [3]\n- Earliest performances in the archive: The Recognition Scene, Some Swedish Trees, Going To Georgia, Prana Ferox, The Sign (Ace of Base cover) [3]\n\n## The recordings\n\n- **tmg1995-01-15.aud.192mp3** (recommended): audience recording; 17 songs; 41 min; rated 4/5 by 1 [1]. Said about its sound: Audio quality was solid, though the spoken banter was unremarkable [2]\n\n## Around the show\n\n- Described as the earliest recording of a standard Mountain Goats set [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -313,7 +313,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-10",
-     "quote_or_claim": "The recording is an audience capture from January 15, 1995, at The Chameleon in San Francisco, featuring 17 songs over 41 minutes, with all tracks being the first in the archive and rated 4/5 by one listener.",
+     "quote_or_claim": "17-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at The Chameleon on 1995-01-15",
      "url": "https://archive.org/details/tmg1995-01-15.aud.192mp3",
@@ -325,7 +325,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A listener review of the recording describes it as the earliest capture of a Mountain Goats set, notes the solid audio quality and unremarkable banter, and identifies 'The Recognition Scene' as the best played song and a personal top ten…",
+     "claim": "Listener ranked this track among their top ten Mountain Goats songs",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-01-20",
@@ -344,7 +344,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is the second show in the archive's collection for Mountain Goats, following a previous archived show on July 18, 1992, at Casa de Badger.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -354,28 +354,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "The Recognition Scene",
+      "song_key": "song:mountain-goats:recognition-scene",
+      "src": 2,
+      "text": "Listener ranked this track among their top ten Mountain Goats songs",
+      "type": "song"
+     },
+     {
+      "recording": "tmg1995-01-15.aud.192mp3",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Audio quality was solid, though the spoken banter was unremarkable",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Described as the earliest recording of a standard Mountain Goats set",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1995-01-15:the-chameleon"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "69f7dd302013f43aee9402442c5e804048dddfe46001fd1c48535933c52c133a",
-    "generated_at": "2026-10-24T00:07:55.263851+00:00",
+    "generated_at": "2026-10-24T21:37:00.030908+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "c000507f638a60333ba56c120d21a112b56bf8dcb97650120b01b54b5dedfbaf",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "199a0bb4e44b5127acc3a9bedff8385eff4d7e18c5c8992abd523027c4b60caf",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 139.0
+    "seconds": 12.1
    },
-   "revision": 2,
-   "signature": "84f8QyMV8isoj2lBaqcxONwJNZp1D3p9RRQXLlcfTnsoef7itTE-Ljs5pHaIpfXRT6cvSlvfhQJ7sdPAI1xcBg",
+   "revision": 3,
+   "signature": "bLx8P9KTHYsTUkbAKlpCjrP03A3olg_BTklUdSZGb58GyDsEfQUcDHj85QVTWo8BJNC9ZQWHUTx44M_-gaFpDw",
    "subject_key": "live:mountain-goats:1995-01-15:the-chameleon",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:07:55.265685"
+   "updated_at": "2026-10-24T21:37:00.035161"
   }
  },
  "recommended": {

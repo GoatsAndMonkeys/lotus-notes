@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -131,7 +131,7 @@
       "stats": {
        "bustout": true,
        "days_since": 3427,
-       "gap_shows": 82,
+       "gap_shows": 80,
        "last_played": {
         "date": "1997-04-04",
         "show": "live:mountain-goats:1997-04-04:the-duke-coffeehouse"
@@ -206,8 +206,8 @@
         "date": "2005-10-28",
         "show": "live:mountain-goats:2005-10-28:fuel-rocket-club-dartmouth-college"
        },
-       "plays_before": 28,
-       "total_plays": 84
+       "plays_before": 27,
+       "total_plays": 82
       },
       "title": "Jenny"
      },
@@ -230,7 +230,7 @@
       "stats": {
        "bustout": true,
        "days_since": 4140,
-       "gap_shows": 92,
+       "gap_shows": 90,
        "last_played": {
         "date": "1995-04-22",
         "show": "live:mountain-goats:1995-04-22:fast-forward-ii-doornroosje-nijmegen-netherlands"
@@ -251,8 +251,8 @@
      "first_in_archive": [
       "Moon Over Goldsboro"
      ],
-     "show_number": 96,
-     "shows_in_archive": 467,
+     "show_number": 94,
+     "shows_in_archive": 463,
      "songs": 10,
      "stats_complete": true
     },
@@ -261,19 +261,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.163313+00:00",
+    "generated_at": "2026-10-24T22:01:49.174004+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "rgsayeZk7hyeLONF8xEUzbz7AAwSQ9DJGa1yU2tjljczVVyPvKO_z9kUJjuo4ZUBdw70lyPi18Gxs-zcBDV-Bw",
+   "revision": 5,
+   "signature": "89Ykj7mZSx2akOXz0JXD3MvlauWbvKKhwBq2oEIsTPWxa0YFXJxdyoGzJslPjf63KvyU90jNPV78_tOlr0QhCg",
    "subject_key": "live:mountain-goats:2006-08-22:amoeba-music",
-   "updated_at": "2026-10-23T22:48:28.163530"
+   "updated_at": "2026-10-24T22:01:49.174772"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Standard Bitter Love Song #4**: back after 82 archived shows (3427 days); rare: 3 archived performances [2]\n- **Golden Boy**: rare: 7 archived performances [2]\n- **One Fine Day**: back after 92 archived shows (4140 days); rare: 6 archived performances [2]\n- Earliest performances in the archive: Moon Over Goldsboro [2]\n\n## The recordings\n\n- **tmg2006-08-22** (recommended): source not stated; 10 songs; 37 min [1]\n\n## Tapers and lineage\n\n- **tmg2006-08-22**: taped by Chris Bellew; transferred by Chris Bellew; source: SP-CMC-2>SP-SPSB-1>iRiver ihp-140 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -294,7 +294,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2006-08-24",
-     "quote_or_claim": "The recording tmg2006-08-22 is a 37-minute tape of 10 songs, recorded and transferred by Chris Bellew, and is the only recording for this show.",
+     "quote_or_claim": "10-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Amoeba Music on 2006-08-22",
      "url": "https://archive.org/details/tmg2006-08-22",
@@ -309,7 +309,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 96 of 467 in the archive for Mountain Goats, following a show on 2006-08-21 at KEXP Radio; song stats indicate 'Moon Over Goldsboro' is first in archive, 'Standard Bitter Love Song #4' is a bustout (first in 82 shows, 3…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -319,31 +319,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2006-08-22:amoeba-music"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 3,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "a3b5581b8ceeee835991a8049932bf398d62c011180952509a20eb8f1c755f95",
-    "generated_at": "2026-10-24T09:03:28.784793+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T20:49:43.042670+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "cda80fa510c7bf6ea45b839f51a31c17129b62f8c5277ce1a1bc4a3962372dd2",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sentence without a source marker: 'This recording captures Mountain Goats performing on Tuesday, August 22, 2006, a'",
-     "sentence without a source marker: 'Several tracks in this set are notable for their scarcity in the archive.'"
-    ],
-    "seconds": 122.9
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "hnqRYjxkA8nRTmf7ebgkKsj2AWY18BnfvWSBzrxx55Csgm2EAiZPop2Z1DxwTA675FwZtsql0wgij3IxXBjpCA",
+   "revision": 2,
+   "signature": "pwpgKGNNuiJWbMDb2ejFNQ40OCH6hmoEHVK8I2F2KtlfoAGN9HEf0MtymJ619l5kPZBNUjW9ZOdLxrslxJmKDw",
    "subject_key": "live:mountain-goats:2006-08-22:amoeba-music",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:03:28.787316"
+   "updated_at": "2026-10-24T20:49:43.043495"
   }
  },
  "recommended": {

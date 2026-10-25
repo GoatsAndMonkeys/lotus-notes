@@ -36,7 +36,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -195,8 +195,8 @@
         "date": "2009-12-02",
         "show": "live:mountain-goats:2009-12-02:bell-house"
        },
-       "plays_before": 17,
-       "total_plays": 31
+       "plays_before": 16,
+       "total_plays": 30
       },
       "title": "There Will Be No Divorce"
      },
@@ -209,8 +209,8 @@
         "date": "2013-10-13",
         "show": "live:mountain-goats:2013-10-13:peoples-place-paradiso-amsterdam"
        },
-       "plays_before": 28,
-       "total_plays": 229
+       "plays_before": 27,
+       "total_plays": 227
       },
       "title": "Up the Wolves"
      }
@@ -225,8 +225,8 @@
       "There Will Be No Divorce"
      ],
      "first_in_archive": [],
-     "show_number": 193,
-     "shows_in_archive": 467,
+     "show_number": 191,
+     "shows_in_archive": 463,
      "songs": 8,
      "stats_complete": true
     },
@@ -235,19 +235,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.268759+00:00",
+    "generated_at": "2026-10-24T22:01:49.422944+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "2NrqlzETi1IY4YVsr8gHFcKtgRQW7C5PwF0IxAN4172hk4bW3PN7v_qOFzrXxWGKAKSb0DBIn7OkgOW_0bqfBQ",
+   "revision": 6,
+   "signature": "MwP1p0N5ZN8A8Ptmu-KB7Ck_SEf0ezF2mck_1qBqrUQTMsPBkplR2fpmflDUnVIX5NyHzZTYPHIxJsia2nebDg",
    "subject_key": "live:mountain-goats:2014-04-19:lauries-planet-of-sound-chicago",
-   "updated_at": "2026-10-23T22:48:28.268971"
+   "updated_at": "2026-10-24T22:01:49.423444"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Sign of the Crow 2**: back after 53 archived shows (1849 days); rare: 6 archived performances [2]\n- **Surrounded**: rare: 14 archived performances [2]\n- **Elijah**: back after 35 archived shows (1112 days) [2]\n- **Shower**: back after 38 archived shows (1117 days); rare: 7 archived performances [2]\n- **There Will Be No Divorce**: back after 43 archived shows (1599 days) [2]\n\n## The recordings\n\n- **tmg2014-04-19.lauries** (recommended): audience recording; 8 songs; 26 min [1]\n\n## Tapers and lineage\n\n- **tmg2014-04-19.lauries**: taped by The Annotated Mountain Goats; source: Audience recording [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -263,7 +263,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2024-02-19",
-     "quote_or_claim": "The recording is an audience tape of 8 songs lasting 26 minutes, taped by The Annotated Mountain Goats, and is the only recording of the show.",
+     "quote_or_claim": "8-song AUD recording (description setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Laurie's Planet of Sound, Chicago on 2014-04-19",
      "url": "https://archive.org/details/tmg2014-04-19.lauries",
@@ -278,7 +278,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The show is 193 of 467 in the archive; the previous show was in Amsterdam in 2013; song stats indicate bustouts and rarity counts for Sign of the Crow 2, Surrounded, Elijah, Shower, and There Will Be No Divorce.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -288,30 +288,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2014-04-19:lauries-planet-of-sound-chicago"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "d50216dbda721df030241e418b279ffdf759be4c203e3faa6d419a1d381c7b08",
-    "generated_at": "2026-10-24T06:24:30.558708+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T22:00:28.685048+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "81912ce45a7d24a741e64a9c31d5aff7f04f8f3d41fed3b720c2ea6db31c7682",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sentence without a source marker: 'Several tracks in the set are notable for their rarity within the archive.'"
-    ],
-    "seconds": 163.2
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "i-VbIniN5jBX0I6u11Upf_2O_LUr-qzPs00iaqv_ZWsD7yMpEWt7wwWRwSCbUdUf2G6ihZotkzETX-V55ilzAQ",
+   "revision": 2,
+   "signature": "dxCXy9AfiC7RmZQJRLXnkTa32cyl8Ce40vvLy39XeNpL2jA0ohMVtSvy8aZxnccKMt5Zh84DaZVlg4d2fjwpAw",
    "subject_key": "live:mountain-goats:2014-04-19:lauries-planet-of-sound-chicago",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T06:24:30.563543"
+   "updated_at": "2026-10-24T22:00:28.686328"
   }
  },
  "recommended": {

@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -213,8 +213,8 @@
      "first_in_archive": [
       "outrro"
      ],
-     "show_number": 120,
-     "shows_in_archive": 467,
+     "show_number": 118,
+     "shows_in_archive": 463,
      "songs": 8,
      "stats_complete": true
     },
@@ -223,19 +223,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.189620+00:00",
+    "generated_at": "2026-10-24T22:01:49.242263+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "RIgGwT26vnepOOe9coOYs8ugKqbDNznfySS8KFsHwbXyRu8QneJntyr7VNmerf35AelG6-aCvPPz_zdrrtsqDw",
+   "revision": 6,
+   "signature": "cr-SCbZC5B75HFpG8auzTn_TfaRmue0gDimRxaMT39iYjh4ThDg_wPHVu9AmHS2huNn3IiDvcjXOEUP5IjGPDQ",
    "subject_key": "live:mountain-goats:2008-03-11:npr-soundcheck",
-   "updated_at": "2026-10-23T22:48:28.189822"
+   "updated_at": "2026-10-24T22:01:49.242841"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Intro (over Heretic Pride)**: rare: 14 archived performances [2]\n- **Interview 1**: back after 24 archived shows (568 days); rare: 7 archived performances [2]\n- **Interview 2**: back after 24 archived shows (568 days); rare: 7 archived performances [2]\n- **interview 3**: back after 24 archived shows (568 days); rare: 5 archived performances [2]\n- **outrro**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tmg2008-03-11** (recommended): source not stated; 8 songs; 25 min [1]\n\n## Tapers and lineage\n\n- **tmg2008-03-11**: Session recorded March 11, 2008, promoting the album Heretic Pride [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -244,7 +244,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-01-18",
-     "quote_or_claim": "The recording is a radio session promoting the album Heretic Pride, recorded on March 11, 2008, and contains eight songs.",
+     "quote_or_claim": "8-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at NPR Soundcheck on 2008-03-11",
      "url": "https://archive.org/details/tmg2008-03-11",
@@ -259,7 +259,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The setlist includes rare and bustout segments, with outrro being the only archived performance, and this is show 120 of 467 in the archive.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -269,28 +269,39 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg2008-03-11",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Session recorded March 11, 2008, promoting the album Heretic Pride",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2008-03-11:npr-soundcheck"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 1,
     "facts_hash": "f22be38ff3de4a9df15dbd7b3c608ed136c65ca5bb649167da619bff758e1228",
-    "generated_at": "2026-10-24T13:00:48.587920+00:00",
+    "generated_at": "2026-10-24T22:00:49.980526+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "1b884db457a6cd2bbd43490ddbc3292e81150436c4ba6c81ca041409e90fabb9",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "fb9891e42b1969ea7f7441ae26332693ccfee41b27db348d9635b8680c94fbbe",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 38.6
+    "seconds": 6.5
    },
-   "revision": 1,
-   "signature": "0l9P4o0fm4IBIa3ysUIZZBm-EoZw6LVNFA6d3HxgkKTUPN6cIq00tlIyf79b7EJQlXBDWs5fyW1JychwyLDoAQ",
+   "revision": 2,
+   "signature": "J508p7IE1MXge2_hzsiM_Ve0EUMrV_sgJNwq825CLN59KhHhZy63aPjIOKSo62EnE_WKjE0nWfZz54349hDdBw",
    "subject_key": "live:mountain-goats:2008-03-11:npr-soundcheck",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T13:00:48.591151"
+   "updated_at": "2026-10-24T22:00:49.981900"
   }
  },
  "recommended": {

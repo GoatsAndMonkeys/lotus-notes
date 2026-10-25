@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -101,7 +101,7 @@
         "show": "live:mountain-goats:2006-06-13:bottom-of-the-hill"
        },
        "plays_before": 1,
-       "total_plays": 98
+       "total_plays": 97
       },
       "title": "Woke Up New"
      },
@@ -119,7 +119,7 @@
       "stats": {
        "bustout": true,
        "days_since": 1151,
-       "gap_shows": 49,
+       "gap_shows": 48,
        "last_played": {
         "date": "2003-06-27",
         "show": "live:mountain-goats:2003-06-27:mains-doeuvres"
@@ -166,7 +166,7 @@
       "stats": {
        "bustout": true,
        "days_since": 671,
-       "gap_shows": 29,
+       "gap_shows": 28,
        "last_played": {
         "date": "2004-10-19",
         "show": "live:mountain-goats:2004-10-19:village-tavern"
@@ -199,8 +199,8 @@
       "Interview 3",
       "Interview 4"
      ],
-     "show_number": 95,
-     "shows_in_archive": 467,
+     "show_number": 93,
+     "shows_in_archive": 463,
      "songs": 8,
      "stats_complete": true
     },
@@ -209,19 +209,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.162710+00:00",
+    "generated_at": "2026-10-24T22:01:49.172272+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "V5e_D_oHDW5jh4HK929p7IQW7oD9Nr8W-X48ZF8o2EGNZY5-RtytHuah_KoMv_62RuMIhS8-XOf5Q7wp8awGCA",
+   "revision": 5,
+   "signature": "A8jfv_LkMNvng1Suqd5-a7W0EgQroctLqzB9LtqwEcVVwEQWlZP2daJdju3o8ir54MrbVil3jTKugymaPd-uBQ",
    "subject_key": "live:mountain-goats:2006-08-21:kexp-radio",
-   "updated_at": "2026-10-23T22:48:28.162914"
+   "updated_at": "2026-10-24T22:01:49.172815"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Interview 1**: earliest performance in the archive; rare: 7 archived performances [2]\n- **Soft Targets**: back after 49 archived shows (1151 days) [2]\n- **Interview 2**: earliest performance in the archive; rare: 7 archived performances [2]\n- **Interview 3**: earliest performance in the archive; rare: 5 archived performances [2]\n- **Alpha Omega**: back after 29 archived shows (671 days) [2]\n- **Interview 4**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **tmg2006-08-21.aud.320mp3** (recommended): audience recording; 8 songs; 28 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -230,7 +230,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-03-19",
-     "quote_or_claim": "The recording is an audience capture of 8 songs lasting 28 minutes from a show at KEXP Radio in Seattle on August 21, 2006, featuring specific songs and interviews.",
+     "quote_or_claim": "8-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at KEXP Radio on 2006-08-21",
      "url": "https://archive.org/details/tmg2006-08-21.aud.320mp3",
@@ -245,7 +245,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 95 of 467 in the archive, with the previous archived show occurring on August 10, 2006, at the 40 Watt Club.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -255,28 +255,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2006-08-21:kexp-radio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "74c3954490de62e0d939e71be7e9f09b84aa5bf8d7c6cef9ff0e0c6a7750f1a1",
-    "generated_at": "2026-10-24T12:58:24.684048+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:56:16.737694+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "630b173eb3c5e10b9a49754b55be8e3ec17eaa7987cddb9dffffa613df4c4057",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 34.7
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "cYjURCRNYRQYK_eb6Mi9WbS8YhlBZxyy_NXlYGE9fmwwm6cQylVC5u888pkl-rNBUs3w8L2sANXJcI8fnZ5MAA",
+   "revision": 2,
+   "signature": "fDvTMDEnTn3H05c0kO3VHF1QAp9YWxnYLYryvGd-T_KwA9WPx4Pv348IJrsVvDD3GHxHDkzwYchsFwE4aTu5Cg",
    "subject_key": "live:mountain-goats:2006-08-21:kexp-radio",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:58:24.688905"
+   "updated_at": "2026-10-24T21:56:16.739984"
   }
  },
  "recommended": {

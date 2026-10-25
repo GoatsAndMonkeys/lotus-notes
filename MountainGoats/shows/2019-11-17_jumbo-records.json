@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -101,7 +101,7 @@
         "show": "live:mountain-goats:2019-11-17:the-brudenell"
        },
        "plays_before": 16,
-       "total_plays": 48
+       "total_plays": 47
       },
       "title": "Clemency For The Wizard King"
      },
@@ -109,7 +109,7 @@
       "key": "song:mountain-goats:high-hawk-season",
       "stats": {
        "days_since": 352,
-       "gap_shows": 29,
+       "gap_shows": 28,
        "last_played": {
         "date": "2018-11-30",
         "show": "live:mountain-goats:2018-11-30:haw-river-ballroom"
@@ -142,8 +142,8 @@
         "date": "2019-09-13",
         "show": "live:mountain-goats:2019-09-13:the-fillmore"
        },
-       "plays_before": 88,
-       "total_plays": 119
+       "plays_before": 86,
+       "total_plays": 117
       },
       "title": "See America Right"
      },
@@ -184,8 +184,8 @@
         "date": "2019-11-17",
         "show": "live:mountain-goats:2019-11-17:the-brudenell"
        },
-       "plays_before": 113,
-       "total_plays": 229
+       "plays_before": 112,
+       "total_plays": 227
       },
       "title": "Up The Wolves"
      }
@@ -195,8 +195,8 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 299,
-     "shows_in_archive": 467,
+     "show_number": 296,
+     "shows_in_archive": 463,
      "songs": 7,
      "stats_complete": true
     },
@@ -205,19 +205,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.372320+00:00",
+    "generated_at": "2026-10-24T22:01:49.761581+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "0JjAIi0B05WkAz9Ts0tuZ5r9dCBUsngt4obxofrjkVXM5fXSBhwyWDEIULD1jGMzJF-WuJaQmef4M42yzjTVAA",
+   "revision": 6,
+   "signature": "vF07fx5eGQzwX8Pj5b1R179R0ZwkCaJ25dCzaA_D7LEFfZK_tJCVOWKtH7u6s7F3iZqyTBvdR43nYUC6VS8bAA",
    "subject_key": "live:mountain-goats:2019-11-17:jumbo-records",
-   "updated_at": "2026-10-23T22:48:28.372518"
+   "updated_at": "2026-10-24T22:01:49.762098"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## The recordings\n\n- **tmg2019-11-17.wav** (recommended): source not stated; 7 songs; 25 min [1]. Said about its sound: Audio quality is superior to the previous night, though the uploader's voice is distracting [1]\n\n## Around the show\n\n- The concert took place inside Jumbo Records in Leeds [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -226,7 +226,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2019-11-26",
-     "quote_or_claim": "The recording was made in store at Jumbo Records in Leeds, has better quality than night one, includes seven songs, and lasts 25 minutes.",
+     "quote_or_claim": "7-song unlabelled recording (filenames setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Jumbo Records on 2019-11-17",
      "url": "https://archive.org/details/tmg2019-11-17.wav",
@@ -241,38 +241,57 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 299 of 467 in the archive's collection for Mountain Goats, the previous archived show was at The Brudenell on 2019-11-17, and the setlist includes the seven specified songs.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The concert took place inside Jumbo Records in Leeds",
+      "type": "scene"
+     },
+     {
+      "recording": "tmg2019-11-17.wav",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Audio quality is superior to the previous night, though the uploader's voice is distracting",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2019-11-17:jumbo-records"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "33e21e18e9509acbc20943e815ac1e7d25127c994f059f250bfa0385d4ebce86",
-    "generated_at": "2026-10-24T12:59:04.708684+00:00",
+    "generated_at": "2026-10-24T21:59:29.829643+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "7b823c86ab1b2b8009bc6945cf20ba3adfeabf9670fce56185b63295ae6b3457",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "6e393c2eb1f2f01589eef4fe05d0e3b71b4170235aa01847c26474429e8a3bbf",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 40.0
+    "seconds": 8.7
    },
-   "revision": 1,
-   "signature": "K7h_X2hCRN0ZxIDlu7OCvnfvWoRrakSImH3ak_z4QxmG4fOQ0p2WP-2gEbOf239egNyW7mvbSMeM93TX1LOvCw",
+   "revision": 2,
+   "signature": "9ofdKKmN2xk5sM1HYBL3osNw3ZjZNGBr15OXUNWD91ci2ufXjBUuCA73EghCJpk1dGnMveW7yMPPiJmDOYjpCQ",
    "subject_key": "live:mountain-goats:2019-11-17:jumbo-records",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:59:04.712732"
+   "updated_at": "2026-10-24T21:59:29.835195"
   }
  },
  "recommended": {

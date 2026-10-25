@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -109,7 +109,7 @@
       "mountain3"
      ],
      "show_number": 11,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 1,
      "stats_complete": true
     },
@@ -118,19 +118,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.089317+00:00",
+    "generated_at": "2026-10-24T22:01:48.932272+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "QdIwcAV74-ghl50ehej18G2hNreQUnI7SoI_Kb_A77nk2960aZJgYaJ3cjMiTzsfsVSTku4Us9x0utnhc5AyDg",
+   "revision": 5,
+   "signature": "yTDztpSycAOw46CapI_4YgiN-Nmeg53ktygWlf6DEl0jgoTQVQoSI2CpgGxGnH-jxkYYwPDliiruSTP2cRrYBw",
    "subject_key": "live:mountain-goats:1996-11-09:zwijnzicht-dordrecht",
-   "updated_at": "2026-10-23T22:48:28.089491"
+   "updated_at": "2026-10-24T22:01:48.933003"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **mountain3**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tmg1996-11-09** (recommended): source not stated; 1 songs; 48 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -139,7 +139,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2025-05-11",
-     "quote_or_claim": "The recording tmg1996-11-09 is a 48-minute file containing one song titled mountain3, uploaded with the description 'Mountain Goats Live at Zwijnzicht, Dordrecht on 1996-11-09'.",
+     "quote_or_claim": "1-song unlabelled recording (filenames setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Zwijnzicht, Dordrecht on 1996-11-09",
      "url": "https://archive.org/details/tmg1996-11-09",
@@ -154,7 +154,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This show is the 11th of 467 in the archive's collection for Mountain Goats, following a previous show on 1996-11-07 at VPRO.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -164,28 +164,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:1996-11-09:zwijnzicht-dordrecht"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "6df950720989d151838dd99db58436d37edc954f60c1b44451e296ee4385fa1b",
-    "generated_at": "2026-10-24T13:03:31.712023+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:59:29.845913+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "a184cd50d65a87e9bfcefe646f107ed2a2b20b6fb9587ed52e797a0b31f5c7e9",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 39.8
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "j8vJM2PBj0r9oh386wlhhtSLVm9HXF4oy_Wx6uuMh1hKJQK6ynyu2eD7ppXoh_eOQx91GfjzjJwz3n3JC8usBA",
+   "revision": 2,
+   "signature": "8o-eVOJz7A_lL0JecY70JprpNWZf8xBv2NmAVIVsKAmeFNf89mmhc92tUVypBTg3VJtXnuBItUfh20FQEBpxDQ",
    "subject_key": "live:mountain-goats:1996-11-09:zwijnzicht-dordrecht",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T13:03:31.715828"
+   "updated_at": "2026-10-24T21:59:29.847752"
   }
  },
  "recommended": {

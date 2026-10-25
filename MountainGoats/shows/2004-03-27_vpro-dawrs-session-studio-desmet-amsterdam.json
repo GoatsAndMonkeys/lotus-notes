@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -136,7 +136,7 @@
         "show": "live:mountain-goats:2004-02-20:wills-pub"
        },
        "plays_before": 6,
-       "total_plays": 48
+       "total_plays": 47
       },
       "title": "Your Belgian Things"
      },
@@ -162,7 +162,7 @@
       "key": "song:mountain-goats:alpha-omega",
       "stats": {
        "days_since": 500,
-       "gap_shows": 18,
+       "gap_shows": 17,
        "last_played": {
         "date": "2002-11-13",
         "show": "live:mountain-goats:2002-11-13:opalis"
@@ -202,8 +202,8 @@
       "The Boys Are Back In Town",
       "DJ Closing"
      ],
-     "show_number": 57,
-     "shows_in_archive": 467,
+     "show_number": 56,
+     "shows_in_archive": 463,
      "songs": 8,
      "stats_complete": true
     },
@@ -214,19 +214,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.131439+00:00",
+    "generated_at": "2026-10-24T22:01:49.067183+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "6Ngx1pkefHSsyjReyxx94cmWnqIdt10k-hMsqyJmCjUnetx2lmygMIAI40uiMTttZc2qq4aFdu6zYwcHXWPeDw",
+   "revision": 7,
+   "signature": "O_6g_hp7IxVPtoQB62MQtxqTbszpbB5dxqm_V0Ts6EHJyet_ZYwMMfCswRcDTF5TVEug0QnoOghEFbYqbXiqCQ",
    "subject_key": "live:mountain-goats:2004-03-27:vpro-dawrs-session-studio-desmet-amsterdam",
-   "updated_at": "2026-10-23T22:48:28.131633"
+   "updated_at": "2026-10-24T22:01:49.067762"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Jingle**: earliest performance in the archive; legendary: the only archived performance [2]\n- **New World Merging Blues**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Going To Cleveland**: earliest performance in the archive; rare: 8 archived performances [2]\n- **The Boys Are Back In Town**: earliest performance in the archive; rare: 5 archived performances [2]\n- **DJ Closing**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tmg2004-03-27.FM** (recommended): FM broadcast; 8 songs; 35 min [1]\n\n## Around the show\n\n- Stage talk about: DJ [1]\n\n## Tapers and lineage\n\n- **tmg2004-03-27.FM**: taped by straap; transferred by straap; source: Cable FM > MD [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -247,7 +247,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2022-04-07",
-     "quote_or_claim": "The recording is an FM broadcast from 27 March 2004 at VPRO DAWRS Session Studio DeSmet in Amsterdam, taped by straap, with a lineage of Cable FM > MD > HDD > WAV > Flac, and a broadcast date of 30 September 2004.",
+     "quote_or_claim": "8-song FM recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at VPRO DAWRS Session Studio DeSmet, Amsterdam on 2004-03-27",
      "url": "https://archive.org/details/tmg2004-03-27.FM",
@@ -262,7 +262,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The setlist includes Jingle, Cotton, Your Belgian Things, New World Merging Blues, Going To Cleveland, Alpha Omega, The Boys Are Back In Town, and DJ Closing; Jingle, New World Merging Blues, and DJ Closing are the only archived…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -272,28 +272,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2004-03-27:vpro-dawrs-session-studio-desmet-amsterdam"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "1405e7239a0a94e0f33f77f2270603b9890dfd6ca1c8302c11d5a5516edb80c2",
-    "generated_at": "2026-10-24T03:40:02.023742+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:57:19.338471+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "8fc36592e940a6bc247808a5eb87e7960f5191c1ad78b29c105ef258f0389070",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 88.0
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "d3H0mnFus1BN62al3v8t1w2KTseSPmH18NCGIUsNEWy45OuqhHXAJDvjr1C0aTGdkyl2N7_P8kPotMqIdUCACw",
+   "revision": 2,
+   "signature": "Kbms2jCmdwX55Lj12IsHLXS_9hVE-BQgmvrFAPgZAnuZ8OW3xrIi-3WrF6SxLGSypzl0TZtnwLTTaUkB-mXNDw",
    "subject_key": "live:mountain-goats:2004-03-27:vpro-dawrs-session-studio-desmet-amsterdam",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T03:40:02.025285"
+   "updated_at": "2026-10-24T21:57:19.339482"
   }
  },
  "recommended": {

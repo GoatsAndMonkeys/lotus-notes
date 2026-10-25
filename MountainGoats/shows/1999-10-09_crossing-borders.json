@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -217,7 +217,7 @@
         "show": "live:mountain-goats:1999-07-23:cbgbs"
        },
        "plays_before": 13,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going to Georgia"
      },
@@ -240,7 +240,7 @@
         "show": "live:mountain-goats:1997-07-16:capitol-theater"
        },
        "plays_before": 2,
-       "total_plays": 18
+       "total_plays": 17
       },
       "title": "Black Molly"
      },
@@ -275,7 +275,7 @@
       "Two-Headed Boy (Neutral Milk Hotel cover)"
      ],
      "show_number": 25,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 13,
      "stats_complete": true
     },
@@ -284,19 +284,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.099248+00:00",
+    "generated_at": "2026-10-24T22:01:48.972262+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "Ivghl7wfYdtf67aaX5S7poBZlV05_YmQgozE6wMuFl62f05-FdNkp18tjiVfM-g5uru2K4xVG_chOLEvkVVDBg",
+   "revision": 5,
+   "signature": "sdGEpn9ZMDtCjBFU4B0m7w3aiXEGBu81skiWNNmU_Gxd9ytJj4kRXzHTB7pEKThZJUvRkLTtqomsLwFN65nvDQ",
    "subject_key": "live:mountain-goats:1999-10-09:crossing-borders",
-   "updated_at": "2026-10-23T22:48:28.099477"
+   "updated_at": "2026-10-24T22:01:48.972831"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Two-Headed Boy (Neutral Milk Hotel cover)** (1 review): The band covered the Neutral Milk Hotel track, though the singer missed some lyrics [2]\n\n## Setlist highlights\n\n- **Somebody Else's Parking Lot in Santa Cruz (The Extra Glenns)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **West Country Dream**: rare: 10 archived performances [3]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [3]\n- **No, I Can't**: rare: 13 archived performances [3]\n- **Standard Bitter Love Song #1**: earliest performance in the archive; rare: 4 archived performances [3]\n- **Doctor Wu (Steely Dan cover)**: rare: 4 archived performances [3]\n- **You're in Maya**: rare: 9 archived performances [3]\n- **Jam Eater Blues**: earliest performance in the archive; rare: 9 archived performances [3]\n\n## The recordings\n\n- **tmg1999-10-09.aud.192mp3** (recommended): audience recording; 13 songs; 37 min; rated 5/5 by 1 [1]. Said about its sound: The recording is described as simultaneously the best and worst the reviewer has heard [2]\n\n## Around the show\n\n- Going to Georgia, Prana Ferox, and Standard Bitter Love Song played better than ever [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -305,7 +305,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-15",
-     "quote_or_claim": "The recording is an audience recording of 13 songs from a show on October 9, 1999, at Crossing Borders in Amsterdam, and is rated 5/5 by one listener.",
+     "quote_or_claim": "13-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Crossing Borders on 1999-10-09",
      "url": "https://archive.org/details/tmg1999-10-09.aud.192mp3",
@@ -317,7 +317,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "A 2016 review of the recording tmg1999-10-09.aud.192mp3 describes it as both the best and worst heard, praising the cover of 'Two-Headed Boy' despite lyrical errors and noting that 'Going to Georgia,' 'Prana Ferox,' and 'Standard Bitter…",
+     "claim": "The band covered the Neutral Milk Hotel track, though the singer missed some lyrics",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-03-16",
@@ -336,7 +336,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 25 of 467 in the archive's collection for Mountain Goats, and the previous archived show was on July 23, 1999, at CBGBs.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -346,28 +346,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Two-Headed Boy (Neutral Milk Hotel cover)",
+      "song_key": "song:mountain-goats:two-headed-boy",
+      "src": 2,
+      "text": "The band covered the Neutral Milk Hotel track, though the singer missed some lyrics",
+      "type": "song"
+     },
+     {
+      "recording": "tmg1999-10-09.aud.192mp3",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The recording is described as simultaneously the best and worst the reviewer has heard",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Going to Georgia, Prana Ferox, and Standard Bitter Love Song played better than ever",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1999-10-09:crossing-borders"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "b34ccaafff2b4f6313e34e7f87abf9e9c1295921bd0f74fa2d017e568f8caf2e",
-    "generated_at": "2026-10-24T00:58:45.268926+00:00",
+    "generated_at": "2026-10-24T21:15:55.357278+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "8428720ae5a12e8d7072c6aba981a4ae0e8244fccdd8c958740facc2b6f94a1f",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "a854310c078989f82e8f74a9e3cc713fb71450d9a6620db500fc599c23ea8830",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 81.6
+    "seconds": 13.5
    },
-   "revision": 1,
-   "signature": "Ike3cXaSy_hAlPKA5Nxy4F86ulAn4xF22YeHCW_ygUw5PsuJYOKlZ-g8NMOxA9FqntVwfFggFylCI5jF_1JgAw",
+   "revision": 2,
+   "signature": "yzLN4OWTBCNb_2-w4G4Pj3ecH64Rs6CqLE7sX2SQ0RTwxiF9_cPJipKPBl7iMJIwiYmK83ZVsqNnSVMXwWF-Cg",
    "subject_key": "live:mountain-goats:1999-10-09:crossing-borders",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:58:45.269656"
+   "updated_at": "2026-10-24T21:15:55.358251"
   }
  },
  "recommended": {

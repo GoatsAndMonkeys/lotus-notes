@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -145,7 +145,7 @@
         "show": "live:mountain-goats:1995-01-15:the-chameleon"
        },
        "plays_before": 1,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going to Georgia"
      },
@@ -159,7 +159,7 @@
         "show": "live:mountain-goats:1995-01-15:the-chameleon"
        },
        "plays_before": 1,
-       "total_plays": 38
+       "total_plays": 37
       },
       "title": "The Recognition Scene"
      },
@@ -307,7 +307,7 @@
       "Going to Scotland"
      ],
      "show_number": 3,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 16,
      "stats_complete": true
     },
@@ -316,19 +316,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 3,
+   "parent_revision": 4,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.083342+00:00",
+    "generated_at": "2026-10-24T22:01:48.903936+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 4,
-   "signature": "QPnYsoGL9uVNfqz-qn9mHGebKtNnLye-SlAXxMebzKpDJv1dJKV31AB6BubGQrC-W8XbRRXFxUSMu9ibCiBfDg",
+   "revision": 5,
+   "signature": "CeU29rC4FDpCco74mNGO3MdkfdGiQa-ohFUcYksNdxHqLByg2sQ1PusUocHf5UTygEGpBwfFj4waIuCPyLigBA",
    "subject_key": "live:mountain-goats:1995-04-22:fast-forward-ii-doornroosje-nijmegen-netherlands",
-   "updated_at": "2026-10-23T22:48:28.083587"
+   "updated_at": "2026-10-24T22:01:48.905265"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **One Fine Day (The Chiffons)**: earliest performance in the archive; rare: 6 archived performances [2]\n- **Downtown Seoul**: rare: 12 archived performances [2]\n- **Going to Palestine**: rare: 10 archived performances [2]\n- **Song for Cleomenes**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Alabama Nova**: rare: 3 archived performances [2]\n- **Alpha Double Negative: Going to Catalina**: earliest performance in the archive; rare: 12 archived performances [2]\n- **Then the Letting Go**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Seeing Daylight**: earliest performance in the archive; rare: 13 archived performances [2]\n- Earliest performances in the archive: Going to Jamaica [2]\n\n## The recordings\n\n- **tMG1995-04-22** (recommended): source not stated; 16 songs; 45 min [1]\n\n## Around the show\n\n- John and Rachel performed at the second Fast Forward festival in Nijmegen [1]\n\n## Tapers and lineage\n\n- **tMG1995-04-22**: taped by Gregor Kessler; transferred by notasfarwest [1]. Also: The recording was uploaded by a user with the identifier tMG1995-04-22 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -349,7 +349,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2020-04-22",
-     "quote_or_claim": "This is the only recording of this specific event.",
+     "quote_or_claim": "16-song unlabelled recording (description setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Fast Forward II, Doornroosje, Nijmegen, Netherlands on 1995-04-22",
      "url": "https://archive.org/details/tMG1995-04-22",
@@ -364,7 +364,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "“Song for Cleomenes” and “Then the Letting Go” are among the rarest available in the archive.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -374,28 +374,47 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John and Rachel performed at the second Fast Forward festival in Nijmegen",
+      "type": "scene"
+     },
+     {
+      "recording": "tMG1995-04-22",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The recording was uploaded by a user with the identifier tMG1995-04-22",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:1995-04-22:fast-forward-ii-doornroosje-nijmegen-netherlands"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "e40f95201baefb4651db1cb16fc1871f148a548f94fcdb890ce0d5cdb20a3a41",
-    "generated_at": "2026-10-24T00:10:15.542783+00:00",
+    "generated_at": "2026-10-24T21:46:22.966935+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "d18eaa55afcb55ed0afa88efd420adeacfb4b89d157c13447de9dd68e27a5205",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "edcdfd2b3f173ea6bfbf1bff8ddb2d65f4345538dad6ced671ee2353b418c2c2",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 140.3
+    "seconds": 10.0
    },
-   "revision": 2,
-   "signature": "xi117lgqDr-VbwTc1l70xKnKRWXrUcEbeKsetcf4ffuw9fRxF3GycOgg3CJs0151F-NFqjO9z_9WsvlkZM0aDA",
+   "revision": 3,
+   "signature": "rU4fmfm1hMMGgquoPjL1KJ9KY-cSXDbe_QL-L75RhQ_y0spJbnZiuT2TFJUREQeiOQbEMXpoRGQ7zG7VHkVpAw",
    "subject_key": "live:mountain-goats:1995-04-22:fast-forward-ii-doornroosje-nijmegen-netherlands",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:10:15.544143"
+   "updated_at": "2026-10-24T21:46:22.968370"
   }
  },
  "recommended": {

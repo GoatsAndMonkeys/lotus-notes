@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -105,7 +105,7 @@
       "stats": {
        "first_in_archive": true,
        "plays_before": 0,
-       "total_plays": 74
+       "total_plays": 73
       },
       "title": "Heretic Pride"
      },
@@ -118,8 +118,8 @@
         "date": "2007-11-15",
         "show": "live:mountain-goats:2007-11-15:empty-bottle"
        },
-       "plays_before": 26,
-       "total_plays": 124
+       "plays_before": 25,
+       "total_plays": 123
       },
       "title": "You Or Your Memory"
      },
@@ -179,8 +179,8 @@
         "date": "2007-11-03",
         "show": "live:mountain-goats:2007-11-03:the-slowdown"
        },
-       "plays_before": 35,
-       "total_plays": 49
+       "plays_before": 34,
+       "total_plays": 48
       },
       "title": "Going To Georgia"
      },
@@ -213,7 +213,7 @@
       "stats": {
        "bustout": true,
        "days_since": 4793,
-       "gap_shows": 114,
+       "gap_shows": 112,
        "last_played": {
         "date": "1995-01-15",
         "show": "live:mountain-goats:1995-01-15:the-chameleon"
@@ -278,8 +278,8 @@
         "date": "2007-11-15",
         "show": "live:mountain-goats:2007-11-15:empty-bottle"
        },
-       "plays_before": 47,
-       "total_plays": 140
+       "plays_before": 46,
+       "total_plays": 138
       },
       "title": "Dance Music"
      },
@@ -292,8 +292,8 @@
         "date": "2007-11-15",
         "show": "live:mountain-goats:2007-11-15:empty-bottle"
        },
-       "plays_before": 31,
-       "total_plays": 313
+       "plays_before": 30,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -342,8 +342,8 @@
       "San Bernardino",
       "Lovecraft In Brooklyn"
      ],
-     "show_number": 117,
-     "shows_in_archive": 467,
+     "show_number": 115,
+     "shows_in_archive": 463,
      "songs": 19,
      "stats_complete": true
     },
@@ -352,19 +352,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.186913+00:00",
+    "generated_at": "2026-10-24T22:01:49.234754+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "F_kDDOa5zxWFQbRoGFT5l85yclQUFUGMK6s8snPZ7Fj--e-M2ICxF83Pbv4SUZt-Jd2pXNHItXfjaTQ6YwwABA",
+   "revision": 6,
+   "signature": "5CzHV5AGt1Bgkk4r47yND2ca9keRZppD1glM7MH6VmxtLMXW99Q1sHZzGSRxmvdsf39DmsLXL2uCA17pcqNdAA",
    "subject_key": "live:mountain-goats:2008-02-29:bimbos-365",
-   "updated_at": "2026-10-23T22:48:28.187146"
+   "updated_at": "2026-10-24T22:01:49.235341"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **How To Embrace A Swamp Creature**: rare: 11 archived performances [2]\n- **Sinaloan Milk Snake Song**: earliest performance in the archive; rare: 8 archived performances [2]\n- **Marduk T-Shirt Men's Room Incident**: earliest performance in the archive; rare: 6 archived performances; cut on the recording [2]\n- **Waving At You**: back after 37 archived shows (972 days); rare: 12 archived performances [2]\n- **November Love Song**: back after 114 archived shows (4793 days); rare: 3 archived performances [2]\n- Earliest performances in the archive: Michael Myers Resplendent, Heretic Pride, So Desperate, San Bernardino, Lovecraft In Brooklyn [2]\n\n## The recordings\n\n- **tmg2008-02-29.aud.128mp3** (recommended): audience recording; 19 songs; 72 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -373,7 +373,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-03-13",
-     "quote_or_claim": "This is the only recording of the show.",
+     "quote_or_claim": "19-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Bimbo's 365 on 2008-02-29",
      "url": "https://archive.org/details/tmg2008-02-29.aud.128mp3",
@@ -392,34 +392,36 @@
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2008-02-29:bimbos-365"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "b5bbbf976dde48667e7f27f435b210e7ed25726ebcc08f1c55f5dd9bb80fbedf",
-    "generated_at": "2026-10-24T07:36:29.544300+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:49:30.337990+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "3b7651e39bd7e529af5daecb7b3be98f1532413813411f7e3a76206fc2c3b9f4",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 75.2
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "P1kRzTnXLDmTmWFIz3thEI2Oo9IeNeIKs4w1VrYd_-1_JKE4tWS64rr4xT2msqF5zPIAOiTpgiN-7AGHftO_AA",
+   "revision": 2,
+   "signature": "f8683ZnIRV3roEHggzTlAIosC2VcgBha-_XBykYVHzKCckkCa7ZXEaOpjXaMGK8vQcjyLdxhd4N-drgsZv7OCw",
    "subject_key": "live:mountain-goats:2008-02-29:bimbos-365",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T07:36:29.547382"
+   "updated_at": "2026-10-24T21:49:30.339315"
   }
  },
  "recommended": {

@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -195,8 +195,8 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 175,
-     "shows_in_archive": 467,
+     "show_number": 173,
+     "shows_in_archive": 463,
      "songs": 7,
      "stats_complete": true
     },
@@ -205,19 +205,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.254472+00:00",
+    "generated_at": "2026-10-24T22:01:49.388858+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "2j6_yQRspuE41frwniptHnd3mEDTUPgVGjrWO9VpMPe4BGuYHuAbUGRYuZAryUpMpvoNtf4ikbGqq30rlrTFAg",
+   "revision": 6,
+   "signature": "TN5Zv-QFRQUlPIZPkyya5r0sL5DCCbOaUr0cdzPk3fGjYA5JitYJQ9e_C7hzjzNbKI_UOdMVwVycak6PsDglDA",
    "subject_key": "live:mountain-goats:2012-09-19:soundcheck-wnyc-session",
-   "updated_at": "2026-10-23T22:48:28.254658"
+   "updated_at": "2026-10-24T22:01:49.389380"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Interview 1**: rare: 7 archived performances [2]\n- **Interview 2**: rare: 7 archived performances [2]\n- **Interview 3**: rare: 5 archived performances [2]\n- **Counterfeit Florida Plates**: rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2012-09-19** (recommended): source not stated; 7 songs; 30 min [1]\n\n## Around the show\n\n- John Darnielle performed solo to promote the upcoming album Transcendental Youth [1]\n\n## Tapers and lineage\n\n- **tmg2012-09-19**: The session was originally broadcast on September 19th, 2012 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -226,7 +226,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-01-19",
-     "quote_or_claim": "John Darnielle performed solo at WNYC Soundcheck on September 19, 2012, to promote the album Transcendental Youth, featuring songs In Memory of Satan, White Cedar, Thank You Mario But Our Princess is in Another Castle, Counterfeit Florida…",
+     "quote_or_claim": "7-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Soundcheck - WNYC Session on 2012-09-19",
      "url": "https://archive.org/details/tmg2012-09-19",
@@ -241,7 +241,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 175 of 467 in the archive's collection for Mountain Goats, and the previous archived show was on June 30, 2012, at McCabe's Guitar Shop.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -251,28 +251,47 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John Darnielle performed solo to promote the upcoming album Transcendental Youth",
+      "type": "scene"
+     },
+     {
+      "recording": "tmg2012-09-19",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The session was originally broadcast on September 19th, 2012",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2012-09-19:soundcheck-wnyc-session"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "7fc3079b9afd1e78a7bb9d7d43762577240fc39ce3f55fcd4210734c3e80db02",
-    "generated_at": "2026-10-24T12:44:25.780753+00:00",
+    "generated_at": "2026-10-24T22:01:04.860718+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "9ffc7ea1eddcfd23864c0e50bc35f500bed75e5952fdf5fa6caf27a8a9b90977",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "9b04fedfce1b90e5b373297d7167afb4b321122619618c1998bc43729941092d",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 36.0
+    "seconds": 8.7
    },
-   "revision": 1,
-   "signature": "vbUaExykH4SgCHG9Rb5_d8Xu5sIfuxnO8Vzy2DnNkI6K5-BgziGRbMHEJl9L9M9PXLU9gmw8k2P--r_CSqLCCw",
+   "revision": 2,
+   "signature": "AbeRSyfmdPQs54ecuZ4V8XzC9bKV4FkJvdzYzqevv01jPdxT8HhJMKAlIZsDYjSgBxa47djI15ja7VMsqSlPBw",
    "subject_key": "live:mountain-goats:2012-09-19:soundcheck-wnyc-session",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:44:25.785374"
+   "updated_at": "2026-10-24T22:01:04.863180"
   }
  },
  "recommended": {

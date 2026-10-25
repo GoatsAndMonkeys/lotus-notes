@@ -67,7 +67,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 75 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "TheWarOnDrugsMusic collection, Live Music Archive",
      "url": "https://archive.org/details/TheWarOnDrugsMusic",
@@ -182,7 +182,7 @@
         "date": "2011-10-11",
         "show": "live:the-war-on-drugs-music:2011-10-11:kings-barcade"
        },
-       "plays_before": 2,
+       "plays_before": 3,
        "total_plays": 20
       },
       "title": "Your Love Is Calling My Name"
@@ -206,7 +206,7 @@
         "show": "live:the-war-on-drugs-music:2011-10-11:kings-barcade"
        },
        "plays_before": 3,
-       "total_plays": 39
+       "total_plays": 38
       },
       "title": "Come To The City"
      }
@@ -219,7 +219,7 @@
       "The Animator"
      ],
      "show_number": 8,
-     "shows_in_archive": 75,
+     "shows_in_archive": 73,
      "songs": 4,
      "stats_complete": true
     },
@@ -228,16 +228,148 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-24T18:50:21.616462+00:00",
+    "generated_at": "2026-10-25T06:01:16.049688+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "sz5qCxGxV2_vSU-uJHeYFhxdM1LYwxbOBgughA-O8PBuK8hSh0J5CPhgB4E-CHq-njx5oNfkySG7empKrW8CBw",
+   "revision": 2,
+   "signature": "yDfbfn-kMFB-EG2cy1rrPD6eQVu9GMDoMQ9L8VGYeQDBd_GiXQj47qnDrFTYI6P06DZL40gfINSQr4tbzjNcBw",
    "subject_key": "live:the-war-on-drugs-music:2011-10-26:kexp-studios",
-   "updated_at": "2026-10-24T18:50:21.616890"
+   "updated_at": "2026-10-25T06:01:16.049908"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **The Animator**: earliest performance in the archive; rare: 14 archived performances [3]\n\n## The recordings\n\n- **twod2011-10-26.KEXP.24bit** (recommended): FM broadcast; 4 songs; 24 min [1]. Said about its sound: The 24-bit file was normalized and faded before being encoded to FLAC [1]\n- **twod2011-10-26.KEXP.16bit**: FM broadcast; 4 songs; 24 min [2]. Said about its sound: The 16-bit file was dithered and downsampled to 44.1 kHz before encoding [2]\n\n## Tapers and lineage\n\n- **twod2011-10-26.KEXP.24bit**: taped by Dennis Orr; transferred by Dennis Orr; source: KEXP-FM Windows Media stream @ 1.4Mbps > Sound Forge Pro 10.0a @ 24 bit/48 kHz [1]\n- **twod2011-10-26.KEXP.16bit**: taped by Dennis Orr; transferred by Dennis Orr; source: KEXP-FM Windows Media stream @ 1.4Mbps > Sound Forge Pro 10.0a @ 24 bit/48 kHz [2]. Also: Dennis Orr handled the recording and transfer of the 16-bit version [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Dennis Orr",
+     "author_url": "https://archive.org/search?query=taper%3A%22Dennis%20Orr%22",
+     "credits": [
+      {
+       "name": "Dennis Orr",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Dennis%20Orr%22"
+      },
+      {
+       "name": "Dennis Orr",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Dennis%20Orr%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2014-04-19",
+     "quote_or_claim": "4-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Music Live at KEXP Studios on 2011-10-26",
+     "url": "https://archive.org/details/twod2011-10-26.KEXP.24bit",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Dennis Orr",
+     "author_url": "https://archive.org/search?query=taper%3A%22Dennis%20Orr%22",
+     "credits": [
+      {
+       "name": "Dennis Orr",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Dennis%20Orr%22"
+      },
+      {
+       "name": "Dennis Orr",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Dennis%20Orr%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2014-04-19",
+     "quote_or_claim": "4-song FM recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Music Live at KEXP Studios on 2011-10-26",
+     "url": "https://archive.org/details/twod2011-10-26.KEXP.16bit",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "TheWarOnDrugsMusic collection, Live Music Archive",
+     "url": "https://archive.org/details/TheWarOnDrugsMusic",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "twod2011-10-26.KEXP.24bit",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Dennis Orr recorded and transferred the KEXP stream using Sound Forge Pro 10.0a",
+      "type": "lineage"
+     },
+     {
+      "recording": "twod2011-10-26.KEXP.24bit",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The 24-bit file was normalized and faded before being encoded to FLAC",
+      "type": "sound"
+     },
+     {
+      "recording": "twod2011-10-26.KEXP.16bit",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Dennis Orr handled the recording and transfer of the 16-bit version",
+      "type": "lineage"
+     },
+     {
+      "recording": "twod2011-10-26.KEXP.16bit",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The 16-bit file was dithered and downsampled to 44.1 kHz before encoding",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:the-war-on-drugs-music:2011-10-26:kexp-studios"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 4,
+    "facts_hash": "af3c1c1cef32af4ffb82d43354781895439453f9a5e8a6ecb69e49c351408218",
+    "generated_at": "2026-10-25T07:24:09.097805+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "04149830b3f91371c37e140674c2463ba91318be22b819b1e7d4b89143dbc018",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 18.1
+   },
+   "revision": 1,
+   "signature": "P4elvQUQi_NcQ7CleW_yehjqTWiKri0SIQalO5CDUZbBxNBXZ8Zx7n84EqI_2v-KW6iBUwFJ2ZHMKwSdRvwmDQ",
+   "subject_key": "live:the-war-on-drugs-music:2011-10-26:kexp-studios",
+   "updated_at": "2026-10-25T07:24:09.099707"
   }
  },
  "recommended": {

@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -186,8 +186,8 @@
         "date": "2026-10-14",
         "show": "live:mountain-goats:2026-10-14:tivolivredenburg-grote-zaal"
        },
-       "plays_before": 47,
-       "total_plays": 48
+       "plays_before": 46,
+       "total_plays": 47
       },
       "title": "Clemency for the Wizard King"
      },
@@ -256,8 +256,8 @@
         "date": "2026-10-14",
         "show": "live:mountain-goats:2026-10-14:tivolivredenburg-grote-zaal"
        },
-       "plays_before": 312,
-       "total_plays": 313
+       "plays_before": 310,
+       "total_plays": 311
       },
       "title": "This Year"
      }
@@ -269,8 +269,8 @@
      "first_in_archive": [
       "October, 2026"
      ],
-     "show_number": 467,
-     "shows_in_archive": 467,
+     "show_number": 463,
+     "shows_in_archive": 463,
      "songs": 12,
      "stats_complete": true
     },
@@ -279,19 +279,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.561523+00:00",
+    "generated_at": "2026-10-24T22:01:50.340881+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "_8E-XHjoCpRfVBa941BR613nMlWgO6JAm_WCJ9GvIN5S46TP8-oFeKJnaatWYGOsOfgWqLkbWKsSASFeEGd3BQ",
+   "revision": 7,
+   "signature": "KUQBI2xMnMpXL8ZxdPAaJ53gTHcdooX7j7QyLz__bxayc0AbQp5eAS8CKliEAu_h_cfFBy_z4RI_hfGWaJmnCw",
    "subject_key": "live:mountain-goats:2026-10-22:rough-trade-east",
-   "updated_at": "2026-10-23T22:48:28.561728"
+   "updated_at": "2026-10-24T22:01:50.341918"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **October, 2026**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Last Day**: rare: 5 archived performances [2]\n- **Song for Layne Staley**: rare: 6 archived performances [2]\n- **Crying on Eddie Nash's Grave**: rare: 6 archived performances [2]\n- **Charlie Sheen Reaches Out to the Feds**: rare: 14 archived performances [2]\n\n## The recordings\n\n- **tmg2026-10-22** (recommended): source not stated; 12 songs; 45 min [1]\n\n## Tapers and lineage\n\n- **tmg2026-10-22**: taped by Rairun; transferred by Rairun; source: CA-11 (cards) > Zoom F3 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -312,7 +312,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2026-10-23",
-     "quote_or_claim": "The recording is a 45-minute FLAC file of 12 songs taped and transferred by Rairun using a CA-11 cards source and Zoom F3 recorder at Rough Trade East, London, on October 22, 2026.",
+     "quote_or_claim": "12-song unlabelled recording (description setlist)",
      "site": "Internet Archive",
      "title": "The Mountain Goats: 2026-10-22 Rough Trade East, London UK",
      "url": "https://archive.org/details/tmg2026-10-22",
@@ -327,7 +327,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 467 of 467 in the archive's collection for Mountain Goats, following a show on October 14, 2026, at TivoliVredenburg, and contains song rarity statistics for tracks like October, 2026, Last Day, Song for Layne Staley, Crying…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -337,28 +337,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2026-10-22:rough-trade-east"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "6138b167bac85db50fb4ba6c7abc443296b1eb7bd1f796767fdb376bddbfb550",
-    "generated_at": "2026-10-24T04:57:56.459104+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T22:01:15.778494+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "56749c7214d273f10a6c0f821cd29030f9c8366b5d84608f71c4f2de3d5df3f0",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 81.2
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "Gg2N8Tt1J3Df_WexFd37zklu7UbVR7az5CnY_mSkQKKQKi9J7H5Q8VBQ3ozS2LoN1Pahs3AXODvWKCzyXh-SAg",
+   "revision": 2,
+   "signature": "DqC-KApzjXd_6kupzzF6L6-kjmQHXtC48B6xcFCpkBOVHCRn_UaaS-oJ9TlnqZw_-hC07h6A-eFDWXyFFOU2Bg",
    "subject_key": "live:mountain-goats:2026-10-22:rough-trade-east",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T04:57:56.461805"
+   "updated_at": "2026-10-24T22:01:15.779551"
   }
  },
  "recommended": {

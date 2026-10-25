@@ -43,7 +43,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 75 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "TheWarOnDrugsMusic collection, Live Music Archive",
      "url": "https://archive.org/details/TheWarOnDrugsMusic",
@@ -212,8 +212,8 @@
       "TWOD.TerraMadre.9.27.25.09",
       "TWOD.TerraMadre.9.27.25.10"
      ],
-     "show_number": 72,
-     "shows_in_archive": 75,
+     "show_number": 70,
+     "shows_in_archive": 73,
      "songs": 10,
      "stats_complete": true
     },
@@ -222,16 +222,91 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-24T18:50:21.713514+00:00",
+    "generated_at": "2026-10-25T06:01:16.150429+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "xZKK0e7WQi6E34NY4OEsovvK-y5sJZsfsRZjn76dVADkLnbLHCtsf81L5RSXlukH8-zDQPgY3pznUtjGkLw3BA",
+   "revision": 2,
+   "signature": "VzT-QFVS0wPmij_X7O3X0oExuPEOpiKTpgrEGS4vPkyoeVwNB-cg6ykwrZ-p_xQmt0Y_-QY_t041SAsg9AgsCw",
    "subject_key": "live:the-war-on-drugs-music:2025-09-27:terra-madre",
-   "updated_at": "2026-10-24T18:50:21.713913"
+   "updated_at": "2026-10-25T06:01:16.150653"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **TWOD.TerraMadre.9.27.25.01**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.02**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.03**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.04**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.05**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.06**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.07**: earliest performance in the archive; legendary: the only archived performance [3]\n- **TWOD.TerraMadre.9.27.25.08**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **twod2025-09-27.TWOD.TerraMadre** (recommended): source not stated; 10 songs; 77 min [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": null,
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2025-10-02",
+     "quote_or_claim": "10-song unlabelled recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Live at Terra Madre on 2025-09-27",
+     "url": "https://archive.org/details/twod2025-09-27.TWOD.TerraMadre",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "patamus",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22patamus%22",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2025-10-12",
+     "quote_or_claim": "I just submmited a remix on 10-12. If you downloaded it before this date download this version and have a listen.",
+     "site": "Internet Archive",
+     "title": "Review: Re Mix (twod2025-09-27.TWOD.TerraMadre)",
+     "url": "https://archive.org/details/twod2025-09-27.TWOD.TerraMadre#reviews",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "TheWarOnDrugsMusic collection, Live Music Archive",
+     "url": "https://archive.org/details/TheWarOnDrugsMusic",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [],
+    "format": "liner-3",
+    "show": "live:the-war-on-drugs-music:2025-09-27:terra-madre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 0,
+    "facts_hash": "a43e68dcb560fb72fa706f20b3012c9fe166621d1e902bb14e766ffee5e6544f",
+    "generated_at": "2026-10-25T07:40:35.749168+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "c99041007a099e47af0ba48ad35da1ae43d845891ec01f90165f8cfaf2a04c05",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 4.8
+   },
+   "revision": 1,
+   "signature": "XHFoZAk0Ha6cMjpTbxlPH4qg10v2tfOkVMNTlJmsw1K_4XHy_bmvu_Bzq3dcwd9U295e4KCM6hZD67oGy4niBA",
+   "subject_key": "live:the-war-on-drugs-music:2025-09-27:terra-madre",
+   "updated_at": "2026-10-25T07:40:35.749805"
   }
  },
  "recommended": {

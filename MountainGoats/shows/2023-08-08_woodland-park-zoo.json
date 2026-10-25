@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -206,7 +206,7 @@
       "stats": {
        "bustout": true,
        "days_since": 2474,
-       "gap_shows": 152,
+       "gap_shows": 151,
        "last_played": {
         "date": "2016-10-29",
         "show": "live:mountain-goats:2016-10-29:hi-dive"
@@ -304,8 +304,8 @@
         "date": "2023-07-14",
         "show": "live:mountain-goats:2023-07-14:liberty-hall"
        },
-       "plays_before": 177,
-       "total_plays": 229
+       "plays_before": 176,
+       "total_plays": 227
       },
       "title": "Up The Wolves"
      },
@@ -319,7 +319,7 @@
         "show": "live:mountain-goats:2023-07-14:liberty-hall"
        },
        "plays_before": 222,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -332,8 +332,8 @@
         "date": "2023-07-14",
         "show": "live:mountain-goats:2023-07-14:liberty-hall"
        },
-       "plays_before": 227,
-       "total_plays": 313
+       "plays_before": 226,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -361,8 +361,8 @@
      "first_in_archive": [
       "Clean Slate"
      ],
-     "show_number": 382,
-     "shows_in_archive": 467,
+     "show_number": 379,
+     "shows_in_archive": 463,
      "songs": 18,
      "stats_complete": true
     },
@@ -371,19 +371,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.475887+00:00",
+    "generated_at": "2026-10-24T22:01:50.020837+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "EZS_wyxLg8lBqAUpyRXxFG4l1aI-NV1AiTbqcJyv8uNaVGT4vp4RsmVlXXEILVfpW8oRDz6cj7F-rfCBKVoWAQ",
+   "revision": 7,
+   "signature": "r-VRNwGUBjcvkN9zuVfSlmxsQi2Gclo_QctSd2oRebZt_OIJks7B9iZCcPoh-Juy8aGRbtlkTVph0yj1vdKmDQ",
    "subject_key": "live:mountain-goats:2023-08-08:woodland-park-zoo",
-   "updated_at": "2026-10-23T22:48:28.476115"
+   "updated_at": "2026-10-24T22:01:50.021473"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Deuteronomy**: back after 152 archived shows (2474 days); rare: 4 archived performances [2]\n- **Clean Slate**: earliest performance in the archive; rare: 11 archived performances [2]\n\n## The recordings\n\n- **tmg2023-08-08.akg483.flac24** (recommended): soundboard; 18 songs; 82 min [1]\n\n## Tapers and lineage\n\n- **tmg2023-08-08.akg483.flac24**: taped by Justin Hoogerwerf; transferred by Justin Hoogerwerf; source: Akg483 > SoundDevices 722 @24/96 DIN at sbd [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -404,7 +404,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2023-08-10",
-     "quote_or_claim": "Mountain Goats performed 18 songs at Woodland Park Zoo in Seattle on August 8, 2023, taped by Justin Hoogerwerf, with Blitzen Trapper opening.",
+     "quote_or_claim": "18-song SBD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Woodland Park Zoo on 2023-08-08",
      "url": "https://archive.org/details/tmg2023-08-08.akg483.flac24",
@@ -419,7 +419,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 382 of 467 in the archive for Mountain Goats, following a show on July 14, 2023, at Liberty Hall.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -429,28 +429,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2023-08-08:woodland-park-zoo"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "c53bfcf140bd12b781a18f177a68d878bfe385fba99cd0441ac3d1102a6e01f8",
-    "generated_at": "2026-10-24T10:22:17.970664+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:42:21.664809+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "6dbb0f0ee5637f0696d29c75eef5a3358d766c5f24be280925a6588889c183d0",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 43.8
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "X2t8tc4pjrKNF3-Obwfw_lZBBu-DDMw0Ph_KpJHJ3tYNVka5x8BoDYcVz1KmC40cITQwdMAnZL3PD9-bXwadBQ",
+   "revision": 2,
+   "signature": "T8rXgtYG7tHsKkaGbImnBVk4mXee8Ny2o-W1dQ7tDU44rGiFTkisirkqutIFNJ1VrySeb_IRSKmtfCXUyduDBA",
    "subject_key": "live:mountain-goats:2023-08-08:woodland-park-zoo",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T10:22:17.972986"
+   "updated_at": "2026-10-24T21:42:21.665882"
   }
  },
  "recommended": {

@@ -362,6 +362,125 @@
    "signature": "Na5mAAtc7oC8dvyIKNDxPub0wTasVeghTbcUVOPJpQniYH7LcROYLFaXTdXf0ygwAYa73hO_oZXLdc9kRTDtBg",
    "subject_key": "live:king-gizzard-and-the-lizard-wizard:2023-06-03:the-caverns-amphitheater",
    "updated_at": "2026-10-24T18:07:37.456083"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **kglw2024-06-03.FLAC.bootleggermix** (recommended): soundboard; 13 songs; 114 min [1]\n- **kglw2023-06-03.AT853**: source not stated; 13 songs; 116 min [2]\n\n## Around the show\n\n- The band wore dresses and makeup for a Tennessee celebration during the Witchcraft performance [1]\n\n## Tapers and lineage\n\n- **kglw2024-06-03.FLAC.bootleggermix**: taped by Sam Joseph, Nico Wilson, Gaspard Demulemeester and Joseph Santarpia; source: SBD [1]\n- **kglw2023-06-03.AT853**: taped by Twenty8; transferred by Twenty8; source: Audio Technica AT853 hypercardioids > SP battery box > Sony A10 [2]. Also: Audio Technica AT853 mics fed a SoundPro batbox connected to a Sony A10 recorder [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Sam Joseph, Nico Wilson, Gaspard Demulemeester and Joseph Santarpia",
+     "author_url": "https://archive.org/search?query=taper%3A%22Sam%20Joseph%2C%20Nico%20Wilson%2C%20Gaspard%20Demulemeester%20and%20Joseph%20Santarpia%22",
+     "credits": [
+      {
+       "name": "Sam Joseph, Nico Wilson, Gaspard Demulemeester and Joseph Santarpia",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Sam%20Joseph%2C%20Nico%20Wilson%2C%20Gaspard%20Demulemeester%20and%20Joseph%20Santarpia%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2025-06-01",
+     "quote_or_claim": "13-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at The Caverns Above Ground Amphitheater on 2023-06-03",
+     "url": "https://archive.org/details/kglw2024-06-03.FLAC.bootleggermix",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Twenty8",
+     "author_url": "https://archive.org/search?query=taper%3A%22Twenty8%22",
+     "credits": [
+      {
+       "name": "Twenty8",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Twenty8%22"
+      },
+      {
+       "name": "Twenty8",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Twenty8%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2023-06-06",
+     "quote_or_claim": "13-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at The Caverns Amphitheater on 2023-06-03",
+     "url": "https://archive.org/details/kglw2023-06-03.AT853",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 249 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "KingGizzardAndTheLizardWizard collection, Live Music Archive",
+     "url": "https://archive.org/details/KingGizzardAndTheLizardWizard",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The band wore dresses and makeup for a Tennessee celebration during the Witchcraft performance",
+      "type": "scene"
+     },
+     {
+      "recording": "kglw2024-06-03.FLAC.bootleggermix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Sam Joseph, Nico Wilson, Gaspard Demulemeester, and Joseph Santarpia recorded the audio for the crew",
+      "type": "lineage"
+     },
+     {
+      "recording": "kglw2023-06-03.AT853",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Audio Technica AT853 mics fed a SoundPro batbox connected to a Sony A10 recorder",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:king-gizzard-and-the-lizard-wizard:2023-06-03:the-caverns-amphitheater"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "88a323a1ade0d4c144d8f329b544d3377d6d8fb180fc5a6cd07bd82f51700bf4",
+    "generated_at": "2026-10-25T00:24:41.298670+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "e9f62529c185e832d3567174b5168182ded3499614479aef5049e680e03ace72",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 18.4
+   },
+   "revision": 1,
+   "signature": "XOmbwS7G6Dy7yIk51tCZYiXMK1FMw_pGMftnOErmIuz9jDLz-UbhbdbDMEfbq4CsWTR4PmE3jCHBd5d7i_mPCw",
+   "subject_key": "live:king-gizzard-and-the-lizard-wizard:2023-06-03:the-caverns-amphitheater",
+   "updated_at": "2026-10-25T00:24:41.299342"
   }
  },
  "recommended": {

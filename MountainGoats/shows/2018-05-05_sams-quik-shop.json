@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -145,8 +145,8 @@
         "date": "2017-11-16",
         "show": "live:mountain-goats:2017-11-16:the-majestic-theater"
        },
-       "plays_before": 48,
-       "total_plays": 75
+       "plays_before": 46,
+       "total_plays": 73
       },
       "title": "Southwood Plantation Road"
      },
@@ -242,7 +242,7 @@
         "show": "live:mountain-goats:2014-06-13:bottom-of-the-hill-san-francisco"
        },
        "plays_before": 22,
-       "total_plays": 74
+       "total_plays": 73
       },
       "title": "Heretic Pride"
      },
@@ -256,7 +256,7 @@
         "show": "live:mountain-goats:2018-04-22:ardmore-music-hall"
        },
        "plays_before": 121,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      }
@@ -274,8 +274,8 @@
       "Not Sharp In That Sense (Tuning)",
       "Keep It On Your Mind (Hank Williams)"
      ],
-     "show_number": 259,
-     "shows_in_archive": 467,
+     "show_number": 257,
+     "shows_in_archive": 463,
      "songs": 12,
      "stats_complete": true
     },
@@ -284,19 +284,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 7,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.334841+00:00",
+    "generated_at": "2026-10-24T22:01:49.649549+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "8it6ZqILqAJ9rWSVyVKwkwdpp38lm9Zvs7bMpJhZr8W9p2vnl-x6wWIk5r0FLRN2Vez67Hl8jcFqIFZUPcDlAQ",
+   "revision": 8,
+   "signature": "x-eaK99vITbP4UoNI6f4rCCUUDl5IMRurEcJpV7NJVz2HodVjM823djEjyeJJksij4qmPB3LKnLarufzY7DEDg",
    "subject_key": "live:mountain-goats:2018-05-05:sams-quik-shop",
-   "updated_at": "2026-10-23T22:48:28.335056"
+   "updated_at": "2026-10-24T22:01:49.650351"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Sax Rohmer #1 Intro and Guitar Stuff**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Sax Rohmer #1**: back after 81 archived shows (2028 days) [2]\n- **Not Sharp In That Sense (Tuning)**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Old College Try**: cut on the recording [2]\n- **Keep It On Your Mind (Hank Williams)**: earliest performance in the archive; legendary: the only archived performance [2]\n- **So Desperate**: back after 81 archived shows (2028 days) [2]\n- **Heretic Pride**: back after 62 archived shows (1422 days) [2]\n\n## The recordings\n\n- **tMG2018-05-05** (recommended): source not stated; 12 songs; 32 min [1]\n\n## Tapers and lineage\n\n- **tMG2018-05-05**: taped by Brandon Wheeler; transferred by notasfarwest [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -317,7 +317,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2018-05-06",
-     "quote_or_claim": "The recording tMG2018-05-05 was taped by Brandon Wheeler, transferred by notasfarwest, features 12 songs, has a 32-minute runtime, and was performed at Sam's Quik Shop in Durham, NC on May 5, 2018.",
+     "quote_or_claim": "12-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Sam's Quik Shop on 2018-05-05",
      "url": "https://archive.org/details/tMG2018-05-05",
@@ -332,7 +332,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 259 of 467 in the archive's collection for Mountain Goats, and the previous archived show was on April 22, 2018, at Ardmore Music Hall.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -342,28 +342,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2018-05-05:sams-quik-shop"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "20ac4b8f0790e22b95e2025d47098d1d3fab367fe5c7cbb297997a8f0d1660dc",
-    "generated_at": "2026-10-24T09:21:42.650263+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:51:08.847982+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "6f042b68e9a9c9786e9c5e791ea96e2eb5fbb3955bd3005e235b682b0c26590d",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 43.0
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "7GOe6VPQlhMSFHvZb6TN8HkvbJ3WXt9ALduowghJpaGIoroLo-lKNcNGtGm9xlEYH6EPCc4rqQVGayAz6KQ0BQ",
+   "revision": 2,
+   "signature": "KBEzvVO5ThRMTsjn3kFi4upvgPH8nLpArV1-eDrPXGu2y8FXKggWQYFnLzS32j1Upl-Z7yR-v40NJbV3pEmEAQ",
    "subject_key": "live:mountain-goats:2018-05-05:sams-quik-shop",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:21:42.654021"
+   "updated_at": "2026-10-24T21:51:08.848570"
   }
  },
  "recommended": {

@@ -255,6 +255,133 @@
    "signature": "hDbEjSITM7Vj1yyukCiWTKYtKWTsVeF66Y20INRJMnbeyYy4y8KRrISNECH9edxp9IL5q63xmrrLbSL0rkVAAw",
    "subject_key": "live:king-gizzard-and-the-lizard-wizard:2022-04-15:coachella",
    "updated_at": "2026-10-24T19:18:30.922140"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **kglw2022-04-15** (recommended): source not stated; 7 songs; 50 min [1]\n\n## Around the show\n\n- This was the uploader's third King Gizzard show, following two 2017 Coachella afternoon sets [1]\n- Unlike the 2017 afternoon performances, this set closed the festival at midnight [1]\n\n## Tapers and lineage\n\n- **kglw2022-04-15**: taped by themojavetent; transferred by themojavetent; source: SP-CMC-8 (w/Mods) [1]. Also: Recorded on Sony PCM-M10, processed in Adobe Audition, and encoded to FLAC [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "themojavetent",
+     "author_url": "https://archive.org/search?query=taper%3A%22themojavetent%22",
+     "credits": [
+      {
+       "name": "themojavetent",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22themojavetent%22"
+      },
+      {
+       "name": "themojavetent",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22themojavetent%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-09-30",
+     "quote_or_claim": "7-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at Coachella on 2022-04-15",
+     "url": "https://archive.org/details/kglw2022-04-15",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 249 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "KingGizzardAndTheLizardWizard collection, Live Music Archive",
+     "url": "https://archive.org/details/KingGizzardAndTheLizardWizard",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://kglw.net/",
+     "id": 3,
+     "kind": "blog",
+     "published_at": null,
+     "quote_or_claim": "",
+     "site": "KGLW.net",
+     "title": "King Gizzard & the Lizard Wizard setlist - 2022-04-15 Empire Polo Club, Indio, CA, USA",
+     "url": "https://kglw.net/setlists/king-gizzard-the-lizard-wizard-april-15-2022-empire-polo-club-indio-ca-usa.html",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": null,
+     "author_url": "https://kglw.net/",
+     "id": 4,
+     "kind": "review",
+     "published_at": null,
+     "quote_or_claim": "Reviews attached to April 15, 2022 April 15, 2022 \"Coachella Valley Music And Arts Festival\" King Gizzard & the Lizard Wizard @ Empire Polo Club…",
+     "site": "kglw.net",
+     "title": "Reviews / View / King Gizzard The Lizard Wizard April 15 2022 Empire Polo Club Indio Ca Usa - KGLW.net",
+     "url": "https://kglw.net/reviews/view/king-gizzard-the-lizard-wizard-april-15-2022-empire-polo-club-indio-ca-usa.html",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "kglw2022-04-15",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recorded on Sony PCM-M10, processed in Adobe Audition, and encoded to FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "This was the uploader's third King Gizzard show, following two 2017 Coachella afternoon sets",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Unlike the 2017 afternoon performances, this set closed the festival at midnight",
+      "type": "compare"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:king-gizzard-and-the-lizard-wizard:2022-04-15:coachella"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "b31c90346cd6faf234606c169dbc2d7bdce6ab0d8485b9b2ed8c4be8d1843b6e",
+    "generated_at": "2026-10-25T03:25:23.006598+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "f54385276accc07fc0d467ac4bd96d476f84797a91362439caec15d377ee686d",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 14.3
+   },
+   "revision": 1,
+   "signature": "uadvLMxbdFBatSiA8LHY5O6tvysF4Lbr0WOdk0GEXpMrRG_3mKypruQ_o7DGPrCsZVQzb5_QAEeSFRZyX7Y2Cw",
+   "subject_key": "live:king-gizzard-and-the-lizard-wizard:2022-04-15:coachella",
+   "updated_at": "2026-10-25T03:25:23.007392"
   }
  },
  "recommended": {

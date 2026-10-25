@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -174,7 +174,7 @@
         "show": "live:mountain-goats:2015-05-27:urban-lounge"
        },
        "plays_before": 35,
-       "total_plays": 98
+       "total_plays": 97
       },
       "title": "Woke Up New"
      },
@@ -243,8 +243,8 @@
         "date": "2015-05-27",
         "show": "live:mountain-goats:2015-05-27:urban-lounge"
        },
-       "plays_before": 39,
-       "total_plays": 229
+       "plays_before": 38,
+       "total_plays": 227
       },
       "title": "Up the Wolves"
      }
@@ -258,8 +258,8 @@
       "Michael Myers Resplendent"
      ],
      "first_in_archive": [],
-     "show_number": 206,
-     "shows_in_archive": 467,
+     "show_number": 204,
+     "shows_in_archive": 463,
      "songs": 11,
      "stats_complete": true
     },
@@ -271,19 +271,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.283127+00:00",
+    "generated_at": "2026-10-24T22:01:49.505014+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "QtD_XQEP07cd_9CCv-UWtnZ1fV6vEQeTVBf1J01kVnhCGGh0SO_sYlFaWPnGiVJvXwpRUt6j4NrfpQTLVfmqDA",
+   "revision": 6,
+   "signature": "Uo6EaW71vXON3ITAkYENqJbkS47wectaPn7dIKLwS4Ayd7hpoqi8TN0MHNKpVt_Dh38WOagXl5TLyWBvoshGBA",
    "subject_key": "live:mountain-goats:2015-05-29:kexp-radio",
-   "updated_at": "2026-10-23T22:48:28.283334"
+   "updated_at": "2026-10-24T22:01:49.505586"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Some Swedish Trees**: back after 77 archived shows (2415 days) [2]\n- **Isaiah 45:23**: back after 56 archived shows (2004 days); rare: 13 archived performances [2]\n- **Michael Myers Resplendent**: back after 34 archived shows (1071 days) [2]\n\n## The recordings\n\n- **tmg2015-05-29.radio.flac16** (recommended): source not stated; 11 songs; 35 min [1]. Said about its sound: Briefly skips near the end of the track; The first song is noted as being a little quiet [1]\n\n## Around the show\n\n- Stage talk about: banter, Animal Mask, pick [1]\n\n## Tapers and lineage\n\n- **tmg2015-05-29.radio.flac16**: Captured from KEXP web stream via Soundflower, processed in Audacity, exported to FLAC level 5 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -292,7 +292,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-06-02",
-     "quote_or_claim": "The recording is an 11-song, 35-minute FLAC file from KEXP Radio, captured from the web stream and processed in Audacity, with a brief skip on Isaiah 45:23 and quiet levels on the first song.",
+     "quote_or_claim": "11-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at KEXP Radio on 2015-05-29",
      "url": "https://archive.org/details/tmg2015-05-29.radio.flac16",
@@ -307,7 +307,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The setlist includes Some Swedish Trees, Isaiah 45:23, Michael Myers Resplendent, Island Garden Song, Jaipur, Woke Up New, Animal Mask, Love Cuts the Strings, Steal Smoked Fish, Cry for Judas, and Up the Wolves, with specific bustout and…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -317,30 +317,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg2015-05-29.radio.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Captured from KEXP web stream via Soundflower, processed in Audacity, exported to FLAC level 5",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2015-05-29.radio.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Briefly skips near the end of the track",
+      "type": "sound"
+     },
+     {
+      "recording": "tmg2015-05-29.radio.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The first song is noted as being a little quiet",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2015-05-29:kexp-radio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "fff60bdcedf5f0db73ebf2c9c96d81c79c7208bcd6953c1d321b5ade7b018121",
-    "generated_at": "2026-10-24T11:39:48.123156+00:00",
+    "generated_at": "2026-10-24T21:20:57.284014+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "d14d78bf77904f21ec140fdf4a78921c2508a43f557acd5c41c752047bf3ec1c",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sources lists unknown id 3"
-    ],
-    "seconds": 93.4
+    "prompt_sha256": "2d92f60d72609b3276140d5c4446759c96205fe316ca0886491cbacc17de5db3",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 13.1
    },
-   "revision": 1,
-   "signature": "CeqymlsL1Uxum85qBYhkF7HVjtgvz2t9uFwNds19T0086ElwWgkcU1fiXy2ULMjBTW2wIsDb1nnrS35XWKjMCA",
+   "revision": 2,
+   "signature": "71pQHo0_rf68nfTb8ueDH8lKqL-sDcnHL4S1uvdcfF8zumv_lzz1fO5nE34kkGAuC_w_fEd4Pau2VQ6t5xSQAA",
    "subject_key": "live:mountain-goats:2015-05-29:kexp-radio",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T11:39:48.127448"
+   "updated_at": "2026-10-24T21:20:57.285803"
   }
  },
  "recommended": {

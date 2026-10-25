@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -123,8 +123,8 @@
         "date": "2005-05-07",
         "show": "live:mountain-goats:2005-05-07:northsix"
        },
-       "plays_before": 5,
-       "total_plays": 124
+       "plays_before": 4,
+       "total_plays": 123
       },
       "title": "You or Your Memory"
      },
@@ -137,8 +137,8 @@
         "date": "2005-05-07",
         "show": "live:mountain-goats:2005-05-07:northsix"
        },
-       "plays_before": 5,
-       "total_plays": 57
+       "plays_before": 4,
+       "total_plays": 56
       },
       "title": "Song for Dennis Brown"
      },
@@ -161,7 +161,7 @@
       "stats": {
        "bustout": true,
        "days_since": 3379,
-       "gap_shows": 65,
+       "gap_shows": 63,
        "last_played": {
         "date": "1996-03-16",
         "show": "live:mountain-goats:1996-03-16:lintfabrik"
@@ -181,8 +181,8 @@
      "first_in_archive": [
       "The Mummy's Hand"
      ],
-     "show_number": 72,
-     "shows_in_archive": 467,
+     "show_number": 70,
+     "shows_in_archive": 463,
      "songs": 5,
      "stats_complete": true
     },
@@ -191,19 +191,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.143287+00:00",
+    "generated_at": "2026-10-24T22:01:49.106923+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "FF-sPpBL-qapwX5Q7UnYtKymMsPQMrnec-kUTLA2DybxZildPExLtl0a05ssEjyARhSfu-SG0S75-rISOjE-BQ",
+   "revision": 6,
+   "signature": "yTf2Mr8JhaK-lPZvbqR2REidz5MtBYXuATGUeVw_HnpGUnyzaQcEOi2pyP50AFHnlsE7ic3Q4BlbDsapEedYBg",
    "subject_key": "live:mountain-goats:2005-06-16:kexp-radio",
-   "updated_at": "2026-10-23T22:48:28.143480"
+   "updated_at": "2026-10-24T22:01:49.107689"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **The Mummy's Hand**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Deianara Crush**: back after 65 archived shows (3379 days); rare: 5 archived performances [2]\n\n## The recordings\n\n- **tmg2005-06-16.aud.192mp3** (recommended): audience recording; 5 songs; 29 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -212,7 +212,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-03-12",
-     "quote_or_claim": "The recording is an audience recording of a five-song session at KEXP Radio in Seattle on June 16, 2005, lasting 29 minutes, featuring \"The Mummy's Hand,\" \"You or Your Memory,\" \"Song for Dennis Brown,\" \"Dilaudid,\" and \"Deianara Crush.\"",
+     "quote_or_claim": "5-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at KEXP Radio on 2005-06-16",
      "url": "https://archive.org/details/tmg2005-06-16.aud.192mp3",
@@ -227,7 +227,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 72 of 467 in the archive's collection for Mountain Goats, following a show on May 14, 2005, at NPR. \"The Mummy's Hand\" is the only archived performance of that song, and \"Deianara Crush\" has five archived performances with…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -239,7 +239,6 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
-     "claim": "A blog post identifies the event as a KEXP Session in Seattle, WA, on June 16, 2005.",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -247,34 +246,36 @@
      "site": "themountaingoats.fandom.com",
      "title": "2005-06-16 - KEXP Session - Seattle, WA | The Mountain Goats",
      "url": "https://themountaingoats.fandom.com/wiki/2005-06-16_-_KEXP_Session_-_Seattle,_WA",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2005-06-16:kexp-radio"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 0,
     "facts_hash": "a40b9c1ca7aa84aa5a8ad962c27f31c4143b932cdfeb441dba640e6fb8eb0d1e",
-    "generated_at": "2026-10-24T06:03:34.753769+00:00",
+    "generated_at": "2026-10-24T21:52:42.807383+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "6eaac5107d1a10a433a391509d13479d3f19f84c61d94b7d7cbb69c1d7224e44",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "2181ca87e18202ff460ef7eb90c61b5b86be8d3f5801cce4e2b45865bb2d77be",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 67.9
+    "seconds": 2.9
    },
-   "revision": 1,
-   "signature": "3v8yABwfVoAdZz_fRDq0OzIQJYoeLfHhFr7mI62SM5YZQ2HJqrQZ9Z6mgsS3TzYpT4Z_a5-TKr5sTfuIt1etDw",
+   "revision": 2,
+   "signature": "rkU8EcNZEtjqZ4kAEWWBHZw5gc6FCxeD6TZQwCwad327stELhBme-EkizsiRotUP30uLayVZcRMhNAis9fBSCg",
    "subject_key": "live:mountain-goats:2005-06-16:kexp-radio",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T06:03:34.755115"
+   "updated_at": "2026-10-24T21:52:42.811591"
   }
  },
  "recommended": {

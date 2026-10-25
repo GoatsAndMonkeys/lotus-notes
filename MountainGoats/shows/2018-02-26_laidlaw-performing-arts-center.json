@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -180,7 +180,7 @@
         "show": "live:mountain-goats:2012-01-21:tipitinas"
        },
        "plays_before": 6,
-       "total_plays": 20
+       "total_plays": 19
       },
       "title": "Song for Lonely Giants"
      },
@@ -527,8 +527,8 @@
       "Q&A: Writing about real life",
       "Q&A: Difference in writing processes"
      ],
-     "show_number": 252,
-     "shows_in_archive": 467,
+     "show_number": 250,
+     "shows_in_archive": 463,
      "songs": 35,
      "stats_complete": true
     },
@@ -539,19 +539,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.328027+00:00",
+    "generated_at": "2026-10-24T22:01:49.618216+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "uqnAaAnZTbIvGYeMDwjTHFnOwBJGHqtiV2ehVhv2OZ2_jXGKP_pirymlmPNp6vomNOCxGdn20FOEkiYGuepMAw",
+   "revision": 7,
+   "signature": "Ol0zFNdXb8FvbXf0heq_MrpvQyTNVS7z8K5KFIh7dBa_w0S0deXINYgnth_Rj0gF6coeTppndOil8c7d-7qbAQ",
    "subject_key": "live:mountain-goats:2018-02-26:laidlaw-performing-arts-center",
-   "updated_at": "2026-10-23T22:48:28.328359"
+   "updated_at": "2026-10-24T22:01:49.619165"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Tallahassee**: back after 51 archived shows (1349 days) [2]\n- **Surrounded (Intro)**: rare: 14 archived performances [2]\n- **Surrounded**: rare: 14 archived performances [2]\n- **Song for Lonely Giants**: back after 85 archived shows (2228 days) [2]\n- **Attention All Pickpockets (Intro)**: back after 38 archived shows (898 days); rare: 14 archived performances [2]\n- **Attention All Pickpockets**: back after 38 archived shows (898 days); rare: 14 archived performances [2]\n- **Michael Myers Resplendent**: back after 39 archived shows (900 days) [2]\n- **Heel Turn 1 (Intro)**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- Earliest performances in the archive: Younger [2]\n\n## The recordings\n\n- **mountaingoats2018-02-26.flac16** (recommended): source not stated; 35 songs; 107 min [1]. Said about its sound: Recording is quiet with amplified mic rustles, crowd noise, and intermittent hissing pulses [1]\n\n## Around the show\n\n- Stage talk about: Book Reading [1]\n- John Darnielle performed solo acoustic set, read from Universal Harvester, and answered audience questions [1]\n\n## Tapers and lineage\n\n- **mountaingoats2018-02-26.flac16**: taped by ezralite23; transferred by ezralite23; source: Zoom H4N [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -572,7 +572,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2021-02-27",
-     "quote_or_claim": "The recording is a solo acoustic performance by John Darnielle followed by a book reading and Q&A, taped by ezralite23, with 35 songs and 107 minutes of audio.",
+     "quote_or_claim": "35-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Laidlaw Performing Arts Center on 2018-02-26",
      "url": "https://archive.org/details/mountaingoats2018-02-26.flac16",
@@ -587,7 +587,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 252 of 467 in the archive's collection for Mountain Goats, and specific songs like 'Tallahassee' and 'Heel Turn 1' are marked as bustouts or rare performances.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -597,28 +597,47 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "mountaingoats2018-02-26.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recording is quiet with amplified mic rustles, crowd noise, and intermittent hissing pulses",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John Darnielle performed solo acoustic set, read from Universal Harvester, and answered audience questions",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2018-02-26:laidlaw-performing-arts-center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "158d1d3d7f4004cb038916f3d89824e795a92f0297a00e6a37fdaf51e221440b",
-    "generated_at": "2026-10-24T09:17:15.351096+00:00",
+    "generated_at": "2026-10-24T21:32:18.446569+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "1ada76de7439c698b729747b81027fe2c425586d40b2c1e42234ff4dfa31f862",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "05ff49d230a67a73f1d8a666533e0dec61b5bc061a9f466959d02d4b8a6193eb",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 49.9
+    "seconds": 13.0
    },
-   "revision": 1,
-   "signature": "4wje_tP9UQC6cV1ielFlRTmsPm1AIZDqC3JK1w3aV-9SO8nd6NLEkI3QtIR1g14C1wttqF4Xw6R4UJhbFJdMAg",
+   "revision": 2,
+   "signature": "BzhmLcMYtm1W5cl_hhzt0MMT4-OCFJdwIc0zggYBS4GngzIDwmKXIfSTmgJyO7Trp433IBblGFlyZ8kt9F00AQ",
    "subject_key": "live:mountain-goats:2018-02-26:laidlaw-performing-arts-center",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T09:17:15.353710"
+   "updated_at": "2026-10-24T21:32:18.448970"
   }
  },
  "recommended": {

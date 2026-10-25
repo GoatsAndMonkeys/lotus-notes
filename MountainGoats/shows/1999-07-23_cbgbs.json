@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -290,7 +290,7 @@
         "show": "live:mountain-goats:1997-06-12:the-university-of-wisconsin-madison"
        },
        "plays_before": 2,
-       "total_plays": 17
+       "total_plays": 16
       },
       "title": "I've Got The Sex"
      },
@@ -360,7 +360,7 @@
         "show": "live:mountain-goats:1999-01-27:cats-cradle"
        },
        "plays_before": 12,
-       "total_plays": 49
+       "total_plays": 48
       },
       "title": "Going To Georgia"
      },
@@ -402,7 +402,7 @@
         "show": "live:mountain-goats:1999-01-27:cats-cradle"
        },
        "plays_before": 11,
-       "total_plays": 38
+       "total_plays": 37
       },
       "title": "The Recognition Scene"
      },
@@ -459,7 +459,7 @@
       "Nikki Oh Nikki"
      ],
      "show_number": 24,
-     "shows_in_archive": 467,
+     "shows_in_archive": 463,
      "songs": 28,
      "stats_complete": true
     },
@@ -468,19 +468,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.098500+00:00",
+    "generated_at": "2026-10-24T22:01:48.970339+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "EFwnOLowZ4VrMI95DWyYVtWYrvZ3iE6YIuJ6N3Bww0chxCqbDlTTmcnfRGiOlvm7jRqVe6ldSOpygSOOrLccAQ",
+   "revision": 6,
+   "signature": "LROIoxqbIszrFgmiyg9hk9QDp6LLHM28Tuho0mwbDn-sYxCQaw2m6y9pR5QArqKk1Sttvk8Hsn9hYQr91MidCw",
    "subject_key": "live:mountain-goats:1999-07-23:cbgbs",
-   "updated_at": "2026-10-23T22:48:28.098773"
+   "updated_at": "2026-10-24T22:01:48.971055"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Pseudothyrum Song**: earliest performance in the archive; rare: 7 archived performances [2]\n- **Song For Roger Marris**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Shower**: rare: 7 archived performances [2]\n- **Quetzalcoatl Eats Plums**: earliest performance in the archive; rare: 5 archived performances [2]\n- **Alpha Desperation March**: earliest performance in the archive; rare: 6 archived performances [2]\n- **Born Ready**: rare: 5 archived performances [2]\n- **Doctor Wu (Steely Dan cover)**: rare: 4 archived performances [2]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [2]\n- Earliest performances in the archive: Carmen Cicero [2]\n\n## The recordings\n\n- **tmg1999-07-23.aud.192mp3** (recommended): audience recording; 28 songs; 81 min [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -489,7 +489,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-02-15",
-     "quote_or_claim": "The recording is an audience capture of 28 songs lasting 81 minutes from a July 23, 1999 show at CBGBs.",
+     "quote_or_claim": "28-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at CBGBs on 1999-07-23",
      "url": "https://archive.org/details/tmg1999-07-23.aud.192mp3",
@@ -504,7 +504,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is the 24th show in the archive for Mountain Goats, following a January 27, 1999 show at Cat’s Cradle.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -514,28 +514,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:1999-07-23:cbgbs"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "d9a924efd710ca3d2ce3616e35b7d9ef14faf6f06e208bb397d8e8fa00a13ae1",
-    "generated_at": "2026-10-24T00:57:23.655810+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:14:40.469562+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "60612e0441ab55c777ff06f0b7a8128feeda97910d8587de9e28829e7e7ce223",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 75.6
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "osvCc_-i7g4x08KfOzfx9R80IFkr3a-6HMd4iYFvb243UgRTZFScPcZ-VewnkPttWTKTt8BTmTQ9_HDN5AeSCA",
+   "revision": 2,
+   "signature": "YKpjcHFSWAR6me3JQ4I2Ufv6bA51PYb8cdVkyLxMDVT0qywEK2mp81Bsg3UZDkEbaTHqulN1NObKWSOcPA04Aw",
    "subject_key": "live:mountain-goats:1999-07-23:cbgbs",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T00:57:23.658330"
+   "updated_at": "2026-10-24T21:14:40.470379"
   }
  },
  "recommended": {

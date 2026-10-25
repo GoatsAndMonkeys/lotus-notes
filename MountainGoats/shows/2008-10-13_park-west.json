@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -127,7 +127,7 @@
         "show": "live:mountain-goats:2008-03-22:black-cat"
        },
        "plays_before": 6,
-       "total_plays": 74
+       "total_plays": 73
       },
       "title": "Heretic Pride"
      },
@@ -272,7 +272,7 @@
         "show": "live:mountain-goats:2008-03-19:music-hall-of-williamsburg"
        },
        "plays_before": 30,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -313,8 +313,8 @@
         "date": "2008-05-16",
         "show": "live:mountain-goats:2008-05-16:masonic-temple"
        },
-       "plays_before": 36,
-       "total_plays": 313
+       "plays_before": 35,
+       "total_plays": 311
       },
       "title": "This Year"
      }
@@ -329,8 +329,8 @@
       "Mosquito Repellent",
       "Supergenesis"
      ],
-     "show_number": 126,
-     "shows_in_archive": 467,
+     "show_number": 124,
+     "shows_in_archive": 463,
      "songs": 16,
      "stats_complete": true
     },
@@ -339,19 +339,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.194429+00:00",
+    "generated_at": "2026-10-24T22:01:49.259730+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "ink9hX3kQEEGrXuk7z2wQ0clzbeS5yS3oDBV4ibH5Aoncw8Nr_rcH7LCm2d6b8JNK0_z7GJunIQ4gxteTE_hCQ",
+   "revision": 7,
+   "signature": "mQ4oujriWbJEfmfra1UE5f0nmcGDyRa364UgyNZt3pqeJWJlZ1Qq4LFSDk4QevvsvtZ0m6NJfIi5dNZSI19YCg",
    "subject_key": "live:mountain-goats:2008-10-13:park-west",
-   "updated_at": "2026-10-23T22:48:28.194658"
+   "updated_at": "2026-10-24T22:01:49.260423"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **Wizard Buys a Hat**: rare: 4 archived performances [2]\n- **The Mess Inside**: back after 33 archived shows (1074 days) [2]\n- **November Love Song**: rare: 3 archived performances [2]\n- **Going to Kansas**: rare: 12 archived performances [2]\n- **Mosquito Repellent**: earliest performance in the archive; rare: 6 archived performances [2]\n- **Supergenesis**: earliest performance in the archive; rare: 6 archived performances [2]\n\n## The recordings\n\n- **mountaingoats2008-10-13.flac16** (recommended): source not stated; 16 songs; 74 min [1]. Said about its sound: Left channel audio was spliced from the right due to a loose cable [1]\n\n## Around the show\n\n- Kaki King joined the full band on guitar for the performance [1]\n- Nearby audience members continued chatting despite the recorder's warnings about noise [1]\n\n## Tapers and lineage\n\n- **mountaingoats2008-10-13.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony ECM-DS70P > SPSB-11 Batt Box > Sony MZ-M200 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -372,7 +372,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2008-10-19",
-     "quote_or_claim": "The setlist includes 16 songs starting with Have to Explode and ending with This Year, with specific notes on lineup and a technical fix for a loose cable affecting the first 70 seconds of the first track.",
+     "quote_or_claim": "16-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Park West on 2008-10-13",
      "url": "https://archive.org/details/mountaingoats2008-10-13.flac16",
@@ -387,7 +387,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics indicate Wizard Buys a Hat is rare with 4 archived performances, The Mess Inside is the first in 33 shows after 1074 days, Mosquito Repellent and Supergenesis are first in archive with 6 performances, and this is show 126…",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -397,30 +397,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Kaki King joined the full band on guitar for the performance",
+      "type": "scene"
+     },
+     {
+      "recording": "mountaingoats2008-10-13.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Left channel audio was spliced from the right due to a loose cable",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Nearby audience members continued chatting despite the recorder's warnings about noise",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2008-10-13:park-west"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "cadb93c8730e4ffadde57ea708ddaf6821fb88b5afb2a045737976f838fa04a2",
-    "generated_at": "2026-10-24T08:28:28.236052+00:00",
+    "generated_at": "2026-10-24T21:18:03.405278+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "c9cc9a22c67ed94837731636b902d9f5a5da8018b34ca29f0f6a3e20357222ee",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "sentence without a source marker: 'Mountain Goats performed a sixteen-song set at Park West in Chicago on October 1'"
-    ],
-    "seconds": 184.6
+    "prompt_sha256": "fedb9123e58b0338f4d3fbc4e44efb042483fc23678c6be2acfcddf746ddfa68",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 13.8
    },
-   "revision": 1,
-   "signature": "4S-4f_cn4TVZyKeSkFCoi7TyjH8rp9lm0DNSMpPftJDsO-44amCK5a1d8rM2phfsm2HqtAqnVbeQdbtnemWrBQ",
+   "revision": 2,
+   "signature": "KQqT16Au28fsFnuP34w0JLiwIxk6hjNauXUUKCXhDDLZqWjeQKF9MBvaqwTVuKbqS03wylYN3908wBH5U9EiBA",
    "subject_key": "live:mountain-goats:2008-10-13:park-west",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T08:28:28.238971"
+   "updated_at": "2026-10-24T21:18:03.409178"
   }
  },
  "recommended": {

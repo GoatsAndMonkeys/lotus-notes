@@ -55,7 +55,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 75 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "TheWarOnDrugsMusic collection, Live Music Archive",
      "url": "https://archive.org/details/TheWarOnDrugsMusic",
@@ -122,8 +122,8 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 61,
-     "shows_in_archive": 75,
+     "show_number": 60,
+     "shows_in_archive": 73,
      "songs": 0,
      "stats_complete": true
     },
@@ -132,16 +132,121 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-24T18:50:21.703498+00:00",
+    "generated_at": "2026-10-25T06:01:16.141817+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "RB3PU67c-hPQgXI7BABCy0a9B8whpv7P6Typ09hPIcYAEDaEydVC-mAc84PbmEQqxhNa5TdykzY_pmt1hX-eBA",
+   "revision": 2,
+   "signature": "kAL9QWxih-pDSfVqveb0LdbKQDHSqdJG-fHK1K-yGtb2qJez8EYisDa7ulVNXcl38Tko4Zdq9c8c7_lib8UODw",
    "subject_key": "live:the-war-on-drugs-music:2022-10-11:rialto-theatre",
-   "updated_at": "2026-10-24T18:50:21.703910"
+   "updated_at": "2026-10-25T06:01:16.141994"
+  },
+  "liner": {
+   "body_md": "## The recordings\n\n- **twod2022-10-11** (recommended): source not stated; 0 songs; 130 min; rated 4/5 by 1 [1]. Said about its sound: Bass is slightly heavy, but audio quality is much better than other recordings; The recording features decent stereo imaging [2]\n\n## Tapers and lineage\n\n- **twod2022-10-11**: taped by Makers Marc; transferred by Jim Blackwood; source: Schoeps MK4V>nbob kcy>baby nbox>Oade warm mod Sony M10 [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Makers Marc",
+     "author_url": "https://archive.org/search?query=taper%3A%22Makers%20Marc%22",
+     "credits": [
+      {
+       "name": "Makers Marc",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Makers%20Marc%22"
+      },
+      {
+       "name": "Jim Blackwood",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22Jim%20Blackwood%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2022-10-25",
+     "quote_or_claim": "0-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Live at Rialto Theatre on 2022-10-11",
+     "url": "https://archive.org/details/twod2022-10-11",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Selection_Biased",
+     "author_url": "https://archive.org/search?query=reviewer%3A%22Selection_Biased%22",
+     "claim": "Bass is slightly heavy, but audio quality is much better than other recordings",
+     "id": 2,
+     "kind": "archive_review",
+     "published_at": "2022-11-20",
+     "quote_or_claim": "Bass still a little heavy but this is miles better than some others. Decent stereo imaging too.",
+     "site": "Internet Archive",
+     "title": "Review: One of the better 2022 recordings (twod2022-10-11)",
+     "url": "https://archive.org/details/twod2022-10-11#reviews",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "TheWarOnDrugsMusic collection, Live Music Archive",
+     "url": "https://archive.org/details/TheWarOnDrugsMusic",
+     "used": false,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "twod2022-10-11",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Bass is slightly heavy, but audio quality is much better than other recordings",
+      "type": "sound"
+     },
+     {
+      "recording": "twod2022-10-11",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The recording features decent stereo imaging",
+      "type": "sound"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:the-war-on-drugs-music:2022-10-11:rialto-theatre"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 2,
+    "facts_hash": "99cae0e7933e93fa08401880669e07a077de2fa7f76f5446154c3842e538bdfc",
+    "generated_at": "2026-10-25T07:40:17.445160+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "c2a9580afdec1dd5ce6421eecfc13b5f1d6e54c4f094d0cefb31c98302184d95",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 7.1
+   },
+   "revision": 1,
+   "signature": "xMUMyB44ZSN7Zcujw-2IJcvvQK-SKzn3t_vyPpT2AwmR_Zhx3jp91x6R1Fj8WstmKs4-6c_jjH8l40eJ8uHICw",
+   "subject_key": "live:the-war-on-drugs-music:2022-10-11:rialto-theatre",
+   "updated_at": "2026-10-25T07:40:17.446785"
   }
  },
  "recommended": {

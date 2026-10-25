@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -297,8 +297,8 @@
         "date": "2022-11-14",
         "show": "live:mountain-goats:2022-11-14:de-roma"
        },
-       "plays_before": 153,
-       "total_plays": 229
+       "plays_before": 152,
+       "total_plays": 227
       },
       "title": "Up the Wolves"
      },
@@ -312,7 +312,7 @@
         "show": "live:mountain-goats:2022-09-22:the-orange-peel"
        },
        "plays_before": 196,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -325,8 +325,8 @@
         "date": "2022-11-14",
         "show": "live:mountain-goats:2022-11-14:de-roma"
        },
-       "plays_before": 202,
-       "total_plays": 313
+       "plays_before": 201,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -340,7 +340,7 @@
         "show": "live:mountain-goats:2022-11-14:de-roma"
        },
        "plays_before": 42,
-       "total_plays": 74
+       "total_plays": 73
       },
       "title": "Heretic Pride"
      }
@@ -352,8 +352,8 @@
       "Alpha Gelida"
      ],
      "first_in_archive": [],
-     "show_number": 356,
-     "shows_in_archive": 467,
+     "show_number": 353,
+     "shows_in_archive": 463,
      "songs": 18,
      "stats_complete": true
     },
@@ -362,19 +362,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 7,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.452221+00:00",
+    "generated_at": "2026-10-24T22:01:49.930383+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "QgFgGNC8V5DRyDpiLpIncvBO_AQ6ZWakl1jnUtrLU7gfVsjPKfKu0qRQqeGk_hY5pAFogDrKKc0AFw7nomjIBA",
+   "revision": 8,
+   "signature": "LX5z5YNiIb9EygB3GvTOZysPPMdfbbTettwh0hgXeVs5E-HT7pxR7Zvzu8ZonFHhhq-rGRCpJE83ls845hTSAw",
    "subject_key": "live:mountain-goats:2022-11-18:vicar-street",
-   "updated_at": "2026-10-23T22:48:28.452470"
+   "updated_at": "2026-10-24T22:01:49.930992"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Alpha Gelida** (1 other source): This was the only performance of the song during the entire 2022 year [1]\n\n## Setlist highlights\n\n- **Bones Don't Rust**: rare: 12 archived performances [2]\n- **Transjordanian Blues**: rare: 12 archived performances [2]\n- **Alpha Gelida**: back after 52 archived shows (1001 days); rare: 12 archived performances [2]\n\n## The recordings\n\n- **tmg2022-11-18.ecm** (recommended): source not stated; 18 songs; 77 min [1]. Said about its sound: Crowd cheering and clapping sometimes overload the microphone during the performance [1]\n\n## Around the show\n\n- John apologizes for the shorter show caused by a strict curfew [1]\n\n## Tapers and lineage\n\n- **tmg2022-11-18.ecm**: source: SONY ECM CS-10 > Roland R-05 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -383,7 +383,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2022-11-28",
-     "quote_or_claim": "'Alpha Gelida' is the only performance of that song from 2022.",
+     "quote_or_claim": "18-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Vicar Street on 2022-11-18",
      "url": "https://archive.org/details/tmg2022-11-18.ecm",
@@ -398,7 +398,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "The previous archived show was on 2022-11-14 at De Roma.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -408,28 +408,55 @@
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": "tmg2022-11-18.ecm",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Crowd cheering and clapping sometimes overload the microphone during the performance",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "John apologizes for the shorter show caused by a strict curfew",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Alpha Gelida",
+      "song_key": "song:mountain-goats:alpha-gelida",
+      "src": 1,
+      "text": "This was the only performance of the song during the entire 2022 year",
+      "type": "song"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2022-11-18:vicar-street"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 3,
     "facts_hash": "f0c7011e7336f369524c1dbc8a0cb784c3ec32db9966880f54fb437ed3a6e32c",
-    "generated_at": "2026-10-24T10:57:17.185839+00:00",
+    "generated_at": "2026-10-24T21:51:57.244719+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "f34b9ad750e67cdd6918e853f3880b4008034be5a57b0c453db1509b6724ce74",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "8c38ddf99f82453723a1743242f617009ae831eb46be053a5c6cf3ab3d3fb9ae",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 60.2
+    "seconds": 14.3
    },
-   "revision": 1,
-   "signature": "Kj4lz079uY5zM8r2JanvtrgCG7ceN_LuPBW1YVBGrg1inSIfYZCkXes4OLjWtJa4dag2yoU6DeVPtgr9y_tsCg",
+   "revision": 2,
+   "signature": "f4JaiukN_rRG6rgFP4fc_kAWkHoYq7D-uInv7T81_p-mlOH4o66YLkWNy0_OqMqbKgYN7rzUZAVzTlUyw4wZCw",
    "subject_key": "live:mountain-goats:2022-11-18:vicar-street",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T10:57:17.190093"
+   "updated_at": "2026-10-24T21:51:57.246745"
   }
  },
  "recommended": {

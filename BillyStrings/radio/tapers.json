@@ -1,0 +1,108 @@
+{
+ "tapers": [
+  {
+   "blurb": "Keith Litzenberger's Billy Strings tapes and matrices, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped, transferred or mixed by Keith Litzenberger",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%2Alitzenberger%2A+OR+%2Alitz%2A%29",
+   "id": "billy-litz",
+   "match": "keith litzenberger|\\blitz(?:enberger)?\\b",
+   "name": "Keith Litzenberger Radio",
+   "offsite": [],
+   "query": "taper:(*litzenberger* OR *litz*) OR source:(*litzenberger* OR *litz*)",
+   "short": "Litz",
+   "stickers": false
+  },
+  {
+   "blurb": "Z-Man's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by Z-Man",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%22Z-Man%22%29",
+   "id": "billy-z-man",
+   "match": "\\bz[- ]?man\\b|\\bzman\\b",
+   "name": "Z-Man Radio",
+   "offsite": [],
+   "query": "taper:(\"Z-Man\" OR \"Z Man\" OR *zman*) OR source:(\"Z-Man\" OR \"Z Man\" OR *zman*)",
+   "short": "Z-Man",
+   "stickers": false
+  },
+  {
+   "blurb": "Brain's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by Brain",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3ABrain",
+   "id": "billy-brain",
+   "match": "\\bbrain(?:wave)?\\b",
+   "name": "Brain Radio",
+   "offsite": [],
+   "query": "taper:(Brain OR Brainwave) OR source:(Brain OR Brainwave)",
+   "short": "Brain",
+   "stickers": false
+  },
+  {
+   "blurb": "Brian Porter's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by Brian Porter",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%22Brian+Porter%22%29",
+   "id": "billy-brian-porter",
+   "match": "brian porter",
+   "name": "Brian Porter Radio",
+   "offsite": [],
+   "query": "taper:(\"Brian Porter\") OR source:(\"Brian Porter\")",
+   "short": "Brian Porter",
+   "stickers": false
+  },
+  {
+   "blurb": "DavidPuddy's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by DavidPuddy",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%2Adavidpuddy%2A%29",
+   "id": "billy-davidpuddy",
+   "match": "david\\s*puddy",
+   "name": "DavidPuddy Radio",
+   "offsite": [],
+   "query": "taper:(*davidpuddy* OR \"David Puddy\") OR source:(*davidpuddy* OR \"David Puddy\")",
+   "short": "DavidPuddy",
+   "stickers": false
+  },
+  {
+   "blurb": "G-Man's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by G-Man",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%22G-Man%22%29",
+   "id": "billy-g-man",
+   "match": "\\bg[- ]?man\\b|\\bgman\\b",
+   "name": "G-Man Radio",
+   "offsite": [],
+   "query": "taper:(\"G-Man\" OR \"G Man\" OR *gman*) OR source:(\"G-Man\" OR \"G Man\" OR *gman*)",
+   "short": "G-Man",
+   "stickers": false
+  },
+  {
+   "blurb": "Rich Stoler's Billy Strings tapes, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped by Rich Stoler",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%22Rich+Stoler%22%29",
+   "id": "billy-rich-stoler",
+   "match": "rich(?:ard)? stoler",
+   "name": "Rich Stoler Radio",
+   "offsite": [],
+   "query": "taper:(\"Rich Stoler\" OR \"Richard Stoler\") OR source:(\"Rich Stoler\" OR \"Richard Stoler\")",
+   "short": "Rich Stoler",
+   "stickers": false
+  },
+  {
+   "blurb": "HealthCov Chris and InsideOut Recording tapes and matrices, every song once before any repeats.",
+   "collection": "BillyStrings",
+   "credit": "Taped and mixed by HealthCov Chris / InsideOut Recording",
+   "credit_url": "https://archive.org/search?query=collection%3ABillyStrings+AND+taper%3A%28%22HealthCov+Chris%22%29",
+   "id": "billy-healthcov-chris",
+   "match": "healthcov|insideout recording",
+   "name": "HealthCov Chris Radio",
+   "offsite": [],
+   "query": "taper:(*HealthCov* OR \"InsideOut Recording\") OR source:(*HealthCov* OR \"InsideOut Recording\")",
+   "short": "HealthCov Chris",
+   "stickers": false
+  }
+ ]
+}

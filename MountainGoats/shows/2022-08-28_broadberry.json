@@ -36,7 +36,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -117,7 +117,7 @@
         "show": "live:mountain-goats:2022-07-09:the-music-farm"
        },
        "plays_before": 72,
-       "total_plays": 98
+       "total_plays": 97
       },
       "title": "Woke Up New"
      },
@@ -191,7 +191,7 @@
       "stats": {
        "bustout": true,
        "days_since": 6753,
-       "gap_shows": 290,
+       "gap_shows": 288,
        "last_played": {
         "date": "2004-03-02",
         "show": "live:mountain-goats:2004-03-02:the-first-unitarian-church"
@@ -294,7 +294,7 @@
         "show": "live:mountain-goats:2022-07-17:wave"
        },
        "plays_before": 188,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      },
@@ -358,8 +358,8 @@
         "date": "2022-05-20",
         "show": "live:mountain-goats:2022-05-20:first-avenue-minneapolis-mn"
        },
-       "plays_before": 69,
-       "total_plays": 93
+       "plays_before": 68,
+       "total_plays": 92
       },
       "title": "Palmcorder Yajna"
      },
@@ -372,8 +372,8 @@
         "date": "2022-07-17",
         "show": "live:mountain-goats:2022-07-17:wave"
        },
-       "plays_before": 193,
-       "total_plays": 313
+       "plays_before": 192,
+       "total_plays": 311
       },
       "title": "This Year"
      },
@@ -402,8 +402,8 @@
       "Wage Wars Get Rich Die Handsome",
       "Training Montage"
      ],
-     "show_number": 346,
-     "shows_in_archive": 467,
+     "show_number": 343,
+     "shows_in_archive": 463,
      "songs": 23,
      "stats_complete": true
     },
@@ -412,19 +412,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 5,
+   "parent_revision": 6,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.419959+00:00",
+    "generated_at": "2026-10-24T22:01:49.900937+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 6,
-   "signature": "gz_9kyYDfGyg9KWaXxb0BjvAp4wfYJE-lH3HWm1U9s3hgXOPVGsN9QbmeWE563oj1pJKYpqvjTjA7X-eej8wBg",
+   "revision": 7,
+   "signature": "8Ct9tgrSkpNw5AQH4QEB5EI8HqdO_AxNZUCxLD4Nb8Jh7Ym5NnKXGM-sjGzc26M4E2TMM-8SJAD-Yl5G4IGmAQ",
    "subject_key": "live:mountain-goats:2022-08-28:broadberry",
-   "updated_at": "2026-10-23T22:48:28.420206"
+   "updated_at": "2026-10-24T22:01:49.901575"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## What listeners single out\n\n- **Extraction Point** (1 other source): This track received its first live performance during the two-hour set [1]\n\n## Setlist highlights\n\n- **Extraction Point**: earliest performance in the archive; rare: 11 archived performances [2]\n- **Feed This End**: back after 290 archived shows (6753 days); rare: 3 archived performances [2]\n- **I Will Grab You by the Ears**: earliest performance in the archive; rare: 4 archived performances [2]\n- **parking at the courthouse**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Wage Wars Get Rich Die Handsome**: earliest performance in the archive; rare: 11 archived performances [2]\n- Earliest performances in the archive: Make You Suffer, First Blood, Training Montage [2]\n\n## The recordings\n\n- **tmg2022-08-28** (recommended): audience recording; 23 songs; 117 min [1]\n\n## Around the show\n\n- Garcia Peoples provided support for the main act [1]\n\n## Tapers and lineage\n\n- **tmg2022-08-28**: taped by Brandon; source: AUD > Tascam DR-05x internal mics (PCM 96kHz 24-bit) > SDXC card WAV [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -440,7 +440,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2022-09-09",
-     "quote_or_claim": "Garcia Peoples supported the band during the show [1].",
+     "quote_or_claim": "23-song AUD recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Broadberry on 2022-08-28",
      "url": "https://archive.org/details/tmg2022-08-28",
@@ -459,36 +459,53 @@
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
+    "claims": [
+     {
+      "recording": null,
+      "song": "Extraction Point",
+      "song_key": "song:mountain-goats:extraction-point",
+      "src": 1,
+      "text": "This track received its first live performance during the two-hour set",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Garcia Peoples provided support for the main act",
+      "type": "scene"
+     }
+    ],
+    "format": "liner-3",
     "show": "live:mountain-goats:2022-08-28:broadberry"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 2,
+    "attempts": 1,
     "backend": "adhoc",
+    "claims": 2,
     "facts_hash": "130112b043890ce6bfa33925a5dd8cd94dfe3784de9bf95591239923d0c95700",
-    "generated_at": "2026-10-24T10:10:59.273053+00:00",
+    "generated_at": "2026-10-24T21:43:24.551194+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "29781d3918d7be3c1795d37a579b424f0942cd7ffdc578e53289d4af07dd9df3",
-    "prompt_version": "liner-2",
-    "rejected": [
-     "do not say debut/premiere: say 'earliest recording in the archive'"
-    ],
-    "seconds": 88.7
+    "prompt_sha256": "6f5a5a72e73d0143b59306397a5454faefd9006e221bc6f21885c01a8a62e051",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 14.2
    },
-   "revision": 1,
-   "signature": "FfdkP0NS5qxxD-N--dkT6IcY07ZWjxtX_5Sar_PMWTA723Jm8tXdyjDYBsZ_CwW93twVD0488S_YyIIOO8RwCA",
+   "revision": 2,
+   "signature": "UJzmz_9VB2YolZ267E-TQDMcTdEVYei-h8bI39SnY_j14LUl1s1TBIO50sysyYpNv413NGf1ZCg8d8qfVy2mAw",
    "subject_key": "live:mountain-goats:2022-08-28:broadberry",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T10:10:59.275351"
+   "updated_at": "2026-10-24T21:43:24.552689"
   }
  },
  "recommended": {

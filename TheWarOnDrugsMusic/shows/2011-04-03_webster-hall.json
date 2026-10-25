@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 75 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "TheWarOnDrugsMusic collection, Live Music Archive",
      "url": "https://archive.org/details/TheWarOnDrugsMusic",
@@ -122,7 +122,7 @@
         "show": "live:the-war-on-drugs-music:2011-01-08:bowery-ballroom"
        },
        "plays_before": 1,
-       "total_plays": 29
+       "total_plays": 36
       },
       "title": "Baby Missiles"
      },
@@ -136,7 +136,7 @@
         "show": "live:the-war-on-drugs-music:2011-01-08:bowery-ballroom"
        },
        "plays_before": 2,
-       "total_plays": 22
+       "total_plays": 23
       },
       "title": "Buenos Aires Beach"
      },
@@ -173,16 +173,21 @@
         "show": "live:the-war-on-drugs-music:2011-01-08:bowery-ballroom"
        },
        "plays_before": 1,
-       "total_plays": 41
+       "total_plays": 40
       },
       "title": "Brothers"
      },
      {
       "key": "song:the-war-on-drugs-music:coming-through",
       "stats": {
-       "first_in_archive": true,
-       "plays_before": 0,
-       "total_plays": 27
+       "days_since": 85,
+       "gap_shows": 0,
+       "last_played": {
+        "date": "2011-01-08",
+        "show": "live:the-war-on-drugs-music:2011-01-08:bowery-ballroom"
+       },
+       "plays_before": 1,
+       "total_plays": 30
       },
       "title": "Comin' Through"
      },
@@ -196,7 +201,7 @@
         "show": "live:the-war-on-drugs-music:2011-01-08:bowery-ballroom"
        },
        "plays_before": 2,
-       "total_plays": 33
+       "total_plays": 32
       },
       "title": "Arms Like Boulders"
      }
@@ -207,11 +212,10 @@
      "bustouts": [],
      "first_in_archive": [
       "Best Night",
-      "It's Your Destiny",
-      "Comin' Through"
+      "It's Your Destiny"
      ],
      "show_number": 3,
-     "shows_in_archive": 75,
+     "shows_in_archive": 73,
      "songs": 8,
      "stats_complete": true
     },
@@ -220,16 +224,88 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-24T18:50:21.611943+00:00",
+    "generated_at": "2026-10-25T06:01:16.045481+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 1,
-   "signature": "Hz7981i8mQa-1965RrEcHvn2bxZnhR4pj0YnlpYDDmWJJaH-7WQR8r3YR2a55ynrgtJnS3vqSMlxkK6tGJQRBA",
+   "revision": 2,
+   "signature": "WA7gxFNCjagRDfpn9dkLvwRqxIq5azCB4wTr0CXGBHR8x48UyCH5vyUSnh2m2WakY5FYcKKkEj5ce7u_GfYdAw",
    "subject_key": "live:the-war-on-drugs-music:2011-04-03:webster-hall",
-   "updated_at": "2026-10-24T18:50:21.612344"
+   "updated_at": "2026-10-25T06:01:16.045721"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **It's Your Destiny**: earliest performance in the archive; rare: 8 archived performances [2]\n- Earliest performances in the archive: Best Night [2]\n\n## The recordings\n\n- **wod2011-04-03.webster_acidjack** (recommended): source not stated; 8 songs; 41 min [1]\n\n## Tapers and lineage\n\n- **wod2011-04-03.webster_acidjack**: taped by acidjack and zach payne; transferred by acidjack; source: Schoeps Mk41>CMC6>Sound Devices USBpre2+Schoeps mk4v>NBox>>Edirol R-44 [Oade Concert Mod] (24/48) [1]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "acidjack and zach payne",
+     "author_url": "https://archive.org/search?query=taper%3A%22acidjack%20and%20zach%20payne%22",
+     "credits": [
+      {
+       "name": "acidjack and zach payne",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22acidjack%20and%20zach%20payne%22"
+      },
+      {
+       "name": "acidjack",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22acidjack%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2011-07-28",
+     "quote_or_claim": "8-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "The War On Drugs Music Live at Webster Hall on 2011-04-03",
+     "url": "https://archive.org/details/wod2011-04-03.webster_acidjack",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 2,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 73 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "TheWarOnDrugsMusic collection, Live Music Archive",
+     "url": "https://archive.org/details/TheWarOnDrugsMusic",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [],
+    "format": "liner-3",
+    "show": "live:the-war-on-drugs-music:2011-04-03:webster-hall"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 0,
+    "facts_hash": "f564f50e9456dc3eb4e13141801655804d3aefccb5fbb3c9880594cdbc196b04",
+    "generated_at": "2026-10-25T07:07:24.153126+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "f352c39ed0b72b5a0daf9891a3f37d7a52ae01c925d18ded05d1683de3c7bedd",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 3.4
+   },
+   "revision": 1,
+   "signature": "1Oo8H9FrAYhFHlASYzd7x3ngMsBthndn7-cwnnJoqvUgmCNa6EA5cGzU8R-DeAhw7Jtx7TIt1yb1IQZTCt6iCA",
+   "subject_key": "live:the-war-on-drugs-music:2011-04-03:webster-hall",
+   "updated_at": "2026-10-25T07:07:24.153890"
   }
  },
  "recommended": {

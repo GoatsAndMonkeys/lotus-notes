@@ -29,7 +29,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -297,8 +297,8 @@
         "date": "2015-04-02",
         "show": "live:mountain-goats:2015-04-02:the-mercy-lounge"
        },
-       "plays_before": 36,
-       "total_plays": 229
+       "plays_before": 35,
+       "total_plays": 227
       },
       "title": "Up the Wolves"
      },
@@ -340,7 +340,7 @@
         "show": "live:mountain-goats:2014-06-15:bottom-of-the-hill"
        },
        "plays_before": 56,
-       "total_plays": 88
+       "total_plays": 87
       },
       "title": "The Best Ever Death Metal Band in Denton"
      },
@@ -369,8 +369,8 @@
         "date": "2015-04-11",
         "show": "live:mountain-goats:2015-04-11:city-winery"
        },
-       "plays_before": 79,
-       "total_plays": 313
+       "plays_before": 78,
+       "total_plays": 311
       },
       "title": "This Year"
      }
@@ -382,8 +382,8 @@
       "Minnesota"
      ],
      "first_in_archive": [],
-     "show_number": 203,
-     "shows_in_archive": 467,
+     "show_number": 201,
+     "shows_in_archive": 463,
      "songs": 20,
      "stats_complete": true
     },
@@ -394,19 +394,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 4,
+   "parent_revision": 5,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.280800+00:00",
+    "generated_at": "2026-10-24T22:01:49.497589+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 5,
-   "signature": "L593vVWHa9tj2uZBUVA9REOEuIESswWxaWXbKFaiOld8rS86zj6snLkmXgFqwcmZQFvKgyjvdkAJ4CAH7Um4DQ",
+   "revision": 6,
+   "signature": "ETTKUVYvJwR0b5bQRAjvY_LZWpuNtjXJaSUcJS-3Pnbv2DWjPYDLDYIrJuCF6BojsAcgBQ0LfPm4obZNgQe7Cw",
    "subject_key": "live:mountain-goats:2015-04-16:bogarts",
-   "updated_at": "2026-10-23T22:48:28.281035"
+   "updated_at": "2026-10-24T22:01:49.498475"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **The Ballad of Bull Ramos**: rare: 4 archived performances [2]\n- **Minnesota**: back after 39 archived shows (1402 days) [2]\n- **The Legend of Chavo Guerrero**: rare: 9 archived performances [2]\n\n## The recordings\n\n- **MountainGoats2015-04-16.Bogarts_Cincinnati** (recommended): source not stated; 20 songs; 90 min [1]\n\n## Around the show\n\n- Stage talk about: Dusty Rhodes [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -415,7 +415,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2015-04-17",
-     "quote_or_claim": "The recording was made with an iPhone Recorder App and includes a Dusty Rhodes intro, the full 20-song setlist, and a second encore of This Year.",
+     "quote_or_claim": "20-song unlabelled recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at Bogart's on 2015-04-16",
      "url": "https://archive.org/details/MountainGoats2015-04-16.Bogarts_Cincinnati",
@@ -430,7 +430,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "This is show 203 of 467 in the archive, the previous show was at City Winery on 2015-04-11, and the setlist includes rare tracks like The Ballad of Bull Ramos and a bustout of Minnesota.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -440,28 +440,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2015-04-16:bogarts"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 1,
-    "backend": "adhoc",
+    "attempts": 0,
+    "backend": null,
+    "claims": 0,
     "facts_hash": "bce02de8530427a851976a168e60049ae145a026c4387a47355ed587fdc11adb",
-    "generated_at": "2026-10-24T11:42:29.137842+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "generated_at": "2026-10-24T21:39:57.329536+00:00",
+    "model": null,
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "607ffbe35f7b4d638748bbfee171be45aa3dca29007a7adcc7583699749539a2",
-    "prompt_version": "liner-2",
+    "prompt_sha256": null,
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 42.2
+    "seconds": 0.0
    },
-   "revision": 1,
-   "signature": "wTuJ8RMykLaVelnHGV2J8dGGLWNcpVv203xPHpjkZ83HC1maUaHTLVNLVnEa-beYKEM2JXOJTzvpEPPUDR7WDQ",
+   "revision": 2,
+   "signature": "huwjAhq1lhJnyqm4gzT5dvrfVvvXY3OnqicWPvVTZ-fr_yEfSBHWC9bjMXllHwRmav7syYR_XBtgNotaUEiOCQ",
    "subject_key": "live:mountain-goats:2015-04-16:bogarts",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T11:42:29.141546"
+   "updated_at": "2026-10-24T21:39:57.330412"
   }
  },
  "recommended": {

@@ -455,6 +455,130 @@
    "signature": "sBxaYXxlY2mrM50hhSpvoqBJFKUjp3wU79vXphgrIqCZ8syLOiL3sNua-SvGr52sdasN9wTTMh4gchjf07OUCA",
    "subject_key": "live:king-gizzard-and-the-lizard-wizard:2024-11-13:jjs-live",
    "updated_at": "2026-10-24T18:07:37.586462"
+  },
+  "liner": {
+   "body_md": "## Setlist highlights\n\n- **Mirage City (Live in Arkansas '24)**: rare: 12 archived performances [3]\n\n## The recordings\n\n- **kglw2024-11-13.bandcampbootlegger** (recommended): soundboard; 16 songs; 124 min [1]\n- **kglw2024-11-13**: source not stated; 3 songs; 123 min [2]\n\n## Tapers and lineage\n\n- **kglw2024-11-13.bandcampbootlegger**: taped by Sam Joseph, Joe Santarpia, Grace Reader, Gaspard De Meulemeester; transferred by KGLW.net; source: SBD [1]\n- **kglw2024-11-13**: taped by puffanug; transferred by puffanug; source: ADK THOR>PMD661>24/96wav [2]. Also: ADK T7 THORs in ORTF were placed 120 feet from the stage; The recording was captured on a modified Marantz PMD661 by taper ted [2]",
+   "citations": [
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Sam Joseph, Joe Santarpia, Grace Reader, Gaspard De Meulemeester",
+     "author_url": "https://archive.org/search?query=taper%3A%22Sam%20Joseph%2C%20Joe%20Santarpia%2C%20Grace%20Reader%2C%20Gaspard%20De%20Meulemeester%22",
+     "credits": [
+      {
+       "name": "Sam Joseph, Joe Santarpia, Grace Reader, Gaspard De Meulemeester",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22Sam%20Joseph%2C%20Joe%20Santarpia%2C%20Grace%20Reader%2C%20Gaspard%20De%20Meulemeester%22"
+      },
+      {
+       "name": "KGLW.net",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22KGLW.net%22"
+      }
+     ],
+     "id": 1,
+     "kind": "archive_item",
+     "published_at": "2024-11-16",
+     "quote_or_claim": "16-song SBD recording (filenames setlist)",
+     "site": "Internet Archive",
+     "title": "Live in Arkansas '24",
+     "url": "https://archive.org/details/kglw2024-11-13.bandcampbootlegger",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "puffanug",
+     "author_url": "https://archive.org/search?query=taper%3A%22puffanug%22",
+     "credits": [
+      {
+       "name": "puffanug",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22puffanug%22"
+      },
+      {
+       "name": "puffanug",
+       "role": "transferer",
+       "url": "https://archive.org/search?query=transferer%3A%22puffanug%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2024-11-14",
+     "quote_or_claim": "3-song unlabelled recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "King Gizzard & The Lizard Wizard Live at JJ's Live on 2024-11-13",
+     "url": "https://archive.org/details/kglw2024-11-13",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-24",
+     "author": "Music Lotus (computed)",
+     "author_url": null,
+     "id": 3,
+     "kind": "archive_metadata",
+     "published_at": null,
+     "quote_or_claim": "Song statistics computed from 249 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "site": "Internet Archive",
+     "title": "KingGizzardAndTheLizardWizard collection, Live Music Archive",
+     "url": "https://archive.org/details/KingGizzardAndTheLizardWizard",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    }
+   ],
+   "facts": {
+    "claims": [
+     {
+      "recording": "kglw2024-11-13.bandcampbootlegger",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Sam Joseph, Joe Santarpia, Grace Reader, and Gaspard De Meulemeester recorded the show",
+      "type": "lineage"
+     },
+     {
+      "recording": "kglw2024-11-13",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "ADK T7 THORs in ORTF were placed 120 feet from the stage",
+      "type": "lineage"
+     },
+     {
+      "recording": "kglw2024-11-13",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The recording was captured on a modified Marantz PMD661 by taper ted",
+      "type": "lineage"
+     }
+    ],
+    "format": "liner-3",
+    "show": "live:king-gizzard-and-the-lizard-wizard:2024-11-13:jjs-live"
+   },
+   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
+   "kind": "liner",
+   "parent_revision": null,
+   "provenance": {
+    "attempts": 1,
+    "backend": "adhoc",
+    "claims": 3,
+    "facts_hash": "55d96464eff1333c301933fffef40e16ec2eb9d32f2c10461e341bbd72004f88",
+    "generated_at": "2026-10-25T03:05:29.535258+00:00",
+    "model": "qwen/qwen3.8-27b",
+    "pipeline": "lotus.notes.liner",
+    "prompt_sha256": "32c414ed60e66cd0888714ecc0e941509cdda7e9bb54f5f5d622715f12b03ae5",
+    "prompt_version": "liner-3",
+    "rejected": [],
+    "seconds": 20.1
+   },
+   "revision": 1,
+   "signature": "prfuUNS5kxYQXLhVnxxrTce27hd3Yn2zSEM8s2lNldGbCEJp6yUiZdjJl0MwjbQmAgfdC_5ddc1fw5GVl_etDA",
+   "subject_key": "live:king-gizzard-and-the-lizard-wizard:2024-11-13:jjs-live",
+   "updated_at": "2026-10-25T03:05:29.537471"
   }
  },
  "recommended": {

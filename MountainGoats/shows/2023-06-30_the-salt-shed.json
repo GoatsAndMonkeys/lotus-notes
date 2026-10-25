@@ -41,7 +41,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -127,7 +127,7 @@
         "show": "live:mountain-goats:2023-06-29:mercury-ballroom"
        },
        "plays_before": 40,
-       "total_plays": 52
+       "total_plays": 51
       },
       "title": "Liza Forever Minnelli"
      },
@@ -280,8 +280,8 @@
         "date": "2023-06-29",
         "show": "live:mountain-goats:2023-06-29:mercury-ballroom"
        },
-       "plays_before": 109,
-       "total_plays": 140
+       "plays_before": 108,
+       "total_plays": 138
       },
       "title": "Dance Music"
      },
@@ -295,7 +295,7 @@
         "show": "live:mountain-goats:2023-02-12:skullys-music-diner"
        },
        "plays_before": 79,
-       "total_plays": 98
+       "total_plays": 97
       },
       "title": "Woke Up New"
      },
@@ -309,7 +309,7 @@
         "show": "live:mountain-goats:2023-06-29:mercury-ballroom"
        },
        "plays_before": 213,
-       "total_plays": 300
+       "total_plays": 299
       },
       "title": "No Children"
      }
@@ -319,8 +319,8 @@
     "summary": {
      "bustouts": [],
      "first_in_archive": [],
-     "show_number": 373,
-     "shows_in_archive": 467,
+     "show_number": 370,
+     "shows_in_archive": 463,
      "songs": 14,
      "stats_complete": true
     },
@@ -333,19 +333,19 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "facts",
-   "parent_revision": 6,
+   "parent_revision": 7,
    "provenance": {
     "complete_collection": true,
-    "generated_at": "2026-10-23T22:48:28.468168+00:00",
+    "generated_at": "2026-10-24T22:01:49.989489+00:00",
     "pipeline": "lotus.notes.facts"
    },
-   "revision": 7,
-   "signature": "PJGph3fs9kp_DffSfBfrANdouWBYdQ4wy_sHJeOJ148JKJvsfpK5WOZ_7zbhZS98SApH3_iu_KB_BxfHtGuSDw",
+   "revision": 8,
+   "signature": "qreLTGf7ABPkwhVA8SYB5o7kOhLil2u-P8cIdCnKOSen3lhivMqlAP2sat556fFwqLB4qV3VNW0iAhyYPEmkCQ",
    "subject_key": "live:mountain-goats:2023-06-30:the-salt-shed",
-   "updated_at": "2026-10-23T22:48:28.468401"
+   "updated_at": "2026-10-24T22:01:49.991052"
   },
   "liner": {
-   "body_md": "",
+   "body_md": "## Setlist highlights\n\n- **An Antidote for Strychnine**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **tMG2023-06-30** (recommended): matrix (soundboard mixed with audience mics); 14 songs; 63 min [1]\n\n## Around the show\n\n- Stage talk about: No Children, abrupt, skipped a song [1]\n\n## Tapers and lineage\n\n- **tMG2023-06-30**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 Omnis (healy on stage) > CA-Ugly 2 Preamp > PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -366,7 +366,7 @@
      "id": 1,
      "kind": "archive_item",
      "published_at": "2023-07-12",
-     "quote_or_claim": "The uploader mentions spoken introductions for No Children and that a song was skipped.",
+     "quote_or_claim": "14-song MTX recording (tags setlist)",
      "site": "Internet Archive",
      "title": "Mountain Goats Live at The Salt Shed on 2023-06-30",
      "url": "https://archive.org/details/tMG2023-06-30",
@@ -381,7 +381,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "An Antidote for Strychnine is a rare song with 12 archived performances.",
+     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -406,28 +406,30 @@
     }
    ],
    "facts": {
+    "claims": [],
+    "format": "liner-3",
     "show": "live:mountain-goats:2023-06-30:the-salt-shed"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
     "backend": "adhoc",
+    "claims": 0,
     "facts_hash": "0caa2483c7206b6dae84156b79be113fa70bc4bfb956cebb942c795a26cb3c6e",
-    "generated_at": "2026-10-24T12:29:39.835566+00:00",
+    "generated_at": "2026-10-24T21:40:31.884107+00:00",
     "model": "qwen/qwen3.8-27b",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": "e8fe2cafca8d07a7bfe0e4573e8976a44aea023a64c2569d5397090908ce6a9b",
-    "prompt_version": "liner-2",
+    "prompt_sha256": "9e6f29dd683cbd1a0bb6e143fc5fb6b030d137e5fcfd72c7810cc5846409d2a3",
+    "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 55.8
+    "seconds": 5.3
    },
-   "revision": 1,
-   "signature": "XAu8ppsBlSfaUT_QRkXzCP8rcaUyuolTMHJNjaOVmHRVafOZpBy2kWHAIqVoWwvBjTCuGSuz7aTt1ZnphfIaBQ",
+   "revision": 2,
+   "signature": "ZLrUpwyVtNfUOmsKOusS5O8oeOfYwIDbht3McgjoW2zeO5TBIkg-xaF7SAFr2b3qjgG7QLioa4waSUAErHutDA",
    "subject_key": "live:mountain-goats:2023-06-30:the-salt-shed",
-   "summary_hidden": true,
-   "updated_at": "2026-10-24T12:29:39.838135"
+   "updated_at": "2026-10-24T21:40:31.885201"
   }
  },
  "recommended": {
