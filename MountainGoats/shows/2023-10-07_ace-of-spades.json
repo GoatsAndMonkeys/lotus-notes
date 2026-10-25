@@ -509,7 +509,7 @@
    "updated_at": "2026-10-24T22:01:50.042633"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Guys on Every Corner**: rare: 14 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- **Applause and Slow Parts forgot to split oops**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tMG2023-10-07** (recommended): matrix (soundboard mixed with audience mics); 26 songs; 127 min [1]\n\n## Around the show\n\n- Stage talk about: No Children, band leaves, Enoch [1]\n\n## Tapers and lineage\n\n- **tMG2023-10-07**: taped by @lmgbtapes on tweeter; transferred by @lmgbtapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage, left side under pianos between Matt and JD) > CA-Ugly 2 > PCM-A10 [1]",
+   "body_md": "## What listeners single out\n\n- A partial performance of \"All for the Best\", written by David Haskell and Stephen Nathan, was played after \"Fresh Tattoo\" [1]\n\n## Setlist highlights\n\n- **Guys on Every Corner**: rare: 14 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- **Applause and Slow Parts forgot to split oops**: earliest performance in the archive; legendary: the only archived performance [2]\n\n## The recordings\n\n- **tMG2023-10-07** (recommended): matrix (soundboard mixed with audience mics); 26 songs; 127 min [1]\n\n## Around the show\n\n- Stage talk about: No Children, band leaves, Enoch [1]\n\n## Tapers and lineage\n\n- **tMG2023-10-07**: taped by @lmgbtapes on tweeter; transferred by @lmgbtapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage, left side under pianos between Matt and JD) > CA-Ugly 2 > PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -545,7 +545,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -570,30 +570,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "A partial performance of \"All for the Best\", written by David Haskell and Stephen Nathan, was played after \"Fresh Tattoo\"",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-10-07:ace-of-spades"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "12d4e0884048e8309246e0b0d768e32a08d7afc07c596421f4faf0d552bc6ebb",
-    "generated_at": "2026-10-24T21:21:32.582035+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "1c009d6e05f1240657d1a806fa4fb3bb64f4d5fe8f6b46b3f72f1a00529d474c",
+    "generated_at": "2026-10-25T23:13:37.084475+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "3a8a718bf2cf90854fb58ff9fd41b95ace3014f82d8e135a5d3cf8d6475e95ff",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.7
+    "seconds": 7.5
    },
-   "revision": 2,
-   "signature": "L7z3FzgzxU8v86HQYyXQZWulL0yabvB6YzSjg9w6Isc5OvalbkhFaJ3K31SdLtRD-FFrKnakbVmsvn9GWCpsAA",
+   "revision": 3,
+   "signature": "0zjuxA846RzqHWKUk1xaBK9RwVfZWm920c_vMgGvGycPaMQ0b6KePaVowV1qJMeEqcsbCSnYX84rFkNGAJuOBQ",
    "subject_key": "live:mountain-goats:2023-10-07:ace-of-spades",
-   "updated_at": "2026-10-24T21:21:32.583456"
+   "updated_at": "2026-10-25T23:13:37.087621"
   }
  },
  "recommended": {

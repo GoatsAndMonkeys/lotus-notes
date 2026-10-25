@@ -474,7 +474,7 @@
    "updated_at": "2026-10-24T22:01:49.529318"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Until I Am Whole**: back after 31 archived shows (1167 days) [3]\n- **Sept 19 Triple X Love! Love!**: rare: 12 archived performances [3]\n- **Maize Stalk Drinking Blood**: back after 189 archived shows (5985 days); rare: 13 archived performances [3]\n- **Going to Kansas**: back after 75 archived shows (2528 days); rare: 12 archived performances [3]\n- **White Cedar**: back after 23 archived shows (946 days) [3]\n- **Liza Forever Minnelli**: back after 51 archived shows (1719 days) [3]\n- **The Dinosauri**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Going to Bogota**: back after 183 archived shows (5105 days) [3]\n- Earliest performances in the archive: We Do It Different on the West Coast [3]\n\n## The recordings\n\n- **tmg2016-02-27.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 84 min [1]\n- **tmg2016-02-27.sah**: audience recording; 18 songs; 83 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-02-27.SBD.AUD.Matrix**: taped by blg; transferred by blg; source: 2 Source Mix: [SBD > M10] + [Schoeps CCM4’s > Tinybox > M10] => FLAC [1]. Also: Mastering used Adobe Audition, iZotope Ozone 5, WavePad, and xACT to create FLAC [1]\n- **tmg2016-02-27.sah**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
+   "body_md": "## Setlist highlights\n\n- **Until I Am Whole**: back after 31 archived shows (1167 days) [3]\n- **Sept 19 Triple X Love! Love!**: rare: 12 archived performances [3]\n- **Maize Stalk Drinking Blood**: back after 187 archived shows (5985 days); rare: 13 archived performances [3]\n- **Going to Kansas**: back after 75 archived shows (2528 days); rare: 12 archived performances [3]\n- **White Cedar**: back after 23 archived shows (946 days) [3]\n- **Liza Forever Minnelli**: back after 51 archived shows (1719 days) [3]\n- **The Dinosauri**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Going to Bogota**: back after 181 archived shows (5105 days) [3]\n- Earliest performances in the archive: We Do It Different on the West Coast [3]\n\n## The recordings\n\n- **tmg2016-02-27.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 84 min [1]\n- **tmg2016-02-27.sah**: audience recording; 18 songs; 83 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-02-27.SBD.AUD.Matrix**: taped by blg; transferred by blg; source: 2 Source Mix: [SBD > M10] + [Schoeps CCM4’s > Tinybox > M10] => FLAC [1]. Also: Recording is a soundboard and audience matrix mix, mastered by someone credited as BLG; Mastering chain: Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 for EQ, exciter, dynamics and imaging; After Ozone, tracking was done in WavePad, tags added in xACT, and the result encoded to FLAC; notes compiled Feb 29, 2016 [1]\n- **tmg2016-02-27.sah**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -532,7 +532,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -548,7 +548,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Mastering used Adobe Audition, iZotope Ozone 5, WavePad, and xACT to create FLAC",
+      "text": "Recording is a soundboard and audience matrix mix, mastered by someone credited as BLG",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2016-02-27.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastering chain: Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 for EQ, exciter, dynamics and imaging",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2016-02-27.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "After Ozone, tracking was done in WavePad, tags added in xACT, and the result encoded to FLAC; notes compiled Feb 29, 2016",
       "type": "lineage"
      }
     ],
@@ -557,24 +573,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "9e798a8e0c83102696c8f16517207b7078941d9f32874ce5c0439717799c083f",
-    "generated_at": "2026-10-24T21:48:31.999734+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "0dfbff409584bf0b8b3b01f10141a477e4f82d92026e9b0e3d2f42a0a95e7083",
+    "generated_at": "2026-10-25T23:15:37.574879+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6d21b1ddb5005ec9467384c5e9879633a418faacc773a9e9e7c5ea96adcd3ab3",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.1
+    "seconds": 4.0
    },
-   "revision": 1,
-   "signature": "6zuH-c_BISKGz2rY5YPcE1RgPQDNvjtQ62i0lclspiHeVoTOsmuMPaTD2JIw1vhHH8oveZfFEVj5ATtTMm-HCQ",
+   "revision": 2,
+   "signature": "dfaq9tfGGH-yWhmhPVxeoXqFakNpdUtZfj2LYZvILzKJHvH3XLDN8D86ygwVjiEWrZyIbYPXDa6S2prfMmXKBA",
    "subject_key": "live:mountain-goats:2016-02-27:swedish-music-hall-san-francisco-ca",
-   "updated_at": "2026-10-24T21:48:32.001041"
+   "updated_at": "2026-10-25T23:15:37.586110"
   }
  },
  "recommended": {

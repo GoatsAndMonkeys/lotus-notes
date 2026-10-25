@@ -507,7 +507,7 @@
    "updated_at": "2026-10-24T22:01:49.349111"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **For Charles Bronson**: rare: 11 archived performances [2]\n- **Outer Scorpion Squadron**: rare: 8 archived performances [2]\n- **Seeing Daylight**: rare: 13 archived performances [2]\n- **Age of Kings**: rare: 8 archived performances [2]\n\n## The recordings\n\n- **MG2011-04-03.flac** (recommended): audience recording; 26 songs; 112 min [1]\n\n## Around the show\n\n- Stage talk about: encore break +, heavy metal [1]\n\n## Tapers and lineage\n\n- **MG2011-04-03.flac**: taped by Mechanical Forest Sound; source: AUD [1]. Also: Recorded by Mechanical Forest Sound using Church-Audio CA-14/C mics and STC-9100 preamp; Captured on Edirol T-09HR at 24/48, later converted to 16/44.1 FLAC [1]",
+   "body_md": "## Setlist highlights\n\n- **For Charles Bronson**: rare: 11 archived performances [2]\n- **Outer Scorpion Squadron**: rare: 8 archived performances [2]\n- **Seeing Daylight**: rare: 13 archived performances [2]\n- **Age of Kings**: rare: 8 archived performances [2]\n\n## The recordings\n\n- **MG2011-04-03.flac** (recommended): audience recording; 26 songs; 112 min [1]\n\n## Around the show\n\n- Stage talk about: encore break +, heavy metal [1]\n\n## Tapers and lineage\n\n- **MG2011-04-03.flac**: taped by Mechanical Forest Sound; source: AUD [1]. Also: Recorded by Mechanical Forest Sound, catalogued as MFS Master 677; Chain: Church-Audio CA-14/C microphones into STC-9100 stereo preamp into Edirol T-09HR recorder at 24-bit/48kHz; Post-processing: hard limiting, volume boost and track splits in Audacity, r8brain downconversion to 16/44.1, SBE fixes, FLAC level 7 encoding [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -538,7 +538,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -554,7 +554,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded by Mechanical Forest Sound using Church-Audio CA-14/C mics and STC-9100 preamp",
+      "text": "Recorded by Mechanical Forest Sound, catalogued as MFS Master 677",
       "type": "lineage"
      },
      {
@@ -562,7 +562,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Captured on Edirol T-09HR at 24/48, later converted to 16/44.1 FLAC",
+      "text": "Chain: Church-Audio CA-14/C microphones into STC-9100 stereo preamp into Edirol T-09HR recorder at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "MG2011-04-03.flac",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Post-processing: hard limiting, volume boost and track splits in Audacity, r8brain downconversion to 16/44.1, SBE fixes, FLAC level 7 encoding",
       "type": "lineage"
      }
     ],
@@ -571,24 +579,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "4253d75c845b7a28c441d9aa6d166abf2e41aec2d32d67f542f36a2d2ef1de7e",
-    "generated_at": "2026-10-24T21:19:58.217014+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "84490eb74d3ad3a43c97bf5a82f5bf8c9754bae0c7f8a5f220291e69b8781830",
+    "generated_at": "2026-10-25T23:16:08.785600+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "f0f0590553448f76b727f44a3f4c39830b8ab223d9d692d4e7c04f14768510c2",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 13.6
+    "seconds": 5.3
    },
-   "revision": 2,
-   "signature": "UPhhDOhSn0iH8LnbmgAT-YrVb_DPHAZyXqNw-jrg0gAGrUkmlilJURe6eDgiJFlcdw6LbIYeFNDaG1sm2ztNCQ",
+   "revision": 3,
+   "signature": "T9eUCl0-RC8YF-ysau459CE8zorrVbwN2FNCngHQ9V7rvqPcEnVy20q-rgoCa-CTmoGD4qv3iVL-Iy52k986BQ",
    "subject_key": "live:mountain-goats:2011-04-03:the-opera-house",
-   "updated_at": "2026-10-24T21:19:58.222404"
+   "updated_at": "2026-10-25T23:16:08.791491"
   }
  },
  "recommended": {

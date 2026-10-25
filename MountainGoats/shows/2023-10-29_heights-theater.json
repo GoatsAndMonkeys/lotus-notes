@@ -500,7 +500,7 @@
    "updated_at": "2026-10-24T22:01:50.050507"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Peacocks**: back after 175 archived shows (2800 days); rare: 4 archived performances [2]\n- **Born Ready**: back after 364 archived shows (8226 days); rare: 5 archived performances [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **mountaingoats2023-10-29.flac16** (recommended): source not stated; 25 songs; 114 min [1]\n\n## Tapers and lineage\n\n- **mountaingoats2023-10-29.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
+   "body_md": "## Setlist highlights\n\n- **Peacocks**: back after 174 archived shows (2800 days); rare: 4 archived performances [2]\n- **Born Ready**: back after 361 archived shows (8226 days); rare: 5 archived performances [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **mountaingoats2023-10-29.flac16** (recommended): source not stated; 25 songs; 114 min [1]\n\n## Around the show\n\n- The Houston Heights Theater show was the third night of a Texas run, after Lubbock's Cactus Theater and Dallas's Longhorn Ballroom [3]\n\n## Tapers and lineage\n\n- **mountaingoats2023-10-29.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -536,7 +536,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -548,6 +548,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "The Houston Heights Theater show was the third night of a Texas run, after Lubbock's Cactus Theater and Dallas's Longhorn Ballroom",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -555,36 +556,45 @@
      "site": "themountaingoats.fandom.com",
      "title": "Spectral Tide Tour 2023 | The Mountain Goats Wiki - Fandom",
      "url": "https://themountaingoats.fandom.com/wiki/Spectral_Tide_Tour_2023",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The Houston Heights Theater show was the third night of a Texas run, after Lubbock's Cactus Theater and Dallas's Longhorn Ballroom",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-10-29:heights-theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "da063fe18b3c1240861483fc8bb3c9fdb8bb41ceb4f0708eebd541f4519f6d32",
-    "generated_at": "2026-10-24T21:52:27.387511+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "c2a085b6c2b5fe1f1f1dcd69584d5e7c1a54b01395e0d78b6de05590e97f4f96",
+    "generated_at": "2026-10-25T23:13:30.420638+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "bc6a80857ffaa110741b60eabcfc82dd8e55fbf00fd58af26555939a0343bb0f",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 4.5
+    "seconds": 5.0
    },
-   "revision": 2,
-   "signature": "9-1aAWoEghrWiOEND_2P70dqnAjCcJGBjHK_-gte7ksCjUyELviDwzHisrN3TRmdeTtNbA57rqD2DlKkjtAyBA",
+   "revision": 3,
+   "signature": "MjbQaGo-_A4MsMoul90UHpTJFG84MQr5nqD8HZIiCzMulCF44O8_tzy91hHMKg9A2NiGdKZp_6QPZShwmgwCAg",
    "subject_key": "live:mountain-goats:2023-10-29:heights-theater",
-   "updated_at": "2026-10-24T21:52:27.388849"
+   "updated_at": "2026-10-25T23:13:30.424554"
   }
  },
  "recommended": {

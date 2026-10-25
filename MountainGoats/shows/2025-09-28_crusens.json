@@ -439,7 +439,7 @@
    "updated_at": "2026-10-24T22:01:50.245054"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **New Britain**: rare: 7 archived performances; cut on the recording [2]\n- **Bones Don't Rust**: rare: 12 archived performances [2]\n- **Extreme South #1**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Going to Palestine**: rare: 10 archived performances [2]\n- **Great Pirates**: rare: 13 archived performances [2]\n\n## The recordings\n\n- **tMG2025-09-28** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 91 min [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2025-09-28**: taped by Tape&Bake; transferred by Tape&Bake; source: DPA 4060 (Healy on stage) > Tascam FR-AV2 + SBD > Thumb Drive [1]",
+   "body_md": "## What listeners single out\n\n- **New Britain** (1 other source): The notes list the opener as coming from the album Full Force Galesburg [1]\n- **Extreme South #1** (1 other source): The uploader's notes label this song as unreleased, with no album listed [1]\n- **Going to Palestine** (1 other source): The uploader's notes also mark this song as unreleased, with no album attached [1]\n\n## Setlist highlights\n\n- **New Britain**: rare: 7 archived performances; cut on the recording [2]\n- **Bones Don't Rust**: rare: 12 archived performances [2]\n- **Extreme South #1**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Going to Palestine**: rare: 10 archived performances [2]\n- **Great Pirates**: rare: 13 archived performances [2]\n\n## The recordings\n\n- **tMG2025-09-28** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 91 min [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2025-09-28**: taped by Tape&Bake; transferred by Tape&Bake; source: DPA 4060 (Healy on stage) > Tascam FR-AV2 + SBD > Thumb Drive [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -475,7 +475,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -485,30 +485,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Extreme South #1",
+      "song_key": "song:mountain-goats:extreme-south-1",
+      "src": 1,
+      "text": "The uploader's notes label this song as unreleased, with no album listed",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Going to Palestine",
+      "song_key": "song:mountain-goats:going-to-palestine",
+      "src": 1,
+      "text": "The uploader's notes also mark this song as unreleased, with no album attached",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "New Britain",
+      "song_key": "song:mountain-goats:new-britain",
+      "src": 1,
+      "text": "The notes list the opener as coming from the album Full Force Galesburg",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2025-09-28:crusens"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "16302d7c15d6e7fe26fa82b5c980d70731c2b7426d3501a582c4d7a784f55e0c",
-    "generated_at": "2026-10-24T21:53:08.347435+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "e541a9235aec029b65ee0bcd61e8a73902d1575450a33aa36adca628efebbf47",
+    "generated_at": "2026-10-25T23:12:58.131415+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "f27b3c18c97c4546b78e4b11e5cdaabbd9dc021dc442c27bd24d4b48d0d22a37",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.7
+    "seconds": 5.0
    },
-   "revision": 2,
-   "signature": "HrBB677JO0mkr2owgyLQG2JvzyLdGGBPSRjA5NYUOsx-xe3bgInfX_Os6Yxa_6V3DvXW3uulQoIkS0UPqaPnDg",
+   "revision": 3,
+   "signature": "yHZEfOHxudy1AhhWPSfIi078JJ_i9EZs-HVjWtInRryK8A6kq9kSorcitgWRK3jPHQMu-4P90NOXdLRLuVfRAg",
    "subject_key": "live:mountain-goats:2025-09-28:crusens",
-   "updated_at": "2026-10-24T21:53:08.348687"
+   "updated_at": "2026-10-25T23:12:58.135239"
   }
  },
  "recommended": {

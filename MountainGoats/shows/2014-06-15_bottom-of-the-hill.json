@@ -555,7 +555,7 @@
    "updated_at": "2026-10-24T22:01:49.434944"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Running Away With What Freud Said**: back after 89 archived shows (2657 days); rare: 9 archived performances [3]\n- **Ice Cream, Cobra Man**: back after 57 archived shows (1900 days); rare: 3 archived performances [3]\n- **Move (Chicago 196?)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **This Magic Moment**: back after 57 archived shows (1900 days); mythic rare: 2 archived performances [3]\n- **Don’t Take the Dogs Away**: earliest performance in the archive; legendary: the only archived performance [3]\n- **One Winter at Point Alpha Privative**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Solomon Revisited**: back after 87 archived shows (2555 days); rare: 5 archived performances [3]\n- **Going To Alaska**: back after 55 archived shows (1828 days); rare: 10 archived performances [3]\n\n## The recordings\n\n- **MountainGoats2014-06-15.mix.flac16** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 94 min [1]\n- **tmg2014-06-15.both**: audience recording; 25 songs; 94 min [2]\n\n## Tapers and lineage\n\n- **MountainGoats2014-06-15.mix.flac16**: taped by anonymous; transferred by BLG; source: [SBD > M10] + [Schoeps CCM4 > Tinybox > M10] => FLAC [1]. Also: Recording used Schoeps CCM4 and M10, processed in Adobe Audition and Ozone 5 [1]\n- **tmg2014-06-15.both**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
+   "body_md": "## Setlist highlights\n\n- **Running Away With What Freud Said**: back after 89 archived shows (2657 days); rare: 9 archived performances [3]\n- **Ice Cream, Cobra Man**: back after 57 archived shows (1900 days); rare: 3 archived performances [3]\n- **Move (Chicago 196?)**: earliest performance in the archive; legendary: the only archived performance [3]\n- **This Magic Moment**: back after 57 archived shows (1900 days); mythic rare: 2 archived performances [3]\n- **Don’t Take the Dogs Away**: earliest performance in the archive; legendary: the only archived performance [3]\n- **One Winter at Point Alpha Privative**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Solomon Revisited**: back after 87 archived shows (2555 days); rare: 5 archived performances [3]\n- **Going To Alaska**: back after 55 archived shows (1828 days); rare: 10 archived performances [3]\n\n## The recordings\n\n- **MountainGoats2014-06-15.mix.flac16** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 94 min [1]\n- **tmg2014-06-15.both**: audience recording; 25 songs; 94 min [2]\n\n## Tapers and lineage\n\n- **MountainGoats2014-06-15.mix.flac16**: taped by anonymous; transferred by BLG; source: [SBD > M10] + [Schoeps CCM4 > Tinybox > M10] => FLAC [1]. Also: Mix of a soundboard feed and a Schoeps CCM4 microphone recording run through a Tinybox, both going into an M10 recorder; Mastering by BLG: edits, alignment and mixdown in Adobe Audition, then iZotope Ozone 5 processing, WavePad tracking, xACT tagging, FLAC encoding [1]\n- **tmg2014-06-15.both**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -613,7 +613,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -629,7 +629,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recording used Schoeps CCM4 and M10, processed in Adobe Audition and Ozone 5",
+      "text": "Mix of a soundboard feed and a Schoeps CCM4 microphone recording run through a Tinybox, both going into an M10 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "MountainGoats2014-06-15.mix.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastering by BLG: edits, alignment and mixdown in Adobe Audition, then iZotope Ozone 5 processing, WavePad tracking, xACT tagging, FLAC encoding",
       "type": "lineage"
      }
     ],
@@ -638,24 +646,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "f3c56a23560cacd0ade9f38417eca16f39006aff6977b7deecb307dd8dec5ef1",
-    "generated_at": "2026-10-24T20:54:54.237418+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "8fc22508677cffe420d0024a879f342403d8002a8e79839a758e6cec10087826",
+    "generated_at": "2026-10-25T23:15:46.464157+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "514b16997b63a88ccc70691706ba4c4778e0a927c4f5fbd7ca1601a8a43b9bf7",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.2
+    "seconds": 3.4
    },
-   "revision": 2,
-   "signature": "CzIoeaMBj_hQwhOPy5X2Qxb3Xjfk6zRlhoEo3mC-M7sjSg0go1qKNdpzEpv70Qxj3Q-T9nxOz-2n5qCMZJUvBw",
+   "revision": 3,
+   "signature": "MZ2E09zsSz8igHscAW1HVZd_fdlh6cALI4qypyCYA0KjxpQsLhWZgMNWADVqDBCQ4dhjyngzzP7_qB8v7Xs1CQ",
    "subject_key": "live:mountain-goats:2014-06-15:bottom-of-the-hill",
-   "updated_at": "2026-10-24T20:54:54.238599"
+   "updated_at": "2026-10-25T23:15:46.469136"
   }
  },
  "recommended": {

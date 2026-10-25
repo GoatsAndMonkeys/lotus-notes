@@ -333,7 +333,7 @@
    "updated_at": "2026-10-24T22:01:49.010524"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Going to Alaska**: rare: 10 archived performances [2]\n- Earliest performances in the archive: Southwood Plantation Road [2]\n\n## The recordings\n\n- **tmg2002-11-13.aud.320mp3** (recommended): audience recording; 15 songs; 50 min [1]\n\n## Tapers and lineage\n\n- **tmg2002-11-13.aud.320mp3**: transferred by The Amazombie [1]",
+   "body_md": "## Setlist highlights\n\n- **Going to Alaska**: rare: 10 archived performances [2]\n- Earliest performances in the archive: Southwood Plantation Road [2]\n\n## The recordings\n\n- **tmg2002-11-13.aud.320mp3** (recommended): audience recording; 15 songs; 50 min [1]. Said about its sound: The audio is an audience recording, shared as 320 kbps MP3 files [1]\n\n## Tapers and lineage\n\n- **tmg2002-11-13.aud.320mp3**: transferred by The Amazombie [1]. Also: Original source is unknown; the recording was found as a video and ripped to MP3 using Audacity [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -364,7 +364,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -374,30 +374,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tmg2002-11-13.aud.320mp3",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Original source is unknown; the recording was found as a video and ripped to MP3 using Audacity",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2002-11-13.aud.320mp3",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The audio is an audience recording, shared as 320 kbps MP3 files",
+      "type": "sound"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2002-11-13:opalis"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "9ed17f9c74563c7c9086b2009100d35b2a9f7c081484bb0ce21e79327e756ae7",
-    "generated_at": "2026-10-24T21:56:41.435015+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "85f4c8fe6c6b565de8b40a8c567ef4f8e2cad5dc852f7469f7974923edb49edd",
+    "generated_at": "2026-10-25T23:17:04.644448+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "bcc23ba59451ef8fcbb3ea0937f72263a2913c5a38c30f2771bda5cdbd0ab4bd",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 4.4
+    "seconds": 4.0
    },
-   "revision": 2,
-   "signature": "inFRiV2JP5eLsNjaCaWc3ScNkyPGvMwPLucBkj-SYAzTFkDg_ivYaAELtwplwezav0H_ZG0Jea3SB4m-MdyBDw",
+   "revision": 3,
+   "signature": "CEpYHSRr2lnUoE93hxKQeoK7ENy_jmBZ9ssnFfPegGT8BDlWEumjTHMJRCG_qnOwdHJCYrFLIKtgVXOkB1IdBA",
    "subject_key": "live:mountain-goats:2002-11-13:opalis",
-   "updated_at": "2026-10-24T21:56:41.436605"
+   "updated_at": "2026-10-25T23:17:04.649747"
   }
  },
  "recommended": {

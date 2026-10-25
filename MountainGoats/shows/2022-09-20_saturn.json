@@ -503,7 +503,7 @@
    "updated_at": "2026-10-24T22:01:49.915892"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Mark on You**: rare: 6 archived performances [3]\n- **Extraction Point**: rare: 11 archived performances [3]\n- **Going to Malibu**: back after 93 archived shows (1612 days); rare: 3 archived performances [3]\n- **Neon Orange Glimmer Song**: back after 125 archived shows (2156 days) [3]\n- **Guys on Every Corner**: rare: 14 archived performances [3]\n- **Wage Wars Get Rich Die Handsome**: rare: 11 archived performances [3]\n\n## The recordings\n\n- **tmg2022-09-20** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 120 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: No Children, Pool Kids appreciation [1]\n\n## Tapers and lineage\n\n- **tmg2022-09-20**: taped by me; transferred by me; source: CA-14 Omni (Healy Onstage) > CA-Ugly > PCM A10 + SBD [Engineer: Brandon Eggleston] > PCM A10 [1]",
+   "body_md": "## Setlist highlights\n\n- **Mark on You**: rare: 6 archived performances [3]\n- **Extraction Point**: rare: 11 archived performances [3]\n- **Going to Malibu**: back after 92 archived shows (1612 days); rare: 3 archived performances [3]\n- **Neon Orange Glimmer Song**: back after 124 archived shows (2156 days) [3]\n- **Guys on Every Corner**: rare: 14 archived performances [3]\n- **Wage Wars Get Rich Die Handsome**: rare: 11 archived performances [3]\n\n## The recordings\n\n- **tmg2022-09-20** (recommended): matrix (soundboard mixed with audience mics); 25 songs; 120 min; rated 5/5 by 1 [1]. Said about its sound: Reviewer calls the matrix recording stunning in quality [2]\n\n## Around the show\n\n- Stage talk about: No Children, Pool Kids appreciation [1]\n- Hearing the Bleed Out songs live, mixed in among older material, gave them added depth for the reviewer [2]\n\n## Tapers and lineage\n\n- **tmg2022-09-20**: taped by me; transferred by me; source: CA-14 Omni (Healy Onstage) > CA-Ugly > PCM A10 + SBD [Engineer: Brandon Eggleston] > PCM A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -536,6 +536,7 @@
      "accessed_at": "2026-10-23",
      "author": "ceaselessdisquiet",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ceaselessdisquiet%22",
+     "claim": "Reviewer calls the matrix recording stunning in quality",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2022-09-28",
@@ -543,7 +544,7 @@
      "site": "Internet Archive",
      "title": "Review: Thank you! (tmg2022-09-20)",
      "url": "https://archive.org/details/tmg2022-09-20#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -554,7 +555,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -564,30 +565,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tmg2022-09-20",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer calls the matrix recording stunning in quality",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Hearing the Bleed Out songs live, mixed in among older material, gave them added depth for the reviewer",
+      "type": "compare"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2022-09-20:saturn"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "86a732313aa70bbce58c8b24a37587eaa7d23f957c2d348051df16946a20de4c",
-    "generated_at": "2026-10-24T21:10:44.201635+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "a66f07cceca2bc25f5d515786efc402e7bd76a23287afb921f0c1ce387889c2e",
+    "generated_at": "2026-10-25T23:14:01.293949+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "5288238fd27dba98bcfe66977b989e46ee1734f9d61b053ecc00671192baa0d8",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 9.5
+    "seconds": 4.7
    },
-   "revision": 2,
-   "signature": "w5tgQgy4SVTnSYQrbUZZTBHu6NmsiLPxU6uY171_WVAJfSDvdyFUlr2QTDlhCmn9JWgwCvaUssFjVKIOwVNYBg",
+   "revision": 3,
+   "signature": "5M6jq6zSDGgBrz6WdcQRhLem_BQN61w965DvczYEDZ7v-F246bT7UqQE1knuB600sEAxCC5slDMPXGfk2-IJBQ",
    "subject_key": "live:mountain-goats:2022-09-20:saturn",
-   "updated_at": "2026-10-24T21:10:44.203377"
+   "updated_at": "2026-10-25T23:14:01.295792"
   }
  },
  "recommended": {

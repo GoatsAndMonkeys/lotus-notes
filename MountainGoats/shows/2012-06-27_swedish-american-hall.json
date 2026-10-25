@@ -193,7 +193,7 @@
    "updated_at": "2026-10-24T22:01:49.382749"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **MountainGoats-06-27-12**: earliest performance in the archive; legendary: the only archived performance [6]\n\n## The recordings\n\n- **MountainGoats2012-06-27** (recommended): source not stated; 1 songs; 96 min; rated 2/5 by 4 [1]\n\n## Around the show\n\n- John performed a solo show, which is less common these days [5]\n\n## Tapers and lineage\n\n- **MountainGoats2012-06-27**: taped by Lu3ke; source: Zoom H2 [1]. Also: Includes raw .wav recording and edited 256K VBR MP3s; Reviewer split raw FLAC and tweaked volume levels for sharing [1][5]",
+   "body_md": "## Setlist highlights\n\n- **MountainGoats-06-27-12**: earliest performance in the archive; legendary: the only archived performance [6]\n\n## The recordings\n\n- **MountainGoats2012-06-27** (recommended): source not stated; 1 songs; 96 min; rated 2/5 by 4 [1]\n\n## Around the show\n\n- Notes that solo John shows are uncommon these days, making this performance stand out [5]\n\n## Tapers and lineage\n\n- **MountainGoats2012-06-27**: taped by Lu3ke; source: Zoom H2 [1]. Also: Asks whether the single FLAC file equals the raw .wav, and whether a lossless tracked FLAC of the edited version exists; Reviewer adjusted volume levels and split the raw FLAC into tracks without fades between songs, proposing to share it; Includes the raw .wav as recorded plus 256K VBR MP3s the uploader edited and cleaned up from it [1][3][5]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -236,6 +236,7 @@
      "accessed_at": "2026-10-23",
      "author": "rainydaybloke",
      "author_url": "https://archive.org/search?query=reviewer%3A%22rainydaybloke%22",
+     "claim": "Asks whether the single FLAC file equals the raw .wav, and whether a lossless tracked FLAC of the edited version exists",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2012-07-13",
@@ -243,7 +244,7 @@
      "site": "Internet Archive",
      "title": "Review: Lossless edited version? (MountainGoats2012-06-27)",
      "url": "https://archive.org/details/MountainGoats2012-06-27#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -266,7 +267,7 @@
      "accessed_at": "2026-10-23",
      "author": "roffels",
      "author_url": "https://archive.org/search?query=reviewer%3A%22roffels%22",
-     "claim": "John performed a solo show, which is less common these days",
+     "claim": "Notes that solo John shows are uncommon these days, making this performance stand out",
      "id": 5,
      "kind": "archive_review",
      "published_at": "2019-06-01",
@@ -285,7 +286,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -300,8 +301,8 @@
       "recording": "MountainGoats2012-06-27",
       "song": null,
       "song_key": null,
-      "src": 1,
-      "text": "Includes raw .wav recording and edited 256K VBR MP3s",
+      "src": 3,
+      "text": "Asks whether the single FLAC file equals the raw .wav, and whether a lossless tracked FLAC of the edited version exists",
       "type": "lineage"
      },
      {
@@ -309,15 +310,23 @@
       "song": null,
       "song_key": null,
       "src": 5,
-      "text": "John performed a solo show, which is less common these days",
-      "type": "scene"
+      "text": "Notes that solo John shows are uncommon these days, making this performance stand out",
+      "type": "compare"
      },
      {
       "recording": "MountainGoats2012-06-27",
       "song": null,
       "song_key": null,
       "src": 5,
-      "text": "Reviewer split raw FLAC and tweaked volume levels for sharing",
+      "text": "Reviewer adjusted volume levels and split the raw FLAC into tracks without fades between songs, proposing to share it",
+      "type": "lineage"
+     },
+     {
+      "recording": "MountainGoats2012-06-27",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Includes the raw .wav as recorded plus 256K VBR MP3s the uploader edited and cleaned up from it",
       "type": "lineage"
      }
     ],
@@ -326,24 +335,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "b25a332c08ea2fbace3ac256fc1dfc30e0d49950e61f3f56098868eff8e80481",
-    "generated_at": "2026-10-24T21:21:11.583961+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "e90c43282d1228de669fd41fa7686e8f2cbefe3ef0447379b47c3ecba9fc932f",
+    "generated_at": "2026-10-25T23:15:59.773944+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "61c862b142fac026f3c3e260db9778ae4b31de1c8bb38633d59f5dfb7c56222c",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 14.3
+    "seconds": 4.4
    },
-   "revision": 2,
-   "signature": "okyoHttzYSnqXjuhbYuwAXki2JBuw0rvFNPr1h0FTwq37aBlTeSTvIAO8dkVODDSFHUnDffL9SAGMuTtm0xUCg",
+   "revision": 3,
+   "signature": "Op2Z5f5BbmmPE6MEx8owm6Ch_tFAlEkZeWjQyRpCbtDe0AfdeFMA80J-6gdIUTZq3OCa1Z_Z6l-RtxvYYXttDg",
    "subject_key": "live:mountain-goats:2012-06-27:swedish-american-hall",
-   "updated_at": "2026-10-24T21:21:11.585279"
+   "updated_at": "2026-10-25T23:15:59.782364"
   }
  },
  "recommended": {

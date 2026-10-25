@@ -452,7 +452,7 @@
    "updated_at": "2026-10-24T22:01:49.401486"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Jaipur**: back after 53 archived shows (1521 days) [2]\n- **Song For My Stepfather**: back after 121 archived shows (3122 days); rare: 11 archived performances [2]\n\n## The recordings\n\n- **tmg2012-12-13.aud.flac16** (recommended): audience recording; 22 songs; 103 min [1]\n\n## Around the show\n\n- Sold-out crowd remained quiet, avoiding phones and yelling during the performance [1]\n\n## Tapers and lineage\n\n- **tmg2012-12-13.aud.flac16**: taped by blg; transferred by blg; source: CA-14(cards) > CA-Ugly > Sony PCM-M10 @ 24/48 [1]. Also: Recorded with Sony PCM-M10 at 24/48, transferred via USB to MacBook Pro [1]",
+   "body_md": "## Setlist highlights\n\n- **Jaipur**: back after 53 archived shows (1521 days) [2]\n- **Song For My Stepfather**: back after 120 archived shows (3122 days); rare: 11 archived performances [2]\n\n## The recordings\n\n- **tmg2012-12-13.aud.flac16** (recommended): audience recording; 22 songs; 103 min [1]\n\n## Around the show\n\n- Club was sold out and packed, yet the crowd stayed quiet during songs, with no shouting and hardly any phones filming [1]\n\n## Tapers and lineage\n\n- **tmg2012-12-13.aud.flac16**: taped by blg; transferred by blg; source: CA-14(cards) > CA-Ugly > Sony PCM-M10 @ 24/48 [1]. Also: Recorded with CA-14 cards into CA-Ugly preamp and a Sony PCM-M10 at 24-bit/48kHz; Transferred from the M10 via USB to a MacBook Pro, then processed in Audition, WavePad and xACT to FLAC [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -488,7 +488,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -504,7 +504,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded with Sony PCM-M10 at 24/48, transferred via USB to MacBook Pro",
+      "text": "Recorded with CA-14 cards into CA-Ugly preamp and a Sony PCM-M10 at 24-bit/48kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2012-12-13.aud.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Transferred from the M10 via USB to a MacBook Pro, then processed in Audition, WavePad and xACT to FLAC",
       "type": "lineage"
      },
      {
@@ -512,7 +520,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Sold-out crowd remained quiet, avoiding phones and yelling during the performance",
+      "text": "Club was sold out and packed, yet the crowd stayed quiet during songs, with no shouting and hardly any phones filming",
       "type": "scene"
      }
     ],
@@ -521,24 +529,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "e82cea48ee338cb2d0dc951fa241d9f3ea1504af08bd9841d8a30076f1c1922f",
-    "generated_at": "2026-10-24T21:12:35.572900+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "5422b65936847d817adb87420706a75aad00bc5b3e1d90788f0973d1129994ab",
+    "generated_at": "2026-10-25T23:15:57.238623+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "fedf9aee77613ddde3985f734b8d26e7be5190b3c6ceb6238c0cd75d550e08be",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.5
+    "seconds": 4.7
    },
-   "revision": 2,
-   "signature": "uP233LeQjPV-rSXAI-FzxwbAQRN1Kx1Ce9S0MO1Su2AZmPITkBfQoicf7Ugv1dnisusiFBNkgFcW9moVzLaoAg",
+   "revision": 3,
+   "signature": "qI-0l0NJuqc3DqSvcyePntkxETGAJq_ogOgflY2EO7b9diEs9lcCAUt18EkfBRUi01-6A3do-aWYPQQ15MRhDA",
    "subject_key": "live:mountain-goats:2012-12-13:troubadour",
-   "updated_at": "2026-10-24T21:12:35.573955"
+   "updated_at": "2026-10-25T23:15:57.242946"
   }
  },
  "recommended": {

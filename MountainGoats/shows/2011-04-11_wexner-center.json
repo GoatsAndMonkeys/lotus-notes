@@ -422,7 +422,7 @@
    "updated_at": "2026-10-24T22:01:49.355678"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Seeing Daylight**: rare: 13 archived performances [3]\n- **Family Happiness**: rare: 7 archived performances [3]\n- **Outer Scorpion Squadron !**: rare: 8 archived performances [3]\n- **Going to Jamaica**: back after 41 archived shows (1136 days) [3]\n- **Raid on Entebbe**: back after 139 archived shows (4747 days); rare: 7 archived performances [3]\n- **Matthew 25:21**: rare: 10 archived performances [3]\n- **For Charles Bronson**: rare: 11 archived performances [3]\n- **Age of Kings**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **tmg2011-04-11.flac16** (recommended): soundboard; 19 songs; 85 min; rated 5/5 by 1 [1]. Said about its sound: The recording sounds muddy during this wilder song; The overall capture is described as clean and surprisingly warm [1]\n\n## Around the show\n\n- Ewan recorded banter during the performance of this specific track [2]\n\n## Tapers and lineage\n\n- **tmg2011-04-11.flac16**: taped by Nigel Ewan; transferred by Nigel Ewan; source: SBD > Digidesign Mbox Mini > MacBook Pro [1]. Also: The uploader patched directly into the Wexner Center soundboard [1]",
+   "body_md": "## What listeners single out\n\n- **Family Happiness** (1 review): The recording captured the stage banter that went with this song [2]\n\n## Setlist highlights\n\n- **Seeing Daylight**: rare: 13 archived performances [3]\n- **Family Happiness**: rare: 7 archived performances [3]\n- **Outer Scorpion Squadron !**: rare: 8 archived performances [3]\n- **Going to Jamaica**: back after 41 archived shows (1136 days) [3]\n- **Raid on Entebbe**: back after 137 archived shows (4747 days); rare: 7 archived performances [3]\n- **Matthew 25:21**: rare: 10 archived performances [3]\n- **For Charles Bronson**: rare: 11 archived performances [3]\n- **Age of Kings**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **tmg2011-04-11.flac16** (recommended): soundboard; 19 songs; 85 min; rated 5/5 by 1 [1]. Said about its sound: Soundboard is clean and surprisingly warm overall, though somewhat muddy on wilder songs [1]\n\n## Tapers and lineage\n\n- **tmg2011-04-11.flac16**: taped by Nigel Ewan; transferred by Nigel Ewan; source: SBD > Digidesign Mbox Mini > MacBook Pro [1]. Also: Ewan recorded the entire show, producing the soundboard recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -455,7 +455,7 @@
      "accessed_at": "2026-10-23",
      "author": "sbsennui",
      "author_url": "https://archive.org/search?query=reviewer%3A%22sbsennui%22",
-     "claim": "Ewan recorded banter during the performance of this specific track",
+     "claim": "The recording captured the stage banter that went with this song",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2024-02-27",
@@ -474,7 +474,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -487,18 +487,18 @@
     "claims": [
      {
       "recording": null,
-      "song": null,
-      "song_key": null,
+      "song": "Family Happiness",
+      "song_key": "song:mountain-goats:family-happiness",
       "src": 2,
-      "text": "Ewan recorded banter during the performance of this specific track",
-      "type": "scene"
+      "text": "The recording captured the stage banter that went with this song",
+      "type": "song"
      },
      {
       "recording": "tmg2011-04-11.flac16",
       "song": null,
       "song_key": null,
-      "src": 1,
-      "text": "The uploader patched directly into the Wexner Center soundboard",
+      "src": 2,
+      "text": "Ewan recorded the entire show, producing the soundboard recording",
       "type": "lineage"
      },
      {
@@ -506,15 +506,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "The recording sounds muddy during this wilder song",
-      "type": "sound"
-     },
-     {
-      "recording": "tmg2011-04-11.flac16",
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "The overall capture is described as clean and surprisingly warm",
+      "text": "Soundboard is clean and surprisingly warm overall, though somewhat muddy on wilder songs",
       "type": "sound"
      }
     ],
@@ -523,24 +515,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 4,
-    "facts_hash": "d9968bc52d9610484453fbb02a952537ab4ba785839e90f04d1691e13cb9e167",
-    "generated_at": "2026-10-24T21:15:29.987260+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "f37dd59277c4802043e3b1ec1dfe39d9786ba3137ace7234f28bd1e8aad171e0",
+    "generated_at": "2026-10-25T23:16:08.430225+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "1524b0267907e6d21fc16999d820968278744487be7fa35f1ec3f009588bc870",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.1
+    "seconds": 5.6
    },
-   "revision": 2,
-   "signature": "M8L_UeglYqAt_JzHQMUtU7-rgs8H75EOxmniL_LWtcdSDuLAdFXJkyvKdXQpPRLeTn2WVGm2PThYsmTVw2miCQ",
+   "revision": 3,
+   "signature": "Mb4jF-eAMOSOAGebRKIKMo81JJ5C6_a1HCKYcSy-f3NHYyISKJ_1Fr1CK1Z5WF1u71XMmLCe12JYKrVsckdIDA",
    "subject_key": "live:mountain-goats:2011-04-11:wexner-center",
-   "updated_at": "2026-10-24T21:15:29.988286"
+   "updated_at": "2026-10-25T23:16:08.433121"
   }
  },
  "recommended": {

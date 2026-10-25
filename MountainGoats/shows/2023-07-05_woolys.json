@@ -475,7 +475,7 @@
    "updated_at": "2026-10-24T22:01:50.007590"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **The Alphonse Mombo**: back after 60 archived shows (666 days) [2]\n- **An Antidote for Strychnine**: rare: 12 archived performances [2]\n- **Wage Wars, Get Rich, Die Handsome**: rare: 11 archived performances [2]\n\n## The recordings\n\n- **tMG2023-07-05** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 108 min [1]\n\n## Around the show\n\n- Stage talk about: Des Moines, No Children, final thx & final cheers, the Iowa connection [1]\n\n## Tapers and lineage\n\n- **tMG2023-07-05**: taped by me; transferred by me; source: SBD[Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage) > CA-Ugly 2 > PCM-M10 [1]",
+   "body_md": "## Setlist highlights\n\n- **The Alphonse Mombo**: back after 60 archived shows (666 days) [2]\n- **An Antidote for Strychnine**: rare: 12 archived performances [2]\n- **Wage Wars, Get Rich, Die Handsome**: rare: 11 archived performances [2]\n\n## The recordings\n\n- **tMG2023-07-05** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 108 min [1]\n\n## Around the show\n\n- Stage talk about: Des Moines, No Children, final thx & final cheers, the Iowa connection [1]\n- The show took place at Wooly's in Des Moines, Iowa [3]\n- Listing places the July 5, 2023 concert at Wooly's in Des Moines, Iowa [4]\n\n## Tapers and lineage\n\n- **tMG2023-07-05**: taped by me; transferred by me; source: SBD[Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage) > CA-Ugly 2 > PCM-M10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -511,7 +511,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -523,6 +523,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "The show took place at Wooly's in Des Moines, Iowa",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -530,7 +531,7 @@
      "site": "themountaingoats.fandom.com",
      "title": "Lizard Suit - The Mountain Goats Wiki - Fandom",
      "url": "https://themountaingoats.fandom.com/wiki/Lizard_Suit",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -538,6 +539,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "Listing places the July 5, 2023 concert at Wooly's in Des Moines, Iowa",
      "id": 4,
      "kind": "blog",
      "published_at": null,
@@ -545,36 +547,53 @@
      "site": "rateyourmusic.com",
      "title": "Bands I've Seen Live - Rate Your Music",
      "url": "https://rateyourmusic.com/list/chubbard/bands-ive-seen-live/",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The show took place at Wooly's in Des Moines, Iowa",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 4,
+      "text": "Listing places the July 5, 2023 concert at Wooly's in Des Moines, Iowa",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-07-05:woolys"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "ee5e40c178bacb0bf2e696363435d9e0e3c5e3add31701228db54781b0d7543c",
-    "generated_at": "2026-10-24T21:41:48.608466+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "ba53c6817391e39aff93f037204172b2008081f004e421d38e3b891ca0d369ef",
+    "generated_at": "2026-10-25T23:13:43.069334+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "64d494f783178e14714cf4032ac7b8c8b7bd57b5423b6e6cbcc812fa8f9136e8",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.1
+    "seconds": 5.9
    },
-   "revision": 2,
-   "signature": "oADKbNb7LywOOjYkAIfwMc3SlztHM71M9GWOmyPcJNdNc9AH1cJwO0jmfW_ZeiQkdYaH-tlkJMM6VbxTApxpCA",
+   "revision": 3,
+   "signature": "2H7LHVyzOi94YUWyyaFcci4yzFd5UryO5hSpQvYlm39UKCZsnCOEznV2xx1HXR_Pbz6_cdm1mClF6i7xB64GAw",
    "subject_key": "live:mountain-goats:2023-07-05:woolys",
-   "updated_at": "2026-10-24T21:41:48.610251"
+   "updated_at": "2026-10-25T23:13:43.072304"
   }
  },
  "recommended": {

@@ -436,7 +436,7 @@
    "updated_at": "2026-10-24T22:01:49.601051"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Lucretia My Reflection**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Autoclave**: back after 28 archived shows (623 days) [2]\n- **Poltergeist**: rare: 10 archived performances [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **MountainGoatsTheGreyKingAndTheSilverFlameAttunement** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 100 min [1]\n\n## Around the show\n\n- Stage talk about: Vivaldi, banter - Shelved [1]\n\n## Tapers and lineage\n\n- **MountainGoatsTheGreyKingAndTheSilverFlameAttunement**: taped by nyctaper; source: Soundboard + Audience Matrix [1]. Also: Soundboard recorded by Brandon Eggleston using Neumann KM-150s and Sound Devices 744t; Audio processed in Soundforge, tracked with CDWave, and encoded to FLAC and MP3 [1]",
+   "body_md": "## Setlist highlights\n\n- **Lucretia My Reflection**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Autoclave**: back after 28 archived shows (623 days) [2]\n- **Poltergeist**: rare: 10 archived performances [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **MountainGoatsTheGreyKingAndTheSilverFlameAttunement** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 100 min [1]\n\n## Around the show\n\n- Stage talk about: Vivaldi, banter - Shelved [1]\n\n## Tapers and lineage\n\n- **MountainGoatsTheGreyKingAndTheSilverFlameAttunement**: taped by nyctaper; source: Soundboard + Audience Matrix [1]. Also: Taped from the soundboard feed by engineer Brandon Eggleston, plus Neumann KM-150 microphones; Recorded on a Sound Devices 744t as two 24-bit 48kHz wav files, then edited in Soundforge; Tracked in CDWave, converted to flac with TLH; MP3s at 320 and tagging done in Foobar; originally posted on NYCTaper [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -467,7 +467,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -483,7 +483,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Soundboard recorded by Brandon Eggleston using Neumann KM-150s and Sound Devices 744t",
+      "text": "Taped from the soundboard feed by engineer Brandon Eggleston, plus Neumann KM-150 microphones",
       "type": "lineage"
      },
      {
@@ -491,7 +491,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Audio processed in Soundforge, tracked with CDWave, and encoded to FLAC and MP3",
+      "text": "Recorded on a Sound Devices 744t as two 24-bit 48kHz wav files, then edited in Soundforge",
+      "type": "lineage"
+     },
+     {
+      "recording": "MountainGoatsTheGreyKingAndTheSilverFlameAttunement",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Tracked in CDWave, converted to flac with TLH; MP3s at 320 and tagging done in Foobar; originally posted on NYCTaper",
       "type": "lineage"
      }
     ],
@@ -500,24 +508,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "9038e608f7fec70d10bd9e82eb1efcb1cc95290d38ddee8c755f85cff53d8805",
-    "generated_at": "2026-10-24T21:55:16.677563+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "8b9a992d5a72975b0cc431d6b50cef75c5eba50cd628b87326759aca5e754ce5",
+    "generated_at": "2026-10-25T23:15:15.656579+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "b60dcff8f71d422ad7dd9981aa2410c0d654f94a29f32c68fcf9b12888d77a0b",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.0
+    "seconds": 3.9
    },
-   "revision": 2,
-   "signature": "mmRJSwEC3g73RCCHfAe6BPu8IlvNyk1dqBo1CGdcHlrhIBIvPUAQ447yd559PXaYqeBXWOAMWPrFtLIMsxCEAA",
+   "revision": 3,
+   "signature": "yHs51tNYXJ4ct5BeZCixaF_MnV0X6kk3wtO7SPctju_Scknl4Ccu9I_24L561gHr_PaiVsV5_9H1i1h1TmywAA",
    "subject_key": "live:mountain-goats:2017-11-12:brooklyn-steel",
-   "updated_at": "2026-10-24T21:55:16.679265"
+   "updated_at": "2026-10-25T23:15:15.659465"
   }
  },
  "recommended": {

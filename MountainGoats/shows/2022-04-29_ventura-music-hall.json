@@ -521,7 +521,7 @@
    "updated_at": "2026-10-24T22:01:49.861029"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Raja Vocative**: back after 36 archived shows (897 days) [4]\n- **So Desperate**: back after 72 archived shows (1455 days) [4]\n- **Itzcuintli-Totzli Days**: back after 97 archived shows (1793 days); rare: 10 archived performances [4]\n\n## The recordings\n\n- **tmg2022-04-29** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 107 min; rated 5/5 by 1 [1]\n- **tmg2022-04-29.aud.mv88.flac24**: audience recording; 22 songs; 107 min [2]\n\n## Around the show\n\n- Stage talk about: banter No Children [1]\n\n## Tapers and lineage\n\n- **tmg2022-04-29**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 (healy onstage) > CA-Ugly 2 > PCM-M10 [1]\n- **tmg2022-04-29.aud.mv88.flac24**: taped by One Dozen Cats; source: MV88 > iPhone 8 > WAV (24/48) [2]",
+   "body_md": "## Setlist highlights\n\n- **Raja Vocative**: back after 36 archived shows (897 days) [4]\n- **So Desperate**: back after 71 archived shows (1455 days) [4]\n- **Itzcuintli-Totzli Days**: back after 96 archived shows (1793 days); rare: 10 archived performances [4]\n\n## The recordings\n\n- **tmg2022-04-29** (recommended): matrix (soundboard mixed with audience mics); 22 songs; 107 min; rated 5/5 by 1 [1]\n- **tmg2022-04-29.aud.mv88.flac24**: audience recording; 22 songs; 107 min [2]\n\n## Around the show\n\n- Stage talk about: banter No Children [1]\n- The reviewer and his wife stood by the sound board when the uploader arrived to plug in [3]\n- The reviewer missed out on the uploader's stickers at this show and at the LA show [3]\n\n## Tapers and lineage\n\n- **tmg2022-04-29**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 (healy onstage) > CA-Ugly 2 > PCM-M10 [1]. Also: The recording being reviewed is a matrix of this April 29, 2022 show [3]\n- **tmg2022-04-29.aud.mv88.flac24**: taped by One Dozen Cats; source: MV88 > iPhone 8 > WAV (24/48) [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -576,6 +576,7 @@
      "accessed_at": "2026-10-23",
      "author": "w.schuess",
      "author_url": "https://archive.org/search?query=reviewer%3A%22w.schuess%22",
+     "claim": "The reviewer and his wife stood by the sound board when the uploader arrived to plug in",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2022-05-11",
@@ -583,7 +584,7 @@
      "site": "Internet Archive",
      "title": "Review: Wonderful as always (tmg2022-04-29)",
      "url": "https://archive.org/details/tmg2022-04-29#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -594,7 +595,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -604,30 +605,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The reviewer and his wife stood by the sound board when the uploader arrived to plug in",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The reviewer missed out on the uploader's stickers at this show and at the LA show",
+      "type": "scene"
+     },
+     {
+      "recording": "tmg2022-04-29",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The recording being reviewed is a matrix of this April 29, 2022 show",
+      "type": "lineage"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2022-04-29:ventura-music-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "da99de523d4a4d38880442bfb45238c31301d2c5fea3d1a196ad9670fc878c55",
-    "generated_at": "2026-10-24T21:30:28.056040+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "932bea0a0354774a68e1cdc5a1bb9204835da68d21033e3a4e772252ee48c4d2",
+    "generated_at": "2026-10-25T23:14:15.967278+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "9f24f0f05b9c09ac084628b7abd3921737c96521c792cdc8af7cca5c7e9593f0",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.0
+    "seconds": 6.9
    },
-   "revision": 2,
-   "signature": "wW3bwxSZqhxMduSWWb0a_SpiUTD9wq_Yf1e7dyHaknKC_et6Q2YAM-NNawd08FyMDG5XRYWt1abVchRr56ArCg",
+   "revision": 3,
+   "signature": "hho_MX-cR8ihY3nFPiLPr5uZH547dsfvzdkq8fNQjx6BtT4MF9XjFXEqEVG8S-BytC7oEjyK67YQa9W5Qm0gAA",
    "subject_key": "live:mountain-goats:2022-04-29:ventura-music-hall",
-   "updated_at": "2026-10-24T21:30:28.058097"
+   "updated_at": "2026-10-25T23:14:16.008205"
   }
  },
  "recommended": {

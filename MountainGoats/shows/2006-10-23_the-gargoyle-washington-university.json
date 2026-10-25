@@ -400,7 +400,7 @@
    "updated_at": "2026-10-24T22:01:49.207653"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **(Franklin Bruno enters, banter)**: back after 41 archived shows (742 days) [6]\n\n## The recordings\n\n- **mountaingoats2006-10-23.flac** (recommended): source not stated; 15 songs; 61 min; rated 4.5/5 by 4 [1]. Said about its sound: Reviewer questions noise reduction application, fearing potential loss of audio detail [4]\n\n## Around the show\n\n- Crowd noise precedes the encore performance of Houseguest [2]\n- John Darnielle frequently introduces songs with stories or lyric explanations [5]\n\n## Tapers and lineage\n\n- **mountaingoats2006-10-23.flac**: taped by Matt Meshulam; transferred by Matt Meshulam; source: 2x SM57 > Tascam 788 [1]",
+   "body_md": "## What listeners single out\n\n- **Houseguest** (1 review): Houseguest is played as the encore, after a crowd track [2]\n\n## Setlist highlights\n\n- **(Franklin Bruno enters, banter)**: back after 40 archived shows (742 days) [6]\n\n## The recordings\n\n- **mountaingoats2006-10-23.flac** (recommended): source not stated; 15 songs; 61 min; rated 4.5/5 by 4 [1]\n\n## Around the show\n\n- Franklin Bruno joins the band partway through the set, with some banter, as marked in the track list [2]\n- Darnielle talks between songs, often with stories or explanations; the reviewer wants that banter placed at the start of tracks, not the end [5]\n\n## Tapers and lineage\n\n- **mountaingoats2006-10-23.flac**: taped by Matt Meshulam; transferred by Matt Meshulam; source: 2x SM57 > Tascam 788 [1]. Also: Noise reduction was applied to the final mix; the reviewer warns it can strip out detail [4]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -433,7 +433,7 @@
      "accessed_at": "2026-10-23",
      "author": "Caliclimber",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Caliclimber%22",
-     "claim": "Crowd noise precedes the encore performance of Houseguest",
+     "claim": "Franklin Bruno joins the band partway through the set, with some banter, as marked in the track list",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2006-10-26",
@@ -464,7 +464,7 @@
      "accessed_at": "2026-10-23",
      "author": "EvilLawnGnome",
      "author_url": "https://archive.org/search?query=reviewer%3A%22EvilLawnGnome%22",
-     "claim": "Reviewer questions noise reduction application, fearing potential loss of audio detail",
+     "claim": "Noise reduction was applied to the final mix; the reviewer warns it can strip out detail",
      "id": 4,
      "kind": "archive_review",
      "published_at": "2006-11-02",
@@ -480,7 +480,7 @@
      "accessed_at": "2026-10-23",
      "author": "MovingWater",
      "author_url": "https://archive.org/search?query=reviewer%3A%22MovingWater%22",
-     "claim": "John Darnielle frequently introduces songs with stories or lyric explanations",
+     "claim": "Darnielle talks between songs, often with stories or explanations; the reviewer wants that banter placed at the start of tracks, not the end",
      "id": 5,
      "kind": "archive_review",
      "published_at": "2007-02-05",
@@ -499,7 +499,7 @@
      "id": 6,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -515,23 +515,31 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Crowd noise precedes the encore performance of Houseguest",
+      "text": "Franklin Bruno joins the band partway through the set, with some banter, as marked in the track list",
       "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Houseguest",
+      "song_key": "song:mountain-goats:houseguest",
+      "src": 2,
+      "text": "Houseguest is played as the encore, after a crowd track",
+      "type": "song"
      },
      {
       "recording": "mountaingoats2006-10-23.flac",
       "song": null,
       "song_key": null,
       "src": 4,
-      "text": "Reviewer questions noise reduction application, fearing potential loss of audio detail",
-      "type": "sound"
+      "text": "Noise reduction was applied to the final mix; the reviewer warns it can strip out detail",
+      "type": "lineage"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
       "src": 5,
-      "text": "John Darnielle frequently introduces songs with stories or lyric explanations",
+      "text": "Darnielle talks between songs, often with stories or explanations; the reviewer wants that banter placed at the start of tracks, not the end",
       "type": "scene"
      }
     ],
@@ -540,24 +548,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "b4ff80ec828cade6022551b60e13cdd7d0131bb18391996734eb28d6fd2b9556",
-    "generated_at": "2026-10-24T20:52:04.910589+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "c85db33eec54ca9edd8fcee50681c5ed048b961cbac7bb0d348377ab5ad499ea",
+    "generated_at": "2026-10-25T23:16:39.709592+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "d7418326da0c83365fc58ef0dd1ca92e3e17a6b3c924f464f1c7ced87b9f7b6e",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.7
+    "seconds": 8.7
    },
-   "revision": 2,
-   "signature": "_3cxBy_8hY4ZydpDvUt2HY5Y3-CDmi1jG0zTZ5P7OKOO2m6KVHSE0f9C4LOc3ROC86lpCeLXIJihwmB6z3-DDA",
+   "revision": 3,
+   "signature": "j42G7mz5linNDBneWCMJ7Jqg0w2_HJvDQ-qoFEN6o5Op2w8zohfeRZ9B1Gv4T4eUpiQjB2S3eGFM-clEAieMDA",
    "subject_key": "live:mountain-goats:2006-10-23:the-gargoyle-washington-university",
-   "updated_at": "2026-10-24T20:52:04.911443"
+   "updated_at": "2026-10-25T23:16:39.715182"
   }
  },
  "recommended": {

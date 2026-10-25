@@ -455,7 +455,7 @@
    "updated_at": "2026-10-24T22:01:49.674268"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **intro (Victim in Pain)**: back after 38 archived shows (686 days); rare: 14 archived performances [3]\n- **California Jam**: rare: 4 archived performances [3]\n- **Duane Allman Slept Here**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Song for Sasha Banks**: rare: 4 archived performances [3]\n- **California Song**: back after 43 archived shows (783 days) [3]\n\n## The recordings\n\n- **tmg2018-09-13.mk4.flac24** (recommended): source not stated; 22 songs; 104 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **tmg2018-09-13.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 > SDHC [1]",
+   "body_md": "## Setlist highlights\n\n- **intro (Victim in Pain)**: back after 38 archived shows (686 days); rare: 14 archived performances [3]\n- **California Jam**: rare: 4 archived performances [3]\n- **Duane Allman Slept Here**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Song for Sasha Banks**: rare: 4 archived performances [3]\n- **California Song**: back after 43 archived shows (783 days) [3]\n\n## The recordings\n\n- **tmg2018-09-13.mk4.flac24** (recommended): source not stated; 22 songs; 104 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- An attendee recalls a spoken introduction before one song that was hilarious, though the song isn't named [2]\n\n## Tapers and lineage\n\n- **tmg2018-09-13.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 > SDHC [1]. Also: The recording is labeled as a 24-bit FLAC file with an mk4 tag, and the reviewer addresses its taper as Lance [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -488,6 +488,7 @@
      "accessed_at": "2026-10-23",
      "author": "thehumanunconditional",
      "author_url": "https://archive.org/search?query=reviewer%3A%22thehumanunconditional%22",
+     "claim": "An attendee recalls a spoken introduction before one song that was hilarious, though the song isn't named",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2019-01-13",
@@ -495,7 +496,7 @@
      "site": "Internet Archive",
      "title": "Review: Could you please include the song intros? (tmg2018-09-13.mk4.flac24)",
      "url": "https://archive.org/details/tmg2018-09-13.mk4.flac24#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -506,7 +507,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -516,30 +517,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "An attendee recalls a spoken introduction before one song that was hilarious, though the song isn't named",
+      "type": "scene"
+     },
+     {
+      "recording": "tmg2018-09-13.mk4.flac24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The recording is labeled as a 24-bit FLAC file with an mk4 tag, and the reviewer addresses its taper as Lance",
+      "type": "lineage"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2018-09-13:boulder-theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "d908e890ace44de1148b9d854452df72484f3678aa13a4ae4721376437830810",
-    "generated_at": "2026-10-24T21:21:37.759446+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "4a780dc0ea41cbf09ab8c23b6313f6a3a4ae60b12d2397b082d9a924b0beca6e",
+    "generated_at": "2026-10-25T23:15:03.500373+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "ca22b756bf6c20a7f3706d1717504eb853846ce7ddb18d720c601401d98bcbd5",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.2
+    "seconds": 7.3
    },
-   "revision": 2,
-   "signature": "rWyejWe2XoNNvFfoX3ptIE5lNmZ0EKk8mZlgu8puVPaKuUt3QS_qaRTqL3Dh8su8dLOpuryavqqtwCOr1ZR8CQ",
+   "revision": 3,
+   "signature": "p4g6dqScKo69sbhvOp2Xv2V0AU1GtGGj_68GoUHEFQG0VoaNE65kIM6JecN0DkZ-XBRUyvSqFGcsVW0ofm4_Cg",
    "subject_key": "live:mountain-goats:2018-09-13:boulder-theater",
-   "updated_at": "2026-10-24T21:21:37.760953"
+   "updated_at": "2026-10-25T23:15:03.504180"
   }
  },
  "recommended": {

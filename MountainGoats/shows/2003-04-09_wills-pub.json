@@ -438,7 +438,7 @@
    "updated_at": "2026-10-24T22:01:49.018780"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Sept 19th Triple X Love! Love!**: rare: 7 archived performances [3]\n- **Terror Song (Furniture Huschle cover)**: rare: 10 archived performances [3]\n\n## The recordings\n\n- **tmg2003-04-09.aud.256mp3** (recommended): audience recording; 17 songs; 58 min [1]",
+   "body_md": "## Setlist highlights\n\n- **Sept 19th Triple X Love! Love!**: rare: 7 archived performances [4]\n- **Terror Song (Furniture Huschle cover)**: rare: 9 archived performances [4]\n\n## The recordings\n\n- **tmg2003-04-09.aud.256mp3** (recommended): audience recording; 17 songs; 58 min [1]\n- **2003-04-09-sbd-the-mountain-goats-wills-pub-orlando-fl**: soundboard; 17 songs; 54 min [2]. Said about its sound: Pre-show music is audible during the first song and gets switched off after John asks what it is [2]\n\n## Around the show\n\n- The Thermals were the opening act for this show [2]\n- The uploader played air hockey against Darnielle before the show and says he won several rounds [2]\n\n## Tapers and lineage\n\n- **2003-04-09-sbd-the-mountain-goats-wills-pub-orlando-fl**: taped by damorecordo [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -457,9 +457,31 @@
     },
     {
      "accessed_at": "2026-10-23",
+     "author": "damorecordo",
+     "author_url": "https://archive.org/search?query=taper%3A%22damorecordo%22",
+     "credits": [
+      {
+       "name": "damorecordo",
+       "role": "taper",
+       "url": "https://archive.org/search?query=taper%3A%22damorecordo%22"
+      }
+     ],
+     "id": 2,
+     "kind": "archive_item",
+     "published_at": "2021-12-05",
+     "quote_or_claim": "17-song SBD recording (tags setlist)",
+     "site": "Internet Archive",
+     "title": "Mountain Goats Live at Will’s Pub on 2003-04-09",
+     "url": "https://archive.org/details/2003-04-09-sbd-the-mountain-goats-wills-pub-orlando-fl",
+     "used": true,
+     "wayback_timestamp": null,
+     "wayback_url": null
+    },
+    {
+     "accessed_at": "2026-10-23",
      "author": "guy_in_a_skeleton_costume",
      "author_url": "https://archive.org/search?query=reviewer%3A%22guy_in_a_skeleton_costume%22",
-     "id": 2,
+     "id": 3,
      "kind": "archive_review",
      "published_at": "2022-05-13",
      "quote_or_claim": "that mambo is clean",
@@ -474,10 +496,10 @@
      "accessed_at": "2026-10-23",
      "author": "Music Lotus (computed)",
      "author_url": null,
-     "id": 3,
+     "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -487,30 +509,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The Thermals were the opening act for this show",
+      "type": "scene"
+     },
+     {
+      "recording": "2003-04-09-sbd-the-mountain-goats-wills-pub-orlando-fl",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Pre-show music is audible during the first song and gets switched off after John asks what it is",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The uploader played air hockey against Darnielle before the show and says he won several rounds",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2003-04-09:wills-pub"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
-    "attempts": 0,
-    "backend": null,
-    "claims": 0,
-    "facts_hash": "9908ca59599f321a54ec40eeccb9eb629141c88637c105969a350c80ff7b1190",
-    "generated_at": "2026-10-24T20:47:19.324364+00:00",
-    "model": null,
+    "attempts": 1,
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "3ad5f23c08e3a57dc4d775935ff84dca07ced85508f90717f749162f595e5f8b",
+    "generated_at": "2026-10-25T23:17:05.896291+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
-    "prompt_sha256": null,
+    "prompt_sha256": "49260573f69e6f62ae59873b8abf8ed71ec4521363d3817091de42eed6e356eb",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 0.0
+    "seconds": 5.6
    },
-   "revision": 1,
-   "signature": "xZHrTr2sDU2Lix67ghpAAd_9BeCOXN1kts4nN23InTBPeFeAulr5fIrF7G81QgtCIam8PDT_3zlPKSfGMfv_Bw",
+   "revision": 2,
+   "signature": "vNSsHIU0MYulzzxqZRtMXE3oEB17bEwOVdOMnORIG24qOxZAiw5jh-9CGLlg8AS7sLHn_qxlTtOKuhA_KvVcAg",
    "subject_key": "live:mountain-goats:2003-04-09:wills-pub",
-   "updated_at": "2026-10-24T20:47:19.324775"
+   "updated_at": "2026-10-25T23:17:05.911085"
   }
  },
  "recommended": {

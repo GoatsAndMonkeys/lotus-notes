@@ -360,7 +360,7 @@
    "updated_at": "2026-10-24T22:01:49.094218"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Blue Jays and Cardinals**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **tmg2005-05-04.flac16** (recommended): audience recording; 16 songs; 61 min [1]. Said about its sound: Mic cord pull caused a skip, later edited in Audacity to reduce jarring gaps [1]\n\n## Around the show\n\n- Stage talk about: Blue Jays and Cardinals\", California Song, JV [1]\n\n## Tapers and lineage\n\n- **tmg2005-05-04.flac16**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD [1]. Also: Tracks split in Fission and normalized in Audacity, without compression, unlike previous solo shows [1]",
+   "body_md": "## What listeners single out\n\n- **Linda Blair Was Born Innocent** (1 other source): Skip near the start of this song, where the mic cord was accidentally pulled from the recorder; the gap was edited in Audacity [1]\n\n## Setlist highlights\n\n- **Blue Jays and Cardinals**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **tmg2005-05-04.flac16** (recommended): audience recording; 16 songs; 61 min [1]\n\n## Around the show\n\n- Stage talk about: Blue Jays and Cardinals\", California Song, JV [1]\n\n## Tapers and lineage\n\n- **tmg2005-05-04.flac16**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD [1]. Also: Uploader's first-ever recording of a show; they were less unhappy with the result than expected; Transfer normalized in Audacity, tracks split in Fission, no compression applied, unlike the uploader's July 2005 solo rooftop shows [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -396,7 +396,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -412,15 +412,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Mic cord pull caused a skip, later edited in Audacity to reduce jarring gaps",
-      "type": "sound"
+      "text": "Uploader's first-ever recording of a show; they were less unhappy with the result than expected",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Linda Blair Was Born Innocent",
+      "song_key": "song:mountain-goats:linda-blair-was-born-innocent",
+      "src": 1,
+      "text": "Skip near the start of this song, where the mic cord was accidentally pulled from the recorder; the gap was edited in Audacity",
+      "type": "song"
      },
      {
       "recording": "tmg2005-05-04.flac16",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Tracks split in Fission and normalized in Audacity, without compression, unlike previous solo shows",
+      "text": "Transfer normalized in Audacity, tracks split in Fission, no compression applied, unlike the uploader's July 2005 solo rooftop shows",
       "type": "lineage"
      }
     ],
@@ -429,24 +437,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "22c29b63da39688efe502cc93f1b354280e223da00b064b58ac67a0d8071b440",
-    "generated_at": "2026-10-24T21:14:14.876584+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "024c1025e3e9ee3126a282c9d0d90f304a94994115b019fb95f63292a94edc69",
+    "generated_at": "2026-10-25T23:16:53.072819+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "82e9ba158dbd56c4a96d2620341c95828c1dd21a6381eeb092788d0b3da663bd",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.7
+    "seconds": 5.7
    },
-   "revision": 2,
-   "signature": "9ALzzqYz38wYdOogKzJsfPt4jevxX9QDMRcE1LL6PwMjgTvMmHDMNxljLOhel3_58RUI48qwLOfICV7Wi9tZCg",
+   "revision": 3,
+   "signature": "RpcIBRJlKNeWcm3vn5TPTJi0ZVOya5aammWQsyuSW_vL1OFQPgSRdhds8E0oV8AypXVs2vuDFWxNiAh6ndknDQ",
    "subject_key": "live:mountain-goats:2005-05-04:first-unitarian-church",
-   "updated_at": "2026-10-24T21:14:14.877628"
+   "updated_at": "2026-10-25T23:16:53.078681"
   }
  },
  "recommended": {

@@ -348,7 +348,7 @@
    "updated_at": "2026-10-24T22:01:49.133976"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Going to Jamaica**: back after 46 archived shows (1212 days) [3]\n- **Horseradish Road**: back after 45 archived shows (1000 days); rare: 14 archived performances [3]\n\n## The recordings\n\n- **tmg2005-07-04.flac16** (recommended): audience recording; 14 songs; 44 min; rated 3/5 by 1 [1]. Said about its sound: Recording volume drops and clarity reduces halfway through the performance; Volume boost in Sound Forge added slight hiss; recording remains bright and crisp [1][2]\n\n## Around the show\n\n- Stage talk about: Crossing Over [1]\n- JD performed a solo show on a rooftop in Brooklyn [1]\n\n## Tapers and lineage\n\n- **tmg2005-07-04.flac16**: taped by Thomas Hartnett; transferred by Thomas Hartnett; source: AUD>Visivox SCM Broadcast Pro microphones>Visivox SCM preamp>Sharp MD-MT866 [1]. Also: Right microphone failed during first chorus, forcing mono duplication for the rest [1]",
+   "body_md": "## What listeners single out\n\n- **Jenny** (1 other source): The taper's right microphone failed during the first chorus of this song [1]\n\n## Setlist highlights\n\n- **Going to Jamaica**: back after 44 archived shows (1212 days) [3]\n- **Horseradish Road**: back after 43 archived shows (1000 days); rare: 14 archived performances [3]\n\n## The recordings\n\n- **tmg2005-07-04.flac16** (recommended): audience recording; 14 songs; 44 min; rated 3/5 by 1 [1]. Said about its sound: Recording gets quieter around the midpoint, requiring higher playback volume and sounding less clear than earlier, though still good [2]\n\n## Around the show\n\n- Stage talk about: Crossing Over [1]\n\n## Tapers and lineage\n\n- **tmg2005-07-04.flac16**: taped by Thomas Hartnett; transferred by Thomas Hartnett; source: AUD>Visivox SCM Broadcast Pro microphones>Visivox SCM preamp>Sharp MD-MT866 [1]. Also: Taper copied the left channel to the right after the mic failure, making the rest mono; volume boosted in Sound Forge [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -381,7 +381,7 @@
      "accessed_at": "2026-10-23",
      "author": "hydratic",
      "author_url": "https://archive.org/search?query=reviewer%3A%22hydratic%22",
-     "claim": "Recording volume drops and clarity reduces halfway through the performance",
+     "claim": "Recording gets quieter around the midpoint, requiring higher playback volume and sounding less clear than earlier, though still good",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2005-07-26",
@@ -400,7 +400,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -412,36 +412,28 @@
    "facts": {
     "claims": [
      {
-      "recording": "tmg2005-07-04.flac16",
-      "song": null,
-      "song_key": null,
-      "src": 2,
-      "text": "Recording volume drops and clarity reduces halfway through the performance",
-      "type": "sound"
+      "recording": null,
+      "song": "Jenny",
+      "song_key": "song:mountain-goats:jenny",
+      "src": 1,
+      "text": "The taper's right microphone failed during the first chorus of this song",
+      "type": "song"
      },
      {
       "recording": "tmg2005-07-04.flac16",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Right microphone failed during first chorus, forcing mono duplication for the rest",
+      "text": "Taper copied the left channel to the right after the mic failure, making the rest mono; volume boosted in Sound Forge",
       "type": "lineage"
      },
      {
       "recording": "tmg2005-07-04.flac16",
       "song": null,
       "song_key": null,
-      "src": 1,
-      "text": "Volume boost in Sound Forge added slight hiss; recording remains bright and crisp",
+      "src": 2,
+      "text": "Recording gets quieter around the midpoint, requiring higher playback volume and sounding less clear than earlier, though still good",
       "type": "sound"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "JD performed a solo show on a rooftop in Brooklyn",
-      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -449,24 +441,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 4,
-    "facts_hash": "a46bb14f2fb8f2d6fb29b4fc31757b2c322970a16c260073a2257e7a00fe22b0",
-    "generated_at": "2026-10-24T20:46:24.436921+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "d21aa702e916de6e0babf3945b20a13d7f249b8c91c8df150d89e9b86681ba41",
+    "generated_at": "2026-10-25T23:16:44.896713+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6eab1605e1dc4c2a2ee2bf184c9fefeeaf733fe761b39d1b235d70d38b7f2d26",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.8
+    "seconds": 3.9
    },
-   "revision": 2,
-   "signature": "xl_haygJEQ-qHdHJFBFszELqlf48fnk0KdJLlkQcaYg_ICWLagJ2647KWSYzlV4PMIS5mSIxYvQRqImxfH4oAQ",
+   "revision": 3,
+   "signature": "FzCCE9hGw99VIZ5KsdcQ5g16oFJfvX-afleIxHnvJvUv11x9tgptIAKlKPID6HWgcwourjJsglm_jOyjzuYVDQ",
    "subject_key": "live:mountain-goats:2005-07-04:fulton-mall-parking-garage",
-   "updated_at": "2026-10-24T20:46:24.437571"
+   "updated_at": "2026-10-25T23:16:44.903728"
   }
  },
  "recommended": {

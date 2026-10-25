@@ -418,7 +418,7 @@
    "updated_at": "2026-10-24T22:01:49.501268"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **The Legend of Chavo Guerrero**: rare: 9 archived performances [2]\n- Earliest performances in the archive: Heel Turn 2 [2]\n\n## The recordings\n\n- **tmg2015-04-22** (recommended): source not stated; 21 songs; 92 min [1]. Said about its sound: Audio quality is poor because the uploader initially recorded it for personal use only [1]\n\n## Around the show\n\n- Stephen Brodsky joined the band for the final four tracks of the set [1]\n\n## Tapers and lineage\n\n- **tmg2015-04-22**: source: phone recording -> FLAC [1]",
+   "body_md": "## Setlist highlights\n\n- **The Legend of Chavo Guerrero**: rare: 9 archived performances [2]\n- Earliest performances in the archive: Heel Turn 2 [2]\n\n## The recordings\n\n- **tmg2015-04-22** (recommended): source not stated; 21 songs; 92 min [1]. Said about its sound: The uploader admits the recording quality is not the best, since it was made casually for personal listening [1]\n\n## Around the show\n\n- Stephen Brodsky joins the band on tracks 20 through 23 of this recording [1]\n\n## Tapers and lineage\n\n- **tmg2015-04-22**: source: phone recording -> FLAC [1]. Also: The uploader taped it for themselves and shared it only because no other recording of the show had surfaced [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -442,7 +442,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -458,15 +458,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Audio quality is poor because the uploader initially recorded it for personal use only",
+      "text": "The uploader admits the recording quality is not the best, since it was made casually for personal listening",
       "type": "sound"
+     },
+     {
+      "recording": "tmg2015-04-22",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The uploader taped it for themselves and shared it only because no other recording of the show had surfaced",
+      "type": "lineage"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Stephen Brodsky joined the band for the final four tracks of the set",
+      "text": "Stephen Brodsky joins the band on tracks 20 through 23 of this recording",
       "type": "scene"
      }
     ],
@@ -475,24 +483,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "129cd1880304870fbaac27423b18bfb04f64fe6b1be593ce886711f73039baa3",
-    "generated_at": "2026-10-24T21:38:51.110405+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "9bf1c6468e7202b3746acd713c880ae4121b090ab19e9e2e5330f937c072ee23",
+    "generated_at": "2026-10-25T23:15:46.581025+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "c89f4d5a033f65792547f9153795c32858f17608d83d4d11d3c4d00565c26378",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 9.0
+    "seconds": 5.4
    },
-   "revision": 2,
-   "signature": "kfdExkzTq2cLj4fCKT0R_itoP4vvLm776iAalMU3xtXHdMnDHqd_abuowK-683XutJiyRIJkybwJvz-S_-cPDw",
+   "revision": 3,
+   "signature": "ZXF5WuCVa0oEf8HGa-IapMrTU4Pv5TOJKMRqDr00HxYe2JA3ijqbCLjORY3eL1FJDRZG3Z95utDWrlH_Nvp8DQ",
    "subject_key": "live:mountain-goats:2015-04-22:the-wexner-center",
-   "updated_at": "2026-10-24T21:38:51.112925"
+   "updated_at": "2026-10-25T23:15:46.589003"
   }
  },
  "recommended": {

@@ -560,7 +560,7 @@
    "updated_at": "2026-10-24T22:01:49.532291"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Young Caesar 2000**: back after 80 archived shows (2559 days); rare: 6 archived performances [3]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [3]\n- **Going to Malibu (stopped)**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Song for Tura Satana**: back after 76 archived shows (2529 days); rare: 3 archived performances [3]\n- **Romans 10:9**: back after 66 archived shows (2279 days) [3]\n- **Peacocks**: back after 32 archived shows (1168 days); rare: 4 archived performances [3]\n- **Seeing Daylight**: back after 52 archived shows (1720 days); rare: 13 archived performances [3]\n- **Autoclave**: back after 74 archived shows (2519 days) [3]\n\n## The recordings\n\n- **tmg2016-02-28.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 88 min [1]\n- **tmg2016-02-28.sah**: audience recording; 23 songs; 88 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-02-28.SBD.AUD.Matrix**: taped by blg; transferred by blg; source: [SBD > M10] + [Schoeps CCM4’s > Tinybox > M10] => FLAC [1]. Also: Mastering used Adobe Audition, iZotope Ozone 5, WavePad, and xACT, compiled March 2, 2016 [1]\n- **tmg2016-02-28.sah**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
+   "body_md": "## Setlist highlights\n\n- **Young Caesar 2000**: back after 80 archived shows (2559 days); rare: 6 archived performances [3]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [3]\n- **Going to Malibu (stopped)**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Song for Tura Satana**: back after 76 archived shows (2529 days); rare: 3 archived performances [3]\n- **Romans 10:9**: back after 66 archived shows (2279 days) [3]\n- **Peacocks**: back after 32 archived shows (1168 days); rare: 4 archived performances [3]\n- **Seeing Daylight**: back after 52 archived shows (1720 days); rare: 13 archived performances [3]\n- **Autoclave**: back after 74 archived shows (2519 days) [3]\n\n## The recordings\n\n- **tmg2016-02-28.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 88 min [1]\n- **tmg2016-02-28.sah**: audience recording; 23 songs; 88 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-02-28.SBD.AUD.Matrix**: taped by blg; transferred by blg; source: [SBD > M10] + [Schoeps CCM4’s > Tinybox > M10] => FLAC [1]. Also: Recording is a soundboard and audience matrix mix, labeled SBD.AUD.Matrix; Mastering chain: Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 for EQ, exciter, dynamics and imaging; After Ozone, tracks were split in WavePad, tagged in xACT and encoded to FLAC; notes compiled March 2, 2016 [1]\n- **tmg2016-02-28.sah**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -618,7 +618,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -634,7 +634,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Mastering used Adobe Audition, iZotope Ozone 5, WavePad, and xACT, compiled March 2, 2016",
+      "text": "Recording is a soundboard and audience matrix mix, labeled SBD.AUD.Matrix",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2016-02-28.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastering chain: Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 for EQ, exciter, dynamics and imaging",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2016-02-28.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "After Ozone, tracks were split in WavePad, tagged in xACT and encoded to FLAC; notes compiled March 2, 2016",
       "type": "lineage"
      }
     ],
@@ -643,24 +659,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "92b3f5018414ab29da3b7911d47bb6b4e25d938c5b68aa56705cf2421d429525",
-    "generated_at": "2026-10-24T21:45:45.865253+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "2e3bf7fb527dade16f2c0cc6a9512c34b6120f7f7b4cd4245c5982fcbb2822e6",
+    "generated_at": "2026-10-25T23:15:37.588663+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "661a6a67fe8d5839f55c3a1ba765833b7ee4506f26d45b58b55e7d8f1ac06e62",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 9.4
+    "seconds": 4.2
    },
-   "revision": 2,
-   "signature": "BdpDBt9AJ9opChFlM_NmCLEY05cLW3__wg1W6E8ycMDYmbYJHDsPieNAlOXjwxchrX-jnmj6f-SRl3ozBVv9DQ",
+   "revision": 3,
+   "signature": "quooTXgRpAvwVez7ObF3PUY6POeJ1M-ixPalKkH8YWZjqNHOcNNY2MgvJMbDoCSc6E6GCzh_wxg-zk0cOcdVCw",
    "subject_key": "live:mountain-goats:2016-02-28:swedish-american-hall-san-francisco-ca",
-   "updated_at": "2026-10-24T21:45:45.866219"
+   "updated_at": "2026-10-25T23:15:37.597025"
   }
  },
  "recommended": {

@@ -538,7 +538,7 @@
    "updated_at": "2026-10-24T22:01:49.746594"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Done Bleeding**: rare: 12 archived performances [4]\n- **For The Krishnacore Bands**: rare: 8 archived performances [4]\n- **Song for My Stepfather**: rare: 11 archived performances [4]\n- **The Last Limit Of Bhakti**: rare: 7 archived performances [4]\n- **Broom People / Cotton**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Werewolf Gimmick**: back after 61 archived shows (890 days) [4]\n\n## The recordings\n\n- **tMG2019-09-13.matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 124 min; rated 5/5 by 1 [1]\n- **tmg2019-09-13**: source not stated; 3 songs; 15 min [2]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2019-09-13.matrix**: taped by Anonymous + LMGBTapes; source: SBD [Engineer: Brandon Eggleston] + CA-14 Omnis (center stage lip) > CA-Ugly Pre > pcm m10 [1]",
+   "body_md": "## What listeners single out\n\n- **For The Krishnacore Bands** (1 other source): Notes list this song as unreleased, with video, at the time of the notes [1]\n- **Song for My Stepfather** (1 other source): Notes list this song as unreleased at the time of the notes [1]\n- **Cadaver Sniffing Dog** (1 review): Reviewer highlights a standout guitar solo by JD during this song [3]\n\n## Setlist highlights\n\n- **Done Bleeding**: rare: 12 archived performances [4]\n- **For The Krishnacore Bands**: rare: 8 archived performances [4]\n- **Song for My Stepfather**: rare: 11 archived performances [4]\n- **The Last Limit Of Bhakti**: rare: 7 archived performances [4]\n- **Broom People / Cotton**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Werewolf Gimmick**: back after 60 archived shows (890 days) [4]\n\n## The recordings\n\n- **tMG2019-09-13.matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 124 min; rated 5/5 by 1 [1]\n- **tmg2019-09-13**: source not stated; 3 songs; 15 min [2]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2019-09-13.matrix**: taped by Anonymous + LMGBTapes; source: SBD [Engineer: Brandon Eggleston] + CA-14 Omnis (center stage lip) > CA-Ugly Pre > pcm m10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -581,6 +581,7 @@
      "accessed_at": "2026-10-23",
      "author": "abwydyn",
      "author_url": "https://archive.org/search?query=reviewer%3A%22abwydyn%22",
+     "claim": "Reviewer highlights a standout guitar solo by JD during this song",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2024-05-23",
@@ -588,7 +589,7 @@
      "site": "Internet Archive",
      "title": "Review: banger (tMG2019-09-13.matrix)",
      "url": "https://archive.org/details/tMG2019-09-13.matrix#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -599,7 +600,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -609,30 +610,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Cadaver Sniffing Dog",
+      "song_key": "song:mountain-goats:cadaver-sniffing-dog",
+      "src": 3,
+      "text": "Reviewer highlights a standout guitar solo by JD during this song",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "For The Krishnacore Bands",
+      "song_key": "song:mountain-goats:for-the-krishnacore-bands",
+      "src": 1,
+      "text": "Notes list this song as unreleased, with video, at the time of the notes",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Song for My Stepfather",
+      "song_key": "song:mountain-goats:song-for-my-stepfather",
+      "src": 1,
+      "text": "Notes list this song as unreleased at the time of the notes",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2019-09-13:the-fillmore"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "b4a48b72f867635aebbe9069fa5bc2bab0078d8d992c35dd75b1acc5bdaaa1a7",
-    "generated_at": "2026-10-24T21:10:57.511297+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "77b3a0b6bedfe499cd1d605a449a9338305e0c9faa59a14b01d7d4837e3eda4d",
+    "generated_at": "2026-10-25T23:14:37.443008+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6b8835961582223dc19bf44f5433db1a9245164ffcf9b68a3af30a5e9547b9be",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 13.3
+    "seconds": 3.0
    },
-   "revision": 2,
-   "signature": "n-mN5WQCwa0Cp-PdOe6ZM6QKPmIAdPiSCsFXnTtuft4Rxq0HTnjx7OrDFCIhb7zd_rbTdtoeeioVM2yQ7GhoAA",
+   "revision": 3,
+   "signature": "7PEr3rnT4aNcbfT18nnc5Y-_cDwxSBGco8HqRdX-zX_ZvYR-r1OinQx4ApWc58CcATazVguU983S9C75C46xBg",
    "subject_key": "live:mountain-goats:2019-09-13:the-fillmore",
-   "updated_at": "2026-10-24T21:10:57.512936"
+   "updated_at": "2026-10-25T23:14:37.446183"
   }
  },
  "recommended": {

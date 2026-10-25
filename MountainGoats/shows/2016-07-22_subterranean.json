@@ -408,7 +408,7 @@
    "updated_at": "2026-10-24T22:01:49.549622"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Dark as a Dungeon**: rare: 9 archived performances [3]\n- **Going the Ways**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Store**: rare: 5 archived performances [3]\n- **Blood Capsules**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **mountaingoats2016-07-22.ca14.flac24** (recommended): source not stated; 19 songs; 83 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- The crowd mostly sang along, and the sound engineer Brandon Eggleston supported the recording [1]\n\n## Tapers and lineage\n\n- **mountaingoats2016-07-22.ca14.flac24**: taped by Brian Emerick; transferred by Brian Emerick; source: CA-14 Cards > CA-9100 Pre-amp > Edirol R-09HR 24-bit 48K > SDHC [1]. Also: Brian Emerick compiled the audio files on July 22, 2016 [1]",
+   "body_md": "## What listeners single out\n\n- **Going the Ways** (1 review): Seventh song, written for Roman; the listener says he named it \"Going the Ways\" at the start of his introduction [2]\n\n## Setlist highlights\n\n- **Dark as a Dungeon**: rare: 9 archived performances [3]\n- **Going the Ways**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Store**: rare: 5 archived performances [3]\n- **Blood Capsules**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **mountaingoats2016-07-22.ca14.flac24** (recommended): source not stated; 19 songs; 83 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- One marked passage or track in the notes was mostly sung by the crowd rather than the band [1]\n\n## Tapers and lineage\n\n- **mountaingoats2016-07-22.ca14.flac24**: taped by Brian Emerick; transferred by Brian Emerick; source: CA-14 Cards > CA-9100 Pre-amp > Edirol R-09HR 24-bit 48K > SDHC [1]. Also: Recording compiled on 22 July 2016 by Brian Emerick, per the contact address in the notes [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -441,6 +441,7 @@
      "accessed_at": "2026-10-23",
      "author": "lrubinko",
      "author_url": "https://archive.org/search?query=reviewer%3A%22lrubinko%22",
+     "claim": "Seventh song, written for Roman; the listener says he named it \"Going the Ways\" at the start of his introduction",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-07-25",
@@ -448,7 +449,7 @@
      "site": "Internet Archive",
      "title": "Review: THANKS! (and a possible correction) (mountaingoats2016-07-22.ca14.flac24)",
      "url": "https://archive.org/details/mountaingoats2016-07-22.ca14.flac24#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -459,7 +460,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -472,19 +473,27 @@
     "claims": [
      {
       "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "The crowd mostly sang along, and the sound engineer Brandon Eggleston supported the recording",
-      "type": "scene"
+      "song": "Going the Ways",
+      "song_key": "song:mountain-goats:going-the-ways",
+      "src": 2,
+      "text": "Seventh song, written for Roman; the listener says he named it \"Going the Ways\" at the start of his introduction",
+      "type": "song"
      },
      {
       "recording": "mountaingoats2016-07-22.ca14.flac24",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Brian Emerick compiled the audio files on July 22, 2016",
+      "text": "Recording compiled on 22 July 2016 by Brian Emerick, per the contact address in the notes",
       "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "One marked passage or track in the notes was mostly sung by the crowd rather than the band",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -492,24 +501,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "fead91640ae82be6c8370348cff7b11da476372851f43045f9f9ce8f3e26dd07",
-    "generated_at": "2026-10-24T21:21:56.823198+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "587b8b244d5ae1e7a03cb6c13fef659e2b4970085265ab38cfe5e89c82f2202f",
+    "generated_at": "2026-10-25T23:15:39.181705+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "8609970b87824f1961d57f3ab2e0b910ccd4b46d57768f2a987b473c05647a02",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 19.1
+    "seconds": 10.0
    },
-   "revision": 2,
-   "signature": "RI5HLnBjZkiMPlzskOhkS6MjsrbE6eL-hryokQkofjOBLLkVLLRwrRorP6Wrs29NxN7hGdvE3YafDhi9ugzWDw",
+   "revision": 3,
+   "signature": "qYN8Ex3F2k3RZJgiuTaxWWgqpBZf8M5pRJt0EgQ20L5k1Bd6awqLseMHrqdhBO6_wKfgRlkHcR0-ttwEDDm3BA",
    "subject_key": "live:mountain-goats:2016-07-22:subterranean",
-   "updated_at": "2026-10-24T21:21:56.830085"
+   "updated_at": "2026-10-25T23:15:39.186372"
   }
  },
  "recommended": {

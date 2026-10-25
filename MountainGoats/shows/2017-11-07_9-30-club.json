@@ -508,7 +508,7 @@
    "updated_at": "2026-10-24T22:01:49.591626"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Goats Take The Stage**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Craters Background**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Beautiful Gas Mask**: earliest performance in the archive; rare: 8 archived performances [3]\n- **Sun Song**: back after 221 archived shows (7213 days); rare: 4 archived performances [3]\n- **Some Swedish Trees**: back after 34 archived shows (893 days) [3]\n- **Jeff Davis Country Blues**: back after 66 archived shows (1956 days) [3]\n- **Birth Of Serpents**: back after 62 archived shows (1848 days) [3]\n- **Stench Of The Unburied**: rare: 4 archived performances [3]\n\n## The recordings\n\n- **tmg2017-11-07** (recommended): source not stated; 24 songs; 100 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: Banter/Shelved [1]\n\n## Tapers and lineage\n\n- **tmg2017-11-07**: taped by LMGBTapes; transferred by LMGBTapes [1]\n\n## Art and photos\n\n- Poster by parklifedc.com: [Ticket Giveaway: The Mountain Goats @ 9:30 Club, 11/7/17 | Parklife DC](https://parklifedc.com/2017/10/11/ticket-giveaway-the-mountain-goats-930-club-11717/) [4]",
+   "body_md": "## Setlist highlights\n\n- **Goats Take The Stage**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Craters Background**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Beautiful Gas Mask**: earliest performance in the archive; rare: 8 archived performances [3]\n- **Sun Song**: back after 219 archived shows (7213 days); rare: 4 archived performances [3]\n- **Some Swedish Trees**: back after 34 archived shows (893 days) [3]\n- **Jeff Davis Country Blues**: back after 66 archived shows (1956 days) [3]\n- **Birth Of Serpents**: back after 62 archived shows (1848 days) [3]\n- **Stench Of The Unburied**: rare: 4 archived performances [3]\n\n## The recordings\n\n- **tmg2017-11-07** (recommended): source not stated; 24 songs; 100 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: Banter/Shelved [1]\n- The listener enjoys hearing the taper's spoken comments during the recording, finding them part of the fun of listening [2]\n\n## Tapers and lineage\n\n- **tmg2017-11-07**: taped by LMGBTapes; transferred by LMGBTapes [1]\n\n## Art and photos\n\n- Poster by parklifedc.com: [Ticket Giveaway: The Mountain Goats @ 9:30 Club, 11/7/17 | Parklife DC](https://parklifedc.com/2017/10/11/ticket-giveaway-the-mountain-goats-930-club-11717/) [4]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -541,6 +541,7 @@
      "accessed_at": "2026-10-23",
      "author": "Ary Hartman",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Ary%20Hartman%22",
+     "claim": "The listener enjoys hearing the taper's spoken comments during the recording, finding them part of the fun of listening",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2025-03-14",
@@ -548,7 +549,7 @@
      "site": "Internet Archive",
      "title": "Review: I LOVE intrusions (tmg2017-11-07)",
      "url": "https://archive.org/details/tmg2017-11-07#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -559,7 +560,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -585,30 +586,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The listener enjoys hearing the taper's spoken comments during the recording, finding them part of the fun of listening",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-11-07:9-30-club"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "b6d6dc7c2062337806ad9bda105a362af97a42c1322d5e34e653c4943568c0b4",
-    "generated_at": "2026-10-24T21:12:05.170382+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "e81d9075a1e993a3d661d0a44e1b7b96da498e519d1a14e47cd82e0a557baa2e",
+    "generated_at": "2026-10-25T23:15:17.644349+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "125a3dd337bac021db377300f44c912b3360478bea6e3546055288970271c3d1",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.9
+    "seconds": 3.2
    },
-   "revision": 2,
-   "signature": "Jl2oeOBVKn3UAaTdgZDZ9Ly6iGOSPQdcMDRwrWtzwfUUIhnQhfa-BETzP9Dtjp8dM-Su_mNjus3Z6mV_CBq0BA",
+   "revision": 3,
+   "signature": "4E8yNszkp-GJAhbyLClKhoYBpS6gSgaFFB3Scr7oLIDhknD8qBRv7XDMAnhtiBgXTEYr1ii_1I6buO2zNbE6Bg",
    "subject_key": "live:mountain-goats:2017-11-07:9-30-club",
-   "updated_at": "2026-10-24T21:12:05.173344"
+   "updated_at": "2026-10-25T23:15:17.649825"
   }
  },
  "recommended": {

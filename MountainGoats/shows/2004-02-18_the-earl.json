@@ -378,7 +378,7 @@
    "updated_at": "2026-10-24T22:01:49.057254"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **Shadow Song** (1 other source): The volume of this specific track was doubled during the editing process [1]\n\n## Setlist highlights\n\n- **Commandate**: back after 24 archived shows (970 days) [4]\n- **Stars Around Her**: back after 48 archived shows (2915 days); rare: 5 archived performances [4]\n\n## The recordings\n\n- **tmg2004-02-18** (recommended): source not stated; 15 songs; 54 min; rated 5/5 by 2 [1]. Said about its sound: The reviewer describes the recording as having great sound quality [3]\n\n## Around the show\n\n- John Darnielle played guitar and vocals, while Peter Hughes handled the bass [1]\n- The listener admits to yelling drunkly throughout the entire performance [2]\n\n## Tapers and lineage\n\n- **tmg2004-02-18**: taped by Brandon; transferred by Brandon; source: mini-cardioid stereo microphones>Sharp MD-MT90 minidisc recorder>SoundBlaster PCI128 sound card [1]. Also: Uploader adjusted volume and added fades using Cool Edit Pro software [1]",
+   "body_md": "## What listeners single out\n\n- **Shadow Song** (1 other source): Uploader boosted this track's volume to twice its original level [1]\n\n## Setlist highlights\n\n- **Commandate**: back after 23 archived shows (970 days) [4]\n- **Stars Around Her**: back after 47 archived shows (2915 days); rare: 5 archived performances [4]\n\n## The recordings\n\n- **tmg2004-02-18** (recommended): source not stated; 15 songs; 54 min; rated 5/5 by 2 [1]\n\n## Around the show\n\n- John Darnielle played guitar and sang, Peter Hughes played bass; The Rosebuds and Phosphorescent opened. Uploader says the set is complete [1]\n- A drunk audience member, the reviewer, can be heard yelling throughout the recording [2]\n\n## Tapers and lineage\n\n- **tmg2004-02-18**: taped by Brandon; transferred by Brandon; source: mini-cardioid stereo microphones>Sharp MD-MT90 minidisc recorder>SoundBlaster PCI128 sound card [1]. Also: Uploader edited the recording in Cool Edit Pro, adjusting volume and adding fades and other edits [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -411,7 +411,7 @@
      "accessed_at": "2026-10-23",
      "author": "Midnight Monkee",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Midnight%20Monkee%22",
-     "claim": "The listener admits to yelling drunkly throughout the entire performance",
+     "claim": "A drunk audience member, the reviewer, can be heard yelling throughout the recording",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2007-05-07",
@@ -427,7 +427,6 @@
      "accessed_at": "2026-10-23",
      "author": "facelessplebe",
      "author_url": "https://archive.org/search?query=reviewer%3A%22facelessplebe%22",
-     "claim": "The reviewer describes the recording as having great sound quality",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2007-12-24",
@@ -435,7 +434,7 @@
      "site": "Internet Archive",
      "title": "Review: Just Great (tmg2004-02-18)",
      "url": "https://archive.org/details/tmg2004-02-18#reviews",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -446,7 +445,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -462,7 +461,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Uploader adjusted volume and added fades using Cool Edit Pro software",
+      "text": "Uploader edited the recording in Cool Edit Pro, adjusting volume and adding fades and other edits",
       "type": "lineage"
      },
      {
@@ -470,7 +469,7 @@
       "song": "Shadow Song",
       "song_key": "song:mountain-goats:shadow-song",
       "src": 1,
-      "text": "The volume of this specific track was doubled during the editing process",
+      "text": "Uploader boosted this track's volume to twice its original level",
       "type": "song"
      },
      {
@@ -478,7 +477,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "John Darnielle played guitar and vocals, while Peter Hughes handled the bass",
+      "text": "John Darnielle played guitar and sang, Peter Hughes played bass; The Rosebuds and Phosphorescent opened. Uploader says the set is complete",
       "type": "scene"
      },
      {
@@ -486,16 +485,8 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "The listener admits to yelling drunkly throughout the entire performance",
+      "text": "A drunk audience member, the reviewer, can be heard yelling throughout the recording",
       "type": "scene"
-     },
-     {
-      "recording": "tmg2004-02-18",
-      "song": null,
-      "song_key": null,
-      "src": 3,
-      "text": "The reviewer describes the recording as having great sound quality",
-      "type": "sound"
      }
     ],
     "format": "liner-3",
@@ -503,24 +494,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 5,
-    "facts_hash": "10f3518d34da7277040ac0cb63abd4930722ea5750d40da8da91211ebb2f583e",
-    "generated_at": "2026-10-24T20:47:41.651663+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "8e08570ac58f49d9d1b7e27aa8f9892ea1c9458575390b9daea70145929fc32e",
+    "generated_at": "2026-10-25T23:17:02.815616+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "7f4e033e8b2a2f3b1053c00d0aaa8d853eca70f2a19c71020c054745862b5792",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.7
+    "seconds": 7.2
    },
-   "revision": 2,
-   "signature": "oXKKQJDtX76TFCN0jfyk2rFhhU1qVGahr206nQHzYhvHxzyd4FkTSNgysHuCSK1TZh-1nxkcKne1VbcT4isoDA",
+   "revision": 3,
+   "signature": "9AK4torJW9lqHeYWCQyDVuDqeCUjVxuURzrveCyJHmC5yqZEoDoj4mLKexdaxi8iMdxGPhZZxeP-yItr7DBxCQ",
    "subject_key": "live:mountain-goats:2004-02-18:the-earl",
-   "updated_at": "2026-10-24T20:47:41.652296"
+   "updated_at": "2026-10-25T23:17:02.818624"
   }
  },
  "recommended": {

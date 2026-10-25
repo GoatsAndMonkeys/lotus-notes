@@ -488,7 +488,7 @@
    "updated_at": "2026-10-24T22:01:49.855913"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Lovecraft in Brooklyn**: back after 59 archived shows (1113 days) [2]\n- **In League with Dragons**: back after 28 archived shows (742 days) [2]\n- **From TG&Y**: back after 58 archived shows (974 days) [2]\n- **Isaiah 45:23**: rare: 13 archived performances [2]\n- **Autoclave**: back after 31 archived shows (762 days) [2]\n\n## The recordings\n\n- **tmg2021-12-18** (recommended): source not stated; 24 songs; 118 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-12-18**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
+   "body_md": "## What listeners single out\n\n- **From TG&Y** (1 other source): The notes list this song's album as unreleased, so it has no studio album home [1]\n\n## Setlist highlights\n\n- **Lovecraft in Brooklyn**: back after 58 archived shows (1113 days) [2]\n- **In League with Dragons**: back after 28 archived shows (742 days) [2]\n- **From TG&Y**: back after 57 archived shows (974 days) [2]\n- **Isaiah 45:23**: rare: 13 archived performances [2]\n- **Autoclave**: back after 31 archived shows (762 days) [2]\n\n## The recordings\n\n- **tmg2021-12-18** (recommended): source not stated; 24 songs; 118 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-12-18**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -524,7 +524,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -534,30 +534,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "From TG&Y",
+      "song_key": "song:mountain-goats:from-tg-and-y",
+      "src": 1,
+      "text": "The notes list this song's album as unreleased, so it has no studio album home",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2021-12-18:cats-cradle"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "310087d7652c377ba4b93c8fa610ad48cbfdae455f93d28b2869310086882e14",
-    "generated_at": "2026-10-24T21:37:26.425332+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "fa17bd4871c30832d2114e558eddb9d32401d38c70e4296c50906650cd3bd400",
+    "generated_at": "2026-10-25T23:14:15.297126+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "dcc9b3c1aaec7a7dae8ce42cc6ddb1b739798a87e9e2587ad19ee8717fc12a85",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.1
+    "seconds": 5.2
    },
-   "revision": 2,
-   "signature": "rSB4x96FWWrG6yEIdSeGY0a9Fjuhsbl8yPFb0kBFGQpboaVm_dlPESYWkkYTkjHkMKrBaTz3HFlmYI4e1veMBQ",
+   "revision": 3,
+   "signature": "6zMBSm7Uf8_tOOBtsqXin5cIvQjoAdppX1THsnOBWgoJ0O-cgWP7HU6ebv7QVAFIt8BPQL6B_r4T-lmfpHaQCQ",
    "subject_key": "live:mountain-goats:2021-12-18:cats-cradle",
-   "updated_at": "2026-10-24T21:37:26.426676"
+   "updated_at": "2026-10-25T23:14:15.300070"
   }
  },
  "recommended": {

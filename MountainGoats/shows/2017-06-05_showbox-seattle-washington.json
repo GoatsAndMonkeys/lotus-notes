@@ -463,7 +463,7 @@
    "updated_at": "2026-10-24T22:01:49.580788"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Crazy on You**: earliest performance in the archive; legendary: the only archived performance [2]\n- **It Froze Me**: back after 52 archived shows (1631 days) [2]\n- **Improv**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2017-06-05.AUD** (recommended): audience recording; 24 songs; 119 min [1]. Said about its sound: Izotope loudness applied; Audacity midside decode mixed with original, track cuts [1]\n\n## Tapers and lineage\n\n- **tmg2017-06-05.AUD**: taped by Tungol; transferred by roffels; source: AUD [1]. Also: Tascam IM2 mic, iPhone 5s, Tascam PCM recorder MKII v1.0.0 used for capture [1]",
+   "body_md": "## Setlist highlights\n\n- **Crazy on You**: earliest performance in the archive; legendary: the only archived performance [2]\n- **It Froze Me**: back after 52 archived shows (1631 days) [2]\n- **Improv**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2017-06-05.AUD** (recommended): audience recording; 24 songs; 119 min [1]\n\n## Tapers and lineage\n\n- **tmg2017-06-05.AUD**: taped by Tungol; transferred by roffels; source: AUD [1]. Also: Recorded audience-style with a Tascam IM2 mic plugged into an iPhone 5s via an Apple 30-pin to Lightning adapter; Captured as WAV using the Tascam PCM recorder app, version 1.0.0, on the iPhone; Post-processing used iZotope for loudness and Audacity for mid-side decoding blended with the original, plus track cuts [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -499,7 +499,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -515,7 +515,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Tascam IM2 mic, iPhone 5s, Tascam PCM recorder MKII v1.0.0 used for capture",
+      "text": "Recorded audience-style with a Tascam IM2 mic plugged into an iPhone 5s via an Apple 30-pin to Lightning adapter",
       "type": "lineage"
      },
      {
@@ -523,8 +523,16 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Izotope loudness applied; Audacity midside decode mixed with original, track cuts",
-      "type": "sound"
+      "text": "Captured as WAV using the Tascam PCM recorder app, version 1.0.0, on the iPhone",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2017-06-05.AUD",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Post-processing used iZotope for loudness and Audacity for mid-side decoding blended with the original, plus track cuts",
+      "type": "lineage"
      }
     ],
     "format": "liner-3",
@@ -532,24 +540,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "ec5684fce7ac711b0e69cee084ceecada9159bad06219b7aa1ccc14d773ec0d8",
-    "generated_at": "2026-10-24T21:55:51.941471+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "aa8ffc5072f958cecb0b6406d1fe95b043b099141501cdfae9303add661153bf",
+    "generated_at": "2026-10-25T23:15:21.671463+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "1fc97e72e97c97b38484de59d41a423eeb9545b9195a18eb9f1313cb99f98c84",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 10.8
+    "seconds": 3.9
    },
-   "revision": 2,
-   "signature": "nH_j-UFGeFptkxsY4C1DQpxlza9bIHhd8PTFQkL28oQyaS0oxRqXCgKyqQqWxPgnDygrPt1QaRQM9Wm3lWLuCg",
+   "revision": 3,
+   "signature": "95UTnQzytzFPiAYq2O8772xL3nRU7YFbI7GFGeB9GTkLHIvTj46k9YV5bhylTdVdhEVwMvuFwmbv08XlHLJqBQ",
    "subject_key": "live:mountain-goats:2017-06-05:showbox-seattle-washington",
-   "updated_at": "2026-10-24T21:55:51.943487"
+   "updated_at": "2026-10-25T23:15:21.674712"
   }
  },
  "recommended": {

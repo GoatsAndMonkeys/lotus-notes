@@ -480,7 +480,7 @@
    "updated_at": "2026-10-24T22:01:49.695422"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Done Bleeding**: rare: 12 archived performances [3]\n- **Insurance Fraud #2**: back after 163 archived shows (4333 days); rare: 5 archived performances [3]\n- **Ghosts**: back after 138 archived shows (3714 days); rare: 7 archived performances [3]\n- **For The Krishnacore Bands**: rare: 8 archived performances [3]\n- **The Last Limit Of Bhakti**: back after 134 archived shows (3684 days); rare: 7 archived performances [3]\n\n## The recordings\n\n- **tmg2019-04-28** (recommended): source not stated; 23 songs; 109 min [1]\n\n## Tapers and lineage\n\n- **tmg2019-04-28**: taped by Liz Hamilton; transferred by Liz Hamilton [1]",
+   "body_md": "## What listeners single out\n\n- **Ghosts** (1 other source): The notes credit this song to the album Hail and Farewell, Gothenburg [1]\n- **For The Krishnacore Bands** (1 other source): Listed in the notes as an unreleased song, with no album attached [1]\n- **Magpie** (1 other source): The notes credit this song to the album The Sunset Tree [1]\n\n## Setlist highlights\n\n- **Done Bleeding**: rare: 12 archived performances [3]\n- **Insurance Fraud #2**: back after 163 archived shows (4333 days); rare: 5 archived performances [3]\n- **Ghosts**: back after 138 archived shows (3714 days); rare: 7 archived performances [3]\n- **For The Krishnacore Bands**: rare: 8 archived performances [3]\n- **The Last Limit Of Bhakti**: back after 134 archived shows (3684 days); rare: 7 archived performances [3]\n\n## The recordings\n\n- **tmg2019-04-28** (recommended): source not stated; 23 songs; 109 min [1]\n\n## Tapers and lineage\n\n- **tmg2019-04-28**: taped by Liz Hamilton; transferred by Liz Hamilton [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -531,7 +531,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -541,30 +541,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "For The Krishnacore Bands",
+      "song_key": "song:mountain-goats:for-the-krishnacore-bands",
+      "src": 1,
+      "text": "Listed in the notes as an unreleased song, with no album attached",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Magpie",
+      "song_key": "song:mountain-goats:magpie",
+      "src": 1,
+      "text": "The notes credit this song to the album The Sunset Tree",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Ghosts",
+      "song_key": "song:mountain-goats:ghosts",
+      "src": 1,
+      "text": "The notes credit this song to the album Hail and Farewell, Gothenburg",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2019-04-28:wilbur-theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "652c06f51e43a0fc717fc80cc01c6dc6c03a220f31095ca20bf983e9835122d0",
-    "generated_at": "2026-10-24T21:24:46.015330+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "2db6a1ec75bac855330bffc6fcf68ba79c196c51f4d5d62932d645f5fc51de4c",
+    "generated_at": "2026-10-25T23:14:58.648352+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "efdb8006f5f69c181695d1c6131b3ca6dd6943bc328448a953aa70b5a42d288b",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.3
+    "seconds": 9.3
    },
-   "revision": 2,
-   "signature": "PgqusSw9FcQexrsC6AdUlmXq6Ri_OyIfTlYjRsoAvcsWhmGtdeGQgTy9NvNGGJ1i-oeClYPoUAKK0uxFbA6_Aw",
+   "revision": 3,
+   "signature": "Bo0sP2rRPkZIiBRCIhf7oTJo0Gof_CwRVPoCWruf4j-uoP41yLVHCouTH_s07VmWlISgxgjNsz7iiIotWQhaCQ",
    "subject_key": "live:mountain-goats:2019-04-28:wilbur-theatre",
-   "updated_at": "2026-10-24T21:24:46.016522"
+   "updated_at": "2026-10-25T23:14:58.651374"
   }
  },
  "recommended": {

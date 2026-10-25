@@ -447,7 +447,7 @@
    "updated_at": "2026-10-24T22:01:49.535448"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [4]\n- **Sometimes I Still Feel the Bruise (Trembling Blue Stars cover)**: earliest performance in the archive; legendary: the only archived performance [4]\n- **You're in Maya**: back after 168 archived shows (4571 days); rare: 9 archived performances [4]\n- **From TG and Y**: back after 52 archived shows (1742 days) [4]\n- **Wizard Level**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Oceanographer's Choice**: back after 80 archived shows (2570 days) [4]\n\n## The recordings\n\n- **theMountainGoats2016-04-02.nyctaper** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 92 min; rated 5/5 by 2 [1]. Said about its sound: The full band performance of this track is described as exceptional [3]\n\n## Around the show\n\n- Anthony Fantano attended the concert at College Street Music Hall [2]\n- The audience behaved respectfully during the show [3]\n\n## Tapers and lineage\n\n- **theMountainGoats2016-04-02.nyctaper**: taped by nyctaper; transferred by nyctaper; source: SBD + AUD Matrix [1]",
+   "body_md": "## What listeners single out\n\n- **Maize Stalk Drinking Blood** (1 review): The full-band version of this song is singled out as exceptional [3]\n\n## Setlist highlights\n\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [4]\n- **Sometimes I Still Feel the Bruise (Trembling Blue Stars cover)**: earliest performance in the archive; legendary: the only archived performance [4]\n- **You're in Maya**: back after 167 archived shows (4571 days); rare: 9 archived performances [4]\n- **From TG and Y**: back after 52 archived shows (1742 days) [4]\n- **Wizard Level**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Oceanographer's Choice**: back after 80 archived shows (2570 days) [4]\n\n## The recordings\n\n- **theMountainGoats2016-04-02.nyctaper** (recommended): matrix (soundboard mixed with audience mics); 20 songs; 92 min; rated 5/5 by 2 [1]. Said about its sound: The reviewer calls the capture excellent [3]\n\n## Around the show\n\n- Anthony Fantano was reportedly in the audience at this show [2]\n- The crowd was respectful, which adds to the quality of the recording [3]\n\n## Tapers and lineage\n\n- **theMountainGoats2016-04-02.nyctaper**: taped by nyctaper; transferred by nyctaper; source: SBD + AUD Matrix [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -480,7 +480,7 @@
      "accessed_at": "2026-10-23",
      "author": "Dangshnizzle",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Dangshnizzle%22",
-     "claim": "Anthony Fantano attended the concert at College Street Music Hall",
+     "claim": "Anthony Fantano was reportedly in the audience at this show",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2019-04-30",
@@ -496,7 +496,7 @@
      "accessed_at": "2026-10-23",
      "author": "LMGBTapes",
      "author_url": "https://archive.org/search?query=reviewer%3A%22LMGBTapes%22",
-     "claim": "The full band performance of this track is described as exceptional",
+     "claim": "The full-band version of this song is singled out as exceptional",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2019-09-27",
@@ -515,7 +515,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -531,7 +531,23 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Anthony Fantano attended the concert at College Street Music Hall",
+      "text": "Anthony Fantano was reportedly in the audience at this show",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Maize Stalk Drinking Blood",
+      "song_key": "song:mountain-goats:maize-stalk-drinking-blood",
+      "src": 3,
+      "text": "The full-band version of this song is singled out as exceptional",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The crowd was respectful, which adds to the quality of the recording",
       "type": "scene"
      },
      {
@@ -539,16 +555,8 @@
       "song": null,
       "song_key": null,
       "src": 3,
-      "text": "The full band performance of this track is described as exceptional",
+      "text": "The reviewer calls the capture excellent",
       "type": "sound"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 3,
-      "text": "The audience behaved respectfully during the show",
-      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -556,24 +564,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "e69fd4bfc94153f608008168e08fc1bd4117ef85b43143654de20886f399c4e6",
-    "generated_at": "2026-10-24T21:16:46.108907+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "121a3345614dfcc122383e6b766be45215a4551d854adcf11f5331a35fc81af5",
+    "generated_at": "2026-10-25T23:15:35.669411+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6cff8d72b68c9625d025975b5fc2f046ed85cf2f114f1eb36d614092ebd85c65",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.7
+    "seconds": 4.5
    },
-   "revision": 2,
-   "signature": "JiHJkIlYzmQ7niryr8ZqXIhWvefj0EfZ6kNkyR8vaK4cc5DbCa7G8r70_HeW4t5R9wdaMXD0PWkSu-keTDEOBA",
+   "revision": 3,
+   "signature": "QupzB70sdkvqql_pO9t8HdMSVJ6aErKnpTAXoUTDORtpOjLEQ5S14yoO8ht23PaYI_b6Hk3sE-7D24TT8j8JBA",
    "subject_key": "live:mountain-goats:2016-04-02:college-street-music-hall",
-   "updated_at": "2026-10-24T21:16:46.109924"
+   "updated_at": "2026-10-25T23:15:35.677350"
   }
  },
  "recommended": {

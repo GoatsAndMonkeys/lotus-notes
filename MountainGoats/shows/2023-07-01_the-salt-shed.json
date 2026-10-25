@@ -371,7 +371,7 @@
    "updated_at": "2026-10-24T22:01:49.996121"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **tMG2023-07-01** (recommended): matrix (soundboard mixed with audience mics); 15 songs; 62 min [1]. Said about its sound: Healy is positioned perfectly centered in the audio recording [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n- Dying Scene documented their first performance at The Salt Shed venue [3]\n\n## Tapers and lineage\n\n- **tMG2023-07-01**: taped by me; transferred by me; source: SBD > PCM-A10 (24/48 WAV) + CA-14 (Healy on stage) > CA-Ugly 2 preamp > PCM-A10 (24/48 WAV) [1]. Also: Uploader considers this one of the best Wurster captures received [1]",
+   "body_md": "## What listeners single out\n\n- **You Were Cool** (1 other source): The uploader's setlist table lists this song as unreleased [1]\n\n## The recordings\n\n- **tMG2023-07-01** (recommended): matrix (soundboard mixed with audience mics); 15 songs; 62 min [1]. Said about its sound: The Healy mic setup is described as perfectly centered [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n- Reviewer covered the second night at The Salt Shed, which was Dying Scene's first show at that venue [3]\n\n## Tapers and lineage\n\n- **tMG2023-07-01**: taped by me; transferred by me; source: SBD > PCM-A10 (24/48 WAV) + CA-14 (Healy on stage) > CA-Ugly 2 preamp > PCM-A10 (24/48 WAV) [1]. Also: Uploader calls this one of the best recordings by taper Wurster that they have ever received [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -407,7 +407,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -419,7 +419,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": "https://www.instagram.com/mmariegoldberg/",
-     "claim": "Dying Scene documented their first performance at The Salt Shed venue",
+     "claim": "Reviewer covered the second night at The Salt Shed, which was Dying Scene's first show at that venue",
      "id": 3,
      "kind": "review",
      "published_at": "2023-07-09T03:06:00+00:00",
@@ -454,23 +454,31 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Healy is positioned perfectly centered in the audio recording",
-      "type": "sound"
+      "text": "Uploader calls this one of the best recordings by taper Wurster that they have ever received",
+      "type": "lineage"
      },
      {
       "recording": "tMG2023-07-01",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Uploader considers this one of the best Wurster captures received",
-      "type": "lineage"
+      "text": "The Healy mic setup is described as perfectly centered",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": "You Were Cool",
+      "song_key": "song:mountain-goats:you-were-cool",
+      "src": 1,
+      "text": "The uploader's setlist table lists this song as unreleased",
+      "type": "song"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
       "src": 3,
-      "text": "Dying Scene documented their first performance at The Salt Shed venue",
+      "text": "Reviewer covered the second night at The Salt Shed, which was Dying Scene's first show at that venue",
       "type": "scene"
      }
     ],
@@ -479,24 +487,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "6989543d1e292c041fd0a2d5315f52d458e98ac8ee815bff47ca94b5e2e74763",
-    "generated_at": "2026-10-24T21:46:53.213991+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 4,
+    "facts_hash": "f2d499bd25401525b82dc38d315e829daa5968dc803e560a64bb5b20fd3bcd5e",
+    "generated_at": "2026-10-25T23:13:49.902276+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "136b7f45f77a7a6b01b1bbd465e71f51c9b24d2b3ca41311029037ff8bb01b27",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 13.2
+    "seconds": 9.1
    },
-   "revision": 2,
-   "signature": "s4PghRs2c_ggW1cXNjKMkrE5e9kOjLVj2IXJpeebEOlfNj1bGDauxPF9q7bQKQN8N10gbbVOOnnkAMDaWH93Aw",
+   "revision": 3,
+   "signature": "UNPRn15SIp-XzLZjkJ__404W9_OFxvRGBdPSbL5c6atJ31PYO9I_MMy6DxbYu7be-wzVGFujBusJ1XXyt_mjAQ",
    "subject_key": "live:mountain-goats:2023-07-01:the-salt-shed",
-   "updated_at": "2026-10-24T21:46:53.215064"
+   "updated_at": "2026-10-25T23:13:49.903899"
   }
  },
  "recommended": {

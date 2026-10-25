@@ -495,7 +495,7 @@
    "updated_at": "2026-10-24T22:01:50.234533"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Idylls of the King**: rare: 11 archived performances [3]\n- **Doc Gooden**: rare: 13 archived performances [3]\n- **Minnesota**: back after 59 archived shows (528 days) [3]\n- **Stable Boy Song**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **tMG2024-12-13** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 103 min [1]\n- **mountaingoats2024-12-13.flac16**: source not stated; 22 songs; 103 min [2]\n\n## Around the show\n\n- Stage talk about: between songs quiet and Water Tower, last night of tour goodbyes and thanks, new album tease, No Children [1]\n- A whistler in the venue created lingering audio artifacts during the performance [1]\n\n## Tapers and lineage\n\n- **tMG2024-12-13**: taped by Kyle Kennelly & Emerald Green (Tape&Bake); transferred by Kyle Kennelly; source: SBD [Brandon Eggleston] > Tascam FR-AV2 + DPA 4060 > FR-AV2 (Healy on stage) [1]. Also: Tipitina's staff and FOH Tubbs assisted with the recording setup [1]\n- **mountaingoats2024-12-13.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [2]",
+   "body_md": "## Setlist highlights\n\n- **Idylls of the King**: rare: 11 archived performances [3]\n- **Doc Gooden**: rare: 13 archived performances [3]\n- **Minnesota**: back after 58 archived shows (528 days) [3]\n- **Stable Boy Song**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **tMG2024-12-13** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 103 min [1]. Said about its sound: Uploader tried to remove the whistling from the recording, but some lingering artifacts remain [1]\n- **mountaingoats2024-12-13.flac16**: source not stated; 22 songs; 103 min [2]\n\n## Around the show\n\n- Stage talk about: between songs quiet and Water Tower, last night of tour goodbyes and thanks, new album tease, No Children [1]\n- Someone in the venue whistled repeatedly, including during songs, which was hard on people standing nearby [1]\n\n## Tapers and lineage\n\n- **tMG2024-12-13**: taped by Kyle Kennelly & Emerald Green (Tape&Bake); transferred by Kyle Kennelly; source: SBD [Brandon Eggleston] > Tascam FR-AV2 + DPA 4060 > FR-AV2 (Healy on stage) [1]. Also: Taped at Tipitina's with help from venue staff and front-of-house engineer Tubbs during setup [1]\n- **mountaingoats2024-12-13.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -558,7 +558,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -574,7 +574,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "A whistler in the venue created lingering audio artifacts during the performance",
+      "text": "Someone in the venue whistled repeatedly, including during songs, which was hard on people standing nearby",
       "type": "scene"
      },
      {
@@ -582,7 +582,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Tipitina's staff and FOH Tubbs assisted with the recording setup",
+      "text": "Uploader tried to remove the whistling from the recording, but some lingering artifacts remain",
+      "type": "sound"
+     },
+     {
+      "recording": "tMG2024-12-13",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped at Tipitina's with help from venue staff and front-of-house engineer Tubbs during setup",
       "type": "lineage"
      }
     ],
@@ -591,24 +599,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "07d6fae24a9d3f598e7b72279b005277c08ace0e8e1a2dea79c45873dcc4529c",
-    "generated_at": "2026-10-24T21:26:22.672085+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "dabfc891112e010e0e8907af884a223df8e398edb7c998e138d943b4bffcc848",
+    "generated_at": "2026-10-25T23:13:00.397003+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "1cc670a93986d21fdd25fc1c891fae2339b4e262d7cb713ef6643566b222418f",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 17.1
+    "seconds": 5.6
    },
-   "revision": 2,
-   "signature": "_26TEhOb1u-yFhZ21CMQnbpgc8Wv0uhNLnA_lBKtcJDKRvQXXEvF_bVEC7QC1kt7SZXyeqCiqv-0E6Afr6dIDQ",
+   "revision": 3,
+   "signature": "nHDeIWltkhok3xE15qmpyKn7p0faVCWr0Mn65ALa8ru6G8qBhJ8EQx9QyBUuS1ZRQ3CxKKi-0YpBeFkTNXqdDw",
    "subject_key": "live:mountain-goats:2024-12-13:tipitinas",
-   "updated_at": "2026-10-24T21:26:22.675817"
+   "updated_at": "2026-10-25T23:13:00.420929"
   }
  },
  "recommended": {

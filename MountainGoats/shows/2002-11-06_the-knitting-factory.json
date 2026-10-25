@@ -312,7 +312,7 @@
    "updated_at": "2026-10-24T22:01:49.008840"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **You're in Maya** (1 review): The reviewer asserts that any show featuring this specific track is inherently a great performance [2]\n\n## Setlist highlights\n\n- **Hot Garden Stomp**: rare: 9 archived performances [3]\n- **You're in Maya**: rare: 9 archived performances [3]\n- **Pure Gold**: rare: 10 archived performances [3]\n- Earliest performances in the archive: International Small Arms Traffic Blues [3]\n\n## The recordings\n\n- **08InternationalSmallArmsTraffic** (recommended): source not stated; 13 songs; 53 min; rated 4/5 by 1 [1]\n\n## Around the show\n\n- The audience interaction was minimal, with the performer offering very little banter between songs [2]\n\n## Tapers and lineage\n\n- **08InternationalSmallArmsTraffic**: The audio was captured using a handheld analog tape recorder during the live event [1]",
+   "body_md": "## What listeners single out\n\n- **Baboon** (1 review): Reviewer says Baboon is a poor fit for a date mixtape of the love songs [2]\n- **Tollund Man** (1 other source): Tollund Man opened the encore, followed by The Best Ever Death Metal Band in Denton [1]\n\n## Setlist highlights\n\n- **Hot Garden Stomp**: rare: 9 archived performances [3]\n- **You're in Maya**: rare: 9 archived performances [3]\n- **Pure Gold**: rare: 10 archived performances [3]\n- Earliest performances in the archive: International Small Arms Traffic Blues [3]\n\n## The recordings\n\n- **08InternationalSmallArmsTraffic** (recommended): source not stated; 13 songs; 53 min; rated 4/5 by 1 [1]. Said about its sound: Reviewer finds the recording well made [2]\n\n## Around the show\n\n- Set opened with There Will Be No Divorce and Jenny, then 02-75 came after Minnesota, none of which are in the setlist [1]\n- There is little stage banter between songs on this recording [2]\n\n## Tapers and lineage\n\n- **08InternationalSmallArmsTraffic**: Taped with a handheld analog tape recorder [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -333,7 +333,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "The reviewer asserts that any show featuring this specific track is inherently a great performance",
+     "claim": "Reviewer finds the recording well made",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-04-12",
@@ -352,7 +352,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -364,11 +364,43 @@
    "facts": {
     "claims": [
      {
+      "recording": "08InternationalSmallArmsTraffic",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Taped with a handheld analog tape recorder",
+      "type": "lineage"
+     },
+     {
       "recording": null,
-      "song": "You're in Maya",
-      "song_key": "song:mountain-goats:youre-in-maya",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Set opened with There Will Be No Divorce and Jenny, then 02-75 came after Minnesota, none of which are in the setlist",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Tollund Man",
+      "song_key": "song:mountain-goats:tollund-man",
+      "src": 1,
+      "text": "Tollund Man opened the encore, followed by The Best Ever Death Metal Band in Denton",
+      "type": "song"
+     },
+     {
+      "recording": "08InternationalSmallArmsTraffic",
+      "song": null,
+      "song_key": null,
       "src": 2,
-      "text": "The reviewer asserts that any show featuring this specific track is inherently a great performance",
+      "text": "Reviewer finds the recording well made",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": "Baboon",
+      "song_key": "song:mountain-goats:baboon",
+      "src": 2,
+      "text": "Reviewer says Baboon is a poor fit for a date mixtape of the love songs",
       "type": "song"
      },
      {
@@ -376,16 +408,8 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "The audience interaction was minimal, with the performer offering very little banter between songs",
+      "text": "There is little stage banter between songs on this recording",
       "type": "scene"
-     },
-     {
-      "recording": "08InternationalSmallArmsTraffic",
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "The audio was captured using a handheld analog tape recorder during the live event",
-      "type": "lineage"
      }
     ],
     "format": "liner-3",
@@ -393,24 +417,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "0338593ab77f47502fd15b5e7ada4f445204e07f8e6b5d85fd4689f83039cb5f",
-    "generated_at": "2026-10-24T21:48:16.524324+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 6,
+    "facts_hash": "1f17b3a7d4e32593588fbe038b82d067694fb021acc6ddb56faf78da3bb22407",
+    "generated_at": "2026-10-25T23:17:09.615222+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "a975f06a2fdfe0a46b2674c8f1c084eb17df5eb8fd38d84c18b5c7893d36559c",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 14.6
+    "seconds": 8.9
    },
-   "revision": 2,
-   "signature": "2Z7dhjnwJOLYxws6U7L-uoRMcEjAm1ST0T51VpYoctvTKN8AQwjN8xL9MP0HCICLJ9VKZVw8B4skLdVB4T19BQ",
+   "revision": 3,
+   "signature": "6_JIuxzgbzY8oZDdWTNflPVO_wkd1ph88DjlrxSrp5KnGjn_nKFOUlo5CHJtARsgAG4pVDZkX1mARWQGz6WfBw",
    "subject_key": "live:mountain-goats:2002-11-06:the-knitting-factory",
-   "updated_at": "2026-10-24T21:48:16.525337"
+   "updated_at": "2026-10-25T23:17:09.622037"
   }
  },
  "recommended": {

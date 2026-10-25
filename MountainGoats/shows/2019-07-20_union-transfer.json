@@ -490,7 +490,7 @@
    "updated_at": "2026-10-24T22:01:49.717844"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Pseudothyrum Song**: back after 257 archived shows (7302 days); rare: 7 archived performances [2]\n- **Song for My Stepfather**: rare: 11 archived performances [2]\n- **Luna**: back after 25 archived shows (461 days) [2]\n- **Psalms 40:2**: back after 56 archived shows (1035 days) [2]\n- **Going Invisible 2**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2019-07-20** (recommended): source not stated; 24 songs; 122 min [1]\n\n## Tapers and lineage\n\n- **tmg2019-07-20**: taped by Liz Hamilton; transferred by Liz Hamilton [1]",
+   "body_md": "## What listeners single out\n\n- **Song for My Stepfather** (1 other source): The uploader's track table lists this song's album as unreleased, so it had no studio album home at the time [1]\n\n## Setlist highlights\n\n- **Pseudothyrum Song**: back after 255 archived shows (7302 days); rare: 7 archived performances [2]\n- **Song for My Stepfather**: rare: 11 archived performances [2]\n- **Luna**: back after 25 archived shows (461 days) [2]\n- **Psalms 40:2**: back after 56 archived shows (1035 days) [2]\n- **Going Invisible 2**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tmg2019-07-20** (recommended): source not stated; 24 songs; 122 min [1]\n\n## Tapers and lineage\n\n- **tmg2019-07-20**: taped by Liz Hamilton; transferred by Liz Hamilton [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -526,7 +526,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -536,30 +536,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Song for My Stepfather",
+      "song_key": "song:mountain-goats:song-for-my-stepfather",
+      "src": 1,
+      "text": "The uploader's track table lists this song's album as unreleased, so it had no studio album home at the time",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2019-07-20:union-transfer"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "42583ca75d4dab3609b9858784889dcdbe9a14b92636ecfdef2c1a7355bddca5",
-    "generated_at": "2026-10-24T21:31:12.853570+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "952ebd149d15adb3afd1af3992a7b61caa01dd9f3ac1919cb8d0a8d3b5408a8d",
+    "generated_at": "2026-10-25T23:14:48.454738+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "c6a603170c2f9e90a9ec37ac4702194fc229c3d28bf50769cd23531fb75ce383",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.1
+    "seconds": 7.0
    },
-   "revision": 2,
-   "signature": "s5IDYQjdrO5rvFAx4PFupyhz_Yo9ptw0ajCscq_wl24wZxDBN_M4KMDrHvDZt3rjXbiOwdcaZvn6WCe-ElmHCw",
+   "revision": 3,
+   "signature": "5GPTVMxUXt6Zh0N3L9c720DeWqv7dwmnYJL16lEtwiAa6hzuVF8URUGfpitulvt9VXS3S57vrFBXGxUr0l6OAg",
    "subject_key": "live:mountain-goats:2019-07-20:union-transfer",
-   "updated_at": "2026-10-24T21:31:12.854780"
+   "updated_at": "2026-10-25T23:14:48.461783"
   }
  },
  "recommended": {

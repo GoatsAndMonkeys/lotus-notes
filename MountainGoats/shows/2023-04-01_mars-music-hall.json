@@ -434,7 +434,7 @@
    "updated_at": "2026-10-24T22:01:49.964942"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Pigs That Ran Straightaway Into the Water, Triumph of**: back after 195 archived shows (3979 days); rare: 11 archived performances [4]\n- **Hebrews 11:40**: back after 65 archived shows (1226 days); rare: 13 archived performances [4]\n- **Going to Kansas**: rare: 12 archived performances [4]\n- **Quetzalcoatl Eats Plums**: back after 62 archived shows (1135 days); rare: 5 archived performances [4]\n- **Solidarity Forever**: rare: 10 archived performances [4]\n- **Andrew Eldritch Is Moving Back to Leeds**: back after 49 archived shows (571 days) [4]\n\n## The recordings\n\n- **mountaingoats2023-04-01.flac16** (recommended): source not stated; 19 songs; 92 min [1]\n\n## Tapers and lineage\n\n- **mountaingoats2023-04-01.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
+   "body_md": "## Setlist highlights\n\n- **Pigs That Ran Straightaway Into the Water, Triumph of**: back after 194 archived shows (3979 days); rare: 11 archived performances [4]\n- **Hebrews 11:40**: back after 65 archived shows (1226 days); rare: 13 archived performances [4]\n- **Going to Kansas**: rare: 12 archived performances [4]\n- **Quetzalcoatl Eats Plums**: back after 62 archived shows (1135 days); rare: 5 archived performances [4]\n- **Solidarity Forever**: rare: 9 archived performances [4]\n- **Andrew Eldritch Is Moving Back to Leeds**: back after 49 archived shows (571 days) [4]\n\n## The recordings\n\n- **mountaingoats2023-04-01.flac16** (recommended): source not stated; 19 songs; 92 min [1]. Said about its sound: Reviewer observes that this recording leaves out \"Tomb of the Assassin\"; Reviewer points out that \"Tomb of the Assassin\" is missing from this recording [2][3]\n\n## Tapers and lineage\n\n- **mountaingoats2023-04-01.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -467,6 +467,7 @@
      "accessed_at": "2026-10-23",
      "author": "Redlyn Fallow",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Redlyn%20Fallow%22",
+     "claim": "Reviewer observes that this recording leaves out \"Tomb of the Assassin\"",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2025-09-24",
@@ -474,7 +475,7 @@
      "site": "Internet Archive",
      "title": "Review: Tomb of the Assassin (mountaingoats2023-04-01.flac16)",
      "url": "https://archive.org/details/mountaingoats2023-04-01.flac16#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -482,6 +483,7 @@
      "accessed_at": "2026-10-23",
      "author": "Jenny925",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Jenny925%22",
+     "claim": "Reviewer points out that \"Tomb of the Assassin\" is missing from this recording",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2026-08-28",
@@ -489,7 +491,7 @@
      "site": "Internet Archive",
      "title": "Review: Omitted Song (mountaingoats2023-04-01.flac16)",
      "url": "https://archive.org/details/mountaingoats2023-04-01.flac16#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -500,7 +502,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -510,30 +512,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "mountaingoats2023-04-01.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer observes that this recording leaves out \"Tomb of the Assassin\"",
+      "type": "sound"
+     },
+     {
+      "recording": "mountaingoats2023-04-01.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Reviewer points out that \"Tomb of the Assassin\" is missing from this recording",
+      "type": "sound"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-04-01:mars-music-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "09c540abad151a7b565e61e6dd179e02110420ba90a831e411518456e00e59d5",
-    "generated_at": "2026-10-24T21:49:37.625985+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "78f90e41baed9f18688b9f6cfdf016589af57002c9bd7125421504fd6571a17e",
+    "generated_at": "2026-10-25T23:13:52.198341+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "b15a6bcc6a657ae029a54bbcbbe81a4ed8268d3913a4826cc86bb103c33731f6",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.3
+    "seconds": 6.3
    },
-   "revision": 2,
-   "signature": "-OUOOvoE7FtaCoVvO9RrwA-JE5mhhgVbe61TXbkUaDa4G1spZ-1NouR4M5vXN_hz93hHQ-zUBkbMDpd0RaMrAg",
+   "revision": 3,
+   "signature": "c4IkrdVjl9smM3L3J98frh-eFDURPNVgayg2C6ehzCkgYYLGSOCGEr2DmU-MmqPKjCUmzdCx7i0a4TxWM4MnDg",
    "subject_key": "live:mountain-goats:2023-04-01:mars-music-hall",
-   "updated_at": "2026-10-24T21:49:37.627060"
+   "updated_at": "2026-10-25T23:13:52.200773"
   }
  },
  "recommended": {

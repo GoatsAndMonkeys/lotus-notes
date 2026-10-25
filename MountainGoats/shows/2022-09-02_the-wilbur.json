@@ -167,7 +167,7 @@
    "updated_at": "2026-10-24T22:01:49.903958"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **tmg2022-09-02** (recommended): source not stated; 0 songs; 118 min; rated 0.33/5 by 3 [1]\n\n## Tapers and lineage\n\n- **tmg2022-09-02**: taped by natsinator [1]",
+   "body_md": "## The recordings\n\n- **tmg2022-09-02** (recommended): source not stated; 0 songs; 118 min; rated 0.33/5 by 3 [1]\n\n## Around the show\n\n- Few recordings circulate of Un Reve Plus Long Que la Nuit, which makes this taping unusually valuable to the commenter [4]\n\n## Tapers and lineage\n\n- **tmg2022-09-02**: taped by natsinator [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -225,6 +225,7 @@
      "accessed_at": "2026-10-23",
      "author": "flyingsandwich",
      "author_url": "https://archive.org/search?query=reviewer%3A%22flyingsandwich%22",
+     "claim": "Few recordings circulate of Un Reve Plus Long Que la Nuit, which makes this taping unusually valuable to the commenter",
      "id": 4,
      "kind": "archive_review",
      "published_at": "2023-06-15",
@@ -232,7 +233,7 @@
      "site": "Internet Archive",
      "title": "Review: un reve (tmg2022-09-02)",
      "url": "https://archive.org/details/tmg2022-09-02#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -243,7 +244,7 @@
      "id": 5,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -253,30 +254,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 4,
+      "text": "Few recordings circulate of Un Reve Plus Long Que la Nuit, which makes this taping unusually valuable to the commenter",
+      "type": "compare"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2022-09-02:the-wilbur"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "b8ec9f0f8c2518aa0c1fb1174e9695370b9cb942840000fe4f0cb6300abe8448",
-    "generated_at": "2026-10-24T21:58:54.689964+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "2532f9c8c096c002cfdd7c04235ec4e3737aa731e00fe3a72780388e95f55c0f",
+    "generated_at": "2026-10-25T23:14:06.320090+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "3bc7b5c2f150dfb2218d9d710c03aad357650bf56cd3bc57132ebe44fe0013d4",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 3.0
+    "seconds": 7.1
    },
-   "revision": 2,
-   "signature": "AarSP1eBIUlBgvH_gIFLNkgwK_IDs7VtljMx-iYavXP7Q3h9qO3E6rwskPTatOrCs2rSueLoIbrgPmpVRXbmBA",
+   "revision": 3,
+   "signature": "6AiCcwI3JLC2B01HsUvOyi2qyN95nKhMdTRpNd3J5guvPbllCT_WbeQRgygrnQnJR_fuRrxGYa04BPDHrZcZDw",
    "subject_key": "live:mountain-goats:2022-09-02:the-wilbur",
-   "updated_at": "2026-10-24T21:58:54.691902"
+   "updated_at": "2026-10-25T23:14:06.322509"
   }
  },
  "recommended": {

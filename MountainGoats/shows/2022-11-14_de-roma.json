@@ -458,7 +458,7 @@
    "updated_at": "2026-10-24T22:01:49.929141"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Going to Queens**: rare: 14 archived performances [2]\n- **I've Got the Sex**: back after 31 archived shows (419 days) [2]\n- **Bones Don't Rust**: rare: 12 archived performances [2]\n- **Choked Out**: rare: 9 archived performances [2]\n\n## The recordings\n\n- **tmg2022-11-14.roma** (recommended): source not stated; 24 songs; 105 min [1]\n\n## Around the show\n\n- The first song, Make You Suffer, is missing from the recording [1]\n\n## Tapers and lineage\n\n- **tmg2022-11-14.roma**: Taped by another attendee, uploaded to a deleted Reddit post [1]",
+   "body_md": "## Setlist highlights\n\n- **Going to Queens**: rare: 14 archived performances [2]\n- **I've Got the Sex**: back after 31 archived shows (419 days) [2]\n- **Bones Don't Rust**: rare: 12 archived performances [2]\n- **Choked Out**: rare: 9 archived performances [2]\n\n## The recordings\n\n- **tmg2022-11-14.roma** (recommended): source not stated; 24 songs; 105 min [1]. Said about its sound: The recording lacks the opening number, Make You Suffer, so the tape starts after the show's first song [1]\n\n## Tapers and lineage\n\n- **tmg2022-11-14.roma**: Taped by a different audience member, then shared in a Reddit post that has since been deleted; The uploader's own recording of the night turned out poor, so this alternate taper's copy is shared instead [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -482,7 +482,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -498,16 +498,24 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Taped by another attendee, uploaded to a deleted Reddit post",
+      "text": "Taped by a different audience member, then shared in a Reddit post that has since been deleted",
       "type": "lineage"
      },
      {
-      "recording": null,
+      "recording": "tmg2022-11-14.roma",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "The first song, Make You Suffer, is missing from the recording",
-      "type": "scene"
+      "text": "The uploader's own recording of the night turned out poor, so this alternate taper's copy is shared instead",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2022-11-14.roma",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The recording lacks the opening number, Make You Suffer, so the tape starts after the show's first song",
+      "type": "sound"
      }
     ],
     "format": "liner-3",
@@ -515,24 +523,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "c7bef4c321099f8729c675b004b436de3e8093fe530ee685135bf79963b3937c",
-    "generated_at": "2026-10-24T21:58:19.577433+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a967fcc267411aa37188e652e53c0f8c44126e11c22cddb033349a750079c08c",
+    "generated_at": "2026-10-25T23:14:01.833666+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "8a9eb4328d2093de004172f7a90279f48960686f7ddbaccd4fab0566a6f0f228",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 10.5
+    "seconds": 7.3
    },
-   "revision": 2,
-   "signature": "wNFNWZ4ngOatizEyRyweWMk7xRcLp6tZ7I8zNb79xv0-O1LYHBEfm6JmrrYLNFUQUm5y5fOQcJpcATKKM17TAg",
+   "revision": 3,
+   "signature": "RPA_OxjYQ_ffG5V_o0KYUTdd9HCXBIxQJWhvMSnbucw2KUfauiEjnUY4pD2d-i9CQeYnI7E4PNAr9HxJOCrMAQ",
    "subject_key": "live:mountain-goats:2022-11-14:de-roma",
-   "updated_at": "2026-10-24T21:58:19.579301"
+   "updated_at": "2026-10-25T23:14:01.835274"
   }
  },
  "recommended": {

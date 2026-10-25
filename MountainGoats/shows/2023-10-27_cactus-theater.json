@@ -467,7 +467,7 @@
    "updated_at": "2026-10-24T22:01:50.046487"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **There Will Be No Divorce**: back after 50 archived shows (525 days) [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- Earliest performances in the archive: Water Tower [2]\n\n## The recordings\n\n- **mountaingoats2023-10-27.flac16** (recommended): source not stated; 22 songs; 106 min [1]\n\n## Tapers and lineage\n\n- **mountaingoats2023-10-27.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
+   "body_md": "## Setlist highlights\n\n- **There Will Be No Divorce**: back after 50 archived shows (525 days) [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Clean Slate**: rare: 11 archived performances [2]\n- Earliest performances in the archive: Water Tower [2]\n\n## The recordings\n\n- **mountaingoats2023-10-27.flac16** (recommended): source not stated; 22 songs; 106 min [1]\n\n## Around the show\n\n- The show was the first date of a Texas run, followed by Dallas's Longhorn Ballroom the next night [3]\n\n## Tapers and lineage\n\n- **mountaingoats2023-10-27.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -503,7 +503,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -515,6 +515,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "The show was the first date of a Texas run, followed by Dallas's Longhorn Ballroom the next night",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -522,7 +523,7 @@
      "site": "themountaingoats.fandom.com",
      "title": "Spectral Tide Tour 2023 | The Mountain Goats Wiki - Fandom",
      "url": "https://themountaingoats.fandom.com/wiki/Spectral_Tide_Tour_2023",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -543,30 +544,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The show was the first date of a Texas run, followed by Dallas's Longhorn Ballroom the next night",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-10-27:cactus-theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "65a5f349a1b72e03f9be0e20e9a847199399d96c087749b09a5777306ae3eca2",
-    "generated_at": "2026-10-24T21:54:50.311354+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "359fda0ad3c9fc29d5bb8ac8a613ed28b3c7f6e8628d79872d67aaebca4dc6e0",
+    "generated_at": "2026-10-25T23:13:33.541331+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "47b4887e80e3ee9b2deff307ea67753e0668a8d04a33708d863eadf7d44e3383",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 4.5
+    "seconds": 4.6
    },
-   "revision": 2,
-   "signature": "ad1W0UniGK77LCxj5xGN9CfCGvsOBP-zJ-jpvX2XxPv0f6OJXjzZeLmSRqve32w-FRXrp7WsQBt26oiNayEwAg",
+   "revision": 3,
+   "signature": "Yvs8JdNDPYElX7X5ywSCFrMOAE5h1RzSMD22hvEhAjihhH1uMLMAJAUuSul9_W-Bqh_dxPlHTHm0clvMXbl2Dg",
    "subject_key": "live:mountain-goats:2023-10-27:cactus-theater",
-   "updated_at": "2026-10-24T21:54:50.313791"
+   "updated_at": "2026-10-25T23:13:33.546050"
   }
  },
  "recommended": {

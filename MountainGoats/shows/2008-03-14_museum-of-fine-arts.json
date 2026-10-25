@@ -390,7 +390,7 @@
    "updated_at": "2026-10-24T22:01:49.244988"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **Heretic Pride** (1 review): The reviewer singles out this track as particularly nice [2]\n\n## Setlist highlights\n\n- **Marduk T-Shirt Men's Room Incident**: rare: 6 archived performances [3]\n- **Sign of the Crow**: earliest performance in the archive; rare: 3 archived performances [3]\n- **I Ain't Livin' Long Like This (Rodney Crowell cover)**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **How to Embrace A Swamp Creature**: rare: 11 archived performances [3]\n- Earliest performances in the archive: New Zion [3]\n\n## The recordings\n\n- **tmg2008-03-14.flac** (recommended): source not stated; 18 songs; 73 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- The recording is described as a standout among many Goats shows on archive [2]\n\n## Tapers and lineage\n\n- **tmg2008-03-14.flac**: taped by Peter Sohriakoff; transferred by Mike Wojciechowski [1]",
+   "body_md": "## What listeners single out\n\n- **Heretic Pride** (1 review): Reviewer singles out this song as one of the especially enjoyable performances of the night [2]\n- **Hast Thou Considered The Tetrapod** (1 review): Reviewer names the Tetrapod song as another especially enjoyable moment in the set [2]\n\n## Setlist highlights\n\n- **Marduk T-Shirt Men's Room Incident**: rare: 6 archived performances [3]\n- **Sign of the Crow**: earliest performance in the archive; rare: 3 archived performances [3]\n- **I Ain't Livin' Long Like This (Rodney Crowell cover)**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **How to Embrace A Swamp Creature**: rare: 11 archived performances [3]\n- Earliest performances in the archive: New Zion [3]\n\n## The recordings\n\n- **tmg2008-03-14.flac** (recommended): source not stated; 18 songs; 73 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Reviewer, after hearing many Mountain Goats shows on the Internet Archive, ranks this one as a standout among them [2]\n\n## Tapers and lineage\n\n- **tmg2008-03-14.flac**: taped by Peter Sohriakoff; transferred by Mike Wojciechowski [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -423,7 +423,7 @@
      "accessed_at": "2026-10-23",
      "author": "thh200",
      "author_url": "https://archive.org/search?query=reviewer%3A%22thh200%22",
-     "claim": "The reviewer singles out this track as particularly nice",
+     "claim": "Reviewer, after hearing many Mountain Goats shows on the Internet Archive, ranks this one as a standout among them",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2009-01-07",
@@ -442,7 +442,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -455,19 +455,27 @@
     "claims": [
      {
       "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer, after hearing many Mountain Goats shows on the Internet Archive, ranks this one as a standout among them",
+      "type": "compare"
+     },
+     {
+      "recording": null,
       "song": "Heretic Pride",
       "song_key": "song:mountain-goats:heretic-pride",
       "src": 2,
-      "text": "The reviewer singles out this track as particularly nice",
+      "text": "Reviewer singles out this song as one of the especially enjoyable performances of the night",
       "type": "song"
      },
      {
       "recording": null,
-      "song": null,
-      "song_key": null,
+      "song": "Hast Thou Considered The Tetrapod",
+      "song_key": "song:mountain-goats:hast-thou-considered-the-tetrapod",
       "src": 2,
-      "text": "The recording is described as a standout among many Goats shows on archive",
-      "type": "compare"
+      "text": "Reviewer names the Tetrapod song as another especially enjoyable moment in the set",
+      "type": "song"
      }
     ],
     "format": "liner-3",
@@ -475,24 +483,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "06a1f9cfc55d099d6e99ac5b54a7362e52908beb7ded45f400778b344cd292b2",
-    "generated_at": "2026-10-24T20:56:49.320718+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "623251e0e73d47b48c3e72297b8d101e22e42546b377316d8b6a51889a885d3e",
+    "generated_at": "2026-10-25T23:16:27.351112+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "fb06c5b2efbc5240dde39354596879e1432be935c215e9d037ac24b538067716",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.2
+    "seconds": 5.1
    },
-   "revision": 2,
-   "signature": "-KD_7Lk4Gfm3-r7nysRo_J41Nep8-684Z_SprURCzz89GGmfe53sH6DBrAb15HyRfqIREFpVAVzcgKSj40kpCQ",
+   "revision": 3,
+   "signature": "LKBYjk69__uVlBq9QQjgs6OQPYzIuDV54cLu9hSMnxTTQhIgJ8EDB1HTkeLOOERzO0PP7J1FeF1Qe8qmqTuSCA",
    "subject_key": "live:mountain-goats:2008-03-14:museum-of-fine-arts",
-   "updated_at": "2026-10-24T20:56:49.321456"
+   "updated_at": "2026-10-25T23:16:27.358778"
   }
  },
  "recommended": {

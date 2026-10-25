@@ -515,7 +515,7 @@
    "updated_at": "2026-10-24T22:01:49.559401"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **The band takes the stage**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Night Of The Mules**: back after 83 archived shows (2691 days); rare: 6 archived performances [3]\n- **Riches And Wonders**: back after 147 archived shows (4134 days); rare: 7 archived performances [3]\n- **Whole Wide World**: back after 52 archived shows (1579 days) [3]\n- **Stay Alive**: earliest performance in the archive; legendary: the only archived performance; cut on the recording [3]\n- **Pure Love**: earliest performance in the archive; legendary: the only archived performance [3]\n- **The Band Returns**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Jam Eater Blues**: back after 161 archived shows (4390 days); rare: 9 archived performances [3]\n\n## The recordings\n\n- **tmg2016-10-26** (recommended): source not stated; 22 songs; 66 min [1]\n- **tmg2016-10-26.mk4.flac24**: source not stated; 19 songs; 68 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-10-26**: taped by LMGBTapes; transferred by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]\n- **tmg2016-10-26.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 > SDHC [2]",
+   "body_md": "## What listeners single out\n\n- **Southwestern Territories** (1 other source): Notes credit this song to the album Beat the Champ [1]\n- **You Were Cool** (1 other source): Notes mark this song as having no album release [1]\n- **I Will Survive (first verse)** (1 other source): Notes list it as a partial performance of the Gloria Gaynor song, with no album release [1]\n\n## Setlist highlights\n\n- **The band takes the stage**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Night Of The Mules**: back after 83 archived shows (2691 days); rare: 6 archived performances [3]\n- **Riches And Wonders**: back after 147 archived shows (4134 days); rare: 7 archived performances [3]\n- **Whole Wide World**: back after 52 archived shows (1579 days) [3]\n- **Stay Alive**: earliest performance in the archive; legendary: the only archived performance; cut on the recording [3]\n- **Pure Love**: earliest performance in the archive; legendary: the only archived performance [3]\n- **The Band Returns**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Jam Eater Blues**: back after 160 archived shows (4390 days); rare: 9 archived performances [3]\n\n## The recordings\n\n- **tmg2016-10-26** (recommended): source not stated; 22 songs; 66 min [1]\n- **tmg2016-10-26.mk4.flac24**: source not stated; 19 songs; 68 min [2]\n\n## Tapers and lineage\n\n- **tmg2016-10-26**: taped by LMGBTapes; transferred by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]\n- **tmg2016-10-26.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 > SDHC [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -578,7 +578,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -588,30 +588,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "I Will Survive (first verse)",
+      "song_key": "song:mountain-goats:i-will-survive",
+      "src": 1,
+      "text": "Notes list it as a partial performance of the Gloria Gaynor song, with no album release",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "You Were Cool",
+      "song_key": "song:mountain-goats:you-were-cool",
+      "src": 1,
+      "text": "Notes mark this song as having no album release",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Southwestern Territories",
+      "song_key": "song:mountain-goats:southwestern-territory",
+      "src": 1,
+      "text": "Notes credit this song to the album Beat the Champ",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2016-10-26:downtown-artery"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "83cf8cacfe48b2eb8bd7297986699b879bd17fc40add57ec8b12fb77effef9c8",
-    "generated_at": "2026-10-24T21:07:17.788608+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "67a7cbe39d48ffa17985016b605819307059c33b63d4caea3c39f8f3d0a91a0d",
+    "generated_at": "2026-10-25T23:15:35.214120+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "8de9fb8ec106d6fbd51b614f7b5cdb23beb4089a1e1e5a1ddacadc8378051f74",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.3
+    "seconds": 7.7
    },
-   "revision": 2,
-   "signature": "b0-sivwQbsgxFHzTNBJoSTNObSVXTINz1HtZagkUf31Ch7s9R28RLHa_INd792smoxSEXGgCQzwV7xdjzfrZDQ",
+   "revision": 3,
+   "signature": "UcSkSL0gCZQ7acZB8fjYiCfi861ul9nnFo85JEE4ZHi9LQwfluyUxtgtuPIYn9OvWtRVrFEjqLr8DPEG7DxhAw",
    "subject_key": "live:mountain-goats:2016-10-26:downtown-artery",
-   "updated_at": "2026-10-24T21:07:17.790886"
+   "updated_at": "2026-10-25T23:15:35.217387"
   }
  },
  "recommended": {

@@ -450,7 +450,7 @@
    "updated_at": "2026-10-24T22:01:49.890884"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Clemency for the Wizard King**: back after 41 archived shows (965 days) [3]\n- **Estate Sale Sign**: back after 40 archived shows (960 days) [3]\n- **Liza Forever Minnelli**: back after 42 archived shows (965 days) [3]\n- **Alpha Sun Hat**: back after 79 archived shows (1503 days); rare: 4 archived performances [3]\n- **Source Decay**: back after 40 archived shows (960 days) [3]\n\n## The recordings\n\n- **mountaingoats2022-07-09** (recommended): source not stated; 21 songs; 100 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: Encore [1]\n- Intimacy of the duo performance emphasized the strong sense of community among fans [2]\n- John Darnielle played acoustic guitar and keyboard; Matt Douglas handled guitar, keys, sax, flute [1]\n- Audience voted on Matt Douglas's instrument choice, featuring saxophone before revealing the flute [1]\n\n## Tapers and lineage\n\n- **mountaingoats2022-07-09**: source: ZOOM H1 (48kHz 24bit WAV) [1]. Also: Recorded on a Zoom H1, transferred to SD card, edited in Audacity, saved as FLAC [1]",
+   "body_md": "## What listeners single out\n\n- **Color in Your Cheeks** (1 other source): Audience voted on Matt Douglas's instrument; saxophone led the vote, then he revealed he would play flute [1]\n\n## Setlist highlights\n\n- **Clemency for the Wizard King**: back after 41 archived shows (965 days) [3]\n- **Estate Sale Sign**: back after 40 archived shows (960 days) [3]\n- **Liza Forever Minnelli**: back after 42 archived shows (965 days) [3]\n- **Alpha Sun Hat**: back after 78 archived shows (1503 days); rare: 4 archived performances [3]\n- **Source Decay**: back after 40 archived shows (960 days) [3]\n\n## The recordings\n\n- **mountaingoats2022-07-09** (recommended): source not stated; 21 songs; 100 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: Encore [1]\n- First night of a duo tour: John Darnielle on acoustic guitar and keyboard, Matt Douglas on guitar, keyboard, saxophone and flute [1]\n- Reviewer found the duo format intimate, which emphasized the fanbase's sense of community [2]\n\n## Tapers and lineage\n\n- **mountaingoats2022-07-09**: source: ZOOM H1 (48kHz 24bit WAV) [1]. Also: Recorded on a Zoom H1 at 48kHz 24-bit WAV, then SD card, Audacity, and FLAC [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -471,7 +471,7 @@
      "accessed_at": "2026-10-23",
      "author": "Kuyakojo",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Kuyakojo%22",
-     "claim": "Intimacy of the duo performance emphasized the strong sense of community among fans",
+     "claim": "Reviewer found the duo format intimate, which emphasized the fanbase's sense of community",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2022-07-25",
@@ -490,7 +490,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -502,19 +502,11 @@
    "facts": {
     "claims": [
      {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 2,
-      "text": "Intimacy of the duo performance emphasized the strong sense of community among fans",
-      "type": "scene"
-     },
-     {
       "recording": "mountaingoats2022-07-09",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded on a Zoom H1, transferred to SD card, edited in Audacity, saved as FLAC",
+      "text": "Recorded on a Zoom H1 at 48kHz 24-bit WAV, then SD card, Audacity, and FLAC",
       "type": "lineage"
      },
      {
@@ -522,15 +514,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "John Darnielle played acoustic guitar and keyboard; Matt Douglas handled guitar, keys, sax, flute",
+      "text": "First night of a duo tour: John Darnielle on acoustic guitar and keyboard, Matt Douglas on guitar, keyboard, saxophone and flute",
       "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": "Color in Your Cheeks",
+      "song_key": "song:mountain-goats:color-in-your-cheeks",
+      "src": 1,
+      "text": "Audience voted on Matt Douglas's instrument; saxophone led the vote, then he revealed he would play flute",
+      "type": "song"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
-      "src": 1,
-      "text": "Audience voted on Matt Douglas's instrument choice, featuring saxophone before revealing the flute",
+      "src": 2,
+      "text": "Reviewer found the duo format intimate, which emphasized the fanbase's sense of community",
       "type": "scene"
      }
     ],
@@ -539,24 +539,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 4,
-    "facts_hash": "8e7b415cd03ddefbd2fbb2e014f22c51d5e479f071e7c930f4891ecd41fd7358",
-    "generated_at": "2026-10-24T21:49:04.372652+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "c891d5dfae839e187ebc7eadbd8a6dcbe82770e5ec66c0007a42908d1d9b34d7",
+    "generated_at": "2026-10-25T23:14:06.246389+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "54f6313b9d2f53474d97c6df80c7899bf53ecf950dbf05445c3adf6b49d83719",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 18.7
+    "seconds": 4.3
    },
-   "revision": 2,
-   "signature": "zKT43oSgSh0mqvJBKQ1OMoBdydQQlXD5_tBGoFBTBoLX7OD4VUJOUj3lLecMWtdN94AgY_Uc84z2Tbyej1dUAA",
+   "revision": 3,
+   "signature": "mfbmYTXJUeLNnJyH138XxsNoi2LPOy0Pol4i9m7_xpyI-h084XGRWwZucsONk6I2S1ExfEhXjkVTXJi38ziMCg",
    "subject_key": "live:mountain-goats:2022-07-09:the-music-farm",
-   "updated_at": "2026-10-24T21:49:04.374456"
+   "updated_at": "2026-10-25T23:14:06.247956"
   }
  },
  "recommended": {

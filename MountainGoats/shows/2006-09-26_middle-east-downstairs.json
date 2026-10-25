@@ -395,7 +395,7 @@
    "updated_at": "2026-10-24T22:01:49.183877"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Half Dead**: rare: 9 archived performances [3]\n\n## The recordings\n\n- **tmg2006-09-26** (recommended): source not stated; 18 songs; 76 min; rated 3/5 by 1 [1]\n\n## Tapers and lineage\n\n- **tmg2006-09-26**: taped by Peter Sohriakoff; source: Core Sound Binaurial Microphones (CSB's) > Sony Hi-MD MZ-RH10 (1.4mbps PCM ) [1]",
+   "body_md": "## Setlist highlights\n\n- **Half Dead**: rare: 9 archived performances [3]\n\n## The recordings\n\n- **tmg2006-09-26** (recommended): source not stated; 18 songs; 76 min; rated 3/5 by 1 [1]\n\n## Around the show\n\n- The reviewer suspects the recording is actually from 26 September rather than 24 September, questioning the date attached to it [2]\n\n## Tapers and lineage\n\n- **tmg2006-09-26**: taped by Peter Sohriakoff; source: Core Sound Binaurial Microphones (CSB's) > Sony Hi-MD MZ-RH10 (1.4mbps PCM ) [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -423,6 +423,7 @@
      "accessed_at": "2026-10-23",
      "author": "MovingWater",
      "author_url": "https://archive.org/search?query=reviewer%3A%22MovingWater%22",
+     "claim": "The reviewer suspects the recording is actually from 26 September rather than 24 September, questioning the date attached to it",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2007-01-27",
@@ -430,7 +431,7 @@
      "site": "Internet Archive",
      "title": "Review: Wrong Date in Title (tmg2006-09-26)",
      "url": "https://archive.org/details/tmg2006-09-26#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -441,7 +442,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -451,30 +452,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The reviewer suspects the recording is actually from 26 September rather than 24 September, questioning the date attached to it",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2006-09-26:middle-east-downstairs"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "bcba4d830a14364dec2e5f6b973095c17013b06b67f25884984a16a9a6256b72",
-    "generated_at": "2026-10-24T20:51:17.526678+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "56688260a7034c56b7c701083a82c18b9d9958d95bdeceb710e2784a401c8208",
+    "generated_at": "2026-10-25T23:16:35.568448+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "9bd5be7f7048144d684737f7efecc7afb979b0f0727882813c42e08f83ff960a",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 3.7
+    "seconds": 3.5
    },
-   "revision": 2,
-   "signature": "t89tLNRftnY7eBDe5YcfBmOxS7C9osVHIykPMHELtR-mbJPbzDDYlvum3esqbkR2GCSviRIDo2HAKe2hgzhzAA",
+   "revision": 3,
+   "signature": "wJdTCIraYhCCbSpSJsgZMN2VgaTL6yp4UMWL7GIf8xNaNl3_anqg1YwTGCuyqzoWhLdbQ8a3jzzDAqGdUXOfCA",
    "subject_key": "live:mountain-goats:2006-09-26:middle-east-downstairs",
-   "updated_at": "2026-10-24T20:51:17.528447"
+   "updated_at": "2026-10-25T23:16:35.571889"
   }
  },
  "recommended": {

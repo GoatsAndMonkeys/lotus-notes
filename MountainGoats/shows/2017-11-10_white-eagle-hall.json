@@ -517,7 +517,7 @@
    "updated_at": "2026-10-24T22:01:49.596359"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Beautiful Gas Mask**: rare: 8 archived performances [2]\n- **Night Light**: back after 68 archived shows (1959 days) [2]\n- **I've Got the Sex**: back after 26 archived shows (621 days) [2]\n- **Snow Crush Killing Song**: back after 26 archived shows (621 days) [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tMG2017-11-10** (recommended): source not stated; 23 songs; 114 min [1]\n\n## Tapers and lineage\n\n- **tMG2017-11-10**: taped by Bryce Carr; transferred by notasfarwest; source: WAV > Audacity > MP3 [1]\n\n## Art and photos\n\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [3]\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [4]\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [5]",
+   "body_md": "## What listeners single out\n\n- **The Grey King and the Silver Flame Attunement** (1 other source): The notes credit the opening song to the album Goths [1]\n- **I've Got the Sex** (1 other source): The notes list this song's album as unreleased, so it had no studio release on any album [1]\n\n## Setlist highlights\n\n- **Beautiful Gas Mask**: rare: 8 archived performances [2]\n- **Night Light**: back after 68 archived shows (1959 days) [2]\n- **I've Got the Sex**: back after 26 archived shows (621 days) [2]\n- **Snow Crush Killing Song**: back after 26 archived shows (621 days) [2]\n- **Paid in Cocaine**: rare: 10 archived performances [2]\n\n## The recordings\n\n- **tMG2017-11-10** (recommended): source not stated; 23 songs; 114 min [1]\n\n## Tapers and lineage\n\n- **tMG2017-11-10**: taped by Bryce Carr; transferred by notasfarwest; source: WAV > Audacity > MP3 [1]\n\n## Art and photos\n\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [3]\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [4]\n- Poster by Greg Cristman Photo: [The Mountain Goats & Mothers @ White Eagle Hall (pics / setlist)](https://www.brooklynvegan.com/the-mountain-goats-mothers-white-eagle-hall-pics-setlist/) [5]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -553,7 +553,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -611,30 +611,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "I've Got the Sex",
+      "song_key": "song:mountain-goats:ive-got-the-sex",
+      "src": 1,
+      "text": "The notes list this song's album as unreleased, so it had no studio release on any album",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "The Grey King and the Silver Flame Attunement",
+      "song_key": "song:mountain-goats:grey-king-and-the-silver-flame-attunement",
+      "src": 1,
+      "text": "The notes credit the opening song to the album Goths",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-11-10:white-eagle-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "20856ab444b42d3818495442cee0d92a877dec407332483273a0f6e25899a948",
-    "generated_at": "2026-10-24T21:31:46.553741+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "642c29acbf96824897c29fdc446ba19b794565f12a04512f9d6a3dd30f05141f",
+    "generated_at": "2026-10-25T23:15:19.976000+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "16af75237e45e9553ae91e0dc5adb1f6e9e903be248ae6ae0b0c003e700786b7",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.1
+    "seconds": 5.8
    },
-   "revision": 2,
-   "signature": "fu-soVDxPDmPFMQqTnqwuIDFie9nmVzzWIjJNv9M5ZQeEBzv7Tf-oeTiDXxCfcw0fsTAjVhiF5Gz3ooaM7_XCw",
+   "revision": 3,
+   "signature": "Htkiy9FVTegabeVC0FGQZ132fxHSFfV_Cfav8HNxR1660xVr1hHBkGXZjPIsBE2SN5Z_66iKcUcNfDzv-dK6AA",
    "subject_key": "live:mountain-goats:2017-11-10:white-eagle-hall",
-   "updated_at": "2026-10-24T21:31:46.555216"
+   "updated_at": "2026-10-25T23:15:19.983303"
   }
  },
  "recommended": {

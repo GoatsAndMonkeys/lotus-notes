@@ -217,7 +217,7 @@
    "updated_at": "2026-10-24T22:01:49.762098"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **tmg2019-11-17.wav** (recommended): source not stated; 7 songs; 25 min [1]. Said about its sound: Audio quality is superior to the previous night, though the uploader's voice is distracting [1]\n\n## Around the show\n\n- The concert took place inside Jumbo Records in Leeds [1]",
+   "body_md": "## The recordings\n\n- **tmg2019-11-17.wav** (recommended): source not stated; 7 songs; 25 min [1]. Said about its sound: Uploader says recording quality is better than the first night's, though the taper's own voice is audible and sometimes distracting [1]\n\n## Around the show\n\n- Performance took place in-store at Jumbo Records in Leeds [1]\n- Recording is described as better sounding than the night-one recording [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -241,7 +241,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -257,7 +257,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "The concert took place inside Jumbo Records in Leeds",
+      "text": "Performance took place in-store at Jumbo Records in Leeds",
       "type": "scene"
      },
      {
@@ -265,8 +265,16 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Audio quality is superior to the previous night, though the uploader's voice is distracting",
+      "text": "Uploader says recording quality is better than the first night's, though the taper's own voice is audible and sometimes distracting",
       "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Recording is described as better sounding than the night-one recording",
+      "type": "compare"
      }
     ],
     "format": "liner-3",
@@ -274,24 +282,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "33e21e18e9509acbc20943e815ac1e7d25127c994f059f250bfa0385d4ebce86",
-    "generated_at": "2026-10-24T21:59:29.829643+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "bcf8e313f391a7a9c9b1fc6ea435050dc048ae63cf2f249e627710463e924ea0",
+    "generated_at": "2026-10-25T23:14:47.656698+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6e393c2eb1f2f01589eef4fe05d0e3b71b4170235aa01847c26474429e8a3bbf",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.7
+    "seconds": 5.7
    },
-   "revision": 2,
-   "signature": "9ofdKKmN2xk5sM1HYBL3osNw3ZjZNGBr15OXUNWD91ci2ufXjBUuCA73EghCJpk1dGnMveW7yMPPiJmDOYjpCQ",
+   "revision": 3,
+   "signature": "UJtmcv7-4X5QtcLLl6kkwd8i7iQPt_T5cUkzN-eV3WHtQNLZZNBrnfJwqs715E6vRm-C2mCkq-mxbe8RTk-pDw",
    "subject_key": "live:mountain-goats:2019-11-17:jumbo-records",
-   "updated_at": "2026-10-24T21:59:29.835195"
+   "updated_at": "2026-10-25T23:14:47.660810"
   }
  },
  "recommended": {

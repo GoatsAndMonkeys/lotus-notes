@@ -476,7 +476,7 @@
    "updated_at": "2026-10-24T22:01:49.375107"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Tribe of the Horned Heart**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Songs that Don't Make the Album and a False Start**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Bride**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Banter (I'm going to write about the mentally ill)**: back after 163 archived shows (5872 days); rare: 7 archived performances [2]\n- **In the Shadow of the Western Hills**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Banter (Tuning Time)**: back after 163 archived shows (5872 days); rare: 7 archived performances [2]\n- **South Western Vultures**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Banter (A Tour Bus With Owen Pallet)**: back after 163 archived shows (5872 days); rare: 7 archived performances [2]\n- Earliest performances in the archive: Until I Am Whole, White Cedar, Lakeside View Apartment Suite [2]\n\n## The recordings\n\n- **tmg2012-03-24** (recommended): source not stated; 27 songs; 89 min [1]\n\n## Around the show\n\n- The first thirty minutes featured a set by the early vocal music ensemble Anonymous 4 [1]\n\n## Tapers and lineage\n\n- **tmg2012-03-24**: transferred by Jimbers [1]. Also: Uploader archived the stream to preserve it if the original link disappeared [1]",
+   "body_md": "## Setlist highlights\n\n- **Tribe of the Horned Heart**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Songs that Don't Make the Album and a False Start**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Bride**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Banter (I'm going to write about the mentally ill)**: back after 161 archived shows (5872 days); rare: 7 archived performances [2]\n- **In the Shadow of the Western Hills**: earliest performance in the archive; rare: 3 archived performances [2]\n- **Banter (Tuning Time)**: back after 161 archived shows (5872 days); rare: 7 archived performances [2]\n- **South Western Vultures**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Banter (A Tour Bus With Owen Pallet)**: back after 161 archived shows (5872 days); rare: 7 archived performances [2]\n- Earliest performances in the archive: Until I Am Whole, White Cedar, Lakeside View Apartment Suite [2]\n\n## The recordings\n\n- **tmg2012-03-24** (recommended): source not stated; 27 songs; 89 min [1]\n\n## Around the show\n\n- Q2 Music webcast the sold-out Ecstatic Music Festival concert live on March 24 at 7:30 pm, with Anonymous 4 joining the band [1]\n- Anonymous 4 played the first 30 minutes alone; it is included uncut as one long audio file at the end [1]\n\n## Tapers and lineage\n\n- **tmg2012-03-24**: transferred by Jimbers [1]. Also: Uploader preserved the webcast in case the original stream disappeared; it is a copy of the Q2 Music stream [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -507,7 +507,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -519,11 +519,19 @@
    "facts": {
     "claims": [
      {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Q2 Music webcast the sold-out Ecstatic Music Festival concert live on March 24 at 7:30 pm, with Anonymous 4 joining the band",
+      "type": "scene"
+     },
+     {
       "recording": "tmg2012-03-24",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Uploader archived the stream to preserve it if the original link disappeared",
+      "text": "Uploader preserved the webcast in case the original stream disappeared; it is a copy of the Q2 Music stream",
       "type": "lineage"
      },
      {
@@ -531,7 +539,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "The first thirty minutes featured a set by the early vocal music ensemble Anonymous 4",
+      "text": "Anonymous 4 played the first 30 minutes alone; it is included uncut as one long audio file at the end",
       "type": "scene"
      }
     ],
@@ -540,24 +548,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "387e51fd9ef47af3ea5c7c40717d0851ca69925e01ffac7cef354c591bc3272e",
-    "generated_at": "2026-10-24T21:47:55.758094+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "22abd67df34ddc3314454b5cc4f776d92ec10fce216dbd506af614a4811a2871",
+    "generated_at": "2026-10-25T23:16:02.505609+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "326009b96c8a953ae0e1d9312dccb7cb8f7f0d50a487f8dfcec5909c4b21d3a7",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.8
+    "seconds": 4.4
    },
-   "revision": 2,
-   "signature": "cUGbHurq1f6EspeyiceMsctZeNWojlg_ngDGNEn77gsm_t4cm4FlECSOsZd1c0ox-67kZC_wTPEyQvH2j3xwDg",
+   "revision": 3,
+   "signature": "ABldpCfeoK15hU9iEUPBGmQS8QtMBkp9XgNggKgEkO6skXDDnsb82l3KXoluwdJr8WDv95IOHyzQ9nCCZaXyBg",
    "subject_key": "live:mountain-goats:2012-03-24:ecstatic-music-festival",
-   "updated_at": "2026-10-24T21:47:55.759324"
+   "updated_at": "2026-10-25T23:16:02.509187"
   }
  },
  "recommended": {

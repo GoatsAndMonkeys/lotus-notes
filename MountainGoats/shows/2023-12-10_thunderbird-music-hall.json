@@ -509,7 +509,7 @@
    "updated_at": "2026-10-24T22:01:50.070835"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Design Your Own Container Garden**: rare: 7 archived performances [4]\n- **Slow West Vultures**: back after 53 archived shows (511 days) [4]\n- **Surrounded**: rare: 14 archived performances [4]\n- **Earth Air Water Trees**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Cleaning Crew**: rare: 13 archived performances [4]\n- **Only One Way**: rare: 12 archived performances [4]\n\n## The recordings\n\n- **MountainGoats2023-12-10** (recommended): source not stated; 24 songs; 111 min; rated 5/5 by 2 [1]\n\n## Tapers and lineage\n\n- **MountainGoats2023-12-10**: taped by Alex Herd; transferred by Alex Herd; source: Oktava MK-012-01 (FOB @ FOH, ~8' high, cardioids DIN) > Tascam DR-70D (@ 24bit/48kHz) [1]",
+   "body_md": "## What listeners single out\n\n- **Waylon Jennings Live!** (1 review): Listener singles out this song's performance as especially powerful [3]\n\n## Setlist highlights\n\n- **Design Your Own Container Garden**: rare: 7 archived performances [4]\n- **Slow West Vultures**: back after 53 archived shows (511 days) [4]\n- **Surrounded**: rare: 14 archived performances [4]\n- **Earth Air Water Trees**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Cleaning Crew**: rare: 13 archived performances [4]\n- **Only One Way**: rare: 12 archived performances [4]\n\n## The recordings\n\n- **MountainGoats2023-12-10** (recommended): source not stated; 24 songs; 111 min; rated 5/5 by 2 [1]. Said about its sound: Reviewer notes the recording was made with Oktava microphones and says they were curious how those mics sound [2]\n\n## Tapers and lineage\n\n- **MountainGoats2023-12-10**: taped by Alex Herd; transferred by Alex Herd; source: Oktava MK-012-01 (FOB @ FOH, ~8' high, cardioids DIN) > Tascam DR-70D (@ 24bit/48kHz) [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -542,6 +542,7 @@
      "accessed_at": "2026-10-23",
      "author": "roffels",
      "author_url": "https://archive.org/search?query=reviewer%3A%22roffels%22",
+     "claim": "Reviewer notes the recording was made with Oktava microphones and says they were curious how those mics sound",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2024-04-04",
@@ -549,7 +550,7 @@
      "site": "Internet Archive",
      "title": "Review: Heck yeah! (MountainGoats2023-12-10)",
      "url": "https://archive.org/details/MountainGoats2023-12-10#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -557,6 +558,7 @@
      "accessed_at": "2026-10-23",
      "author": "LMGBTapes",
      "author_url": "https://archive.org/search?query=reviewer%3A%22LMGBTapes%22",
+     "claim": "Listener singles out this song's performance as especially powerful",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2024-06-22",
@@ -564,7 +566,7 @@
      "site": "Internet Archive",
      "title": "Review: Thank you (MountainGoats2023-12-10)",
      "url": "https://archive.org/details/MountainGoats2023-12-10#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -575,7 +577,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -600,30 +602,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "MountainGoats2023-12-10",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer notes the recording was made with Oktava microphones and says they were curious how those mics sound",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": "Waylon Jennings Live!",
+      "song_key": "song:mountain-goats:waylon-jennings-live",
+      "src": 3,
+      "text": "Listener singles out this song's performance as especially powerful",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-12-10:thunderbird-music-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "47ac6b3889103340737b546e556d789ed634b6ae5fcd4252881477d00b0701b1",
-    "generated_at": "2026-10-24T21:56:56.618279+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "43ed6bd6e02e75c4a47fd1438f229da20ce3f0af09c685c9929150cff813dafb",
+    "generated_at": "2026-10-25T23:13:25.150932+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "82302f4dcdd308c52244f40c3f7fad94a3713eed289734da785d8333cc6cd2b6",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.6
+    "seconds": 3.8
    },
-   "revision": 2,
-   "signature": "YaH6HhHw9zmyNiKrSfcHPGJrYv8r4iD_Vm9dpyhkyvs568YC_AGftNP_iwhXnkIoxfAloSBLItJK2zG9sj4_CQ",
+   "revision": 3,
+   "signature": "B50zRObGwjeOFooIblxM8HjVBu5FyR1dWSlOyoN5s_gQnrGHTIyUG2L8faQzjlR2KPEoxpHQiiENPio4-djuCQ",
    "subject_key": "live:mountain-goats:2023-12-10:thunderbird-music-hall",
-   "updated_at": "2026-10-24T21:56:56.619793"
+   "updated_at": "2026-10-25T23:13:25.154929"
   }
  },
  "recommended": {

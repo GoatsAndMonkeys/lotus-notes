@@ -304,7 +304,7 @@
    "updated_at": "2026-10-24T22:01:48.901014"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **The Recognition Scene** (1 review): Listener ranked this track among their top ten Mountain Goats songs [2]\n\n## Setlist highlights\n\n- **November Love Song**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Sept 19th Triple X Love! Love!**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Casetino's Nursery**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Pure Heat**: earliest performance in the archive; rare: 6 archived performances [3]\n- **Going To Bristol**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Going To Palestine**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Downtown Seoul**: earliest performance in the archive; rare: 12 archived performances [3]\n- **Going To Bolivia**: earliest performance in the archive; rare: 13 archived performances [3]\n- Earliest performances in the archive: The Recognition Scene, Some Swedish Trees, Going To Georgia, Prana Ferox, The Sign (Ace of Base cover) [3]\n\n## The recordings\n\n- **tmg1995-01-15.aud.192mp3** (recommended): audience recording; 17 songs; 41 min; rated 4/5 by 1 [1]. Said about its sound: Audio quality was solid, though the spoken banter was unremarkable [2]\n\n## Around the show\n\n- Described as the earliest recording of a standard Mountain Goats set [2]",
+   "body_md": "## What listeners single out\n\n- **The Recognition Scene** (1 review): Reviewer names it best played song and counts it among their ten favorite Mountain Goats songs [2]\n\n## Setlist highlights\n\n- **November Love Song**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Sept 19th Triple X Love! Love!**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Casetino's Nursery**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Pure Heat**: earliest performance in the archive; rare: 6 archived performances [3]\n- **Going To Bristol**: earliest performance in the archive; rare: 7 archived performances [3]\n- **Going To Palestine**: earliest performance in the archive; rare: 10 archived performances [3]\n- **Downtown Seoul**: earliest performance in the archive; rare: 12 archived performances [3]\n- **Going To Bolivia**: earliest performance in the archive; rare: 13 archived performances [3]\n- Earliest performances in the archive: The Recognition Scene, Some Swedish Trees, Going To Georgia, Prana Ferox, The Sign (Ace of Base cover) [3]\n\n## The recordings\n\n- **tmg1995-01-15.aud.192mp3** (recommended): audience recording; 17 songs; 41 min; rated 4/5 by 1 [1]. Said about its sound: Recording quality is solid, though the between-song banter is unremarkable [2]\n\n## Around the show\n\n- Reviewer calls this the earliest recording of what feels like a typical Mountain Goats set [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -325,7 +325,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "Listener ranked this track among their top ten Mountain Goats songs",
+     "claim": "Reviewer calls this the earliest recording of what feels like a typical Mountain Goats set",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2016-01-20",
@@ -344,7 +344,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -357,10 +357,18 @@
     "claims": [
      {
       "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer calls this the earliest recording of what feels like a typical Mountain Goats set",
+      "type": "compare"
+     },
+     {
+      "recording": null,
       "song": "The Recognition Scene",
       "song_key": "song:mountain-goats:recognition-scene",
       "src": 2,
-      "text": "Listener ranked this track among their top ten Mountain Goats songs",
+      "text": "Reviewer names it best played song and counts it among their ten favorite Mountain Goats songs",
       "type": "song"
      },
      {
@@ -368,16 +376,8 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Audio quality was solid, though the spoken banter was unremarkable",
+      "text": "Recording quality is solid, though the between-song banter is unremarkable",
       "type": "sound"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 2,
-      "text": "Described as the earliest recording of a standard Mountain Goats set",
-      "type": "compare"
      }
     ],
     "format": "liner-3",
@@ -385,24 +385,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 2,
+   "parent_revision": 3,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "69f7dd302013f43aee9402442c5e804048dddfe46001fd1c48535933c52c133a",
-    "generated_at": "2026-10-24T21:37:00.030908+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "4986583749c014317d1e815e9e194dd200119e1a87233cd19105630025c60551",
+    "generated_at": "2026-10-25T23:17:29.437207+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "199a0bb4e44b5127acc3a9bedff8385eff4d7e18c5c8992abd523027c4b60caf",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.1
+    "seconds": 3.6
    },
-   "revision": 3,
-   "signature": "bLx8P9KTHYsTUkbAKlpCjrP03A3olg_BTklUdSZGb58GyDsEfQUcDHj85QVTWo8BJNC9ZQWHUTx44M_-gaFpDw",
+   "revision": 4,
+   "signature": "swAlKsj_dLyNmdVwCCxmckG5Pb7pn_Xa9lrUizMlRjNpOuVZgp-1mAu3Oa_MeioEU4MMYhp1y6aSTKdzr9G_Bg",
    "subject_key": "live:mountain-goats:1995-01-15:the-chameleon",
-   "updated_at": "2026-10-24T21:37:00.035161"
+   "updated_at": "2026-10-25T23:17:29.440117"
   }
  },
  "recommended": {

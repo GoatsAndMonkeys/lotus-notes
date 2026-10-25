@@ -549,7 +549,7 @@
    "updated_at": "2026-10-24T22:01:49.933065"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Barry Sanders introduction)**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Shave My Eyebrows**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Going to Bolivia**: back after 62 archived shows (1164 days); rare: 13 archived performances [3]\n- **We Were Patriots**: back after 320 archived shows (7339 days); rare: 12 archived performances [3]\n- **Fresh Berries for You**: back after 85 archived shows (1326 days); rare: 6 archived performances [3]\n- **Mole**: back after 85 archived shows (1326 days) [3]\n- **Alphabetizing**: back after 50 archived shows (485 days); rare: 11 archived performances [3]\n- **Commandante**: back after 36 archived shows (444 days) [3]\n\n## The recordings\n\n- **tmg2022-12-05.mv88** (recommended): source not stated; 26 songs; 106 min [1]. Said about its sound: Microphone positioned approximately six feet in front of the left PA speaker [1]\n- **tMG2022-12-05**: soundboard; 23 songs; 104 min [2]\n\n## Around the show\n\n- The set included a new song not previously released or listed on albums [2]\n\n## Tapers and lineage\n\n- **tmg2022-12-05.mv88**: source: Shure MV88 (cardioid) > WAV (24/48) [1]. Also: Recorded with a Shure MV88 cardioid mic, processed in REAPER, saved as FLAC [1]\n- **tMG2022-12-05**: taped by @lmgbtapes on tweeter; transferred by @lmgbtapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + KM184s (clamped to sound cage railing DFC PAS) > dr680mkii [2]",
+   "body_md": "## Setlist highlights\n\n- **Barry Sanders introduction)**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **Shave My Eyebrows**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Going to Bolivia**: back after 62 archived shows (1164 days); rare: 13 archived performances [3]\n- **We Were Patriots**: back after 317 archived shows (7339 days); rare: 12 archived performances [3]\n- **Fresh Berries for You**: back after 84 archived shows (1326 days); rare: 6 archived performances [3]\n- **Mole**: back after 84 archived shows (1326 days) [3]\n- **Alphabetizing**: back after 50 archived shows (485 days); rare: 11 archived performances [3]\n- **Commandante**: back after 36 archived shows (444 days) [3]\n\n## The recordings\n\n- **tmg2022-12-05.mv88** (recommended): source not stated; 26 songs; 106 min [1]\n- **tMG2022-12-05**: soundboard; 23 songs; 104 min [2]\n\n## Around the show\n\n- Microphone was placed about six feet in front of the left PA speaker [1]\n\n## Tapers and lineage\n\n- **tmg2022-12-05.mv88**: source: Shure MV88 (cardioid) > WAV (24/48) [1]. Also: Recorded with a cardioid Shure MV88 microphone, captured as 24-bit/48kHz WAV; Processed in REAPER with EQ, multiband compression and Ozone, then saved as 24/48 FLAC [1]\n- **tMG2022-12-05**: taped by @lmgbtapes on tweeter; transferred by @lmgbtapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + KM184s (clamped to sound cage railing DFC PAS) > dr680mkii [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -600,7 +600,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -616,7 +616,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded with a Shure MV88 cardioid mic, processed in REAPER, saved as FLAC",
+      "text": "Recorded with a cardioid Shure MV88 microphone, captured as 24-bit/48kHz WAV",
       "type": "lineage"
      },
      {
@@ -624,15 +624,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Microphone positioned approximately six feet in front of the left PA speaker",
-      "type": "sound"
+      "text": "Processed in REAPER with EQ, multiband compression and Ozone, then saved as 24/48 FLAC",
+      "type": "lineage"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
-      "src": 2,
-      "text": "The set included a new song not previously released or listed on albums",
+      "src": 1,
+      "text": "Microphone was placed about six feet in front of the left PA speaker",
       "type": "scene"
      }
     ],
@@ -641,24 +641,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "bc1b479e2df374360e11106829cc6c225f43e49120b1954c2373fd788b45f20f",
-    "generated_at": "2026-10-24T21:18:34.623749+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "eb0d5e3db3e03a71b80b5552d3924929329f200fcd74367fc12043a4cfbf8c98",
+    "generated_at": "2026-10-25T23:13:55.001546+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "e4506da76f14708a774fb4819b4ed9f1d4ec117077097a147393459defcee620",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.7
+    "seconds": 2.8
    },
-   "revision": 2,
-   "signature": "A7Pboj1aWmhdd_zsfpHNTEypDzhPOd05BU9F_KPtLRi_p-0fnHofs24co4sfyFyzlaQA6LhmKZVTJK6cFfU_DQ",
+   "revision": 3,
+   "signature": "o6eICKoJFFRPU_YlFQpXzWWc1iHAwFf0hbFaSiADQPutIH_HBQRfNB2DKJEP2eZLPC0lq8BpuQP_YkdetXINDQ",
    "subject_key": "live:mountain-goats:2022-12-05:doug-fir-lounge",
-   "updated_at": "2026-10-24T21:18:34.624820"
+   "updated_at": "2026-10-25T23:13:55.004544"
   }
  },
  "recommended": {

@@ -499,7 +499,7 @@
    "updated_at": "2026-10-24T22:01:49.365680"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **Wild Sage** (1 other source): One verse was sung off mic, necessitating a volume boost during post-production [1]\n\n## Setlist highlights\n\n- **Cutter**: rare: 6 archived performances [3]\n- **New Star Song**: back after 86 archived shows (2194 days) [3]\n- **The Hot Garden Stomp**: back after 72 archived shows (2064 days); rare: 9 archived performances [3]\n- **Wild Sage**: back after 30 archived shows (933 days) [3]\n- **Song for an Old Friend**: back after 27 archived shows (828 days) [3]\n- **Attention All Pickpockets**: back after 53 archived shows (1470 days); rare: 14 archived performances [3]\n- **Heretic Pride**: back after 30 archived shows (933 days) [3]\n- **It Froze Me**: back after 63 archived shows (1734 days) [3]\n\n## The recordings\n\n- **tmg2011-06-26** (recommended): audience recording; 24 songs; 83 min; rated 2/5 by 1 [1]. Said about its sound: Waveform clipping occurs during crowd cheers, and the recording is heavily skewed to the left channel; Mics placed directly before the stage caused the audience to sing out of key [2]\n\n## Tapers and lineage\n\n- **tmg2011-06-26**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD>Core Sound CSB Binaural Microphones>Zoom H2 recorder [1]. Also: Recorded from the front of the stage without compression; volume boosted in Sound Studio [1]",
+   "body_md": "## What listeners single out\n\n- **Wild Sage** (1 other source): Volume boost was needed because one verse was sung off mic [1]\n\n## Setlist highlights\n\n- **Cutter**: rare: 6 archived performances [3]\n- **New Star Song**: back after 86 archived shows (2194 days) [3]\n- **The Hot Garden Stomp**: back after 72 archived shows (2064 days); rare: 9 archived performances [3]\n- **Wild Sage**: back after 30 archived shows (933 days) [3]\n- **Song for an Old Friend**: back after 27 archived shows (828 days) [3]\n- **Attention All Pickpockets**: back after 53 archived shows (1470 days); rare: 14 archived performances [3]\n- **Heretic Pride**: back after 30 archived shows (933 days) [3]\n- **It Froze Me**: back after 63 archived shows (1734 days) [3]\n\n## The recordings\n\n- **tmg2011-06-26** (recommended): audience recording; 24 songs; 83 min; rated 2/5 by 1 [1]. Said about its sound: Waveform clipping occurs whenever the crowd cheers; Mics placed right at the stage pick up audience singing off-key; reviewer thinks taping from the back would have been better; Recording leans toward the left channel and needs normalizing [2]\n\n## Tapers and lineage\n\n- **tmg2011-06-26**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD>Core Sound CSB Binaural Microphones>Zoom H2 recorder [1]. Also: Taped from the front of the stage; normalized and boosted in Sound Studio, with no compression added to preserve dynamics [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -532,7 +532,7 @@
      "accessed_at": "2026-10-23",
      "author": "butter404",
      "author_url": "https://archive.org/search?query=reviewer%3A%22butter404%22",
-     "claim": "Waveform clipping occurs during crowd cheers, and the recording is heavily skewed to the left channel",
+     "claim": "Waveform clipping occurs whenever the crowd cheers",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2011-07-31",
@@ -551,7 +551,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -567,7 +567,7 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Waveform clipping occurs during crowd cheers, and the recording is heavily skewed to the left channel",
+      "text": "Waveform clipping occurs whenever the crowd cheers",
       "type": "sound"
      },
      {
@@ -575,7 +575,15 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Mics placed directly before the stage caused the audience to sing out of key",
+      "text": "Mics placed right at the stage pick up audience singing off-key; reviewer thinks taping from the back would have been better",
+      "type": "sound"
+     },
+     {
+      "recording": "tmg2011-06-26",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recording leans toward the left channel and needs normalizing",
       "type": "sound"
      },
      {
@@ -583,7 +591,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded from the front of the stage without compression; volume boosted in Sound Studio",
+      "text": "Taped from the front of the stage; normalized and boosted in Sound Studio, with no compression added to preserve dynamics",
       "type": "lineage"
      },
      {
@@ -591,7 +599,7 @@
       "song": "Wild Sage",
       "song_key": "song:mountain-goats:wild-sage",
       "src": 1,
-      "text": "One verse was sung off mic, necessitating a volume boost during post-production",
+      "text": "Volume boost was needed because one verse was sung off mic",
       "type": "song"
      }
     ],
@@ -600,24 +608,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 4,
-    "facts_hash": "b704783ad7af4697027f989fa15174b1b6b2e11928122ee37ca9b6f9369f866d",
-    "generated_at": "2026-10-24T21:07:09.494035+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 5,
+    "facts_hash": "f31660fc609a7587fe0bfcdf4230c614d99eddb58745c1f23aabbaf010a3c65f",
+    "generated_at": "2026-10-25T23:16:03.346730+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "a64cf6309a608709013df768a40cf042887343ad841a16e7539cf68dc10a5f5e",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 30.0
+    "seconds": 5.1
    },
-   "revision": 2,
-   "signature": "01lnOzDZdTOZvRipW41XP7SdqikeUa9vzZn-ToBwrYQ5_0AAbhVAZjuNuVbvi8DH4zjSPeZXD78N_uCIIQD6CA",
+   "revision": 3,
+   "signature": "GVOlcZH171HsWj7UX158jZgvzsTdZxnwjWF4XkRzKyMU_L0EEEXREqO2da5zr7f3aoizUHPtHYmtrlne9aekBw",
    "subject_key": "live:mountain-goats:2011-06-26:rhinos-youth-media-center-and-all-ages-club",
-   "updated_at": "2026-10-24T21:07:09.496784"
+   "updated_at": "2026-10-25T23:16:03.349496"
   }
  },
  "recommended": {

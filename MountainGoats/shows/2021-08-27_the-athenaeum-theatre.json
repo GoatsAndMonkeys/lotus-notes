@@ -509,7 +509,7 @@
    "updated_at": "2026-10-24T22:01:49.810577"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Pale Green Things**: rare: 6 archived performances [2]\n- **Stars Around Her**: back after 261 archived shows (6400 days); rare: 5 archived performances [2]\n- **The Plague**: rare: 8 archived performances [2]\n- **Good Bones by Maggie Smith**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Picture of My Dress**: rare: 10 archived performances [2]\n- **As Many Candles As Possible**: rare: 7 archived performances [2]\n- **Whole Wide World/Against Pollution**: rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2021-08-27** (recommended): source not stated; 26 songs; 125 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-08-27**: taped by Liz Hamilton; transferred by Liz Hamilton; source: iPhone 7 internal microphone [1]",
+   "body_md": "## What listeners single out\n\n- **Stars Around Her** (1 other source): The notes list Stars Around Her under Songs About Fire and Ghana [1]\n- **The Plague** (1 other source): The uploader's notes label The Plague as unreleased, with no album listed [1]\n- **Whole Wide World/Against Pollution** (1 other source): The notes credit Whole Wide World to the album Sweden, and Against Pollution to a separate album [1]\n\n## Setlist highlights\n\n- **Pale Green Things**: rare: 6 archived performances [2]\n- **Stars Around Her**: back after 259 archived shows (6400 days); rare: 5 archived performances [2]\n- **The Plague**: rare: 8 archived performances [2]\n- **Good Bones by Maggie Smith**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Picture of My Dress**: rare: 10 archived performances [2]\n- **As Many Candles As Possible**: rare: 7 archived performances [2]\n- **Whole Wide World/Against Pollution**: rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2021-08-27** (recommended): source not stated; 26 songs; 125 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-08-27**: taped by Liz Hamilton; transferred by Liz Hamilton; source: iPhone 7 internal microphone [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -545,7 +545,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -555,30 +555,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "The Plague",
+      "song_key": "song:mountain-goats:plague",
+      "src": 1,
+      "text": "The uploader's notes label The Plague as unreleased, with no album listed",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Whole Wide World/Against Pollution",
+      "song_key": "song:mountain-goats:whole-wide-world-against-pollution",
+      "src": 1,
+      "text": "The notes credit Whole Wide World to the album Sweden, and Against Pollution to a separate album",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Stars Around Her",
+      "song_key": "song:mountain-goats:stars-around-her",
+      "src": 1,
+      "text": "The notes list Stars Around Her under Songs About Fire and Ghana",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2021-08-27:the-athenaeum-theatre"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "39a23381da1db4399756f65bf9f9840b1c7bd238f6d6a7e7dbd3e61c64289a6f",
-    "generated_at": "2026-10-24T21:48:01.861973+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "bdf0f95277affb24a44a302c9f22b78c6b665218f61aa3d99224858fa0f8484b",
+    "generated_at": "2026-10-25T23:14:29.031937+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "59edec73fcd78efdab25607d1dc35a1055385deb74882114d72237a0dae5fa19",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.1
+    "seconds": 7.7
    },
-   "revision": 2,
-   "signature": "AR2HINcnhBdP9tI4YfBO3BufIco7zPSRhtmDrO4-SS3IYp6pTkznwsz6AHU3wC8KcYxU0cXdL2O_tHyFAB5fCA",
+   "revision": 3,
+   "signature": "0WmKuq515GbId0Nu1px58x68Ihp3WRabel7CynrH2h0lBxQ-Is_mcxk7zispbTPTaIBJ2oBV5aW1o-_AE-7LAg",
    "subject_key": "live:mountain-goats:2021-08-27:the-athenaeum-theatre",
-   "updated_at": "2026-10-24T21:48:01.883076"
+   "updated_at": "2026-10-25T23:14:29.035151"
   }
  },
  "recommended": {

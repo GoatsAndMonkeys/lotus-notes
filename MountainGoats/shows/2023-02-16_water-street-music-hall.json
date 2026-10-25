@@ -484,7 +484,7 @@
    "updated_at": "2026-10-24T22:01:49.953635"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Alpha Negative**: back after 110 archived shows (1890 days); rare: 4 archived performances [3]\n- **Alphabetizing**: rare: 11 archived performances [3]\n- **Pseudothyrum Song**: back after 43 archived shows (525 days); rare: 7 archived performances [3]\n- **Genesis 3:23**: rare: 8 archived performances [3]\n- **Going to Georgia**: back after 131 archived shows (2278 days) [3]\n\n## The recordings\n\n- **tmg2023-02-16** (recommended): source not stated; 23 songs; 107 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **tmg2023-02-16**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
+   "body_md": "## Setlist highlights\n\n- **Alpha Negative**: back after 109 archived shows (1890 days); rare: 4 archived performances [3]\n- **Alphabetizing**: rare: 11 archived performances [3]\n- **Pseudothyrum Song**: back after 43 archived shows (525 days); rare: 7 archived performances [3]\n- **Genesis 3:23**: rare: 8 archived performances [3]\n- **Going to Georgia**: back after 130 archived shows (2278 days) [3]\n\n## The recordings\n\n- **tmg2023-02-16** (recommended): source not stated; 23 songs; 107 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- The reviewer couldn't attend, having given away their ticket, and hoped someone would tape the show [2]\n\n## Tapers and lineage\n\n- **tmg2023-02-16**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]. Also: The reviewer credits a taper called rationalfish for the recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -517,6 +517,7 @@
      "accessed_at": "2026-10-23",
      "author": "greg0ire",
      "author_url": "https://archive.org/search?query=reviewer%3A%22greg0ire%22",
+     "claim": "The reviewer couldn't attend, having given away their ticket, and hoped someone would tape the show",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2023-02-21",
@@ -524,7 +525,7 @@
      "site": "Internet Archive",
      "title": "Review: deep gratitude for this awesome show (tmg2023-02-16)",
      "url": "https://archive.org/details/tmg2023-02-16#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -535,7 +536,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -545,30 +546,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The reviewer couldn't attend, having given away their ticket, and hoped someone would tape the show",
+      "type": "scene"
+     },
+     {
+      "recording": "tmg2023-02-16",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The reviewer credits a taper called rationalfish for the recording",
+      "type": "lineage"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-02-16:water-street-music-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "0ae8c78a432db20e31c5cdea536160aacbdff517440adaceaaa0e8195ceb96dc",
-    "generated_at": "2026-10-24T21:10:34.705027+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "370f0c6c157cc716fe7e29fe47e410072136b477a3ebbada7da0a75a3963de8f",
+    "generated_at": "2026-10-25T23:13:53.290863+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "ee092920f3505e281c96f99e00708eccb4ff8ab4f6d4e16067375b2ba3147777",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.8
+    "seconds": 4.5
    },
-   "revision": 2,
-   "signature": "d8jwfj5gp7j1jFGpcPBKRf-vj0RU4wWO2Q5wFZnKqc06zpyQcohNDiIKP1gDj6DqGOOWHj0-sA9nIfmkHmG4Aw",
+   "revision": 3,
+   "signature": "DWgpaPG1cNZ0VI8hQ75wD5UgDgcBODNgBe344FEzuxx1nCCch3zQokexJa32bM_HOssTMxJL0cehh3QCoD_pAg",
    "subject_key": "live:mountain-goats:2023-02-16:water-street-music-hall",
-   "updated_at": "2026-10-24T21:10:34.705967"
+   "updated_at": "2026-10-25T23:13:53.292832"
   }
  },
  "recommended": {

@@ -459,7 +459,7 @@
    "updated_at": "2026-10-24T22:01:50.000288"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Mobile**: rare: 5 archived performances [3]\n- **Counting Song for Bitter Children**: back after 144 archived shows (2414 days); rare: 4 archived performances [3]\n- **Song for an Old Friend**: back after 200 archived shows (4019 days) [3]\n- **Going to Queens**: rare: 14 archived performances [3]\n- **An Antidote for Strychnine**: rare: 12 archived performances [3]\n- **Deuteronomy 2 10**: back after 94 archived shows (1508 days) [3]\n- **Wage Wars, Get Rich, Die Handsome**: rare: 11 archived performances [3]\n\n## The recordings\n\n- **tMG2023-07-02** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 99 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: No Children, between songs, Cadaver [1]\n\n## Tapers and lineage\n\n- **tMG2023-07-02**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 Omnis (Healy on stage) > CA-Ugly 2 > PCM-M10 [1]",
+   "body_md": "## Setlist highlights\n\n- **Mobile**: rare: 5 archived performances [3]\n- **Counting Song for Bitter Children**: back after 143 archived shows (2414 days); rare: 4 archived performances [3]\n- **Song for an Old Friend**: back after 199 archived shows (4019 days) [3]\n- **Going to Queens**: rare: 14 archived performances [3]\n- **An Antidote for Strychnine**: rare: 12 archived performances [3]\n- **Deuteronomy 2 10**: back after 93 archived shows (1508 days) [3]\n- **Wage Wars, Get Rich, Die Handsome**: rare: 11 archived performances [3]\n\n## The recordings\n\n- **tMG2023-07-02** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 99 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: No Children, between songs, Cadaver [1]\n- Reviewer says the show works best when Peter is pushed to entertain the crowd directly [2]\n- Reviewer credits Wurster with encyclopedic knowledge of music [2]\n\n## Tapers and lineage\n\n- **tMG2023-07-02**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 Omnis (Healy on stage) > CA-Ugly 2 > PCM-M10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -492,6 +492,7 @@
      "accessed_at": "2026-10-23",
      "author": "abwydyn",
      "author_url": "https://archive.org/search?query=reviewer%3A%22abwydyn%22",
+     "claim": "Reviewer says the show works best when Peter is pushed to entertain the crowd directly",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2024-06-20",
@@ -499,7 +500,7 @@
      "site": "Internet Archive",
      "title": "Review: peter peter hughes!! (tMG2023-07-02)",
      "url": "https://archive.org/details/tMG2023-07-02#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -510,7 +511,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -520,30 +521,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer says the show works best when Peter is pushed to entertain the crowd directly",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer credits Wurster with encyclopedic knowledge of music",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-07-02:evanston-space"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "02dc6b649ba671be22386c3bc0b0aaf48d95ced967662e661854af00e88e563d",
-    "generated_at": "2026-10-24T21:29:07.161341+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "c20d7d45059a9aa47fa69ddc8f9acd2f31666ac6656eadfc7abdcec83608168d",
+    "generated_at": "2026-10-25T23:13:45.581081+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "ed8b1cff2e0f952350f3ad22525f31d6906e644b48e08d9a9906f583457ca530",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.8
+    "seconds": 4.8
    },
-   "revision": 2,
-   "signature": "7nf5ly_BIjzBtCd8qCCbgLvROadYv-ky87PJWq7RD26lJ4O7GOf0pe3Q-3BYRDGWGlrfaOEF9tQ5f23he1u5Cw",
+   "revision": 3,
+   "signature": "LqRVTocQHEWfJzbEE-XwVCwCoYD6vMkFOQDBmYN7-tqEnUn19ikaa17qwV-5WjHPd_ASnRPaK9Ct03sKHiqSAg",
    "subject_key": "live:mountain-goats:2023-07-02:evanston-space",
-   "updated_at": "2026-10-24T21:29:07.162205"
+   "updated_at": "2026-10-25T23:13:45.584353"
   }
  },
  "recommended": {

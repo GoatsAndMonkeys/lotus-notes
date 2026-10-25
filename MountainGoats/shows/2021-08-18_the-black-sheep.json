@@ -523,7 +523,7 @@
    "updated_at": "2026-10-24T22:01:49.787190"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Intro - Rickie Lee Jones - We Belong Together**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Rat Queen**: mythic rare: 2 archived performances [3]\n- **Rotten Stinking Mouthpiece**: back after 88 archived shows (1955 days); rare: 8 archived performances [3]\n- **Rescue Breathing**: rare: 3 archived performances [3]\n- **Solidarity Forever**: rare: 10 archived performances [3]\n- **Nine Black Poppies**: back after 59 archived shows (1371 days) [3]\n- **Lakeside View Apartment Suites**: back after 37 archived shows (991 days) [3]\n- **The New Hydra Collection**: rare: 4 archived performances [3]\n\n## The recordings\n\n- **tmg2021-08-18** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 107 min [1]\n- **tmg2021-08-18.mk4.flac24**: source not stated; 22 songs; 109 min [2]\n\n## Tapers and lineage\n\n- **tmg2021-08-18**: taped by me; transferred by me; source: SBD [Engineer: Brandon Eggleston] > dr680mkii + CA-14 omni (on stage) > CA-Ugly 2 > pcm m10 [1]\n- **tmg2021-08-18.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 [2]",
+   "body_md": "## What listeners single out\n\n- **Rotten Stinking Mouthpiece** (1 other source): The uploader credits this song to the All Survivors Pack rather than a studio album [1]\n- **Rescue Breathing** (1 other source): The uploader's track list marks this song as unreleased, with no album listed [1]\n- **Solidarity Forever** (1 other source): The track list also marks this one as unreleased, with no album attached [1]\n\n## Setlist highlights\n\n- **Intro - Rickie Lee Jones - We Belong Together**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Rat Queen**: mythic rare: 2 archived performances [3]\n- **Rotten Stinking Mouthpiece**: back after 87 archived shows (1955 days); rare: 8 archived performances [3]\n- **Rescue Breathing**: rare: 3 archived performances [3]\n- **Solidarity Forever**: rare: 9 archived performances [3]\n- **Nine Black Poppies**: back after 58 archived shows (1371 days) [3]\n- **Lakeside View Apartment Suites**: back after 36 archived shows (991 days) [3]\n- **The New Hydra Collection**: rare: 4 archived performances [3]\n\n## The recordings\n\n- **tmg2021-08-18** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 107 min [1]\n- **tmg2021-08-18.mk4.flac24**: source not stated; 22 songs; 109 min [2]\n\n## Tapers and lineage\n\n- **tmg2021-08-18**: taped by me; transferred by me; source: SBD [Engineer: Brandon Eggleston] > dr680mkii + CA-14 omni (on stage) > CA-Ugly 2 > pcm m10 [1]\n- **tmg2021-08-18.mk4.flac24**: taped by Lance Stack; transferred by Lance Stack; source: Schoeps MK4's > Vark KCY > Naiant Littlebox > Sony PCM-M10 @ 24/48 [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -586,7 +586,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -596,30 +596,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Rescue Breathing",
+      "song_key": "song:mountain-goats:rescue-breathing",
+      "src": 1,
+      "text": "The uploader's track list marks this song as unreleased, with no album listed",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Solidarity Forever",
+      "song_key": "song:mountain-goats:solidarity-forever",
+      "src": 1,
+      "text": "The track list also marks this one as unreleased, with no album attached",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Rotten Stinking Mouthpiece",
+      "song_key": "song:mountain-goats:rotten-stinking-mouthpiece",
+      "src": 1,
+      "text": "The uploader credits this song to the All Survivors Pack rather than a studio album",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2021-08-18:the-black-sheep"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "790cdf1cc51f1a3a8a6367a387396d4ab51225a7d4f81ec4e868cc0871c14cdf",
-    "generated_at": "2026-10-24T21:22:18.563029+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "a7d15f89c69f96cb5d565a7e4aa653a780ccd7bf50aa0e5f261f5952d3fa14e7",
+    "generated_at": "2026-10-25T23:14:31.451412+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6941339781dae93541677ab9e8b0e761eeb793fca87ef113b07e5df3fc3520f4",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.3
+    "seconds": 3.9
    },
-   "revision": 2,
-   "signature": "EXGvgsLWJmLsRErXmGpX5pjZ1gQ7sNavzwssCu4qtk4qf29FUGyrJJhX5rkzf8j5dCRfPZSln3AzLUiaZYyABg",
+   "revision": 3,
+   "signature": "2-9X2jUrn8gw4B-adea9MgTMht_Nin8sJfOAl0Z-XYtm6Ht2Eo7sz3jQzlmyA_X60AozXMX5lcCMeMej2RfRCw",
    "subject_key": "live:mountain-goats:2021-08-18:the-black-sheep",
-   "updated_at": "2026-10-24T21:22:18.564758"
+   "updated_at": "2026-10-25T23:14:31.454475"
   }
  },
  "recommended": {

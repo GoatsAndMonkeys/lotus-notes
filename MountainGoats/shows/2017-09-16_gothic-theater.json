@@ -439,7 +439,7 @@
    "updated_at": "2026-10-24T22:01:49.585770"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **tmg2017-09-16** (recommended): source not stated; 21 songs; 106 min [1]\n\n## Tapers and lineage\n\n- **tmg2017-09-16**: taped by LMGBTapes; transferred by LMGBTapes [1]",
+   "body_md": "## What listeners single out\n\n- **You Or Your Memory** (1 other source): Uploader lists it second in the running order, with video, and identifies it as from The Sunset Tree [1]\n- **In The Craters On The Moon** (1 other source): Uploader lists it third in the running order, with video, and identifies it as from Heretic Pride [1]\n\n## The recordings\n\n- **tmg2017-09-16** (recommended): source not stated; 21 songs; 106 min [1]\n\n## Tapers and lineage\n\n- **tmg2017-09-16**: taped by LMGBTapes; transferred by LMGBTapes [1]. Also: Video accompanies only some tracks, including Maybe Sprout Wings, Elijah, Black Pear Tree and San Bernardino; others are audio only [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -475,7 +475,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -485,30 +485,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "You Or Your Memory",
+      "song_key": "song:mountain-goats:you-or-your-memory",
+      "src": 1,
+      "text": "Uploader lists it second in the running order, with video, and identifies it as from The Sunset Tree",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "In The Craters On The Moon",
+      "song_key": "song:mountain-goats:in-the-craters-on-the-moon",
+      "src": 1,
+      "text": "Uploader lists it third in the running order, with video, and identifies it as from Heretic Pride",
+      "type": "song"
+     },
+     {
+      "recording": "tmg2017-09-16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Video accompanies only some tracks, including Maybe Sprout Wings, Elijah, Black Pear Tree and San Bernardino; others are audio only",
+      "type": "lineage"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-09-16:gothic-theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "f166832c6c9e371bf2646a2ec422d58df9d9daa63a5a6b21c58b8ab698a3bc07",
-    "generated_at": "2026-10-24T21:35:32.884626+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "01cd9d02d7b070a5f1c395ba8676c0879bebcc42f0bef0f906beddf051771dba",
+    "generated_at": "2026-10-25T23:15:23.942658+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6205612b2ae8b99e91aac0cccd1842c5e01b59052727107c7dc670059f92bbfe",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.7
+    "seconds": 7.9
    },
-   "revision": 2,
-   "signature": "caurRsoVwNuabARNuidffajpaScPflPEFpoMvLeEKMX7aBc7kOCbCfRmVaivz1PO5p07XeS1jSx4lfdjV59uCg",
+   "revision": 3,
+   "signature": "pTKeKA6oeW4-jJweZABtxLj2XBIaW2NTHJg89IzRxhEMpxOMx6OmauA-5Uy1bj8_JBInx-ujfN4btNvN1FYkDw",
    "subject_key": "live:mountain-goats:2017-09-16:gothic-theater",
-   "updated_at": "2026-10-24T21:35:32.890135"
+   "updated_at": "2026-10-25T23:15:23.948078"
   }
  },
  "recommended": {

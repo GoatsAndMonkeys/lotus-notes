@@ -423,7 +423,7 @@
    "updated_at": "2026-10-24T22:01:49.612548"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Letter from Belgium**: back after 24 archived shows (442 days) [2]\n- **Mole**: back after 112 archived shows (3180 days) [2]\n- **Snow Owl**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Going to Alaska**: back after 51 archived shows (1268 days); rare: 10 archived performances [2]\n\n## The recordings\n\n- **tMG2017-12-04** (recommended): source not stated; 20 songs; 98 min [1]\n\n## Tapers and lineage\n\n- **tMG2017-12-04**: taped by Bryce Carr; transferred by notasfarwest; source: WAV > Audacity > MP3 [1]",
+   "body_md": "## What listeners single out\n\n- **Moon Over Goldsboro** (1 other source): Notes tag this song with Present Moment Worm, and mention Matt taking part in it [1]\n- **No Children** (1 other source): Notes tag this song with I Hope You Dance, suggesting that song was folded in [1]\n- **Song for Dennis Brown** (1 other source): Notes tag this song with Stir It Up, suggesting that song was folded in [1]\n\n## Setlist highlights\n\n- **Letter from Belgium**: back after 24 archived shows (442 days) [2]\n- **Mole**: back after 112 archived shows (3180 days) [2]\n- **Snow Owl**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Going to Alaska**: back after 51 archived shows (1268 days); rare: 10 archived performances [2]\n\n## The recordings\n\n- **tMG2017-12-04** (recommended): source not stated; 20 songs; 98 min [1]\n\n## Tapers and lineage\n\n- **tMG2017-12-04**: taped by Bryce Carr; transferred by notasfarwest; source: WAV > Audacity > MP3 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -459,7 +459,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -469,30 +469,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Moon Over Goldsboro",
+      "song_key": "song:mountain-goats:moon-over-goldsboro",
+      "src": 1,
+      "text": "Notes tag this song with Present Moment Worm, and mention Matt taking part in it",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "No Children",
+      "song_key": "song:mountain-goats:no-children",
+      "src": 1,
+      "text": "Notes tag this song with I Hope You Dance, suggesting that song was folded in",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Song for Dennis Brown",
+      "song_key": "song:mountain-goats:song-for-dennis-brown",
+      "src": 1,
+      "text": "Notes tag this song with Stir It Up, suggesting that song was folded in",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-12-04:harvester-performance-center"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "8a60c9c218111560ec1794e4a67ed27e047855cc461e9e7e0f23aedc9892d34f",
-    "generated_at": "2026-10-24T21:20:21.252421+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "2f4de50d112b3ff3fd701ce9eddc18c8d3807f0ce7e65ea3c09df6a8892d2e01",
+    "generated_at": "2026-10-25T23:15:15.977440+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "5a32113ee0b67bd1b3e283c6614d04f216d229a4fe8db9f3dd2f706c461de8e6",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 4.0
+    "seconds": 7.8
    },
-   "revision": 2,
-   "signature": "ZG-zig2HzWm1mo-A9GGpyIkoSYutsRa6ft3r9CDMyvroJDeUY-ScIhcTn1PYMvt-j6YfdqGtnIKUlmS3jVyQAA",
+   "revision": 3,
+   "signature": "hagH3h_UBTUTSWl8YQ2fzWCx3k05gYXQxxzsJ5XFDCMjMncaHyA4wbMK-JqsUWHCLY-Sp3_-wL4Yoi0l1L6RBw",
    "subject_key": "live:mountain-goats:2017-12-04:harvester-performance-center",
-   "updated_at": "2026-10-24T21:20:21.254150"
+   "updated_at": "2026-10-25T23:15:15.980812"
   }
  },
  "recommended": {

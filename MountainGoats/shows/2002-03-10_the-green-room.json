@@ -484,7 +484,7 @@
    "updated_at": "2026-10-24T22:01:48.997088"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **FM** (1 review): Identified as the best played song of the set [3]\n- **The Sign (Ace of Base cover)** (1 review): Favorite variation of the line about singing the sign [3]\n- Introduction to the song is included in the recording [3]\n\n## Setlist highlights\n\n- **Fault Lines**: rare: 8 archived performances [4]\n- **Yoga**: rare: 7 archived performances [4]\n- **Alpha Double Negative: Going to Catalina**: rare: 12 archived performances [4]\n- **Beach House**: rare: 3 archived performances [4]\n- **The Black Ice Cream Song**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Weekend in Western Illinois**: rare: 12 archived performances [4]\n- **If England Were What England Seems, Then We Would Only Have Our Dreams**: earliest performance in the archive; legendary: the only archived performance [4]\n- **FM**: earliest performance in the archive; rare: 4 archived performances [4]\n- Earliest performances in the archive: Fall of the Star High School Running Back [4]\n\n## The recordings\n\n- **tmg2002-03-10.aud.320mp3** (recommended): audience recording; 23 songs; 62 min [1]\n- **tmg2002-03-10.shnf**: source not stated; 23 songs; 62 min; rated 5/5 by 1 [2]\n\n## Tapers and lineage\n\n- **tmg2002-03-10.shnf**: source: Unknown mics>Sony D8 [2]",
+   "body_md": "## What listeners single out\n\n- **Fall of the Star High School Running Back** (1 review): The introduction to this song is singled out as a highlight of the recording [3]\n- **FM** (1 review): Named as the best-played song of the show [3]\n\n## Setlist highlights\n\n- **Fault Lines**: rare: 8 archived performances [4]\n- **Yoga**: rare: 7 archived performances [4]\n- **Alpha Double Negative: Going to Catalina**: rare: 12 archived performances [4]\n- **Beach House**: rare: 3 archived performances [4]\n- **The Black Ice Cream Song**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Weekend in Western Illinois**: rare: 12 archived performances [4]\n- **If England Were What England Seems, Then We Would Only Have Our Dreams**: earliest performance in the archive; legendary: the only archived performance [4]\n- **FM**: earliest performance in the archive; rare: 4 archived performances [4]\n- Earliest performances in the archive: Fall of the Star High School Running Back [4]\n\n## The recordings\n\n- **tmg2002-03-10.aud.320mp3** (recommended): audience recording; 23 songs; 62 min [1]\n- **tmg2002-03-10.shnf**: source not stated; 23 songs; 62 min; rated 5/5 by 1 [2]\n\n## Around the show\n\n- Includes a favorite variation of the stage line insisting the audience will sing along to The Sign whether they like it or not [3]\n\n## Tapers and lineage\n\n- **tmg2002-03-10.shnf**: source: Unknown mics>Sony D8 [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -520,7 +520,7 @@
      "accessed_at": "2026-10-23",
      "author": "ThatGuyWhoReviewedEveryMountainGoatsRecording",
      "author_url": "https://archive.org/search?query=reviewer%3A%22ThatGuyWhoReviewedEveryMountainGoatsRecording%22",
-     "claim": "Introduction to the song is included in the recording",
+     "claim": "The introduction to this song is singled out as a highlight of the recording",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2016-02-23",
@@ -539,7 +539,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -552,26 +552,26 @@
     "claims": [
      {
       "recording": null,
-      "song": null,
-      "song_key": null,
+      "song": "Fall of the Star High School Running Back",
+      "song_key": "song:mountain-goats:fall-of-the-star-high-school-running-back",
       "src": 3,
-      "text": "Introduction to the song is included in the recording",
+      "text": "The introduction to this song is singled out as a highlight of the recording",
       "type": "song"
      },
      {
       "recording": null,
-      "song": "The Sign (Ace of Base cover)",
-      "song_key": "song:mountain-goats:sign",
+      "song": null,
+      "song_key": null,
       "src": 3,
-      "text": "Favorite variation of the line about singing the sign",
-      "type": "song"
+      "text": "Includes a favorite variation of the stage line insisting the audience will sing along to The Sign whether they like it or not",
+      "type": "scene"
      },
      {
       "recording": null,
       "song": "FM",
       "song_key": "song:mountain-goats:fm",
       "src": 3,
-      "text": "Identified as the best played song of the set",
+      "text": "Named as the best-played song of the show",
       "type": "song"
      }
     ],
@@ -580,24 +580,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "94f72e875bb363a15834cd1be9084e1059cd2566e02fd7e7e1bb5c18feb33a78",
-    "generated_at": "2026-10-24T20:56:30.612699+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "43e98e0c02b9726e9aedd7e15544cbbc1a8da3720b875ffdd5c648b4035ffd15",
+    "generated_at": "2026-10-25T23:17:08.428525+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "914054fdf4aaa6722b18e998cdf5f635dc118cfb4f5ef79c185414d7ac9b643c",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.7
+    "seconds": 3.6
    },
-   "revision": 2,
-   "signature": "dA_HY7gq9cOb-6MZsS5ypGzu5o8XM4cAxzFX1l_3MqITR3w12Y154YTfwhP-VbrAV7Ye33wvLKKG0LV6rsZVBA",
+   "revision": 3,
+   "signature": "8FzCuc56wXxKC3EwFGVks9Gqea6RTPNYqvoZQUHs7GrESzQ_colYKNwb2GuAAaUA6AwbmSrdOQ9umZH3y7jmAA",
    "subject_key": "live:mountain-goats:2002-03-10:the-green-room",
-   "updated_at": "2026-10-24T20:56:30.614625"
+   "updated_at": "2026-10-25T23:17:08.438255"
   }
  },
  "recommended": {

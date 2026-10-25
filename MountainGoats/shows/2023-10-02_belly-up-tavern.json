@@ -477,7 +477,7 @@
    "updated_at": "2026-10-24T22:01:50.027963"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Intro (Recommended listening!)**: rare: 14 archived performances [2]\n- **Guys on Every Corner**: back after 30 archived shows (375 days); rare: 14 archived performances [2]\n- **Before I Got There**: back after 30 archived shows (375 days) [2]\n- **Cleaning Crew**: earliest performance in the archive; rare: 13 archived performances [2]\n- **Transjordanian Blues**: rare: 12 archived performances [2]\n- **Attention All Pickpockets**: rare: 14 archived performances [2]\n- **Whole Wide World**: back after 62 archived shows (743 days) [2]\n- **Harlem Roulette**: back after 136 archived shows (2146 days) [2]\n- Earliest performances in the archive: Jenny III, Murder at the 18th St. Garage, Fresh Tattoo [2]\n\n## The recordings\n\n- **tMG2023-10-02** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 103 min [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2023-10-02**: taped by @lmgbtapes (tweeter); transferred by @lmgbtapes (tweeter); source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage, Matt side) > CA-Ugly 2 > PCM-A10 [1]",
+   "body_md": "## What listeners single out\n\n- **Guys on Every Corner** (1 other source): The uploader's tracklist credits this song to the album Bleed Out [1]\n- **You Were Cool** (1 other source): The uploader's tracklist marks this song as not appearing on any released album [1]\n\n## Setlist highlights\n\n- **Intro (Recommended listening!)**: rare: 14 archived performances [2]\n- **Guys on Every Corner**: back after 30 archived shows (375 days); rare: 14 archived performances [2]\n- **Before I Got There**: back after 30 archived shows (375 days) [2]\n- **Cleaning Crew**: earliest performance in the archive; rare: 13 archived performances [2]\n- **Transjordanian Blues**: rare: 12 archived performances [2]\n- **Attention All Pickpockets**: rare: 14 archived performances [2]\n- **Whole Wide World**: back after 62 archived shows (743 days) [2]\n- **Harlem Roulette**: back after 135 archived shows (2146 days) [2]\n- Earliest performances in the archive: Jenny III, Murder at the 18th St. Garage, Fresh Tattoo [2]\n\n## The recordings\n\n- **tMG2023-10-02** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 103 min [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tMG2023-10-02**: taped by @lmgbtapes (tweeter); transferred by @lmgbtapes (tweeter); source: SBD [Engineer: Brandon Eggleston] > PCM-A10 + CA-14 Omnis (Healy on stage, Matt side) > CA-Ugly 2 > PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -513,7 +513,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -553,30 +553,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "You Were Cool",
+      "song_key": "song:mountain-goats:you-were-cool",
+      "src": 1,
+      "text": "The uploader's tracklist marks this song as not appearing on any released album",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Guys on Every Corner",
+      "song_key": "song:mountain-goats:guys-on-every-corner",
+      "src": 1,
+      "text": "The uploader's tracklist credits this song to the album Bleed Out",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-10-02:belly-up-tavern"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "aaa5655d38732f0f95162b4263a5b0eb5c633da8902d84b2ea948155353cbae2",
-    "generated_at": "2026-10-24T21:39:31.051084+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "a7ce9e4bc0f5ef739dd7e97d2fa76db7b4b4d238f6bff992d8064dac40951533",
+    "generated_at": "2026-10-25T23:13:40.754077+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "d24815547b71f7d1c3f6e0416ca8297ec5bd7ffb3f4cb28b961277a8bfa6e4ae",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.6
+    "seconds": 7.0
    },
-   "revision": 2,
-   "signature": "qtbD3vqQePG_que-p7xqEETXhAwDv9pJYDvIM-JpALMSG24Raeku3AJm0yLjDtgGlFV0YUS7rQDpUopUGqyLDw",
+   "revision": 3,
+   "signature": "qY5wUDnvtrmXepWmRtwuMlSin9EkduW145sMovYmtYA261Gm_zygZkoYrYKweXG66z4IujSlhIAx_TZLPjCDDQ",
    "subject_key": "live:mountain-goats:2023-10-02:belly-up-tavern",
-   "updated_at": "2026-10-24T21:39:31.052171"
+   "updated_at": "2026-10-25T23:13:40.757358"
   }
  },
  "recommended": {

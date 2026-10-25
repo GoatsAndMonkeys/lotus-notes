@@ -404,7 +404,7 @@
    "updated_at": "2026-10-24T22:01:49.124032"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Intro2. Twin Human Highway Flares**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Pet Politics (Silver Jews cover)**: earliest performance in the archive; rare: 6 archived performances [4]\n- **Linda Blair Was Born Innocent**: with John Vanderslice [4]\n- **Dinu Lipatti's Bones**: with John Vanderslice [4]\n- **New Star Song**: with drummer from Double [4]\n- **Grendel's Mother**: with drummer from Double [4]\n- **Lion's Teeth**: with drummer from Double [4]\n- **Mountain Goats Shirt Song (to the tune of Going to Georgia)**: earliest performance in the archive; legendary: the only archived performance [4]\n\n## The recordings\n\n- **tmg2005-06-23** (recommended): source not stated; 17 songs; 63 min; rated 5/5 by 2 [1]\n\n## Around the show\n\n- Guests: John Vanderslice, drummer from Double [1]\n\n## Tapers and lineage\n\n- **tmg2005-06-23**: taped by Chris Bellew; transferred by Chris Bellew; source: SP-CMC-2>SP-SPSB-1>iRiver iHP-140 [1]",
+   "body_md": "## Setlist highlights\n\n- **Intro2. Twin Human Highway Flares**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Pet Politics (Silver Jews cover)**: earliest performance in the archive; rare: 6 archived performances [4]\n- **Linda Blair Was Born Innocent**: with John Vanderslice [4]\n- **Dinu Lipatti's Bones**: with John Vanderslice [4]\n- **New Star Song**: with drummer from Double [4]\n- **Grendel's Mother**: with drummer from Double [4]\n- **Lion's Teeth**: with drummer from Double [4]\n- **Mountain Goats Shirt Song (to the tune of Going to Georgia)**: earliest performance in the archive; legendary: the only archived performance [4]\n\n## The recordings\n\n- **tmg2005-06-23** (recommended): source not stated; 17 songs; 63 min; rated 5/5 by 2 [1]\n\n## Around the show\n\n- Guests: John Vanderslice, drummer from Double [1]\n- The reviewer says the audience was engaged and enthusiastic throughout the performance [3]\n\n## Tapers and lineage\n\n- **tmg2005-06-23**: taped by Chris Bellew; transferred by Chris Bellew; source: SP-CMC-2>SP-SPSB-1>iRiver iHP-140 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -452,6 +452,7 @@
      "accessed_at": "2026-10-23",
      "author": "Gardenhead",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Gardenhead%22",
+     "claim": "The reviewer says the audience was engaged and enthusiastic throughout the performance",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2005-10-30",
@@ -459,7 +460,7 @@
      "site": "Internet Archive",
      "title": "Review: This is a great show! (tmg2005-06-23)",
      "url": "https://archive.org/details/tmg2005-06-23#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -470,7 +471,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -480,30 +481,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The reviewer says the audience was engaged and enthusiastic throughout the performance",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2005-06-23:bottom-of-the-hill"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "9273ecfeff36b78a2c21cde28a8f2774e8c6a7d00ade73779ec962fdea094a58",
-    "generated_at": "2026-10-24T20:44:00.734809+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "52bceeed5934d6f9ea7f2198aaedcdc1bd098105e02433016fc8af725d9e85e6",
+    "generated_at": "2026-10-25T23:16:47.805590+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "9bc34af158296735f860d0e5899bdec2450d5702f15ea6c05839b7749e80f2cf",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 4.8
+    "seconds": 5.5
    },
-   "revision": 2,
-   "signature": "MUDRnGUuc55BtVZF0WO1zCCeM6rvjZ1YnQ_P0hypvYdE62rENm8VM6mSFczX6m4JqCbZ0_4qxC4LzIlHCHrJCw",
+   "revision": 3,
+   "signature": "2WAFJKwsyRQOWTBkVtTJnOloYkcscxDi5Sh6-GgZuYp4mVtK7neT_-jzbIiyXsLPz8VQmOlKVFpUu8WNN0TmAA",
    "subject_key": "live:mountain-goats:2005-06-23:bottom-of-the-hill",
-   "updated_at": "2026-10-24T20:44:00.735472"
+   "updated_at": "2026-10-25T23:16:47.810594"
   }
  },
  "recommended": {

@@ -547,7 +547,7 @@
    "updated_at": "2026-10-24T22:01:49.574812"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Stench of the Unburied**: earliest performance in the archive; rare: 4 archived performances [3]\n- **Against Pollution**: back after 25 archived shows (732 days) [3]\n- **St. Stephen**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Surrounded**: rare: 14 archived performances [3]\n- **Itzcuintli-Totzli Days**: back after 184 archived shows (4990 days); rare: 10 archived performances [3]\n\n## The recordings\n\n- **tmg2017-06-01.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 125 min [1]\n- **tmg2017-06-01**: source not stated; 25 songs; 125 min [2]\n\n## Tapers and lineage\n\n- **tmg2017-06-01.SBD.AUD.Matrix**: taped by anonymous; transferred by blg; source: Source: [SBD > M10] + [Schoeps CCM4 > Tinybox > M10] => FLAC [1]\n- **tmg2017-06-01**: taped by LMGBTapes; transferred by LMGBTapes [2]\n\n## Art and photos\n\n- Poster by D.King Gallery: [The Mountain Goats 2017 Fillmore F1496 Poster - D. King Gallery](https://www.dking-gallery.com/store/FIL_1496.html) [4]",
+   "body_md": "## What listeners single out\n\n- **St. Stephen** (1 other source): Listed as a Grateful Dead cover, appearing in the setlist as an unreleased song [2]\n\n## Setlist highlights\n\n- **Stench of the Unburied**: earliest performance in the archive; rare: 4 archived performances [3]\n- **Against Pollution**: back after 25 archived shows (732 days) [3]\n- **St. Stephen**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Surrounded**: rare: 14 archived performances [3]\n- **Itzcuintli-Totzli Days**: back after 183 archived shows (4990 days); rare: 10 archived performances [3]\n\n## The recordings\n\n- **tmg2017-06-01.SBD.AUD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 24 songs; 125 min [1]\n- **tmg2017-06-01**: source not stated; 25 songs; 125 min [2]\n\n## Tapers and lineage\n\n- **tmg2017-06-01.SBD.AUD.Matrix**: taped by anonymous; transferred by blg; source: Source: [SBD > M10] + [Schoeps CCM4 > Tinybox > M10] => FLAC [1]. Also: Matrix recording combining a soundboard feed with a Schoeps CCM4 audience capture run through a Tinybox into an M10 recorder; Mastering by BLG used Audition, iZotope RX9 and Ozone 9, WavePad and xACT, then FLAC encoding; notes compiled November 2021 [1]\n- **tmg2017-06-01**: taped by LMGBTapes; transferred by LMGBTapes [2]\n\n## Art and photos\n\n- Poster by D.King Gallery: [The Mountain Goats 2017 Fillmore F1496 Poster - D. King Gallery](https://www.dking-gallery.com/store/FIL_1496.html) [4]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -610,7 +610,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -636,30 +636,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tmg2017-06-01.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Matrix recording combining a soundboard feed with a Schoeps CCM4 audience capture run through a Tinybox into an M10 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2017-06-01.SBD.AUD.Matrix",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastering by BLG used Audition, iZotope RX9 and Ozone 9, WavePad and xACT, then FLAC encoding; notes compiled November 2021",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "St. Stephen",
+      "song_key": "song:mountain-goats:st-stephen",
+      "src": 2,
+      "text": "Listed as a Grateful Dead cover, appearing in the setlist as an unreleased song",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-06-01:the-fillmore"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "5e99040179329c128f0eec4e0ff5ef3057abc7e999bdbb0ba7fce226fc6b9643",
-    "generated_at": "2026-10-24T20:55:59.656244+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "c9d3cb03010e2e56b5fbbe138cb0f7c2b53f5d0623f32ae429ce863af067f7c1",
+    "generated_at": "2026-10-25T23:15:24.699394+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "0d854c4bb765c8379ad42b18d740f9059c0db254f8ee0e20d3dd8e8afa028c2e",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.4
+    "seconds": 4.1
    },
-   "revision": 2,
-   "signature": "zh6YiKfZK-NURw7B31iM5x3iBcygOGCjjv4ctHw6PnDt7i1WfymivH3TQe90CkkeP_r75aJgQBJl4A-SVRHHAA",
+   "revision": 3,
+   "signature": "Q0Gbg2ojhpIpA8CUb1RReQ6XWIJUk73AHEQSTzdXNUZjzSrp9d0mDdO6G4yrGJZ-yht1l4WvScC8yguaW2dZAw",
    "subject_key": "live:mountain-goats:2017-06-01:the-fillmore",
-   "updated_at": "2026-10-24T20:55:59.657284"
+   "updated_at": "2026-10-25T23:15:24.704094"
   }
  },
  "recommended": {

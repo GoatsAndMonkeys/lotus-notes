@@ -4,6 +4,8 @@
   "citations": 237,
   "liner_notes": 73,
   "posters": 0,
+  "radio_recordings": 84,
+  "radio_stations": 58,
   "recordings": 92,
   "shows": 73,
   "songs": 163,
@@ -32,6 +34,11 @@
    "sha256": "209cdbef654127817017f587e17bc59302df9847b866c2afb402a8e3ff0d8ad8"
   },
   {
+   "bytes": 40000,
+   "path": "radio/stations.json",
+   "sha256": "2c87b72809aed016794b33c64e60146eaf252042dc9ed13ff8f62c4a9ee68064"
+  },
+  {
    "bytes": 4328,
    "path": "radio/tapers.json",
    "sha256": "bbc6fa3e66782612057a7b10d350ce898b9434841312fa248dbea020bab4a308"
@@ -40,6 +47,11 @@
    "bytes": 1682,
    "path": "radio/tours.json",
    "sha256": "b71de00c294a49c5fbcc217c5373c9eaed741e054dee13e98eda7945925dab54"
+  },
+  {
+   "bytes": 173214,
+   "path": "radio/tracks.json",
+   "sha256": "c0c88c10e44a168bb41df5505969e710f4b6d7ff3845fcf6bbc07a726d6bb4f0"
   },
   {
    "bytes": 21008,
@@ -407,9 +419,9 @@
    "sha256": "e133ed1b7d4df774aba064e6ce01c89b3d113394aa83d571b2d920d51423050d"
   },
   {
-   "bytes": 40125,
+   "bytes": 52550,
    "path": "shows/index.json",
-   "sha256": "c556a92d50ddfae932c344aaff450d57c23a389582eb30dbf236a63d7d07c43e"
+   "sha256": "a5590ad72ddb4b4c13ad5f389f0e17c27de525c5c2cbc2139b57b1ff7538c83e"
   },
   {
    "bytes": 148317,
@@ -428,8 +440,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T17:55:26+00:00",
+ "generated_at": "2026-10-25T23:19:10+00:00",
  "namespace": "the-war-on-drugs-music",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",

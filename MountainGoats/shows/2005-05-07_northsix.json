@@ -373,7 +373,7 @@
    "updated_at": "2026-10-24T22:01:49.101036"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Going to Cleveland**: rare: 8 archived performances [3]\n- **My Favorite Things**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **tmg2005-05-07.flac16** (recommended): audience recording; 16 songs; 61 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **tmg2005-05-07.flac16**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD [1]",
+   "body_md": "## Setlist highlights\n\n- **Going to Cleveland**: rare: 8 archived performances [3]\n- **My Favorite Things**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **tmg2005-05-07.flac16** (recommended): audience recording; 16 songs; 61 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Reviewer had learned of the band a few months before through Vin Scelsa's Idiot's Delight show on WFUV [2]\n\n## Tapers and lineage\n\n- **tmg2005-05-07.flac16**: taped by Thomas J Hartnett; transferred by Thomas J Hartnett; source: AUD [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -406,6 +406,7 @@
      "accessed_at": "2026-10-23",
      "author": "jeff7music",
      "author_url": "https://archive.org/search?query=reviewer%3A%22jeff7music%22",
+     "claim": "Reviewer had learned of the band a few months before through Vin Scelsa's Idiot's Delight show on WFUV",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2009-01-17",
@@ -413,7 +414,7 @@
      "site": "Internet Archive",
      "title": "Review: Great Show / Great \"Band\" - Live at Northsix on 2005-05-07 (tmg2005-05-07.flac16)",
      "url": "https://archive.org/details/tmg2005-05-07.flac16#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -424,7 +425,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -434,30 +435,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer had learned of the band a few months before through Vin Scelsa's Idiot's Delight show on WFUV",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2005-05-07:northsix"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "3bd53cfff820344235210ce2b1c5e36945e764987efb808c9fdce91beec19d43",
-    "generated_at": "2026-10-24T21:12:11.791055+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "16b26ded474bbad20ed23632869f3359946093050a55f0202e25a4ad52b552fc",
+    "generated_at": "2026-10-25T23:16:51.121447+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "d2df79ded8e52e39ef30b0433e6a11d064af56b9088fe7e470edb7657946b2ec",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.6
+    "seconds": 4.5
    },
-   "revision": 2,
-   "signature": "mDTwaa4TpT5oGZey2yLLJnI4TGUJAeSUcsXZ51Ih_E2rdjKZCCDg6S0oHk8HuTKK4mMJqS1FOX7PbkWSGrvHBA",
+   "revision": 3,
+   "signature": "08mjGh7lPND-I3phyhD-fc1fjo-8E2-NlyvmWF8OCvWuSd7fVxYWtmyrNgssuWGm4SU3BEGFx5gjGNMQh4kOCg",
    "subject_key": "live:mountain-goats:2005-05-07:northsix",
-   "updated_at": "2026-10-24T21:12:11.792138"
+   "updated_at": "2026-10-25T23:16:51.125979"
   }
  },
  "recommended": {

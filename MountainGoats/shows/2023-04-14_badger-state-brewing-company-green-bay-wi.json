@@ -447,7 +447,7 @@
    "updated_at": "2026-10-24T22:01:49.978498"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Mobile**: rare: 5 archived performances [3]\n- **Narakaloka**: rare: 13 archived performances [3]\n- **Maybe Sprout Wings**: back after 39 archived shows (482 days) [3]\n- **Hebrews 11:40**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **tmg2023-04-14.SBD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 100 min; rated 4/5 by 1 [1]. Said about its sound: Reviewer notes a post-covid vocal quality, though the performance itself was good [2]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n\n## Tapers and lineage\n\n- **tmg2023-04-14.SBD.Matrix**: taped by roffels; source: Soundboard - Zoom f6 32-bit 96khz Neumann KM140 cardioid mics - Zoom f6 32-bit 96 khz [1]. Also: Recorded via Zoom F6 with Neumann KM140s, processed in Vegas and Ozone [1]",
+   "body_md": "## Setlist highlights\n\n- **Mobile**: rare: 5 archived performances [3]\n- **Narakaloka**: rare: 13 archived performances [3]\n- **Maybe Sprout Wings**: back after 39 archived shows (482 days) [3]\n- **Hebrews 11:40**: rare: 13 archived performances [3]\n\n## The recordings\n\n- **tmg2023-04-14.SBD.Matrix** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 100 min; rated 4/5 by 1 [1]\n\n## Around the show\n\n- Stage talk about: No Children [1]\n- Crowd was somewhat chatty, including a group standing directly in front of the taper's microphones [1]\n\n## Tapers and lineage\n\n- **tmg2023-04-14.SBD.Matrix**: taped by roffels; source: Soundboard - Zoom f6 32-bit 96khz Neumann KM140 cardioid mics - Zoom f6 32-bit 96 khz [1]. Also: Soundboard feed patched from the board, plus Neumann KM140 cardioid audience mics, both recorded on a Zoom F6 at 32-bit/96kHz; Matrix made by syncing tracks in Vegas, removing crowd with MVSEP, mastering in Ozone, splitting in Audacity, then FLAC 16-bit/44.1kHz [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -475,7 +475,6 @@
      "accessed_at": "2026-10-23",
      "author": "scott ulrey",
      "author_url": "https://archive.org/search?query=reviewer%3A%22scott%20ulrey%22",
-     "claim": "Reviewer notes a post-covid vocal quality, though the performance itself was good",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2023-04-17",
@@ -483,7 +482,7 @@
      "site": "Internet Archive",
      "title": "Review: thanks! (tmg2023-04-14.SBD.Matrix)",
      "url": "https://archive.org/details/tmg2023-04-14.SBD.Matrix#reviews",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -494,7 +493,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -509,17 +508,25 @@
       "recording": "tmg2023-04-14.SBD.Matrix",
       "song": null,
       "song_key": null,
-      "src": 2,
-      "text": "Reviewer notes a post-covid vocal quality, though the performance itself was good",
-      "type": "sound"
+      "src": 1,
+      "text": "Soundboard feed patched from the board, plus Neumann KM140 cardioid audience mics, both recorded on a Zoom F6 at 32-bit/96kHz",
+      "type": "lineage"
      },
      {
       "recording": "tmg2023-04-14.SBD.Matrix",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded via Zoom F6 with Neumann KM140s, processed in Vegas and Ozone",
+      "text": "Matrix made by syncing tracks in Vegas, removing crowd with MVSEP, mastering in Ozone, splitting in Audacity, then FLAC 16-bit/44.1kHz",
       "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Crowd was somewhat chatty, including a group standing directly in front of the taper's microphones",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -527,24 +534,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "6f7398bd3ec7c47f58faaf82a2c9771a4fc5d90b00c0663f99e9519b72c52fb7",
-    "generated_at": "2026-10-24T21:41:22.635691+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "220c8fa4371a9784377a51f2f63c2bee5d49aa94e9e6b62dd1efc18e3d6f57ae",
+    "generated_at": "2026-10-25T23:13:48.721519+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "433bed5fa499706d44577325dc64b93b84aa5d9123ad41ad941e636be992ab3f",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 18.3
+    "seconds": 5.6
    },
-   "revision": 2,
-   "signature": "SZFUceKN-Zc0EUyEqI8Da2kJxt5eeKmh4o6Zk7S0oLiT_cAaiGCFc3HkClRuvr-oX9on0Fz5mYY5V9fBJTBiBQ",
+   "revision": 3,
+   "signature": "9743v3cjO9jh_BPHFdmNEUfGAf6y2giFh9mxqvaDvMNlPDm23jvMGNG4hkucWsOuEr2WFgB47hl58LwPXTKpDg",
    "subject_key": "live:mountain-goats:2023-04-14:badger-state-brewing-company-green-bay-wi",
-   "updated_at": "2026-10-24T21:41:22.637503"
+   "updated_at": "2026-10-25T23:13:48.723365"
   }
  },
  "recommended": {

@@ -594,7 +594,7 @@
    "updated_at": "2026-10-24T22:01:49.753724"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Intro Music (Dance With Me)**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Estate Sale Sign**: back after 131 archived shows (3075 days) [3]\n- **Banter (Ozzie In The Garage)**: back after 126 archived shows (2791 days); rare: 7 archived performances [3]\n- **No More Tears**: rare: 8 archived performances [3]\n- **Hebrews**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Banter (Judas)**: back after 126 archived shows (2791 days); rare: 7 archived performances [3]\n- **Banter (No I Can't)**: back after 126 archived shows (2791 days); rare: 7 archived performances [3]\n- **Banter (Matt Douglas and Two Keyboards)**: back after 126 archived shows (2791 days); rare: 7 archived performances [3]\n\n## The recordings\n\n- **mountaingoats2019-11-14.dpa4015c.sbd.flac** (recommended): matrix (soundboard mixed with audience mics); 30 songs; 105 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **mountaingoats2019-11-14.dpa4015c.sbd.flac**: taped by aaronji; transferred by aaronji; source: AUD + SBD [1]",
+   "body_md": "## Setlist highlights\n\n- **Intro Music (Dance With Me)**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Estate Sale Sign**: back after 130 archived shows (3075 days) [3]\n- **Banter (Ozzie In The Garage)**: back after 125 archived shows (2791 days); rare: 7 archived performances [3]\n- **No More Tears**: rare: 8 archived performances [3]\n- **Hebrews**: earliest performance in the archive; rare: 3 archived performances [3]\n- **Banter (Judas)**: back after 125 archived shows (2791 days); rare: 7 archived performances [3]\n- **Banter (No I Can't)**: back after 125 archived shows (2791 days); rare: 7 archived performances [3]\n- **Banter (Matt Douglas and Two Keyboards)**: back after 125 archived shows (2791 days); rare: 7 archived performances [3]\n\n## The recordings\n\n- **mountaingoats2019-11-14.dpa4015c.sbd.flac** (recommended): matrix (soundboard mixed with audience mics); 30 songs; 105 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- Laura Cortese And The Dance Cards performed alongside the band at this show [2]\n\n## Tapers and lineage\n\n- **mountaingoats2019-11-14.dpa4015c.sbd.flac**: taped by aaronji; transferred by aaronji; source: AUD + SBD [1]. Also: Recording is labeled a matrix of soundboard and dpa4015c sources, distributed as FLAC [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -627,6 +627,7 @@
      "accessed_at": "2026-10-23",
      "author": "LMGBTapes",
      "author_url": "https://archive.org/search?query=reviewer%3A%22LMGBTapes%22",
+     "claim": "Laura Cortese And The Dance Cards performed alongside the band at this show",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2023-10-24",
@@ -634,7 +635,7 @@
      "site": "Internet Archive",
      "title": "Review: Phenomenal (mountaingoats2019-11-14.dpa4015c.sbd.flac)",
      "url": "https://archive.org/details/mountaingoats2019-11-14.dpa4015c.sbd.flac#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -645,7 +646,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -655,30 +656,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Laura Cortese And The Dance Cards performed alongside the band at this show",
+      "type": "scene"
+     },
+     {
+      "recording": "mountaingoats2019-11-14.dpa4015c.sbd.flac",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Recording is labeled a matrix of soundboard and dpa4015c sources, distributed as FLAC",
+      "type": "lineage"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2019-11-14:tivoli-de-helling"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "c7ef15a65c2e4182d4cbb5f32fc65fe6377b4dac6e8ab0abe0a6b24dc48dab00",
-    "generated_at": "2026-10-24T21:27:27.375649+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "3a2bb71f35a52bd1bf0dc3b4facfd9b5dbb4454f828e49037651be8ad8e228ad",
+    "generated_at": "2026-10-25T23:14:39.311087+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "bef52e7efa0dfa5e11742c9c9daeee4b855412639d7d8a58e59ff3e6aa540ac8",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.3
+    "seconds": 5.5
    },
-   "revision": 2,
-   "signature": "M1a-S_il8DB20FZ06yaJtrWQx0M1IbMC1FAKcFVMByemCN2fO5VWLxmOCR3JyrkdfBMabqwdf8Br-mJx2O8lBg",
+   "revision": 3,
+   "signature": "9DiQ1b1DaZ7iWRTu-AxKhAATtShVFIfb8Wolr6XCS5-p5qCe47IVWq8bCJc9wRq3Rq8_XtXNKDeKDxTC-MrsBw",
    "subject_key": "live:mountain-goats:2019-11-14:tivoli-de-helling",
-   "updated_at": "2026-10-24T21:27:27.383548"
+   "updated_at": "2026-10-25T23:14:39.317886"
   }
  },
  "recommended": {

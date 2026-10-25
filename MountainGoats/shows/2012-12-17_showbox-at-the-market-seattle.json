@@ -448,7 +448,7 @@
    "updated_at": "2026-10-24T22:01:49.405752"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Intro Song**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Peacocks**: back after 73 archived shows (2111 days); rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2012-12-17** (recommended): source not stated; 23 songs; 97 min [1]\n\n## Around the show\n\n- John delivered a poignant introduction before performing this specific track [1]\n- The singer gave a moving spoken introduction prior to playing this song [1]\n- Brass and saxophone musicians who recorded the album joined the band live [1]\n- This concert marked the final night of the Transcendental Youth tour [1]\n\n## Tapers and lineage\n\n- **tmg2012-12-17**: taped by ∂®∑@Mßøä† [1]",
+   "body_md": "## What listeners single out\n\n- **Until I Am Whole** (1 other source): John gave a moving spoken introduction before playing this song [1]\n- **In Memory of Satan** (1 other source): John also gave a poignant introduction to this song [1]\n\n## Setlist highlights\n\n- **Intro Song**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Peacocks**: back after 73 archived shows (2111 days); rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2012-12-17** (recommended): source not stated; 23 songs; 97 min [1]\n\n## Around the show\n\n- The band was joined by the brass and sax players who recorded Transcendental Youth with them; this was the tour's final night [1]\n\n## Tapers and lineage\n\n- **tmg2012-12-17**: taped by ∂®∑@Mßøä† [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -479,7 +479,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -492,35 +492,27 @@
     "claims": [
      {
       "recording": null,
-      "song": null,
-      "song_key": null,
+      "song": "Until I Am Whole",
+      "song_key": "song:mountain-goats:until-i-am-whole",
       "src": 1,
-      "text": "John delivered a poignant introduction before performing this specific track",
-      "type": "scene"
+      "text": "John gave a moving spoken introduction before playing this song",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "In Memory of Satan",
+      "song_key": "song:mountain-goats:in-memory-of-satan",
+      "src": 1,
+      "text": "John also gave a poignant introduction to this song",
+      "type": "song"
      },
      {
       "recording": null,
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "The singer gave a moving spoken introduction prior to playing this song",
+      "text": "The band was joined by the brass and sax players who recorded Transcendental Youth with them; this was the tour's final night",
       "type": "scene"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "Brass and saxophone musicians who recorded the album joined the band live",
-      "type": "scene"
-     },
-     {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "This concert marked the final night of the Transcendental Youth tour",
-      "type": "compare"
      }
     ],
     "format": "liner-3",
@@ -528,24 +520,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 4,
-    "facts_hash": "34411a618dc5987f89e11ddc814aa0346df45fbb35508d32546ae0369fe355c9",
-    "generated_at": "2026-10-24T21:59:10.669213+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "080a69ae74b82675ff0038273079cfc932ba022c7c551bb8afdea191513b7605",
+    "generated_at": "2026-10-25T23:15:55.293761+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "1dc9d5fc82f4f24b9b4818c69a66f25af382aa76bb17d58dd5b0144fd53e30af",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.0
+    "seconds": 4.8
    },
-   "revision": 2,
-   "signature": "3gV_snH0DPJh2Jr5wL4nYryp2cSl3xdp5565GCi-n3JbwMycgDKOLBPGdM8z4lTcItmjR4vXEtiLAaXfy7b5AQ",
+   "revision": 3,
+   "signature": "gv3RU9NzqDrXU8K8ZbO44MnoSdGtQFrPBSJuM8NgaBfAHXLvJXZdggLNxCCtKDQ3zzoOJT-mvFeZlMuifA5dCA",
    "subject_key": "live:mountain-goats:2012-12-17:showbox-at-the-market-seattle",
-   "updated_at": "2026-10-24T21:59:10.670854"
+   "updated_at": "2026-10-25T23:15:55.296894"
   }
  },
  "recommended": {

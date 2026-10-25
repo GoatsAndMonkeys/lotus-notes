@@ -366,7 +366,7 @@
    "updated_at": "2026-10-24T22:01:49.209961"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Return For Encore**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **mountaingoats2006-11-03.flac** (recommended): source not stated; 16 songs; 62 min; rated 5/5 by 1 [1]. Said about its sound: Reviewer's loud voice and roommate are audible throughout the entire recording; Left channel has excess crowd noise due to a microphone placement issue [1][2]\n\n## Around the show\n\n- Reviewer was drunk and gave John a Heaven 17 album before the show [2]\n\n## Tapers and lineage\n\n- **mountaingoats2006-11-03.flac**: taped by Ben Garland; transferred by Ben Garland; source: AT-853 mics > MiniDisc SP [1]",
+   "body_md": "## Setlist highlights\n\n- **Return For Encore**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **mountaingoats2006-11-03.flac** (recommended): source not stated; 16 songs; 62 min; rated 5/5 by 1 [1]. Said about its sound: Left channel carries more crowd noise because of a microphone placement problem, mostly audible in quiet passages [1]\n\n## Tapers and lineage\n\n- **mountaingoats2006-11-03.flac**: taped by Ben Garland; transferred by Ben Garland; source: AT-853 mics > MiniDisc SP [1]. Also: Recorded and mastered by Ben Garland using AT-853 mics into a preamp, then Sony MiniDisc in SP mode; Transferred optically from MiniDisc to an iMac Core Duo, mastered with Spark XL, WaveArts MultiDynamics and FinalPlug plugins; FLAC is SBE aligned [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -399,7 +399,6 @@
      "accessed_at": "2026-10-23",
      "author": "Midnight Monkee",
      "author_url": "https://archive.org/search?query=reviewer%3A%22Midnight%20Monkee%22",
-     "claim": "Reviewer was drunk and gave John a Heaven 17 album before the show",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2007-05-08",
@@ -407,7 +406,7 @@
      "site": "Internet Archive",
      "title": "Review: Jesus, John I love you (mountaingoats2006-11-03.flac)",
      "url": "https://archive.org/details/mountaingoats2006-11-03.flac#reviews",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -418,7 +417,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -430,27 +429,11 @@
    "facts": {
     "claims": [
      {
-      "recording": null,
-      "song": null,
-      "song_key": null,
-      "src": 2,
-      "text": "Reviewer was drunk and gave John a Heaven 17 album before the show",
-      "type": "scene"
-     },
-     {
-      "recording": "mountaingoats2006-11-03.flac",
-      "song": null,
-      "song_key": null,
-      "src": 2,
-      "text": "Reviewer's loud voice and roommate are audible throughout the entire recording",
-      "type": "sound"
-     },
-     {
       "recording": "mountaingoats2006-11-03.flac",
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Ben Garland recorded using AT-853 mics and Sony MiniDisc, then mastered on iMac",
+      "text": "Recorded and mastered by Ben Garland using AT-853 mics into a preamp, then Sony MiniDisc in SP mode",
       "type": "lineage"
      },
      {
@@ -458,7 +441,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Left channel has excess crowd noise due to a microphone placement issue",
+      "text": "Transferred optically from MiniDisc to an iMac Core Duo, mastered with Spark XL, WaveArts MultiDynamics and FinalPlug plugins; FLAC is SBE aligned",
+      "type": "lineage"
+     },
+     {
+      "recording": "mountaingoats2006-11-03.flac",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Left channel carries more crowd noise because of a microphone placement problem, mostly audible in quiet passages",
       "type": "sound"
      }
     ],
@@ -467,24 +458,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 4,
-    "facts_hash": "41231b4b753a6a1a38fcb9bdd3603ffdf1f5aa56f06b029ccdf27d93086dea95",
-    "generated_at": "2026-10-24T20:45:40.106422+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "8d034555def8d9b295b83bef898bc06cb2c304a936b77fb42370b8d6e8fe3fee",
+    "generated_at": "2026-10-25T23:16:33.139560+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "0e946a7c610fe795313bd83292194778e705d9e5e812a1b02314524cc7c8de4c",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 17.3
+    "seconds": 3.5
    },
-   "revision": 2,
-   "signature": "t3hsL_-eJn1Y7w92dyahPjbDaCsaqKKT2eKa7xpb4d0DpyN35lEYuf3rjjMSpmDEEmdLEgOIdHmpaiCAk34VDw",
+   "revision": 3,
+   "signature": "SSTpClp4DsX-bJfWvhdPIUk-bbzq1VnbZfJ8LU8Ig-ApMZimhdm7mLMibmvRsyXli7DKikG_q41bppwVaDk6CQ",
    "subject_key": "live:mountain-goats:2006-11-03:the-earl",
-   "updated_at": "2026-10-24T20:45:40.107830"
+   "updated_at": "2026-10-25T23:16:33.144167"
   }
  },
  "recommended": {

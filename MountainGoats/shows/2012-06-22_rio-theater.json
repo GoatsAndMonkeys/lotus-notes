@@ -428,7 +428,7 @@
    "updated_at": "2026-10-24T22:01:49.381051"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Fault Lines**: back after 137 archived shows (3757 days); rare: 8 archived performances [2]\n- **In The Shadow Of The Western Hills**: rare: 3 archived performances [2]\n- **Alpha Gelida**: back after 157 archived shows (5558 days); rare: 12 archived performances [2]\n- **Ox Baker Triumphant**: back after 29 archived shows (1173 days); rare: 5 archived performances [2]\n- **Keeping House**: back after 28 archived shows (1105 days); rare: 6 archived performances [2]\n- **Michael Myers Resplendent**: back after 37 archived shows (1295 days) [2]\n- **Slow West Voltures**: back after 38 archived shows (1321 days) [2]\n- **So Desperate**: back after 29 archived shows (1173 days) [2]\n\n## The recordings\n\n- **tMG2012-06-22.aud.mp3** (recommended): audience recording; 20 songs; 90 min [1]\n\n## Around the show\n\n- Stage talk about: Ox Baker Triumphant, Thank You Mario But Our Princess Is In Another Castle [1]\n\n## Tapers and lineage\n\n- **tMG2012-06-22.aud.mp3**: taped by WhosQuad; transferred by WhosQuad; source: AUD>Sandisk Sansa Internal Microphone>WAV [1]",
+   "body_md": "## What listeners single out\n\n- **Ox Baker Triumphant** (1 other source): The song has its own separate intro track before it, so there was spoken material beforehand [1]\n- **Thank You Mario But Our Princess Is In Another Castle** (1 other source): The song also has its own separate intro track before it, suggesting stage talk beforehand [1]\n\n## Setlist highlights\n\n- **Fault Lines**: back after 135 archived shows (3757 days); rare: 8 archived performances [2]\n- **In The Shadow Of The Western Hills**: rare: 3 archived performances [2]\n- **Alpha Gelida**: back after 155 archived shows (5558 days); rare: 12 archived performances [2]\n- **Ox Baker Triumphant**: back after 29 archived shows (1173 days); rare: 5 archived performances [2]\n- **Keeping House**: back after 28 archived shows (1105 days); rare: 5 archived performances [2]\n- **Michael Myers Resplendent**: back after 37 archived shows (1295 days) [2]\n- **Slow West Voltures**: back after 38 archived shows (1321 days) [2]\n- **So Desperate**: back after 29 archived shows (1173 days) [2]\n\n## The recordings\n\n- **tMG2012-06-22.aud.mp3** (recommended): audience recording; 20 songs; 90 min [1]\n\n## Around the show\n\n- Stage talk about: Ox Baker Triumphant, Thank You Mario But Our Princess Is In Another Castle [1]\n\n## Tapers and lineage\n\n- **tMG2012-06-22.aud.mp3**: taped by WhosQuad; transferred by WhosQuad; source: AUD>Sandisk Sansa Internal Microphone>WAV [1]. Also: The file name marks this as an audience recording, distributed as mp3 and split into 23 tracks [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -464,7 +464,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -474,30 +474,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tMG2012-06-22.aud.mp3",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The file name marks this as an audience recording, distributed as mp3 and split into 23 tracks",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "Ox Baker Triumphant",
+      "song_key": "song:mountain-goats:ox-baker-triumphant",
+      "src": 1,
+      "text": "The song has its own separate intro track before it, so there was spoken material beforehand",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Thank You Mario But Our Princess Is In Another Castle",
+      "song_key": "song:mountain-goats:thank-you-mario-but-our-princess-is-in-another-castle",
+      "src": 1,
+      "text": "The song also has its own separate intro track before it, suggesting stage talk beforehand",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2012-06-22:rio-theater"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "c8b14b04a81691542188d911023e00e8b7b889e19962c3a47ef9be957ac6e642",
-    "generated_at": "2026-10-24T21:40:10.323834+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "f920a8ef70b125d9680076238c6075c201734158d4b549ac79ddcd4895fb1fb1",
+    "generated_at": "2026-10-25T23:16:03.316067+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "74ce0dcb8d9542e1f847a55a50e68e8f3acaf9a1dbe1156f55e1abf05c1ada04",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.9
+    "seconds": 6.0
    },
-   "revision": 2,
-   "signature": "ZKPBHKR6kh6f2xUP35FCl9KXOTz2KcEzv0bOmS4lqwnWfaHqIdY6-9wTKi6bSNJICSllAQcq52k0ZMKlRrHlBA",
+   "revision": 3,
+   "signature": "01TxMwOhDLSstYwlVScSuYO2cb_LusvCjs6y0xz_wZ-QBm2wDVFW934BJwjGSiG7MNXYZHwjHQj552yqHZL1BA",
    "subject_key": "live:mountain-goats:2012-06-22:rio-theater",
-   "updated_at": "2026-10-24T21:40:10.324968"
+   "updated_at": "2026-10-25T23:16:03.321522"
   }
  },
  "recommended": {

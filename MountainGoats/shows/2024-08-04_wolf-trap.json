@@ -566,7 +566,7 @@
    "updated_at": "2026-10-24T22:01:50.192444"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Passionate Kisses (Mary Chapin Carpenter song)**: earliest performance in the archive; legendary: the only archived performance [2]\n- **The Legend of Chavo Guerrero**: back after 211 archived shows (3350 days); rare: 9 archived performances [2]\n- **banter (assuaging fears over setlist supply)**: rare: 7 archived performances [2]\n- **Same As Cash**: rare: 5 archived performances [2]\n- **banter (repping the grain mafia)**: rare: 7 archived performances [2]\n- **Guys On Every Corner**: rare: 14 archived performances [2]\n- **banter (pushing back against short-sighted classifications)**: rare: 7 archived performances [2]\n- **Extraction Point**: rare: 11 archived performances [2]\n\n## The recordings\n\n- **tmg2024-08-04.flac24** (recommended): source not stated; 29 songs; 87 min [1]\n\n## Tapers and lineage\n\n- **tmg2024-08-04.flac24**: taped by n3t_Rchae010gy; source: Zoom H1n [1]\n\n## Art and photos\n\n- Poster by Brutifulstore.com: [The Mountain Goats Wolf Trap Vienna VA August 4 2024 Wall Art Poster Canvas](https://brutifulstore.com/product/the-mountain-goats-wolf-trap-vienna-va-august-4-2024-wall-art-poster-canvas/) [3]\n- Poster by Brutifulstore.com: [Mountain Goats - Brutifulstore.com](https://brutifulstore.com/collections/mountain-goats/) [4]",
+   "body_md": "## What listeners single out\n\n- **Passionate Kisses (Mary Chapin Carpenter song)** (1 other source): Listed as a cover of a Mary Chapin Carpenter song [1]\n- **I Hope You Dance (Lee Ann Womack cover)** (1 other source): Listed as a cover of a Lee Ann Womack song [1]\n\n## Setlist highlights\n\n- **Passionate Kisses (Mary Chapin Carpenter song)**: earliest performance in the archive; legendary: the only archived performance [2]\n- **The Legend of Chavo Guerrero**: back after 209 archived shows (3350 days); rare: 9 archived performances [2]\n- **banter (assuaging fears over setlist supply)**: rare: 7 archived performances [2]\n- **Same As Cash**: rare: 5 archived performances [2]\n- **banter (repping the grain mafia)**: rare: 7 archived performances [2]\n- **Guys On Every Corner**: rare: 14 archived performances [2]\n- **banter (pushing back against short-sighted classifications)**: rare: 7 archived performances [2]\n- **Extraction Point**: rare: 11 archived performances [2]\n\n## The recordings\n\n- **tmg2024-08-04.flac24** (recommended): source not stated; 29 songs; 87 min [1]\n\n## Around the show\n\n- Banter gets its own tracks, covering setlist worries, grain, finding a home key, welcoming the band back with threats, and jacket-slinging [1]\n\n## Tapers and lineage\n\n- **tmg2024-08-04.flac24**: taped by n3t_Rchae010gy; source: Zoom H1n [1]\n\n## Art and photos\n\n- Poster by Brutifulstore.com: [The Mountain Goats Wolf Trap Vienna VA August 4 2024 Wall Art Poster Canvas](https://brutifulstore.com/product/the-mountain-goats-wolf-trap-vienna-va-august-4-2024-wall-art-poster-canvas/) [3]\n- Poster by Brutifulstore.com: [Mountain Goats - Brutifulstore.com](https://brutifulstore.com/collections/mountain-goats/) [4]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -597,7 +597,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -639,30 +639,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "Passionate Kisses (Mary Chapin Carpenter song)",
+      "song_key": "song:mountain-goats:passionate-kisses",
+      "src": 1,
+      "text": "Listed as a cover of a Mary Chapin Carpenter song",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "I Hope You Dance (Lee Ann Womack cover)",
+      "song_key": "song:mountain-goats:i-hope-you-dance",
+      "src": 1,
+      "text": "Listed as a cover of a Lee Ann Womack song",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Banter gets its own tracks, covering setlist worries, grain, finding a home key, welcoming the band back with threats, and jacket-slinging",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2024-08-04:wolf-trap"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "7df2cea53eeae845599bae64bad3968575459fa92f5e02c8cc3a262acad9b441",
-    "generated_at": "2026-10-24T21:38:42.105380+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "7f9d27eb2c35926154d59fb9e56b6fd38a3628a98dd5ac33ac2cd0ed39f3d97c",
+    "generated_at": "2026-10-25T23:13:11.688887+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "0daaa5dc45652f58c030aa70760dc51ee0eb38e58e2b7dd7ba26408a0343e418",
     "prompt_version": "liner-3",
     "rejected": [],
     "seconds": 5.7
    },
-   "revision": 2,
-   "signature": "TaOMjEIvRbPL8zmCH_IEK8ARgP2d_CtczgrT73JAf7Ovqqg-7OzjINwHCLVF6gUenNZmxJnk9kNyKrg5_qC-DQ",
+   "revision": 3,
+   "signature": "OId6cloEy69CgVBzLkT4cj9i96TkrfsmBsx0PFy6oFrPNgSyxO8nyO4EwZ1M_uxumQK5R50MiDFOTmQSWv-QCw",
    "subject_key": "live:mountain-goats:2024-08-04:wolf-trap",
-   "updated_at": "2026-10-24T21:38:42.107152"
+   "updated_at": "2026-10-25T23:13:11.694666"
   }
  },
  "recommended": {

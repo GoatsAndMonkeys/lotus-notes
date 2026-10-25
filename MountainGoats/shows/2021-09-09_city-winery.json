@@ -539,7 +539,7 @@
    "updated_at": "2026-10-24T22:01:49.816140"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Fault Lines**: back after 146 archived shows (3366 days); rare: 8 archived performances [2]\n- **The Plague**: rare: 8 archived performances [2]\n- **Love Love Love**: back after 27 archived shows (731 days) [2]\n- **Shot, Repeatedly, At Close Range, In the Chest, By Your Love**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Genesis 30:3**: back after 55 archived shows (1199 days); rare: 11 archived performances [2]\n- **Enoch 18:14**: back after 29 archived shows (735 days) [2]\n- **Narakaloka**: rare: 13 archived performances [2]\n- **Pseudothyrum Song**: rare: 7 archived performances [2]\n\n## The recordings\n\n- **tmg2021-09-09** (recommended): source not stated; 27 songs; 98 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-09-09**: taped by Liz Hamilton; transferred by Liz Hamilton; source: iPhone 7 internal microphone [1]",
+   "body_md": "## What listeners single out\n\n- **The Plague** (1 other source): The uploader's notes list this song as unreleased in the album column [1]\n\n## Setlist highlights\n\n- **Fault Lines**: back after 145 archived shows (3366 days); rare: 8 archived performances [2]\n- **The Plague**: rare: 8 archived performances [2]\n- **Love Love Love**: back after 27 archived shows (731 days) [2]\n- **Shot, Repeatedly, At Close Range, In the Chest, By Your Love**: earliest performance in the archive; legendary: the only archived performance [2]\n- **Genesis 30:3**: back after 54 archived shows (1199 days); rare: 11 archived performances [2]\n- **Enoch 18:14**: back after 29 archived shows (735 days) [2]\n- **Narakaloka**: rare: 13 archived performances [2]\n- **Pseudothyrum Song**: rare: 7 archived performances [2]\n\n## The recordings\n\n- **tmg2021-09-09** (recommended): source not stated; 27 songs; 98 min [1]\n\n## Tapers and lineage\n\n- **tmg2021-09-09**: taped by Liz Hamilton; transferred by Liz Hamilton; source: iPhone 7 internal microphone [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -575,7 +575,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -585,30 +585,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "The Plague",
+      "song_key": "song:mountain-goats:plague",
+      "src": 1,
+      "text": "The uploader's notes list this song as unreleased in the album column",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2021-09-09:city-winery"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "c4451f3a7e4b58103244d949eaffe8c54e84f7797feccf0e4ee73d8d20d98f82",
-    "generated_at": "2026-10-24T21:28:59.606499+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "c5033318b9efeb514c0a6841b03f5289b764774f9a772e752505e1f36df0992f",
+    "generated_at": "2026-10-25T23:14:22.764600+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "1c6e4dca29d5e21478df58d71404db3ceff41e119a6f374f6bf7e3649f2a8013",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.5
+    "seconds": 5.5
    },
-   "revision": 2,
-   "signature": "S3Cc01HeLj9v3Xq3kOuwK4fowT9oHlRXD6Pko19zNdcHEH4Pmhlicp00kHP-t-LE1cgs7rgYyzu27b6fv9qdBg",
+   "revision": 3,
+   "signature": "I9QbLEMXPdQYWSDe3kqXZu9_bG1H0DMu_jI1YHYnNMABwKL8kwHt2eSlrreVSsdRGhPPANo-Fh_yCDZrFP8SCw",
    "subject_key": "live:mountain-goats:2021-09-09:city-winery",
-   "updated_at": "2026-10-24T21:28:59.608148"
+   "updated_at": "2026-10-25T23:14:22.771771"
   }
  },
  "recommended": {

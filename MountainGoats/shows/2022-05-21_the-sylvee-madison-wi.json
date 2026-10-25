@@ -487,7 +487,7 @@
    "updated_at": "2026-10-24T22:01:49.888419"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Doc Gooden**: back after 39 archived shows (911 days); rare: 13 archived performances [2]\n- **Alpha Omega**: back after 37 archived shows (821 days) [2]\n- **The Anglo-Saxons**: back after 88 archived shows (1619 days); rare: 5 archived performances [2]\n- **Snow Crush Killing Song**: back after 88 archived shows (1619 days) [2]\n- **Abandoned Flesh**: back after 100 archived shows (1677 days) [2]\n\n## The recordings\n\n- **tmg2022-05-21.AUD** (recommended): audience recording; 25 songs; 119 min [1]. Said about its sound: Nakamichi cardioids recorded at 96kHz, processed with Izotope and Ozone, saved as 24-bit FLAC [1]\n\n## Tapers and lineage\n\n- **tmg2022-05-21.AUD**: taped by roffels; source: Nakamichi CM-300 Cardioid microphones [1]",
+   "body_md": "## Setlist highlights\n\n- **Doc Gooden**: back after 39 archived shows (911 days); rare: 13 archived performances [2]\n- **Alpha Omega**: back after 37 archived shows (821 days) [2]\n- **The Anglo-Saxons**: back after 87 archived shows (1619 days); rare: 5 archived performances [2]\n- **Snow Crush Killing Song**: back after 87 archived shows (1619 days) [2]\n- **Abandoned Flesh**: back after 99 archived shows (1677 days) [2]\n\n## The recordings\n\n- **tmg2022-05-21.AUD** (recommended): audience recording; 25 songs; 119 min [1]\n\n## Tapers and lineage\n\n- **tmg2022-05-21.AUD**: taped by roffels; source: Nakamichi CM-300 Cardioid microphones [1]. Also: Recorded with Nakamichi CM-300 cardioid microphones into a Roland R07 at 96kHz/24-bit, then finalized as 24-bit 48kHz FLAC; Processed with iZotope click removal on loud claps, spectral attenuation of audience noise, plus EQ and maximizer in Ozone, and Audacity [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -518,7 +518,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -534,8 +534,16 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Nakamichi cardioids recorded at 96kHz, processed with Izotope and Ozone, saved as 24-bit FLAC",
-      "type": "sound"
+      "text": "Recorded with Nakamichi CM-300 cardioid microphones into a Roland R07 at 96kHz/24-bit, then finalized as 24-bit 48kHz FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2022-05-21.AUD",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Processed with iZotope click removal on loud claps, spectral attenuation of audience noise, plus EQ and maximizer in Ozone, and Audacity",
+      "type": "lineage"
      }
     ],
     "format": "liner-3",
@@ -543,24 +551,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": null,
+   "parent_revision": 1,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "05c39fb9e12c8a5d5ff7aba1f971e6d376d2ba79066d45678aab7b9866429621",
-    "generated_at": "2026-10-24T21:30:21.057762+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "2501c0c451adfa83bd89c23e89c42cfbeebbf880dfad5a66b0053c6a7214ad55",
+    "generated_at": "2026-10-25T23:14:05.849364+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "cfde0e0d98934b161494b9e17fcb6bd8fe46a899a8d34b8d795cffa2eaaff407",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.1
+    "seconds": 3.8
    },
-   "revision": 1,
-   "signature": "5o9jOg2Z2F9veqMtwMkTbjBbJLf-kkVf53wXh6DQVELO9KdgDv96mMec0lCy5wZYRQCsN_-LTEq4ycakLmxdAQ",
+   "revision": 2,
+   "signature": "Hue_VdmCmltLHg_5IPwL_yIuFnyhjupu_GuKdQQ6fnR6Q1Cig3hdpEJJwjqvNo64rVXOsZ7XeNZTjQy_SQPJBQ",
    "subject_key": "live:mountain-goats:2022-05-21:the-sylvee-madison-wi",
-   "updated_at": "2026-10-24T21:30:21.058860"
+   "updated_at": "2026-10-25T23:14:05.851237"
   }
  },
  "recommended": {

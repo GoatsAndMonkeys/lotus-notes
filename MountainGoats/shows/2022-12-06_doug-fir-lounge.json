@@ -597,7 +597,7 @@
    "updated_at": "2026-10-24T22:01:49.937318"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **I Will Grab You by the Ears**: rare: 4 archived performances [3]\n- **Sinaloan Milk Snake Song**: back after 32 archived shows (438 days); rare: 8 archived performances [3]\n- **Against Pollution**: back after 38 archived shows (446 days) [3]\n- **Romans 10 9**: back after 108 archived shows (1845 days) [3]\n- **Onions**: back after 39 archived shows (453 days) [3]\n- **An Antidote for Strychnine**: back after 65 archived shows (1181 days); rare: 12 archived performances [3]\n- **Enoch 18 14**: back after 33 archived shows (439 days) [3]\n- **1 John 4 16**: rare: 6 archived performances [3]\n\n## The recordings\n\n- **tMG2022-12-06** (recommended): soundboard; 25 songs; 104 min [1]\n- **tmg2022-12-06.mv88**: source not stated; 26 songs; 103 min [2]. Said about its sound: Audio processed in REAPER with EQ, multiband, and Ozone plugins [2]\n\n## Around the show\n\n- Stage talk about: No Children, keyboard transition, Strychnine [1]\n\n## Tapers and lineage\n\n- **tMG2022-12-06**: taped by @LMGBTapes on tweeter; transferred by @LMGBTapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > dr680mkii + KM184s (clamped to sound cage railing DFC PAS) > dr680mkii [1]\n- **tmg2022-12-06.mv88**: source: Shure MV88 (cardioid) > WAV (24/48) [2]. Also: Recorded using a Shure MV88 microphone positioned near the left PA [2]",
+   "body_md": "## Setlist highlights\n\n- **I Will Grab You by the Ears**: rare: 4 archived performances [3]\n- **Sinaloan Milk Snake Song**: back after 32 archived shows (438 days); rare: 8 archived performances [3]\n- **Against Pollution**: back after 38 archived shows (446 days) [3]\n- **Romans 10 9**: back after 107 archived shows (1845 days) [3]\n- **Onions**: back after 39 archived shows (453 days) [3]\n- **An Antidote for Strychnine**: back after 65 archived shows (1181 days); rare: 12 archived performances [3]\n- **Enoch 18 14**: back after 33 archived shows (439 days) [3]\n- **1 John 4 16**: rare: 6 archived performances [3]\n\n## The recordings\n\n- **tMG2022-12-06** (recommended): soundboard; 25 songs; 104 min [1]\n- **tmg2022-12-06.mv88**: source not stated; 26 songs; 103 min [2]\n\n## Around the show\n\n- Stage talk about: No Children, keyboard transition, Strychnine [1]\n- The taper positioned the microphone about six feet in front of the left PA speaker [2]\n\n## Tapers and lineage\n\n- **tMG2022-12-06**: taped by @LMGBTapes on tweeter; transferred by @LMGBTapes on tweeter; source: SBD [Engineer: Brandon Eggleston] > dr680mkii + KM184s (clamped to sound cage railing DFC PAS) > dr680mkii [1]\n- **tmg2022-12-06.mv88**: source: Shure MV88 (cardioid) > WAV (24/48) [2]. Also: Recorded with a cardioid Shure MV88 microphone, captured as 24-bit/48 kHz WAV; Processed in REAPER with EQ, multiband compression and Ozone, then saved as 24/48 FLAC [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -648,7 +648,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -664,7 +664,7 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Recorded using a Shure MV88 microphone positioned near the left PA",
+      "text": "Recorded with a cardioid Shure MV88 microphone, captured as 24-bit/48 kHz WAV",
       "type": "lineage"
      },
      {
@@ -672,8 +672,16 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Audio processed in REAPER with EQ, multiband, and Ozone plugins",
-      "type": "sound"
+      "text": "Processed in REAPER with EQ, multiband compression and Ozone, then saved as 24/48 FLAC",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "The taper positioned the microphone about six feet in front of the left PA speaker",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -681,24 +689,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "9139a25eef985f9b2bb4437ade12d7571809695d29f9e03287b94d583f22cc42",
-    "generated_at": "2026-10-24T21:17:06.476444+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "cfc84fd1b336d9b769a324468114dea8c38e269381b47792a2df46ab9dfb2725",
+    "generated_at": "2026-10-25T23:13:56.608070+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "34486e7ddf806dcd40332408adb2d6155fb9549a02c1bef45a64c88bd5f9ee13",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 12.9
+    "seconds": 4.9
    },
-   "revision": 2,
-   "signature": "s7DX7CGy8rxYFCwtWftQPGzUuX2jtsgBxU3j70uBGG7yFf5RhJWW1UiKJ9HxLJiowfRXU3xXJlaxPJdb9ch1Bg",
+   "revision": 3,
+   "signature": "oX2dzE_7JfwujyQa-ebuk-C2Dz7TlbfkJ7ECyTvc1Wo6mJLq7P7bwx-guCNP_j-mMNyACD95WblJ2lNg8ushDg",
    "subject_key": "live:mountain-goats:2022-12-06:doug-fir-lounge",
-   "updated_at": "2026-10-24T21:17:06.483780"
+   "updated_at": "2026-10-25T23:13:56.609754"
   }
  },
  "recommended": {

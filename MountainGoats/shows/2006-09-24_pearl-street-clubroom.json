@@ -350,7 +350,7 @@
    "updated_at": "2026-10-24T22:01:49.181280"
   },
   "liner": {
-   "body_md": "## What listeners single out\n\n- **Game Shows Touch Our Lives** (1 review): Interesting accompaniment is heard toward the end of this specific track [2]\n- **Get Lonely** (1 review): Listener claims to hear John nod out during the performance of this song [2]\n\n## Setlist highlights\n\n- **Half Dead**: rare: 9 archived performances [3]\n- **If You See Light**: earliest performance in the archive; rare: 4 archived performances [3]\n- **Alpha Double Negative: Going to Catalina**: rare: 12 archived performances [3]\n\n## The recordings\n\n- **tmg2006-09-24** (recommended): source not stated; 15 songs; 61 min; rated 4/5 by 1 [1]. Said about its sound: Audio is bass-heavy and muffled, possibly due to room acoustics, with a neat binaural effect [2]\n\n## Tapers and lineage\n\n- **tmg2006-09-24**: taped by Peter Sohriakoff; source: Core Sound Binaurial Microphones (CSB's) > Sony Hi-MD MZ-RH10 (1.4mbps PCM ) [1]",
+   "body_md": "## What listeners single out\n\n- **Game Shows Touch Our Lives** (1 review): Some interesting accompaniment can be heard near the end of the song [2]\n\n## Setlist highlights\n\n- **Half Dead**: rare: 9 archived performances [3]\n- **If You See Light**: earliest performance in the archive; rare: 4 archived performances [3]\n- **Alpha Double Negative: Going to Catalina**: rare: 12 archived performances [3]\n\n## The recordings\n\n- **tmg2006-09-24** (recommended): source not stated; 15 songs; 61 min; rated 4/5 by 1 [1]. Said about its sound: Recording is decent but bass-heavy and muffled, possibly because of the room's acoustics; Has a binaural stereo effect that the reviewer recommends hearing on headphones [2]\n\n## Tapers and lineage\n\n- **tmg2006-09-24**: taped by Peter Sohriakoff; source: Core Sound Binaurial Microphones (CSB's) > Sony Hi-MD MZ-RH10 (1.4mbps PCM ) [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -378,7 +378,7 @@
      "accessed_at": "2026-10-23",
      "author": "jackd",
      "author_url": "https://archive.org/search?query=reviewer%3A%22jackd%22",
-     "claim": "Audio is bass-heavy and muffled, possibly due to room acoustics, with a neat binaural effect",
+     "claim": "Recording is decent but bass-heavy and muffled, possibly because of the room's acoustics",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2007-01-25",
@@ -397,7 +397,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -413,7 +413,15 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Audio is bass-heavy and muffled, possibly due to room acoustics, with a neat binaural effect",
+      "text": "Recording is decent but bass-heavy and muffled, possibly because of the room's acoustics",
+      "type": "sound"
+     },
+     {
+      "recording": "tmg2006-09-24",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Has a binaural stereo effect that the reviewer recommends hearing on headphones",
       "type": "sound"
      },
      {
@@ -421,15 +429,7 @@
       "song": "Game Shows Touch Our Lives",
       "song_key": "song:mountain-goats:game-shows-touch-our-lives",
       "src": 2,
-      "text": "Interesting accompaniment is heard toward the end of this specific track",
-      "type": "song"
-     },
-     {
-      "recording": null,
-      "song": "Get Lonely",
-      "song_key": "song:mountain-goats:get-lonely",
-      "src": 2,
-      "text": "Listener claims to hear John nod out during the performance of this song",
+      "text": "Some interesting accompaniment can be heard near the end of the song",
       "type": "song"
      }
     ],
@@ -438,24 +438,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "3719a6dae351c78893fb48ca05ea065fc4af2606379faf4c02cd34af0556d16f",
-    "generated_at": "2026-10-24T20:53:19.841519+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "9ccf36fc33a8e8ab8a1fa3b46b79c3a65f0ab7329bae56399d30422bd4bc4dcf",
+    "generated_at": "2026-10-25T23:16:37.942883+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "a3041a2cb860495dc68c6072c549faf2ccde4a52caec3e29964b826c145f1b55",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 13.9
+    "seconds": 5.0
    },
-   "revision": 2,
-   "signature": "scdv8R_Hj0DCOO1PDbzaIaueXWI3qrZHh_aPCHf6AqadDhT7G6DnY026JSgkWolX9BixMH-a8c9uTpmmlqlvBw",
+   "revision": 3,
+   "signature": "yRrs1Pw_47E0Yv5ZFxR4CuDTySlB4u7dNWEBHDxqHGo07FmFE9vdKgpN8AHx3aXpQVbi5HapJM9vE258VkEFCQ",
    "subject_key": "live:mountain-goats:2006-09-24:pearl-street-clubroom",
-   "updated_at": "2026-10-24T20:53:19.842505"
+   "updated_at": "2026-10-25T23:16:37.947459"
   }
  },
  "recommended": {

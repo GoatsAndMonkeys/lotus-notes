@@ -196,7 +196,7 @@
    "updated_at": "2026-10-24T22:01:49.104111"
   },
   "liner": {
-   "body_md": "## The recordings\n\n- **tmg2004-05-14** (recommended): source not stated; 3 songs; 13 min; rated 2.5/5 by 2 [1]. Said about its sound: Fully orchestrated live performances are heard in the recording; Listener calls it the most powerful recording of that song ever [1][3]\n\n## Tapers and lineage\n\n- **tmg2004-05-14**: taped by Jimbers [1]. Also: Radio session featuring John, Peter, Erik Friedlander, and John Vanderslice [1]",
+   "body_md": "## The recordings\n\n- **tmg2004-05-14** (recommended): source not stated; 3 songs; 13 min; rated 2.5/5 by 2 [1]\n\n## Around the show\n\n- The recording comes from a radio session tied to The Sunset Tree [1]\n- Performances were live with full orchestration, featuring John, Peter, Erik Friedlander and John Vanderslice [1]\n\n## Tapers and lineage\n\n- **tmg2004-05-14**: taped by Jimbers [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -239,7 +239,6 @@
      "accessed_at": "2026-10-23",
      "author": "thevietz02",
      "author_url": "https://archive.org/search?query=reviewer%3A%22thevietz02%22",
-     "claim": "Listener calls it the most powerful recording of that song ever",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2021-04-23",
@@ -247,7 +246,7 @@
      "site": "Internet Archive",
      "title": "Review: Love Love Love (tmg2004-05-14)",
      "url": "https://archive.org/details/tmg2004-05-14#reviews",
-     "used": true,
+     "used": false,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -258,7 +257,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -270,28 +269,20 @@
    "facts": {
     "claims": [
      {
-      "recording": "tmg2004-05-14",
+      "recording": null,
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Radio session featuring John, Peter, Erik Friedlander, and John Vanderslice",
-      "type": "lineage"
+      "text": "The recording comes from a radio session tied to The Sunset Tree",
+      "type": "scene"
      },
      {
-      "recording": "tmg2004-05-14",
+      "recording": null,
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Fully orchestrated live performances are heard in the recording",
-      "type": "sound"
-     },
-     {
-      "recording": "tmg2004-05-14",
-      "song": null,
-      "song_key": null,
-      "src": 3,
-      "text": "Listener calls it the most powerful recording of that song ever",
-      "type": "sound"
+      "text": "Performances were live with full orchestration, featuring John, Peter, Erik Friedlander and John Vanderslice",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -299,24 +290,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 3,
-    "facts_hash": "092517e5d6d35f41de2c6b995b7ee64a7ee450398f79e6457510a41f51894072",
-    "generated_at": "2026-10-24T21:57:44.103265+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "2794c9a2d180d6b38b345ceaaa874eb7491e90819ec5a836b8e363e8cbce2119",
+    "generated_at": "2026-10-25T23:16:52.025960+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "36134539bcfdf3ebe0e8c9046710bbce57d5f8d7d7d930193bf559f413302a59",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 10.3
+    "seconds": 5.5
    },
-   "revision": 2,
-   "signature": "HRjVaJwz99a7Gg5K-UH6CyTcO3iMLIFGj85BA6qLeNhdTLPKvnqQyJC7ONBgki2d-rplQeQULXy527eybfgzCA",
+   "revision": 3,
+   "signature": "SG0ar7IYF-GKkosw8XFtaBaNvziiPHZ_e5TN5w31tXuhiy6jTwVz0CCdm1lhi8fpfcQknLyctzcI5Cki7-WECw",
    "subject_key": "live:mountain-goats:2005-05-14:npr",
-   "updated_at": "2026-10-24T21:57:44.105612"
+   "updated_at": "2026-10-25T23:16:52.028856"
   }
  },
  "recommended": {

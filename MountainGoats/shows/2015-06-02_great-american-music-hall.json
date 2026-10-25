@@ -476,7 +476,7 @@
    "updated_at": "2026-10-24T22:01:49.516585"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **New Britain**: back after 77 archived shows (2396 days); rare: 7 archived performances [3]\n- **Heights**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Fire Editorial**: rare: 6 archived performances [3]\n- **Blood Capsules**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **MountainGoats2015-06-02.mix.flac16** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 99 min [1]\n- **tmg2015-06-02.gamh**: audience recording; 21 songs; 98 min [2]\n\n## Tapers and lineage\n\n- **MountainGoats2015-06-02.mix.flac16**: taped by anonymous; transferred by BLG; source: [SBD > M10] + [Schoeps CCM4’s (8’ up, board area) > Tinybox > M10] => FLAC [1]. Also: Audio processed via Adobe Audition, iZotope Ozone 5, WavePad, and xACT for final FLAC output [1]\n- **tmg2015-06-02.gamh**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
+   "body_md": "## Setlist highlights\n\n- **New Britain**: back after 77 archived shows (2396 days); rare: 7 archived performances [3]\n- **Heights**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Fire Editorial**: rare: 6 archived performances [3]\n- **Blood Capsules**: rare: 8 archived performances [3]\n\n## The recordings\n\n- **MountainGoats2015-06-02.mix.flac16** (recommended): matrix (soundboard mixed with audience mics); 21 songs; 99 min [1]\n- **tmg2015-06-02.gamh**: audience recording; 21 songs; 98 min [2]\n\n## Tapers and lineage\n\n- **MountainGoats2015-06-02.mix.flac16**: taped by anonymous; transferred by BLG; source: [SBD > M10] + [Schoeps CCM4’s (8’ up, board area) > Tinybox > M10] => FLAC [1]. Also: Two sources were combined: a soundboard feed and a Schoeps CCM4 microphone recording, both captured through an M10 recorder; The mics were placed about eight feet up in the board area, running through a Tinybox into the M10; Mastering used Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 processing, WavePad tracking, xACT tagging, and FLAC encoding [1]\n- **tmg2015-06-02.gamh**: taped by The Annotated Mountain Goats; source: Audience recording [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -534,7 +534,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -550,7 +550,23 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Audio processed via Adobe Audition, iZotope Ozone 5, WavePad, and xACT for final FLAC output",
+      "text": "Two sources were combined: a soundboard feed and a Schoeps CCM4 microphone recording, both captured through an M10 recorder",
+      "type": "lineage"
+     },
+     {
+      "recording": "MountainGoats2015-06-02.mix.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The mics were placed about eight feet up in the board area, running through a Tinybox into the M10",
+      "type": "lineage"
+     },
+     {
+      "recording": "MountainGoats2015-06-02.mix.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastering used Adobe Audition for edits, alignment and mixdown, then iZotope Ozone 5 processing, WavePad tracking, xACT tagging, and FLAC encoding",
       "type": "lineage"
      }
     ],
@@ -559,24 +575,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "eca7374e160f3b289b9444039992950b4a7590a7edbba8593e4afcb8f651df9d",
-    "generated_at": "2026-10-24T21:11:56.311537+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "7b9e6b9f75949149f5a943d5db0710ca7ff1d7c9b99e3df4c080f17444dde2ae",
+    "generated_at": "2026-10-25T23:15:43.671392+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "9c94e0ad76411fd544a36dfd3b4a2484d66cc69392a84be5862320bc7f60f04a",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 15.9
+    "seconds": 5.8
    },
-   "revision": 2,
-   "signature": "d4QLzPTteKbak2ZISNHFNUkwq36wz4YpSgzpoduTXjUteRrAyEEgFFH4a49KRxTAJiSp_HdwtvJKeopb7GedBA",
+   "revision": 3,
+   "signature": "5C62eOs6QM5vuiZ8J_AIPw57kX6SZP56S1TaG6GLcyAjkwtnHhokGHsEwNYD8IBwwThfAEt9prsKbyjAIP_3Ag",
    "subject_key": "live:mountain-goats:2015-06-02:great-american-music-hall",
-   "updated_at": "2026-10-24T21:11:56.312999"
+   "updated_at": "2026-10-25T23:15:43.674042"
   }
  },
  "recommended": {

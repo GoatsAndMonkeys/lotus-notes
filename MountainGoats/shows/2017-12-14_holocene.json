@@ -597,7 +597,7 @@
    "updated_at": "2026-10-24T22:01:49.615634"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Distant Stations**: back after 140 archived shows (3833 days); rare: 4 archived performances [2]\n- **Fresh Berries For You**: back after 231 archived shows (7250 days); rare: 6 archived performances [2]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [2]\n- **The Ultimate Jedi Who Wastes All The Other Jedi And Eats Their Bones**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Minnesota**: back after 47 archived shows (973 days) [2]\n- **Old College Try**: back after 42 archived shows (928 days) [2]\n- **1 Samuel 15 23**: back after 63 archived shows (1643 days) [2]\n- **Dark As A Dungeon**: rare: 9 archived performances [2]\n\n## The recordings\n\n- **tmg2017-12-14** (recommended): source not stated; 31 songs; 107 min [1]\n\n## Tapers and lineage\n\n- **tmg2017-12-14**: taped by LMGBTapes; transferred by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]",
+   "body_md": "## What listeners single out\n\n- **The Ultimate Jedi Who Wastes All The Other Jedi And Eats Their Bones** (1 other source): Listed in the uploader's notes as an unreleased song [1]\n- **Dark As A Dungeon** (1 other source): Cover of a Merle Travis song, listed as unreleased on the uploader's track list [1]\n\n## Setlist highlights\n\n- **Distant Stations**: back after 140 archived shows (3833 days); rare: 4 archived performances [2]\n- **Fresh Berries For You**: back after 229 archived shows (7250 days); rare: 6 archived performances [2]\n- **Maize Stalk Drinking Blood**: rare: 13 archived performances [2]\n- **The Ultimate Jedi Who Wastes All The Other Jedi And Eats Their Bones**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Minnesota**: back after 47 archived shows (973 days) [2]\n- **Old College Try**: back after 42 archived shows (928 days) [2]\n- **1 Samuel 15 23**: back after 63 archived shows (1643 days) [2]\n- **Dark As A Dungeon**: rare: 9 archived performances [2]\n\n## The recordings\n\n- **tmg2017-12-14** (recommended): source not stated; 31 songs; 107 min [1]\n\n## Tapers and lineage\n\n- **tmg2017-12-14**: taped by LMGBTapes; transferred by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -633,7 +633,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -643,30 +643,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "The Ultimate Jedi Who Wastes All The Other Jedi And Eats Their Bones",
+      "song_key": "song:mountain-goats:ultimate-jedi-who-wastes-all-the-other-jedi-and-eats-their-bones",
+      "src": 1,
+      "text": "Listed in the uploader's notes as an unreleased song",
+      "type": "song"
+     },
+     {
+      "recording": null,
+      "song": "Dark As A Dungeon",
+      "song_key": "song:mountain-goats:dark-as-a-dungeon",
+      "src": 1,
+      "text": "Cover of a Merle Travis song, listed as unreleased on the uploader's track list",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2017-12-14:holocene"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "7c9da01bd66c924c2ea1430da97b74843ff2abf00cc34166c0ea66fa05059744",
-    "generated_at": "2026-10-24T20:53:58.030535+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "860a2ac067169ec5ac626d7bcf839d1b086dc6d9a7d44a4c20bd67100bc8b64c",
+    "generated_at": "2026-10-25T23:15:11.632748+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "f5fc2e7ad48f50f769f706a6eb744e979514326d772b850ae99592265e334b27",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 6.5
+    "seconds": 5.5
    },
-   "revision": 2,
-   "signature": "-OlcWpC0_m17IGgeGCOnjpKF-pkX0kvQPDXAnz7Ee9HT3Zhlj6QDsUXWFK6wZT7VEKSEH19MlMQZ0QGi9wNjCA",
+   "revision": 3,
+   "signature": "ks03yl-0aNIEJkkj7ipShRAmQWdZTkdQ2peNQDU8Jirgwy07BzDRv1EWarGm29X-3egBqcNUSy9Kfz5caQrSBA",
    "subject_key": "live:mountain-goats:2017-12-14:holocene",
-   "updated_at": "2026-10-24T20:53:58.031951"
+   "updated_at": "2026-10-25T23:15:11.639432"
   }
  },
  "recommended": {

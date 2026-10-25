@@ -428,7 +428,7 @@
    "updated_at": "2026-10-24T22:01:49.416150"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Pure Gold**: rare: 10 archived performances [2]\n- **Alpha Gelida**: rare: 12 archived performances [2]\n- **Absolute Lithops Effect**: back after 52 archived shows (1555 days); rare: 9 archived performances [2]\n- **Alpha Chum Gatherer**: rare: 4 archived performances [2]\n\n## The recordings\n\n- **mountaingoats2013-06-22.flac16** (recommended): source not stated; 21 songs; 86 min [1]. Said about its sound: Crowd cheering after each song was compressed to prevent sound from bricking [1]\n\n## Tapers and lineage\n\n- **mountaingoats2013-06-22.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony ECM-DS70P > SPSB-11 Batt Box > Sony MZ-M200 [1]",
+   "body_md": "## Setlist highlights\n\n- **Pure Gold**: rare: 10 archived performances [2]\n- **Alpha Gelida**: rare: 12 archived performances [2]\n- **Absolute Lithops Effect**: back after 52 archived shows (1555 days); rare: 9 archived performances [2]\n- **Alpha Chum Gatherer**: rare: 4 archived performances [2]\n\n## The recordings\n\n- **mountaingoats2013-06-22.flac16** (recommended): source not stated; 21 songs; 86 min [1]. Said about its sound: Audience applause between songs was compressed because loud crowd noise repeatedly hit the limit and clipped the recording; The songs themselves largely avoid heavy crowd noise, so they sound less affected by the loud audience [1]\n\n## Around the show\n\n- The crowd was very loud, cheering enthusiastically after each song [1]\n\n## Tapers and lineage\n\n- **mountaingoats2013-06-22.flac16**: taped by ezralite23; transferred by ezralite23; source: Sony ECM-DS70P > SPSB-11 Batt Box > Sony MZ-M200 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -464,7 +464,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -480,8 +480,24 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Crowd cheering after each song was compressed to prevent sound from bricking",
+      "text": "Audience applause between songs was compressed because loud crowd noise repeatedly hit the limit and clipped the recording",
       "type": "sound"
+     },
+     {
+      "recording": "mountaingoats2013-06-22.flac16",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The songs themselves largely avoid heavy crowd noise, so they sound less affected by the loud audience",
+      "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The crowd was very loud, cheering enthusiastically after each song",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -489,24 +505,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 1,
-    "facts_hash": "13f55ade09e759d08604e78ea1c9780842353139978cd6c24845be7636bc05cb",
-    "generated_at": "2026-10-24T21:25:08.232552+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "f5c05b22e51b7ebdde483974ad8b05096a28bb54ddea8ebfa2ef5ae801aee047",
+    "generated_at": "2026-10-25T23:15:50.254403+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "80d66e5b8d399916d56a1c86183bd11e5a15687c18f2f54eeff06409b59570ff",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.0
+    "seconds": 3.5
    },
-   "revision": 2,
-   "signature": "H5VZsWIaopULI_OqzrcDIISRMV7REqKKwjyU4JyGAQ4WZ21VXmabRqS2PD_IhrNEOLDUDYUmx0THv7zHu4IhCg",
+   "revision": 3,
+   "signature": "FpUN-ilVnPLgCOKNX7eD9IkOGer0RROM3hJuQ4Gcp7QuAP9AG6PFawrRKbX9IdnIft4Y6gZJfq3OfdmQ7BNzBg",
    "subject_key": "live:mountain-goats:2013-06-22:bottletree",
-   "updated_at": "2026-10-24T21:25:08.233730"
+   "updated_at": "2026-10-25T23:15:50.258590"
   }
  },
  "recommended": {

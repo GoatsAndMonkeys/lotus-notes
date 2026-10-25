@@ -468,7 +468,7 @@
    "updated_at": "2026-10-24T22:01:50.065937"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Going to Bristol**: back after 142 archived shows (2064 days); rare: 7 archived performances [2]\n- **Song for Lonely Giants**: back after 123 archived shows (1685 days) [2]\n- **Ontario**: back after 78 archived shows (813 days); rare: 9 archived performances [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n- **Guys on Every Corner**: rare: 14 archived performances [2]\n\n## The recordings\n\n- **tmg2023-12-08** (recommended): source not stated; 21 songs; 89 min [1]\n\n## Tapers and lineage\n\n- **tmg2023-12-08**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
+   "body_md": "## Setlist highlights\n\n- **Going to Bristol**: back after 141 archived shows (2064 days); rare: 7 archived performances [2]\n- **Song for Lonely Giants**: back after 122 archived shows (1685 days) [2]\n- **Ontario**: back after 78 archived shows (813 days); rare: 9 archived performances [2]\n- **Cleaning Crew**: rare: 13 archived performances [2]\n- **Only One Way**: rare: 12 archived performances [2]\n- **Guys on Every Corner**: rare: 14 archived performances [2]\n\n## The recordings\n\n- **tmg2023-12-08** (recommended): source not stated; 21 songs; 89 min [1]\n\n## Around the show\n\n- The Homer Center for the Arts date fell between a Buffalo show on 7 December and a 10 December date at Thunderbird Music Hall [3]\n- The 7 December Buffalo show is available separately under its own archive.org identifier [1]\n\n## Tapers and lineage\n\n- **tmg2023-12-08**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]. Also: The uploader first posted the 7 December show under this identifier by mistake, then corrected it to the Homer show [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -504,7 +504,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -516,6 +516,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "The Homer Center for the Arts date fell between a Buffalo show on 7 December and a 10 December date at Thunderbird Music Hall",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -523,7 +524,7 @@
      "site": "themountaingoats.fandom.com",
      "title": "Only One Way - The Mountain Goats Wiki - Fandom",
      "url": "https://themountaingoats.fandom.com/wiki/Only_One_Way",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -544,30 +545,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tmg2023-12-08",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The uploader first posted the 7 December show under this identifier by mistake, then corrected it to the Homer show",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The 7 December Buffalo show is available separately under its own archive.org identifier",
+      "type": "compare"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "The Homer Center for the Arts date fell between a Buffalo show on 7 December and a 10 December date at Thunderbird Music Hall",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-12-08:center-for-the-arts"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "02773ee8ada7bde8f2a312b59d02a9b3722d51853b3c2d338b9ba8766f9c5831",
-    "generated_at": "2026-10-24T21:49:25.527516+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "24269367a027022079f390e73128263ef302e70be58987572f10d277c437d580",
+    "generated_at": "2026-10-25T23:13:27.368164+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "368a75ae3b374c76d28422add00f5c52b261ef8517f3ad9d38e4ed7cd6107a87",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.5
+    "seconds": 5.9
    },
-   "revision": 2,
-   "signature": "6f2gDBDZq888QD5t40cwAHtlij4VREuKld4R8nY4ZKoy4174_nax6av8QuIQVEYIO8L0oCjSb71exm1UCQOZAg",
+   "revision": 3,
+   "signature": "stf8snQQZISoVG9y0Y7aF_gNWb3JKkivdDLulUZe_xaTbYRSKMBV2enoltKnfpuoBbbrjASueURu4vtfRXMvDw",
    "subject_key": "live:mountain-goats:2023-12-08:center-for-the-arts",
-   "updated_at": "2026-10-24T21:49:25.528634"
+   "updated_at": "2026-10-25T23:13:27.371471"
   }
  },
  "recommended": {

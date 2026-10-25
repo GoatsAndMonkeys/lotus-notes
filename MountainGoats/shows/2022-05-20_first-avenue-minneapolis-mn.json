@@ -479,7 +479,7 @@
    "updated_at": "2026-10-24T22:01:49.884489"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Choked Out**: rare: 9 archived performances [3]\n- **Song for My Stepfather**: back after 45 archived shows (980 days); rare: 11 archived performances [3]\n- **Mourn Not The Dead**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Rain in Soho**: back after 44 archived shows (965 days) [3]\n\n## The recordings\n\n- **tmg2022-05-20.SBDMatrix** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 121 min [1]. Said about its sound: Izotope removed loud claps and attenuated audience noise during processing [1]\n\n## Tapers and lineage\n\n- **tmg2022-05-20.SBDMatrix**: taped by roffels; source: Soundboard Nakamichi CM 300 matrix [1]. Also: Nakamichi CM-300 cardioids recorded to Roland R07 at 96kHz 24-bit; Final output is FLAC 24-bit 48kHz with synced tracks in Vegas 14 [1]\n\n## Art and photos\n\n- Fan art by First Avenue: [the Mountain Goats ★ First Avenue - First Avenue](https://first-avenue.com/event/2022-05-the-mountain-goats/) [4]",
+   "body_md": "## Setlist highlights\n\n- **Choked Out**: rare: 9 archived performances [3]\n- **Song for My Stepfather**: back after 45 archived shows (980 days); rare: 11 archived performances [3]\n- **Mourn Not The Dead**: earliest performance in the archive; legendary: the only archived performance [3]\n- **Rain in Soho**: back after 44 archived shows (965 days) [3]\n\n## The recordings\n\n- **tmg2022-05-20.SBDMatrix** (recommended): matrix (soundboard mixed with audience mics); 23 songs; 121 min [1]. Said about its sound: Iz0tope was used to remove clicks from loud claps and to attenuate audience noise spectrally; final files are FLAC 24-bit 48kHz [1]\n\n## Around the show\n\n- Taping was permitted by First Avenue and the Mountain Goats, with help from Ryan Matteson and Brandon Eggleston [1]\n\n## Tapers and lineage\n\n- **tmg2022-05-20.SBDMatrix**: taped by roffels; source: Soundboard Nakamichi CM 300 matrix [1]. Also: Recorded with Nakamichi CM-300 cardioid microphones into a Roland R07 at 96kHz/24-bit, with tracks synced in Vegas 14 [1]\n\n## Art and photos\n\n- Fan art by First Avenue: [the Mountain Goats ★ First Avenue - First Avenue](https://first-avenue.com/event/2022-05-the-mountain-goats/) [4]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -525,7 +525,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -557,7 +557,7 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Nakamichi CM-300 cardioids recorded to Roland R07 at 96kHz 24-bit",
+      "text": "Recorded with Nakamichi CM-300 cardioid microphones into a Roland R07 at 96kHz/24-bit, with tracks synced in Vegas 14",
       "type": "lineage"
      },
      {
@@ -565,16 +565,16 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Izotope removed loud claps and attenuated audience noise during processing",
+      "text": "Iz0tope was used to remove clicks from loud claps and to attenuate audience noise spectrally; final files are FLAC 24-bit 48kHz",
       "type": "sound"
      },
      {
-      "recording": "tmg2022-05-20.SBDMatrix",
+      "recording": null,
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Final output is FLAC 24-bit 48kHz with synced tracks in Vegas 14",
-      "type": "lineage"
+      "text": "Taping was permitted by First Avenue and the Mountain Goats, with help from Ryan Matteson and Brandon Eggleston",
+      "type": "scene"
      }
     ],
     "format": "liner-3",
@@ -582,24 +582,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "344b27f76aecb43962d1040b6f2fc9d5c5217bb28bad018af1479c0547ab77c5",
-    "generated_at": "2026-10-24T20:54:12.723535+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "5dc0e22dc95a5ec18859ff406db7743aba08609e0fa093638d8d16876d376a09",
+    "generated_at": "2026-10-25T23:14:06.181421+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "648dc74b797a9f8a52e7a5e623dc2b2afedc4a6548fc4b87870ca28826e7a5df",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 14.3
+    "seconds": 3.6
    },
-   "revision": 2,
-   "signature": "u2Tkw67t8zPV48vgpJFVMmLxPoi_ZjjxF4307UDgZDwyEl03PtJxryABOnjWcjaw2O_LbeWHcbvD3flafsLLBA",
+   "revision": 3,
+   "signature": "AgCn3Yr__mZ8vrt0Y3r4kAGsdseSW5P2caJ_a9ViWAIHj9EAnfCL4fLKdtRUsQ96X0Bsb16eysVpn9wN2ZPEAQ",
    "subject_key": "live:mountain-goats:2022-05-20:first-avenue-minneapolis-mn",
-   "updated_at": "2026-10-24T20:54:12.725289"
+   "updated_at": "2026-10-25T23:14:06.183311"
   }
  },
  "recommended": {

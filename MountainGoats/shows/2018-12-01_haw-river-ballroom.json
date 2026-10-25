@@ -461,7 +461,7 @@
    "updated_at": "2026-10-24T22:01:49.685806"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **The Band Takes The Stage**: back after 42 archived shows (766 days); mythic rare: 2 archived performances [3]\n\n## The recordings\n\n- **tmg2018-12-01.saxapahaw** (recommended): source not stated; 22 songs; 92 min; rated 5/5 by 1 [1]\n\n## Around the show\n\n- The reviewer stood next to James during the recording session [2]\n\n## Tapers and lineage\n\n- **tmg2018-12-01.saxapahaw**: taped by jcrva [1]. Also: James recorded the show, balancing crowd and band audio effectively [2]",
+   "body_md": "## Setlist highlights\n\n- **The Band Takes The Stage**: back after 42 archived shows (766 days); mythic rare: 2 archived performances [3]\n\n## The recordings\n\n- **tmg2018-12-01.saxapahaw** (recommended): source not stated; 22 songs; 92 min; rated 5/5 by 1 [1]. Said about its sound: Recording balances crowd sound and band sound well, letting listeners hear audience voices alongside the band [2]\n\n## Tapers and lineage\n\n- **tmg2018-12-01.saxapahaw**: taped by jcrva [1]. Also: James recorded this show; the reviewer stood next to him during taping [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -489,7 +489,7 @@
      "accessed_at": "2026-10-23",
      "author": "m0thmans",
      "author_url": "https://archive.org/search?query=reviewer%3A%22m0thmans%22",
-     "claim": "James recorded the show, balancing crowd and band audio effectively",
+     "claim": "Recording balances crowd sound and band sound well, letting listeners hear audience voices alongside the band",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2019-04-13",
@@ -508,7 +508,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -524,16 +524,16 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "James recorded the show, balancing crowd and band audio effectively",
-      "type": "lineage"
+      "text": "Recording balances crowd sound and band sound well, letting listeners hear audience voices alongside the band",
+      "type": "sound"
      },
      {
-      "recording": null,
+      "recording": "tmg2018-12-01.saxapahaw",
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "The reviewer stood next to James during the recording session",
-      "type": "scene"
+      "text": "James recorded this show; the reviewer stood next to him during taping",
+      "type": "lineage"
      }
     ],
     "format": "liner-3",
@@ -541,24 +541,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 2,
-    "facts_hash": "5a0937c1c8ef3d614986d2c02c13591db7389039470536c3d7a6cea4a36ae119",
-    "generated_at": "2026-10-24T21:38:02.958050+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "8ca80d7a52706fe75705abb8be515e0c2239da31319ec7f5b66b48bab6510e4f",
+    "generated_at": "2026-10-25T23:14:57.407060+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "35d30b91848785d421d5564ef74828735cf8420bfaf8d0d4897fde0b1a3b42b8",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 9.3
+    "seconds": 4.3
    },
-   "revision": 2,
-   "signature": "acdRHNOfL09kR_aGfc6BU0Qy0HISWKXdVhumHRBnKw7I1XQDQuTdw5Ufx1aLfSlZwQCAiwUgtA4WeJQ9s90sBA",
+   "revision": 3,
+   "signature": "yqCVSryH4_o8hC39ls5Qxx8RmwJZD0GTv7Fq3IPXar0LTrqjB4KVEx2Ly98n0quYUPmNVaIjly0oBgrjPvMOCw",
    "subject_key": "live:mountain-goats:2018-12-01:haw-river-ballroom",
-   "updated_at": "2026-10-24T21:38:02.964338"
+   "updated_at": "2026-10-25T23:14:57.410951"
   }
  },
  "recommended": {

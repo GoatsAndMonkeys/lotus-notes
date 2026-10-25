@@ -347,7 +347,7 @@
    "updated_at": "2026-10-24T22:01:49.026216"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Furry's Blues (Furry Lewis)**: earliest performance in the archive; legendary: the only archived performance [4]\n- **FM**: rare: 4 archived performances [4]\n- **Balance**: rare: 5 archived performances [4]\n- **You're In Maya**: rare: 9 archived performances [4]\n- **Poltergeist**: rare: 10 archived performances [4]\n- **Chanson Du Bon Chose**: rare: 11 archived performances [4]\n\n## The recordings\n\n- **tmg2003-06-06.shnf** (recommended): source not stated; 14 songs; 41 min; rated 3/5 by 2 [1]. Said about its sound: Recording has good quality but includes annoying crowd chatter; Sound quality is disastrous due to excessive crowd chatter [2][3]\n\n## Tapers and lineage\n\n- **tmg2003-06-06.shnf**: taped by Dan Lang; source: SR-71's > DMic20 > DA-P1 [1]",
+   "body_md": "## Setlist highlights\n\n- **Furry's Blues (Furry Lewis)**: earliest performance in the archive; legendary: the only archived performance [4]\n- **FM**: rare: 4 archived performances [4]\n- **Balance**: rare: 5 archived performances [4]\n- **You're In Maya**: rare: 9 archived performances [4]\n- **Poltergeist**: rare: 10 archived performances [4]\n- **Chanson Du Bon Chose**: rare: 11 archived performances [4]\n\n## The recordings\n\n- **tmg2003-06-06.shnf** (recommended): source not stated; 14 songs; 41 min; rated 3/5 by 2 [1]. Said about its sound: Recording quality is good, though audience chatter can be irritating; Crowd chatter makes the sound quality disastrous, so the reviewer warns against getting it for its rating [2][3]\n\n## Around the show\n\n- Includes some rare songs [2]\n\n## Tapers and lineage\n\n- **tmg2003-06-06.shnf**: taped by Dan Lang; source: SR-71's > DMic20 > DA-P1 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -375,7 +375,7 @@
      "accessed_at": "2026-10-23",
      "author": "silex7",
      "author_url": "https://archive.org/search?query=reviewer%3A%22silex7%22",
-     "claim": "Recording has good quality but includes annoying crowd chatter",
+     "claim": "Recording quality is good, though audience chatter can be irritating",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2005-01-25",
@@ -391,7 +391,7 @@
      "accessed_at": "2026-10-23",
      "author": "fsf",
      "author_url": "https://archive.org/search?query=reviewer%3A%22fsf%22",
-     "claim": "Sound quality is disastrous due to excessive crowd chatter",
+     "claim": "Crowd chatter makes the sound quality disastrous, so the reviewer warns against getting it for its rating",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2006-03-08",
@@ -410,7 +410,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -426,15 +426,23 @@
       "song": null,
       "song_key": null,
       "src": 2,
-      "text": "Recording has good quality but includes annoying crowd chatter",
+      "text": "Recording quality is good, though audience chatter can be irritating",
       "type": "sound"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Includes some rare songs",
+      "type": "compare"
      },
      {
       "recording": "tmg2003-06-06.shnf",
       "song": null,
       "song_key": null,
       "src": 3,
-      "text": "Sound quality is disastrous due to excessive crowd chatter",
+      "text": "Crowd chatter makes the sound quality disastrous, so the reviewer warns against getting it for its rating",
       "type": "sound"
      }
     ],
@@ -443,24 +451,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 2,
-    "facts_hash": "753b35ce27e07b08cf9ef25f4ecab484dbe24388cf0808834c5a8b410a7320cf",
-    "generated_at": "2026-10-24T20:46:33.082851+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "ba9ab2b0b2b2c0072c009ced47ecccecaef8720d599ffb1b0e52e278dd57f31b",
+    "generated_at": "2026-10-25T23:17:00.602334+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "f41f1012c75e577a0bd7f9ffe8b25bbdca7b0ef544545e2c6f340e41ddf5dfe5",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 8.6
+    "seconds": 3.7
    },
-   "revision": 2,
-   "signature": "UlJnxABoKj9ABMJzzS4OhpA_YeLlwQS2Q2-C9hqf147UHglaZF20dJDDwIcJ4WTBmE3JZ6X0BIQLYBi-GI-PCQ",
+   "revision": 3,
+   "signature": "RwF43Wj_aas5UGew6GWLoALu55EJ_UFx0FPfdaQyTSLOKM88DqP9yBY0kK8GhECJBi0x4ZBtshQMciCFz2qqAQ",
    "subject_key": "live:mountain-goats:2003-06-06:triple-rock-social-club",
-   "updated_at": "2026-10-24T20:46:33.083597"
+   "updated_at": "2026-10-25T23:17:00.606035"
   }
  },
  "recommended": {

@@ -442,7 +442,7 @@
    "updated_at": "2026-10-24T22:01:49.945599"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Some Swedish Trees**: back after 99 archived shows (1722 days) [2]\n- **Blueberry Frost**: back after 113 archived shows (1917 days); rare: 12 archived performances [2]\n- **My Favorite Things**: back after 200 archived shows (4328 days); rare: 13 archived performances [2]\n- **Narakaloka**: back after 37 archived shows (511 days); rare: 13 archived performances [2]\n\n## The recordings\n\n- **tmg2023-02-12** (recommended): source not stated; 21 songs; 84 min [1]\n\n## Tapers and lineage\n\n- **tmg2023-02-12**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
+   "body_md": "## What listeners single out\n\n- **My Favorite Things** (1 other source): The uploader's track list marks this song as unreleased, with no album listed [1]\n\n## Setlist highlights\n\n- **Some Swedish Trees**: back after 98 archived shows (1722 days) [2]\n- **Blueberry Frost**: back after 112 archived shows (1917 days); rare: 12 archived performances [2]\n- **My Favorite Things**: back after 199 archived shows (4328 days); rare: 13 archived performances [2]\n- **Narakaloka**: back after 37 archived shows (511 days); rare: 13 archived performances [2]\n\n## The recordings\n\n- **tmg2023-02-12** (recommended): source not stated; 21 songs; 84 min [1]\n\n## Tapers and lineage\n\n- **tmg2023-02-12**: taped by Liz Hamilton; transferred by Liz Hamilton; source: Zoom H1 Handy Recorder [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -478,7 +478,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -488,30 +488,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": "My Favorite Things",
+      "song_key": "song:mountain-goats:my-favorite-things",
+      "src": 1,
+      "text": "The uploader's track list marks this song as unreleased, with no album listed",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-02-12:skullys-music-diner"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "05b28bc42e5c23d23a14a5a2569a76510989541126b8087bd2883bdb2da90490",
-    "generated_at": "2026-10-24T21:42:15.968407+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "19ed3520f6fc2d8e1667cba72ad2181c32f71dcc5f00a2f05223d926e228e623",
+    "generated_at": "2026-10-25T23:13:54.535619+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "87415623a455acf5e95a81ae73d70b9661d15da03f1b493619abbeee7cc0dc73",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.7
+    "seconds": 4.6
    },
-   "revision": 2,
-   "signature": "wCfQmERMe-UKpojn_kfCIgqnaCY3Pf39pExK58BksOfNl-btZz2DFs6eEhN_s-dFdy9jW1_S_3HzWh6MakvFCw",
+   "revision": 3,
+   "signature": "zMv6MbjY2g_MkPzIOHRBhsLqMmm0K-siihpidXfWeKXi9ZpvGNzc0-5RhtKKaWhkYxRi4qI96qkuSDQfZPKbAw",
    "subject_key": "live:mountain-goats:2023-02-12:skullys-music-diner",
-   "updated_at": "2026-10-24T21:42:15.969298"
+   "updated_at": "2026-10-25T23:13:54.537498"
   }
  },
  "recommended": {

@@ -345,7 +345,7 @@
    "updated_at": "2026-10-24T22:01:49.991052"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **An Antidote for Strychnine**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **tMG2023-06-30** (recommended): matrix (soundboard mixed with audience mics); 14 songs; 63 min [1]\n\n## Around the show\n\n- Stage talk about: No Children, abrupt, skipped a song [1]\n\n## Tapers and lineage\n\n- **tMG2023-06-30**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 Omnis (healy on stage) > CA-Ugly 2 Preamp > PCM-A10 [1]",
+   "body_md": "## Setlist highlights\n\n- **An Antidote for Strychnine**: rare: 12 archived performances [2]\n\n## The recordings\n\n- **tMG2023-06-30** (recommended): matrix (soundboard mixed with audience mics); 14 songs; 63 min [1]\n\n## Around the show\n\n- Stage talk about: No Children, abrupt, skipped a song [1]\n- The Hold Steady headlined this show, so the Mountain Goats were limited to a 60-minute set [1]\n\n## Tapers and lineage\n\n- **tMG2023-06-30**: taped by me; transferred by me; source: SBD > PCM-A10 + CA-14 Omnis (healy on stage) > CA-Ugly 2 Preamp > PCM-A10 [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -381,7 +381,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -406,30 +406,39 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "The Hold Steady headlined this show, so the Mountain Goats were limited to a 60-minute set",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2023-06-30:the-salt-shed"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "0caa2483c7206b6dae84156b79be113fa70bc4bfb956cebb942c795a26cb3c6e",
-    "generated_at": "2026-10-24T21:40:31.884107+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "92f8fe28229ed63b67e248ff59639d1d9551cbb6bdb9b10ec0e4dfaaefaa6938",
+    "generated_at": "2026-10-25T23:13:46.820161+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "9e6f29dd683cbd1a0bb6e143fc5fb6b030d137e5fcfd72c7810cc5846409d2a3",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.3
+    "seconds": 4.6
    },
-   "revision": 2,
-   "signature": "ZLrUpwyVtNfUOmsKOusS5O8oeOfYwIDbht3McgjoW2zeO5TBIkg-xaF7SAFr2b3qjgG7QLioa4waSUAErHutDA",
+   "revision": 3,
+   "signature": "J5vRuEzcwwQArlcKfbq6mxabBdpK4p_vXe8epSJFI-5EQiWphzREzf_RI7gp30hT9SQ3zbfpf5rX6hGxp0l1Bw",
    "subject_key": "live:mountain-goats:2023-06-30:the-salt-shed",
-   "updated_at": "2026-10-24T21:40:31.885201"
+   "updated_at": "2026-10-25T23:13:46.822536"
   }
  },
  "recommended": {

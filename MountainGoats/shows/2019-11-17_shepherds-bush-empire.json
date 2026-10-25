@@ -657,7 +657,7 @@
    "updated_at": "2026-10-24T22:01:49.758539"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **No More Tears**: rare: 8 archived performances [4]\n- **Hebrews 11:40**: rare: 13 archived performances [4]\n- **No I Can't**: back after 72 archived shows (1171 days); rare: 13 archived performances [4]\n- **Magic**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Goblin Wizard in the Crawlspace of my Heart**: earliest performance in the archive; legendary: the only archived performance [4]\n- **We Shall All Be Healed**: back after 82 archived shows (1505 days); mythic rare: 2 archived performances [4]\n- **Waco**: back after 33 archived shows (443 days); rare: 4 archived performances [4]\n- **Waco**: back after 33 archived shows (443 days); rare: 4 archived performances [4]\n\n## The recordings\n\n- **tmg2019-11-17_201911** (recommended): source not stated; 34 songs; 104 min; rated 2/5 by 2 [1]",
+   "body_md": "## Setlist highlights\n\n- **No More Tears**: rare: 8 archived performances [4]\n- **Hebrews 11:40**: rare: 13 archived performances [4]\n- **No I Can't**: back after 71 archived shows (1171 days); rare: 13 archived performances [4]\n- **Magic**: earliest performance in the archive; legendary: the only archived performance [4]\n- **Goblin Wizard in the Crawlspace of my Heart**: earliest performance in the archive; legendary: the only archived performance [4]\n- **We Shall All Be Healed**: back after 81 archived shows (1505 days); mythic rare: 2 archived performances [4]\n- **Waco**: back after 32 archived shows (443 days); rare: 4 archived performances [4]\n- **Waco**: back after 32 archived shows (443 days); rare: 4 archived performances [4]\n\n## The recordings\n\n- **tmg2019-11-17_201911** (recommended): source not stated; 34 songs; 104 min; rated 2/5 by 2 [1]\n\n## Around the show\n\n- Reviewer says the Shepherd's Bush Empire show took place on 2019-11-15, not the 17th [3]\n- Reviewer notes the band had already reached the Netherlands by 16 November [3]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -693,6 +693,7 @@
      "accessed_at": "2026-10-23",
      "author": "souplover13",
      "author_url": "https://archive.org/search?query=reviewer%3A%22souplover13%22",
+     "claim": "Reviewer says the Shepherd's Bush Empire show took place on 2019-11-15, not the 17th",
      "id": 3,
      "kind": "archive_review",
      "published_at": "2025-07-12",
@@ -700,7 +701,7 @@
      "site": "Internet Archive",
      "title": "Review: Date of show (tmg2019-11-17_201911)",
      "url": "https://archive.org/details/tmg2019-11-17_201911#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -711,7 +712,7 @@
      "id": 4,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -721,30 +722,47 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Reviewer says the Shepherd's Bush Empire show took place on 2019-11-15, not the 17th",
+      "type": "scene"
+     },
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "Reviewer notes the band had already reached the Netherlands by 16 November",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2019-11-17:shepherds-bush-empire"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "d77a495899bf867d2d9577bb7a05851e17aa747fd47c7b70aa34b4b19e40bf6a",
-    "generated_at": "2026-10-24T21:15:35.688512+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 2,
+    "facts_hash": "1c4724dc20b7bc8d5e628c999930e340e59d15b11dc339bceae555e6774c93ba",
+    "generated_at": "2026-10-25T23:14:37.350012+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "23f75688e1e2d5c5dd1f8590a08e84471588e13e85effe650f777750fd86f3ab",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 5.7
+    "seconds": 4.2
    },
-   "revision": 2,
-   "signature": "FAok0fu7sC9bN5DfSf3hyobv28ro9xhf9jUezrc9-K0Uo4i0JGCY-B7lv9Ra3TfJ1qaDlrryas3SFiM7t6l4Dw",
+   "revision": 3,
+   "signature": "LsBqPX_COue1AB4MAEH-2cCLfiRFgUtwFZFMpFo7XmRP2TAFEHMrVtI0EHrn4c4d4a3jZWxWXZCzuCNP3eNTAg",
    "subject_key": "live:mountain-goats:2019-11-17:shepherds-bush-empire",
-   "updated_at": "2026-10-24T21:15:35.689640"
+   "updated_at": "2026-10-25T23:14:37.353756"
   }
  },
  "recommended": {

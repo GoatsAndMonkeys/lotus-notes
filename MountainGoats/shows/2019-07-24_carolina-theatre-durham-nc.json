@@ -346,7 +346,7 @@
    "updated_at": "2026-10-24T22:01:49.720310"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **tmg2019-07-24.CA-11.24bit** (recommended): source not stated; 17 songs; 58 min [1]. Said about its sound: Audio underwent de-clicking, normalization, fades, and tilt EQ adjustments before final FLAC encoding [1]\n\n## Around the show\n\n- Band members John Darnielle, Peter Hughes, and Matt Douglass performed at the Merge Records 30th Anniversary Music Festival [1]\n\n## Tapers and lineage\n\n- **tmg2019-07-24.CA-11.24bit**: taped by ManOfStealth; transferred by Dennis Orr; source: CA-11 cardioids > CA battery box > Sony PCM-M10 @ 24 bit/48 kHz [1]. Also: Recorded via cardioids into Sony PCM-M10 at 24-bit/48 kHz, then processed with RX11 and Sound Forge [1]",
+   "body_md": "## Setlist highlights\n\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n- **Chat & Tuning**: earliest performance in the archive; mythic rare: 2 archived performances [2]\n\n## The recordings\n\n- **tmg2019-07-24.CA-11.24bit** (recommended): source not stated; 17 songs; 58 min [1]\n\n## Around the show\n\n- Show was part of the Merge Records 30th Anniversary Music Festival; lineup was Darnielle, Peter Hughes and Matt Douglass on multiple instruments [1]\n\n## Tapers and lineage\n\n- **tmg2019-07-24.CA-11.24bit**: taped by ManOfStealth; transferred by Dennis Orr; source: CA-11 cardioids > CA battery box > Sony PCM-M10 @ 24 bit/48 kHz [1]. Also: Mastered with iZotope RX de-clicking, Sound Forge edits, normalization, fades and tilt EQ, then tracked and converted to FLAC [1]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -382,7 +382,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -398,7 +398,15 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Recorded via cardioids into Sony PCM-M10 at 24-bit/48 kHz, then processed with RX11 and Sound Forge",
+      "text": "Recorded with CA-11 cardioid microphones through a CA battery box into a Sony PCM-M10 at 24-bit/48 kHz",
+      "type": "lineage"
+     },
+     {
+      "recording": "tmg2019-07-24.CA-11.24bit",
+      "song": null,
+      "song_key": null,
+      "src": 1,
+      "text": "Mastered with iZotope RX de-clicking, Sound Forge edits, normalization, fades and tilt EQ, then tracked and converted to FLAC",
       "type": "lineage"
      },
      {
@@ -406,16 +414,8 @@
       "song": null,
       "song_key": null,
       "src": 1,
-      "text": "Band members John Darnielle, Peter Hughes, and Matt Douglass performed at the Merge Records 30th Anniversary Music Festival",
+      "text": "Show was part of the Merge Records 30th Anniversary Music Festival; lineup was Darnielle, Peter Hughes and Matt Douglass on multiple instruments",
       "type": "scene"
-     },
-     {
-      "recording": "tmg2019-07-24.CA-11.24bit",
-      "song": null,
-      "song_key": null,
-      "src": 1,
-      "text": "Audio underwent de-clicking, normalization, fades, and tilt EQ adjustments before final FLAC encoding",
-      "type": "sound"
      }
     ],
     "format": "liner-3",
@@ -423,24 +423,24 @@
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
+    "backend": "claude-cli",
     "claims": 3,
-    "facts_hash": "44ea773c1bb76af7fea70db848fce2d9ca138a4e3a7fd5e2ef8c650f115bcf62",
-    "generated_at": "2026-10-24T22:00:19.949264+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "facts_hash": "879e8cd1fb773b8a787df75661644f3faa1b89638ed30179af1a09247c704fa1",
+    "generated_at": "2026-10-25T23:14:49.092957+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "0b3e89acfcb12bf6ac483efddf212f13c1298f7999073d7100f3dcb98213ebfe",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 16.5
+    "seconds": 8.1
    },
-   "revision": 2,
-   "signature": "LxmBMV34y1qK01qiFvLG4mJeVIZP3o6ACDLgQwXx_64xtE7GoMAuTIU5txlMMpt26LOS8-n7Q6hCVwFcoIOiCA",
+   "revision": 3,
+   "signature": "ChCELeVwKPcEiDLQlqvtGbuqvMZJeB7uGT8K3yfiBzsOfyKV1kT2FIwaqRKRVi55GuMA3pBK-l3eihb5XdbSBg",
    "subject_key": "live:mountain-goats:2019-07-24:carolina-theatre-durham-nc",
-   "updated_at": "2026-10-24T22:00:19.951449"
+   "updated_at": "2026-10-25T23:14:49.097962"
   }
  },
  "recommended": {

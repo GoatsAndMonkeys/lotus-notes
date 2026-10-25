@@ -429,7 +429,7 @@
    "updated_at": "2026-10-24T22:01:49.557247"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Here Come The Goats**: earliest performance in the archive; legendary: the only archived performance [3]\n- **That Hippolytine Feeling**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **'Lil Bants**: earliest performance in the archive; legendary: the only archived performance [3]\n- **High Hawk Season**: back after 25 archived shows (860 days) [3]\n- **Genesis 30 3**: rare: 11 archived performances [3]\n- **bants!!**: earliest performance in the archive; legendary: the only archived performance [3]\n- **You Were Cool**: back after 23 archived shows (563 days) [3]\n- **Babooney Bants**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **tmg2016-10-25** (recommended): source not stated; 21 songs; 50 min; rated 5/5 by 1 [1]\n\n## Tapers and lineage\n\n- **tmg2016-10-25**: taped by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]",
+   "body_md": "## What listeners single out\n\n- **That Hippolytine Feeling** (1 review): Reviewer found the recording while searching for live performances of this song [2]\n\n## Setlist highlights\n\n- **Here Come The Goats**: earliest performance in the archive; legendary: the only archived performance [3]\n- **That Hippolytine Feeling**: earliest performance in the archive; mythic rare: 2 archived performances [3]\n- **'Lil Bants**: earliest performance in the archive; legendary: the only archived performance [3]\n- **High Hawk Season**: back after 25 archived shows (860 days) [3]\n- **Genesis 30 3**: rare: 11 archived performances [3]\n- **bants!!**: earliest performance in the archive; legendary: the only archived performance [3]\n- **You Were Cool**: back after 23 archived shows (563 days) [3]\n- **Babooney Bants**: earliest performance in the archive; legendary: the only archived performance [3]\n\n## The recordings\n\n- **tmg2016-10-25** (recommended): source not stated; 21 songs; 50 min; rated 5/5 by 1 [1]. Said about its sound: Reviewer likes the raw audio quality, hearing the band still finding its footing [2]\n\n## Tapers and lineage\n\n- **tmg2016-10-25**: taped by LMGBTapes; source: Zoom H4n Pro Onboard Mics [1]. Also: Reviewer describes it as the first recording of the Life of the World to Come band lineup, discovered only recently [2]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -457,6 +457,7 @@
      "accessed_at": "2026-10-23",
      "author": "midwestvulture",
      "author_url": "https://archive.org/search?query=reviewer%3A%22midwestvulture%22",
+     "claim": "Reviewer likes the raw audio quality, hearing the band still finding its footing",
      "id": 2,
      "kind": "archive_review",
      "published_at": "2019-07-11",
@@ -464,7 +465,7 @@
      "site": "Internet Archive",
      "title": "Review: Master of the track title (tmg2016-10-25)",
      "url": "https://archive.org/details/tmg2016-10-25#reviews",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     },
@@ -475,7 +476,7 @@
      "id": 3,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -485,30 +486,55 @@
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": "tmg2016-10-25",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer likes the raw audio quality, hearing the band still finding its footing",
+      "type": "sound"
+     },
+     {
+      "recording": "tmg2016-10-25",
+      "song": null,
+      "song_key": null,
+      "src": 2,
+      "text": "Reviewer describes it as the first recording of the Life of the World to Come band lineup, discovered only recently",
+      "type": "lineage"
+     },
+     {
+      "recording": null,
+      "song": "That Hippolytine Feeling",
+      "song_key": "song:mountain-goats:that-hippolytine-feeling",
+      "src": 2,
+      "text": "Reviewer found the recording while searching for live performances of this song",
+      "type": "song"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2016-10-25:etown-hall"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "f37fef6a4994bd1f0faafe336b8b454c7ce78183ac8b678c9cd2f05fabcc7c4c",
-    "generated_at": "2026-10-24T21:20:17.217918+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 3,
+    "facts_hash": "1bd665367b724af207d20672407fb8af80b0122f87daaa74b1165b817ba8ec87",
+    "generated_at": "2026-10-25T23:15:30.623780+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "6ccc7d730dc945fc0500ea65d00d263f8a262ba1ff4205bb69645e0b5934c0ee",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 7.2
+    "seconds": 3.1
    },
-   "revision": 2,
-   "signature": "qPSjX5aP7vcnpjnLv_QlUJc1Ck4V4pmwhi8HU-wiM3ZY-ecJ9aS_z8rZwwr4y2aOVwULMPFmxxROHyUmv6O8CQ",
+   "revision": 3,
+   "signature": "SHxKeRasQxJzE6BTETW6yZrn0jKXHBu1mz9elchqZ_ZT5RoxcBWip7Bt740F0wXiYtbJE6eT3lyhEUqs1uuyBg",
    "subject_key": "live:mountain-goats:2016-10-25:etown-hall",
-   "updated_at": "2026-10-24T21:20:17.219451"
+   "updated_at": "2026-10-25T23:15:30.626982"
   }
  },
  "recommended": {

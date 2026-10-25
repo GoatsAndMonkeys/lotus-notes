@@ -374,7 +374,7 @@
    "updated_at": "2026-10-24T22:01:49.039656"
   },
   "liner": {
-   "body_md": "## Setlist highlights\n\n- **Itzcuintli-Totzli Days**: rare: 10 archived performances [2]\n- **Third Snow Song**: back after 28 archived shows (2000 days); rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2003-10-03.aud.192mp3** (recommended): audience recording; 17 songs; 65 min [1]",
+   "body_md": "## Setlist highlights\n\n- **Itzcuintli-Totzli Days**: rare: 10 archived performances [2]\n- **Third Snow Song**: back after 27 archived shows (2000 days); rare: 4 archived performances [2]\n\n## The recordings\n\n- **tmg2003-10-03.aud.192mp3** (recommended): audience recording; 17 songs; 65 min [1]\n\n## Around the show\n\n- A stage introduction at this show described the next song as a love song concerning a cow [3]",
    "citations": [
     {
      "accessed_at": "2026-10-23",
@@ -398,7 +398,7 @@
      "id": 2,
      "kind": "archive_metadata",
      "published_at": null,
-     "quote_or_claim": "Song statistics computed from 467 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
+     "quote_or_claim": "Song statistics computed from 463 dated shows recorded in this archive.org collection; 'first in archive' means the earliest recording there, not necessarily a debut.",
      "site": "Internet Archive",
      "title": "MountainGoats collection, Live Music Archive",
      "url": "https://archive.org/details/MountainGoats",
@@ -410,6 +410,7 @@
      "accessed_at": "2026-10-23",
      "author": null,
      "author_url": null,
+     "claim": "A stage introduction at this show described the next song as a love song concerning a cow",
      "id": 3,
      "kind": "blog",
      "published_at": null,
@@ -417,36 +418,45 @@
      "site": "themountaingoats.fandom.com",
      "title": "Cheshire County | The Mountain Goats Wiki | Fandom",
      "url": "https://themountaingoats.fandom.com/wiki/Cheshire_County",
-     "used": false,
+     "used": true,
      "wayback_timestamp": null,
      "wayback_url": null
     }
    ],
    "facts": {
-    "claims": [],
+    "claims": [
+     {
+      "recording": null,
+      "song": null,
+      "song_key": null,
+      "src": 3,
+      "text": "A stage introduction at this show described the next song as a love song concerning a cow",
+      "type": "scene"
+     }
+    ],
     "format": "liner-3",
     "show": "live:mountain-goats:2003-10-03:berbatis-pan"
    },
    "key_id": "8S5sc7cJpSpOBVnivFR9tA",
    "kind": "liner",
-   "parent_revision": 1,
+   "parent_revision": 2,
    "provenance": {
     "attempts": 1,
-    "backend": "adhoc",
-    "claims": 0,
-    "facts_hash": "b275678af6c43655979a098611fe4aa276a910e959046a43a1be83e4c3e09a4f",
-    "generated_at": "2026-10-24T21:54:00.397871+00:00",
-    "model": "qwen/qwen3.8-27b",
+    "backend": "claude-cli",
+    "claims": 1,
+    "facts_hash": "ac24c24da5e33b5ce1f3fcbe9b7cffb45691b703aeebab08ccd68f02a3ab3da3",
+    "generated_at": "2026-10-25T23:17:00.267983+00:00",
+    "model": "claude-sonnet-5-5",
     "pipeline": "lotus.notes.liner",
     "prompt_sha256": "c718238b1ebe54cf858ca4d1e17bf7fcb7345fc941402998277440907abe5bb9",
     "prompt_version": "liner-3",
     "rejected": [],
-    "seconds": 3.8
+    "seconds": 4.1
    },
-   "revision": 2,
-   "signature": "yXx9TL-sbEtx55PN4pRqjCg08tbnxUJjMiIm6cLyzQdUvamNtU9uEEyHY_Zl3UMqlA8Qxn3YOesa0dQUgw7rDQ",
+   "revision": 3,
+   "signature": "7Z3y1aNvyDp4n7tRSIN5OwDfQU1NuMEzNKfmzisNohHYBFiAJV_F-lz4rhCmgxoyjiFdFzth1E4LsRKGKsxnAg",
    "subject_key": "live:mountain-goats:2003-10-03:berbatis-pan",
-   "updated_at": "2026-10-24T21:54:00.399093"
+   "updated_at": "2026-10-25T23:17:00.292419"
   }
  },
  "recommended": {
