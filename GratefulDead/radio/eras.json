@@ -1,0 +1,88 @@
+{
+ "artists": [
+  {
+   "collections": [
+    "GratefulDead"
+   ],
+   "leader": "Jerry Garcia",
+   "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+   "name": "Grateful Dead",
+   "presets": [
+    {
+     "blurb": "Live Drums segments only: Bill Kreutzmann and Mickey Hart's percussion (Drums, Drumz, Rhythm Devils, the drums half of Drums > Space), one per show, across the years.",
+     "id": "drums-radio",
+     "name": "Drums Radio",
+     "track_exclude": [
+      "drums of",
+      "of the drums",
+      "beat the drums"
+     ],
+     "track_match": [
+      "drums",
+      "drumz",
+      "rhythm devils"
+     ]
+    },
+    {
+     "blurb": "The primal years with Ron \"Pigpen\" McKernan out front: 1965 to Keith Godchaux's arrival in October 1971.",
+     "id": "pigpen-era",
+     "include": [
+      "live"
+     ],
+     "name": "Pigpen & Primal Dead",
+     "to": "1971-10-18"
+    },
+    {
+     "blurb": "Keith Godchaux on piano, Donna Jean Godchaux singing: October 1971 to February 1979.",
+     "from": "1971-10-19",
+     "id": "keith-donna-era",
+     "include": [
+      "live"
+     ],
+     "name": "Keith & Donna",
+     "to": "1979-02-17"
+    },
+    {
+     "blurb": "October 1971 to the last show before the break, 20 October 1974.",
+     "from": "1971-10-19",
+     "id": "keith-donna-pre-hiatus",
+     "include": [
+      "live"
+     ],
+     "name": "Keith & Donna: before the hiatus",
+     "to": "1974-10-20"
+    },
+    {
+     "blurb": "The return in June 1976 to February 1979.",
+     "from": "1976-06-03",
+     "id": "keith-donna-post-hiatus",
+     "include": [
+      "live"
+     ],
+     "name": "Keith & Donna: after the hiatus",
+     "to": "1979-02-17"
+    },
+    {
+     "blurb": "Brent Mydland on keys: April 1979 to July 1990.",
+     "from": "1979-04-22",
+     "id": "brent-era",
+     "include": [
+      "live"
+     ],
+     "name": "Brent Mydland",
+     "to": "1990-07-23"
+    },
+    {
+     "blurb": "Vince Welnick, with Bruce Hornsby sitting in 1990 to 1992: September 1990 to July 1995.",
+     "from": "1990-09-07",
+     "id": "vince-hornsby-era",
+     "include": [
+      "live"
+     ],
+     "name": "Vince & Hornsby",
+     "to": "1995-07-09"
+    }
+   ]
+  }
+ ]
+}

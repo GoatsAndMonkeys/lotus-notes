@@ -1,0 +1,80 @@
+{
+ "tapers": [
+  {
+   "blurb": "Betty Cantor-Jackson's soundboard reels (the \"Betty Boards\"), every song once before any repeats.",
+   "collection": "GratefulDead",
+   "credit": "Recorded by Betty Cantor-Jackson (the Betty Boards)",
+   "credit_url": "https://archive.org/search?query=collection%3AGratefulDead+AND+%28source%3A%28%2Abetty%2A%29+OR+lineage%3A%28%2Abetty%2A%29%29",
+   "fields": [
+    "taper",
+    "source",
+    "transferer",
+    "lineage"
+   ],
+   "id": "betty-boards",
+   "match": "betty|cantor",
+   "name": "Betty Boards Radio",
+   "offsite": [],
+   "query": "taper:(*betty* OR *cantor*) OR source:(*betty* OR *cantor*) OR transferer:(*betty* OR *cantor*) OR lineage:(*betty* OR *cantor*)",
+   "short": "Betty Boards",
+   "stickers": false
+  },
+  {
+   "blurb": "Charlie Miller's transfers and remasters of Grateful Dead soundboards and matrixes, every song once before any repeats.",
+   "collection": "GratefulDead",
+   "credit": "Transferred and mastered by Charlie Miller",
+   "credit_url": "https://archive.org/search?query=collection%3AGratefulDead+AND+transferer%3A%28%22Charlie+Miller%22%29",
+   "fields": [
+    "taper",
+    "source",
+    "transferer",
+    "lineage"
+   ],
+   "id": "charlie-miller",
+   "match": "charlie ?miller|\\bc\\.? ?miller\\b",
+   "name": "Charlie Miller Radio",
+   "offsite": [],
+   "query": "taper:(\"charlie miller\" OR *cmiller*) OR source:(\"charlie miller\" OR *cmiller*) OR transferer:(\"charlie miller\" OR *cmiller*) OR lineage:(\"charlie miller\" OR *cmiller*)",
+   "short": "Charlie Miller",
+   "stickers": false
+  },
+  {
+   "blurb": "Jerry Moore's audience tapes from the 1970s, every song once before any repeats.",
+   "collection": "GratefulDead",
+   "credit": "Taped by Jerry Moore",
+   "credit_url": "https://archive.org/search?query=collection%3AGratefulDead+AND+taper%3A%28%22Jerry+Moore%22%29",
+   "fields": [
+    "taper",
+    "source",
+    "transferer",
+    "lineage"
+   ],
+   "id": "jerry-moore",
+   "match": "jerry moore",
+   "name": "Jerry Moore Radio",
+   "offsite": [],
+   "query": "taper:(\"jerry moore\") OR source:(\"jerry moore\") OR transferer:(\"jerry moore\") OR lineage:(\"jerry moore\")",
+   "short": "Jerry Moore",
+   "stickers": false
+  },
+  {
+   "blurb": "Rob Bertrando's audience tapes, every song once before any repeats.",
+   "collection": "GratefulDead",
+   "credit": "Taped by Rob Bertrando",
+   "credit_url": "https://archive.org/search?query=collection%3AGratefulDead+AND+%28taper%3A%28%2Abertrando%2A%29+OR+source%3A%28%2Abertrando%2A%29%29",
+   "fields": [
+    "taper",
+    "source",
+    "transferer",
+    "lineage"
+   ],
+   "id": "rob-bertrando",
+   "match": "bertrando",
+   "name": "Rob Bertrando Radio",
+   "offsite": [],
+   "query": "taper:(*bertrando*) OR source:(*bertrando*) OR transferer:(*bertrando*) OR lineage:(*bertrando*)",
+   "short": "Rob Bertrando",
+   "stickers": false
+  }
+ ]
+}

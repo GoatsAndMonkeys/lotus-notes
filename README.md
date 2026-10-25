@@ -7,6 +7,7 @@ A client needs only the base URL and the server's public key.
 Server key `8S5sc7cJpSpOBVnivFR9tA`: `WJqEYf19eeDyBbiEyvlsQTUnMwm8MRDTZ0JwvaxzUTY`
 
 - `BillyStrings/` Billy Strings: 2013–2026, 620 shows, 0 liner notes, notes in progress
+- `GratefulDead/` Grateful Dead: 1965–1995, 1855 shows, 686 liner notes, notes in progress
 - `KingGizzardAndTheLizardWizard/` King Gizzard & The Lizard Wizard: 2011–2026, 249 shows, 249 liner notes, ready
 - `MountainGoats/` The Mountain Goats: 1992–2026, 463 shows, 463 liner notes, ready
 - `MyMorningJacket/` My Morning Jacket: 1999–2026, 426 shows, 150 liner notes, notes in progress
