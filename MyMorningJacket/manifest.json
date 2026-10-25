@@ -4,6 +4,8 @@
   "citations": 1802,
   "liner_notes": 426,
   "posters": 0,
+  "radio_recordings": 491,
+  "radio_stations": 128,
   "recordings": 620,
   "shows": 426,
   "songs": 814,
@@ -32,6 +34,11 @@
    "sha256": "cc3912a50b90a539057f4dd277d0b32121715996897cb77b4a9e04dcdb6299c8"
   },
   {
+   "bytes": 196619,
+   "path": "radio/stations.json",
+   "sha256": "99b16588f3aa065d8dd527bbd1bbdc9cb4d0ae4accf1157f1a80b2c26964cd90"
+  },
+  {
    "bytes": 4241,
    "path": "radio/tapers.json",
    "sha256": "e61b079f4708a17e61e76fb49cbb696b9e66768458198dd4260e9a5debb2e865"
@@ -40,6 +47,11 @@
    "bytes": 982,
    "path": "radio/tours.json",
    "sha256": "fe427aa847c62f80034febeb57bd857e79ef7dfd059e861bc129e2eedb2dd349"
+  },
+  {
+   "bytes": 1141408,
+   "path": "radio/tracks.json",
+   "sha256": "d138f9e594ceee0d5cff0e4f5424e65f7e9d79a891f4ee5fb23d8c8ead1c1d06"
   },
   {
    "bytes": 21115,
@@ -2172,9 +2184,9 @@
    "sha256": "8121900fbe82d0931aa2bba3014f4c09cbe399354af2419f5e3b8edfe6790e41"
   },
   {
-   "bytes": 233330,
+   "bytes": 315436,
    "path": "shows/index.json",
-   "sha256": "accc33bb3534954f9966c394c378100e719f4c7d7f14a4d6deed87cc84bff192"
+   "sha256": "fdae555ccf15bd7f50de5cdcca8a705d2467432c8b88009e817ed3a77abf9b6f"
   },
   {
    "bytes": 863176,
@@ -2193,8 +2205,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T23:06:04+00:00",
+ "generated_at": "2026-10-25T23:41:26+00:00",
  "namespace": "my-morning-jacket",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",

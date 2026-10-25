@@ -4,6 +4,8 @@
   "citations": 2988,
   "liner_notes": 620,
   "posters": 0,
+  "radio_recordings": 749,
+  "radio_stations": 86,
   "recordings": 1095,
   "shows": 620,
   "songs": 2569,
@@ -32,6 +34,11 @@
    "sha256": "6b1a7d32ac8d6166abdf109295f464b9ca4e341aab0a3bc6c8c03736b0967b2a"
   },
   {
+   "bytes": 199415,
+   "path": "radio/stations.json",
+   "sha256": "f3e1fefd44c84a6ecbac2f20110d182163be53d5fc4c4457d025dc5fe32b6be6"
+  },
+  {
    "bytes": 4365,
    "path": "radio/tapers.json",
    "sha256": "5ae650fb9c57c82b3b20defaaf3616b17e0926b70ac0e4dcce734bce018aea47"
@@ -40,6 +47,11 @@
    "bytes": 1473,
    "path": "radio/tours.json",
    "sha256": "6e5a4e3f711e1a4830ff8921922af8c894177bf9c03cbfeb4b1b5c1c0e1fe05f"
+  },
+  {
+   "bytes": 2165057,
+   "path": "radio/tracks.json",
+   "sha256": "155bfa371521a7b702da9ec94b85af25141ac96143beddc7c3b142b3c86b0d43"
   },
   {
    "bytes": 22243,
@@ -3142,9 +3154,9 @@
    "sha256": "b1c56856f45cfe2f6ca73472cc8540077a2828b6472c20c39428cc9b83de4497"
   },
   {
-   "bytes": 360656,
+   "bytes": 619598,
    "path": "shows/index.json",
-   "sha256": "447edbf38313524fc433c6fc6c967cbdd3310790fe2f42f0dc23cd09da840aa7"
+   "sha256": "9f5a4b0eb5a9be95d1f2844d3ee76d3ce541f3c4203ad0e8f0c147e54bca9007"
   },
   {
    "bytes": 2006648,
@@ -3163,8 +3175,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T23:05:54+00:00",
+ "generated_at": "2026-10-25T23:39:03+00:00",
  "namespace": "billy-strings",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",

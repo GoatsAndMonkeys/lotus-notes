@@ -4,6 +4,8 @@
   "citations": 2690,
   "liner_notes": 717,
   "posters": 0,
+  "radio_recordings": 843,
+  "radio_stations": 172,
   "recordings": 1149,
   "shows": 717,
   "songs": 2294,
@@ -32,6 +34,11 @@
    "sha256": "c93bad765913556ccd44746611b3af279e9e4d06e034443032eded1ed3248301"
   },
   {
+   "bytes": 174335,
+   "path": "radio/stations.json",
+   "sha256": "38058d7167f5532fd98a8c6771d7b1612155676da1c61bcdd491cb49d3472877"
+  },
+  {
    "bytes": 4483,
    "path": "radio/tapers.json",
    "sha256": "bbb04f7daa55c85b25f1e906ffb2132311cbf0aa082036170c755bb91175fe0c"
@@ -40,6 +47,11 @@
    "bytes": 2090,
    "path": "radio/tours.json",
    "sha256": "8c227528ab4415ba9483f031a351000cb61792aa44c3f3ff635ba261aad4a428"
+  },
+  {
+   "bytes": 2995564,
+   "path": "radio/tracks.json",
+   "sha256": "b21e0144ff87879793807e40e278afe7e5813c12ec4ea6f08c9a5af4e9d6998e"
   },
   {
    "bytes": 22331,
@@ -3627,9 +3639,9 @@
    "sha256": "efe066da1efef715c721b0a121ccfc41928b78c5c682872a492fe2b09217688d"
   },
   {
-   "bytes": 365127,
+   "bytes": 523740,
    "path": "shows/index.json",
-   "sha256": "0d4532cbab1976b9ddf802e62247f7c839fa727e401c85b9517f59e63c573255"
+   "sha256": "71fe86ef37e4a440ef457a611f792eafdd302d4237923d0858d45553d58199be"
   },
   {
    "bytes": 1944376,
@@ -3648,8 +3660,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T23:06:17+00:00",
+ "generated_at": "2026-10-25T23:41:42+00:00",
  "namespace": "ween",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",

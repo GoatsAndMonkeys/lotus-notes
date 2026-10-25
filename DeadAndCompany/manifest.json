@@ -4,6 +4,8 @@
   "citations": 2773,
   "liner_notes": 330,
   "posters": 0,
+  "radio_recordings": 452,
+  "radio_stations": 29,
   "recordings": 874,
   "shows": 330,
   "songs": 1131,
@@ -14,6 +16,16 @@
    "bytes": 651326,
    "path": "collector.json",
    "sha256": "35d507d952560dd43f5e7d623eebc15d34a65c42962284fa3df8212978f2a7b8"
+  },
+  {
+   "bytes": 47935,
+   "path": "radio/stations.json",
+   "sha256": "301e710724115f50b7ac8ec063cecf52661bdf564e5f823f4e16946f705bdb43"
+  },
+  {
+   "bytes": 1115208,
+   "path": "radio/tracks.json",
+   "sha256": "396d45229925052023317c1952282d5ac63647eae0a0d5b055df68c1fad0b4de"
   },
   {
    "bytes": 169619,
@@ -1666,9 +1678,9 @@
    "sha256": "3ec016828ca6f95213816c8789b84f2612afc424c9525b29c01b62cffb8f1a6c"
   },
   {
-   "bytes": 198708,
+   "bytes": 261727,
    "path": "shows/index.json",
-   "sha256": "691d08b16d36262d7e865b16226bd81222abb84591c5d105bc274d4b89bc7e05"
+   "sha256": "048044eef33a3d4e60238536e4894855e542d00f0189b9ab31ec160fe0fa6f19"
   },
   {
    "bytes": 1011439,
@@ -1682,8 +1694,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T23:05:59+00:00",
+ "generated_at": "2026-10-25T23:39:06+00:00",
  "namespace": "grateful-dead",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",

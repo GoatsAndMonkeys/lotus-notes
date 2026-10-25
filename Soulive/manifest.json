@@ -4,6 +4,8 @@
   "citations": 1422,
   "liner_notes": 414,
   "posters": 0,
+  "radio_recordings": 493,
+  "radio_stations": 110,
   "recordings": 592,
   "shows": 414,
   "songs": 1362,
@@ -15,6 +17,16 @@
    "bytes": 518441,
    "path": "collector.json",
    "sha256": "ce5012b7531f5516d2daad6657217ac5d302c47202d1864040221ab32fb51fb6"
+  },
+  {
+   "bytes": 57785,
+   "path": "radio/stations.json",
+   "sha256": "e1bc5af5a775f22c19ea18a4eb34896b357df7a06aa2e431234bef59387c06d8"
+  },
+  {
+   "bytes": 826286,
+   "path": "radio/tracks.json",
+   "sha256": "a819931dc883d1ce8678a486647a87e5dcee4c1b9538a69c9f02365a5e9eff42"
   },
   {
    "bytes": 11955,
@@ -2087,9 +2099,9 @@
    "sha256": "0a6f4734bed04afd12487f0ddf99ed692b53d759bc14d415a6c295840dae1165"
   },
   {
-   "bytes": 216499,
+   "bytes": 300776,
    "path": "shows/index.json",
-   "sha256": "e667e852fe32d5c978cde5aa1468758ed12cb4db61145e1ad46e3b47ab92b382"
+   "sha256": "66c07b0f11082024dac4328316c2f5bf094c16c0c1256670c3e6f53d5de04b48"
   },
   {
    "bytes": 809536,
@@ -2108,8 +2120,9 @@
   }
  ],
  "format": "lotus-notes-pack",
+ "format_minor": 1,
  "format_version": 1,
- "generated_at": "2026-10-25T23:06:07+00:00",
+ "generated_at": "2026-10-25T23:41:29+00:00",
  "namespace": "soulive",
  "server": {
   "key_id": "8S5sc7cJpSpOBVnivFR9tA",
